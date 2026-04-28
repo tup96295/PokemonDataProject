@@ -1,0 +1,2563 @@
+{
+  "name": "Iron Crown",
+  "alias": "iron-crown",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "stats": [
+    90,
+    72,
+    100,
+    122,
+    108,
+    98
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Leveraging its high Special Attack and good coverage, Choice Specs Iron Crown is a strong wallbreaker that can 2HKO a number of the metagame's defensive options like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Tachyon Cutter being a multi-hit move lets Iron Crown OHKO Focus Sash <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> without activating Toxic Debris, break Multiscale on <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and deal significant damage to <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>. Psyshock is preferred to let Iron Crown take on specially defensive walls like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, while Psychic Noise can be used instead to prevent Pokemon like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> from healing in front of it. Volt Switch lets Iron Crown pivot out of Pokemon it would otherwise struggle against while also dealing significant damage to the likes of <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Focus Blast helps Iron Crown deal with Steel-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> and is its best option to damage <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>. Tera Steel increases the power of Tachyon Cutter, letting it 2HKO offensive <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> variants and OHKO fully HP invested Landorus-T most of the time, while Tera Fighting Focus Blast guarantees a 2HKO on Ting-Lu, as well as OHKOes <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> most of the time and guarantees an OHKO on <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Both Tera types also remove Iron Crown's weakness to Dark-type moves, improving its matchup against offensive Dark-types like Kingambit and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>.</p>\n<p>Choice Specs Iron Crown needs physically offensive teammates like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and Dragonite that can reliably remove specially defensive Pokemon like Ting-Lu and Blissey. In return, they benefit from Iron Crown being able to handle physical walls like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. Because Iron Crown will be consistently locked into one move, it's easier to revenge kill, so it needs defensive teammates such as Primarina and Landorus-T that can switch into faster offensive Pokemon like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and Zamazenta while also providing pivot support for Iron Crown. Alomomola is another good teammate for Iron Crown, pivoting it into favorable matchups and keeping it healthy with Wish. Gholdengo is especially annoying for Iron Crown, as it resists both of its STAB moves and can easily heal off damage, so teammates like Kingambit and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> that can easily take care of it are useful. Finally, Iron Crown benefits from entry hazard setters like Hisuian Samurott that can soften up foes and allow it to clean them up easier.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Assault Vest Iron Crown serves as a strong offensive pivot and sturdy check to a bevy of special attackers like Calm Mind <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Tachyon Cutter's multi-hit properties allow it to bypass <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>'s Focus Sash to OHKO it before it can set up any entry hazards. Future Sight's delayed damage puts a tremendous amount of pressure on the opposing team, since Dark-types switching in to block Future Sight or Steel-types and special walls trying to sponge the attack will have to survive powerful physical attacks from teammates like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>; Psychic Noise offers lower but more immediate damage while simultaneously nullifying recovery attempts from <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, allowing Iron Crown and its teammates to force significant damage against these threats. Focus Blast rounds out Iron Crown's coverage by hitting Kingambit, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and Tera Steel Clodsire super effectively, and it is also its strongest attack against opposing Iron Crown. Volt Switch allows Iron Crown to capitalize on its ability to force out most special attackers and gain momentum for its team and has great synergy with Future Sight by safely pivoting in the aforementioned powerful physical attackers that can take advantage of the chip damage or switches it forces. Assault Vest greatly boosts Iron Crown's special bulk, allowing it to better handle special attackers like Calm Mind Iron Valiant and Enamorus. Tera Fighting turns Iron Crown's weakness to Dark-type attacks into a resistance, allowing it to survive Kingambit's Sucker Punch in a pinch while boosting its Focus Blast to 2HKO Ting-Lu and physically defensive Corviknight; Tera Fairy also offers a Dark resistance, but the Dragon immunity, Fighting resistance, and Fairy neutrality it provides allow Iron Crown to better check <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and more reliably handle mixed and physical Iron Valiant sets without compromising its ability to check Calm Mind variants as heavily.</p>\n<p>Iron Crown is best run on bulky offense teams, which can both cover Iron Crown's defensive shortcomings and maintain a similar level of offensive pressure, often in the form of additional pivoting options to maintain momentum. Hisuian Samurott is a spectacular teammate; it can form a VoltTurn core with Iron Crown using Flip Turn, reliably set Spikes with Ceaseless Edge, and even remove Heavy-Duty Boots with its strong STAB Knock Off to allow the duo to rack up massive amounts of lasting damage through Spikes and Future Sight or Psychic Noise. The two share excellent defensive synergy, as Hisuian Samurott's Ghost and Dark resistances cover Dragapult, Gholdengo, and opposing Hisuian Samurott while Iron Crown's Grass and Fairy resistances cover <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and Iron Valiant. Ceaseless Edge and Knock Off have impeccable synergy with Future Sight, and Hisuian Samurott's Razor Shell hits Dark-types like Ting-Lu and Kingambit very hard, rendering Iron Crown's Future Sight much more difficult to switch in against. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> is another great teammate; it also forms a powerful VoltTurn core with Iron Crown, can blanket check most physical attackers with Intimidate and Rocky Helmet to complement Iron Crown's ability to blanket check most special attackers with Assault Vest, can set up Stealth Rock, and the two also boast impeccable defensive synergy courtesy of Iron Crown checking Ice Beam users like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> and Landorus-T checking physical Iron Valiant and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>. Together, Iron Crown, Hisuian Samurott, and Landorus-T form an extremely powerful core that resists every type in the game, utilizes multiple pivoting options, sets up both Stealth Rock and Spikes, and can blanket check many physical and special attackers alike. Calm Mind <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> is a good teammate that can run Psychic Noise itself, allowing Iron Crown to more freely run Future Sight, and can take advantage of Iron Crown's ability to wear down teams over time to set up for a late-game sweep once threats like Encore Iron Valiant are dealt with. Physically defensive <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> is another solid teammate, as it can reliably check most physical attackers by spreading burn with Will-O-Wisp and Flame Body and heavily punishes Dark-types like Kingambit and Hisuian Samurott and Steel-types like Gholdengo aiming to switch into Future Sight, and appreciates Iron Crown's ability to temporarily keep special attackers like Deoxys-S and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> at bay. Kingambit itself makes for a strong teammate, as with Iron Crown's Future Sight support, Kingambit has a much easier time both finding opportunities to set up with Swords Dance and muscle past physical walls like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, which are quickly overwhelmed by the combination of Future Sight and powerful Dark-type attacks possibly boosted further by Black Glasses, Tera Dark, and Supreme Overlord. Kingambit additionally resists Ghost- and Dark-type attacks from the likes of Gholdengo and opposing Kingambit lacking Low Kick, which Iron Crown greatly appreciates. Zamazenta and Weavile also greatly appreciate both Iron Crown's Future Sight support and its pivoting capabilities, allowing them to be brought in safely and giving them opportunities to fire off a powerful Body Press or Knock Off that, when paired with Future Sight, can prove nearly impossible to switch in against.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With solid bulk, a one-time Speed boost, and near-perfect coverage, Calm Mind Iron Crown is a solid sweeper and late-game cleaner. Tachyon Cutter has the benefit of hitting twice, allowing Iron Crown to OHKO common Focus Sash leads in <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a>, giving it an alternate use as an anti-lead that denies entry hazards. Tachyon Cutter also allows Iron Crown to break Substitutes while chipping the Pokemon hiding behind it; it can break <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>’s Substitute after one Calm Mind and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>’s without any Calm Mind boosts. After one Calm Mind, Iron Crown can hit several important ranges with Tachyon Cutter such as an OHKO on Kyurem and a good chance to KO offensive <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>; it also secures a 2HKO against defensive Landorus-T variants while not being 2HKOed by Earth Power. The choice of Psychic-type STAB move depends on the team's needs: Psyshock targets the lower Defense of <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, while Psychic Noise prevents walls such as <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> from spamming recovery to outlast Iron Crown. Stored Power is an option that can reach astonishing power levels, capable of breaking past almost any non-immune wall; however, it requires several turns of setup and has no benefit other than raw damage. Focus Blast complements Iron Crown's STAB combination by providing excellent neutral and super effective coverage against everything in the metagame except <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. It is Iron Crown's best way of hitting <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Steel-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. The EV spread maximizes Iron Crown's offensive capabilities while letting Booster Energy enhance its Speed; the leftover EVs are invested into HP for increased survivability, notably allowing Iron Crown to survive a Choice Specs Kyurem Earth Power. Tera Fighting and Tera Fairy remove Iron Crown's original weaknesses, most notably both turning its weakness to Dark-type moves such as Kingambit and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>’s Sucker Punch into a resistance to give it an easier time sweeping. Tera Fighting strengthens Iron Crown's Focus Blast, OHKOing <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> 2HKOing on Ting-Lu at +1. Tera Fairy is a more defensive Tera type that, unlike Tera Fighting, gives it fewer weaknesses. It further improves Iron Crown’s matchups against <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> by turning the Dragon resistance into an immunity.</p>\n<p>Calm Mind Iron Crown best fits on offense teams that appreciate its unique traits as a sweeper. Due to its low initial damage output, Iron Crown will struggle against bulky threats such as Ting-Lu, Galarian Slowking, and Gholdengo, which require significant chip damage for it to break through them. Teammates such as Hisuian Samurott and Ogerpon-W significantly threaten these bulky foes, and in return, Iron Crown can deal with Kyurem and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>. Iron Crown is also extremely vulnerable to many offensive threats, many of which can survive almost any hit from an unboosted Iron Crown such as Hisuian Samurott, Landorus-T, and Kingambit; they can either force a Tera or outright KO Iron Crown. Ogerpon-W and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> also resist Tachyon Cutter and threaten a clean 2HKO on Iron Crown. As such, Iron Crown appreciates pivots such as Pecharunt, which walls Ogerpon-W and weakens it with Parting Shot, and Alomomola, which can take hits from <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, Hisuian Samurott, and other physical threats and threaten a burn with Scald to enable Iron Crown set up on them. Furthermore, special walls like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> using Tera Dark completely wall Iron Crown, as Focus Blast does insufficient damage. Because of this, Iron Crown appreciates physically offensive teammates, such as Hisuian Samurott, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Zamazenta, that can deal with its checks; in return, they appreciate Iron Crown's removal of Fairy- and Fighting-type threats such as <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and Great Tusk. Hisuian Samurott and Great Tusk also set entry hazards to accumulate chip damage, which can compensate for this set's low initial power and allow Iron Crown to clean up or sweep earlier than expected.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 84,
+              "atk": 0,
+              "def": 0,
+              "spa": 172,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 408271,
+            "username": "Dreadfury"
+          },
+          {
+            "user_id": 439018,
+            "username": "Maia"
+          },
+          {
+            "user_id": 688041,
+            "username": "GrimtheImpy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 612443,
+                "username": "ninth"
+              },
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 260369,
+                "username": "TPP"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 513254,
+                "username": "SpZ"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Double Dance Sweeper (Psychic)",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Iron Crown is an amazing Stored Power setup sweeper for Psychic due to its access to multiple useful setup moves, like Calm Mind and Agility, and a type combination that lets it activate Weakness Policy easily. On top of that, its typing means it's immune to Toxic and also has important resistances to types such as Dragon and Fairy. Calm Mind and Agility allow Iron Crown to boost its stats and Stored Power while also punishing opponents that play passively, trying to stall out dual screens. Behind dual screens, Iron Crown survives attacks like Fiery Dance from Choice Specs <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, Earth Power from Life Orb <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>, and Knock Off from <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, allowing it to capitalize on its weaknesses by activating Weakness Policy and boosting the power of Stored Power. Additionally, after activating its Weakness Policy and using a single Agility, Iron Crown can take on walls like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a>, OHKOing the former after Stealth Rock damage and 2HKOing the latter; similarly, in this position, it makes quick work of offensive foes like Choice Band <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and -W. Tachyon Cutter is a secondary move that is meant to hit foes that are immune to Stored Power, such as Alolan Muk and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, and it also bypasses enemies with Focus Sash and Sturdy, such as <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>, respectively. Focus Blast can be used in place of Tachyon Cutter or Calm Mind to hit Steel-type foes, which resist Stored Power, and Dark-type foes, which are immune to it. Once Weakness Policy is activated, Focus Blast can eliminate special walls such as <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> after they are mildly chipped. However, it is considered risky, as Focus Blast can miss. A Timid nature is preferred, since it lets Iron Crown outspeed Choice Scarf Dragapult after an Agility. However, a Modest nature can also be considered, as it still outspeeds Choice Scarf Meowscarada after an Agility, and at +2 Special Attack, Iron Crown can OHKO Heatran.</p>\n<p><a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a> and <a href=\"/dex/sv/pokemon/scream-tail/monotype/\" hreflang=\"en\">Scream Tail</a> set up entry hazards and dual screens, allowing Iron Crown to survive hits and set up successfully. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> is immune to Ghost and sets Psychic Terrain for Iron Crown, shielding it from priority moves such as <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>'s Shadow Sneak and <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>'s Sucker Punch. It also provides Healing Wish support to bring Iron Crown back into shape if it gets worn down. Galarian Slowking assists Iron Crown by spreading poison through Toxic Spikes or Toxic, pressuring bulky special walls such as Ting-Lu, while also providing pivoting with Chilly Reception. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> prevents foes from setting up hazards, allowing Iron Crown to come in safely, and it can also help weaken Dark-types. <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> heavily damages special walls that trouble Iron Crown such as Heatran and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Additionally, Iron Boulder checks Fire-type threats such as Ogerpon-H, <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> while also dissuading Cinderace from using Court Change to steal dual screens. Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> overwhelms Iron Crown, but Choice Scarf Iron Boulder outspeeds it and removes it. <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> provides a switch-in to Ground-type moves thanks to its immunity to them, and it removes Dragon-type foes such as <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>. <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> helps in removing Ghost-types such as <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and Flutter Mane. <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a> chips opposing Fire-type threats such as <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> while also burning physical attackers, such as <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and Choice Band <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, and setup sweepers, like <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, with Scald. <a href=\"/dex/sv/pokemon/armarouge/monotype/\" hreflang=\"en\">Armarouge</a> removes Steel-type threats that resist Iron Crown's STAB moves, such as <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a> and <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, with the combination of Aura Sphere and Armor Cannon.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Agility",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Choice Specs (Steel)",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Iron Crown provides Steel teams breathing room against Fighting matchups, threatening intimidating foes such as <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>. Tachyon Cutter takes out threats like Focus Sash <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/mimikyu/monotype/\" hreflang=\"en\">Mimikyu</a>, which normally don't get OHKOed. Volt Switch makes Iron Crown a fast and offensive pivot, allowing it to pivot out of foes such as <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, which otherwise threaten a ton of damage. Volt Switch can also heavily dent Flying and Water teams, damaging foes like <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. Psychic allows Iron Crown to handle Fighting-type Pokemon like Urshifu-R, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, and Great Tusk. Focus Blast breaks through <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, which are hard to deal with for Steel teams.</p>\n<p><a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and Skarmory provide Iron Crown with a keen immunity to Ground-type moves. Corviknight removes entry hazards and offers a slow pivot through U-turn, whereas Skarmory sets hazards and phazes setup sweepers such as Swords Dance <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and Dragon Dance <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> handles physical attackers such as <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and exerts pressure on Dark-type foes such as <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, which threaten Iron Crown. Archaludon also spreads Thunder Wave to slow down fast foes like <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and sets Stealth Rock. Heatran provides an immunity to Fire-type moves from <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a> and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a> while also setting Stealth Rock. Gholdengo, due to Good as Gold, prevents foes such as <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> from slowing down Iron Crown through Thunder Wave and also provides a Fighting immunity. Hisuian Goodra, thanks to its sheer special bulk, provides a safe switch-in against strong special attacks from threats like Greninja and <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>. <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a> removes hazards and threatens Ground-types Pokemon such as <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, Landorus-I, and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>. With the help of priority in Sucker Punch, Bisharp shoves off Ghost-types such as <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. In return, Iron Crown deals with <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, Okidogi, and Great Tusk.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 667394,
+            "username": "July"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 598658,
+                "username": "Ultraman1"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 594972,
+                "username": "Murphy Lawden"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Fast Calm Mind Sweeper",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Iron Crown is one of the best sweepers of the tier that, thanks to Expanding Force, hits really hard even without boosts! With Booster Energy, Iron Crown outspeeds almost everything in the metagame, and while in Psychic Terrain, it can gain a significant advantage early-game or close games easily after Dark- and Steel-types in its path have been removed.</p>\n</li>\n<li>\n<p>Tachyon Cutter hits harder than Expanding Force when Psychic Terrain isn't up and helps against snow teams, OHKOing <a href=\"/dex/sv/pokemon/ninetales-alola/doubles/\" hreflang=\"en\">Alolan Ninetales</a> before it can set up Aurora Veil. Notably, its two-hit nature allows Iron Crown to remove Focus Sash Pokemon like <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/glimmora/doubles/\" hreflang=\"en\">Glimmora</a> with one move.</p>\n</li>\n<li>\n<p>Calm Mind makes Iron Crown hard to remove with special attackers, especially if it Terastallized, and also helps to KO bulkier Pokemon like Terastallized Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a>, Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a>, and <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a>.</p>\n</li>\n<li>\n<p>The EV spread is made to get the boost in Speed with Quark Drive while getting the maximum Special Attack possible, and the bulk investment is used to take a Flare Blitz from <a href=\"/dex/sv/pokemon/incineroar/doubles/\" hreflang=\"en\">Incineroar</a>.</p>\n</li>\n<li>\n<p>Iron Crown pairs perfectly with <a href=\"/dex/sv/pokemon/indeedee-f/doubles/\" hreflang=\"en\">Indeedee-F</a> by setting up Psychic Terrain, helping it set up Calm Mind with Follow Me, and enabling it with Helping Hand to pick up KOs on foes like Terastallized <a href=\"/dex/sv/pokemon/ogerpon-wellspring/doubles/\" hreflang=\"en\">Ogerpon-W</a> after a boost. Iron Crown appreciates Follow Me for setup, and for this reason, it's usually paired with Ogerpon-W or <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/doubles/\" hreflang=\"en\">Ogerpon-H</a>. Ogerpon-W helps in dealing with <a href=\"/dex/sv/pokemon/landorus/doubles/\" hreflang=\"en\">Landorus</a> and Fire-types like Incineroar and <a href=\"/dex/sv/pokemon/chi-yu/doubles/\" hreflang=\"en\">Chi-Yu</a>, which can threaten Iron Crown, while Ogerpon-H can remove Steel-types like Gholdengo and <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a>, which would otherwise prevent a sweep. Both <a href=\"/dex/sv/pokemon/ogerpon/doubles/\" hreflang=\"en\">Ogerpon</a> formes can also threaten <a href=\"/dex/sv/pokemon/ting-lu/doubles/\" hreflang=\"en\">Ting-Lu</a>, a foe that's otherwise hard to remove.</p>\n</li>\n<li>\n<p>Landorus is another Pokemon that helps to remove Steel- and Fire-types. <a href=\"/dex/sv/pokemon/tornadus/doubles/\" hreflang=\"en\">Tornadus</a> is great too, since it threatens Rillaboom with Bleakwind Storm and makes sure that Iron Crown is always the fastest Pokemon by matching the Tailwind from opposing Tornadus and <a href=\"/dex/sv/pokemon/roaring-moon/doubles/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p>Tera Psychic increases Expanding Force's damage output further, helping to get KOs and putting a lot of pressure on the opponent, especially after a Calm Mind. It also allows Iron Crown to take neutral damage from Landorus's Earth Power, Incineroar's Flare Blitz, and Ogerpon-H's Ivy Cudgel. Tera Dragon allows Iron Crown to wall both Ogerpon-W and Ogerpon-H's STAB moves and take neutral damage from Gholdengo's Shadow Ball and Dark-type moves from Kingambit and Chien-Pao. The added resistances are especially useful in the Rillaboom matchup, since the STAB boost from Tera Psychic isn't as relevant without Psychic Terrain.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Psychic",
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 52,
+              "atk": 0,
+              "def": 32,
+              "spa": 172,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 509849,
+            "username": "waffle2O2O"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 553122,
+                "username": "gephicka"
+              },
+              {
+                "user_id": 617069,
+                "username": "LogIce"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This Pokemon was relevant in Regulation G, but has been banned in the current ruleset, Regulation H. However, Regulation G will be returning in January 2025, where this analysis will be relevant again. Additionally, the sets below have not been updated for Regulation G yet.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>EV Spread</strong>: This gives Iron Crown a Speed boost with Quark Drive, and is faster than Jolly <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Water",
+            "Psychic",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Expanding Force",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 76,
+              "atk": 0,
+              "def": 4,
+              "spa": 172,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>44 HP / 36 Def / 172 SpA / 4 SpD / 252 Spe with Modest or Timid</strong>: This spread survives Jolly Punching Glove <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>'s Tera Water Surging Strikes, and Modest Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Shadow Ball if using Assault Vest.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Water",
+            "Grass",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Expanding Force",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Iron Crown is an excellent choice for offensive teams looking to take advantage of the powerful move Expanding Force thanks to its well-rounded stats and access to Booster Energy. It performs best against frailer offensive teams consisting of Pokemon that do not resist Expanding Force, such as <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a>, <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>.</p>\n</li>\n<li>\n<p>Although it can be used as a sweeper early-game to soften opposing teams, it is usually better to save Iron Crown for the late-game when its checks have been sufficiently weakened for it to sweep.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/indeedee-f/vgc24-regulation-f/\" hreflang=\"en\">Indeedee-F</a> is by far Iron Crown's best teammate, offering role compression as a Psychic Terrain setter and redirector. Access to Helping Hand also further amplifies its partner's ridiculous damage output.</p>\n</li>\n<li>\n<p>Iron Crown's best counters are Dark- and Steel-types, namely <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/archaludon/vgc24-regulation-f/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>, all of which resist both of Iron Crown's STAB moves.</p>\n</li>\n<li>\n<p>Therefore, Iron Crown appreciates Pokemon that can help remove these threats consistently, such as Landorus, <a href=\"/dex/sv/pokemon/entei/vgc24-regulation-f/\" hreflang=\"en\">Entei</a>, and Urshifu-R. In return, Iron Crown can pressure opposing Urshifu-R and <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> is another noteworthy check, as it is able to safely pivot in and override Psychic Terrain, weakening Expanding Force significantly. Other Pokemon with access to Ice Spinner like <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/dragonite/vgc24-regulation-f/\" hreflang=\"en\">Dragonite</a> can also be used to remove Psychic Terrain.</p>\n</li>\n<li>\n<p>Faster Pokemon like Chien-Pao and <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> serve as good checks as well, but they have to watch out for Follow Me from Indeedee-F as they are vulnerable to Tachyon Cutter.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Booster Energy",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Expanding Force is Iron Crown's go-to STAB move, allowing it to devastate foes under Psychic Terrain.</p>\n</li>\n<li>\n<p>Tachyon Cutter helps secure the OHKO on Pokemon like <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/whimsicott/vgc24-regulation-f/\" hreflang=\"en\">Whimsicott</a>, which commonly hold Focus Sash.</p>\n</li>\n<li>\n<p>Tera Water is a naturally good defensive typing that, when coupled with Tera Blast, gives Iron Crown an out against the aforementioned Dark- and Steel-type Pokemon, which otherwise counter it. Focus Blast can be used over Tera Blast to secure the OHKO on <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>, but is rather inconsistent and is unable to hit <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>.</p>\n</li>\n<li>\n<p>An alternative spread of 76 HP / 4 Def / 172 SpA / 4 SpD / 252 Spe allows Iron Crown to outspeed <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> and Chien-Pao thanks to Speed Booster Energy.</p>\n</li>\n<li>\n<p>This set can also be run with a Modest nature to maximize Iron Crown's damage output, at the risk of underspeeding opposing Pokemon in the same Speed tier such as Modest <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a> and both <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 435812,
+            "username": "Yuichi"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Double Dance",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tinted Lens",
+            "Well-Baked Body"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Agility",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 44,
+              "spe": 212
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Hadron Engine"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 224,
+              "spd": 0,
+              "spe": 36
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Double Dance",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>The combination of Calm Mind and Agility, which lets Iron Crown outspeed almost the entire metagame after just one use, gives it the potential to be a deadly setup sweeper. Stored Power gives Iron Crown scaling damage, letting it 2HKO offensive threats like <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> after one Agility and OHKO them after one Calm Mind with some chip damage. Additionally, it lets Iron Crown 2HKO specially defensive <a href=\"/dex/sv/pokemon/garchomp/almost-any-ability/\" hreflang=\"en\">Garchomp</a> and RegenVest <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> at +4, which can be easily achieved by letting its Weakness Policy activate. Furthermore, with one Agility boost and after Weakness Policy has activated or Calm Mind has been used twice, it lets Iron Crown OHKO even Psychic-resistant Pokemon like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> and 2HKO most RegenVest users, like <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>. Iron Crown is heavily reliant on setup moves to perform its role, so it is easily shut down by Taunt, can be stopped by dedicated special walls like <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/chansey/almost-any-ability/\" hreflang=\"en\">Chansey</a>, and needs teammates like <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/almost-any-ability/\" hreflang=\"en\">Ogerpon-H</a> that can handle them. A dual screens setter like Corviknight or <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a> is appreciated to help Iron Crown with both activating its Weakness Policy and setting up safely. Bulky Dark-types like <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a> and <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a> give Iron Crown a lot of trouble, so teammates like Galvanize <a href=\"/dex/sv/pokemon/kommo-o/almost-any-ability/\" hreflang=\"en\">Kommo-o</a> and Iron Hands are needed to remove them.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Agility",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 439018,
+            "username": "Maia"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 652656,
+                "username": "Gambit"
+              },
+              {
+                "user_id": 580765,
+                "username": "cat"
+              },
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Psychic Terrain Sweeper",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Take Heart",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              },
+              {
+                "move": "Make It Rain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 84,
+              "atk": 0,
+              "def": 0,
+              "spa": 172,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Stored Power",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy",
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Take Heart",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Agility",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 24,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 232
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Lumina Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 0,
+              "spa": 16,
+              "spd": 20,
+              "spe": 232
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Psychic Terrain Sweeper",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>EV spread gets a Speed boost from Quark Drive</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Water",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 84,
+              "atk": 0,
+              "def": 0,
+              "spa": 172,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Inh",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Levitate (Latios / Chimecho)",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Leftovers",
+            "Covert Cloak"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 4,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 3 onwards</p>\n<p><strong>Price Range</strong>: 11-12 points</p>\n<p><strong>Tera Price Range:</strong> 13-14 points</p>\n<p><strong>Overview</strong>: Iron Crown is an offensive Steel-type with a variety of setup and attacking sets. Opponents need to respect Booster Energy's setup potential as well as Choice Specs's wallbreaking power, which gives Iron Crown an overwhelming offensive presence. This becomes even more potent with access to Terastallization, making its sets even more unpredictable and difficult to handle. Also, Iron Crown can act as a solid pivot with its typing and access to Volt Switch, enabling powerful offensive teammates. However, it lacks some of the utility expected from a Steel- or Psychic-type Pokemon, most notably entry hazards, requiring teammates to provide that utility. It also has a relatively shallow movepool and often relies on Terastallization for type coverage.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Iron Crown will often use Booster Energy to boost its Speed alongside setup moves such as Calm Mind and Iron Defense for a late-game sweep. It can also boost its Special Attack and use Agility to outspeed foes.</p>\n<p><strong>Choice Item Attacker</strong>: This set is a great mix-up against opponents expecting a late-game setup sweeper. This allows Iron Crown to switch in multiple times and keep attacking, and it is often great when its STAB moves line up well in the matchup.</p>\n<p><strong>Pivot</strong>: Iron Crown can also make use of its good defensive typing and access to Volt Switch to pivot around foes. These pivot sets make use of Iron Crown's good Special Attack and powerful attacking moves to help make progress, and they commonly run Assault Vest or another defensive item to help check opposing threats.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Tachyon Cutter, Psyshock, Psychic, Psychic Noise</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Agility, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Substitute, Volt Switch</p>\n<p><strong>Coverage</strong>: Focus Blast, Air Slash, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Future Sight</strong>: Future Sight is a great option when Iron Crown is paired with a strong Fighting-type to force guaranteed KOs against opposing teams that cannot take moves of both types at the same time. Volt Switch enables this strategy as well by letting Iron Crown take the initiative to respond to a switch and bring in whatever Pokemon that will ensure a KO in that sequence. Note that having Future Sight as Iron Crown's only Psychic-type STAB move may enable certain foes to switch into it much more freely. This makes it a good option on Assault Vest sets, which have the moveslot to spare.</p>\n<p><strong>Stored Power</strong>: Stored Power is mostly used on either Weakness Policy sets or sets with multiple setup moves. The immediate power of other STAB moves typically makes them easier to use.</p>\n<h3>Common Items</h3>\n<p><strong>Booster Energy</strong>: Booster Energy gives Iron Crown an immediate stat boost, ideally in Speed, to either force KOs or force out foes and enable it to set up safely. Pairing Speed boosting with special setup and vice versa gives it a lot of potency as a late-game sweeper.</p>\n<p><strong>Choice Specs / Choice Scarf</strong>: Choice items are quite useful on Iron Crown, leveraging its high Special Attack to immediately threaten foes. The significance of using a Choice item over Booster Energy is that Iron Crown can switch out and still see the same level of power or Speed throughout the match.</p>\n<p><strong>Assault Vest</strong>: Assault Vest is a good option on a pivot set to enable Iron Crown to take more hits and stick around longer, utilizing Volt Switch to pivot safely to a teammate without sustaining much damage itself.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: Resistance Berries allow Iron Crown to trade favorably with certain foes and catch them off guard, but it often loses a lot of its value without an item to boost its stats.</p>\n<p><strong>Weakness Policy</strong>: Weakness Policy is an alternative way to boost Iron Crown's stats and can be paired with Agility to make Iron Crown a powerful offensive threat. However, this setup is less consistent than Booster Energy, requiring a super effective hit to come online.</p>\n<p><strong>Leftovers</strong>: Leftovers is a good choice on bulkier Iron Crown sets with Calm Mind, enabling it to stay healthy against more passive teams.</p>\n<h3>Tera</h3>\n<p>Iron Crown can benefit from being a Tera Captain, but it doesn't necessarily need it. This Pokemon is often drafted for its Steel typing, and it doesn't need Terastallization to function as much as some high-tier Tera Captains. That being said, if it is made a Captain, there are some notable benefits. The additional coverage from Tera Blast is often crucial for breaking through bulky Pokemon that resist its STAB moves. The other significant reason to make Iron Crown a Tera Captain is its low price point. It can be paired with other strong Tera Captains that cost 14-15 points, creating a nightmare for opponents to prepare for. Tera Ghost, Fire, and Fighting are all excellent offensive Tera types. Terastallizing into typings such as Water, Dragon, and Fairy can also give Iron Crown the defensive utility it often needs to set up freely.</p>\n<h3>Draft Strategy</h3>\n<p>Above all else, Iron Crown teams need to fill in utility roles elsewhere. Many typical drafts find a lot of their utility in Steel- and Psychic-type Pokemon, which Iron Crown simply doesn't provide. It is also important to play to Iron Crown's strengths by pairing up with strong offensive partners, so one teammate can enable the other.</p>\n<p><strong>Entry Hazard Setters</strong>: Iron Crown appreciates additional chip damage from entry hazards to help it wallbreak or sweep. Pokemon such as <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> are excellent partners in this role.</p>\n<p><strong>Fighting-types / Physical Attackers</strong>: A physical attacker, particularly a Fighting-type, is a great option to pair with Iron Crown offensively. The duo can cover each other's weaknesses, with one enabling the other depending on the matchup. Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, both <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu</a> formes, and <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a> can often fill this role well. Iron Crown also forms an effective VoltTurn core with <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, both Urshifu formes, and Sneasler, forcing a lot of chip damage and making positioning easier.</p>\n<p><strong>Strong Secondary Tera Captains</strong>: If Iron Crown is chosen as a Tera Captain, it often wants a teammate around the 14-15 point price range that can benefit a lot from Terastallization as well to force preparation. Pokemon such as <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/keldeo/draft/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/ceruledge/draft/\" hreflang=\"en\">Ceruledge</a>, <a href=\"/dex/sv/pokemon/annihilape/draft/\" hreflang=\"en\">Annihilape</a>, and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/draft/\" hreflang=\"en\">Ogerpon-C</a> are excellent choices.</p>\n<p><strong>Frail Wallbreakers</strong>: Iron Crown can also use a pivot set to enable glass cannon teammates to enter the field safely. Pokemon such as <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a> can all take advantage of this.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Steel- or Psychic-resistant Pokemon and Special Walls</strong>: Iron Crown often has trouble hitting several types of foes, including Dark-, Steel-, and Psychic-types. Pokemon such as Ting-Lu, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a> can easily switch into its STAB moves. It often needs to rely on the inaccurate Focus Blast or set its Tera type to combat these foes.</p>\n<p><strong>Phazing</strong>: Given that Iron Crown often runs Booster Energy, many foes run phazing moves such as Roar and Whirlwind to stop its setup sets.</p>\n<p><strong>Fast Revenge Killers / Priority</strong>: Iron Crown's merely decent Speed often leaves it vulnerable to Choice Scarf users, and its Tera type needs to be selected carefully to let it take hits from priority moves. Pokemon such as Meowscarada, <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a> can pose a threat to Iron Crown's setup.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 304744,
+            "username": "StreetCredCookie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 613460,
+                "username": "vmnunes"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Stored Power (HP, Def, SpA, SpD)",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Agility",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Mix and Mega",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special Attacker",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Absolite",
+            "Diancite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Fast Weakness Policy",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Fast Weakness Policy Iron Crown aims to switch up otherwise disadvantageous matchups such as <a href=\"/dex/sv/pokemon/haxorus/1v1/\" hreflang=\"en\">Haxorus</a> as well as Choice Band Ground-types such as <a href=\"/dex/sv/pokemon/landorus-therian/1v1/\" hreflang=\"en\">Landorus-T</a> by boosting itself with Iron Defense, then obtaining a Weakness Policy boost to threaten an OHKO on the next turn with Stored Power.</li>\n<li>Tachyon Cutter is Iron Crown's best Steel-type STAB move, being able to immediately pressure Fairy-Type Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a>. Tachyon Cutter has other niches in breaking foes' Substitute, such as against SubSeed <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/serperior/1v1/\" hreflang=\"en\">Serperior</a>.</li>\n<li>Upon activation of Weakness Policy, Stored Power's Base Power increases by 80. Combined with any prior boosts Iron Crown may have obtained, this makes Stored Power its strongest Psychic-type STAB option.</li>\n<li>Psyshock can be used to disrupt the matchup versus other Calm Mind users that resist Stored Power such as opposing Iron Crown and <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a>, albeit using Psyshock may miss out on important KOs that Stored Power would otherwise obtain.</li>\n<li>Psychic Noise may be used to prevent recovery moves from Pokemon such as Cresselia that would otherwise be able to deal with Iron Crown. Psychic Noise also deals additional damage to Iron Valiant and <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a> compared to Iron Crown's other Psychic-type options.</li>\n<li>Calm Mind is used in matchups versus special attacking Pokemon such as <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a> and Cresselia in order to boost up Iron Crown's Special Attack and Special Defense to a point where it does not take much damage from their attacks while threatening KOs with Tachyon Cutter and Stored Power.</li>\n<li>The EVs are used to outspeed maximum Speed Haxorus and to tie the mirror matchup versus opposing Iron Crown. The bulk is meant to tank an Adamant Choice Band <a href=\"/dex/sv/pokemon/great-tusk/1v1/\" hreflang=\"en\">Great Tusk</a> Headlong Rush after one Iron Defense.</li>\n<li>An alternative EV spread of 96 HP / 112 Def / 48 SpA / 252 Spe with a Timid Nature can be used to have a slightly better chance against <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a> with Tachyon Cutter after a Weakness Policy boost while still surviving Choice Band Great Tusk's Headlong Rush. However, this makes Iron Crown less reliable into Choice Specs Primarina.</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 12,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive Weakness Policy",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Defensive Weakness Policy Iron Crown uses Iron Defense and Calm Mind to boost its defenses to survive strong hits and KO back with Weakness Policy-boosted Stored Power.</li>\n<li>Stored Power obtains a massive boost in Base Power when combined with Weakness Policy and stat-boosting moves.</li>\n<li>Alternatively, Psyshock can be used for matchups Pokemon that have enough Special Defense to not be threatened by Stored Power, such as <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a> and Pokemon that Iron Crown can't boost in front of like <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a>.</li>\n<li>Tachyon Cutter is hits Fairy-types such as <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a> and Iron Valiant, and can break Substitute from Pokemon such as <a href=\"/dex/sv/pokemon/serperior/1v1/\" hreflang=\"en\">Serperior</a>.</li>\n<li>Calm Mind is used for matchups where boosting Special Attack and Special Defense is necessary, such as against Assault Vest <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/1v1/\" hreflang=\"en\">Ursaluna-B</a>.</li>\n<li>The HP and Defense EVs allow Iron Crown to have a 75% chance to survive Adamant Choice Band <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a>'s Knock Off in order to kill it with +2 Tachyon Cutter, as well as having favorable rolls to survive two Choice Band <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a>'s Earthquake to boost with Iron Defense up to +4 and KO with Stored Power. The remaining EVs are placed in Speed for the mirror matchup and to base 50 speed Pokemon such as Ursaluna.</li>\n<li>36 Speed EVs can be used instead to outspeed Max Speed <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>.</li>\n<li>While this set is able to bulk many attacks, it is notably slower than faster Choice Band users like <a href=\"/dex/sv/pokemon/landorus-therian/1v1/\" hreflang=\"en\">Landorus-T</a>, making Defensive Iron Crown lose the matchup against them. Faster teammates that can deal with these Pokemon are ideal, such as attackers like Meowscarada.</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 240,
+              "spa": 0,
+              "spd": 0,
+              "spe": 28
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Specially Defensive Weakness Policy",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>This specially defensive EV spread allows Weakness Policy Iron Crown to take special hits from very powerful special attackers such as Timid Choice Specs <a href=\"/dex/sv/pokemon/darkrai/1v1/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a>, and Choice Specs <a href=\"/dex/sv/pokemon/dragapult/1v1/\" hreflang=\"en\">Dragapult</a>.</li>\n<li>Psyshock is vital for matchups such as Calm Mind Raging Bolt, <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a>, as it helps hit the weaker physical side on the former and assists against Disable variants on the latter two.</li>\n<li>The Defense EVs let Iron Crown survive Adamant Choice Band Knock Off from <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a>, while the Special Defense is enough to survive two Thunderbolts into a Thunderclap from Raging Bolt after a Calm Mind boost, since it would use Taunt on Iron Crown on the first turn. The Special Attack investment is enough to OHKO <a href=\"/dex/sv/pokemon/haxorus/1v1/\" hreflang=\"en\">Haxorus</a> with Tachyon Cutter after the Special Defense drop from Close Combat.</li>\n<li>This Iron Crown set can struggle a lot against opposing Iron Crown due to the lack of Stored Power and matches up poorly against common Fire- and Ground-types and other miscellaneous threats like <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a> and <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>, so it's recommended to utilize strong partners such as Air Balloon <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a>.</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 232,
+              "atk": 0,
+              "def": 48,
+              "spa": 40,
+              "spd": 188,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Special Attack Booster Energy",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Calm Mind allows Iron Crown to compete with Pokemon like <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a>, and opposing Iron Crown.</li>\n<li>Psyshock enables Iron Crown to hit specially defensive foes, empowers it against Calm Mind users such as Weakness Policy Iron Crown and Clear Amulet Cresselia, and is important against <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a>.</li>\n<li>Tachyon Cutter exerts pressure on Fairy-type foes like <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a>.</li>\n<li>Focus Blast lets Iron Crown take on foes including <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/1v1/\" hreflang=\"en\">Ursaluna-B</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a>. Alternatively, Psychic Noise can be used to check foes that rely on recovery moves, especially <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a> and Clear Amulet Cresselia. Moreover, Stored Power + Calm Mind allows Iron Crown to handle foes like <a href=\"/dex/sv/pokemon/manaphy/1v1/\" hreflang=\"en\">Manaphy</a>. Finally, Psychic allows Iron Crown to deal increased damage to foes such as <a href=\"/dex/sv/pokemon/iron-hands/1v1/\" hreflang=\"en\">Iron Hands</a> and Speed Booster Energy <a href=\"/dex/sv/pokemon/walking-wake/1v1/\" hreflang=\"en\">Walking Wake</a>.</li>\n<li>The bulk EVs allow Iron Crown to survive Knock Off from Adamant Choice Band <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a> and Hydro Cannon from Timid Choice Specs <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, with the rest of the EVs being put into Special Attack.</li>\n<li>Primarina is a great partner for Iron Crown, since Iron Crown is weak to Ground- Fire- and Dark-type attacks from foes like <a href=\"/dex/sv/pokemon/landorus/1v1/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/urshifu/1v1/\" hreflang=\"en\">Urshifu-S</a>; in return, Iron Crown provides an immunity to Poison. On top of this, Iron Crown's weakness to Ghost-type attacks can be remedied by using other Dark-types, such as <a href=\"/dex/sv/pokemon/roaring-moon/1v1/\" hreflang=\"en\">Roaring Moon</a>.</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Stored Power",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 200,
+              "atk": 0,
+              "def": 0,
+              "spa": 236,
+              "spd": 72,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Speed Booster Energy",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>This set relies on outspeeding key threats such as <a href=\"/dex/sv/pokemon/chien-pao/1v1/\" hreflang=\"en\">Chien-Pao</a> and Speed Booster Energy <a href=\"/dex/sv/pokemon/great-tusk/1v1/\" hreflang=\"en\">Great Tusk</a>, using the Speed boost from Booster Energy to flip otherwise unfavorable matchups for Iron Crown.</li>\n<li>Psychic is Iron Crown's strongest Psychic-type STAB move, which allows it to hit Pokemon like <a href=\"/dex/sv/pokemon/iron-hands/1v1/\" hreflang=\"en\">Iron Hands</a> and Great Tusk. On the other hand, Psyshock is the best option against Pokemon like <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a>, where both Pokemon typically use Calm Mind six times.</li>\n<li>The HP and Defense EVs allow Iron Crown to tank an Earthquake from Adamant Choice Band Iron Hands and a Hydro Cannon from +3 Torrent <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a> at +4 Special Defense. The Speed EVs help it outspeed <a href=\"/dex/sv/pokemon/porygon-z/1v1/\" hreflang=\"en\">Porygon-Z</a>, and the remaining EVs are invested in Special Attack.</li>\n<li>Because Fire- and Dark-type Pokemon like <a href=\"/dex/sv/pokemon/darkrai/1v1/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/skeledirge/1v1/\" hreflang=\"en\">Skeledirge</a>, <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a>, and <a href=\"/dex/sv/pokemon/iron-moth/1v1/\" hreflang=\"en\">Iron Moth</a> are difficult for Iron Crown to deal with by itself, Primarina and <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a> work as good partners for Iron Crown.</li>\n</ul>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 180,
+              "atk": 0,
+              "def": 56,
+              "spa": 80,
+              "spd": 0,
+              "spe": 192
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 149971,
+            "username": "Nuxl"
+          },
+          {
+            "user_id": 563650,
+            "username": "bern"
+          },
+          {
+            "user_id": 667394,
+            "username": "July"
+          },
+          {
+            "user_id": 669997,
+            "username": "Spenceair"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 503725,
+                "username": "clerica"
+              },
+              {
+                "user_id": 519863,
+                "username": "Blanched"
+              },
+              {
+                "user_id": 546922,
+                "username": "bo_bobson27"
+              },
+              {
+                "user_id": 579035,
+                "username": "glitched"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 500233,
+                "username": "Frailty"
+              },
+              {
+                "user_id": 563650,
+                "username": "bern"
+              },
+              {
+                "user_id": 579035,
+                "username": "glitched"
+              },
+              {
+                "user_id": 316445,
+                "username": "lost heros"
+              },
+              {
+                "user_id": 481149,
+                "username": "bea"
+              },
+              {
+                "user_id": 670315,
+                "username": "Mentality"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527157,
+                "username": "Kiwi"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 712558,
+                "username": "waffledogefern"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Setup Sweeper",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Functioning as a niche setup sweeper, Iron Crown can leverage its good natural bulk and excellent coverage to effectively sweep. Psychic Noise is used to prevent healing from foes such as <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a> while being a more reliable STAB option when Iron Crown is not yet set up. As an alternative, Stored Power can be used in conjunction with Iron Defense in order to make Iron Crown a threatening Double Dance sweeper. Focus Blast is used to hit Steel-types such as <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, which could otherwise comfortably take its STAB moves. Tachyon Cutter is used to hit Fairy-types such as <a href=\"/dex/sv/pokemon/hatterene/national-dex/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, which would otherwise be able to switch in on Iron Crown. Iron Defense boosts the power of Stored Power while also making Iron Crown more resistant against physical attackers such as <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, and <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a>, letting it turn them into setup fodder. 172 Special Attack EVs are used in order to grant Iron Crown Quark Drive's Speed boost with Booster Energy, letting it outspeed most foes.</p>\n<p>This Iron Crown set fits exclusively on hyper offense teams where its ability to clean late-game is appreciated. Due to often lacking the bulk to set up reliably, dual screens support from teammates such as Zamazenta and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> are appreciated, with the latter also activating its Quark Drive, potentially enabling Iron Crown to run a different item. Another good teammate is Tapu Lele, as Psychic Terrain provides Iron Crown with an immunity to priority moves from foes such as <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and also boosts the power of its Psychic-type moves. In return, Iron Crown can threaten foes such as Hatterene and opposing Tapu Lele. Iron Crown struggles to beat <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, meaning Fire-type teammates that can threaten it such as <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex/\" hreflang=\"en\">Mega Charizard X</a> are appreciated. In return, Iron Crown can threaten <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> and set up on <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a> for them, as both of them could otherwise come in on these Fire-types comfortably. Iron Crown also struggles with Ground-types such as Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and Gliscor, meaning Flying-types such as Dragonite and your own Landorus-T make excellent teammates; Landorus-T also effectively damages Steel-types, making it easier for Iron Crown to sweep. Iron Crown can repay Landorus-T by breaking through Flying-types such as <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a>, which would otherwise be able to wall it. Iron Crown struggles to beat <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>, meaning Fighting-type teammates such as Zamazenta and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a> are appreciated, with Iron Crown in return beating Fairy-types such as <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a> and Hatterene. Dark-types like Kingambit and <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a> also make great partners, with both being able to threaten Iron Crown's main answer in Gholdengo and Hisuian Samurott also setting up Spikes to let Iron Crown break teams with greater ease.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 84,
+              "atk": 0,
+              "def": 0,
+              "spa": 172,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Assault Vest Iron Crown functions as a niche defensive pivot; with the item's boost, it can leverage its high Special Defense to be able to reliably switch in on and answer foes such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>, and Calm Mind <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>. Psychic Noise prevents healing from foes such as <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, and Iron Defense + Body Press <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, which often carries Substitute. Volt Switch lets Iron Crown pivot out of bad matchups while also having the bonus of hitting foes such as <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a> decently hard. Focus Blast is used to hit Steel-type targets such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> for meaningful damage. On Electric Terrain teams, an EV spread with 172 Special Attack EVs can be used in order to grant Iron Crown with a Speed boost under Electric Terrain courtesy of Quark Drive, letting it outspeed the entirety of the unboosted tier.</p>\n<p>Assault Vest Iron Crown fits primarily on bulky offense and offense teams, where its ability to check foes such as Tapu Lele and special Iron Valiant is greatly appreciated. Teammates that are vulnerable to the aforementioned Fairy-types, such as <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a>, all value Iron Crown's defensive capabilities. In return, all three can effectively pressure opposing Steel-types such as Heatran and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>. Iron Crown struggles with Ground-type foes such as Garchomp, <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, meaning Flying-type teammates such as Zapdos and Moltres are appreciated. In return, Iron Crown can be a good switch-in against Electric-types such as Raging Bolt and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a>, which could otherwise threaten them. Iron Crown also struggles to break bulky Dark-types such as <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>; therefore, Fighting-types like Zamazenta, Iron Valiant and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a> can make good teammates. Iron Crown can support them by being a reliable answer to Psychic- and Fairy-types, including the aforementioned Tapu Lele and Iron Valiant, as well as pivoting them in against Steel-types such as Ferrothorn. Tapu Koko can also make an excellent partner due to its ability to set Electric Terrain, allowing Iron Crown to be able to outspeed and threaten foes such as Choice Scarf Urshifu-R and Zamazenta, while also forming a pivoting core with it. Landorus-T and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> also form an excellent defensive core with Iron Crown, with Iron Crown being able to switch in on threats such as Tapu Lele and, in turn, these allies being good answers to common Ground-types such as Gliscor and opposing Landorus-T.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 84,
+              "atk": 0,
+              "def": 0,
+              "spa": 172,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 632421,
+            "username": "Medasus"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 471780,
+                "username": "Solaros & Lunaris"
+              },
+              {
+                "user_id": 674261,
+                "username": "Interlinked"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind (Psychic)",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Iron Crown charges into battle on offensive Psychic teams as a threatening Calm Mind setup sweeper with a useful defensive typing and decent bulk. With Calm Mind, Agility, and Stored Power, Iron Crown can quickly snowball out of control and muscle its way through Psychic-resistant foes while outrunning would-be revenge killers such as <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> and Landorus-I. Weakness Policy is Iron Crown's preferred item, as activating it hugely increases Stored Power's Base Power without requiring multiple turns of setup. Once boosted, Iron Crown can easily use Tachyon Cutter to trample Steel-weak teams like Fairy, Rock, and Ice, while Stored Power blasts through teams typically lacking specially bulky Psychic-resistant or -immune Pokemon like Electric and Ground lacking <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a>. Focus Blast can lure specially defensive phazers that usually stop Iron Crown like Ting-Lu, <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/empoleon/national-dex-monotype/\" hreflang=\"en\">Empoleon</a>. Iron Crown's EVs allow it to activate Speed Quark Drive in Electric Terrain, which is very useful to outspeed fast Electric types like <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a> that typically use Electric-type attacks freely against Psychic teams. Iron Crown greatly appreciates dual screens support, so a dedicated setter like <a href=\"/dex/sv/pokemon/deoxys-speed/national-dex-monotype/\" hreflang=\"en\">Deoxys-S</a> is a great help. With dual screens active, Iron Crown can survive and activate Weakness Policy against dangerous attacks like <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>'s Never-Ending Nightmare, <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>'s Flamethrower, and Choice Band <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>'s Earthquake. <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> is another notable partner, as it provides Psychic Terrain, blocking dangerous priority moves that could threaten Iron Crown like Sucker Punch and Shadow Sneak. In return, Iron Crown provides a switch-in to Poison-type moves targeting Tapu Lele and helps break through shared checks like <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>. <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a> is another synergistic teammate that clobbers threats to Iron Crown like Hisuian Goodra, <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/bisharp/national-dex-monotype/\" hreflang=\"en\">Bisharp</a>. In turn, Iron Crown can break through physical walls that frustrate Mega Gallade like <a href=\"/dex/sv/pokemon/dondozo/national-dex-monotype/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/quagsire/national-dex-monotype/\" hreflang=\"en\">Quagsire</a>, and <a href=\"/dex/sv/pokemon/slowbro/national-dex-monotype/\" hreflang=\"en\">Slowbro</a>. <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a>, sporting a Ground immunity and a Fire-type resistance, can not only cover these weaknesses for Iron Crown, but also can utilize Healing Wish to get it back in the race if a previous sweep attempt was halted via damage or status.</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Agility",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 84,
+              "atk": 0,
+              "def": 0,
+              "spa": 172,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs (Steel)",
+          "pokemon": "Iron Crown",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 20,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 196007,
+            "username": "Wafflecopter2000"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 196007,
+                "username": "Wafflecopter2000"
+              },
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Air Slash",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Calm Mind",
+    "Confusion",
+    "Double-Edge",
+    "Electric Terrain",
+    "Endure",
+    "Expanding Force",
+    "Facade",
+    "Flash Cannon",
+    "Focus Blast",
+    "Future Sight",
+    "Giga Impact",
+    "Gravity",
+    "Heavy Slam",
+    "Hyper Beam",
+    "Iron Defense",
+    "Iron Head",
+    "Leer",
+    "Metal Burst",
+    "Metal Claw",
+    "Metal Sound",
+    "Protect",
+    "Psychic",
+    "Psychic Noise",
+    "Psycho Cut",
+    "Psyshock",
+    "Quick Guard",
+    "Rest",
+    "Sacred Sword",
+    "Scary Face",
+    "Slash",
+    "Sleep Talk",
+    "Smart Strike",
+    "Solar Blade",
+    "Steel Beam",
+    "Stored Power",
+    "Substitute",
+    "Supercell Slam",
+    "Swords Dance",
+    "Tachyon Cutter",
+    "Take Down",
+    "Tera Blast",
+    "Volt Switch",
+    "X-Scissor",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "name": "Vivillon",
+  "alias": "vivillon",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "stats": [
+    80,
+    52,
+    50,
+    90,
+    50,
+    89
+  ],
+  "strategies": [
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<h3>Bug</h3>\n<p>Vivillon has one powerful trick, Sleep Powder with its accuracy boosted thanks to Compound Eyes, which nearly guarantees that it will be leading the game off and inflicting sleep for strong early momentum. However, as direct competition to Bug's other special attacking options, even ignoring <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, Vivillon stands out as especially outclassed. <a href=\"/dex/sv/pokemon/frosmoth/monotype/\" hreflang=\"en\">Frosmoth</a> with the right support can freeze Flying, Ground, and Dragon teams into a fine mist, while Choice Specs <a href=\"/dex/sv/pokemon/yanmega/monotype/\" hreflang=\"en\">Yanmega</a> helps out greatly in breaking Poison teams. Even then, physically attacking Bug-types like <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a> are often better anyway, able when paired together to overwhelm checks like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<h4>Bug</h4>\n<p>Quiver Dance serves as an alternative option over Tailwind, as Vivillon can make use of the free turns granted by Sleep Powder or attempts to mitigate it through the likes of Protect from <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> to start setting up and break through a team, notably allowing Vivillon to clean through Fighting teams if it is able to get going. However, such sets are stuck realistically with only Flying-type attacks for reliable offensive pressure, rendering them useless against status absorbers like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and incapable of threatening Steel- and Electric-types long term.</p>",
+      "movesets": [
+        {
+          "name": "Status Utility (Bug)",
+          "pokemon": "Vivillon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Focus Sash Vivillon finds a singular niche on Bug teams due to its wide variety of status moves and Compound Eyes allowing it to often lead off and immediately make progress. Hurricane deals with annoying Fighting- and Bug-types such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a> as long as its Focus Sash is still intact. Sleep Powder shuts down opposing leads such as <a href=\"/dex/sv/pokemon/araquanid/monotype/\" hreflang=\"en\">Araquanid</a> and <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, letting Vivillon then use Stun Spore to threaten switch-ins like <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>. Finally, Tailwind offers additional speed control as Vivillon goes down to enable teammates such as <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, which can use Dual Wingbeat to remove the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>.</p>\n<p>Setup sweepers such as Swords Dance Scizor and Quiver Dance <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a> greatly appreciate the free turns granted by Vivillon's Sleep Powder, giving them a much easier time to set up. Both can also check threats for Vivillon should it be used outside of the lead slot, with Scizor handling Rock- and Fairy-types like Kleavor, <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and Volcarona melting through Steel-types like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>. Choice Scarf Kleavor provides Stealth Rock support through Stone Axe along with eliminating Fire-types like Volcarona and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, and it greatly appreciates the Stun Spore and Tailwind support to outspeed opposing Choice Scarf users like <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>. <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a> can remove Stealth Rock with Rapid Spin to preserve Vivillon's Focus Sash while also bringing it in safely with Volt Switch should its talents be needed later in a game. Furthermore, when equipped with Rocky ​Helmet, Forretress can deal with threats attempting to counterlead Vivillon such as non-Punching Glove Urshifu-R and Triple Axel <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. Araquanid provides Sticky Web, reducing the need for Tailwind in the first place and allowing Vivillon to get the jump on the likes of Choice Band <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and non-Choice Scarf Urshifu-R. Lokix utilizes First Impression to easily remove Meowscarada and Iron Boulder while also using Knock Off to check Gholdengo.</p>",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stun Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 242745,
+                "username": "ego"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>\n<p>Vivillon works well on offensive teams, acting as a fast sleep support Pokemon while still hitting hard into defensive pieces like <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a>. Sleep Powder can shut down slower foes such as <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a> and <a href=\"/dex/sv/pokemon/primarina/vgc/\" hreflang=\"en\">Primarina</a>, keeping the momentum for offensive threats like <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a>. Vivillon also works well on balance, specifically with <a href=\"/dex/sv/pokemon/porygon2/vgc/\" hreflang=\"en\">Porygon2</a>, redirecting or shutting down attacks for Porygon2 while also sitting next to <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> as it uses Earthquake.</p>\n</li>\n<li>\n<p>Thanks to Vivillon's Flying typing, it can be used next to Garchomp and its easily spammable Earthquake amazingly. Earthquake also forces threats such as <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a> to go for Tera Grass, which then opens up Vivillon to hit hard with Hurricane. Vivillon can also put foes to sleep for Garchomp, which sets it apart from other Flying-types. <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a> is another solid partner for Vivillon, benefiting from redirection.</p>\n</li>\n<li>\n<p>Vivillon loses to <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a> and Annihilape as a duo, as Annihilape threatens Vivillon after it Terastallizes, and Maushold can shut down Vivillon by outspeeding it and using Taunt. It can also struggle with Maushold and Archaludon as a duo, with Maushold this time threatening Population Bomb as well as Taunt while Archaludon can take down Vivillon with Electro Shot, Flash Cannon, and Draco Meteor. Garchomp and Gholdengo can patch up these holes; Garchomp's Earthquake hits hard into all of the aforementioned foes, while Gholdengo can do the same with Shadow Ball and Make It Rain. Garchomp also has the added benefit of Rough Skin, damaging Maushold for attacking.</p>\n</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>\n<p>Vivillon's main role is to put things to sleep with high Speed, hit decently hard, and redirect attacks to protect allies. Vivillon really shines when next to Garchomp, putting slower foes likes <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a> to sleep and redirecting attacks such as Moonblast from Primarina and Draco Meteor from <a href=\"/dex/sv/pokemon/hydreigon/vgc/\" hreflang=\"en\">Hydreigon</a>.</p>\n</li>\n<li>\n<p>Vivillon can be used best in early-game situations and works really well in the lead or even in the back next to Gholdengo, spamming Sleep Powder while Gholdengo uses Make It Rain or using Rage Powder to allow Gholdengo to set up and sweep. Vivillon can also be used next to Primarina, with Hyper Voice and Sleep Powder forcing Tera Grass from foes such as <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>, which can then allow Vivillon to hit hard with Hurricane.</p>\n</li>\n<li>\n<p>Vivillon can struggle with Pokemon like Incineroar chipping it down and breaking Focus Sash, and smart pivoting into Grass-types or Safety Goggles Pokemon can make it hard for Vivillon to do its job. For this, Incineroar can work to remove Safety Goggles with Knock Off and KO Grass-types with Flare Blitz. Tera Ghost is also great at preserving Focus Sash, while Protect and good pivoting of your own can help as well.</p>\n</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Vivillon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Vivillon is a very good support Pokemon, providing redirection and fast sleep while dealing good damage. Compound Eyes helps make Vivillon more consistent as a support Pokemon, making Hurricane and Sleep Powder more accurate.</p>\n</li>\n<li>\n<p>Hurricane does good damage to foes such as <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> as well as hitting common Tera Grass users like <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>, which are forced to Terastallize due to Sleep Powder. Rage Powder, even with Vivillon's low bulk, is able to soak up one or two attacks for allies such as <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n<li>\n<p>Focus Sash compensates for Vivillon's rather poor defensive stats, granting more turns for it to support its team, specifically allowing for more sleep opportunities.</p>\n</li>\n<li>\n<p>Tera Ghost denies Fake Out from foes like Rillaboom and <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> and Extreme Speed from <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>, which helps with Vivillon's survivability, as it stops Focus Sash from being broken.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 650323,
+            "username": "pengu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 8</p>\n<p><strong>Price Range</strong>: 1 point</p>\n<p><strong>Overview</strong>: Vivillon is an incredibly frail Quiver Dance sweeper that is outclassed by practically every other low-point Quiver Dance sweeper in almost every way. Compound Eyes provides its niche, boosting the accuracy of Sleep Powder, which gives it more turns to safely set up, as well as Hurricane. Regardless, it is often too slow to safely set up and too weak to sweep, even with multiple boosts. Additionally, its total inability to hit Steel-types for neutral damage without being a Tera Captain makes it tough to justify.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Quiver Dance breathes the only life Vivillon has into it, and with it, it can attempt to sweep teams.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Bug Buzz, Hurricane</p>\n<p><strong>Setup Moves</strong>: Quiver Dance, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Sleep Powder, Stun Spore</p>\n<p><strong>Coverage</strong>: Draining Kiss, Energy Ball, Giga Drain, Psychic</p>\n<h3>Niche Moves</h3>\n<p><strong>Substitute</strong>: Thanks to Sleep Powder providing Vivillon free turns, it can use Substitute to survive an attack if the foe wakes up against it.</p>\n<p><strong>U-turn</strong>: Vivillon can use U-turn to bring in a useful Pokemon, which is especially useful after putting a foe to sleep with its accurate Sleep Powder.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Since it takes half of its already-shallow health from Stealth Rock, Heavy-Duty Boots is a necessity for Vivillon if it wants a fighting chance.</p>\n<h3>Niche Items</h3>\n<p><strong>Leftovers</strong>: On Substitute sets, Leftovers can provide passive recovery to allow it to continuously cycle through setting up and attacking or putting its foe to sleep.</p>\n<p><strong>Focus Sash</strong>: With a Focus Sash giving it a guaranteed turn to survive, lead Vivillon can wreak some havoc and can sometimes be more effective than a mid- or late-game set that relies on Heavy-duty Boots would.</p>\n<p><strong>Damage-boosting Items</strong>: Since it lacks immediate damage, damage-boosting items like Sharp Beak and Life Orb can be used to give Vivillon a little more kick to its attacks.</p>\n<h3>Tera</h3>\n<p>While Quiver Dance sweepers can typically use Terastallization to great effect, Vivillon is not strong or bulky enough to properly take advantage of it. It lacks super effective coverage for Steel-types, so if it were to be a Tera Captain, Tera Fire, Ground, and Fighting would all be standout choices. Otherwise, Tera Flying can make Hurricane even stronger.</p>\n<h3>Draft Strategy</h3>\n<p>Vivillon should not be the centerpiece of a team, so it must be drafted on a team that can play without it. Although it does not do it well, it facilitates itself, so drafting Pokemon that can pressure specially defensive walls can free it up significantly.</p>\n<p><strong>A Team Unreliant on Vivillon</strong>: Vivillon is only one point, so it should not be difficult to formulate a team that does rely on always bringing it.</p>\n<p><strong>Entry Hazard Control</strong>: Although Vivillon often holds Heavy-Duty Boots, it occasionally wants other items, which requires a way to keep Stealth Rock off the field.</p>\n<p><strong>Wallbreakers</strong>: Vivillon struggles with breaking through walls, so Pokemon such as <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, and <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a> that can also deal with Steel-types are a must.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Priority Users</strong>: Due to Vivillon's pitiful physical bulk, strong priority users such as <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>, Palafin, and <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a> can all pick it off very easily.</p>\n<p><strong>Stealth Rock</strong>: Without Heavy-Duty Boots, Vivillon is forced down to half health upon switch-in if Stealth Rock is on its side of the field, which is detrimental due to its lack of recovery.</p>\n<p><strong>Steel-types</strong>: With no way to hit Steel-type Pokemon super effectively without Terastallization, Vivillon struggles to break through them.</p>\n<p><strong>Faster Speed-boosted Pokemon</strong>: If Vivillon is only able to use Quiver Dance one time, faster Choice Scarf and Speed Booster Energy users such as <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and Chi-Yu can outspeed and KO it.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 313217,
+            "username": "Thanos"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Air Cutter",
+    "Air Slash",
+    "Bug Bite",
+    "Bug Buzz",
+    "Confuse Ray",
+    "Draining Kiss",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Giga Drain",
+    "Giga Impact",
+    "Gust",
+    "Harden",
+    "Hurricane",
+    "Hyper Beam",
+    "Iron Defense",
+    "Light Screen",
+    "Poison Powder",
+    "Pollen Puff",
+    "Pounce",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Quiver Dance",
+    "Rage Powder",
+    "Rain Dance",
+    "Rest",
+    "Safeguard",
+    "Skitter Smack",
+    "Sleep Powder",
+    "Sleep Talk",
+    "Solar Beam",
+    "String Shot",
+    "Struggle Bug",
+    "Stun Spore",
+    "Substitute",
+    "Sunny Day",
+    "Supersonic",
+    "Swift",
+    "Tackle",
+    "Tailwind",
+    "Tera Blast",
+    "Thief",
+    "U-turn",
+    "Weather Ball"
+  ]
+}

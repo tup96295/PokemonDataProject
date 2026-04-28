@@ -1,0 +1,136 @@
+{
+  "name": "Zweilous",
+  "alias": "zweilous",
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "stats": [
+    72,
+    85,
+    70,
+    65,
+    70,
+    58
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wallbreaker",
+          "pokemon": "Zweilous",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Hustle"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Zen Headbutt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Assurance",
+    "Astonish",
+    "Belch",
+    "Bite",
+    "Body Slam",
+    "Crunch",
+    "Dark Pulse",
+    "Double Hit",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Earth Power",
+    "Endure",
+    "Facade",
+    "Fire Fang",
+    "Focus Energy",
+    "Headbutt",
+    "Head Smash",
+    "Helping Hand",
+    "Hyper Voice",
+    "Ice Fang",
+    "Lash Out",
+    "Nasty Plot",
+    "Outrage",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Scary Face",
+    "Slam",
+    "Sleep Talk",
+    "Snarl",
+    "Spite",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder Fang",
+    "Thunder Wave",
+    "Work Up",
+    "Zen Headbutt"
+  ]
+}

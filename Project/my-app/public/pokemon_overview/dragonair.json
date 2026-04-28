@@ -1,0 +1,140 @@
+{
+  "name": "Dragonair",
+  "alias": "dragonair",
+  "types": [
+    "Dragon"
+  ],
+  "stats": [
+    61,
+    84,
+    65,
+    70,
+    70,
+    70
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Dragonair",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Shed Skin"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Aqua Jet",
+    "Aqua Tail",
+    "Blizzard",
+    "Body Slam",
+    "Breaking Swipe",
+    "Chilling Water",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Endure",
+    "Extreme Speed",
+    "Facade",
+    "Fire Blast",
+    "Fire Spin",
+    "Flamethrower",
+    "Giga Impact",
+    "Haze",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Iron Head",
+    "Leer",
+    "Light Screen",
+    "Mist",
+    "Outrage",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Safeguard",
+    "Scale Shot",
+    "Slam",
+    "Sleep Talk",
+    "Substitute",
+    "Sunny Day",
+    "Supersonic",
+    "Surf",
+    "Swift",
+    "Take Down",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Twister",
+    "Waterfall",
+    "Water Pulse",
+    "Weather Ball",
+    "Wrap"
+  ]
+}

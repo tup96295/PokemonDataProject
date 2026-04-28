@@ -1,0 +1,1091 @@
+{
+  "name": "Chansey",
+  "alias": "chansey",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    250,
+    5,
+    5,
+    35,
+    105,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Chansey is a premier special wall in the tier. Its massive HP stat, coupled with good Special Defense and Eviolite, allows Chansey to reliably shrug off almost any special attack from foes such as <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, Choice Specs <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and non-Iron Defense <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>. It also has good utility, with access to an entry hazard option in Stealth Rock and Thunder Wave to cripple foes such as <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. Chansey is a staple in stall teams and decent in balance teams, as it fulfills the role of the special wall perfectly. Having access to Heal Bell and Healing Wish allows Chansey to further support its teammates by being a cleric and allowing a teammate to fully heal themselves, respectively. However, Chansey is extremely passive, as Seismic Toss is usually its only method of damaging the opponent, which can be countered by Ghost-types like Basculegion-F, Gengar, and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>, as well as give an easier time for setup sweepers such as <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> to set up. Moreover, due to its reliance on Eviolite, Chansey is prone to entry hazard stacking, making it susceptible to being worn down.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Healing Wish is a good option on Chansey, as it can fully heal a weakened teammate and works best late-game. Protect is useful to scout for Choice-locked attacks from <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>. Chansey can opt to run Calm Mind, Ice Beam, and Thunderbolt to be a bulky setup sweeper; however, its damage output prior to Calm Mind boosts is low. Chansey can also choose to run Serene Grace to fish for Ice Beam freezes, but this is not a very reliable strategy.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fighting-types</strong>: Fighting-types such as <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a>, Mienshao, and <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a> can switch into Chansey and threaten to OHKO it.</p>\n<p><strong>Physical Attackers</strong>: Strong physical attackers such as <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>, <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>, Krookodile, and <a href=\"/dex/sv/pokemon/golurk/ru/\" hreflang=\"en\">Golurk</a> deal huge damage to Chansey, while Chansey cannot do much in return.</p>\n<p><strong>Knock Off</strong>: Chansey is severely crippled by Knock Off, as losing Eviolite severely hinders its bulk. As such, common Knock Off users such as <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, Krookodile, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> are threats to Chansey.</p>\n<p><strong>Disruption</strong>: Due to being very passive, Taunt completely shuts down Chansey, as it can only use Seismic Toss in return. Pokemon such as <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a> and Krookodile commonly run Taunt, and Chansey has to be aware of them. Choice Scarf + Trick and Encore are also good against Chansey, as the former severely cripples Chansey while the latter gives the opposing team free turns.</p>\n<p><strong>Setup Sweepers</strong>: Setup sweepers with access to recovery moves like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> can set up on Chansey. Moreover, threats that do not necessarily mind lowering their Speed via Thunder Wave such as <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> are also threatening against Chansey.</p>",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Seismic Toss is Chansey's best option for dealing reliable damage and not being completely passive. Soft-Boiled gives Chansey reliable recovery and makes it easier for Chansey to tank special attacks. Stealth Rock is a great move on Chansey, as it has a rather easy time setting up Stealth Rock against physically weak Pokemon like <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/vaporeon/ru/\" hreflang=\"en\">Vaporeon</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>. This helps specifically for stall teams, as one could opt to run Spikes instead of Stealth Rock on common stall staples like <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a>. Heal Bell allows Chansey to cure any status ailments for the team, which is especially useful on balance and stall teams, as one of the key strategies in dealing with those archetypes is to whittle them down with Toxic and Paralysis. Thunder Wave allows Chansey to cripple opposing Pokemon like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. Natural Cure allows Chansey to absorb status conditions and remove them upon switching out, adding to its high longevity. 56 HP EVs allow Chansey to be 3HKOed by a +1 Special Attack Psyshock from Armarouge. Tera Dark allows Chansey to wall Stored Power sweepers such as <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a> and Armarouge, deal with Psyshock reliably from <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and the aforementioned Armarouge, and block Psychic Noise. Tera Ghost can flip Chansey's weakness to Fighting to an immunity, allowing Chansey to cripple Fighting-type threats like <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a> and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> with Thunder Wave or damage them with Seismic Toss.</p>\n<p>Chansey is a staple on stall teams and so enjoys teaming up with other stall staples such as Quagsire, <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. These Pokemon have good synergy with Chansey, as Quagsire and Slowbro are good switch-ins to Fighting-type threats such as <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> and Mienshao, since they are good absorbers of Knock Off and are good at neutralizing setup sweepers such as <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>. Chesnaught and Quagsire also provide Spikes support, weakening the opposing team over time, while Slowbro is a bulky wincon for stall teams. Chansey acts as a good special wall that can help the team beat usual balance breakers such as Choice Specs <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, Hisuian Goodra, and Gengar. <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> is a good partner due to it also being a good Fighting-type switch-in and Defogger. <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> can pass Wish and deal with Ghost-types like Gengar and Basculegion-F that are immune to Chansey's Seismic Toss. Chansey also enjoys entry hazard control due to being limited to using Eviolite, so <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, Noivern, and the aforementioned Talonflame are good partners. Moreover, due to Chansey being prone to U-turn cores such as Cyclizar and Mienshao, it appreciates Pokemon that punish such cores, such as Flame Body Talonflame and Static <a href=\"/dex/sv/pokemon/bellibolt/ru/\" hreflang=\"en\">Bellibolt</a>.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Dark",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Heal Bell",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 56,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 200,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 231398,
+            "username": "feen"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<p>Chansey is outclassed by <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> as a special wall due to Chansey's inability to hold Heavy-Duty Boots. This vulnerability to entry hazards negates the extra bulk Chansey has over Blissey, making it a suboptimal choice for Normal teams.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Healing Wish",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "BH",
+      "outdated": "<p>This analysis was written before BH had a major shakeup. As such, the comments may not be up-to-date.</p>",
+      "overview": "<p>Imposter Chansey is the single most defining set in BH. With astronomical HP that is preserved after transforming compounded with a potential Eviolite boost, it can turn into a significantly bulkier version of the foe, making it a blanket check to most offensive Pokemon. Defensive Pokemon are not safe either, as without proper teambuilding, Imposter users can take advantage of their enormous bulk to become incredibly difficult to punish, allowing them to utilize the constant PP Imposter can provide to stall out the foes. As a result of these traits, every team must Imposter-proof: be well prepared for and carry responses to all of its own Pokemon. Imposter also provides invaluable scouting information in a tier where anything is possible to allow the player to make more informed decisions. Additionally, Imposter Chansey and <a href=\"/dex/sv/pokemon/blissey/bh/\" hreflang=\"en\">Blissey</a> provide role compression by Imposter-proofing some special attackers when not transformed. However, every competent team will prepare carefully for Imposter, limiting its effectiveness; examples of common generally Imposter-resilient sets include Plate + Judgment users like <a href=\"/dex/sv/pokemon/arceus-ghost/bh/\" hreflang=\"en\">Arceus-Ghost</a> and Thunder Cage + Strength Sap users like <a href=\"/dex/sv/pokemon/arceus-electric/bh/\" hreflang=\"en\">Arceus-Electric</a>. Imposter users also dislike the metagame having an abundance of offensive Pokemon such as <a href=\"/dex/sv/pokemon/eternatus/bh/\" hreflang=\"en\">Eternatus</a> and <a href=\"/dex/sv/pokemon/garchomp-mega/bh/\" hreflang=\"en\">Mega Garchomp</a> that are weak to their own STAB moves, reducing their defensive utility and making them more difficult to fit on teams.</p>\n<p>Alternatively, non-Imposter Chansey utilizes its astronomical special bulk and respectable physical bulk with Eviolite to serve as a strong special wall capable of answering threats like Eternatus and Take Heart <a href=\"/dex/sv/pokemon/arceus/bh/\" hreflang=\"en\">Arceus</a> formes. It differentiates itself from Blissey through the extra bulk from said item allowing it to sponge certain physical coverage moves like Eternatus's Shell Side Arm much more comfortably. Its exceptional special bulk also lets it forgo Ice Scales in favor of Magic Guard, allowing it to be very resilient against residual damage from entry hazards, Thunder Cage, and status conditions. Chansey's minuscule Attack also lets it neutralize Strength Sap healing from the special attackers it aims to wall to support its offensive teammates. However, Chansey is rather passive, causing it to be a momentum drain against Pokemon such as RegenVest users with Knock Off and <a href=\"/dex/sv/pokemon/flutter-mane/bh/\" hreflang=\"en\">Flutter Mane</a>, which an issue amplified by its lack of passive recovery from Leftovers, forcing it to spend turns healing more. It also has a minor opportunity cost of not being able to use Eviolite + Imposter.</p>",
+      "comments": "<h4>Other Options</h4>\n<p>Imposter users can run a variety of other utility moves depending on what the team requires, with some examples being Court Change, Rapid Spin, and Glare. They can also use some other niche items. Leftovers provides a minor longevity increase and crucially gives them an edge against otherwise troublesome Take Heart <a href=\"/dex/sv/pokemon/arceus/bh/\" hreflang=\"en\">Arceus</a> formes. Spooky Plate lets them surprise Normalize <a href=\"/dex/sv/pokemon/flutter-mane/bh/\" hreflang=\"en\">Flutter Mane</a> and non-Knock Off <a href=\"/dex/sv/pokemon/arceus-ghost/bh/\" hreflang=\"en\">Arceus-Ghost</a>, although these are its exclusive use cases. Choice Scarf is very niche, and the Choice lock can be highly restrictive and exploitable, with the only benefit being safer matchups against certain offensive Pokemon, mainly Dragon-types like <a href=\"/dex/sv/pokemon/necrozma-ultra/bh/\" hreflang=\"en\">Ultra Necrozma</a> and <a href=\"/dex/sv/pokemon/garchomp-mega/bh/\" hreflang=\"en\">Mega Garchomp</a>. Non-Imposter Chansey can utilize a Regenerator set to spend less turns healing but faces fierce competition from <a href=\"/dex/sv/pokemon/blissey/bh/\" hreflang=\"en\">Blissey</a> due to a vulnerability to entry hazards, with the extra security against Shell Side Arm <a href=\"/dex/sv/pokemon/eternatus/bh/\" hreflang=\"en\">Eternatus</a> being offset by potential poison.</p>\n<h4>Checks and Counters</h4>\n<p><strong>Knock Off</strong>: Imposter users hate having their items removed, whether it's the significant bulk cut from losing Eviolite or losing the high utility Heavy-Duty Boots and Covert Cloak provide. Non-Imposter Chansey is heavily reliant on Eviolite for its bulk, making Knock Off incredibly crippling.</p>\n<p><strong>Status Conditions</strong>: Paralysis cripples Imposter users' ability to check notable offensive threats and allows common Dragon Energy users like Eternatus to comfortably defeat them. Poison can also rapidly chip them down.</p>\n<p><strong>Anti-Imposter Sets</strong>: Due to Imposter's prevalence, many common sets are capable of defeating Imposter users one-on-one. Notable examples include Thunder Cage + Strength Sap Arceus formes and Judgment + Plate users like Arceus-Ghost, <a href=\"/dex/sv/pokemon/arceus-steel/bh/\" hreflang=\"en\">Arceus-Steel</a>, and Flutter Mane.</p>\n<p><strong>Wallbreakers with Super Effective Coverage</strong>: Powerful wallbreakers such as Eternatus, Ultra Necrozma, and Mega Garchomp can hit Imposter users extremely hard, deterring them from switching in. Dragon Energy users in particular can threaten weakened Imposter users significantly. These will often need to consider Speed ties against Imposter users, however, so may still switch out.</p>\n<p><strong>Limiting Healing</strong>: Imposter users can be susceptible to being worn down rapidly if they is unable to transform into something that can reliably heal. This most commonly involves Strength Sap and limiting its healing through low Attack Pokemon like Chansey, Blissey, and <a href=\"/dex/sv/pokemon/audino-mega/bh/\" hreflang=\"en\">Mega Audino</a>.</p>\n<p><strong>Trapping</strong>: Imposter only grants a total of 20 PP, so sets with a trapping move like Spirit Shackle, Block, or the rare Jaw Lock can trap and PP stall Imposter users. However, Spirit Shackle users must be cautious of being reverse PP stalled by Covert Cloak Imposter users in extended games.</p>\n<p><strong>Physical Wallbreakers</strong>: Despite the Eviolite boost, Chansey is still rather frail physically and is vulnerable to physical wallbreakers like Mega Garchomp and <a href=\"/dex/sv/pokemon/blaziken-mega/bh/\" hreflang=\"en\">Mega Blaziken</a>, though Burning Bulwark can somewhat alleviate the issue against Choice Band users.</p>\n<p><strong>Flutter Mane</strong>: Flutter Mane regularly runs Pain Split and Spikes, allowing to make significant progress against Chansey while keeping itself healthy.</p>\n<p><strong>Taunt</strong>: Chansey is highly vulnerable to Taunt due to its passivity. Taunt is capable of shutting down its recovery, can stop its setup control, and often prevents its pivoting attempts.</p>",
+      "movesets": [
+        {
+          "name": "Imposter",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Most of the time, Chansey will be transformed into the foe, so the given moves are for the situations it is not transformed. Shore Up in conjunction with Topsy-Turvy or Haze allows Chansey to excellently Imposter-proof special attackers such as <a href=\"/dex/sv/pokemon/miraidon/bh/\" hreflang=\"en\">Miraidon</a> and Take Heart <a href=\"/dex/sv/pokemon/arceus/bh/\" hreflang=\"en\">Arceus</a> formes with its high special bulk and low Attack to limit Strength Sap healing from opposing Imposter users. Block can be used to ensure that opposing Imposter users that stay in are trapped and eliminated, while Teleport provides slow pivoting instead. Heal Bell lets Chansey act as a cleric in a pinch, while Jungle Healing can provide additional recovery while also curing it of status, which is useful to Imposter-proof <a href=\"/dex/sv/pokemon/eternatus/bh/\" hreflang=\"en\">Eternatus</a>. Wish is an alternative if Teleport is run to effectively support teammates. Eviolite provides a generally useful bulk increase that is particularly helpful against threats like <a href=\"/dex/sv/pokemon/alakazam-mega/bh/\" hreflang=\"en\">Mega Alakazam</a>. Heavy-Duty Boots is the premier option on entry hazard-resilient teams that forgo hazard removal. Covert Cloak meanwhile blocks the secondary effect of moves like Spirit Shackle and Mortal Spin, allowing it to bypass some Imposter-proofing methods. It is worth noting that if Eviolite is not opted for, then <a href=\"/dex/sv/pokemon/blissey/bh/\" hreflang=\"en\">Blissey</a> can be used as the Imposter user.</p>\n<p>Imposter users can fit on virtually every team archetype due to the utility and information they provide, and all Pokemon can benefit from their presence. Physically offensive Pokemon such as Choice Band <a href=\"/dex/sv/pokemon/greninja-ash/bh/\" hreflang=\"en\">Ash-Greninja</a> and <a href=\"/dex/sv/pokemon/garchomp-mega/bh/\" hreflang=\"en\">Mega Garchomp</a> appreciate the scouting information Imposter brings, in particular moves like Burning Bulwark being revealed; these Pokemon are also particularly helpful for Teleport sets, providing an immediate method to force out opposing Imposter users transformed into Chansey. Special attackers like Eternatus and <a href=\"/dex/sv/pokemon/gardevoir-mega/bh/\" hreflang=\"en\">Mega Gardevoir</a> meanwhile enjoy Imposter Chansey's ability to trade Knock Offs against opposing RegenVest Pokemon to soften them up, and these attackers can also be potentially Imposter-proofed by it. Defensively, walls appreciate Imposter Chansey alleviating pressure by soft checking threats like Mega Alakazam. Pokemon that provide slow pivoting, such as <a href=\"/dex/sv/pokemon/audino-mega/bh/\" hreflang=\"en\">Mega Audino</a>, can bring Imposter users in to safely scout opponents. Special walls like Ice Scales Mega Audino can check a variety of threats to Imposter users, such as <a href=\"/dex/sv/pokemon/arceus-ghost/bh/\" hreflang=\"en\">Arceus-Ghost</a>, Take Heart Arceus formes, and offensive Dragon-types like <a href=\"/dex/sv/pokemon/sceptile-mega/bh/\" hreflang=\"en\">Mega Sceptile</a>. Imposter users can also be highly reliant on their items, especially in the case of Heavy-Duty Boots and Covert Cloak, so they appreciates Knock Off absorbers like Magic Guard Arceus Ghost and select RegenVest users.</p>",
+          "abilities": [
+            "Imposter"
+          ],
+          "items": [
+            "Eviolite",
+            "Heavy-Duty Boots",
+            "Covert Cloak"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shore Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Topsy-Turvy",
+                "type": null
+              },
+              {
+                "move": "Haze",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Block",
+                "type": null
+              },
+              {
+                "move": "Teleport",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heal Bell",
+                "type": null
+              },
+              {
+                "move": "Jungle Healing",
+                "type": null
+              },
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 252,
+              "spd": 252,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm",
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 355040,
+            "username": "Chessking"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 577920,
+                "username": "Tea Guzzler"
+              },
+              {
+                "user_id": 589755,
+                "username": "rightclicker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wall",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Chansey acts as an extremely niche special wall and is typically found on fat or stall teams looking for a check to setup sweepers like <a href=\"/dex/sv/pokemon/volcarona/almost-any-ability/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/cresselia/almost-any-ability/\" hreflang=\"en\">Cresselia</a>, and <a href=\"/dex/sv/pokemon/iron-crown/almost-any-ability/\" hreflang=\"en\">Iron Crown</a>. Seismic Toss prevents Chansey from being a sitting duck, limiting its passivity by dealing decent chip damage. Heal Bell provides extremely valuable and rare utility by allowing Chansey to act as a cleric, removing status from teammates like <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a> and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>. Stealth Rock allows it to provide more general utility for its team, allowing it to wear down offensive threats like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a> over time, whereas Thunder Wave debilitates foes while enabling teammates like Hex <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> and Pecharunt. Protect is a niche option that lets it scout out which move a Choice-locked foe like <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a>, Roaring Moon, or Azelf will use, easing prediction and allowing the right play to be made. Unaware lets it comfortably check special setup sweepers like <a href=\"/dex/sv/pokemon/thundurus/almost-any-ability/\" hreflang=\"en\">Thundurus</a>, <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, and the aforementioned Volcarona. Chansey's relatively low Defense and susceptibility to Knock Off from users like Roaring Moon, <a href=\"/dex/sv/pokemon/zapdos-galar/almost-any-ability/\" hreflang=\"en\">Galarian Zapdos</a>, and all <a href=\"/dex/sv/pokemon/ogerpon/almost-any-ability/\" hreflang=\"en\">Ogerpon</a> formes make physically bulky Pokemon that can switch into them like <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, Fluffy <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> good teammates. Entry hazard removers like Great Tusk, Mandibuzz, and Corviknight are greatly appreciated due to Chansey's vulnerability to hazards, allowing it to more effectively act as a special wall.</p>",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heal Bell",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 8,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 248,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 580765,
+            "username": "cat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 475288,
+                "username": "Tranquility"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Transform",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Transform",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Little Pink Blob",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to its huge special bulk further boosted by Eviolite, Chansey is an extremely effective special wall capable of handling most special attackers in the format, although its passivity almost exclusively limits it to stall teams. Seismic Toss allows Chansey to spread consistent damage, reducing its passivity against foes like <a href=\"/dex/sv/pokemon/hatterene/national-dex/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>. Toxic deals with Pokemon like <a href=\"/dex/sv/pokemon/kyurem/national-dex/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a> trying to take advantage of its passivity, putting them on a timer, as well as crippling physical attackers like <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> trying to switch in. Thunder Wave can also punish these Pokemon by potentially giving Chansey or its teammates free turns, but it comes at the cost of Toxic’s passive damage and is worse against the aforementioned Volcarona and Kyurem, so it is better suited for teams with offensive threats. Chansey can use the free turns its walling provides to be an efficient Stealth Rock setter, as it has the longevity to get it up consistently over the course of a long game. If there’s already a Stealth Rock user on the team, then Chansey can use Aromatherapy to cure status ailments for its teammates. Natural Cure lets Chansey act as a status absorber, giving its team breathing room against Pokemon like <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a>. Since Chansey’s special bulk is exceptional even when uninvested, it can afford to maximize its Defense to take on Psyshock from <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/iron-crown/national-dex/\" hreflang=\"en\">Iron Crown</a>, as well as handling physical attackers as a last resort.</p>\n<p>Chansey's strengths make it almost exclusively seen on stall, although it does see usage on some balance teams. While Chansey is an amazing special wall, its physical bulk is less than desired, leaving it vulnerable to Pokemon like Great Tusk, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>. <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/dondozo/national-dex/\" hreflang=\"en\">Dondozo</a> stave off all of these threats, with Dondozo dealing with Pokemon like <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> and Kingambit that could use Chansey as setup fodder, while Corviknight can remove entry hazards so Chansey maintains longevity. Since Chansey needs Eviolite to be a bulky menace, Knock Off absorbers like Corviknight, <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/sableye-mega/national-dex/\" hreflang=\"en\">Mega Sableye</a> make amazing teammates, as they can easily take the move from Pokemon like Kingambit, <a href=\"/dex/sv/pokemon/scizor-mega/national-dex/\" hreflang=\"en\">Mega Scizor</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a> as well as provide hazard removal, which makes up for Chansey not being able to hold Heavy-Duty Boots. Pokemon like <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and Tornadus-T can commonly run Taunt to prevent Chansey from healing or using status moves, making it very passive against them. Because of this, Pokemon that can pressure these Taunt users, like <a href=\"/dex/sv/pokemon/clodsire/national-dex/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/weavile/national-dex/\" hreflang=\"en\">Weavile</a> for the aforementioned threats, help greatly. Clodsire in particular, as well as Dondozo, also assists against setup threats like Tornadus-T, <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a>, and most notably <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, which would otherwise use Chansey as setup fodder. Although Chansey can handle most special attackers, Pokemon like Nasty Plot Gholdengo, mixed <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, and Psyshock Tapu Lele can break through it rather easily, making checks to these threats like Clodsire and your own Gholdengo almost mandatory.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Aromatherapy",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 591294,
+            "username": "Lightniong"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542295,
+                "username": "Blaze"
+              },
+              {
+                "user_id": 471780,
+                "username": "Solaros & Lunaris"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 537035,
+                "username": "rahul_3301"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pink Blob:2",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>With its enormous bulk due to one of the largest HP stats in the game alongside Eviolite, Chansey is the premier special wall for bulky teams looking to stifle the tier's most threatening special attackers, namely <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a>. Seismic Toss is Chansey's most reliable way of dealing damage, letting it punish Toxic-immune targets like Iron Moth and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> while also ensuring Substitute users like Hydreigon and Enamorus cannot use Chansey as setup fodder. Soft-Boiled provides instant reliable recovery, but Wish alongside Protect is an option to grant Chansey increased recovery PP while also potentially passing massive Wishes to teammates. However, this comes at the cost of being more exploitable, as threats like <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-uu/\" hreflang=\"en\">Galarian Moltres</a> and <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a> can use Nasty Plot on forced Protect turns. Toxic restricts special sweepers like Calm Mind Enamorus and <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a> while also punishing physical attackers that switch in to threaten Chansey like <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a> and <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>. Thunder Wave is an alternative on bulky teams that are less capable of handling setup sweepers like Iron Moth to allow teammates like <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a> to outspeed and KO them before they can retaliate. Given the number of opportunities Chansey gets to switch in, Stealth Rock is a great move for it, but Aromatherapy can be used on teams with another entry hazard setter to keep the team free from status. Given its weakness to hazards as well as its passivity, Chansey is typically only seen on stall and bulky teams. Chansey can struggle with many of the tier's most common physical attackers, particularly Tyranitar and Buzzwole, so teammates like <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> are appreciated, and Chansey can check special threats that target them like Hydreigon and Iron Moth in return. Chansey also struggles with Fighting-types like Keldeo and <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>, so teammates like Mega Latias and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> are good partners. Teammates like Mega Venusaur and Mega Latias that can handle strong setup sweepers like Nasty Plot Thundurus are appreciated. In return, Chansey can help handle special threats that don't rely on setting up such as Choice Specs Enamorus and Hydreigon. Chansey's complete inability to touch Ghost-types without Toxic and staples like <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> even with Toxic is problematic, so reliable answers to these threats like <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> are appreciated. Chansey is threatened heavily by Knock Off, so good Knock Off absorbers like Buzzwole and Clefable are important alongside it, while Chansey can handle any special threats that might threaten them, including Galarian Moltres and <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a>.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              },
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Aromatherapy",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 589016,
+            "username": "Danbear02"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 568189,
+                "username": "Runo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Little Blob",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on new analyses. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special Wall",
+          "pokemon": "Chansey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Chansey is a staple Pokemon on stall teams thanks to its excellent cleric utility, useful status absorbing ability in Natural Cure, and absurd special bulk with Eviolite that allows it to wall threats such as non-Taunt <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>, <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>, and <a href=\"/dex/sv/pokemon/palkia-origin/national-dex-ubers/\" hreflang=\"en\">Palkia-O</a>.</li>\n<li>Aromatherapy allows Chansey to serve as a crucial cleric by removing status from <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a> and <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>. In addition, it removes sleep from allies such as <a href=\"/dex/sv/pokemon/dondozo/national-dex-ubers/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/giratina/national-dex-ubers/\" hreflang=\"en\">Giratina</a> that rely on Rest for recovery.</li>\n<li>Confide allows Chansey more easily wall Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, non-Taunt Arceus-Fairy, and Eternatus by nullifying any Calm Mind or Meteor Beam setup attempts, although Chansey should be aware of its PP lest these threats have an opportunity to set up later.</li>\n<li>Seismic Toss is another option that allows Chansey to break Palkia-O’s Substitute and to do damage to Taunt <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> formes. Toxic allows Chansey to slowly wear down the Pokemon it walls such as wallbreaker Primal Kyogre and non-Taunt Arceus-Fairy while punishing typical switch-ins such as Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, specially offensive <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>, <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a>, and <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a>. However, using Toxic means Chansey is completely shut down by Taunt, and it is easier for defensive Primal Kyogre and Substitute Palkia-O to deal with.</li>\n<li>Minimal Speed allows Chansey to underspeed <a href=\"/dex/sv/pokemon/alomomola/national-dex-ubers/\" hreflang=\"en\">Alomomola</a>'s Flip Turn, allowing Chansey to hinder the foe Alomomola would otherwise safely bring in, and to Speed tie <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a> under Trick Room. The EV spread maximizes mixed bulk to let Chansey act as a special wall while also withstanding weak physical attacks such as Yveltal's U-turn and <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a>'s Dragon Tail.</li>\n<li>Tera Grass allows Chansey to wall wallbreaker Primal Kyogre by tanking Water Spout more comfortably, in addition to minimizing the damage defensive Primal Kyogre can do to it.</li>\n<li>Chansey should not be afraid to switch into special threats such as Primal Kyogre, Meteor Beam Eternatus, and Palkia-O. However, it must be wary of its HP or it will easily be overwhelmed by threats such as Water Spout Kyogre and +1 <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a> under Psychic Terrain. After sustaining damage, Soft-Boiled should be used on free turns such as when Chansey forces out wallbreaker Primal Kyogre and Palkia-O. However, it must be aware of Soft-Boiled's PP or else it will compromise its ability to check these threats. Chansey also serves as an excellent switch-in to status spreaders such as Giratina-O and defensive Ho-Oh thanks to Natural Cure.</li>\n<li>Chansey is very vulnerable to physical attacks and can easily be set up on by threats such as Taunt Arceus-Ground and Facade <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>, so checks to these such as Arceus-Dark and Dondozo make excellent teammates. The two of them can collectively check these threats as well as Pokemon such as Arceus, <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, and <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>.</li>\n<li>Chansey is quickly shut down by threats such as Taunt Yveltal and Arceus-Fairy, so teammates that can check them such as Eternatus and Ho-Oh are valuable.</li>\n</ul>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Aromatherapy",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Confide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 8,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 248,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652323,
+            "username": "Anchor9"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              },
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Calm Mind",
+    "Charm",
+    "Chilling Water",
+    "Copycat",
+    "Covet",
+    "Dazzling Gleam",
+    "Defense Curl",
+    "Disarming Voice",
+    "Double-Edge",
+    "Drain Punch",
+    "Earthquake",
+    "Echoed Voice",
+    "Electric Terrain",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Punch",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Heal Bell",
+    "Healing Wish",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Last Resort",
+    "Life Dew",
+    "Light Screen",
+    "Metronome",
+    "Pound",
+    "Present",
+    "Protect",
+    "Psychic",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Seismic Toss",
+    "Shadow Ball",
+    "Sing",
+    "Skill Swap",
+    "Sleep Talk",
+    "Snowscape",
+    "Soft-Boiled",
+    "Solar Beam",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Kiss",
+    "Swift",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trailblaze",
+    "Water Pulse",
+    "Wild Charge",
+    "Zen Headbutt"
+  ]
+}

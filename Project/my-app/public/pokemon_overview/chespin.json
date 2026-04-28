@@ -1,0 +1,184 @@
+{
+  "name": "Chespin",
+  "alias": "chespin",
+  "types": [
+    "Grass"
+  ],
+  "stats": [
+    56,
+    61,
+    65,
+    48,
+    45,
+    38
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Spikes",
+          "pokemon": "Chespin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Chespin's Grass typing, access to Bulletproof, and reliable recovery in Synthesis allow it to wall staples like <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a> and check Ground-types like <a href=\"/dex/sv/pokemon/diglett-alola/lc/\" hreflang=\"en\">Alolan Diglett</a> and <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a>. It can leverage its bulk to make progress by setting Spikes. Bullet Seed has the benefit of breaking Substitute from Alolan Diglett. As an entry hazard setter, Chespin needs ways to deal with common entry hazard removal Pokemon, using Rock Slide to hit <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a> super effectively while its Drain Punch stings <a href=\"/dex/sv/pokemon/sandshrew-alola/lc/\" hreflang=\"en\">Alolan Sandshrew</a>. The given EV spread maximizes bulk, allowing Chespin to survive two High Jump Kicks from <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a> and two Ice Beams from <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a>. Tera Steel grants Chespin resistances to Vullaby's Brave Bird and Alolan Sandshrew's Triple Axel as well as an immunity to <a href=\"/dex/sv/pokemon/stunky/lc/\" hreflang=\"en\">Stunky</a>'s Gunk Shot. Meanwhile, Tera Fairy resists Knock Off and Mienfoo's High Jump Kick.</p>\n<p>Pokemon that struggle with Foongus such as Mienfoo and Chinchou appreciate Chespin's ability to switch in and set entry hazards to wear it down. Spikes can chip foes into KO range for wallbreakers such as Stunky and Alolan Diglett. Since Chespin is weak to Vullaby, partners such as <a href=\"/dex/sv/pokemon/tinkatink/lc/\" hreflang=\"en\">Tinkatink</a> and <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a> can support it by switching in and setting Stealth Rock to limit Vullaby's longevity. These partners can also synergize with Chespin to form a hazard stacking core. <a href=\"/dex/sv/pokemon/mareanie/lc/\" hreflang=\"en\">Mareanie</a> is a strong partner that can check Mienfoo and Fire-types like <a href=\"/dex/sv/pokemon/salandit/lc/\" hreflang=\"en\">Salandit</a> and <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a>. In return, Chespin can check Ground-types.</p>",
+          "abilities": [
+            "Bulletproof"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bullet Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 68,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 156,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 649184,
+            "username": "xonks"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 537035,
+                "username": "rahul_3301"
+              },
+              {
+                "user_id": 605215,
+                "username": "Flou"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Belly Drum",
+    "Bite",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Bullet Seed",
+    "Curse",
+    "Dig",
+    "Drain Punch",
+    "Endeavor",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fling",
+    "Focus Punch",
+    "Giga Drain",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growl",
+    "Helping Hand",
+    "Iron Head",
+    "Leaf Storm",
+    "Leech Seed",
+    "Low Kick",
+    "Magical Leaf",
+    "Metal Claw",
+    "Mud Shot",
+    "Pain Split",
+    "Pin Missile",
+    "Poison Jab",
+    "Protect",
+    "Quick Guard",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Rollout",
+    "Seed Bomb",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spikes",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Super Fang",
+    "Swift",
+    "Synthesis",
+    "Take Down",
+    "Tera Blast",
+    "Thunder Punch",
+    "Trailblaze",
+    "Vine Whip",
+    "Wide Guard",
+    "Wood Hammer",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Gothita",
+  "alias": "gothita",
+  "types": [
+    "Psychic"
+  ],
+  "stats": [
+    45,
+    30,
+    50,
+    55,
+    65,
+    45
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trapper",
+          "pokemon": "Gothita",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Gothita serves as a support Pokemon in Little Cup thanks to its ability to trap Poison-types such as <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a> and <a href=\"/dex/sv/pokemon/mareanie/lc/\" hreflang=\"en\">Mareanie</a> and other metagame staples such as <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>, forcing them to Terastallize to survive once in range of Psychic. Trick is very important on Gothita because without it, Gothita cannot reliably threaten a healthy Foongus due to the threat of Spore, and Trick is effective at crippling bulky foes. Thunderbolt provides coverage against <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a>, while Energy Ball deals extra damage to Ground-types such as <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a>. Tera Psychic is the most common Tera type to enable Gothita to secure earlier KOes such as OHKOing a healthy Mienfoo.</p>\n<p>Gothita fits best on bulky offense or balance teams with other pivots, most notably Mienfoo and <a href=\"/dex/sv/pokemon/voltorb-hisui/lc/\" hreflang=\"en\">Hisuian Voltorb</a>, which typically struggle against bulky Regenerator Pokemon like Foongus and Mareanie. Choice Scarf <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a> also has significant synergy with Gothita, as bulky Fire resistant Pokemon such as Mareanie and <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a> are vulnerable to being trapped. Gothita's biggest weaknesses are that it gives free entry to offensive Dark- and Steel-types after it secures a KO and that it lacks power by itself. Therefore, Gothita needs both a defensive backbone with teammates such as Mienfoo, Mudbray, and Glimmet to switch into Dark-types.</p>",
+          "abilities": [
+            "Shadow Tag"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Psychic"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 36,
+              "spa": 236,
+              "spd": 0,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 568849,
+            "username": "Colin"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 342456,
+                "username": "Drifting"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Calm Mind",
+    "Charm",
+    "Confusion",
+    "Dark Pulse",
+    "Endure",
+    "Energy Ball",
+    "Expanding Force",
+    "Facade",
+    "Fake Out",
+    "Fake Tears",
+    "Flatter",
+    "Fling",
+    "Foul Play",
+    "Future Sight",
+    "Grass Knot",
+    "Gravity",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hypnosis",
+    "Imprison",
+    "Light Screen",
+    "Magic Room",
+    "Mean Look",
+    "Mirror Coat",
+    "Nasty Plot",
+    "Play Nice",
+    "Pound",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Stored Power",
+    "Substitute",
+    "Swift",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Tickle",
+    "Torment",
+    "Trick",
+    "Trick Room",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "name": "Arceus-Bug",
+  "alias": "arceus-bug",
+  "types": [
+    "Bug"
+  ],
+  "stats": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Arceus-Bug",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set while we work on the full analysis!</p>",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Insect Plate"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Arceus-Bug",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Insect Plate"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Judgment",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Utility",
+          "pokemon": "Arceus-Bug",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Insect Plate"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Judgment",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 156,
+              "spa": 0,
+              "spd": 0,
+              "spe": 104
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Agility",
+    "Air Slash",
+    "Aura Sphere",
+    "Avalanche",
+    "Blizzard",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Bug Buzz",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Seed",
+    "Calm Mind",
+    "Charge Beam",
+    "Chilling Water",
+    "Confuse Ray",
+    "Cosmic Power",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Earth Power",
+    "Earthquake",
+    "Electric Terrain",
+    "Endure",
+    "Energy Ball",
+    "Extreme Speed",
+    "Facade",
+    "Fire Blast",
+    "Flamethrower",
+    "Flare Blitz",
+    "Flash Cannon",
+    "Fly",
+    "Focus Blast",
+    "Foul Play",
+    "Future Sight",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Terrain",
+    "Gravity",
+    "Gunk Shot",
+    "Healing Wish",
+    "Heat Wave",
+    "Heavy Slam",
+    "Hex",
+    "Hurricane",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Icy Wind",
+    "Imprison",
+    "Iron Defense",
+    "Iron Head",
+    "Judgment",
+    "Light Screen",
+    "Liquidation",
+    "Magical Leaf",
+    "Meteor Beam",
+    "Misty Terrain",
+    "Outrage",
+    "Overheat",
+    "Perish Song",
+    "Phantom Force",
+    "Poison Jab",
+    "Power Gem",
+    "Protect",
+    "Psychic",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Recover",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Scorching Sands",
+    "Seismic Toss",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Snarl",
+    "Solar Beam",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Surf",
+    "Swift",
+    "Swords Dance",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "Waterfall",
+    "Water Pulse",
+    "Wild Charge",
+    "Will-O-Wisp",
+    "X-Scissor",
+    "Zen Headbutt"
+  ]
+}

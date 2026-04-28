@@ -1,0 +1,200 @@
+{
+  "name": "Hemogoblin",
+  "alias": "hemogoblin",
+  "types": [
+    "Fairy",
+    "Fire"
+  ],
+  "stats": [
+    90,
+    96,
+    87,
+    96,
+    89,
+    55
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Explosion allows Hemogoblin to deal one last attack that will significantly dent even Fairy-resistant foes such as <a href=\"/dex/sv/pokemon/venomicon/cap/\" hreflang=\"en\">Venomicon</a> and <a href=\"/dex/sv/pokemon/skeledirge/cap/\" hreflang=\"en\">Skeledirge</a>. At +2, it will even OHKO Multiscale <a href=\"/dex/sv/pokemon/cresceidon/cap/\" hreflang=\"en\">Cresceidon</a>. Explosion also gives a free switch-in to a teammate, grabbing huge amounts of momentum quickly. However, Explosion is unreliable, as it takes away valuable utility and can be hard to use with Hemogoblin’s low Speed. Will-O-Wisp can also be used to cripple threats like <a href=\"/dex/sv/pokemon/great-tusk/cap/\" hreflang=\"en\">Great Tusk</a>, Venomicon, and <a href=\"/dex/sv/pokemon/kingambit/cap/\" hreflang=\"en\">Kingambit</a> but is mostly useless against checks such as <a href=\"/dex/sv/pokemon/gliscor/cap/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/krilowatt/cap/\" hreflang=\"en\">Krilowatt</a>. Choice Band gives Hemogoblin immediate power, allowing it to sweep with Extreme Speed more easily and break through Unaware <a href=\"/dex/sv/pokemon/dondozo/cap/\" hreflang=\"en\">Dondozo</a> with Tera Fairy. However, this prevents Hemogoblin from using Bulk Up, leaves Hemogoblin vulnerable to all hazards, and is easily taken advantage of by Venomicon. Trick can be used in conjunction with Choice Band to cripple threats such as Venomicon and <a href=\"/dex/sv/pokemon/equilibra/cap/\" hreflang=\"en\">Equilibra</a> with a hampering item. However, the lack of Choice Band or a setup move is noticeable, making Hemogoblin’s attacks rather weak. Tera Water allows Hemogoblin to more easily win mirror matchups against opposing Hemogoblin by resisting Flare Blitz, but otherwise is inferior to Tera Ground. Hemogoblin can also choose to run a specially defensive EV spread with a recovery move such as Moonlight or Wish and Tera Poison. This allows it to more easily set up on Venomicon while also making it more resilient into special wallbreakers such as <a href=\"/dex/sv/pokemon/dragapult/cap/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/gholdengo/cap/\" hreflang=\"en\">Gholdengo</a>. Wish also provides healing for teammates. However, doing so heavily reduces Hemogoblin's revenge killing potential due to a lack of Attack investment.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Bulky Poison-types</strong>: Venomicon, <a href=\"/dex/sv/pokemon/slowking-galar/cap/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/mollux/cap/\" hreflang=\"en\">Mollux</a> can all tank Hemogoblin’s attacks and threaten it with Sludge Bomb. <a href=\"/dex/sv/pokemon/pecharunt/cap/\" hreflang=\"en\">Pecharunt</a> is more rare but does the same and threatens Toxic or Malignant Chain. All of them have to be wary of Hemogoblin Terastallizing, however.</p>\n<p><strong>Fast Fairy-resistant Pokemon</strong>: <a href=\"/dex/sv/pokemon/iron-moth/cap/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/plasmanta/cap/\" hreflang=\"en\">Plasmanta</a>, Venomicon-E, and <a href=\"/dex/sv/pokemon/heatran/cap/\" hreflang=\"en\">Heatran</a> can tank a Pixilate-boosted Extreme Speed and threaten back with Poison-type STAB moves and Earth Power for the latter. Heatran has the added danger of trapping Hemogoblin with Magma Storm.</p>\n<p><strong>Krilowatt</strong>: Krilowatt's great natural bulk lets it take a single Extreme Speed and force Hemogoblin out with the threat of a super effective Surf.</p>\n<p><strong>Bulky Ground-types</strong>: Gliscor and <a href=\"/dex/sv/pokemon/landorus-therian/cap/\" hreflang=\"en\">Landorus-T</a> can absorb an attack from Hemogoblin and immediately threaten it back with Earthquake, while Great Tusk can threaten it with Headlong Rush and tank a hit at the cost of a defensive Tera.</p>\n<p><strong>Fairy-resistant Tera Users</strong>: Tera Poison and Tera Fire from threats such as Dragapult, <a href=\"/dex/sv/pokemon/darkrai/cap/\" hreflang=\"en\">Darkrai</a>, and Great Tusk can completely shut down a revenge kill attempt from Hemogoblin, with Tera Fire also heavily reducing Flare Blitz's damage, forcing Hemogoblin to either get KOed itself, or switch out.</p>\n<p><strong>Unaware Users:</strong> Skeledirge and Dondozo are walls that are nearly impossible for Hemogoblin to break through. Skeledirge can slowly use Torch Song to chip its way through Hemogoblin’s HP, while Dondozo takes chunks of Hemogoblin’s health through Waterfall or Liquidation. <a href=\"/dex/sv/pokemon/arghonaut/cap/\" hreflang=\"en\">Arghonaut</a> can wall Hemogoblin too after burning Tera, freely setting Spikes if Hemogoblin lacks Taunt. Arghonaut can also force Hemogoblin out afterwards with Circle Throw.</p>",
+      "movesets": [
+        {
+          "name": "Bulk Up",
+          "pokemon": "Hemogoblin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hemogoblin is an amazing late-game sweeper thanks to its combination of strong priority and a great offensive typing. Pixilate-boosted Extreme Speed allows Hemogoblin to easily KO weakened targets and pressure offensive threats. Its strength also lets Hemogoblin sweep through teams with frail offensive cores such as <a href=\"/dex/sv/pokemon/dragapult/cap/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/iron-valiant/cap/\" hreflang=\"en\">Iron Valiant</a> with particular ease if it finds a setup opportunity. Flare Blitz dents threats that resist Extreme Speed, such as <a href=\"/dex/sv/pokemon/equilibra/cap/\" hreflang=\"en\">Equilibra</a> and <a href=\"/dex/sv/pokemon/gholdengo/cap/\" hreflang=\"en\">Gholdengo</a>. Bulk Up raises Hemogoblin’s middling Attack, allowing it to always OHKO defensive Equilibra with Flare Blitz at +1 and offensive <a href=\"/dex/sv/pokemon/great-tusk/cap/\" hreflang=\"en\">Great Tusk</a> with Extreme Speed at +2. Bulk Up also makes it harder to revenge kill Hemogoblin, turning offensive Great Tusk’s Headlong Rush into a 2HKO at +1. Taunt stops slower foes such as <a href=\"/dex/sv/pokemon/venomicon/cap/\" hreflang=\"en\">Venomicon</a>, <a href=\"/dex/sv/pokemon/arghonaut/cap/\" hreflang=\"en\">Arghonaut</a>, and <a href=\"/dex/sv/pokemon/clefable/cap/\" hreflang=\"en\">Clefable</a> from recovering their HP, allowing Hemogoblin to slowly wear down its checks throughout the game. Spikes is an option to capitalize on forced switches. Tera Fairy maximizes Extreme Speed’s wallbreaking power, while Tera Poison allows Hemogoblin to beat <a href=\"/dex/sv/pokemon/cresceidon/cap/\" hreflang=\"en\">Cresceidon</a> and turn defensive Venomicon into setup fodder. Tera Ground with Tera Blast allows Hemogoblin to break past threats such as <a href=\"/dex/sv/pokemon/heatran/cap/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/mollux/cap/\" hreflang=\"en\">Mollux</a>, and <a href=\"/dex/sv/pokemon/plasmanta/cap/\" hreflang=\"en\">Plasmanta</a>, as well as allowing it to win the mirror matchup against opposing Hemogoblin. The EV spread allows Hemogoblin to maximize Attack while outspeeding Adamant <a href=\"/dex/sv/pokemon/kingambit/cap/\" hreflang=\"en\">Kingambit</a>. Alternatively, Hemogoblin can run 76 Speed EVs to outspeed Venomicon while gaining bulk by investing the remaining EVs in HP.</p>\n<p>Both Hex and Choice Specs Dragapult provide great synergy with Hemogoblin. Dragapult provides great speed control and can beat Great Tusk and <a href=\"/dex/sv/pokemon/iron-moth/cap/\" hreflang=\"en\">Iron Moth</a>, which Hemogoblin can struggle against. Dragapult’s Will-O-Wisp can wear down Hemogoblin’s checks such as Cresceidon, Venomicon, and Great Tusk over time, allowing it to KO them with Extreme Speed. Ground-immune teammates such as Equilibra and <a href=\"/dex/sv/pokemon/gliscor/cap/\" hreflang=\"en\">Gliscor</a> greatly assist Hemogoblin by checking threats such as Great Tusk and opposing Gliscor. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/cap/\" hreflang=\"en\">Ogerpon-W</a> threatens Gliscor and <a href=\"/dex/sv/pokemon/skeledirge/cap/\" hreflang=\"en\">Skeledirge</a> for Hemogoblin while easily switching into Water-types such as <a href=\"/dex/sv/pokemon/krilowatt/cap/\" hreflang=\"en\">Krilowatt</a>. Together they can navigate around Venomicon and overwhelm it. With Taunt from Hemogoblin and Encore from Ogerpon-W, Venomicon quickly gets chipped and cannot easily recover HP without giving Hemogoblin setup opportunities. Plasmanta is also a great teammate, although more niche; it easily breaks through walls such as Venomicon, Cresceidon, <a href=\"/dex/sv/pokemon/dondozo/cap/\" hreflang=\"en\">Dondozo</a>, and Skeledirge that Hemogoblin would otherwise struggle against. Plasmanta is also a great check to Ogerpon-W, which greatly threatens Hemogoblin. Entry hazards and duel screens leads such as <a href=\"/dex/sv/pokemon/glimmora/cap/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/cap/\" hreflang=\"en\">Deoxys-S</a> found on hyper offense greatly benefit Hemogoblin, giving it easier sweeping and setup opportunities.</p>",
+          "abilities": [
+            "Pixilate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 40,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 216
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652323,
+            "username": "Anchor9"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 273339,
+                "username": "Lasen"
+              },
+              {
+                "user_id": 297859,
+                "username": "quziel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Baton Pass",
+    "Body Slam",
+    "Brutal Swing",
+    "Bulk Up",
+    "Burning Jealousy",
+    "Charm",
+    "Copycat",
+    "Dazzling Gleam",
+    "Defense Curl",
+    "Disable",
+    "Disarming Voice",
+    "Double-Edge",
+    "Draining Kiss",
+    "Echoed Voice",
+    "Endure",
+    "Energy Ball",
+    "Explosion",
+    "Extreme Speed",
+    "Facade",
+    "Fire Blast",
+    "Flamethrower",
+    "Flare Blitz",
+    "Fling",
+    "Giga Impact",
+    "Grass Knot",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Imprison",
+    "Lash Out",
+    "Life Dew",
+    "Light Screen",
+    "Magical Leaf",
+    "Metronome",
+    "Misty Explosion",
+    "Misty Terrain",
+    "Moonblast",
+    "Moonlight",
+    "Overheat",
+    "Play Rough",
+    "Pound",
+    "Protect",
+    "Psychic",
+    "Psyshock",
+    "Rain Dance",
+    "Rest",
+    "Safeguard",
+    "Screech",
+    "Seismic Toss",
+    "Shadow Ball",
+    "Slam",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spikes",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Kiss",
+    "Tail Whip",
+    "Take Down",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Tickle",
+    "Trailblaze",
+    "Trick",
+    "Wild Charge",
+    "Will-O-Wisp",
+    "Wish",
+    "Wrap",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "name": "Zorua",
+  "alias": "zorua",
+  "types": [
+    "Dark"
+  ],
+  "stats": [
+    40,
+    65,
+    40,
+    80,
+    40,
+    65
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Zorua",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Extrasensory",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 36,
+              "atk": 236,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 585065,
+                "username": "TheShoddyStrawman"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Burning Jealousy",
+    "Calm Mind",
+    "Confuse Ray",
+    "Copycat",
+    "Counter",
+    "Dark Pulse",
+    "Detect",
+    "Dig",
+    "Encore",
+    "Endure",
+    "Extrasensory",
+    "Facade",
+    "Fake Tears",
+    "Fling",
+    "Foul Play",
+    "Fury Swipes",
+    "Grass Knot",
+    "Helping Hand",
+    "Hex",
+    "Hone Claws",
+    "Hyper Voice",
+    "Imprison",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Memento",
+    "Nasty Plot",
+    "Night Daze",
+    "Night Shade",
+    "Pain Split",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Scary Face",
+    "Scratch",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Snarl",
+    "Spite",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Torment",
+    "Trick",
+    "U-turn"
+  ]
+}

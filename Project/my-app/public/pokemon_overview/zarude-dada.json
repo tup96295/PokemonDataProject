@@ -1,0 +1,339 @@
+{
+  "name": "Zarude-Dada",
+  "alias": "zarude-dada",
+  "types": [
+    "Dark",
+    "Grass"
+  ],
+  "stats": [
+    105,
+    120,
+    105,
+    70,
+    95,
+    105
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Zarude-Dada",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              },
+              {
+                "move": "Trailblaze",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jungle Healing",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Zarude-Dada",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a> provides a solid speed control option with a decent amount of defensive utility. Zarude's Speed grants it the ability to pressure <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/serperior/uu/\" hreflang=\"en\">Serperior</a>. U-turn allows Zarude to pivot out against opposing switch-ins like <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a> and <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>, allowing it to bring in teammates that can threaten them. Close Combat gives Zarude super effective coverage for <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a> and Cobalion and an option to consistently hit <a href=\"/dex/sv/pokemon/skarmory/uu/\" hreflang=\"en\">Skarmory</a>, while also OHKOing <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, whereas Jungle Healing grants Zarude the ability to shrug off status from <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a>, <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a>. However, locking Zarude into Jungle Healing is very risky, due to the fact that the opponent will be able to switch anything in for free. Tera Dark gives Knock Off an extra boost in power, notably 2HKOing Serperior even after its item is removed, while Tera Fighting boosts Close Combat and makes Zarude less susceptible to revenge kill attempts from <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>. However, Zarude loses its defensive utility when it Terastallizes, so it should only Terastallize when it is necessary to either revenge kill an opposing threat or clean up the rest of the game.</p>\n<p>Choice Scarf Zarude fits on offense teams that appreciate its compression as a revenge killer and Ground-resistant Pokemon. However, as a Choice item user, Zarude struggles with foes that can sponge its attacks and switch to a resist such as <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> or <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a>. As a result, it appreciates teammates that it can pivot to to pressure these foes such as Latios and <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a>. Latios also outspeeds and pressures Skarmory and Cobalion, allowing Zarude to more easily slot Jungle Healing, while Thundurus-T can form a powerful pivoting core with Zarude. More offensively capable foes such as <a href=\"/dex/sv/pokemon/enamorus-therian/uu/\" hreflang=\"en\">Enamorus-T</a> can also switch into Zarude, so it appreciates defensive teammates that can withstand their attacks, like <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> and Skarmory. Zarude also appreciates teammates that can handle the tier's Flying-types in <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> and opposing Tornadus-T. <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a> and Excadrill help against these Pokemon, as well as Tinkaton, and can provide Stealth Rock to help wear down the aforementioned Flying-types after Zarude removes their Heavy-Duty Boots. Heatran also offensively pressures Tornadus-T and Mandibuzz, while Excadrill provides entry hazard removal to prevent Zarude from being worn down by opposing hazards. <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> can act as a switch-in to Tornadus-T and Tinkaton while also offensively pressuring Mandibuzz and Enamorus-T. Sandy Shocks, alongside other potential teammates like Tornadus-T, Rotom-W, and Slowking, also functions as a pivot that can bring Zarude in on foes it can pressure out such as Latios.</p>",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Dark",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Jungle Healing",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 620325,
+            "username": "ThatOneApple"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              },
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 652656,
+                "username": "Gambit"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulk Up (Atk, SpD, Spe)",
+          "pokemon": "Zarude-Dada",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jungle Healing",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 224,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 32
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Bind",
+    "Bite",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bullet Seed",
+    "Close Combat",
+    "Crunch",
+    "Dark Pulse",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fling",
+    "Focus Punch",
+    "Fury Swipes",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Hammer Arm",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Jungle Healing",
+    "Knock Off",
+    "Lash Out",
+    "Leaf Storm",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Magical Leaf",
+    "Mud Shot",
+    "Nasty Plot",
+    "Petal Blizzard",
+    "Power Whip",
+    "Protect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Scratch",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Snarl",
+    "Solar Beam",
+    "Solar Blade",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Swagger",
+    "Swift",
+    "Swords Dance",
+    "Synthesis",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Throat Chop",
+    "Trailblaze",
+    "U-turn",
+    "Vine Whip"
+  ]
+}

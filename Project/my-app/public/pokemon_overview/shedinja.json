@@ -1,0 +1,133 @@
+{
+  "name": "Shedinja",
+  "alias": "shedinja",
+  "types": [
+    "Bug",
+    "Ghost"
+  ],
+  "stats": [
+    1,
+    90,
+    45,
+    30,
+    30,
+    40
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dual Status (Ghost)",
+          "pokemon": "Shedinja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Shedinja is an effective answer to several Pokemon that otherwise do well against Ghost teams, such as <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>, <a href=\"/dex/sv/pokemon/manaphy/national-dex-monotype/\" hreflang=\"en\">Manaphy</a>, <a href=\"/dex/sv/pokemon/raging-bolt/national-dex-monotype/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, due to Shedinja's Wonder Guard ability blocking all of their common attacks, bolstering Ghost's matchup versus types like Water and Electric. Protect scouts potential super effective coverage from popular Choice item users such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, as well as giving Shedinja a free turn to slowly accrue more burn or poison damage. Will-O-Wisp allows Shedinja to burn many physical attackers that it beats, such as Mega Swampert, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>. Toxic lets Shedinja put dangerous threats to Ghost switching into it such as <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a>, and <a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex-monotype/\" hreflang=\"en\">Mega Charizard X</a> on a timer, allowing its team to more easily outplay them. Shadow Sneak can pick off weakened threats such as <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>. Heavy-Duty Boots allows Shedinja to not be immediately KOed by entry hazards, offering it more opportunities to switch into the aforementioned threats. Alternatively, Focus Sash may be used to inflict status onto these threats in a pinch as well as escape a Pursuit attempt by the likes of <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>. Minimum bulk investment allows Shedinja to guarantee an OHKO on <a href=\"/dex/sv/pokemon/ditto/national-dex-monotype/\" hreflang=\"en\">Ditto</a> transformed into it with Shadow Sneak. Shedinja is commonly found on slower paced Ghost teams, making <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> fantastic partners; they are able to absorb status effects for Shedinja, and the latter also reflects entry hazards with Magic Bounce to protect Focus Sash Shedinja. <a href=\"/dex/sv/pokemon/mimikyu/national-dex-monotype/\" hreflang=\"en\">Mimikyu</a> greatly appreciates Shedinja wearing down the opposing team with its status moves, and Shedinja appreciates Mimikyu threatening Dark-types such as <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Samurott</a>. <a href=\"/dex/sv/pokemon/brambleghast/national-dex-monotype/\" hreflang=\"en\">Brambleghast</a> is able to remove hazards for Focus Sash Shedinja with Rapid Spin and further wears down the opposition with Spikes, while Shedinja takes the burden off of Brambleghast to check Water-types such as Mega Swampert and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex-monotype/\" hreflang=\"en\">Urshifu-R</a>. <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a> forms a solid defensive core with Shedinja, handling many physical threats that Shedinja can only do so much against like <a href=\"/dex/sv/pokemon/victini/national-dex-monotype/\" hreflang=\"en\">Victini</a> and Mega Charizard X.</p>",
+          "abilities": [
+            "Wonder Guard"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 0,
+              "spa": 31,
+              "spd": 0,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Lonely"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 508532,
+            "username": "TheShowdownHoedown"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 592895,
+                "username": "Dusk Mage Necrozma"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

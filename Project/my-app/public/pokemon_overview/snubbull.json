@@ -1,0 +1,199 @@
+{
+  "name": "Snubbull",
+  "alias": "snubbull",
+  "types": [
+    "Fairy"
+  ],
+  "stats": [
+    60,
+    80,
+    50,
+    40,
+    40,
+    30
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Snubbull",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Snubbull fills a valuable role in Little Cup as a reliable Fighting- and Dark-type check through the combination of its pure Fairy typing and ability in Intimidate, allowing it to check common offensive threats such as <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>, <a href=\"/dex/sv/pokemon/timburr/lc/\" hreflang=\"en\">Timburr</a>, and <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a>. Psychic Fangs allows Snubbull to hit Poison-types like <a href=\"/dex/sv/pokemon/gastly/lc/\" hreflang=\"en\">Gastly</a> and <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a> that otherwise wall it. Thunder Wave is a useful tool to hinder opponents, potentially giving Snubbull and its teammates free turns. Thief is a good option for Snubbull in the case that it loses its Eviolite, which happens in nearly every game due to its defensive profile. Earthquake is an option over Thief to hit Steel-types like <a href=\"/dex/sv/pokemon/pawniard/lc/\" hreflang=\"en\">Pawniard</a> and <a href=\"/dex/sv/pokemon/tinkatink/lc/\" hreflang=\"en\">Tinkatink</a>, as well as OHKOing <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a>. Temper Flare is worth mentioning as well, as it lets Snubbull hit Steel-types and Foongus in one moveslot. The given EV spread allows Snubbull to effectively check the physical attackers it is tasked with taking on while ensuring it still has good power behind its attacks. Snubbull can Terastallize into the Steel typing to cover its weaknesses to Poison- and Steel-type attacks, additionally letting it resist Vullaby's Brave Bird if Snubbull gets weakened enough for Brave Bird to otherwise KO. However, this has the disadvantage of making Snubbull weak to Mienfoo's High Jump Kick, as well as other powerful moves like <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a> and <a href=\"/dex/sv/pokemon/trapinch/lc/\" hreflang=\"en\">Trapinch</a>'s Earthquake and Hisuian Growlithe's Flare Blitz.</p>\n<p>Beneficiaries of Snubbull include <a href=\"/dex/sv/pokemon/stunky/lc/\" hreflang=\"en\">Stunky</a>, which struggles into the Fighting-types that Snubbull can easily switch into. Mienfoo enjoys Snubbull checking Vullaby, as Vullaby can come in on all of Mienfoo's attacks and threaten teams with its powerful Brave Bird and Knock Off. Snubbull is a decent partner for Pawniard, as Snubbull can switch into Mienfoo's High Jump Kick for Pawniard. Slow, strong Pokemon like Mudbray and Timburr appreciate Snubbull using Thunder Wave to slow down opposing Pokemon. Snubbull itself is threatened by Poison-types such as Foongus, which threatens Snubbull with either Sludge Bomb or Spore. <a href=\"/dex/sv/pokemon/gothita/lc/\" hreflang=\"en\">Gothita</a> can cover Foongus by trapping it with Shadow Tag, while other Poison-types can be threatened by strong Ground-type Pokemon like Mudbray and Trapinch.</p>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Fangs",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thief",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 36,
+              "atk": 116,
+              "def": 196,
+              "spa": 0,
+              "spd": 116,
+              "spe": 36
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 605215,
+            "username": "Flou"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 107567,
+                "username": "gali"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Bite",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Charm",
+    "Close Combat",
+    "Counter",
+    "Crunch",
+    "Curse",
+    "Dazzling Gleam",
+    "Dig",
+    "Double-Edge",
+    "Earthquake",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fake Tears",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Punch",
+    "Flamethrower",
+    "Fling",
+    "Focus Punch",
+    "Growl",
+    "Headbutt",
+    "Helping Hand",
+    "Hyper Voice",
+    "Ice Fang",
+    "Ice Punch",
+    "Lash Out",
+    "Last Resort",
+    "Lick",
+    "Low Kick",
+    "Metronome",
+    "Mimic",
+    "Mud-Slap",
+    "Overheat",
+    "Payback",
+    "Play Rough",
+    "Present",
+    "Protect",
+    "Psychic Fangs",
+    "Rain Dance",
+    "Rest",
+    "Retaliate",
+    "Reversal",
+    "Roar",
+    "Scary Face",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Snarl",
+    "Snore",
+    "Solar Beam",
+    "Spite",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Super Fang",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Fang",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trailblaze",
+    "Uproar",
+    "Water Pulse",
+    "Wild Charge"
+  ]
+}

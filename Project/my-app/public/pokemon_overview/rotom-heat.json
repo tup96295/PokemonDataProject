@@ -1,0 +1,993 @@
+{
+  "name": "Rotom-Heat",
+  "alias": "rotom-heat",
+  "types": [
+    "Electric",
+    "Fire"
+  ],
+  "stats": [
+    50,
+    65,
+    107,
+    105,
+    107,
+    86
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Pivot",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Rotom-Heat is an essential piece of the metagame, offering a lot of offensive and defensive utility in comparison to bulkier pivots like <a href=\"/dex/sv/pokemon/lanturn/pu/\" hreflang=\"en\">Lanturn</a> and stronger special attackers like <a href=\"/dex/sv/pokemon/salazzle/pu/\" hreflang=\"en\">Salazzle</a>. With its typing, bulk, and access to Levitate, Rotom-Heat can easily switch into walls like <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a> and <a href=\"/dex/sv/pokemon/decidueye-hisui/pu/\" hreflang=\"en\">Hisuian Decidueye</a> as well as offensive threats like <a href=\"/dex/sv/pokemon/ninetales-alola/pu/\" hreflang=\"en\">Alolan Ninetales</a> and either set up on them or pivot with Volt Switch. Will-O-Wisp lets Rotom-Heat ruin and outlast <a href=\"/dex/sv/pokemon/rhydon/pu/\" hreflang=\"en\">Rhydon</a> as well as wear down its other switch-ins such as Lanturn, though the move makes Rotom-Heat noticeably more passive. Pain Split makes Rotom-Heat more adept at dismantling defensive teams, simultaneously keeping it healthy and helping it overwhelm special walls like Assault Vest <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a> and <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a>. The move is an inconsistent source of recovery, though, so Rotom-Heat shouldn't rely on it too heavily. Investing in HP maximizes the mileage Rotom-Heat gets from its defensive profile and also gives it an easier time setting up and sticking around. Overheat's high Base Power means that it hits hard even without Special Attack investment. Thunderbolt and Discharge are alternatives to Volt Switch that are better suited for wallbreaking, don't force Rotom-Heat to switch out, and can paralyze foes, but pivoting with Volt Switch is a huge part of Rotom-Heat's viability. Tera Steel makes Rotom-Heat immune to poison, letting it set up on Toxic users like <a href=\"/dex/sv/pokemon/amoonguss/pu/\" hreflang=\"en\">Amoonguss</a>, and resist Stealth Rock in case it loses its Heavy-Duty Boots. It also helps Rotom-Heat stomach boosted attacks from the likes of Rhydon and <a href=\"/dex/sv/pokemon/mesprit/pu/\" hreflang=\"en\">Mesprit</a> while keeping most of its natural resistances. Tera Poison maintains the Toxic immunity in addition to flipping the script on Fighting-types like <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a> and <a href=\"/dex/sv/pokemon/pawmot/pu/\" hreflang=\"en\">Pawmot</a>. Both options synergize well with Levitate, though Tera Poison leaves Rotom-Heat open to Psychic-type moves from the likes of Galarian Slowbro and Calm Mind Florges.</p>\n<p>Rotom-Heat shines on bulky offense and balance teams, which best leverage its unique blend of offense and defense and benefit from it breaking through opposing bulky builds early- or mid-game. Rhydon is very difficult for Rotom-Heat to break on its own and must be accounted for when using it. Strong physical attackers like <a href=\"/dex/sv/pokemon/bruxish/pu/\" hreflang=\"en\">Bruxish</a> and Hisuian Decidueye are good at pressuring Rhydon as well as other special walls like Florges and <a href=\"/dex/sv/pokemon/snorlax/pu/\" hreflang=\"en\">Snorlax</a>. In return, Rotom-Heat covers these wallbreakers against revenge killers like <a href=\"/dex/sv/pokemon/shaymin/pu/\" hreflang=\"en\">Shaymin</a> and <a href=\"/dex/sv/pokemon/whimsicott/pu/\" hreflang=\"en\">Whimsicott</a>; exploits nuisances like <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a>, <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a>, and <a href=\"/dex/sv/pokemon/cramorant/pu/\" hreflang=\"en\">Cramorant</a>; and gets them in safely against other walls like <a href=\"/dex/sv/pokemon/coalossal/pu/\" hreflang=\"en\">Coalossal</a>. A lure like Toxic <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a> or Power Whip Wo-Chien can either gradually or immediately get rid of Rhydon, with both examples also softening foes like <a href=\"/dex/sv/pokemon/naclstack/pu/\" hreflang=\"en\">Naclstack</a>. Additional pivots like <a href=\"/dex/sv/pokemon/zoroark/pu/\" hreflang=\"en\">Zoroark</a> and Bruxish form strong VoltTurn cores with Rotom-Heat, which can be difficult for foes to withstand. While Rotom-Heat's bulk is good, it benefits from having proper defensive walls like Mudsdale, Galarian Slowbro, and <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a> to fall back on against stronger attackers while making up for their occasional passivity. Florges is another wall that also offers Wish support, which can reduce Rotom-Heat's reliance on Pain Split for recovery. Finally, Pokemon like Skuntank and Mudsdale can absorb Knock Off for Rotom-Heat, ensuring that it doesn't lose its Heavy-Duty Boots while playing around foes like <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a> and Alolan Sandslash.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 400292,
+            "username": "asa"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 355061,
+                "username": "UberSkitty"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Rotom-H's unique typing, access to Levitate, and solid bulk lets it carve out a niche as a pivot that can check threats like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>. Rotom-H can function as a decent Nasty Plot user thanks to its ability to force out Pokemon like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> as well as a solid burn spreader with Will-O-Wisp. However, Rotom-H lacks recovery outside of Pain Split, making it prone to getting worn down throughout a game or brute-forced through by strong attackers like <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>. Additionally, Rotom-H's Stealth Rock weakness leaves it vulnerable to Knock Off, preventing it from effectively checking <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>. Rotom-H's merely decent Special Attack stat and lacking coverage mean that it often struggles to hit the tier's many prominent Dragon-types, particularly <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/flygon/ru/\" hreflang=\"en\">Flygon</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>A Choice Scarf set with Trick can be used to hinder specially defensive Pokemon like <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>; however, it leaves Rotom-H vulnerable to Stealth Rock. Thunderbolt can be used over Volt Switch to trade momentum for power, letting it more heavily dent Electric-weak targets like <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>. Thunder Wave can be used to cripple faster Pokemon like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, letting faster teammates outspeed them.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dragon-types</strong>: Cyclizar can switch into Rotom-H's attacks before removing its Heavy-Duty Boots with Knock Off and/or forcing a boosted Rotom-H out with Dragon Tail. However, Cyclizar that don't run Draco Meteor dislike being burned by Will-O-Wisp. Other Dragon-types that can check it include <a href=\"/dex/sv/pokemon/flygon/ru/\" hreflang=\"en\">Flygon</a> and Hisuian Goodra, due to the former's immunity to Volt Switch and the latter's excellent special bulk.</p>\n<p><strong>Item Disruption</strong>: Rotom-H's weakness to Stealth Rock leaves it heavily reliant on Heavy-Duty Boots to function. As such, Knock Off from Pokemon like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a> can cripple it. Additionally, Trick from foes like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a> can prevent Rotom-H from sweeping effectively while making it vulnerable to Stealth Rock.</p>\n<p><strong>Strong Wallbreakers</strong>: Special wallbreakers, like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, and Choice Specs <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, don't mind being burned and can heavily damage Rotom-H; however, Basculegion-F must watch out for Volt Switch. If lacking Will-O-Wisp, Rotom-H struggles to beat physical wallbreakers like <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a> and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>. <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> deserves a special mention due to its natural immunity to Will-O-Wisp and ability to KO Rotom-H with Stone Edge.</p>\n<p><strong>Special Walls</strong>: <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a> can take any of Rotom-H's moves, absorb Will-O-Wisp, and wear it down with Seismic Toss. However, Chansey can be exploited by Pain Split variants and be forced to burn through Soft-Boiled's low PP. <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> resists both of Rotom-H's STAB moves and can freely set up Spikes, but it struggles to do much back. <a href=\"/dex/sv/pokemon/rhyperior/ru/\" hreflang=\"en\">Rhyperior</a> is similarly resistant to Rotom-H's attacks and can KO it with Stone Edge; however, it hates being burned and is walled by Tera Steel.</p>",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Rotom-H can take advantage of its good typing, excellent ability in Levitate, and bulk to act as a solid Nasty Plot user. Volt Switch lets Rotom-H pivot out of unfavorable matchups, such as against Dragon-types like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, while maintaining momentum. It also allows Rotom-H to hit slower Water-types like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> for solid damage. Pain Split is Rotom-H's best form of recovery, letting it heal against bulkier Pokemon that try to switch in, such as <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>. Will-O-Wisp can be used instead to cripple physical attackers like <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>. Tera Steel gives Rotom-H a myriad of resistances, most notably to Rock, while maintaining its Ground immunity thanks to Levitate; this lets it check Ground-types like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a> much more easily. Tera Steel also gives Rotom-H a valuable immunity to Toxic, letting it wall Umbreon and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a>.</p>\n<p>Rotom-H is a good fit for bulky offense teams that need an offensive pivot and potential setup sweeper. As Rotom-H relies on Heavy-Duty Boots to come in safely, Pokemon that can absorb Knock Off, like <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, make for good partners. Galarian Zapdos is a U-turn user that makes for a good pairing with Rotom-H, as it can pressure specially defensive Pokemon like Cyclizar and Hisuian Goodra. In return, Rotom-H can take Fairy-type attacks from the likes of <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> while chipping away at physically bulky Pokemon like Slowbro. Setup sweepers like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and Dragon Dance <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a> appreciate Rotom-H's ability to bring them in safely with Volt Switch and wear down teams with its Nasty Plot-boosted attacks. Calm Mind Slowbro and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a> in particular can also check physical wallbreakers for Rotom-H, such as <a href=\"/dex/sv/pokemon/rhyperior/ru/\" hreflang=\"en\">Rhyperior</a> and <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>. Entry hazard setters, such as <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and Krookodile, can help chip down Rotom-H's checks, like Cyclizar and Rhyperior. In return, Rotom-H can use common Defoggers, such as <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, as setup fodder to help keep hazards up.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 236507,
+            "username": "Bice"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 647728,
+                "username": "Heatranator"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 388157,
+                "username": "A Cake Wearing A Hat"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set(s).</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023. <a href=\"/dex/sv/formats/battle-stadium-singles/\">For more information on this format and its current events, check out this page!</a></p>\n<p><a href=\"/forums/threads/battle-stadium-regulation-c-analyses.3719040/\">If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Attacker",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Rotom-H sets itself apart from other Fire-types, with its Ground immunity and Volt Switch pivoting. When compared to <a href=\"/dex/sv/pokemon/rotom-wash/battle-stadium-singles/\" hreflang=\"en\">Rotom-W</a>, it is also much more effective at pressuring <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a>.</p>\n</li>\n<li>\n<p><strong>Trick</strong>: Trick gives Rotom-H an excellent tool against defensive foes, such as <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a>.</p>\n</li>\n<li>\n<p><strong>Using a neutral nature with a Timid mint</strong>: Make sure to get a Rotom-H with a neutral nature and then use a Timid Mint on it. This way, it can't be confused by any Berries given with Trick.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Discharge</strong>: While weaker than Thunderbolt, the 30% paralysis chance can be devastating for some of Rotom-H's more troublesome matchups, such as <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>. Do note though that Choice Scarf Rotom-H will have a much harder time 2HKOing Assault Vest <a href=\"/dex/sv/pokemon/azumarill/battle-stadium-singles/\" hreflang=\"en\">Azumarill</a> and certain variants of Dondozo.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low / Medium</strong>: If not running Tera Blast, Rotom-H normally wants to keep its unique typing for defensive purposes, allowing it to switch into several key threats. The most common exception to this is sets that run Tera Fairy for Dragon-type matchups.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Electric is an easy Tera type to recommend, as it increases damage output and removes all of Rotom-H's weaknesses.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: A Fairy Tera typing with Tera Blast makes Rotom-H much better equipped to handle normally problematic Dragon-types, such as <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a>.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: When paired with Tera Blast, Rotom-H now has a much more reliable Fire-type STAB move than Overheat, but at the cost of retaining all of its normal weaknesses.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Choice Scarf</strong>: Choice Scarf lets Rotom-H outspeed normally problematic threats such as <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>.</p>\n</li>\n<li>\n<p><strong>Choice Specs</strong>: The extra power makes Rotom-H far more difficult to wall, with defensive Skeledirge getting 2HKOed by Thunderbolt.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Electric",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive Pivot",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p><a href=\"/dex/sv/pokemon/rotom-wash/battle-stadium-singles/\" hreflang=\"en\">Rotom-W</a>'s defensive set might be the more known one, but Rotom-H's key resistances to Fairy-type attacks and U-turn, plus its ability to put serious pressure on <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>, make it a good alternative as a bulky pivot.</p>\n</li>\n<li>\n<p><strong>Foul Play</strong>: Foul Play is a must-have, as otherwise, Rotom-H is extremely passive against <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>, which is likely to switch in for an Attack boost from Overheat.</p>\n</li>\n<li>\n<p><strong>Will-O-Wisp versus Thunder Wave</strong>: Will-O-Wisp is the preferred status move, potentially shutting down major physical threats such as <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a>, and <a href=\"/dex/sv/pokemon/iron-hands/battle-stadium-singles/\" hreflang=\"en\">Iron Hands</a>. Thunder Wave is still a reasonable choice, though, stopping special attackers such as <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/iron-moth/battle-stadium-singles/\" hreflang=\"en\">Iron Moth</a> in their tracks.</p>\n</li>\n<li>\n<p><strong>Trick and Flame Orb</strong>: This one-use method of burning may seem silly, but taking away important items can be devastating against certain Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a>, and Rotom-H can use this to get rid of troublesome Choice items if it's taken a Trick as well. Note that Rotom-H will burn itself if it Terastallizes while holding Flame Orb, which is generally not good outside of blocking sleep or Toxic poison.</p>\n</li>\n<li>\n<p><strong>Using a Neutral Nature with a Bold Mint</strong>: If using Trick, it's best to run a neutral nature such as Serious and change the stat boosts with a Bold Mint. This way, Rotom-H won't get confused by any Berry it receives.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Rotom-H's defensive typing is very valuable, so Tera is normally reserved for very specific situations.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel with Levitate is a sublime defensive typing, letting Rotom-H better handle huge threats like Dragonite, <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>, and Baxcalibur.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is an alternative option to soak up Dragon-type attacks, and it also gives Rotom-H a better matchup against <a href=\"/dex/sv/pokemon/great-tusk/battle-stadium-singles/\" hreflang=\"en\">Great Tusk</a> and Iron Hands.</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: While this unfortunately makes Gholdengo a much bigger issue, Tera Ghost is still worth considering for making Rotom-H immune to Dragonite's Extreme Speed and <a href=\"/dex/sv/pokemon/iron-valiant/battle-stadium-singles/\" hreflang=\"en\">Iron Valiant</a>'s Close Combat. It also lets Rotom-H switch out of trapping moves without using Volt Switch.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry is Rotom-H's ticket to staying around the longest, usually avoiding 2HKOs from powerful unboosted attacks such as Dragonite's Outrage and Iron Valiant's Close Combat.</p>\n</li>\n<li>\n<p><strong>Rocky Helmet</strong>: Rotom-H's typing makes it a good user of Rocky Helmet, passively punishing physical Fairy-types such as Mimikyu and Iron Valiant and making it a good response to expected uses of U-turn.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Rocky Helmet",
+            "Flame Orb"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 62165,
+                "username": "StarkGod"
+              },
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              },
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Burning Bulwark",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 204,
+              "spa": 0,
+              "spd": 0,
+              "spe": 56
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Parabolic Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Blue Flare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 68,
+              "spa": 116,
+              "spd": 0,
+              "spe": 76
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 6-7 points</p>\n<p><strong>Overview</strong>: Rotom-H sports a unique defensive typing combined with an amazing ability that grants it immunity to Ground-type attacks, making it a decent defensive pivot. Its resistances allow it to switch in on several threats and generate momentum through Volt Switch or hinder foes with Thunder Wave and Will-O-Wisp. Overheat is a powerful STAB move that dents many of Rotom-H's switch-ins, but it can be a double-edged sword, granting foes a chance to set up on Rotom-H as it is forced out due to its reduced Special Attack. Unfortunately, Rotom-H's middling defensive stats and unreliable recovery via Pain Split make it vulnerable to being overwhelmed by strong attackers.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Pivot</strong>: Rotom-H leverages its unique defensive profile to switch into Pokemon it means to check and either generates momentum through Volt Switch or throws out one of its status moves to hinder a foe.</p>\n<p><strong>Choice Attacker</strong>: Rotom-H can be an effective revenge killer when equipped with a Choice Scarf, allowing it to outspeed many foes and hit them with STAB Thunderbolt and Overheat or generate momentum with Volt Switch. Trick is an excellent option for Choice item sets, allowing Rotom-H to hinder opposing Pokemon that dislike being locked into one move.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Thunderbolt, Discharge, Overheat</p>\n<p><strong>Setup Moves</strong>: Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Volt Switch, Thunder Wave, Will-O-Wisp, Pain Split, Trick, Light Screen, Reflect, Foul Play, Night Shade</p>\n<p><strong>Coverage</strong>: Shadow Ball, Hex, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Substitute</strong>: Rotom-H can utilize Substitute to allow it to set up Nasty Plot and break down opposing teams.</p>\n<p><strong>Protect</strong>: Protect can be useful to gain extra recovery from Leftovers and give Rotom-H more time to set up with Nasty Plot or to scout foes' moves.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: As Rotom-H is weak to Stealth Rock, Heavy-Duty Boots allows it to stay healthy when it switches in while Stealth Rock is up.</p>\n<p><strong>Choice Scarf</strong>: A Choice Scarf enables Rotom-H to outspeed many foes and surprise them with an attack, pivot to a teammate with Volt Switch, or cripple them with Trick.</p>\n<h3>Niche Items</h3>\n<p><strong>Eject Pack</strong>: Eject Pack can be an alternate method of gaining momentum without the use of Volt Switch while simultaneously dishing out a strong STAB Overheat.</p>\n<p><strong>Leftovers</strong>: Leftovers can be used to gain passive recovery, allowing Rotom-H to stay on the field for a longer duration.</p>\n<p><strong>Light Clay</strong>: Light Clay extends the duration of dual screens, allowing Rotom-H to support its teammates longer.</p>\n<p><strong>Choice Specs</strong>: Rotom-H can function as a decent wallbreaker when equipped with Choice Specs and still retains the ability to hinder a foe by using Trick.</p>\n<h3>Tera</h3>\n<p>Rotom-H makes a solid secondary Tera Captain by virtue of its ability, Levitate. Tera Steel, Electric, and Poison make great Tera types for defensive sets, making good use of Levitate to get rid of their weakness to Ground. Offensively, Tera Electric and Fire are great options to power up Rotom-H's STAB Thunderbolt and Overheat, whereas Tera Fairy adds coverage to hit opposing Dragon-types and allow Rotom-H to check them more effectively. Despite having solid potential as a Tera Captain, it is typically an inferior choice to most higher-priced Pokemon on your team, and it generally appreciates keeping its typing to check the threats it needs to.</p>\n<h3>Draft Strategy</h3>\n<p>Rotom-H is a good fit on teams in need of momentum, bringing the added benefit of its Ground immunity. It fits well on balance and bulky offense teams as part of a momentum core, as it supports your team's heavy hitters with status moves and Volt Switch.</p>\n<p><strong>Entry Hazard Control</strong>: While Rotom-H can run Heavy-Duty Boots, sets using other items are held back by a weakness to Stealth Rock. Spinners and Defoggers such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> make good partners, as they can remove hazards and keep up momentum with their pivoting moves.</p>\n<p><strong>Knock Off Absorbers</strong>: Rotom-H is heavily reliant on its key items—Heavy-Duty Boots and Choice Scarf—and loses significant utility if it loses its item. It greatly appreciates partners that don't mind switching into Knock Off, like Booster Energy users such as <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>, and Dark-resistant Pokemon like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>.</p>\n<p><strong>Fairy-type Partners</strong>: Dragon-types take little damage from Rotom-H's STAB combination and can easily use it as setup fodder. Fairy-type partners such as <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> alleviate this weakness and allow Rotom-H to more reliably throw out its STAB and status moves.</p>\n<p><strong>Wallbreakers</strong>: Rotom-H appreciates its checks being weakened for its offensive sets to sweep more easily. Strong attacking partners that can break holes in opposing teams are good partners for the oven appliance. This includes <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a> and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, which are also additionally able to provide momentum via Flip Turn.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Ground-types</strong>: Ground-types block Rotom-H's momentum generation via Volt Switch and are unaffected by Thunder Wave. Specially offensive Ground-types such as <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a> are especially dangerous to Rotom-H's team, as they don't mind Will-O-Wisp either.</p>\n<p><strong>Substitute</strong>: Opposing Pokemon can block Rotom-H's attempts to status them with a Substitute and take advantage of Overheat's Special Attack drop to use Rotom-H as setup fodder.</p>\n<p><strong>Knock Off</strong>: Rotom-H becomes vulnerable to Stealth Rock after losing Heavy-Duty Boots and is unable to provide speed control if it loses its Choice Scarf.</p>\n<p><strong>Special Walls</strong>: Rotom-H struggles to break through special walls such as <a href=\"/dex/sv/pokemon/blissey/draft/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/skeledirge/draft/\" hreflang=\"en\">Skeledirge</a> due to its moderate Special Attack stat.</p>\n<p><strong>Faster Water-types</strong>: Despite having super effective STAB Electric-type moves, Rotom-H can be overwhelmed by powerful Water-types like <a href=\"/dex/sv/pokemon/walking-wake/draft/\" hreflang=\"en\">Walking Wake</a> and <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a> that can knock the oven out before it can attack.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 618293,
+            "username": "Diviniya"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 620359,
+                "username": "olivia"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot (HP)",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>44 Defense EVs as a benchmark to avoid the 2HKO from Adamant Life Orb <a href=\"/dex/sv/pokemon/mamoswine/national-dex-ru/\" hreflang=\"en\">Mamoswine</a> whilst maintaining speed.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 44,
+              "spa": 0,
+              "spd": 0,
+              "spe": 212
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Rotom-Heat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets, stay tuned for future updates!</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "Pain Split",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Astonish",
+    "Charge",
+    "Charge Beam",
+    "Confuse Ray",
+    "Dark Pulse",
+    "Discharge",
+    "Double Team",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Facade",
+    "Foul Play",
+    "Helping Hand",
+    "Hex",
+    "Hyper Voice",
+    "Light Screen",
+    "Nasty Plot",
+    "Night Shade",
+    "Overheat",
+    "Pain Split",
+    "Poltergeist",
+    "Protect",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Shadow Ball",
+    "Shock Wave",
+    "Sleep Talk",
+    "Spite",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Trick",
+    "Uproar",
+    "Volt Switch",
+    "Will-O-Wisp"
+  ]
+}

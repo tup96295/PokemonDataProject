@@ -1,0 +1,259 @@
+{
+  "name": "Stunky",
+  "alias": "stunky",
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "stats": [
+    63,
+    63,
+    47,
+    41,
+    41,
+    74
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Attacker",
+          "pokemon": "Stunky",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Stunky serves as an effective wallbreaker, using its strong STAB combination to dismantle opposing defensive cores. Being a grounded Poison-type, Stunky also helps teams by clearing Toxic Spikes. Knock Off strips off Eviolite, while Sucker Punch provides a priority option against foes that outspeed Stunky, like <a href=\"/dex/sv/pokemon/diglett-alola/lc/\" hreflang=\"en\">Alolan Diglett</a> and <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a>. Temper Flare is good against Steel-types like <a href=\"/dex/sv/pokemon/tinkatink/lc/\" hreflang=\"en\">Tinkatink</a>, and it is complemented by Gunk Shot, receiving a damage boost if the move misses. Alternatively, Substitute helps Stunky dodge status from foes like <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a> while also allowing it to scout defensive Terastallizations from foes such as <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>. The maximum Speed investment along with a Jolly Nature enables Stunky to outspeed metagame staples like Mienfoo and <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a>. Tera Dark boosts Knock Off even more and empowers Sucker Punch to give Stunky stronger priority presence, whereas Tera Poison boosts its strongest move in Gunk Shot and grants better defensive positioning against Fighting-types.</p>\n<p>Stunky's ability to strip items with Knock Off makes it an excellent partner for Alolan Diglett, which appreciates facing weakened targets. <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a> is another supreme teammate, as the combination of powerful STAB moves from the core is extremely difficult to mitigate for the majority of team structures. Ground-types like <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a> and Alolan Diglett comfortably threaten Stunky and impede its progress. Options like <a href=\"/dex/sv/pokemon/toedscool/lc/\" hreflang=\"en\">Toedscool</a>, which can pivot into them safely, and Mudbray, which can favorably trade against them, are great teammate choices for Stunky.</p>",
+          "abilities": [
+            "Aftermath"
+          ],
+          "items": [
+            "Eviolite",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Dark",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Temper Flare",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 12,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 244
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 537035,
+            "username": "rahul_3301"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 440139,
+                "username": "Éric"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Stunky",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Aftermath"
+          ],
+          "items": [
+            "Eviolite",
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Temper Flare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Astonish",
+    "Belch",
+    "Bite",
+    "Body Slam",
+    "Crunch",
+    "Dark Pulse",
+    "Dig",
+    "Double-Edge",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Feint",
+    "Fire Blast",
+    "Flamethrower",
+    "Focus Energy",
+    "Foul Play",
+    "Fury Swipes",
+    "Gunk Shot",
+    "Haze",
+    "Helping Hand",
+    "Hex",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Memento",
+    "Nasty Plot",
+    "Night Slash",
+    "Play Rough",
+    "Poison Gas",
+    "Poison Jab",
+    "Poison Tail",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Scary Face",
+    "Scratch",
+    "Screech",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smog",
+    "Smokescreen",
+    "Snarl",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Toxic",
+    "Toxic Spikes",
+    "Trailblaze",
+    "Venoshock"
+  ]
+}

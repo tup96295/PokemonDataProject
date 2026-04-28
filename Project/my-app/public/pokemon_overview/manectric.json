@@ -1,0 +1,106 @@
+{
+  "name": "Manectric",
+  "alias": "manectric",
+  "types": [
+    "Electric"
+  ],
+  "stats": [
+    70,
+    75,
+    60,
+    105,
+    60,
+    105
+  ],
+  "strategies": [
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Manectric",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Lightning Rod"
+          ],
+          "items": [
+            "Manectite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Grass"
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

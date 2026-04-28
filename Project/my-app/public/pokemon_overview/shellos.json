@@ -1,0 +1,178 @@
+{
+  "name": "Shellos",
+  "alias": "shellos",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    76,
+    48,
+    48,
+    57,
+    62,
+    34
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Shellos",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Shellos is a solid entry hazard setter with its high defenses and its ability Sticky Hold, which allows it to always keep its Eviolite. With its bulk and access to Recover, Shellos can reliably set up Stealth Rock in front of powerful threats like <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a> and <a href=\"/dex/sv/pokemon/diglett-alola/lc/\" hreflang=\"en\">Alolan Diglett</a>. Although it's mainly defensive, Shellos's Ground- and Ice-type coverage is a potent offensive combo, as no type resists both. Earth Power hits Steel-types like <a href=\"/dex/sv/pokemon/tinkatink/lc/\" hreflang=\"en\">Tinkatink</a> and <a href=\"/dex/sv/pokemon/sandshrew-alola/lc/\" hreflang=\"en\">Alolan Sandshrew</a>, Electric-types like <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a> and <a href=\"/dex/sv/pokemon/elekid/lc/\" hreflang=\"en\">Elekid</a>, and Rock-types like <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a> and Hisuian Growlithe for super effective damage, while Ice Beam threatens foes such as <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a>, <a href=\"/dex/sv/pokemon/toedscool/lc/\" hreflang=\"en\">Toedscool</a>, and <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a>. This EV spread maximizes Shellos's bulk, allowing it to sponge multiple hits and regain health via Recover. The added bulk prevents 2HKOs from Vullaby, Alolan Diglett, and <a href=\"/dex/sv/pokemon/stunky/lc/\" hreflang=\"en\">Stunky</a> as well as OHKOs from <a href=\"/dex/sv/pokemon/wingull/lc/\" hreflang=\"en\">Wingull</a>. Tera Poison is good defensively—it lets Shellos resist <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>'s High Jump Kick, Stunky's Gunk Shot, and both of <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a>'s STAB moves. It can also prevent Shellos from being poisoned, increasing its longevity.</p>\n<p>Shellos's passivity makes it fits best on balance structures where it can use its bulk to repeatedly switch in and outlast threats such as Vullaby, Alolan Sandshrew, Alolan Diglett, and Hisuian Growlithe. It can also beat Rapid Spin users, helping keep Stealth Rock up, which benefits VoltTurn users such as Mienfoo, Elekid, and Vullaby. Shellos supports frail, offensive wallbreakers like Alolan Diglett and Hisuian Growlithe, since it soft checks most of the metagame. Additionally, Stealth Rock can provide extra chip for them to secure KOs. Shellos can be weak to hazards, so it appreciates Rapid Spin users such as Toedscool and Alolan Sandshrew. In return, Shellos checks threats such as Hisuian Growlithe and Vullaby. Foongus is another hard matchup, so teammates like Elekid, <a href=\"/dex/sv/pokemon/gothita/lc/\" hreflang=\"en\">Gothita</a>, and your own Foongus can be helpful.</p>",
+          "abilities": [
+            "Sticky Hold"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 132,
+              "spa": 0,
+              "spd": 100,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 649184,
+            "username": "xonks"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 440139,
+                "username": "Éric"
+              },
+              {
+                "user_id": 537035,
+                "username": "rahul_3301"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 297659,
+                "username": "deetah"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Armor",
+    "Amnesia",
+    "Ancient Power",
+    "Blizzard",
+    "Body Slam",
+    "Bulldoze",
+    "Chilling Water",
+    "Clear Smog",
+    "Counter",
+    "Curse",
+    "Earth Power",
+    "Endure",
+    "Facade",
+    "Harden",
+    "Helping Hand",
+    "Hydro Pump",
+    "Ice Beam",
+    "Icy Wind",
+    "Liquidation",
+    "Memento",
+    "Mirror Coat",
+    "Mist",
+    "Muddy Water",
+    "Mud Shot",
+    "Mud-Slap",
+    "Pain Split",
+    "Protect",
+    "Rain Dance",
+    "Recover",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Sludge",
+    "Snowscape",
+    "Spit Up",
+    "Stealth Rock",
+    "Stockpile",
+    "Stone Edge",
+    "Substitute",
+    "Surf",
+    "Swallow",
+    "Take Down",
+    "Tera Blast",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Whirlpool",
+    "Yawn"
+  ]
+}

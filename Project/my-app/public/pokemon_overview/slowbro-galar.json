@@ -1,0 +1,821 @@
+{
+  "name": "Slowbro-Galar",
+  "alias": "slowbro-galar",
+  "types": [
+    "Poison",
+    "Psychic"
+  ],
+  "stats": [
+    95,
+    100,
+    95,
+    100,
+    70,
+    30
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Galarian Slowbro should run a Relaxed nature when using Shell Side Arm to maximize damage against foes with lower physical bulk like <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a> and defensive <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a>. Otherwise, a Bold nature is preferred.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shell Side Arm",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Relaxed",
+            "Bold"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Flamethrower deals heavy damage to <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a>, while Earthquake 2HKOes <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a>, an otherwise solid switch-in, and still chunks Alolan Sandslash and opposing Galarian Slowbro. With 4 Special Attack EVs and a Relaxed nature, Shell Side Arm will always be a special attack unless the opponent has lower Defense than Special Defense. Assault Vest Galarian Slowbro's EV spread and nature are highly customizable. Running more Special Defense with a Sassy nature can help Galarian Slowbro better withstand boosted attacks from foes like <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-Heat</a> and <a href=\"/dex/sv/pokemon/salazzle/pu/\" hreflang=\"en\">Salazzle</a>. Investing in Special Attack and using a Modest nature is also a viable option to increase Galarian Slowbro's offensive presence.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shell Side Arm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 128,
+              "spa": 4,
+              "spd": 128,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Relaxed"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Nasty Plot is an alternative boosting option that makes Galarian Slowbro more immediately threatening, but losing out on Special Defense boosts gives attackers like <a href=\"/dex/sv/pokemon/delphox/pu/\" hreflang=\"en\">Delphox</a> an easier time pressuring Galarian Slowbro.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Galarian Slowbro is difficult to take down thanks to its great physical bulk, multiple forms of recovery in Regenerator and Slack Off, and solid defensive typing. Calm Mind Galarian Slowbro can snowball quickly, being able to stack up multiple boosts in the face of premier physically offensive threats like <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> while threatening to sweep entire teams. With access to perfectly accurate Toxic, Galarian Slowbro finds plenty of opportunities to disrupt after coming in on physical wallbreakers. However, some physical attackers have the necessary tools to break through it, including staples in the tier like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a> which can threaten massive damage with strong Ground-type attacks. Fitting the coverage to hit the plethora of Poison- and Steel-types can also be difficult, so Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> can limit Galarian Slowbro's effectiveness as a bulky offensive setup option. Likewise, strong special wallbreakers like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> can threaten to take down Galarian Slowbro before it can establish multiple boosts, forcing it out and deterring setup attempts. Despite access to similar movepools, <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> has a tangible upside with moves like Psychic Noise and Scald, and it often fulfills the role of a physical wall and bulky setup sweeper better than Galarian Slowbro can.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Galarian Slowbro has access to Thunder Wave, which can be quite disruptive and can enable slower wallbreakers like <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a> and <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>. Nasty Plot can be used over Calm Mind to expedite the offensive boosting at the cost of being susceptible to special wallbreakers more easily. Belly Drum sets, with Quick Claw and Quick Draw, can be unreliable but incredibly dangerous with access to strong attacks like Drain Punch, Earthquake, and Shell Side Arm. Ice Beam, Shadow Ball, and Surf are other special attacks that can be used for coverage to hit the likes of <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> for more damage immediately.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Psychic-types</strong>: In a metagame with strong Psychic-types like <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, <a href=\"/dex/sv/pokemon/mew/ru/\" hreflang=\"en\">Mew</a>, and <a href=\"/dex/sv/pokemon/necrozma/ru/\" hreflang=\"en\">Necrozma</a>, Galarian Slowbro can find itself struggling to capitalize on its physical bulk to set up with Calm Mind reliably. Similarly, Slowbro is among the best Pokemon in the tier and can both compete directly with Galarian Slowbro for a spot on a team while also threatening to win Calm Mind setup battles reliably, especially given its better natural bulk and access to great disruptive attacks like Psychic Noise and Scald.</p>\n<p><strong>Special Wallbreakers</strong>: Without establishing multiple Calm Mind boosts, Galarian Slowbro is especially vulnerable to the plethora of special wallbreakers in the tier, such as <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>.</p>\n<p><strong>Encore, Taunt, and Trick</strong>: Disruptive moves like Encore and Taunt can cause major issues for Galarian Slowbro, as it is incredibly slow and will struggle to set up against the bevy of users like <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, Gengar, and Mew. Trick can be used by Choice item users, like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, Jirachi, and <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a>, to significantly hinder Galarian Slowbro, as locking into any of its moves can be easy to capitalize on for the opponent.</p>\n<p><strong>Pivot Spam</strong>: While Galarian Slowbro can absorb many of the attacks from the premier physical wallbreakers like <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, it is susceptible to being used as U-turn fodder for safe entry points for other strong pivot users, like <a href=\"/dex/sv/pokemon/kilowattrel/ru/\" hreflang=\"en\">Kilowattrel</a> and Magnezone. Being caught in the blender of pivot spam can quickly wear down Galarian Slowbro and make standing up to the onslaught of physical attacks much more difficult. As it often finds itself switching into Knock Off, Galarian Slowbro is especially vulnerable to chip damage from entry hazards.</p>",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Galarian Slowbro is a competent physical wall that can fulfill multiple roles, such as spreading poison, forming Regenerator cores, and being a bulky setup sweeper. In conjunction with its exceptional physical bulk, Calm Mind can make it a herculean task to bring down Galarian Slowbro after a few boosts, and opportunities to set up can be easy to find in a metagame filled with physical wallbreakers that struggle to beat it. Flamethrower is a strong option to hit Steel-types such as <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/revavroom/ru/\" hreflang=\"en\">Revavroom</a>. Heavy-Duty Boots allows Galarian Slowbro to function more capably as a defensive pivot throughout a game, while Covert Cloak can prevent secondary effects like Body Slam paralysis and Psychic Noise recovery-blocking from Jirachi and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. Regenerator ensures Galarian Slowbro can continue to function as a switch-in to physical attackers multiple times as needed. Tera Water eliminates the weakness to Ground-type attacks, creating opportunities to set up against <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a> more comfortably. Tera Water also neutralizes the output of strong Ghost- and Psychic-type special attacks, rendering <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, Jirachi, and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> less capable of beating it after a Calm Mind boost.</p>\n<p>A stalwart option for balance and bulky offense teams, Calm Mind Galarian Slowbro is an excellent fit for teams looking to shore up their physical bulk while also hoping to create setup opportunities to clean late-game. Working well in tandem with specially defensive pivots like Assault Vest <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a> that can absorb special attacks from threats like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and Gengar, Galarian Slowbro can function as a stout physical wall to form resilient defensive cores that wear the opposition down gradually for stronger teammates like Basculegion-F and Gengar to clean up late-game. Cyclizar and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> are notable teammates that can form Regenerator cores with Galarian Slowbro to maintain health throughout a game, with both providing Knock Off and U-turn support. Capitalizing on this type of support, Galarian Slowbro teams can keep the pressure on with entry hazard support from the likes of <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, Krookodile, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>. Covert Cloak sets are weak to hazards, which can offset most of the recovery from Regenerator, so hazard control support from Cyclizar and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> is especially beneficial. Offensive options that can capitalize on Galarian Slowbro are fast wallbreakers, such as <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>, Choice Scarf Krookodile, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, that can beat the Steel- and Psychic-types that come in on it, like Empoleon, Jirachi, and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Defensive Galarian Slowbro fulfills the role of physical wall and disruptor well, capable of absorbing attacks from the wallbreakers like <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> while disrupting everything else with Toxic. Psyshock is stronger against specially defensive foes like Assault Vest <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, offering a means to wear them down faster for its teammates. Psyshock also hits Calm Mind setup sweepers like <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a> and opposing Galarian Slowbro harder than Psychic would. Flamethrower melts Steel-types like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> sufficiently. Toxic is Galarian Slowbro's main form of making progress, as it can help wear down many of its switch-ins like <a href=\"/dex/sv/pokemon/flygon/ru/\" hreflang=\"en\">Flygon</a>, <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/vaporeon/ru/\" hreflang=\"en\">Vaporeon</a>. Heavy-Duty Boots helps ensure Galarian Slowbro remains healthy throughout a game to effectively pivot in against physical attackers, while Colbur Berry provides a valuable one-time resistance to Knock Off from strong threats like <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>. Tera Water removes the weakness to Ground and Ghost, allowing Galarian Slowbro to more effectively check Krookodile and Swords Dance <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>. Tera Ghost can be used to provide a Normal immunity, functioning as a spinblocker against Cyclizar as well as a valuable switch-in to Population Bomb <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>. Tera Ghost also provides a valuable resistance to Bug, which helps absorb strong U-turn from Choice Band users like Galarian Zapdos and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>.</p>\n<p>Defensive Galarian Slowbro is a stout choice for balance and bulky offense teams looking for a reliable physical wall and Toxic user. Regenerator cores consisting of Cyclizar, Mienshao, and Galarian Slowbro are incredibly effective at switching into all sorts of attacks for each other and using the combination of Knock Off, U-turn, and Toxic to wear the opponent's team down quickly. Entry hazard support from the likes of <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, Hippowdon, and Krookodile can help these teams by forcing chip damage on wallbreakers like Galarian Zapdos and Terrakion, both of which struggle to break through Galarian Slowbro reliably. Specially defensive teammates that can tank the Ghost-type attacks from threats like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, such as <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, Hisuian Goodra, <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>, form excellent defensive cores with Galarian Slowbro that can bulk a majority of attacks seamlessly. Offensive teammates that can capitalize on this gradual chip damage include fast wallbreakers like Choice Scarf users Galarian Zapdos, Mienshao, and Krookodile as well as setup Pokemon like Swords Dance Mimikyu. Hazard removal support is vital for Colbur Berry sets, so teammates like Cyclizar and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> are valuable to keep Galarian Slowbro healthy enough to reliably check physical wallbreakers multiple times as needed.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Colbur Berry"
+          ],
+          "teratypes": [
+            "Water",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 555741,
+                "username": "MachJacob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "<p>Galarian Slowbro establishes itself as a solid physical wall in NU thanks to Regenerator, letting it come in and check threats repeatedly without having to waste a turn healing. Its typing allows Galarian Slowbro to be immune to poison, allowing it to avoid Toxic from <a href=\"/dex/sv/pokemon/overqwil/nu/\" hreflang=\"en\">Overqwil</a>, while letting it consistently check Fighting-types like <a href=\"/dex/sv/pokemon/mienshao/nu/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, and <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a>. Galarian Slowbro's deep utility movepool lets it support its team by whittling away at walls like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a> with Toxic or slowing down threats like <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a> and <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a> with Thunder Wave. It also has access to Calm Mind, which allows Galarian Slowbro to take advantage of common defensive walls like <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a> and <a href=\"/dex/sv/pokemon/vileplume/nu/\" hreflang=\"en\">Vileplume</a> by making it harder to KO and switch into as well. On the other hand, it can choose to be more immediately threatening with Assault Vest, as it allows Galarian Slowbro to make use of its vast coverage, and it helps act as a blanket check to special wallbreakers such as Munkidori, <a href=\"/dex/sv/pokemon/dragalge/nu/\" hreflang=\"en\">Dragalge</a>, and <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a>. However, Galarian Slowbro's typing makes it weak to common Ground- and Dark-types like <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, Incineroar, and <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>. Galarian Slowbro is also susceptible to being KOed by repeated special hits from wallbreakers like Inteleon, <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>, and Porygon-Z due to its below-average Special Defense. While Galarian Slowbro checks Fighting-types like Toxicroak and Breloom quite well, other physical wallbreakers with neutral STAB moves like <a href=\"/dex/sv/pokemon/heracross/nu/\" hreflang=\"en\">Heracross</a>, <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>, and <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a> can easily overpower it or force it to Terastallize.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Iron Defense + Body Press can be used to turn the tables against Dark-types like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>, and <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, but Galarian Slowbro is still easily forced out by special wallbreakers. Nasty Plot can be used over Calm Mind, turning it into a terrifying sweeper, but unlike Calm Mind, it forces Galarian Slowbro to switch out when it's up against special wallbreakers like <a href=\"/dex/sv/pokemon/dragalge/nu/\" hreflang=\"en\">Dragalge</a> and <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>. Trick Room can be used on Galarian Slowbro to take advantage of its low Speed and decent Special Attack, but without a boost, it struggles to pick up KOs. Colbur Berry lets Galarian Slowbro tank any Dark-type attacks such as Incineroar's and Alolan Muk's Knock Off and <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>'s Dark Pulse so that it can respond with an attack afterwards, but the utility of its other items usually outweighs the benefit of using it. Eject Button allows Galarian Slowbro to become a one-time pivot, letting it safely bring in setup sweepers like Swords Dance Incineroar, Dragon Dance <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, and Nasty Plot Toxicroak for free. Galarian Slowbro could also opt to go itemless, as it can then wall <a href=\"/dex/sv/pokemon/brambleghast/nu/\" hreflang=\"en\">Brambleghast</a> and reduce Knock Off damage from Incineroar and <a href=\"/dex/sv/pokemon/mienshao/nu/\" hreflang=\"en\">Mienshao</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dark-types</strong>: Incineroar and <a href=\"/dex/sv/pokemon/bombirdier/nu/\" hreflang=\"en\">Bombirdier</a> can put a lot of pressure on Galarian Slowbro with their STAB attacks, but they have to be worried about getting poisoned by Sludge Bomb when switching in. Alolan Muk is especially noteworthy for being able to switch into its STAB attacks easily without worry of being poisoned, and it can respond with Knock Off.</p>\n<p><strong>Ground-types</strong>: Flygon, <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a> can tank its Poison-type attacks and threaten Galarian Slowbro with their STAB Earthquake. However, the former two have to fear getting poisoned, and they all have to be cautious about switching into Ice Beam, Grass Knot, or Surf.</p>\n<p><strong>Ghost-types</strong>: <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, <a href=\"/dex/sv/pokemon/typhlosion-hisui/nu/\" hreflang=\"en\">Hisuian Typhlosion</a>, <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>, and Brambleghast can easily destroy Galarian Slowbro with their STAB attacks. However, the former two have to fear about switching into Surf, while the latter two have to worry about Sludge Bomb damage and switching into a Flamethrower.</p>\n<p><strong>Special Wallbreakers</strong>: Special wallbreakers like Choice Specs <a href=\"/dex/sv/pokemon/meloetta/nu/\" hreflang=\"en\">Meloetta</a> and <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a> can easily break through Galarian Slowbro and force it to switch out. Calm Mind users like <a href=\"/dex/sv/pokemon/uxie/nu/\" hreflang=\"en\">Uxie</a> and Chandelure can put a lot of pressure on Galarian Slowbro too, but they have to be mindful of getting poisoned and switching into Psyshock and Surf, respectively.</p>",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Sludge Bomb is Galarian Slowbro's preferred STAB move, as it hits Fairy-types like <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a> and <a href=\"/dex/sv/pokemon/florges/nu/\" hreflang=\"en\">Florges</a> while also threatening foes like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, and <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a> with poison. However, Psyshock can be used over Sludge Bomb, allowing Galarian Slowbro to deal with Poison-types and special walls like <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, <a href=\"/dex/sv/pokemon/tentacruel/nu/\" hreflang=\"en\">Tentacruel</a>, and <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a> more easily, and it also helps overwhelm opposing special setup Pokemon like Sylveon and <a href=\"/dex/sv/pokemon/oricorio-sensu/nu/\" hreflang=\"en\">Oricorio-G</a>. Flamethrower allows Galarian Slowbro to hit Steel-types switching in on Sludge Bomb like <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a>, <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and Tera Steel Sylveon. Alternatively, Surf allows it to target Incineroar trying to blank an incoming Psyshock. Rocky Helmet punishes physical wallbreakers like <a href=\"/dex/sv/pokemon/mienshao/nu/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/cinccino/nu/\" hreflang=\"en\">Cinccino</a>, and <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a>; it also pairs well with Regenerator, as it allows Galarian Slowbro to consistently switch in to rack up chip damage. Heavy-Duty Boots lets Galarian Slowbro avoid damage from entry hazards, meaning its Regenerator can't be negated, while Leftovers gives it passive recovery, minimizing the need to heal off damage with Slack Off. The EV spread lets Galarian Slowbro outpace Bronzong. Tera Water lets it handle Water-, Ground-, and Fire-types like <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion</a>, Flygon, and Incineroar; however, Galarian Slowbro loses its matchup against Grass-types like <a href=\"/dex/sv/pokemon/tsareena/nu/\" hreflang=\"en\">Tsareena</a> and Breloom. Tera Fairy retains the Fighting-type resistance and allows it to resist Dark-type attacks from Incineroar and <a href=\"/dex/sv/pokemon/bombirdier/nu/\" hreflang=\"en\">Bombirdier</a> but makes it weak to foes like Copperajah and Toxicroak.</p>\n<p>Galarian Slowbro pairs best with bulky Water-types like <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>, Swampert, and <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a> to handle Ground-types such as Flygon and Swampert; in return, Galarian Slowbro checks Grass-types like Tsareena, Breloom, and <a href=\"/dex/sv/pokemon/vileplume/nu/\" hreflang=\"en\">Vileplume</a>. Dark-types like Incineroar, Bombirdier, and <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a> synergize well with Galarian Slowbro by beating Ghost-types like <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a> and <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>; in return, Galarian Slowbro handles Fighting-types like Mienshao, Toxicroak, and Breloom. Galarian Slowbro appreciates Fighting-type teammates like Toxicroak, Breloom, and <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>, as they can check Dark-types like Incineroar, Bombirdier, and <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, which threaten it. Physical wallbreakers like Flygon, Mienshao, and <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a> appreciate Galarian Slowbro's positive matchup against physically defensive walls like Milotic, Vileplume, and <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a>. Galarian Slowbro can form a defensive backbone with special walls like Copperajah, Bronzong, and Diancie, as they can check special wallbreakers like Choice Specs <a href=\"/dex/sv/pokemon/meloetta/nu/\" hreflang=\"en\">Meloetta</a> and <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>, while Galarian Slowbro handles the physical wallbreakers like Breloom and Toxicroak.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 228,
+              "spa": 0,
+              "spd": 0,
+              "spe": 28
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Shell Side Arm is preferred over Sludge Bomb, as it will do more damage to special walls. However, Sludge Bomb can be used for its higher poison chance. Similarly, Psyshock hits special walls harder, but Psychic can be used for its raw power. Flamethrower allows it to hit Steel-types like <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/klefki/nu/\" hreflang=\"en\">Klefki</a>, while Earthquake targets <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/tentacruel/nu/\" hreflang=\"en\">Tentacruel</a> with a trade-off of not hitting Bronzong and <a href=\"/dex/sv/pokemon/orthworm/nu/\" hreflang=\"en\">Orthworm</a>. Ice Beam lets Galarian Slowbro hit Ground-types like <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a> and <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a>, while Surf targets Fire- and Rock-types like <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, <a href=\"/dex/sv/pokemon/talonflame/nu/\" hreflang=\"en\">Talonflame</a>, and <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>. Grass Knot can be used as well to hit Water- and Ground-types like <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a>, and <a href=\"/dex/sv/pokemon/gastrodon/nu/\" hreflang=\"en\">Gastrodon</a> more effectively. The given Speed EVs outpace Bronzong, though a spread of 180 HP / 252 SpA / 76 Spe could be run to outspeed Gastrodon if it runs Grass Knot. An alternative bulkier EV spread of 252 HP / 128 Def / 4 SpA / 96 SpD / 28 Spe can be run with a Bold nature to live a +2 Wave Crash from <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a> and ensure that Shell Side Arm is a special attack, but Galarian Slowbro can fail to put its coverage to great use at times if it doesn't invest heavily in its offenses. Tera Water lets Galarian Slowbro handle Fire- and Water-types like Choice Specs Chandelure and <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>. However, Tera Fairy retains the Fighting-type resistance while letting it handle Dark-types like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/bombirdier/nu/\" hreflang=\"en\">Bombirdier</a>.</p>\n<p>Bulky Water- and Grass-types like <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>, Milotic, and <a href=\"/dex/sv/pokemon/tsareena/nu/\" hreflang=\"en\">Tsareena</a> are great partners for Galarian Slowbro, as they can check Ground-types like Flygon and Swampert. Dark-types like Incineroar, <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>, and <a href=\"/dex/sv/pokemon/wo-chien/nu/\" hreflang=\"en\">Wo-Chien</a> appreciate Galarian Slowbro for checking Fighting-types like <a href=\"/dex/sv/pokemon/mienshao/nu/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, and <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a>. In return, they can handle the Ghost-types like Chandelure, <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion</a>, and <a href=\"/dex/sv/pokemon/typhlosion-hisui/nu/\" hreflang=\"en\">Hisuian Typhlosion</a>. Galarian Slowbro's typing leaves it weak to common Knock Off users like Incineroar and Alolan Muk. Thus, it pairs well with Pokemon like <a href=\"/dex/sv/pokemon/bellibolt/nu/\" hreflang=\"en\">Bellibolt</a>, Swampert, and Toxicroak, as they can check the aforementioned Knock Off users. Defensive walls like Bellibolt, <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a>, Vaporeon, and Orthworm are great partners for Galarian Slowbro, as they can check physical wallbreakers like Basculegion and Flygon. Physical wallbreakers like Life Orb Mienshao and Choice Band users such as Paldean Tauros-W and Flygon are great partners to form a wallbreaking core with Galarian Slowbro. Special walls like Bronzong, Milotic, and Incineroar can check special wallbreakers like <a href=\"/dex/sv/pokemon/meloetta/nu/\" hreflang=\"en\">Meloetta</a>, Inteleon, and Chandelure, since Galarian Slowbro can't always beat them.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shell Side Arm",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 28
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 609709,
+            "username": "Pika134"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              },
+              {
+                "user_id": 400664,
+                "username": "Stories"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 3-5 points</p>\n<p><strong>Overview</strong>: Galarian Slowbro is a decent bulky physical wall with longevity through Regenerator, a good defensive typing, excellent utility, and coverage options that allow it to answer some top-tier threats such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>. However, it cannot pivot reliably and often needs a lot of coverage to hit necessary foes. Average special bulk alongside common exploitable weaknesses to Ground and Dark can sometimes make Galarian Slowbro awkward to fit onto rosters.</p>\n<h3>Common Roles</h3>\n<p><strong>Bulky Wall</strong>: Galarian Slowbro can utilize its defensive traits as a grounded Poison-type and spread status while keeping itself healthy via Slack Off and Regenerator. However, unlike alternative slow Psychic-types, it lacks the ability to apply pressure with Future Sight.</p>\n<p><strong>Setup Wallbreaker</strong>: Using moves such as Iron Defense, Calm Mind, and Nasty Plot, Galarian Slowbro can turn the tides on foes that attempt to take advantage of its assumed passive nature.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Sludge Bomb, Sludge Wave, Shell Side Arm, Gunk Shot, Psychic, Psyshock, Psychic Noise, Zen Headbutt</p>\n<p><strong>Setup Moves</strong>: Nasty Plot, Calm Mind, Iron Defense, Curse</p>\n<p><strong>Utility Moves</strong>: Toxic, Trick, Thunder Wave, Yawn, Slack Off, Light Screen, Haze, Brick Break, Foul Play</p>\n<p><strong>Coverage</strong>: Body Press, Drain Punch, Fire Blast, Flamethrower, Focus Blast, Grass Knot, Hex, Hydro Pump, Ice Beam, Ice Punch, Liquidation, Power Gem, Earthquake, Surf, Shadow Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Stored Power</strong>: Galarian Slowbro’s setup options alongside a Weakness Policy can be used to boost this move to staggering levels of damage output.</p>\n<p><strong>Trick Room</strong>: Galarian Slowbro can use Trick Room to position itself offensively, wallbreak for teammates, and punish foes that enjoy using Speed-boosting items.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Entry hazards limit Galarian Slowbro's ability to check opposing offensive Pokemon consistently, so Heavy-Duty Boots are a great way to avoid them and maximize Regenerator recovery.</p>\n<p><strong>Black Sludge / Leftovers</strong>: Black Sludge can give Galarian Slowbro some much-needed longevity if hazards are not a concern. Leftovers is used if Galarian Slowbro is a Tera Captain.</p>\n<p><strong>Assault Vest</strong>: Galarian Slowbro’s Special Defense can leave a bit to be desired in some matchups, so Assault Vest can be used to take hits from the special side.</p>\n<p><strong>Rocky Helmet</strong>: Galarian Slowbro can utilize a Rocky Helmet to punish U-turn and some physical attackers.</p>\n<p><strong>Eject Button</strong>: Galarian Slowbro can use an Eject Button to help with its lack of pivoting options and allow better repositioning for its offensive teammates.</p>\n<h3>Niche Items</h3>\n<p><strong>Red Card</strong>: A Red Card can be used to phaze Pokemon that are pivoting out of Galarian Slowbro and looking to reposition.</p>\n<p><strong>Resistance Berries</strong>: Galarian Slowbro’s wide utility movepool and coverage open the door to using resistance Berries to lure and punish potential threats that might otherwise knock out Galarian Slowbro.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry can be used to avoid a 2HKO from a given foe.</p>\n<p><strong>Weakness Policy</strong>: Alongside its various setup moves or Trick Room, Galarian Slowbro can utilize the boosts from Weakness Policy to amplify its attacks further.</p>\n<h3>Tera</h3>\n<p>Galarian Slowbro's solid defensive typing and role as a tank means it does not necessarily require Terastallization to be effective in its roles. However, if there are no better options, Tera types such as Grass and Fairy can grant Galarian Slowbro even more defensive capabilities while receiving reliable coverage via Tera Blast. Tera Steel, Water, and Ground can also assist defensively if needed.</p>\n<h3>Draft Strategy</h3>\n<p>Galarian Slowbro should be used on rosters that sorely need a grounded Poison-type or a blanket check for Fairy-, Grass-, or Poison-type Pokemon. It can also be used beside other defensive pieces that can pivot reliably to form a defensive core.</p>\n<p><strong>Fighting-type Pokemon</strong>: Galarian Slowbro greatly appreciates partners like <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/keldeo/draft/\" hreflang=\"en\">Keldeo</a> that can break through Dark- and Steel-type foes that it struggles against.</p>\n<p><strong>Dark-type Pokemon</strong>: Foes such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> appreciate Galarian Slowbro's ability to swap in and take the Fairy- and Fighting-type hits that otherwise threaten these Pokemon.</p>\n<p><strong>Fast Wallbreakers</strong>: Galarian Slowbro can swap into an attack and use an Eject Button to pivot to fast wallbreakers such as <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a> safely while keeping itself healthy.</p>\n<p><strong>Entry Hazard Control</strong>: Good hazard control, such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> or <a href=\"/dex/sv/pokemon/mandibuzz/draft/\" hreflang=\"en\">Mandibuzz</a>, can allow Galarian Slowbro the freedom to use other items besides Heavy-Duty Boots.</p>\n<p><strong>Special Walls</strong>: Galarian Slowbro can form a defensive backbone with special walls such as <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a> to shore up its average special bulk.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dark- and Ground-type Pokemon</strong>: Dark- and Ground-type Pokemon such as Roaring Moon, <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/krookodile/draft/\" hreflang=\"en\">Krookodile</a> can safely switch in on Galarian Slowbro and hit it extremely hard or threaten to KO it outright.</p>\n<p><strong>Steel-type Pokemon</strong>: Foes such as <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a>, Tinkaton, and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> can shrug off Galarian Slowbro's STAB moves with ease, forcing it to run specific coverage to deal any damage to them.</p>\n<p><strong>Strong Wallbreakers</strong>: Galarian Slowbro can still struggle to take on some offensive Pokemon brought in safely via pivoting moves. Strong Pokemon with a Dark, Ground, or Ghost typing, such as <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, may break through Galarian Slowbro with enough power.</p>\n<p><strong>Entry Hazards</strong>: Galarian Slowbro needs to remain healthy to handle offensive threats, and as such, it hates the chip damage done by hazards that might put it into KO range of a foe. Heavy-Duty Boots can help to circumvent this issue, but this is often sacrificing a more useful item such as an Assault Vest or a resistance Berry.</p>",
+      "comments": "",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 315566,
+            "username": "AceTrainerOrange"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657717,
+                "username": "Big Pharma"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Slowbro-Galar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Slowbronite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid",
+    "Acid Spray",
+    "Amnesia",
+    "Avalanche",
+    "Belch",
+    "Belly Drum",
+    "Blizzard",
+    "Block",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Calm Mind",
+    "Chilling Water",
+    "Confusion",
+    "Curse",
+    "Dig",
+    "Disable",
+    "Double-Edge",
+    "Drain Punch",
+    "Earthquake",
+    "Endure",
+    "Expanding Force",
+    "Facade",
+    "Fire Blast",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Foul Play",
+    "Giga Impact",
+    "Grass Knot",
+    "Growl",
+    "Gunk Shot",
+    "Haze",
+    "Headbutt",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Iron Defense",
+    "Light Screen",
+    "Liquidation",
+    "Metronome",
+    "Muddy Water",
+    "Mud Shot",
+    "Nasty Plot",
+    "Poison Jab",
+    "Power Gem",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Rest",
+    "Rock Blast",
+    "Sandstorm",
+    "Scary Face",
+    "Shadow Ball",
+    "Shell Side Arm",
+    "Skill Swap",
+    "Slack Off",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smack Down",
+    "Snowscape",
+    "Stomp",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thunder Wave",
+    "Toxic",
+    "Trick",
+    "Trick Room",
+    "Venoshock",
+    "Waterfall",
+    "Water Pulse",
+    "Weather Ball",
+    "Whirlpool",
+    "Withdraw",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

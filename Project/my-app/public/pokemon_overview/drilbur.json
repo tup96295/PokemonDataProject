@@ -1,0 +1,139 @@
+{
+  "name": "Drilbur",
+  "alias": "drilbur",
+  "types": [
+    "Ground"
+  ],
+  "stats": [
+    60,
+    85,
+    40,
+    30,
+    45,
+    68
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Drilbur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Mold Breaker"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Poison",
+            "Rock"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poison Jab",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 156,
+              "def": 116,
+              "spa": 0,
+              "spd": 0,
+              "spe": 212
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Brick Break",
+    "Bulldoze",
+    "Crush Claw",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Drill Run",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fissure",
+    "Fling",
+    "Fury Swipes",
+    "Helping Hand",
+    "High Horsepower",
+    "Hone Claws",
+    "Iron Defense",
+    "Metal Claw",
+    "Metal Sound",
+    "Mud Shot",
+    "Mud-Slap",
+    "Poison Jab",
+    "Protect",
+    "Rapid Spin",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Sand Tomb",
+    "Scorching Sands",
+    "Scratch",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Swords Dance",
+    "Take Down",
+    "Tera Blast",
+    "X-Scissor"
+  ]
+}

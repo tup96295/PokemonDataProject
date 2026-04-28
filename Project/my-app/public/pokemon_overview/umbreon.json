@@ -1,0 +1,746 @@
+{
+  "name": "Umbreon",
+  "alias": "umbreon",
+  "types": [
+    "Dark"
+  ],
+  "stats": [
+    95,
+    65,
+    110,
+    60,
+    130,
+    65
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Umbreon provides tremendous value as a specially defensive wall that can support its teammates through Wish passing and status spreading. Umbreon is most often utilized in Wish passing to some of the tier's best Choice item wallbreakers such as <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>. Similarly, Umbreon can prop up balance and bulky offense structures by comfortably tanking attacks from special wallbreakers like Basculegion-F and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> and spreading status while maintaining its own health with Moonlight and Wish. Umbreon is efficient in neutralizing setup sweepers because of its natural bulk and ability to use their strength against them with Foul Play. Umbreon is, however, severely allergic to Bug- and Fighting-type attacks, which are commonplace in a metagame with strong threats that can force it out like Galarian Zapdos, <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>. Using Terastallization on Umbreon grants it several key benefits, notably Tera Poison to flip the weaknesses to Bug and Fighting and become immune to poison. This, however, is not enough to help it break through important checks to Umbreon like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Umbreon can use Thunder Wave over Toxic on teams that use slower wallbreakers like <a href=\"/dex/sv/pokemon/golurk/ru/\" hreflang=\"en\">Golurk</a> and <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>, allowing them to outspeed the opposition. Roar provides an option to phaze opposing setup sweepers like Tera Poison <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and Calm Mind <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>, while Taunt is another option that can prevent setup attempts. While Umbreon often skews specially defensive, it can opt to run physical bulk instead to better check the plethora of strong physical attackers in the tier like <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a>, <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a>, and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fighting-type wallbreakers</strong>: There is no shortage of strong Fighting-type wallbreakers that immediately threaten Umbreon, such as <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a>, <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>, <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>.</p>\n<p><strong>Disruption</strong>: Umbreon suffers from a low Speed stat, which makes it easy to disrupt with faster Encore users like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>. Taunt users like Krookodile and <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a> similarly make life difficult for Umbreon as it struggles to check them effectively without healing support in Moonlight and Wish. Pokemon like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> can threaten to Trick a Choice item onto Umbreon, rendering it nearly useless as a support Pokemon.</p>\n<p><strong>VoltTurn</strong>: Umbreon is often used to check special wallbreakers like <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, though both of these have access to pivot moves and can quickly wear it down with VoltTurn cores utilizing teammates like Mienshao and Galarian Zapdos.</p>",
+      "movesets": [
+        {
+          "name": "Wish Support",
+          "pokemon": "Umbreon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Foul Play hits <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and Dragon Dance <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a> for large chunks of damage. Toxic helps Umbreon be less passive, threatening to secure a big poison on difficult-to-take-down Pokemon such as <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a>. Protect is a valuable move on Umbreon to scout for Choice-locked attacks from wallbreakers like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> while also allowing for a Wish to land safely and gaining a turn of Leftovers recovery; alternatively, Moonlight can provide more immediate healing in a similar vein. Inner Focus prevents Umbreon from getting flinched down by faster Pokemon like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and Jirachi, while Synchronize can allow Umbreon to act as a status absorber while returning the favor to Pokemon like Body Slam Jirachi and Thunder Wave <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>. Leftovers is the preferred item for Umbreon to maximize its longevity, though Heavy-Duty Boots can be used to prevent entry hazard chip from accruing too quickly as well. Tera Poison flips weaknesses to Bug, Fairy, and Fighting, which is important to survive the onslaught of attacks from wallbreakers like <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, Gardevoir, and Galarian Zapdos, while also providing a key immunity to poison. Similarly, Tera Ghost can provide an immunity to Fighting and Normal, notably letting Umbreon punish <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a> with Foul Play; it can also help Umbreon function as a spinblocker against <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>.</p>\n<p>Umbreon is an excellent fit on balance and bulky offense structures, fulfilling many key roles such as Wish passing and status spreading. Using its defensive prowess to provide reliable recovery to Choice item wallbreakers like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and Galarian Zapdos is a defining trait of Umbreon's, as it can be difficult for teams to survive the onslaught of strong attacks while also trying to break through Umbreon. Another notable partner for Umbreon is <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, which can switch in against the physical Bug- and Fighting-type attacks thrown at Umbreon from the likes of Mienshao and Galarian Zapdos to activate Weak Armor to become an immediate threat. Slowbro pairs well with Umbreon defensively, as they can be quite difficult to break through using their immense bulk and type combination of Dark and Psychic. Given that Toxic is Umbreon's most notable way of dealing out damage, poison absorbers like <a href=\"/dex/sv/pokemon/gligar/ru/\" hreflang=\"en\">Gligar</a> and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> can reliably switch into Umbreon, so teammates like <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a> and Basculegion-F are important to threaten these checks. Entry hazard removal is important for Umbreon, as it often opts for Leftovers over Heavy-Duty Boots, making <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> two great partners that can provide hazard removal. These two also resist Bug and Fighting, which helps to form dynamic defensive cores that can use Umbreon's access to Toxic to wear down the opposition. Other defensive partners like Gligar and Hisuian Goodra, which lack reliable recovery of their own, can use Wish pass support from Umbreon to improve their longevity.</p>",
+          "abilities": [
+            "Inner Focus",
+            "Synchronize"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Poison",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 231398,
+                "username": "feen"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Umbreon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This analysis was for Battle Stadium Singles Regulation C, which ended on June 30th, 2023. Since then, this Pokemon's viability has massively dropped off, and it is no longer relevant. Using this Pokemon in today's metagame is not advised unless you have an extremely niche, hyper-specific need to cover.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wish Tank",
+          "pokemon": "Umbreon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Umbreon's high bulk allows it tank a slew of offensive Pokemon. Alongside excellent utility moves, Umbreon can generate tempo while surviving even surprise Tera-boosted attacks.</p>\n</li>\n<li>\n<p><strong>Foul Play</strong>: In such a physically leaning format, Foul Play is a strong reliable move to chip the opponent's Pokemon. In particular, it punishes Dragon Dance from Lum Berry <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p><strong>Wish and Protect</strong>: Wish + Protect provides excellent recovery opportunies for both Umbreon and its teammates. With Leftovers's animation as well, its great at stalling out the timer. Protect also scouts for U-turn and Tera.</p>\n</li>\n<li>\n<p><strong>Yawn</strong>: Yawn's ability to force switches generates extra Leftovers recovery and generates momentum for its teammates.</p>\n</li>\n<li>\n<p><strong>Thunder Wave</strong>: Thunder Wave has excellent synergy with Wish. If the opponent's Pokemon is unable to attack on the turn Umbreon uses Wish, Umbreon can easily pass the Wish to a teammate.</p>\n</li>\n<li>\n<p><strong>Taunt</strong>: Umbreon can Taunt opposing walls and deny their recovery, with foes such as <a href=\"/dex/sv/pokemon/hippowdon/battle-stadium-singles/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a> being especially vulnerable.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Despite its incredible bulk, Umbreon's Fighting- and Fairy-type weaknesses are exploitable by several top threats and often needs to be removed.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: In a heavily Dragon-centric metagame, Tera Fairy on defensive Pokemon is highly valuable. Removing Umbreon's Fighting- and Fairy-type weakness also helps deal with Sacred Sword <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a>.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison resists Fighting, Bug, and Fairy and provides an immunity to Toxic, but makes it more vulnerable to Earthquake from the likes of Dragonite and <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Leftovers</strong>: Combined with Protect, Leftovers keeps Umbreon healthy and a little less reliant on Wish.</p>\n</li>\n<li>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet's chip damage is serviceable, but many top physical threats have suitable non-contact moves they can use on Umbreon, especially after Umbreon Terastallizes.</p>\n</li>\n</ul>\n<h5>Abilities</h5>\n<ul>\n<li>\n<p><strong>Inner Focus</strong>: Inner Focus avoids flinches from Chien-Pao and <a href=\"/dex/sv/pokemon/kingambit/battle-stadium-singles/\" hreflang=\"en\">Kingambit</a>, making Umbreon a more reliable check.</p>\n</li>\n<li>\n<p><strong>Synchronize</strong>: Synchronize punishes attempts to burn Umbreon.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpD with Bold</strong>: With Terastallization, this spread allows Umbreon to tank a majority of the physical metagame.</p>\n</li>\n<li>\n<p><strong>172 HP / 252 Def / 60 SpD / 20 Spe with Bold</strong>: If running Taunt, 20 Speed EVs outpace <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a> and Corviknight while retaining all-around bulk.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Leftovers",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613881,
+            "username": "Tachipoyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "<p>Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.</p>\n<p>If you feel this analysis is not up to date, <a href=\"https://www.smogon.com/forums/threads/umbreon.3713520/\">feel free to check out the thread for this Pokemon and post suggestions</a>. For more resources on Series 1 in general, <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-1-a-land-free-of-ruins-and-paradoxes.3711710/\">check out this thread</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wish Tank",
+          "pokemon": "Umbreon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Umbreon’s high bulk allows it tank a slew of offensive Pokemon. In particular, it matches up extremely well against <a href=\"/dex/sv/pokemon/dragapult/bss-series-1/\" hreflang=\"en\">Dragapult</a>. A naturally high bulk alongside excellent utility moves means Umbreon can generate tempo while surviving even surprise Tera-boosted attacks.</p>\n</li>\n<li>\n<p>In such a physically leaning format, Foul Play is a strong reliable move to chip the opponent’s Pokemon. In particular, it punishes Swords Dance from Lum Berry <a href=\"/dex/sv/pokemon/kingambit/bss-series-1/\" hreflang=\"en\">Kingambit</a>.</p>\n</li>\n<li>\n<p>Wish + Protect provides excellent recovery, and with Leftovers's animation as well, is great at stalling out the timer and can also keep teammates healthy.</p>\n</li>\n<li>\n<p>Yawn's ability to force switches generates extra Leftovers recovery and generates momentum for its teammates.</p>\n</li>\n<li>\n<p>Thunder Wave has excellent synergy with Wish. If the opponent’s Pokemon is unable to attack on the turn Umbreon uses Wish, Umbreon can easily pass the Wish to a teammate.</p>\n</li>\n<li>\n<p>Speed investment can Taunt opposing walls and deny their recovery; Hippowden is especially vulerable to Taunt.</p>\n</li>\n<li>\n<p>Protect combined with Leftovers provides recovery and scouts for U-turn and Tera.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Poison</strong>: Tera Poison resists Fighting, Bug, and Fairy and provides an immunity to Toxic.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel resists Bug and Fairy, is immune to Toxic, and tanks Kingambit's Steel-type moves.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: In a heavily Dragon-centric metagame, Tera Fairy on defensive Pokemon is highly valuable.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpD with Bold</strong>: This spread allows Umbreon to tank a majority of the heavily physical metagame.</p>\n</li>\n<li>\n<p><strong>172 HP / 252 Def / 60 SpD / 20 Spe with Bold</strong>: If running Taunt, 20 Speed EVs outpace <a href=\"/dex/sv/pokemon/skeledirge/bss-series-1/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/corviknight/bss-series-1/\" hreflang=\"en\">Corviknight</a> while retaining all-around bulk.</p>\n</li>\n</ul>\n<h4>Abilities</h4>\n<ul>\n<li>\n<p><strong>Inner Focus</strong>: Inner Focus avoids flinches from Kingambit and <a href=\"/dex/sv/pokemon/hydreigon/bss-series-1/\" hreflang=\"en\">Hydreigon</a>, making it a more reliable check.</p>\n</li>\n<li>\n<p><strong>Synchronize</strong>: Synchronize punishes attempts to burn Umbreon.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Leftovers",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613881,
+            "username": "Tachipoyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wish Tank",
+          "pokemon": "Umbreon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Umbreon’s high bulk allows it tank a slew of offensive Pokemon. In particular, it matches up extremely well against <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a>. A naturally high bulk alongside excellent utility moves means Umbreon can generate tempo while surviving even surprise Tera-boosted attacks.</p>\n</li>\n<li>\n<p><strong>Foul Play</strong>: In such a physically leaning format, Foul Play is a strong reliable move to chip the opponent’s Pokemon. In particular, it punishes Swords Dance from Lum Berry <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a>. Protect also scouts for U-turn and Tera.</p>\n</li>\n<li>\n<p><strong>Wish and Protect</strong>: Wish + Protect provides excellent recovery, and with Leftovers's animation as well, is great at stalling out the timer and can also keep teammates healthy.</p>\n</li>\n<li>\n<p><strong>Yawn</strong>: Yawn's ability to force switches generates extra Leftovers recovery and generates momentum for its teammates.</p>\n</li>\n<li>\n<p><strong>Thunder Wave</strong>: Thunder Wave has excellent synergy with Wish. If the opponent’s Pokemon is unable to attack on the turn Umbreon uses Wish, Umbreon can easily pass the Wish to a teammate.</p>\n</li>\n<li>\n<p><strong>Taunt</strong>: Umbreon can Taunt opposing walls and deny their recovery; with foes such as <a href=\"/dex/sv/pokemon/hippowdon/bss-series-2/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a> being especially vulnerable.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Poison</strong>: Tera Poison resists Fighting, Bug, and Fairy and provides an immunity to Toxic.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel resists Bug and Fairy, is immune to Toxic, and has a decent matchup against Kingambit and <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a>.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: In a heavily Dragon-centric metagame, Tera Fairy on defensive Pokemon is highly valuable.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpD with Bold</strong>: This spread allows Umbreon to tank a majority of the heavily physical metagame.</p>\n</li>\n<li>\n<p><strong>172 HP / 252 Def / 60 SpD / 20 Spe with Bold</strong>: If running Taunt, 20 Speed EVs outpace <a href=\"/dex/sv/pokemon/skeledirge/bss-series-2/\" hreflang=\"en\">Skeledirge</a> and Corviknight while retaining all-around bulk.</p>\n</li>\n</ul>\n<h4>Abilities</h4>\n<ul>\n<li>\n<p><strong>Inner Focus</strong>: Inner Focus avoids flinches from Kingambit and <a href=\"/dex/sv/pokemon/hydreigon/bss-series-2/\" hreflang=\"en\">Hydreigon</a>, making it a more reliable check.</p>\n</li>\n<li>\n<p><strong>Synchronize</strong>: Synchronize punishes attempts to burn Umbreon.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Leftovers",
+            "Rocky Helmet",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613881,
+            "username": "Tachipoyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Umbreon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Boasting excellent defenses and a plethora of utility moves, Umbreon finds itself a niche in providing bulky support along with Inner Focus ignoring the ever so common Fake Out from the likes of <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>. Access to Foul Play allows Umbreon to tackle physical threats such as <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> as well as threatening <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> with a huge amount of damage. Snarl helps tremendously against special attackers like <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>, Calyrex-S, and <a href=\"/dex/sv/pokemon/lunala/vgc24-regulation-g/\" hreflang=\"en\">Lunala</a>, dealing a decent chunk of damage to the latter two. Helping Hand can also be used in this slot to further boost the team's offensive pressure to help secure KOs, such as Helping Hand-boosted Tera Fairy <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a> OHKOing Incineroar with Play Rough. Yawn is Umbreon's primary means of disruption, forcing the opponent to keep switching their Pokemon to prevent them from being put to sleep, while Taunt helps shut down opposing support Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a> or any Trick Room setters such as <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-g/\" hreflang=\"en\">Farigiraf</a> and Calyrex-I. Moonlight, on the other hand, increases Umbreon's longevity on the field and is especially useful in sun teams. Safety Goggles gives it a much needed immunity to Amoonguss, which can otherwise completely shut down Umbreon with Spore and Rage Powder. The EV spread allows Umbreon to survive a Collision Course from <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> outside weather, a Tera Fairy Moonblast from <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>, and prevents the 2HKO from a rain-boosted Weather Ball and Thunderbolt from <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> and a Special Attack Booster Energy <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, respectively. Tera Water is an excellent defensive Tera type, further bolstering Umbreon against Calyrex-I, <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>. On the other hand, Tera Poison provides a resistance to Fairy and Fighting-type moves such as Flutter Mane's Moonblast, Koraidon's Collision Course, and <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a>'s Close Combat.</p>\n<p>Despite its longevity and disruptive options, Umbreon provides little to no offensive pressure most of the time. Pokemon like Zacian-C, <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a>, Koraidon, and the Urshifu formes instantly threaten Umbreon with their STAB moves, while faster Taunt users such as Incineroar and Flutter Mane shut down its support options. Umbreon pairs well with offensive Pokemon such as Zacian-C and Koraidon that can handle the aforementioned threats and take advantage of its Yawn pressure, with the latter setting up sun to maximize the healing provided by Moonlight. Rillaboom partners well with Umbreon because it functions as a Kyogre and Urshifu-R check while providing Grassy Terrain recovery and positioning through its U-turn. Meanwhile, Urshifu-R compliments Umbreon's support role by providing solid offensive pressure by pinning opponents with Surging Strikes, OHKOing Incineroar and Flutter Mane with the move.</p>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Safety Goggles"
+          ],
+          "teratypes": [
+            "Water",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 188,
+              "spa": 0,
+              "spd": 68,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 239881,
+            "username": "Mr.GX"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641757,
+                "username": "fyfyy"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: Umbreon is an incredibly bulky Pokemon that uses its utility moves to be a great blanket check for many dangerous Pokemon. Furthermore, Umbreon can fit on a good variety of teams that want a cheap special wall. However, Umbreon is let down by the fact it is abysmal offensively. Its reliance on those utility moves can make it easy to set up on or shut down by disruptive moves despite the fact it has disruptive moves of its own it can use to prevent this from happening.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Special Tank</strong>: Boasting fantastic mixed defenses with a passable defensive typing that allows it to check Psychic- and Ghost-types as well as reliable healing, Umbreon is a dangerous tank that won't go down in one hit even from some super effective attacks. While it still has great physical bulk, its role as a special tank is much more unique and should be taken full advantage of.</p>\n<p><strong>Utility</strong>: Having the ability to pass high-HP Wishes to its teammates, Umbreon can also act purely as a utility Pokemon with its great supporting movepool.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Foul Play, Crunch, Dark Pulse</p>\n<p><strong>Setup Moves</strong>: Calm Mind</p>\n<p><strong>Utility Moves</strong>: Moonlight, Roar, Snarl, Taunt, Thunder Wave, Toxic, Wish, Yawn, Protect</p>\n<p><strong>Coverage</strong>: Alluring Voice, Psychic</p>\n<h3>Niche Moves</h3>\n<p><strong>Reflect / Light Screen</strong>: Umbreon normally has enough bulk to hold its own; however, dual screens are an option if it wants to beef up its teammates.</p>\n<p><strong>Mean Look</strong>: A common way for foes to beat Umbreon is to switch out to prevent Toxic damage from racking up. Mean Look can be used to prevent that from happening.</p>\n<p><strong>Charm</strong>: Umbreon is able to handle special threats by itself with no problem; however, Charm can be used if Umbreon wants to better take on certain physically offensive Pokemon.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: By preventing entry hazard damage from adding up, most notably from Toxic Spikes, Heavy-Duty Boots is a safe way to let Umbreon repeatedly switch in to tank hits.</p>\n<p><strong>Leftovers</strong>: When it's combined with Protect to safely get healed from Wish, have Yawn go off, or continue to increase Toxic damage, Leftovers can act as reliable healing through it all.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: As Psychic- and Ghost-types that Umbreon wants to check usually have Fighting- or Fairy-type moves, a resistance Berry can alleviate some of the damage one time.</p>\n<p><strong>Sitrus Berry</strong>: When Leftovers is too slow for a method of recovery, Sitrus Berry can be used as a more immediate health pack to keep Umbreon out of KO ranges.</p>\n<p><strong>Rocky Helmet</strong>: While Umbreon typically functions best as a special wall, Rocky Helmet can be used on physically defensive sets to give it a way to punish contact moves.</p>\n<p><strong>Mental Herb</strong>: Since Umbreon is prone to being severely crippled by Taunt and Encore, Mental Herb can be used to shrug off an instance of one of those moves.</p>\n<h3>Tera</h3>\n<p>Umbreon is a usable secondary Tera Captain if there are absolutely no other cheap teammates that benefit from it, but it should never be reliant on Terastallization. Dark is a decent defensive typing, but being able to change its type helps its defensive capabilities quite a bit. Tera Fairy and Water are reliable defensive types, while Tera Poison turns its Fighting-, Fairy-, and Bug-type weaknesses into resistances while also ensuring it will not miss Toxic. Offensively, Umbreon cannot really make Terastallization work, but just changing its type is enough to do what it wants to do.</p>\n<h3>Draft Strategy</h3>\n<p>Umbreon fits best on balance teams as a way to check certain foes and poison its incoming checks. Defensive Pokemon that would appreciate reliable recovery are especially good, as Umbreon has the ability to pass them Wishes.</p>\n<p><strong>Stallbreakers</strong>: Bulky setup sweepers such as <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a>, <a href=\"/dex/sv/pokemon/mew/draft/\" hreflang=\"en\">Mew</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> work well with Umbreon to slowly wear down teams, making stallbreakers an important role to fit on the team.</p>\n<p><strong>Entry Hazard Control</strong>: Since Umbreon and its teammates will be switching around a lot on bulkier teams, it is a good idea to have ways to prevent hazards from wearing the team down.</p>\n<p><strong>Entry Hazard Setters</strong>: While Umbreon does not like having hazards on its side of the field, having them on the opponent’s side will make it much harder to keep the offensive pressure on it, and it also has access to Roar to rack up chip damage.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Disruptive Moves</strong>: Umbreon is very prone to moves like Taunt and Encore that prevent it from cycling through the status moves it wants to use.</p>\n<p><strong>Pokemon Immune to Poison</strong>: Umbreon’s primary way of dealing damage is through Toxic damage, so any Pokemon immune to it will have little trouble coming in on it. Physical attackers do still have to be concerned about STAB Foul Play, however, as it will do a ton of damage.</p>\n<p><strong>Substitute</strong>: Umbreon's inability to reliably remove Substitute outside of Roar makes it extremely easy for attackers, especially special attackers that do not take much damage from Foul Play, to freely set up and gain tempo against Umbreon.</p>\n<p><strong>Fairy-type Pokemon</strong>: Umbreon has to be wary of the Fairy-type Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> that shrug off Foul Play and can hit it super effectively back.</p>\n<p><strong>Fighting-type Pokemon</strong>: Since most Fighting-type Pokemon such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/draft/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a> are physical attackers, they are not concerned with Umbreon’s special bulk and can smash through it regardless. They do still have to fear getting hit by a Toxic from it, though.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 313217,
+            "username": "Thanos"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Alluring Voice",
+    "Assurance",
+    "Baby-Doll Eyes",
+    "Baton Pass",
+    "Bite",
+    "Body Slam",
+    "Calm Mind",
+    "Charm",
+    "Confuse Ray",
+    "Copycat",
+    "Covet",
+    "Crunch",
+    "Curse",
+    "Dark Pulse",
+    "Detect",
+    "Dig",
+    "Double-Edge",
+    "Double Kick",
+    "Endure",
+    "Facade",
+    "Fake Tears",
+    "Flail",
+    "Foul Play",
+    "Giga Impact",
+    "Growl",
+    "Guard Swap",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Lash Out",
+    "Last Resort",
+    "Light Screen",
+    "Mean Look",
+    "Moonlight",
+    "Mud-Slap",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Quick Attack",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Sand Attack",
+    "Scary Face",
+    "Screech",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Snarl",
+    "Spite",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder Wave",
+    "Tickle",
+    "Toxic",
+    "Trailblaze",
+    "Weather Ball",
+    "Wish",
+    "Yawn"
+  ]
+}

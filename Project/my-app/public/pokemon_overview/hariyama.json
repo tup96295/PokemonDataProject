@@ -1,0 +1,629 @@
+{
+  "name": "Hariyama",
+  "alias": "hariyama",
+  "types": [
+    "Fighting"
+  ],
+  "stats": [
+    144,
+    120,
+    60,
+    40,
+    60,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulk Up",
+          "pokemon": "Hariyama",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>The Speed investment lets Hariyama outrun <a href=\"/dex/sv/pokemon/dudunsparce/pu/\" hreflang=\"en\">Dudunsparce</a>.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Guts",
+            "Thick Fat"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 12,
+              "atk": 200,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 44
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Belly Drum",
+          "pokemon": "Hariyama",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Belly Drum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Hariyama",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Guts",
+            "Thick Fat"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 132,
+              "spe": 124
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Guts Wallbreaker",
+          "pokemon": "Hariyama",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Flame Orb"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Facade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Hariyama",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set(s) while NU develops through the DLC releases. Stay tuned for future updates.</p>",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 132,
+              "spe": 124
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This analysis was for Battle Stadium Singles Regulation C, which ended on June 30th, 2023. Since then, this Pokemon's viability has massively dropped off, and it is no longer relevant. Using this Pokemon in today's metagame is not advised unless you have an extremely niche, hyper-specific need to cover.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "pokemon": "Hariyama",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With threats such as <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/iron-moth/battle-stadium-singles/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/volcarona/battle-stadium-singles/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> around, Hariyama carves a niche for itself as an Assault Vest user capable of taking them on. Along with its decent bulk, Thick Fat gives it key resistances to Fire- and Ice-type attacks.</p>\n</li>\n<li>\n<p><strong>Bullet Punch</strong>: Bullet Punch provides Hariyama with a non-situational priority move that can grab KOs on weakened targets, and, when boosted by Tera Steel, turn the tides against Fairy-type opponents such as <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a>.</p>\n</li>\n<li>\n<p><strong>Fake Out versus Knock Off</strong>: Fake Out gives Hariyama another source of priority, and it can even be used to scout for Covert Cloak users if the opponent doesn't get flinched by it. Knock Off cripples switch-ins by removing their items; however, it can't remove a Booster Energy from an opponent with the Protosynthesis or Quark Drive in Sun or Electric Terrain, respectively, as it's consumed before Hariyama gets to move.</p>\n</li>\n<li>\n<p><strong>Close Combat versus Drain Punch</strong>: Close Combat is the stronger move but at the cost of cutting into Hariyama's bulk with each use. Drain Punch can fail to get a 2HKO on specially defensive <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> more than 90% of the time, but it provides Hariyama with some recovery, bolstering its bulk.</p>\n</li>\n<li>\n<p><strong>Headlong Rush</strong>: Headlong Rush drops Hariyama's defenses with each use, but it 2HKOes defensive <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Ice Punch</strong>: Ice Punch gives Hariyama a strong option to hit <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> with and can catch it by surprise, considering it isn't pressured to Terastallize against Hariyama's other moves.</p>\n</li>\n<li>\n<p><strong>Heavy Slam</strong>: Heavy Slam, coupled with Tera Steel, provides Hariyama with a strong move against lightweight foes such as Flutter Mane, <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>, Chien-Pao, Mimikyu, and Terastallized Iron Moth and Volcarona that doesn't drop its defenses.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: While Hariyama can work without Terastallization, it can provide an extra kick to its coverage or improve its defensive presence against certain threats.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Steel Tera gives Hariyama STAB on Bullet Punch, a resistance to Fairy, Psychic, and Steel, and an immunity to Poison, greatly improving its matchup against Flutter Mane, Mimikyu, Psychic Chi-Yu, Gholdengo, and Tera Fairy Iron Moth and Volcarona. Thanks to Thick Fat, it can take on non-Choice Specs variants of Chi-Yu even after Terastallizing if it's kept healthy.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Besides the burn immunity, Tera Fire capitalizes on Hariyama's Thick Fat, discouraging threats like Tera Fire Chi-Yu and Choice Band Chien-Pao from using their most powerful moves.</p>\n</li>\n<li>\n<p><strong>Fighting</strong>: While Tera Fighting doesn't provide anything defensively for Hariyama, it makes Close Combat a force to be reckoned with.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Thick Fat"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fire",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Headlong Rush",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Guts Attacker",
+          "pokemon": "Hariyama",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Thanks to Guts, Hariyama can work as a status absorber and boost its high Attack at the same time, making it a threat to Toxic Spikes-stacking teams.</p>\n</li>\n<li>\n<p><strong>Bullet Punch</strong>: Bullet Punch gives Hariyama a consistent priority move and an option to hit Fairy-type foes.</p>\n</li>\n<li>\n<p><strong>Fake Out versus Knock Off</strong>: Fake Out is an option to safely activate Flame Orb and Guts, while Knock Off provides utility in removing items from the opponent.</p>\n</li>\n<li>\n<p><strong>Close Combat versus Drain Punch</strong>: Guts-boosted Close Combat is a force to be reckoned with, being one of the few moves capable of OHKOing physically defensive <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a>. Drain Punch is weaker, but the recovery can help offset the burn damage.</p>\n</li>\n<li>\n<p><strong>Earthquake versus Headlong Rush</strong>: Earthquake complements Hariyama's coverage nicely, hitting Poison-types that resist Close Combat. Headlong Rush is stronger, but comes with the drawbacks of lowering defenses and being a contact move, triggering Rocky Helmet.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Ice Punch</strong>: Ice Punch is Hariyama's best hope of hitting <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, as it doesn't fear much from Hariyama's other moves.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Terastallization gives a much appreciated boost to Bullet Punch, but it isn't necessary on every match.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Terastallizing into the Steel-type turns Hariyama's Fairy and Psychic weaknesses into resistances along with giving STAB to Bullet Punch.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Flame Orb"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Headlong Rush",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 330577,
+            "username": "Thick Fat Azumarill"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 467437,
+                "username": "Dawn of Ares"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: Thick Fat sets Hariyama apart from the other cheap Fighting-type Pokemon in the metagame. With the ability, its mono-Fighting typing, and its gargantuan HP stat, Hariyama makes for a good check to Ice-, Fire-, and Dark-types. In addition to Thick Fat, it can make use of Guts with a Flame Orb to become a very powerful wallbreaker augmented by its strong coverage options, and it can utilize the ever so valuable Knock Off to remove the items of its own checks. Despite its strengths, it can really struggle with its horrendous Speed stat and its poor defenses without a boost.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Bulky Attacker</strong>: With the help of Thick Fat and its extremely high HP stat, Hariyama can function as a sturdy and fairly consistent tank. Longevity is an issue for it, however, as Drain Punch is its only form of healing. Its defensive stats without a boost also leave a lot to be desired.</p>\n<p><strong>Wallbreaker</strong>: Hariyama can use a Flame Orb with Guts to become a very dangerous wallbreaker. Sheer Force is another option to boost moves with secondary effects, but Guts is generally preferred for the greater boost to its Attack.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Close Combat, Drain Punch</p>\n<p><strong>Setup Moves</strong>: Bulk Up</p>\n<p><strong>Utility Moves</strong>: Taunt, Brick Break, Whirlwind</p>\n<p><strong>Coverage</strong>: Knock Off, Facade, Headlong Rush, Earthquake, Stone Edge, Rock Slide, Heavy Slam, Iron Head, Bullet Punch, Poison Jab, Zen Headbutt, Thunder Punch, Ice Punch, Fire Punch, Throat Chop</p>\n<h3>Niche Moves</h3>\n<p><strong>Belly Drum</strong>: Hariyama can maximize its damage output in one turn and become a potential sweeper by using Belly Drum. These sets rely on Sitrus Berry to get a Belly Drum off and recover HP to deal devastating damage or even sweep once Bullet Punch cannot be checked by foes. Belly Drum Hariyama is most effective with Terastallization and Steel in particular.</p>\n<p><strong>Fake Out</strong>: Fake Out can be used for another priority attack to chip away at faster foes. It can work very well alongside Bullet Punch.</p>\n<p><strong>Low Sweep / Bulldoze / Rock Tomb</strong>: Hariyama can make use of a Speed-reducing move as a utility option.</p>\n<h3>Common Items</h3>\n<p><strong>Assault Vest</strong>: Hariyama loves to utilize an Assault Vest, especially on Thick Fat sets, as the gargantuan boost to its special bulk helps it function even better as a sturdy tank.</p>\n<p><strong>Flame Orb</strong>: Flame Orb is used to activate Guts and power up Hariyama's powerful attacks and Facade to become a fearsome wallbreaker.</p>\n<p><strong>Leftovers</strong>: Leftovers is most commonly used on Bulk Up and defensive sets to increase Hariyama's longevity.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry can help Hariyama avoid being KOed in certain situations and provide it more immediate recovery than Leftovers. Hariyama can also use a Sitrus Berry with Belly Drum and recover HP to facilitate a potential sweep.</p>\n<h3>Niche Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots provides Hariyama safety from getting chipped down by entry hazards—with Spikes in particular being extremely detrimental to its longevity.</p>\n<p><strong>Eject Pack</strong>: Hariyama can make use of an Eject Pack to pivot and generate momentum after a strong Close Combat.</p>\n<p><strong>Life Orb</strong>: Hariyama can use a Life Orb on Sheer Force sets, but Flame Orb with Guts is often preferred.</p>\n<h3>Tera</h3>\n<p>Hariyama is a decent choice for a secondary Tera Captain. It typically makes use of Tera Steel to shed its Flying, Psychic, and Fairy weaknesses while powering up Bullet Punch. Tera Steel also synergizes well with Thick Fat and its other Steel-type coverage moves. Tera Normal and Tera Fighting can be used to power up Facade and its STAB moves, respectively. It can also make niche use of other Tera types like Tera Dark and Tera Fairy to improve its defensive profile, power up its vast coverage options, and flip matchups.</p>\n<h3>Draft Strategy</h3>\n<p>Hariyama is a Pokemon with a profile that allows it to fit on almost any team, but it shines especially on bulky offense structures. It doesn't need a large amount of support to be effective, and it can be added towards the end of a draft to round out an existing core.</p>\n<p><strong>Special Wallbreakers</strong>: Hariyama appreciates special attacking teammates that can threaten and weaken the physical walls it can struggle with. Pokemon like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a> make for great partners.</p>\n<p><strong>Pivots</strong>: Hariyama appreciates both offensive and physically defensive pivots to provide it safe entry to break the opposing team and throw out attacks. Pokemon like <a href=\"/dex/sv/pokemon/moltres/draft/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a> work very well alongside it.</p>\n<p><strong>Speed Control</strong>: Hariyama's poor Speed leaves it susceptible to faster foes, so it appreciates having fast teammates. Fast Pokemon like <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a> work phenomenally alongside Hariyama, being a tank they can pivot into or fall back on.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Powerful Physical Attackers</strong>: Although Hariyama can be a great special tank with an Assault Vest, its physical bulk leaves a lot to be desired. Strong physical attackers like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/draft/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> can threaten it with heavy damage and often force it out.</p>\n<p><strong>Chip Damage</strong>: Because it lacks a reliable recovery move, chip damage, especially from entry hazards like Spikes, is extremely detrimental to Hariyama's effectiveness. It is also prone to being worn down by its own Flame Orb on Guts sets.</p>\n<p><strong>Physical Walls</strong>: On non-Guts sets, Hariyama can struggle to break through physical walls that can check it very easily like Alomomola, <a href=\"/dex/sv/pokemon/skarmory/draft/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/hydrapple/draft/\" hreflang=\"en\">Hydrapple</a>.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 381199,
+            "username": "SageSpike"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 617175,
+                "username": "E Man"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Arm Thrust",
+    "Belly Drum",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Brine",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Punch",
+    "Chilling Water",
+    "Close Combat",
+    "Coaching",
+    "Counter",
+    "Cross Chop",
+    "Curse",
+    "Detect",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Feint",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Energy",
+    "Focus Punch",
+    "Force Palm",
+    "Giga Impact",
+    "Headlong Rush",
+    "Heavy Slam",
+    "Helping Hand",
+    "Hyper Beam",
+    "Ice Punch",
+    "Iron Head",
+    "Knock Off",
+    "Lash Out",
+    "Low Kick",
+    "Low Sweep",
+    "Metronome",
+    "Mud Shot",
+    "Mud-Slap",
+    "Poison Jab",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sand Attack",
+    "Scary Face",
+    "Seismic Toss",
+    "Sleep Talk",
+    "Smack Down",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder Punch",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Whirlwind",
+    "Wide Guard",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "name": "Suicune",
+  "alias": "suicune",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    100,
+    75,
+    115,
+    90,
+    115,
+    85
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Suicune is one of the prominent wincons of the tier. With a great defensive typing in Water and a high base HP stat, Suicune can set up on most bulky Pokemon in the tier. After one Calm Mind, Suicune is tough to revenge kill, as it deters physical attackers from switching in due to a potential burn from Scald, and special attackers have to break past the Special Defense boosts from Calm Mind. Pressure is an excellent ability on Suicune, as it allows Suicune to PP stall opposing Pokemon. Suicune's reliance on Leftovers leaves it vulnerable to Knock Off users, especially <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, as it is crippled for the rest of the game upon losing its Leftovers. Despite having a solid base Speed stat of 85, it is still slower than some common threats such as <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and Cyclizar. Faster Pokemon like <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> can exploit Suicune's lower Speed and hinder its progress-making or sweeping opportunities.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Suicune can opt to run RestTalk, giving it a mode of reliable recovery. However, due to the unreliable nature of Sleep Talk, Suicune can be beaten by offensive Pokemon if it fails to get the correct move. Roar is also an option for it to phaze setup sweepers such as <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, opposing Suicune, and <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a> as well as rack up entry hazard damage on the opponent's side. A more offensive Calm Mind set with Scald, Ice Beam, and Shadow Ball or Tera Blast Electric can be used to threaten the opponent offensively. Tera Blast Electric hits <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>, <a href=\"/dex/sv/pokemon/vaporeon/ru/\" hreflang=\"en\">Vaporeon</a>, and Slowbro super effectively, making this set a good lure against common Suicune checks.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Knock Off</strong>: Suicune is permanently crippled by Knock Off, as Leftovers is its only source of recovery. Therefore, common Knock Off users like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> are threats.</p>\n<p><strong>Status Conditions</strong>: Suicune's ability to be a wincon is diminished upon getting burned or poisoned. Suicune should not switch into <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> because it dislikes getting hit by Will-O-Wisp, which would counteract Leftovers's recovery. Paralysis also cripples Suicune to a lesser extent, as it will be more prone to slower Pokemon such as <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> and Taunt Volcanion.</p>\n<p><strong>Strong Special Attackers</strong>: Strong special attackers such as Magnezone, Nasty Plot <a href=\"/dex/sv/pokemon/rotom-mow/ru/\" hreflang=\"en\">Rotom-C</a>, and Choice Specs Gengar do great damage to Suicune, making it unable to set up reliably.</p>\n<p><strong>Sound-based Moves</strong>: Psychic Noise can deny Leftovers recovery for Suicune from like <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> and Slowbro, and they can outlive Suicune due to having reliable recovery.</p>",
+      "movesets": [
+        {
+          "name": "Substitute + Calm Mind",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>This set focuses on Suicune being a wincon by making use of Pressure and its HP and Speed stats. Substitute + Calm Mind ensures Suicune can set up on bulky but offensively weak Pokemon such as <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a>. Protect is excellent for scouting moves on Choice-locked Pokemon, such <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, as well as burning foe's PP with Pressure. Protect also gives Suicune one more turn of Leftovers recovery, which improves its longevity. Ice Beam can be used over Protect to hit Pokemon that are immune to Scald, such as Storm Drain Gastrodon, <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>, and <a href=\"/dex/sv/pokemon/vaporeon/ru/\" hreflang=\"en\">Vaporeon</a>, as well as deal super effective damage to <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>. Due to Pressure and Calm Mind, Suicune can beat Pokemon that are unable to boost their offenses, like the aforementioned Water-immune foes and <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, by PP stalling them. Shadow Ball is also a good option to hit Psychic-types like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, Slowbro, and Gardevoir, making them less of a threat. A maximum Speed stat is required for Suicune to outspeed key threats such as <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a> and <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a>, dealing decent damage to and potentially burning them. Tera Dark is the premier choice for Suicune, as it is immune to Psychic Noise upon Terastallizing. Tera Fairy is also an option, as it is a solid defensive type that resists Close Combat and U-turn from <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and Galarian Zapdos. 252 HP EVs ensure Suicune has 101 HP Substitutes, meaning Seismic Toss from <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a> will not be able to break the Substitute.</p>\n<p>Suicune appreciates entry hazard removal due to running Leftovers, which is its only form of recovery, to minimize chip damage as much as possible. Therefore, hazard control from Cyclizar, <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> is much appreciated. Knock Off absorbers such as <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> are good partners, since they can switch into common Knock Off users like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and Mienshao safely. Suicune is also threatened by strong Electric- and Grass-type Pokemon such as Magnezone and <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a>, so it appreciates the support from bulky Pokemon such as <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>. Toxic users such as <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, Amoonguss, and <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a> are useful, as they put the checks Suicune usually has, like <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a>, on a timer. Finally, strong wallbreakers such as Choice Specs <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, Choice Specs Hisuian Goodra, and Magnezone can get rid of opposing Calm Mind sweepers like Psychic Noise Slowbro and Reuniclus.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Dark",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 231398,
+            "username": "feen"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<p>Suicune is generally outclassed as a Calm Mind user—offensively by <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a> and defensively at times by <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. Keldeo requires less setup, becoming immediately threatening at +1 with Secret Sword and Vacuum Wave, while Primarina boasts a better defensive typing, which is valuable in Dragon and Fighting matchups. With Draining Kiss and Psychic Noise, Primarina can also more proactively handle threats like <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>. However, Suicune is overall bulkier than these two options, and Pressure, combined with Substitute and Protect, makes it an extremely frustrating defensive win condition, stalling out Pokemon reliant on low-PP moves like <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Calm Mind Suicune is a terrifying defensive win condition due to its sheer bulk, coupled with Scald's burn chance, allowing Suicune to whittle down Flying, Steel, and Fighting teams lacking Pokemon that 2HKO it. Protect and Substitute allow Suicune to scout and PP stall foes, and when paired with Pressure, it can achieve seemingly impossible feats, such as depleting Bleakwind Storm, Luster Purge, Seismic Toss, and Earthquake from <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, respectively. Scald is preferred due to the burn chance, massively reducing the number of physical attackers that can come in to overwhelm Suicune before it accrues too many boosts. For instance, if <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> gets burned, its Thunder Punch will not be able to break Suicune's Substitute in one hit. The given EV spread provides Suicune enough bulk for its Substitute not to break in one hit against Earthquake from <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> or fixed damage moves such as Seismic Toss or Night Shade. 216 Speed EVs lets it outspeed Adamant <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, OHKOing it with Scald after Stealth Rock damage and a Calm Mind boost.</p>\n<p>As Suicune is reliant on Leftovers for recovery, it is ruined by Toxic Spikes. Hence, Poison-types such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/tentacruel/monotype/\" hreflang=\"en\">Tentacruel</a> are a must-have due to their ability to passively remove them. Toxapex also checks setup sweepers that can overwhelm Suicune, such as Swords Dance <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> and Calm Mind <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, while Tentacruel is able to spin away other entry hazards to preserve Suicune's health. <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> deals with the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a> that overwhelm Suicune and can use a Choice Scarf set to deal with runaway setup sweepers like <a href=\"/dex/sv/pokemon/lilligant-hisui/monotype/\" hreflang=\"en\">Hisuian Lilligant</a>, Trailblaze <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, and Scale Shot <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. Electric-immune teammates such as <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> are useful for dealing with Choice Specs users locked into Thunderbolt such as Flutter Mane and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> that do too much damage against Suicune; they also can set up entry hazards to chip down Suicune's checks. These teammates, in turn, benefit from Suicune's ability to scout the next move, preventing them from taking unnecessary damage from the coverage moves of these threats. <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a> checks <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and sets Stealth Rock. Swords Dance Hisuian Samurott also sets entry hazards with Ceaseless Edge and cleans up opposing teams after Suicune has worn them down. <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a> is decent for dealing with Dragon-types like Leftovers <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/hydrapple/monotype/\" hreflang=\"en\">Hydrapple</a>, which use Suicune as setup fodder and tears up Fire teams with its Protosynthesis-boosted Hydro Steam.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 40,
+              "spa": 0,
+              "spd": 0,
+              "spe": 216
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This Pokemon was relevant in Regulation F, but has been banned in the curernt ruleset, Regulation H. Regulation G will be returning in January 2025, but this Pokemon is unlikely to be very viable.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>252 HP / 36 Def / 220 SpD with Bold</strong>: This spread avoids a 2HKO from Timid Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Moonblast after Leftovers recovery.</p>\n</li>\n<li>\n<p><strong>Tera Types</strong>: Fairy stops Choice Band <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> from breaking through Suicune with Crunch, while Poison makes Toxic Spikes a non-factor for it and helps against <a href=\"/dex/sv/pokemon/ogerpon/battle-stadium-singles/\" hreflang=\"en\">Ogerpon</a> formes.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Pressure",
+            "Inner Focus"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Mirror Coat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 36,
+              "spa": 0,
+              "spd": 220,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Rest",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>Chesto Berry</strong>: This transforms Suicune into more of a late-game bulky sweeper, making Rest safe only once but giving it extra coverage against <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Tera Type</strong>: Fairy is the best choice for avoiding getting torn apart by Choice Band <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a>'s Crunch and Swords Dance <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>'s Wicked Blow.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Pressure",
+            "Inner Focus"
+          ],
+          "items": [
+            "Chesto Berry",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Sleep Talk",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>With exceptional bulk, a great defensive typing, and Inner Focus allowing it to ignore Fake Out from the likes of <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, Suicune provides bulky support options thanks to its plethora of utility and disruptive moves. Snarl weakens special attackers like <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>, and <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a>. Tailwind provides speed control for the team, while Mist finds a niche in protecting the team from stat drops, such as from Intimidate and Snarl. Roar allows Suicune to prevent Trick Room from going up by forcefully switching out setters like <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-g/\" hreflang=\"en\">Farigiraf</a> and <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> and can neutralize setup attempts from Pokemon like Calm Mind Terapagos while tanking attacks like Glacial Lance and Tera Starstorm thanks to its excellent defenses. Meanwhile, Helping Hand boosts the partner Pokemon's damage output to quickly KO opposing Pokemon. Icy Wind is a nice alternative in this slot for a lingering Speed reduction, which can come in handy when facing Calyrex-S and <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a>. Safety Goggles grants an immunity to Spore and Rage Powder and is especially useful to force out Trick Room setters with Roar while ignoring <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>. Leftovers, on the other hand, provides passive recovery to further increase Suicune's longevity when combined with its natural bulk. The EV spread allows Suicune to avoid a 3HKO from -1 Choice Specs Terapagos's and <a href=\"/dex/sv/pokemon/calyrex/vgc24-regulation-g/\" hreflang=\"en\">Calyrex</a> I's Tera Starstorm and High Horsepower, respectively, and turns <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a>'s Collision Course into a 3HKO after Leftovers recovery. The Special Defense EVs let Suicune survive two Astral Barrages from +1 bulky Calyrex-S. The Speed investment enables Suicune to outspeed most Rillaboom, helping it set up Tailwind before Rillaboom can hit it with a Wood Hammer. Tera Dark provides a resistance to Ghost-type attacks like Calyrex-S's Astral Barrage, an immunity to its Psyshock, and an immunity to Prankster Taunt from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/whimsicott/vgc24-regulation-g/\" hreflang=\"en\">Whimsicott</a>, and it also enables Suicune to 2HKO Calyrex-S with Snarl.</p>\n<p>Due to its passive field presence, Suicune is immediately threatened by strong super effective attacks like Volt Switch and Electro Drift from <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>, Thunderbolt from <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, and Wood Hammer from Rillaboom. Pokemon carrying Covert Cloak, like Calyrex-S and Terapagos, can simply choose to ignore Suicune and set up. Prankster Taunt users like Tornadus can shut down most of Suicune's support options as well, unless it Terastallizes. This makes fast offensive Pokemon like Zacian-C excellent partners for Suicune, as they outspeed and threaten to OHKO most of the aforementioned Pokemon while appreciating the protection against stat drops provided by Suicune's Mist. <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-g/\" hreflang=\"en\">Landorus</a> counters threatening Electric-types like Miraidon and Raging Bolt and deals massive damage to Rillaboom with Sludge Bomb. Incineroar provides Fake Out and Intimidate support, gets rid of Covert Cloak with Knock Off, and threatens to burn Rillaboom with Will-O-Wisp.</p>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Safety Goggles",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              },
+              {
+                "move": "Mist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Icy Wind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 108,
+              "spa": 4,
+              "spd": 60,
+              "spe": 84
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 239881,
+            "username": "Mr.GX"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 641757,
+                "username": "fyfyy"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Inh",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Unaware (Clodsire)",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Leftovers",
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Lightning Rod (Pincurchin)",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Lightning Rod"
+          ],
+          "items": [
+            "Leftovers",
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              },
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: Suicune is a wall that can act as a late-game wincon by setting up with Calm Mind. It is also able to blanket check a variety of different attackers by making use of its great mixed bulk and good defensive typing while also being able to effectively drain the PP of common strong attacks through Pressure. However, Suicune can be very passive due to its low immediate power, and its sets tend to be very linear and predictable, making it easier for opponents to prepare for it. In addition to that, its lack of reliable recovery outside of Rest greatly hurts its longevity and ability to be a long-term check to threats.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Suicune's great natural bulk allows it to have many opportunities to set up with Calm Mind and attempt to sweep. Due to its lack of reliable recovery options and general vulnerability to status, these sets usually require moves such as RestTalk or SubTect with Leftovers in order to handle these weaknesses. This generally makes Suicune very predictable and particularly prone to disruption when attempting a sweep.</p>\n<p><strong>Defensive</strong>: Suicune has the bulk to be able to check the majority of attackers that do not have super effective STAB attacks and either hit them with one of its attacking moves or phaze them with Roar. Due to Pressure, it can also be a very effective check to attackers that use common moves with low PP such as Close Combat, Draco Meteor, and Stone Edge. Its lack of reliable recovery options unfortunately means that it cannot act as a long-term check to these attackers unless it is running Rest, which can be taken advantage of by foes.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Scald, Surf, Hydro Pump, Liquidation</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Agility</p>\n<p><strong>Utility Moves</strong>: Roar, Substitute, Rest, Sleep Talk, Body Slam</p>\n<p><strong>Coverage</strong>: Ice Beam, Blizzard, Air Slash, Shadow Ball, Extrasensory, Crunch, Iron Head, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Chilling Water / Icy Wind / Snarl</strong>: All of these moves can act as ways to punish foes attempting to set up in front of Suicune in situations where Roar isn't a viable option. Both Chilling Water and Snarl can also be used to allow Suicune to better tank hits from foes and potentially give it the opportunity to set up Calm Mind, use Rest safely, or stall out the PP of foes' moves through Pressure.</p>\n<p><strong>Mirror Coat</strong>: With the proper EV investment, Suicune has the bulk to be able to avoid an OHKO from the vast majority of attacks, including some boosted super effective hits. Mirror Coat can then be used as a way to lure in and eliminate powerful special attackers.</p>\n<p><strong>Whirlpool</strong>: Whirlpool can be used to get chip damage against bulkier foes or those that resist Water-type attacks while also preventing double switches. Against more passive foes, Whirlpool can be used as a way to trap them and allow you to set up multiple times with Calm Mind, though it remains a very weak attack even when at maximum boosts.</p>\n<p><strong>Extreme Speed</strong>: Can potentially be used to pick off weakened, frail attackers, but due to Suicune's low Attack without investment, this generally requires them to be on very low HP.</p>\n<h3>Common Items</h3>\n<p><strong>Leftovers</strong>: Due to Suicune's lack of recovery options, it tends to be very reliant on the passive recovery from Leftovers for its sets.</p>\n<p><strong>Heavy-Duty Boots</strong>: When Suicune is needed to check a threat and isn't expected to survive for too long in a match, Heavy-Duty Boots are a viable alternative to Leftovers to minimize chip damage from entry hazards.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: These can be used to allow Suicune to check a particular threat or potentially lure a powerful special attacker and eliminate it with Mirror Coat.</p>\n<p><strong>Rocky Helmet</strong>: Can be used to get additional chip damage on most physical attackers. However, this leaves Suicune particularly prone to chip damage and entry hazards, making Rest much more necessary for any sort of long-term longevity.</p>\n<p><strong>Assault Vest</strong>: Against teams that are heavily biased towards special attackers or in order to check a specific foe, Assault Vest can be used to improve Suicune's already great Special Defense and also possibly allow it to invest EVs into Special Attack so it is not as passive.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry can be useful to allow Suicune to avoid the 2HKO from attackers it is meant to check and can be a viable alternative over Leftovers if Suicune is not expected to survive through many turns in a match.</p>\n<h3>Tera</h3>\n<p>Suicune is a solid choice for your secondary Tera Captain. While Suicune's natural defensive type is already great, Tera can allow it to adjust its defensive profile to better check specific threats. Tera is most useful for Calm Mind sets to allow it to tank hits from attackers that would otherwise break through it despite the boosts from Calm Mind or to give it a better coverage option against the opposing draft. Good Tera types for Suicune are generally strong defensive typings or ones that have valuable attributes, such as Tera Fairy, Poison, Steel, Electric or Ghost.</p>\n<h3>Draft Strategy</h3>\n<p>Suicune can be drafted to round out a team's bulk, but it is generally most effective when it has the freedom to run its setup set, especially if it's your secondary Tera Captain. While your draft should not be built around Suicune, these are some things that help maximize its effectiveness:</p>\n<p><strong>Reliable Entry Hazard Removal</strong>: Suicune is very reliant on Leftovers for recovery, so having strong options for entry hazard removal is greatly appreciated. Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/cyclizar/draft/\" hreflang=\"en\">Cyclizar</a> can fill in this role while also covering for some of Suicune's weaknesses.</p>\n<p><strong>Utility Options</strong>: Pokemon that can cover for Suicune's lack of utility moves besides Roar are good partners for it and generally required in a draft. Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>, and <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a> that can set entry hazards, spread status, pivot, and remove foes' items all fit this role.</p>\n<p><strong>Speed Control</strong>: Having fast Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> that can act as revenge killers helps prevent your draft from being overwhelmed by fast attackers that can try to use Suicune as setup fodder.</p>\n<p><strong>Wallbreakers</strong>: Powerful wallbreakers such as <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> all help in weakening the opposing team so that Suicune can attempt a sweep late-game.</p>\n<p><strong>Anti-setup Pokemon</strong>: Despite Suicune having Roar, it can still be exploited to give many Pokemon an opportunity to set up in front of it, so having other answers to setup sweepers is mandatory.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Disruption Moves</strong>: Moves such as Taunt, Encore, and Roar are all extremely disruptive to most Suicune sets, especially Calm Mind sets. Due to Suicune's general lack of flexibility in terms of sets, opponents are very likely to bring these moves to counter it.</p>\n<p><strong>Powerful Wallbreakers</strong>: Powerful wallbreakers such as Urshifu-S, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, and Raging Bolt can all hit Suicune for massive damage or use it as an opportunity to set up due to its limited options for dealing with them.</p>\n<p><strong>Water-resistant Pokemon</strong>: Suicune is extremely reliant on its Water-type moves for damage and utility through Scald burns. Though it is able to break through Water-resistant Pokemon when given enough time to set up, this still gives the opponent plenty of turns to deal with Suicune. Water-immune foes in particular put a hard stop to most Suicune sets and can make it deadweight in a matchup if it does not plan on utilizing Tera to gain another primary STAB type.</p>\n<p><strong>Poison</strong>: Getting poisoned is extremely crippling for Suicune, as it outdamages its main source of recovery in Leftovers and quickly makes it unable to perform its role. Suicune is vulnerable to Toxic Spikes in particular, as it rarely wants to run Heavy-Duty Boots.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613460,
+            "username": "vmnunes"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "SubCM (Spe)",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Suicune",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Speed investment outruns Timid <a href=\"/dex/sv/pokemon/volcanion/national-dex-ru/\" hreflang=\"en\">Volcanion</a>, letting Suicune safely set up a Substitute against it.</p>\n<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 120,
+              "spa": 0,
+              "spd": 0,
+              "spe": 136
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Air Slash",
+    "Avalanche",
+    "Bite",
+    "Blizzard",
+    "Body Slam",
+    "Calm Mind",
+    "Chilling Water",
+    "Crunch",
+    "Double-Edge",
+    "Endure",
+    "Extrasensory",
+    "Extreme Speed",
+    "Facade",
+    "Giga Impact",
+    "Gust",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Icy Wind",
+    "Iron Head",
+    "Leer",
+    "Liquidation",
+    "Mirror Coat",
+    "Mist",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Sandstorm",
+    "Scald",
+    "Shadow Ball",
+    "Sheer Cold",
+    "Sleep Talk",
+    "Snarl",
+    "Snowscape",
+    "Substitute",
+    "Surf",
+    "Swift",
+    "Tailwind",
+    "Take Down",
+    "Tera Blast",
+    "Trailblaze",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Weather Ball",
+    "Whirlpool"
+  ]
+}

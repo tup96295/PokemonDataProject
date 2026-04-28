@@ -1,0 +1,215 @@
+{
+  "name": "Stantler",
+  "alias": "stantler",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    73,
+    95,
+    62,
+    85,
+    65,
+    85
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Item",
+          "pokemon": "Stantler",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate",
+            "Sap Sipper"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Double-Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thief",
+                "type": null
+              },
+              {
+                "move": "Bite",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Stantler",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Astonish",
+    "Bite",
+    "Body Slam",
+    "Bulldoze",
+    "Calm Mind",
+    "Charge Beam",
+    "Confuse Ray",
+    "Curse",
+    "Dig",
+    "Disable",
+    "Double-Edge",
+    "Double Kick",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Energy Ball",
+    "Extrasensory",
+    "Facade",
+    "Future Sight",
+    "Giga Impact",
+    "Gravity",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hypnosis",
+    "Imprison",
+    "Leer",
+    "Light Screen",
+    "Lunge",
+    "Megahorn",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psych Up",
+    "Psyshield Bash",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Role Play",
+    "Sand Attack",
+    "Scary Face",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spite",
+    "Stomp",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "Uproar",
+    "Wild Charge",
+    "Zen Headbutt"
+  ]
+}

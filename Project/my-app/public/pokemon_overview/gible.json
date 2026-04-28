@@ -1,0 +1,142 @@
+{
+  "name": "Gible",
+  "alias": "gible",
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "stats": [
+    58,
+    70,
+    45,
+    40,
+    45,
+    42
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Setup Sweeper",
+          "pokemon": "Gible",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Rough Skin"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scale Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Endure",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 52,
+              "atk": 196,
+              "def": 76,
+              "spa": 0,
+              "spd": 0,
+              "spe": 180
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Bite",
+    "Body Slam",
+    "Bulldoze",
+    "Dig",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Fire Blast",
+    "Fire Fang",
+    "Flamethrower",
+    "Helping Hand",
+    "Iron Head",
+    "Metal Claw",
+    "Mud Shot",
+    "Outrage",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sand Attack",
+    "Sandstorm",
+    "Sand Tomb",
+    "Scale Shot",
+    "Scary Face",
+    "Scorching Sands",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thrash",
+    "Thunder Fang",
+    "Twister"
+  ]
+}

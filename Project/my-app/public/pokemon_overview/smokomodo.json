@@ -1,0 +1,166 @@
+{
+  "name": "Smokomodo",
+  "alias": "smokomodo",
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "stats": [
+    88,
+    116,
+    67,
+    88,
+    78,
+    97
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bone Zone",
+          "pokemon": "Smokomodo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Technician"
+          ],
+          "items": [
+            "Loaded Dice"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bone Rush",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flame Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              },
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Aerial Ace",
+    "Blast Burn",
+    "Bone Rush",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Punch",
+    "Burning Jealousy",
+    "Circle Throw",
+    "Clear Smog",
+    "Defog",
+    "Dig",
+    "Dragon Cheer",
+    "Earth Power",
+    "Earthquake",
+    "Ember",
+    "Endeavor",
+    "Eruption",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Pledge",
+    "Fire Punch",
+    "Fire Spin",
+    "Fissure",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Focus Blast",
+    "Force Palm",
+    "Giga Impact",
+    "Gunk Shot",
+    "Heat Crash",
+    "Heat Wave",
+    "High Horsepower",
+    "Hyper Beam",
+    "Incinerate",
+    "Lava Plume",
+    "Lick",
+    "Low Kick",
+    "Mach Punch",
+    "Metal Claw",
+    "Morning Sun",
+    "Mud Shot",
+    "Overheat",
+    "Poison Fang",
+    "Poison Jab",
+    "Protect",
+    "Rest",
+    "Sand Tomb",
+    "Scale Shot",
+    "Scorching Sands",
+    "Scratch",
+    "Screech",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Smog",
+    "Smokescreen",
+    "Solar Beam",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Tail Whip",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Toxic",
+    "Trailblaze",
+    "Will-O-Wisp"
+  ]
+}

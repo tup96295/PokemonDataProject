@@ -1,0 +1,289 @@
+{
+  "name": "Diggersby",
+  "alias": "diggersby",
+  "types": [
+    "Normal",
+    "Ground"
+  ],
+  "stats": [
+    85,
+    56,
+    77,
+    50,
+    77,
+    78
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance (Normal)",
+          "pokemon": "Diggersby",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Firium Z",
+            "Rockium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quick Attack",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Band (Normal)",
+          "pokemon": "Diggersby",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Return",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quick Attack",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Diggersby",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Life Orb",
+            "Silk Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Return",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quick Attack",
+                "type": null
+              },
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Diggersby",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets, stay tuned for future updates!</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Return",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

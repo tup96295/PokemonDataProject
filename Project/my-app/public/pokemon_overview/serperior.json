@@ -1,0 +1,1264 @@
+{
+  "name": "Serperior",
+  "alias": "serperior",
+  "types": [
+    "Grass"
+  ],
+  "stats": [
+    75,
+    75,
+    95,
+    75,
+    95,
+    113
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf Serperior takes advantage of its already respectable Speed stat to lean into its snowballing potential with Contrary and Leaf Storm, outspeeding Pokemon like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>. Unlike other Serperior sets that aim to break past Grass-resistant Pokemon with Tera Blast or by fishing for full paralysis using Substitute and Glare, this set serves as a late-game cleaner, breaking through teams with the sheer power of Leaf Storm. Knock Off is run to remove Heavy-Duty Boots from defensive answers like <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>; Assault Vest from <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>; and Light Clay from dual screens <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>. Giga Drain is run to preserve Leaf Storm's PP while still hitting <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> hard. Glare is particularly useful to cripple common switch-ins like Tornadus-T and Dragonite to aid Serperior's teammates like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and to have an easier time wearing them down late-game. Serperior chooses to run Modest to boost the power of its Leaf Storm, but Timid can be run to outspeed maximum Speed Deoxys-S, Speed Protosynthesis <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> after a Rapid Spin. Serperior opts to run Tera Grass to boost the damage output of its Leaf Storm further, threatening to OHKO maximum HP Zamazenta and maximum Special Defense Iron Treads at +2.</p>\n<p>Choice Scarf Serperior is usually run on Grassy Terrain teams alongside Rillaboom, which can force in and cripple Pokemon like Moltres and Dragonite with Knock Off and deal significant damage to <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, Tornadus-T, and Gholdengo. Rillaboom sometimes chooses to run Terrain Extender to give Serperior more chances to fire off its boosted Leaf Storm. With the boost from Tera Grass and Grassy Terrain, Leaf Storm can OHKO <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Assault Vest <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> at +2. Pokemon like Zamazenta and Great Tusk appreciate Serperior crippling shared checks like Moltres and Tornadus-T with Glare and Knock Off while also switching into Pokemon like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, which threatens Choice-locked Serperior with Sucker Punch. Zamazenta is especially nice as a partner, as it can threaten <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> and Kingambit, both of which take a Leaf Storm very easily. Pairing Serperior's Knock Off with Stealth Rock setters like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> can wear down many of Serperior's switch-ins, like Moltres and Assault Vest Kyurem. Pokemon with the ability Pressure, such as <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Kyurem, can be annoying to deal with because of Leaf Storm's low PP. Nasty Plot Gholdengo is a good partner for Serperior, as it threatens both of these Pokemon and other Serperior answers like <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> and Galarian Slowking. Serperior is often paired with Kingambit as well, since it forces out common Grass-resistant foes like Galarian Slowking, Iron Crown, and Kyurem.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Serperior fills the role of a late-game sweeper for offensive teams that snowballs quickly while attacking thanks to Contrary Leaf Storm. Tera Blast gives Serperior the strong coverage that it sorely lacks, as without Terastallizing, Serperior is very prone to being walled. Tera Blast Ground is the most ideal choice, as it deals heavy damage to Pokemon like <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> that do not fear Leaf Storm. Tera Blast Fire trades a strong hit on Pokemon like Galarian Slowking, Heatran, and the Dragon-types for a way to immediately threaten <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> as well as common Air Balloon users like Gholdengo and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. Glare is used to punish the switches Serperior often forces, allowing it to cripple common answers like Heatran and <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> without having to commit to using Tera. Dragon Pulse gives a non-Tera reliant way to deal with common Dragon-types like Raging Bolt, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. Substitute allows Serperior to scout switches and fish for full paralysis turns while also blocking status such as Toxic from <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, resulting in easier setup. Additionally, having a Substitute up forces many faster potential revenge killers like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> to risk a strong hit or paralysis to break it. Leftovers helps to keep Serperior healthy throughout the match, most notably allowing it to make more Substitutes. The Tera types chosen are primarily to aid in coverage, but they also have a few defensive applications of note. Tera Ground can enable Serperior to safely use Substitute against Sludge Bomb from Galarian Slowking in a pinch, potentially allowing for a free turn of setup. It also prevents Thunder Wave Infiltrator <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> from paralyzing Serperior though a Substitute. Tera Fire allows Serperior to resist Triple Axel from <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, a move that otherwise threatens to OHKO Serperior even through a Substitute, as well as U-turn from both <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and Meowscarada.</p>\n<p>Serperior only fits on heavily offensive teams, primarily Sticky Web offense. <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a> is a great teammate, as it is the premier Sticky Web setter. Sticky Web allows Serperior to outspeed otherwise faster Pokemon like non-Clear Body Dragapult and Booster Energy <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>. In turn, threat of a Contrary Evasion boost from Defog or a Contrary Speed boost from its own Sticky Web due to Court Change helps to ensure that entry hazards stay up. For the same reason, Serperior helps to shore up an offensive team's matchup against opposing Sticky Web teams because of the threat of a Speed boost. Serperior is very Tera reliant, so it wants teammates that can help it to make the most of the Tera investment and do not need Tera themselves like Gholdengo and Zamazenta. It is best used alongside Pokemon that appreciate paralysis support and provide heavy offensive pressure, like Kingambit and Raging Bolt. Other entry hazard leads like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> also support Serperior well, as many of Serperior's checks are grounded such as Raging Bolt and Galarian Slowking, making them vulnerable to Spikes and Toxic Spikes. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> is another good teammate for Serperior, as it provides Stealth Rock, uses U-turn to get Serperior in safely against common Pokemon like Gliscor, and threatens Serperior's checks like Heatran and Galarian Slowking with Earthquake. Arguably the biggest threat to Serperior is Gholdengo, as it can repeatedly switch into Leaf Storm and is immune to Glare. Galarian Slowking similarly cares very little about Leaf Storm and does not mind the Speed drop from paralysis. Kingambit is a good partner, as it can switch in against both of these Pokemon and threaten them with heavy damage. Kingambit also appreciates paralysis on Pokemon like Corviknight and Kyurem, which Kingambit can beat one-on-one thanks to the Speed drop. Kyurem dislikes risking paralysis but takes little damage from Serperior and heavily threatens it and many of Serperior's frail offensive teammates. Teammates like Air Balloon Gholdengo can help to sponge Kyurem's hits while adding more offensive pressure. Gholdengo can use Nasty Plot-boosted attacks like Shadow Ball and Psyshock to help break Galarian Slowking, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> for Serperior while blocking hazard removal. Iron Valiant can help to wear down shared checks like the previously mentioned Poison-types, especially with Knock Off or Calm Mind sets, while Raging Bolt can similarly can be used to chip down special walls with Calm Mind-boosted attacks. Lastly, <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> can provide Knock Off and U-turn on top of setting Grassy Terrain that can boost Leaf Storm and help Serperior to make more Substitutes.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ground",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 513254,
+            "username": "SpZ"
+          },
+          {
+            "user_id": 629105,
+            "username": "cala_aa"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 548068,
+                "username": "Setsu"
+              },
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 110504,
+                "username": "Stads"
+              },
+              {
+                "user_id": 493260,
+                "username": "Marnie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Glare",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to its high Speed and plethora of move choices, Serperior cements itself as a strong utility Pokemon. Glare is a powerful option that can cripple common switch-ins to Serperior like <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>. When combined with Contrary, Leaf Storm allows Serperior to threaten foes by launching a powerful STAB attack that also boosts its power at the same time. Tera Blast provides Serperior with a strong, customizable coverage option; Tera Blast Electric nails foes like Tornadus-T and <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> while providing neutral coverage against <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>, <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a>, <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a>, and <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a>. Tera Blast Fire deals super effective damage to the aforementioned Steel-types as well as other foes such as <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a> and <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a> while also hitting <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a> for meaningful damage, and Tera Blast Ground allows it to still hit Steel-types super-effectively, especially <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a>. In addition, even without Tera, Tera Blast can act as strong enough neutral coverage against several foes that resist Leaf Storm. Alternatively, Dragon Pulse bolsters Serperior's coverage without the need for Tera, allowing it to hit foes such as Latios and <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> for meaningful damage. Synthesis allows Serperior to restore its health in order to stick around longer, improving its longevity and helping it against more passive foes such as <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a> and <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a>. Knock Off and Substitute are also options to further cripple foes that Serperior has paralyzed and to take advantage of the switches it can force with Leaf Storm, respectively, but are generally not preferable due to being overall more prediction-reliant and less consistently useful than Synthesis. Leftovers increases Serperior's longevity and allows it to take advantage of the extra turns generated by paralysis while also being able to generate more setup opportunities for itself with Leaf Storm. An alternative spread of 252 HP / 4 SpD / 252 Spe can be used to improve Serperior's matchups against foes such as <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a> but further underscores Serperior's lack of immediate power. Tera Electric is used to provide a resistance to Flying, greatly improving Serperior's matchup against Tornadus-T, while also removing Serperior's weakness to Bug and giving it an additional resistance to Steel, making it less vulnerable to Scizor and Lokix. It also offers a handy immunity to paralysis, making Serperior safer against foes like Slowking, Rotom-W, and Cobalion. Tera Ground allows Serperior to OHKO Heatran after a Leaf Storm, which is its largest check, whereas Tera Fire allows Serperior to offensively threaten foes it would otherwise be helpless against, such as Scizor and Tinkaton, but should be used with caution, as it does miss out on many of the notable benefits of Tera Electric while also making Serperior weak to Stealth Rock and more vulnerable to revenge killing attempts from <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a> and <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>.</p>\n<p>Glare Serperior fits best on offensive teams with slow and strong wallbreakers that can take advantage of its ability to spread paralysis, such as <a href=\"/dex/sv/pokemon/mamoswine/uu/\" hreflang=\"en\">Mamoswine</a>, Azumarill, and <a href=\"/dex/sv/pokemon/enamorus-therian/uu/\" hreflang=\"en\">Enamorus-T</a>. In addition, Serperior can soften up checks to these Pokemon such as <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a> with Leaf Storm and can also clean out weakened foes after these wallbreakers have blown holes in the opposing team. These wallbreakers can also remove problematic foes such as Hydrapple that can shrug off Serperior's attacks with ease and are not overly threatened by paralysis. Tornadus-T also makes for an excellent partner, as it is able to check Latios, Greninja, and Hydrapple and can assist Serperior by pivoting it in against targets like <a href=\"/dex/sv/pokemon/rhyperior/uu/\" hreflang=\"en\">Rhyperior</a> and Slowking with U-turn or harassing its paralysis targets with Knock Off. Many Stealth Rock setters, such as Cobalion and Rhyperior, also greatly appreciate Serperior's ability to slow down their checks and give them more chances to set up the hazard, with the latter also appreciating Serperior's ability to threaten Excadrill. In return, Serperior appreciates the chip damage from Stealth Rock making its Contrary-boosted attacks even more potent and punishing Assault Vest Tornadus-T, which it notably struggles against. The aforementioned Cobalion, as well as Pokemon such as the aforementioned Cobalion and Tinkaton, also provides a defensive out to revenge killers such as Lokix and Scizor. <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a> is also an extreme nuisance, as Serperior can not break it at all, so teammates that can handle it such as Greninja and <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a> are appreciated. Serperior notably struggles with the tier's multitude of Flying-types without Tera, especially Assault Vest Tornadus-T, so checks to them such as Ogerpon-C, Thundurus-T, and the aforementioned Rhyperior are greatly appreciated, with Serperior softening up their checks in return.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers",
+            "Light Clay"
+          ],
+          "teratypes": [
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              },
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 204,
+              "atk": 0,
+              "def": 0,
+              "spa": 52,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 452572,
+            "username": "missangelic"
+          },
+          {
+            "user_id": 617840,
+            "username": "eeriespell"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              },
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              },
+              {
+                "user_id": 540289,
+                "username": "Tidal"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>Welcome to Battle Stadium Singles Regulation F! This Pokemon is a new addition from the Indigo Disk that happens to be relevant!</p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-f-dex-updates-and-suggestions.3734864/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Regal Attacker",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "F",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>With STAB Leaf Storm paired with its incredible ability in Contrary, Serperior is a formidable wallbreaker and potential sweeper.</p>\n</li>\n<li>\n<p><strong>Leaf Storm</strong>: Thanks to Contrary, Leaf Storm will boost Serperior’s Special Attack by two stages, rather than lowering it, allowing Serperior to become more of a threat simply by attacking.</p>\n</li>\n<li>\n<p><strong>Glare</strong>: Glare allows Serperior to spread paralysis with 100% consistency, even to Ground-types, giving it a unique niche as a paralysis spreader unperturbed by the likes of <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a>.</p>\n</li>\n<li>\n<p><strong>Taunt</strong>: Taunt is fantastic for shutting down support Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/porygon2/battle-stadium-singles/\" hreflang=\"en\">Porygon2</a>.</p>\n</li>\n<li>\n<p><strong>Tera Blast</strong>: Tera Blast provides Serperior with coverage for its poor matchups, depending on its Tera Type.</p>\n</li>\n<li>\n<p><strong>Substitute</strong>: When paired with Glare, Substitute allows Serperior to take advantage of the potential free turns afforded by paralysis to become even more of a threat and dodge debilitating status from the likes of Porygon2 and <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a>.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Dragon Pulse</strong>: Dragon Pulse is difficult to fit in, but it allows Serperior to threaten foes like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> without relying on Terastallization.</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Leftovers</strong>: Leftovers grants Serperior passive recovery, allowing it to spam Glare more often and make successful Substitute attempts even more punishing.</p>\n</li>\n<li>\n<p><strong>Focus Sash</strong>: Focus Sash enables Serperior to get successful Glares off against faster foes, such as Choice Scarf <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: If Leftovers is being used by another team member, Sitrus Berry is a decent alternative.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li><strong>76 HP / 180 SpA / 252 Spe with Timid</strong>: This spread optimizes Serperior’s HP value for use of Leftovers, while maintaining maximum Speed to spam Glare.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Fire</strong>: Tera Fire allows Serperior to resist opposing Fire-type attacks, as well as <a href=\"/dex/sv/pokemon/scizor/battle-stadium-singles/\" hreflang=\"en\">Scizor</a>’s Bullet Punch, and grants it coverage against other Grass-types.</p>\n</li>\n<li>\n<p><strong>Rock</strong>: Tera Rock enables Serperior to more consistently threaten Fire-types and Flying-types and resist their attacks.</p>\n</li>\n<li>\n<p><strong>Stellar</strong>: Stellar Tera grants Serperior perfect neutral coverage, as well as another way to boost its Special Attack with Stellar Tera Blast. This is a purely offensive Tera type and provides Serperior with no defensive utility; however, it is arguably the best choice for maximizing overall damage output.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Fire",
+            "Rock",
+            "Stellar"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 76,
+              "atk": 0,
+              "def": 0,
+              "spa": 180,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>EV Spread</strong>: This spread lets Serperior outspeed Jolly <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers",
+            "Sitrus Berry",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Fire",
+            "Rock",
+            "Stellar"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Glare",
+                "type": null
+              },
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 124,
+              "spa": 0,
+              "spd": 0,
+              "spe": 132
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Dual Screens",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>This set's write-up has not started yet.</li>\n</ul>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [
+            "Fire",
+            "Stellar"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 528485,
+            "username": "DerpySuX"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 516307,
+                "username": "Photon"
+              },
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              },
+              {
+                "user_id": 62165,
+                "username": "StarkGod"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 4 onwards</p>\n<p><strong>Price Range</strong>: 6-7 points</p>\n<p><strong>Tera Price Range</strong>: 11-12 points</p>\n<p><strong>Overview</strong>: Its mediocre stats and lamentable coverage options make it seem like Serperior would be terrible offensively, but Contrary paired with Leaf Storm lets it boost straight through unprepared teams. Terastallizatoin is what allows it to be truly threatening. With the tools to get around Grass-resistant foes with newfound coverage, Serperior becomes a far more potent sweeper. Unfortunately, with how reliant it is on having access to Terastallizatoin, Serperior fails to place the same amount of pressure on opposing teams as high-tier Tera Captains. This makes drafting and building around it fairly difficult, as it is rather underwhelming when it lacks the ability to Terastallize.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Contrary Sweeper</strong>: With the boost from Leaf Storm, Serperior can easily sweep through weakened teams. Choice Scarf sets are especially threatening if given the opportunity to pick off a weakened foe and boost up to finish off the rest of the team.</p>\n<p><strong>Substitute Attacker</strong>: Serperior regularly forces switches, often allowing it to take advantage of more passive foes with Substitute. It causes disruptions with Glare, Leech Seed, and its other utility moves, which lets it break through walls that it would otherwise be unable to with its limited Leaf Storm PP.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Leaf Storm, Giga Drain</p>\n<p><strong>Setup Moves</strong>: 130-Base Power Nasty Plot (Leaf Storm),</p>\n<p><strong>Utility Moves</strong>: Glare, Leech Seed, Substitute, Knock Off, Taunt, Synthesis, Light Screen, Reflect, Taunt, Dragon Tail</p>\n<p><strong>Coverage</strong>: Tera Blast, Dragon Pulse</p>\n<h3>Niche Moves</h3>\n<p><strong>Gastro Acid</strong>: Unaware and Sap Sipper shut down Serperior's sweeps. Removing these troublesome abilities with Gastro Acid can catch opponents off-guard, getting around supposed walls.</p>\n<h3>Common Items</h3>\n<p><strong>Leftovers</strong>: Serperior will often stay in for multiple turns to set up with Leaf Storm, making the healing from Leftovers useful. Substitute and Leech Seed sets are especially helped by the extra recovery that it provides.</p>\n<p><strong>Choice Scarf</strong>: Late-game Serperior can easily run through weakened teams if it is given the opportunity. Choice Scarf allows it to outspeed most foes, including many common Choice Scarf users making sweeps even more threatening thanks to the ramping power from Leaf Storm or Tera Stellar Tera Blast.</p>\n<p><strong>Heavy-Duty Boots</strong>: If expected to switch in often, Heavy-Duty Boots can keep Serperior healthy in the face of entry hazards.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage Boosting Items</strong>: Life Orb, Miracle Seed, and Choice Specs can all give Serperior the extra damage it needs to break through certain foes, making it solid on more offensive sets that don’t need the speed from Choice Scarf.</p>\n<p><strong>Light Clay</strong>: Sets with dual screens can be more effective with Light Clay increasing their duration.</p>\n<p><strong>Lum Berry</strong>: Paralysis and poison greatly hinder Serperior. Avoiding a devastating status effect and giving it a free turn with Lum Berry can be very useful.</p>\n<h3>Tera</h3>\n<p>Serperior is particularly reliant on Terastallization to be effective, meaning that it should be a Tera Captain if drafted. Tera Fire, Ground, and Water give Serperior a superior defensive typing while supplying it with coverage to hit the Grass-, Steel-, and Fire-types that resist Leaf Storm. Any Tera type that can deal with opposing Grass-resistant foes such as Tera Rock or Tera Ice can be a solid choice for it. Tera Grass is another solid option that can be great to boost the power of Leaf Storm even further, pairing well with Choice Scarf sets. Tera Stellar can occasionally be effective, providing Serperior with more Contrary boosts and neutral coverage; however, it often takes too long for Tera Stellar Tera Blast to boost its meagre Special Attack.</p>\n<h3>Draft Strategy</h3>\n<p>Serperior’s awkward position of being particularly reliant on Terastallization makes it difficult to draft around. Ideally, it should be paired with high tiers and alternative Tera Captains that are not reliant on Terastallization to be successful. It also appreciates partners that can help break through opposing walls, letting Serperior effectively clean up late-game.</p>\n<p><strong>Non-Terastallization-reliant Partners</strong>: Since Serperior demands Terastallization in most situations, pairing it with Pokemon that do not need to Terastallize is the most effective solution. High tier partners that are banned from using Terastallization like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> or those that don’t rely on Terastallization like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> work well.</p>\n<p><strong>Strong Wallbreakers</strong>: Serperior is extremely threatening in endgames where opposing teams are chipped down. It is able to break by itself but it is often required to burn through its limited Leaf Storm PP. Strong wallbreakers, especially those which don’t require Terastallization, like <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a> can soften teams for Serperior to clean up.</p>\n<p><strong>Faster Partners:</strong>: Although Serperior has a solid Speed tier, it is still outsped by many threats when it is not using Choice Scarf. Faster partners like <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a> give it the flexibility to use more diverse sets.</p>\n<p><strong>Pivots</strong>: With its mediocre bulk, Serperior cannot take many attacks throughout a match, which can lead to it having trouble accumulating boosts. Pivots like <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a> help switch it in safely and stay healthy.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Grass-resistant Foes</strong>: Foes that resist Grass-type attacks like <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, and <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a> are able to switch into Leaf Storm before Serperior is able to get many boosts and threaten them out. Frailer Grass-resistant foes can still be overpowered only if Serperior gets enough boosts. Although it can Terastallize to beat some of these Pokemon, most teams have multiple Grass-type resistances and it will rarely be able to break through all of them. The rare Grass-immune Pokemon, like <a href=\"/dex/sv/pokemon/goodra-hisui/draft/\" hreflang=\"en\">Hisuian Goodra</a> with Sap Sipper, completely prevent it from getting the Leaf Storm boosts needed to break.</p>\n<p><strong>Special Walls</strong>: Certain special walls are able to stick around long enough to stall out Serperior's extremely limited Leaf Storm PP. Pokemon like Galarian Slowking, <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a> can switch in and recover, preventing any progress from being made.</p>\n<p><strong>Faster Pokemon</strong>: Despite Serperior being quite fast, it is still outsped by many foes. Faster Pokemon like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, Weavile, and Iron Valiant can take it out before it has time to break through the rest of their team.</p>\n<p><strong>Unaware</strong>: Serperior's offensive power is entirely reliant on its Contrary boosts from Leaf Storm and Tera Stellar Tera Blast. Those of which can ignore those boosts with Unaware, like <a href=\"/dex/sv/pokemon/skeledirge/draft/\" hreflang=\"en\">Skeledirge</a>, <a href=\"/dex/sv/pokemon/clodsire/draft/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/clefable/draft/\" hreflang=\"en\">Clefable</a>, can easily wall it while generally being undisrupted by its utility moves.</p>\n<p><strong>Status Conditions</strong>: A well-timed status can completely shut down a Serperior sweep. Being paralyzed takes away its only good stat in Speed, allowing many foes to outspeed and KO it. Poison is also fairly debilitating, as Serperior needs many turns to get the ball rolling, which is even more difficult when taking constant chip damage.</p>\n<p><strong>Pressure</strong>: Leaf Storm has very limited PP and without it, Serperior's supoptimal offensive stats become clearer. Foes like <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/deoxys-defense/draft/\" hreflang=\"en\">Deoxys-D</a> can utilize Pressure to drain Leaf Storm PP twice as fast, shutting down all of Serperior's offensive pressure.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 617175,
+            "username": "E Man"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "SubSeed",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Serperior has a unique presence as the intersection between stall and offense in 1v1. Leech Seed allows it to infinitely stall out any foe that is slower than it with SubTect, while the combination of Leaf Storm and Contrary gives it an offensive tool.</li>\n<li>Leaf Storm allows Serperior to roll over Water-types such as <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/manaphy/1v1/\" hreflang=\"en\">Manaphy</a>.</li>\n<li>Leech Seed lets Serperior beat almost anything it can outspeed, land Leech Seed on, and take a hit from, given the foe does not have a Sound move.</li>\n<li>SubTect allows Serperior to block enemy attacks and can be used consecutively along with Leech Seed healing to stall out most slower foes. Furthermore, the combination can be used to stall out moves with 8 PP, such as Gunk Shot from Choice Band Donphanor Choice Band <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a>. Finally, the combination also allows it to increase the odds of low-accuracy moves missing, such as <a href=\"/dex/sv/pokemon/moltres-galar/1v1/\" hreflang=\"en\">Galarian Moltres</a>'s Hurricane, and play around stat-dropping moves such as non-Taunt <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a>'s Draco Meteor.</li>\n<li>Against Custap Berry users, it is important to be aware of when the enemy would reach a fourth of its health and be able to activate its berry. It is important to always use Protect on the potential Custap Berry turn or use Substitute twice before so Protect is guaranteed to activate.</li>\n<li>Serperior often struggles with Poison-types such as <a href=\"/dex/sv/pokemon/sneasler/1v1/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/iron-moth/1v1/\" hreflang=\"en\">Iron Moth</a>, as well as Sound move users such as <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a>, but it has great matchups against most Water- and Ground-types. This gives it synergy with Steel-types such as <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a> and <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a> or Ground-types such as <a href=\"/dex/sv/pokemon/landorus-therian/1v1/\" hreflang=\"en\">Landorus-T</a> and Ursaluna.</li>\n</ul>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Frenzy Plant",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mirror Coat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 40,
+              "atk": 0,
+              "def": 0,
+              "spa": 244,
+              "spd": 144,
+              "spe": 80
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 670315,
+            "username": "Mentality"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 500233,
+                "username": "Frailty"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 518399,
+                "username": "Itchy"
+              },
+              {
+                "user_id": 563650,
+                "username": "bern"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Substitute + Glare",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Serperior uses its good Speed stat and potential to snowball with Contrary and Leaf Storm boosts to become a threatening wincon against balance structures including defensive staples like <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>. Serperior is also able to support its team by paralyzing foes with Glare to support slower wallbreakers and outspeed threats such as <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>. Leaf Storm boosted by Contrary means Serperior can muscle past checks such as <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a> over time, but its low PP means it cannot be recklessly used early on in a game. Hidden Power Fire allows Serperior to hit Steel-types such as Ferrothorn, <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and Melmetal. Substitute takes advantage of passive Pokemon such as Gliscor, <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, Alomomola, and Ferrothorn and can prevent status from the former three, making Serperior extremely threatening against balance and bulky offense teams that often rely on these Pokemon defensively. It also prevents revenge killers like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> and Zamazenta from taking down Serperior safely lest they get paralyzed by Glare. Glare is a fantastic utility option, as it paralyzes dangerous offensive threats such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a> while making checks like Tornadus-T and <a href=\"/dex/sv/pokemon/pecharunt/national-dex/\" hreflang=\"en\">Pecharunt</a> much easier to overwhelm. 56 HP EVs allow Serperior to survive a +2 Ivy Cudgel from Ogerpon-W and prevent Ferrothorn’s Power Whip and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex/\" hreflang=\"en\">Rotom-W</a>’s Hydro Pump from breaking its Substitute.</p>\n<p>Serperior fits primarily on bulky offense and offense teams, where its paralysis-spreading abilities are appreciated by wallbreakers such as <a href=\"/dex/sv/pokemon/medicham-mega/national-dex/\" hreflang=\"en\">Mega Medicham</a> and Tapu Lele, which can exploit paralysis on otherwise faster foes such as Tornadus-T and Garchomp. In return, these Pokemon help take down foes such as <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, and Pecharunt as well as break down teams early in the game so Serperior can clean later. Other offensive partners such as Mega Lopunny and <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> pair well with Serperior due to it threatening walls such as Ferrothorn and Alomomola, with Mega Lopunny pivoting it in against Alomomola as well as threatening Heatran and Gholdengo, and Dragonite pressuring foes such as <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a> and <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>. Serperior’s defensive utility as a check to Ground- and Water-types such as Ogerpon-W and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> is appreciated by teammates such as Volcarona and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>. Defensive teammates such as Gliscor, <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a>, Garchomp, and Zapdos are also valuable as checks to threats that resist Serperior’s Leaf Storm such as Heatran, Dragonite, Tornadus-T, and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a>. In return, Serperior threatens Ogerpon-W and Gliscor for them. Gholdengo is another good teammate, as it checks Galarian Slowking, Tornadus-T, and revenge killers such as Zamazenta and Tapu Lele for Serperior while also benefiting from Glare boosting the power of Hex.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 56,
+              "atk": 0,
+              "def": 0,
+              "spa": 200,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Glare + 3 Attacks",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Serperior provides both a potent sweeper that can snowball out of control and a Speed control option due to Glare. Thanks to Contrary combined with Leaf Storm, Serperior is able to muscle through foes like <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> with sheer power. Hidden Power Fire targets the Grass- and Steel-types that resist Leaf Storm, such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/scizor-mega/national-dex/\" hreflang=\"en\">Mega Scizor</a>, and <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a>. Dragon Pulse hits Dragon-types that resist both Leaf Storm and Hidden Power Fire, notably <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/kyurem/national-dex/\" hreflang=\"en\">Kyurem</a>. It also enables Serperior to break past Fire-types such as <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/iron-moth/national-dex/\" hreflang=\"en\">Iron Moth</a>. Glare’s nigh guaranteed paralysis serves as great teamwide support, especially against faster Pokemon that Serperior’s teammates may have trouble dealing with otherwise, such as <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, and Dragonite. Leftovers  improve Serperior's bulk, granting it better setup opportunities while notably preventing offensive Mega Scizor's Bullet Punch from 2HKOing it.</p>\n<p>Glare Serperior fits on offensive teams that appreciate its high Speed, paralysis support with Glare, and ability to become a threat after a singular attack. Even though it has the ability to snowball out of control, without enough boosts, Serperior can still struggle against Fire-, Steel-, and Dragon-type Pokemon that resist Leaf Storm. These include Mega Charizard Y,  <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, and Dragonite. Heatran resists all three of Serperior’s moves and is not deterred by Glare. Thus, Ground- and Fairy-type Pokemon that can dismantle them like <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> are great teammates. They also benefit greatly from Serperior’s Glare support hindering faster foes such as Zamazenta and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a>. Serperior similarly struggles against bulkier foes such as Corviknight and Toxapex if it doesn't have enough boosts to muscle through them. Therefore, entry hazards that can continuously chip these Pokemon can better enable a late-game Serperior sweep; Pokemon that set them up include <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>. Serperior’s Contrary ability also deters Defog from <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, as getting hit by it will give Serperior an evasion boost. Serperior offers paralysis support through Glare, which can shut down many potential threats that boost their Speed such as Dragonite, <a href=\"/dex/sv/pokemon/kommo-o/national-dex/\" hreflang=\"en\">Kommo-o</a>, and Iron Valiant. This helps facilitate its slower and stronger teammates, such as Great Tusk, <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, and Mega Scizor. The former two threaten <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a>, while the latter handles opposing Dragon-types, both helping Serperior. Serperior’s ability to clean up a weakened team thanks to consecutive Leaf Storm boosts also make it a valued teammate on hyper offense teams with powerful wallbreakers such as <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>, Zamazenta, and Raging Bolt. Lastly, Serperior fits nicely on Sticky Web teams, since it shuts down faster threats such as Choice Band <a href=\"/dex/sv/pokemon/weavile/national-dex/\" hreflang=\"en\">Weavile</a> and Iron Moth, and Serperior punishes opposing Defog attempts.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ],
+            [
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 576909,
+            "username": "BananaBro_Chaos"
+          },
+          {
+            "user_id": 658067,
+            "username": "ElectraineHeart"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 475916,
+                "username": "Sputnik"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 661238,
+                "username": "slopcat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527157,
+                "username": "Kiwi"
+              },
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Substitute + Glare",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Serperior's ability to boost its Special Attack with Leaf Storm thanks to Contrary and access to Glare make it a powerful cleaner and utility Pokemon, being able to snowball out of control and spread paralysis against checks like <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> to break past them or support its slower teammates. Its Speed tier is also fantastic, allowing it to outspeed and force out Pokemon like <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a> for offensive playstyles. Substitute capitalizes on forced switches against <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> that can't afford to take a Leaf Storm while easing prediction. Hidden Power Fire hits Steel- and Grass-types like Celesteela, <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>. Leftovers allows Serperior to set up Substitute more often, while 56 HP EVs are used to prevent Rotom-W's Hydro Pump from breaking its Substitute. Serperior fits best on offensive teams filled with Pokemon that appreciate a potential late-game cleaner and enjoy its paralysis support overwhelming threats like Mega Latias. Iron Moth can lure in Ground- and Water-types like <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a> for Serperior and enjoys the paralysis support it provides against shared checks like Mega Latias or fast revenge killers like <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>. Similarly, partners like Life Orb Mienshao, <a href=\"/dex/sv/pokemon/gardevoir-mega/national-dex-uu/\" hreflang=\"en\">Mega Gardevoir</a>, and <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>, which may struggle against faster checks like Mega Latias, Iron Moth, and Mega Aerodactyl, appreciate Serperior's ability to paralyze said threats, allowing them to threaten them out with Triple Axel and Psyshock. Even with Leaf Storm and Hidden Power Fire, Serperior still struggles to get past a large number of top-tier Pokemon, like <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>, Iron Moth, and Celesteela, and can also be revenged killed by Pokemon such as Iron Boulder and <a href=\"/dex/sv/pokemon/greninja/national-dex-uu/\" hreflang=\"en\">Greninja</a>. Mega Aerodactyl, <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a> can help against said threats; in return, Serperior pressures Slowbro, Mienshao, and <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> for them.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 56,
+              "atk": 0,
+              "def": 0,
+              "spa": 200,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Utility",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Serperior's Grass typing, superb Speed tier, and access to valuable utility moves in Defog and Glare make it a good defensive asset on a variety of team compositions, able to handle the likes of <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>. Leaf Storm is Serperior's strongest STAB move and threatens important targets in <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a> after prior chip damage. Defog lets Serperior leverage its strong matchups into common entry hazard setters such as <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, making it a consistent source of hazard removal. Synthesis provides Serperior with a reliable recovery option to use throughout the game against the aforementioned Pokemon. Lastly, Glare helps Serperior punish offensive Pokemon such as <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>, <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/okidogi/national-dex-uu/\" hreflang=\"en\">Okidogi</a> that may try to take advantage of it by crippling them with paralysis, making Serperior less passive as a whole. Alternatively, Knock Off allows Serperior to remove items from defensive checks such as <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> and Assault Vest <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>, cutting into their ability to check Serperior's teammates. 164 HP EVs ensure Serperior can survive an unboosted Corkscrew Crash from Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>. As one of Serperior's best qualities is its ability to consistently pivot into the various Water- and Ground-types of the tier, offensive teammates such as Iron Moth, <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> that are normally stopped by these Pokemon pair well with it, and they threaten out <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, Celesteela, and Tangrowth in return. Notably, defensive teammates such as <a href=\"/dex/sv/pokemon/garganacl/national-dex-uu/\" hreflang=\"en\">Garganacl</a> and Scizor value Serperior's ability to clear hazards and threaten out faster Pokemon such as Life Orb Mienshao and Keldeo that may threaten them. Serperior also tends to invite in Pokemon such as <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>, Iron Moth, and Celesteela and can cripple them with Glare or Knock Off, which is best taken advantage of by slower wallbreakers such as Bulk Up Okidogi, Swords Dance <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a>, and Nasty Plot <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a>.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 164,
+              "atk": 0,
+              "def": 0,
+              "spa": 92,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Normalium Z",
+          "pokemon": "Serperior",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Normalium Z Serperior utilizes Leaf Storm-boosted Breakneck Blitz to bypass most of its checks, namely <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>, <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a>, and <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a>. Hidden Power Fire allows Serperior to chip <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, the only checks unfazed by a boosted Breakneck Blitz, slowly wearing them down into range of +2 or +4 Hidden Power Fire later in the game. Synthesis allows Serperior to switch into <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a> throughout longer games without being worn down, taking advantage of these opportunities to chip away at its checks. Glare eases the matchups against Aegislash and Celesteela by allowing Serperior to paralyze them and attempt to remove them from higher health thresholds alongside paralysis. Normalium Z Serperior is only seen on Sticky Web and other offense teams, as its aggressive playstyle and lackluster bulk leave it unable to attempt to set up multiple times against teams with revenge killers like <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>. Sticky Web slows down the former, but answers to Mega Aerodactyl like Air Balloon Aegislash, <a href=\"/dex/sv/pokemon/azumarill/national-dex-uu/\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> are recommended given its ability to dodge the entry hazard. The last two can also pivot Serperior in against physically defensive Pokemon like <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>, and Rotom-W that Serperior can force out; notably, this allows Serperior to avoid chip damage from Body Press and Volt Switch and ensure Serperior is not afflicted with status. They can also remove items like Leftovers with Knock Off from shared checks like Celesteela and Aegislash. <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a> is a good partner as well, removing Celesteela for Serperior and appreciating Serperior's ability to handle Ground-types like Hippowdon. Partners like <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-uu/\" hreflang=\"en\">Galarian Moltres</a> and Aegislash that put pressure on Celesteela and Amoonguss are also appreciated, wearing them down into range for Serperior.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Normalium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyper Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              },
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535121,
+            "username": "gu"
+          },
+          {
+            "user_id": 546157,
+            "username": "Iride"
+          },
+          {
+            "user_id": 589016,
+            "username": "Danbear02"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 546157,
+                "username": "Iride"
+              },
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Body Slam",
+    "Breaking Swipe",
+    "Bullet Seed",
+    "Calm Mind",
+    "Coil",
+    "Double-Edge",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Frenzy Plant",
+    "Gastro Acid",
+    "Giga Drain",
+    "Giga Impact",
+    "Glare",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Helping Hand",
+    "Hyper Beam",
+    "Iron Tail",
+    "Knock Off",
+    "Leaf Blade",
+    "Leaf Storm",
+    "Leech Seed",
+    "Leer",
+    "Light Screen",
+    "Magical Leaf",
+    "Mean Look",
+    "Mega Drain",
+    "Mirror Coat",
+    "Outrage",
+    "Petal Blizzard",
+    "Protect",
+    "Reflect",
+    "Rest",
+    "Scale Shot",
+    "Scary Face",
+    "Seed Bomb",
+    "Slam",
+    "Sleep Talk",
+    "Solar Beam",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Scent",
+    "Swift",
+    "Swords Dance",
+    "Synthesis",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Trailblaze",
+    "Twister",
+    "Vine Whip",
+    "Wrap"
+  ]
+}

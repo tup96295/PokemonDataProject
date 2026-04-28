@@ -1,0 +1,979 @@
+{
+  "name": "Armarouge",
+  "alias": "armarouge",
+  "types": [
+    "Fire",
+    "Psychic"
+  ],
+  "stats": [
+    85,
+    60,
+    100,
+    125,
+    80,
+    75
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>The incredible power of Armor Cannon makes Armarouge a terrifying foe in the RU tier, often threatening a KO whenever it enters the field. With its excellent STAB combination that hits most of the metagame, Weak Armor that constantly deters weak physical moves like U-turn and Rapid Spin, and the physical bulk to make use of it, Armarouge can serve as both a wallbreaker and sweeper simultaneously. Armarouge is unique among the Psychic-types in the tier due to its ability to threaten Steel-types like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> with Armor Cannon. Armarouge's drawbacks, however, are evident; its Speed is lower than much of the tier, allowing many Pokemon like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> to outspeed it prior to Weak Armor's activation, and its ability to take special attacks is poor. Its weakness to Stealth Rock and the combined Defense drops from both Weak Armor and Armor Cannon can cause damage to add up quickly, resulting in Armarouge being unable to survive subsequent attacks from revenge killers and bulky Pokemon.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Meteor Beam, alongside a Power Herb, can compress setup with a coverage option to hit opposing Armarouge and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> into a single moveslot, with the drawback that this combination effectively limits Armarouge to three moveslots for the remainder of the game. Armarouge can effectively use Choice Specs for immediate power that can OHKO <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> with Psyshock after Stealth Rock and 2HKO specially defensive <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a> with Armor Cannon; it additionally allows Armarouge to use Trick to cripple the few walls that are able to switch into its attacks. Flash Fire can be used with Choice Specs, enabling absolutely nuclear Armor Cannons if positioned correctly, but using Flash Fire means that <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> can Trace it to become immune, and Speed will remain an issue without Weak Armor. Iron Defense can offset the penalty of Weak Armor and give Armarouge the additional bulk to set up Calm Minds or activate Weakness Policy from powerful attacks like <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>'s and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>'s Knock Off, all while further boosting Stored Power. Focus Blast can be used to hit opposing special walls like <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, but dropping Energy Ball leaves Armarouge weaker against Water-types like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. Destiny Bond allows Armarouge to get a surprise KO on a Pokemon that is bulky enough to survive its hits.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Special Walls</strong>: <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a>, Umbreon, Empoleon, and Hisuian Goodra are all able to comfortably survive Armarouge's attacks and either heal off the damage or deal huge damage in return. With boosts from Calm Mind or Weakness Policy, Armarouge can use Psyshock to answer Chansey, particularly if its Eviolite has been removed, but the last three Pokemon either resist or are immune to Psyshock, meaning Armarouge has to brute force its way through their high Special Defense.</p>\n<p><strong>Special Attackers</strong>: Special attackers like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, Noivern, and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> not only target Armarouge's weaker Special Defense but fail to activate Weak Armor, meaning that Armarouge does not gain the crucial Speed advantage on the next turn. Even attacks from weaker Pokemon like Draco Meteor Cyclizar pose a threat.</p>\n<p><strong>Priority</strong>: Armarouge's use of Weak Armor and Armor Cannon leaves it vulnerable to the many forms of physical priority moves in the tier, such as <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>'s Shadow Sneak, and Aqua Jet from <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a> and Crawdaunt. Endure sets are safe from First Impression, but unless Armarouge is used in Psychic Terrain, other priority users like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> are extremely effective at revenge killing it.</p>",
+      "movesets": [
+        {
+          "name": "Calm Mind + 3 Attacks",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Armarouge is a devastating special attacker, capable of breaking holes in teams or taking advantage of opposing physical attackers to boost its Speed with Weak Armor in order to sweep. Armarouge particularly excels against <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, the most common form of entry hazard removal in the tier, due to the minimal damage received and the fact that most of Cyclizar's moves will activate Weak Armor. Psyshock targets the weaker Defense of opposing Pokemon such as <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a> and Assault Vest Cyclizar. Energy Ball is used to hit Water-types with high Defense like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>. Tera Fairy provides a valuable resistance to <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>'s Sucker Punch, as well as allowing Armarouge to shrug off Knock Off from <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, and Cyclizar. Tera Fairy also grants an immunity to Cyclizar's Dragon Tail, preventing Armarouge from being phazed out. Tera Grass grants resistances to <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>'s and <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>'s Aqua Jet, <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>'s Surf, and Krookodile's Earthquake. This also boosts the damage of Energy Ball, allowing Armarouge to threaten OHKOs on Krookodile and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>.</p>\n<p>Calm Mind Armarouge is most comfortable on balance and offense teams, where it can use its wallbreaking ability to open up holes for its team to exploit or threaten a late-game sweep. Pivot support from VoltTurn users such as Cyclizar, <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> are important to get Armarouge into favorable matchups against Pokemon like <a href=\"/dex/sv/pokemon/forretress/ru/\" hreflang=\"en\">Forretress</a> and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> while preserving its HP. These Pokemon can also bait out weak Knock Off from Cyclizar and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>, easily allowing Weak Armor to activate. Mienshao and Terrakion invite physical walls like <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a>, <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a>, and Slowbro in, which Armarouge can take advantage of. Opposing special attackers like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, Choice Scarf <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> outspeed and threaten Armarouge, so allies like Cyclizar, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and Jirachi, respectively, can switch into their attacks for it. Priority moves are one of the most reliable answers to Armarouge after Weak Armor activates, so pairing it with Psychic Surge <a href=\"/dex/sv/pokemon/indeedee/ru/\" hreflang=\"en\">Indeedee</a> can nullify this weakness with the added benefit of empowering its Psychic-type moves.</p>",
+          "abilities": [
+            "Weak Armor"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Armor Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Endure + Weakness Policy",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Weakness Policy Armarouge is a naturally potent wallbreaker and sweeper that can immediately chunk holes in the opposing team thanks to its excellent STAB combination and decent bulk. Armarouge can use the combination of Endure and Weakness Policy to flip situations around at the drop of a hat and threaten a devastating sweep. Armor Cannon is the centerpiece of Armarouge's arsenal as a wallbreaker due to its high Base Power and its drawbacks made negligible by having Endure as an option. Psyshock is consistently powerful and can deal with specially defensive Pokemon like Assault Vest <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>. Stored Power can deal incredible amounts of damage after a Weakness Policy and Weak Armor activation, with the drawback of initially being very weak. Expanding Force is an option on Psychic Terrain teams that can OHKO most non-resistant foes in the tier while Psychic Terrain is active and is still a decently powerful attack otherwise. Energy Ball provides Armarouge with coverage that is essential for dealing with Water-types such as <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>. Calm Mind is an optional setup move that allows Armarouge to capitalize on Pokemon that cannot deal much damage to it, like Cyclizar, <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>, and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, and keeps it from being dependent on Weakness Policy for strengthening its attacks. Weak Armor allows Armarouge to outspeed a massive portion of the tier after surviving a physical attack, thus enabling it to act as an excellent late-game cleaner. A Timid nature ensures that Armarouge outspeeds even the fastest Choice Scarf users in the tier, such as <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, at +2 Speed. Tera Normal can be used to turn the tables on a Ghost-type revenge killer like Gengar or <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>. Tera Psychic boosts the damage of Armarouge's strong Psychic-type attacks even further and is particularly useful in Psychic Terrain. Tera Ground makes Armarouge immune to Sandstorm damage and also lets it deny Thunder Wave and Electric-type moves from Pokemon such as <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>, which gives it time to either setup further or pick up a KO.</p>\n<p>Weakness Policy Armarouge fits well on hyper offense and offensive structures that appreciate a safety net that can revenge kill a Choice item user such as <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> or <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> if needed and possibly sweep in return. Armarouge can also cover the role of a wallbreaker and cleaner on balance structures that aim to gradually chip away at the opposing team due to its innate firepower and ability to quickly boost its Speed. Armarouge synergizes particularly well with Psychic Terrain and thus partners well with lead Psychic Surge <a href=\"/dex/sv/pokemon/indeedee/ru/\" hreflang=\"en\">Indeedee</a>; not only does Psychic Terrain power up Armarouge's Psychic-type STAB attacks to unstoppable levels, it also stops Armarouge from being revenge killed with a priority move, which is often its biggest worry after a successful Endure. Armarouge often finds its itself lacking meaningful ways to deal with specially defensive walls such as <a href=\"/dex/sv/pokemon/muk-alola/ru/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and therefore benefits from strong physical sweepers such as Swords Dance Terrakion and <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> as well as wallbreakers such as <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>, as they can help to remove or deal large chunks of damage to Armarouge's checks. Armarouge benefits from hazard removal options such as Tidy Up <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a> and Rapid Spin Cyclizar, as they can prevent it from losing its health to entry hazard chip, thus keeping it from being dependent on Endure for surviving attacks. Armarouge works well with fast pivots such as Choice Scarf <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and Cyclizar that can bait a Knock Off from weak physical attackers such as Cyclizar, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and use it against them to threaten a devastating sweep by activating Weakness Policy.</p>",
+          "abilities": [
+            "Weak Armor"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [
+            "Normal",
+            "Psychic",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Armor Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Stored Power",
+                "type": null
+              },
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Endure",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 555741,
+            "username": "MachJacob"
+          },
+          {
+            "user_id": 655207,
+            "username": "Sir Tetris"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 231398,
+                "username": "feen"
+              },
+              {
+                "user_id": 614438,
+                "username": "fluff!!"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Psychic</h4>\n<p>Psyshock can be used over Stored Power, which allows Armarouge to break through special walls like <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>. Destiny Bond can be used as the last move, which allows Armarouge to take foes like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> or <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> down with it, opening up opportunities for teammates like <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a>.</p>",
+      "movesets": [
+        {
+          "name": "Endure + Weakness Policy (Psychic)",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Weakness Policy, Endure, and a Speed boost from Weak Armor, Armarouge becomes a fast and hard-hitting late-game sweeper, outspeeding and removing threats like <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>, Choice Band <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes, and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu/monotype/\" hreflang=\"en\">Urshifu-S</a>. At +2 Special Attack, Focus Blast allows Armarouge to OHKO <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a> while also 2HKOing threats switching into Armarouge such as <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. Aura Sphere can be used over Focus Blast for its accuracy; however, it trades off Focus Blast's higher power, making it miss out on OHKOing specially defensive Heatran after a Weakness Policy activation. Stored Power can be used over Expanding Force for higher breaking power after Weakness Policy and Weak Armor have activated, but this comes at the cost of being weaker without their previously mentioned boosts. Flamethrower allows Armarouge to melt Steel-types like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, while Armor Cannon has higher breaking power and is capable of OHKOing <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and non-Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> after a Weakness Policy boost.</p>\n<p><a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> is a crucial teammate due to its ability to set Psychic Terrain and its switch into Ghost-type attacks. Setting Psychic Terrain allows Armarouge to use a greatly strengthened Expanding Force that can KO <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> after Stealth Rock chip damage and Weakness Policy's activation. It also protects Armarouge from powerful priority attacks like <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>'s Sucker Punch and <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>'s Aqua Jet. <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a> is another great partner with Armarouge due to its access to Spikes and Stealth Rock, which allow Armarouge to break through bulkier Pokemon like the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and bypass Sturdy and Focus Sash from <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>, <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>. Deoxys-S can also set dual screens for Armarouge, allowing it to live a hit from Pokemon like <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a>, and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> and OHKO them back with Weakness Policy-boosted moves without the need for Endure. <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and Gallade are great offensive partners for Armarouge the former handles Ghost-types like <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> while the latter deals with Dark-types like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and Ting-Lu. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> is a good partner due to its imperative access to Magic Bounce, granting Armarouge some relief from hazards, and, if holding a Kasib Berry, Hatterene can paralyze fast Ghost-types like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and Spectrier with Nuzzle. <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> both appreciate Armarouge's ability to eliminate annoying Steel-types like Corviknight and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>. In return, the former checks fast threats like Choice Scarf Meowscarada, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, while the latter uses its Ground immunity and BoltBeam coverage to eliminate walls like <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a> and Gliscor. <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a> is a good defensive partner for Armarouge, as it uses its Water resistance to take hits from <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a> and can deal with <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> if it chooses to forgo an item.</p>",
+          "abilities": [
+            "Weak Armor"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Endure",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              },
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Armor Cannon",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Calm Mind (Psychic)",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its great defensive stats, access to Calm Mind and Stored Power, and Weak Armor ability, Armarouge becomes a potent setup sweeper on Psychic teams. Flamethrower complements Armarouge's Stored Power, allowing it to hit Steel-types like <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>. Iron Defense increases Armarouge's survivability against physical attacks, negating Defense drops from Weak Armor as well as letting it survive super effective moves like Earthquake from defensive <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, activating its Weakness Policy. At +1, Focus Blast allows Armarouge to OHKO Dark-types like <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, and potentially <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a> while also 2HKOing <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and specially defensive <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Aura Sphere can be used over Focus Blast for its accuracy; however, it trades off Focus Blast's higher power, requiring multiple boosts to OHKO common foes like Roaring Moon. Weak Armor boost allows Armarouge to outspeed faster threats like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, and Choice Scarf users like Roaring Moon, <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> while also boosting the power of Stored Power.</p>\n<p><a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a> is an excellent partner for Armarouge, providing dual screens support for easier setup and setting entry hazards, making it easier for Armarouge to break through bulky foes. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> sets up Psychic Terrain, which boosts the power of Armarouge's Psychic moves and blocks priority moves like <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>'s Sucker Punch and <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>'s Aqua Jet. Indeedee can also provide Healing Wish support, giving Armarouge a second chance to sweep. <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> provides a Ground immunity and a Water resistance and threatens foes with these types back with its BoltBeam coverage. <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> threatens Dark-types like <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, while <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> deals with Ghost-types like non-Choice Specs Flutter Mane, <a href=\"/dex/sv/pokemon/skeledirge/monotype/\" hreflang=\"en\">Skeledirge</a>, and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>. Armarouge also appreciates the pair's ability to break through special walls such as Hisuian Goodra, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> provides hazard control thanks to Magic Bounce, and Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> deals with faster threats like Choice Specs Flutter Mane and Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and Roaring Moon. Both appreciate Armarouge handling Steel-types like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, Scizor, and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>.</p>",
+          "abilities": [
+            "Weak Armor"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 353292,
+            "username": "Namranan"
+          },
+          {
+            "user_id": 594972,
+            "username": "Murphy Lawden"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "TR Attacker",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set as we work on proper analyses. Stay tuned!</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Life Orb",
+            "Safety Goggles"
+          ],
+          "teratypes": [
+            "Grass",
+            "Psychic"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Armor Cannon",
+                "type": null
+              },
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This analysis was for Battle Stadium Singles Regulation C, which ended on June 30th, 2023. Since then, this Pokemon's viability has massively dropped off, and it is no longer relevant. Using this Pokemon in today's metagame is not advised unless you have an extremely niche, hyper-specific need to cover.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Expanding Force",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Armarouge's combination of powerful STAB moves, excellent coverage, Weak Armor, and Psychic Terrain makes it a strong candidate to use Focus Sash.</p>\n</li>\n<li>\n<p><strong>Psychic Terrain</strong>: Psychic Terrain is a powerful setup move for Armarouge thanks to Expanding Force; it also protects Armarouge from priority moves after Weak Armor triggers.</p>\n</li>\n<li>\n<p><strong>Expanding Force</strong>: Expanding Force under Psychic Terrain especially with Tera Psychic, is a devastatingly powerful move.</p>\n</li>\n<li>\n<p><strong>Armor Cannon</strong>: This helps Armarouge defeat Steel-types as well as <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a>, who all resist or block Expanding Force.</p>\n</li>\n<li>\n<p><strong>Aura Sphere</strong>: While Armor Cannon covers several prominent Dark-types, Aura Sphere is needed if you want to threaten <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> or <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Destiny Bond</strong>: This is a good alternative to forcefully take down threats that Armarouge can’t easily KO, and it works very well with Weak Armor.</p>\n</li>\n<li>\n<p><strong>Energy Ball</strong>: Energy Ball hits the specially defensive Water-types Armarouge might struggle to defeat otherwise, most notably <a href=\"/dex/sv/pokemon/gastrodon/battle-stadium-singles/\" hreflang=\"en\">Gastrodon</a>.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low / Medium</strong>: Between Focus Sash and Psychic Terrain blocking priority moves, Armarouge is well-equipped to play without Tera. On the other hand, Armarouge can specialize to handle certain matchups better, at which point Tera can become more necessary.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: This Tera typing turns Armarouge's Water- and Ground-type weaknesses into resistances, and gives a vital Spore immunity against opposing <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>.</p>\n</li>\n<li>\n<p><strong>Psychic</strong>: With a boost from Tera Psychic, Expanding Force OHKOes even relatively bulky foes such as <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>. With Stealth Rock, Expanding Force still achieves most notable KOs without Tera Psychic, but the extra damage is still appreciated.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: In cases where setting up Psychic Terrain proves to be more difficult, Tera Fairy grants a resistance to Sucker Punch and makes disrupting other Dark-types like Chi-Yu easier. Its also just a solid defensive typing that neutralizes all of its other weaknesses.</p>\n</li>\n<li>\n<p><strong>Fighting</strong>: Tera Fighting is a more niche option for a Dark-type resistance that also powers up Aura Sphere.</p>\n</li>\n</ul>\n<h5>Abilities</h5>\n<ul>\n<li>\n<p><strong>Weak Armor</strong>: This ability takes full advantage of Focus Sash, guaranteeing you live a single hit from a physical attacker and granting a big Speed boost thereafter.</p>\n</li>\n<li>\n<p><strong>Flash Fire</strong>: While more situational, Flash Fire is worth considering with certain Tera Types like Grass, keeping momentum against revenge killers who use Fire-type attacks. It can also be used with Tera Fairy or Tera Fighting to shut down many variants of Chi-Yu.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Weak Armor"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Grass",
+            "Psychic",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Terrain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Armor Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              },
+              {
+                "move": "Destiny Bond",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-c-analysis-reservations.3719447/\">This set does not have a full write-up yet. If you'd like to finish this, feel free to reserve it here!</a></li>\n</ul>",
+          "abilities": [
+            "Flash Fire",
+            "Weak Armor"
+          ],
+          "items": [
+            "Assault Vest",
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Armor Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613881,
+            "username": "Tachipoyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "TR Sweeper",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Life Orb",
+            "Mind Plate"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Armor Cannon",
+                "type": null
+              },
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Wide Guard",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 28,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 6-7 points</p>\n<p><strong>Overview</strong>: Armarouge can be a flexible sweeper and slow wallbreaker with an abundance of coverage options coupled by a strong Special Attack. Additionally, its mediocre Speed tier is easily overlooked with Weak Armor, which pairs well with a Weakness Policy and Stored Power to quickly turn the tide of battles. Unfortunately, it is difficult to maximize Armarouge's potential on most drafts due to its plethora of weaknesses as well as its reliance on proper support in order to set it up for boosted attacks. It is not usually the primary choice for Terastallization, but Armarouge's abilities can make it a viable candidate both defensively and offensively. Nonetheless, Armarouge can provide offensive pressure and play the crucial role as a late-game sweeper with its unique set of abilities and attacks.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Both Weakness Policy with Endure and a Focus Sash with Calm Mind can enable Weak Armor Armarouge to boost multiple stats in a single turn before firing off Stored Power and Armor Cannon against its foes. This can also be useful in Psychic Terrain, as it benefits from the immediate boosted damage with Expanding Force as well as avoiding priority moves like Sucker Punch and Shadow Sneak.</p>\n<p><strong>Wallbreaker</strong>: A strong Special Attack stat coupled with a diverse movepool enables Armarouge to break through walls with a Choice Specs or Choice Scarf. This role appreciates Flash Fire boosts or the increase in Speed from Weak Armor. Although this requires Armarouge to become vulnerable to entry hazard damage, it can be quite effective for luring in and wearing down opposing walls.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Armor Cannon, Flamethrower, Mystical Fire, Overheat, Expanding Force, Psychic, Psyshock, Stored Power</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Iron Defense, Flame Charge, Meteor Beam</p>\n<p><strong>Utility Moves</strong>: Clear Smog, Light Screen, Reflect, Substitute, Taunt, Trick, Will-O-Wisp</p>\n<p><strong>Coverage</strong>: Aura Sphere, Dark Pulse, Dragon Pulse, Energy Ball, Flash Cannon, Focus Blast, Scorching Sands, Shadow Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Endure</strong>: Endure can be useful with Weak Armor and Weakness Policy, allowing Armarouge to survive a foe's attack that it otherwise could not and gain many stat boosts at once. This amplifies its offensive damage output through Stored Power. Additionally, Endure can be effective on non-Weakness Policy sets to trade an opposing KO with a quick Destiny Bond.</p>\n<p><strong>Trick Room</strong>: Armarouge's mediocre Speed and high Special Attack can prove to be effective when taking advantage of Trick Room. This also pairs well with Eject Pack, allowing it to fire off an Armor Cannon before pivoting out to other allies.</p>\n<p><strong>Destiny Bond</strong>: Destiny Bond can be quite useful for earning one final KO after Armarouge is heavily damaged. The increase in Speed after a Weak Armor boost enables Armarouge to outspeed unsuspecting revenge killers, so it tends to work best with Endure sets to ensure a Weak Armor boost.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots enables Armarouge to switch into the field without taking significant damage from Stealth Rock and other entry hazards.</p>\n<p><strong>Weakness Policy</strong>: Even without Endure, Armarouge's natural defensive bulk enables it to withstand some super effective attacks to active Weakness Policy. For instance, a foe's Knock-Off simultaneously triggers its Weakness policy and Weak Armor boosts, allowing Armarouge to dominate offensively. This set works especially well with Stored Power, as Armarouge can easily gain multiple stat boosts in a single turn.</p>\n<p><strong>Focus Sash</strong>: Focus Sash enables Armarouge to survive any hit from full health, which can be beneficial for setting up or using a speedy Destiny Bond without Endure.</p>\n<p><strong>Choice Specs</strong>: Choice Specs grants Armarouge immediate offensive pressure to break down opposing special walls. This can also lure in foes that may attempt to take advantage of the more predictable Endure Armarouge set with the potential to give away its Choice Specs with Trick.</p>\n<h3>Niche Items</h3>\n<p><strong>Power Herb</strong>: Power Herb allows Armarouge to boost its Special Attack while dishing out significant damage in the same turn with Meteor Beam.</p>\n<p><strong>White Herb / Eject Pack</strong>: Both the White Herb and Eject Pack can remedy the stat drops from Armor Cannon, with the latter adding an option to pivot Armarouge out of battle.</p>\n<p><strong>Assault Vest</strong>: Flash Fire Armarouge's defensive Tera options, such as Tera Grass and Steel, also appreciate the additional bulk provided by Assault Vest.</p>\n<p><strong>Air Balloon</strong>: Armarouge appreciates an Air Balloon as it increases the likelihood of foes activating its Weak Armor with their coverage attacks. Flash Fire sets can even counter niche defensive walls that may have a limited offensive movepool.</p>\n<h3>Tera</h3>\n<p>Although there are other candidates that can take better advantage of Terastallization, Armarouge can be a great choice for its price range. Armarouge's Flash Fire synergizes well with defensive options like Tera Grass, Bug, and Steel. Similarly, Tera Flying, Fighting, and Fairy are useful for activating Weak Armor while withstanding attacks that would KO it. Tera Psychic and Fire are predominantly used as Armarouge's offensive Tera choices, as they both can enhance the damage output from its STAB moves and facilitate wallbreaking.</p>\n<h3>Draft Strategy</h3>\n<p>Armarouge's effectiveness as a threatening setup sweeper is heavily reliant on the partners drafted alongside it, as it does not provide practical utility to a draft. It is quite difficult to place Armarouge in a winning position, but it can easily close out a game once it achieves this state.</p>\n<p><strong>Entry Hazard Removal</strong>: Without proper removal, Armarouge sets that do not run Heavy-Duty Boots can be easily chipped down by entry hazards, effectively removing its primary role as a setup sweeper. Partners like as <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a>, and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> are ideal for this role.</p>\n<p><strong>Bulky Pivots</strong>: Armarouge appreciates an ally that can pivot it safely onto the field while reducing the stats of foes through Intimidate, status conditions, or Parting Shot. Allies that can do this particularly well include <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>.</p>\n<p><strong>Dual Screens</strong>: Dual screens support enables Weak Armor Armarouge to withstand attacks with greater ease. Screen setters that can fill this role include <a href=\"/dex/sv/pokemon/klefki/draft/\" hreflang=\"en\">Klefki</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a>, and <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a> to name a few.</p>\n<p><strong>Psychic Terrain</strong>: Armarouge appreciates the boosted damage from Expanding Force as its strongest Psychic-type STAB move. Thus, <a href=\"/dex/sv/pokemon/indeedee/draft/\" hreflang=\"en\">Indeedee</a> is a great partner as a cheap offensive core.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Entry Hazards</strong>: Armarouge excels in its role as a setup sweeper, which means opting for other held items over Heavy-Duty Boots. As a result, it is incredibly vulnerable to entry hazards due to its weakness to Stealth Rocks and Toxic Spikes that easily threaten its ability as a setup sweeper.</p>\n<p><strong>Fire- and Psychic-type Resistant Pokemon</strong>: Without proper setup, Armarouge is easily threatened by foes that can resist or is immune to its Fire- and Psychic- type STAB attacks. Threats such as <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> can easily shrug off its attacks while forcing a KO in return.</p>\n<p><strong>Taunt / Encore</strong>: Although Armarouge plays an exceptional role as a late game sweeper, it is very predictable and one-dimensional. Thus, it can easily be disrupted by Taunt and Encore from foes, forcing it to switch out or limiting its damage potential.</p>\n<p><strong>Strong Special Attackers</strong>: Armarouge's poor Special Defense makes it vulnerable to specially offensive foes. Additionally, without Weak Armor to boost its Speed, specially offensive attackers can easily counter most Armarouge sets without fearing the increased damage from Weakness Policy boosts.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 572939,
+            "username": "PhantomSnorlax"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Weakness Policy (Spe)",
+          "pokemon": "Armarouge",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Weak Armor"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Armor Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Endure",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Ally Switch",
+    "Armor Cannon",
+    "Astonish",
+    "Aura Sphere",
+    "Calm Mind",
+    "Celebrate",
+    "Clear Smog",
+    "Confuse Ray",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Disable",
+    "Dragon Pulse",
+    "Ember",
+    "Endure",
+    "Energy Ball",
+    "Expanding Force",
+    "Facade",
+    "Fire Blast",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Flash Cannon",
+    "Fling",
+    "Focus Blast",
+    "Heat Wave",
+    "Helping Hand",
+    "Incinerate",
+    "Iron Defense",
+    "Lava Plume",
+    "Leer",
+    "Light Screen",
+    "Meteor Beam",
+    "Mystical Fire",
+    "Night Shade",
+    "Overheat",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Reflect",
+    "Rest",
+    "Scorching Sands",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spite",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Trick",
+    "Trick Room",
+    "Weather Ball",
+    "Wide Guard",
+    "Will-O-Wisp"
+  ]
+}

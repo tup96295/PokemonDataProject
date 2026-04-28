@@ -1,0 +1,1563 @@
+{
+  "name": "Mandibuzz",
+  "alias": "mandibuzz",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "stats": [
+    110,
+    65,
+    105,
+    55,
+    95,
+    80
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mandibuzz has a solid niche in the UU metagame thanks to a unique and solid defensive typing, great mixed walling capabilities, and access to rare utility options like Defog and Toxic that make it a valuable addition to bulkier builds. Foul Play lets it threaten out Pokemon like <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a>, <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a>, and Belly Drum <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a>. Defog lets Mandibuzz remove entry hazards for its teammates, especially against threats like Metagross and <a href=\"/dex/sv/pokemon/rhyperior/uu/\" hreflang=\"en\">Rhyperior</a>, although the latter might require more precise positioning than the former; it must be hit with Toxic first to be worn down, allowing Mandibuzz to utilize its natural bulk to tank Stone Edge, freely use Defog, and then use Roost to heal off the damage while not being trapped in a healing cycle due to the inability to progress against Rhyperior. Roost keeps it healthy throughout a match, allowing it to repeatedly come in and check <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>, Excadrill, <a href=\"/dex/sv/pokemon/ogerpon/uu/\" hreflang=\"en\">Ogerpon</a>, and Scizor. Toxic alleviates Mandibuzz's passivity a bit, threatening opposing bulky Pokemon like <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> and setup sweepers like Nasty Plot <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> and Calm Mind Tera Electric Latios. U-turn is an alternative to either Defog or Toxic that allows it to act as a slow pivot to maintain momentum against counters like <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a> and <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a>, but Mandibuzz does not usually fit on the offensive structures that necessitate the need of U-turn to keep it from being a momentum sink. Heavy-Duty Boots keeps away the pesky damage from entry hazards. The given Speed investment allows Mandibuzz to outspeed Azumarill, while the Special Defense investment allows it to survive two Soul Dew-boosted Draco Meteors from Latios. Tera Steel helps Mandibuzz better answer foes like Latios and <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a> while flipping the script against foes like <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a> and shielding it from opposing Toxic. Tera Fairy lets it counter Dragon-types like Latios much more reliably, especially if it chooses to carry Toxic, and allows Mandibuzz to now gain a Fighting resistance while keeping its Ground neutrality against Excadrill.</p>\n<p>Mandibuzz best fits on balance and stall builds that enjoy its mixed walling and key utility features. <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a> is a great partner, as its typing and ability let it handle annoying Pokemon like Hydrapple and Cobalion somewhat consistently, while also helping against Tera Electric Calm Mind Latios. <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a> also is a great partner, being a fantastic Knock Off absorber against Tornadus-T and <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>, while also handling threats like Azumarill and Greninja that Mandibuzz struggles against. Tinkaton can not only act as a secondary check to Latios so that Mandibuzz won't get overwhelmed, but also beat the threatening Ogerpon-C. Rhyperior and <a href=\"/dex/sv/pokemon/hippowdon/uu/\" hreflang=\"en\">Hippowdon</a> can check <a href=\"/dex/sv/pokemon/arcanine-hisui/uu/\" hreflang=\"en\">Hisuian Arcanine</a>, which Mandibuzz struggles against. Excadrill is another Pokemon that can give Mandibuzz trouble, so a check like Hydrapple or Slowking is necessary. Slowking also has the benefit of providing more assurance against Latios.</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 240,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        },
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mandibuzz has a solid niche in the UU metagame thanks to a unique and solid defensive typing, great mixed walling capabilities, and access to rare utility options like Defog and Toxic that make it a valuable addition to bulkier builds. Foul Play lets it threaten out Pokemon like <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a>, <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a>, and Belly Drum <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a>. Defog lets Mandibuzz remove entry hazards for its teammates, especially against threats like Metagross and <a href=\"/dex/sv/pokemon/rhyperior/uu/\" hreflang=\"en\">Rhyperior</a>, although the latter might require more precise positioning than the former; it must be hit with Toxic first to be worn down, allowing Mandibuzz to utilize its natural bulk to tank Stone Edge, freely use Defog, and then use Roost to heal off the damage while not being trapped in a healing cycle due to the inability to progress against Rhyperior. Roost keeps it healthy throughout a match, allowing it to repeatedly come in and check <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>, Excadrill, <a href=\"/dex/sv/pokemon/ogerpon/uu/\" hreflang=\"en\">Ogerpon</a>, and Scizor. Toxic alleviates Mandibuzz's passivity a bit, threatening opposing bulky Pokemon like <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> and setup sweepers like Nasty Plot <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> and Calm Mind Tera Electric Latios. U-turn is an alternative to either Defog or Toxic that allows it to act as a slow pivot to maintain momentum against counters like <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a> and <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a>, but Mandibuzz does not usually fit on the offensive structures that necessitate the need of U-turn to keep it from being a momentum sink. Heavy-Duty Boots keeps away the pesky damage from entry hazards. The given Speed investment allows Mandibuzz to outspeed Azumarill, while the Special Defense investment allows it to survive two Soul Dew-boosted Draco Meteors from Latios. Tera Steel helps Mandibuzz better answer foes like Latios and <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a> while flipping the script against foes like <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a> and shielding it from opposing Toxic. Tera Fairy lets it counter Dragon-types like Latios much more reliably, especially if it chooses to carry Toxic, and allows Mandibuzz to now gain a Fighting resistance while keeping its Ground neutrality against Excadrill.</p>\n<p>Mandibuzz best fits on balance and stall builds that enjoy its mixed walling and key utility features. <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a> is a great partner, as its typing and ability let it handle annoying Pokemon like Hydrapple and Cobalion somewhat consistently, while also helping against Tera Electric Calm Mind Latios. <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a> also is a great partner, being a fantastic Knock Off absorber against Tornadus-T and <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>, while also handling threats like Azumarill and Greninja that Mandibuzz struggles against. Tinkaton can not only act as a secondary check to Latios so that Mandibuzz won't get overwhelmed, but also beat the threatening Ogerpon-C. Rhyperior and <a href=\"/dex/sv/pokemon/hippowdon/uu/\" hreflang=\"en\">Hippowdon</a> can check <a href=\"/dex/sv/pokemon/arcanine-hisui/uu/\" hreflang=\"en\">Hisuian Arcanine</a>, which Mandibuzz struggles against. Excadrill is another Pokemon that can give Mandibuzz trouble, so a check like Hydrapple or Slowking is necessary. Slowking also has the benefit of providing more assurance against Latios.</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 240,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 647932,
+            "username": "Goombatower69"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 617840,
+                "username": "eeriespell"
+              },
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "AG",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Mandibuzz could opt to use Mental Herb over Heavy-Duty Boots for the ability to check Taunt variations of Draining Kiss <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>. However, not using Heavy-Duty Boots renders Mandibuzz vulnerable to Stealth Rock and other entry hazards after Terastallization. Mandibuzz can also use U-turn over the moves in its third slot. Usually, when Mandibuzz switches in against Calyrex-S and forces it to switch out, Mandibuzz loses momentum by staying in. However, with U-turn, Mandibuzz can gain its team the initiative and switch in a teammate that can make its position more advantageous. Although in most cases, the slight increase in momentum Mandibuzz's team gets is insignificant, and other moves can bring more value.</p>\n<h3>Checks and Counters</h3>\n<p><strong><a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a></strong>: Zacian-C is immune to Mandibuzz's status moves and resists Knock Off. It is also capable of OHKOing Mandibuzz with Play Rough.</p>\n<p><strong><a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a></strong>: Miraidon can OHKO Mandibuzz with Electro Drift and does great damage to the point where Mandibuzz can no longer check Calyrex-S even after Terastallization.</p>\n<p><strong><a href=\"/dex/sv/pokemon/hatterene/ag/\" hreflang=\"en\">Hatterene</a></strong>: Hatterene's Magic Bounce grants it an immunity to Mandibuzz's Toxic, and it can use Calm Mind in combination with Draining Kiss to deal significant damage to Mandibuzz, healing itself in the process.</p>\n<p><strong><a href=\"/dex/sv/pokemon/gliscor/ag/\" hreflang=\"en\">Gliscor</a></strong>: Gliscor's Knock Off poses a significant threat to Mandibuzz, as removing Heavy-Duty Boots causes Mandibuzz to be much more vulnerable to Stealth Rock.</p>\n<p><strong>Wallbreakers</strong>: Wallbreakers, like <a href=\"/dex/sv/pokemon/kyogre/ag/\" hreflang=\"en\">Kyogre</a> and <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, are capable of dealing significant damage to Mandibuzz, rendering it unable to check Calyrex-S effectively.</p>",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mandibuzz is one of stall teams' best <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a> checks, utilizing its Dark typing, special bulk, and access to reliable recovery in Roost to wall all Calyrex-S sets, bar Tera Fairy. Toxic significantly cripples foes by limiting how much they can set up. Whirlwind phazes setup threats like various setup <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a> formes. Defog is a form of emergency entry hazard control, especially useful against Knock Off Pokemon, but Mandibuzz also removes its own team's hazards while using it. Alternatively, Foul Play discourages physical attackers from setting up against Mandibuzz. Knock Off removes Heavy-Duty Boots, making it much easier to chip down Pokemon with the Spikes and Toxic Spikes that Mandibuzz's teammates set. Tera Steel grants Mandibuzz a resistance to Fairy- and Psychic-type moves, allowing it to check non-Taunt Draining Kiss Calyrex-S, as well as <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>, and giving Mandibuzz a Toxic immunity. Mandibuzz has to compete with <a href=\"/dex/sv/pokemon/muk-alola/ag/\" hreflang=\"en\">Alolan Muk</a> for a slot, another Dark-type Calyrex-S check that is much better equipped to deal with Tera Fairy Calyrex-S. However, Mandibuzz has reliable recovery in Roost, unlike Alolan Muk, whose Rest is shut down by Electric Terrain.</p>\n<p>Teammates like <a href=\"/dex/sv/pokemon/dondozo/ag/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/skeledirge/ag/\" hreflang=\"en\">Skeledirge</a>, and <a href=\"/dex/sv/pokemon/gliscor/ag/\" hreflang=\"en\">Gliscor</a> appreciate having a reliable switch-in to Calyrex-S, while <a href=\"/dex/sv/pokemon/blissey/ag/\" hreflang=\"en\">Blissey</a> appreciates having a fallback method when facing Psyshock variations of Calyrex-S. As Mandibuzz is forced out by the threat of <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>'s Electro Drift or <a href=\"/dex/sv/pokemon/kyogre/ag/\" hreflang=\"en\">Kyogre</a>'s Water-type moves, it enjoys having teammates like Tera Grass <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>, <a href=\"/dex/sv/pokemon/clodsire/ag/\" hreflang=\"en\">Clodsire</a>, and Blissey, all of which can absorb their attacks well. Arceus-Fairy's super effective Judgment poses a great threat to Mandibuzz, forcing it to switch out to teammates like Clodsire, whose Poison typing and access to Toxic make it an excellent check to Arceus-Fairy. Mandibuzz is also very vulnerable to physical attackers, like <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a>, which is immune to its Toxic, resists Knock Off, and can OHKO Mandibuzz with Play Rough; or <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, whose Choice Scarf sets can 2HKO Mandibuzz, and Substitute sets use it as setup fodder. Thus, teammates like Skeledirge, Dondozo, and <a href=\"/dex/sv/pokemon/alomomola/ag/\" hreflang=\"en\">Alomomola</a> work very well with Mandibuzz, as both Skeledirge and Dondozo can fully ignore both setup sweepers' Swords Dance boosts with Unaware, and Skeledirge can cripple them with Will-O-Wisp. At the same time, Alomomola can use its great physical bulk to use Flip Turn and absorb damage the aforementioned Unaware walls would have taken otherwise.</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 665318,
+            "username": "JK"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 487990,
+                "username": "Swas"
+              },
+              {
+                "user_id": 469993,
+                "username": "Bread Sandwich"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 653095,
+                "username": "FavMon=Garchomp"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>16 Speed EVs allow Mandibuzz to outspeed Adamant <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/ursaluna/ou/\" hreflang=\"en\">Ursaluna</a>.</p>",
+          "abilities": [
+            "Overcoat",
+            "Big Pecks"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Dark)",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Mandibuzz is a decent supportive piece for Dark teams with its ability to pivot into physical attackers like <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> due to its great bulk and U-turn to position its other teammates into favorable matchups. Foul Play punishes strong physical attackers like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>. If the reader feels that Toxic is enough to keep physical setup sweepers at bay, Knock Off allows Mandibuzz to remove key items from <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> to help Mandibuzz's teammates have an easier time overwhelming these walls. U-turn lets Mandibuzz act as a pivot to escape common switch-ins like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> to maintain the offensive momentum of its team. Toxic greatly cuts the longevity of threats like <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, which otherwise switch in and set up on Mandibuzz. Defog lets Mandibuzz prevent its teammates from getting worn down over the course of the match, and if paired with Toxic, lets Mandibuzz pressure entry hazard setters like <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>. Overcoat is vital for checking Excadrill on sand-based Ground teams. 23 Speed IVs coupled with a Relaxed nature let Mandibuzz underspeed <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, allowing Mandibuzz to safely bring in a teammate to deal with Skarmory while also breaking its Sturdy with U-turn. Alternatively, an Impish nature with 16 Speed EVs lets Mandibuzz outspeed and use Foul Play against Adamant <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, checking it after it has used Belly Drum. Heavy-Duty Boots lets Mandibuzz get in freely to remove Stealth Rock if running Defog without much issue, but Rocky Helmet racks up chip damage against threats like Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, Excadrill, and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and also punishes U-turn users like <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>.</p>\n<p>Mandibuzz's ability to pivot for its teammates greatly benefits wallbreakers like <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, and Choice Specs <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, as it gives them more room to set up or punch holes in opposing teams. Nasty Plot Darkrai, for instance, can start wreaking havoc on Flying, Steel, and Dragon teams after a Nasty Plot, as it forces out Gliscor, Skarmory, and Archaludon, which Mandibuzz lures in. On the other hand, Swords Dance Bisharp benefits from being put in against Toxapex and Clodsire, allowing it to set up and clean weakened Poison and Ground teams, while Hisuian Samurott trades a Poison immunity for the ability to stack Spikes with Ceaseless Edge to eventually overpower Dragon teams late-game. Choice Specs Hoopa-U deals with <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, Toxapex, and Archaludon and sports a great natural Special Defense to trade with Choice Scarf <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> in the worst-case scenario. Hoopa-U can also use a Choice Scarf to surprise threats like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and Keldeo, which take advantage of Mandibuzz. Choice Scarf Meowscarada forms a decent pivoting core with Mandibuzz and can clean up against types like Ground, Flying, Fairy, and Dragon late-game. <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> provides more wallbreaking power, dealing with Toxapex, Clodsire, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> if using a Choice Specs set, or acts as a revenge-killer that outspeeds and eliminates Choice Scarf Enamorus and Sneasler, which can overwhelm Mandibuzz. Ting-Lu complements Mandibuzz, as these complete a defensive core for Dark teams, with Ting-Lu being able to deal with <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, Gholdengo, and Flutter Mane while also providing entry hazards. While Mandibuzz slightly overlaps with <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> due to their role as a physical wall, Sableye is still greatly appreciated thanks to its ability to check IronPress Skarmory, burn Urshifu-R and <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> to let Mandibuzz check these threats safely, and use Encore on setup sweepers like Keldeo, <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, and Volcarona, which take advantage of Mandibuzz.</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 23
+            },
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Relaxed",
+            "Impish"
+          ]
+        },
+        {
+          "name": "Defog (Flying)",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Mandibuzz finds a niche on Flying teams thanks to its unique secondary Dark typing and stellar defensive stats, allowing it to run either a specially or physically defensive set to give it a solid role. Foul Play makes use of the high Attack stat of threats like Swords Dance <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/metagross/monotype/\" hreflang=\"en\">Metagross</a>, and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> for its offense. U-turn can be used to threaten Dark-types like <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> while also allowing Mandibuzz to pivot into a teammate. Toxic provides solid utility in putting threats like <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> on a timer. Defog supports its fellow Flying-types by removing Stealth Rock along with helping Mandibuzz itself, should Heavy-Duty Boots be knocked off. Both EV spreads have good utility, with the specially defensive spread being better at handling threats such as Choice Specs <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, while the physically defensive spread can more reliably check foes like <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>. Both spreads check mixed threats like Hoopa-U. The 16 Speed EVs are used to outspeed <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a> and check it with Foul Play.</p>\n<p><a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and Landorus help immensely by being able to threaten Poison-types like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> coming in on Mandibuzz's Toxic, and they can also threaten Electric-types attemping to remove Mandibuzz such as <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. Gliscor also appreciates Mandibuzz running Toxic, allowing it to run a different support move such as Taunt. Both <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> can threaten Ice- and Rock-types like <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>. Skarmory with Body Press can also check Dark-types like Meowscarada, <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> thanks to its high Defense. Corviknight with Iron Head can check Fairy-type threats like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>, and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> along with being able to run Defog, allowing Mandibuzz to run Toxic in its moveset. <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> can threaten problematic Water-types like <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a> while enjoying Mandibuzz's ability to threaten physical attackers like <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and Scizor, should Mandibuzz be physically bulky. Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> appreciates Mandibuzz's ability to remove hazards and threaten Toxic onto walls, including Articuno, that could otherwise shrug off its attacks, enabling Enamorus's sweeping capability. In response, Enamorus can support Mandibuzz by removing Dark-types like Roaring Moon and Bisharp that can easily set up in front of Mandibuzz.</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 244,
+              "spe": 16
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful",
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 543620,
+                "username": "Vertigo"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware",
+            "Fluffy"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mandibuzz is an excellent physical wall, leveraging its typing, excellent role compression, and good natural bulk to act as a valuable teammate, checking threats like Psychic Surge <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>, and Choice Band <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>. U-turn, in combination with 0 Speed IVs and a Relaxed nature, allows Mandibuzz to act as a fantastic slow pivot, benefiting frail wallbreakers like <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/zapdos-galar/almost-any-ability/\" hreflang=\"en\">Galarian Zapdos</a>, and <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a>, while Toxic allows it to cripple switch-ins like <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a>. Defog allows Mandibuzz to act as an excellent hazard control option that is appreciated by wallbreakers and pivots like Chien-Pao, Roaring Moon, and Azelf, while Knock Off can cripple other switch-ins like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, Magic Guard <a href=\"/dex/sv/pokemon/quaquaval/almost-any-ability/\" hreflang=\"en\">Quaquaval</a>, and Galarian Zapdos. Unaware allows Mandibuzz to better check setup threats like Bulk Up Great Tusk, Dragon Dance <a href=\"/dex/sv/pokemon/dragonite/almost-any-ability/\" hreflang=\"en\">Dragonite</a>, and Swords Dance <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a>, while Well-Baked Body allows it to check <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/almost-any-ability/\" hreflang=\"en\">Ogerpon-H</a> while still checking the aforementioned Swords Dance Ceruledge, and Fluffy allows it to have an easier time checking wallbreakers like Choice Band Roaring Moon, <a href=\"/dex/sv/pokemon/barraskewda/almost-any-ability/\" hreflang=\"en\">Barraskewda</a>, and Galarian Zapdos. Mandibuzz has a poor matchup against certain wallbreakers like Chien-Pao and <a href=\"/dex/sv/pokemon/iron-boulder/almost-any-ability/\" hreflang=\"en\">Iron Boulder</a>; thus, a secondary physical wall like Intimidate Corviknight is appreciated. Mandibuzz also appreciates special walls like RegenVest <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> that can switch into specially offensive threats like Zapdos, <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a>.</p>",
+          "abilities": [
+            "Unaware",
+            "Well-Baked Body",
+            "Fluffy"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        },
+        {
+          "name": "Magic Guard",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mandibuzz is a solid physical wall with high defensive stats, a useful typing, and valuable utility moves in Defog, Toxic, and Knock Off. Magic Guard circumvents its normally crippling Stealth Rock weakness, letting it act as an excellent Knock Off absorber from the likes of <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a> and Meowscarda, as well as a status absorber from <a href=\"/dex/sv/pokemon/toxapex/almost-any-ability/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a>, and opposing Mandibuzz. Foul Play allows Mandibuzz to beat physical setup sweepers such as <a href=\"/dex/sv/pokemon/dragonite/almost-any-ability/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a>, while Knock Off can limit the longevity of defensive walls and remove Assault Vests, enabling special attacking teammates like <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>. Toxic can cripple walls such as <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a> and shuts down bulky setup sweepers like Calm Mind Scream Tail and Bulk Up <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>. Defog provides valuable entry hazard control, especially for Stealth Rock-weak wallbreakers <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, Ceruledge, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/almost-any-ability/\" hreflang=\"en\">Ogerpon-H</a>, which Mandibuzz can also slow pivot in with U-turn alongside 0 Speed IVs and a Relaxed nature. Leftovers provides passive healing that can't be mitigated by indirect damage, while Rocky Helmet punishes contact moves, most notably U-turn from <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and Roaring Moon. Mandibuzz naturally loses to many of the tier's common physical attackers, including Chien-Pao and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/almost-any-ability/\" hreflang=\"en\">Ogerpon-C</a>, exacerbated by the fact that it lacks a true defensive ability or immunity; other physically defensive walls such as Corviknight and Toxapex help shore up these weaknesses. Although Mandibuzz can be an emergency switch-in to Psychic-types like Azelf, <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>, and Latios, it should generally not be relied on due to its uninvested special bulk and their various super effective coverage moves. Therefore, Mandibuzz appreciates specially defensive walls, such as <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, and Swampert, to check the previously mentioned special attackers along with <a href=\"/dex/sv/pokemon/gengar/almost-any-ability/\" hreflang=\"en\">Gengar</a> and Primarina.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 539679,
+            "username": "GlalieGoesBoom"
+          },
+          {
+            "user_id": 580765,
+            "username": "cat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 611238,
+                "username": "LordBox"
+              },
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 9-10 points</p>\n<p><strong>Overview</strong>: Mandibuzz has a good typing, strong mixed bulk, and access to a variety of utility moves that allow it to act as a bulky pivot. It is one of the few Pokemon in the metagame to still learn Defog, giving it a niche as a bulky entry hazard remover. However, given its low offensive stats and reliance on its item for longevity, Mandibuzz can be overly passive and easily chipped down over the course of a game. This is especially true if the team relies too heavily on it to tank powerful attacks from foes while also removing entry hazards.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Tank</strong>: Mandibuzz’s typing gives it a number of useful resistances and immunities, such as to Ghost, Psychic, and Ground. This combined with its excellent mixed bulk and access to Toxic allows Mandibuzz to check a wide variety of physical and special attackers as well as use its various utility options to chip opposing Pokemon down and avoid letting foes set up for free.</p>\n<p><strong>Bulky Defogger</strong>: Mandibuzz can use a combination of Defog and Roost to consistently come in throughout a game and remove entry hazards. Typically it will use a combination of Foul Play, Knock Off, Toxic, U-turn, and Whirlwind to avoid being setup bait.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Brave Bird, Dual Wingbeat, Foul Play, Knock Off</p>\n<p><strong>Setup Moves</strong>: Iron Defense, Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Defog, Roost, Taunt, Toxic, U-turn, Whirlwind</p>\n<p><strong>Coverage</strong>: Heat Wave</p>\n<h3>Niche Moves</h3>\n<p><strong>Snarl</strong>: Although it deals little damage, Snarl can be used in certain matchups to weaken an opposing special attacker while chipping it down. Snarl also goes through Substitute and can keep a Calm Mind setup sweeper from getting too many boosts.</p>\n<p><strong>Tailwind</strong>: Mandibuzz can use Tailwind to boost the Speed of slower offensive Pokemon. This works best with U-turn to get the best teammate in safely. Mandibuzz can use Weak Armor to switch in, get a Speed boost to help set up Tailwind, and more easily faint on the same turn.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Since Mandibuzz is weak to Stealth Rock, Heavy-Duty Boots is vital to its longevity and ability to consistently come in and check threats or remove entry hazards.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet helps Mandibuzz punish pivot moves and physical attackers, securing chip damage for its teammates against foes that are otherwise difficult to wear down.</p>\n<h3>Niche Items</h3>\n<p><strong>Leftovers</strong>: In matchups where Stealth Rock is not a threat, Leftovers can provide Mandibuzz with much-needed passive recovery to spend fewer turns using Roost.</p>\n<p><strong>Mental Herb</strong>: Mental Herb allows Mandibuzz to avoid a Taunt or Encore and do things like safely heal, remove entry hazards, or even use Taunt on the foe in return.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries give Mandibuzz the ability to take a super effective hit that would otherwise knock it out. This is especially helpful against boosted attackers that could otherwise break it, letting Mandibuzz knock them out with Foul Play or use Whirlwind on them to remove the boosts.</p>\n<h3>Tera</h3>\n<p>Mandibuzz should rarely, if ever, be chosen as a Tera Captain, as it cannot use Tera offensively and frequently relies on its typing to check threats. However, if necessary, Mandibuzz can utilize defensive Tera types such as Tera Fairy, Steel, and Poison to resist attacks that would otherwise be super effective.</p>\n<h3>Draft Strategy</h3>\n<p>Mandibuzz works best when filling out a team's defensive profile on rosters that already have their offensive core and need bulk and entry hazard removal.</p>\n<p><strong>Steel- / Poison-types</strong>: Pokemon of these types, such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a>, and <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, pair especially well with Mandibuzz, switching in on Toxic and Fairy-type attacks that commonly target it.</p>\n<p><strong>Bulky Pokemon</strong>: Because it will commonly be a team's primary entry hazard removal option, Mandibuzz appreciates having other bulky teammates that can take off some of the pressure so it isn't worn down as easily. Pokemon like <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/swampert/draft/\" hreflang=\"en\">Swampert</a> cover Mandibuzz’s weaknesses particularly well.</p>\n<p><strong>Wallbreakers</strong>: Being a bulky U-turn user lets Mandibuzz bring in teammates easily. Strong wallbreakers like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/draft/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a> can take advantage of the free switches to break the opposing team.</p>\n<p><strong>Entry Hazard Setting</strong>: Mandibuzz appreciates teammates that can set entry hazards, as its common support moves like Toxic, Knock Off, and Whirlwind work well in conjunction with entry hazards to wear down foes. Pokemon like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/infernape/draft/\" hreflang=\"en\">Infernape</a> that can both set entry hazards and prevent foes from setting theirs with either Rapid Spin or Taunt are especially helpful.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Toxic</strong>: Because Mandibuzz usually will be trying to check threats and keep entry hazards off, it is vital that it stays healthy. Being poisoned means that Mandibuzz will need to spend more time healing, which gives the opponent more opportunities to take advantage of it. Toxic damage also gives wallbreakers an easier range to 2HKO Mandibuzz, which stops it from checking threats throughout the game. Toxic users that can also set hazards and aren't afraid of Mandibuzz's own Toxic and Foul Play, such as <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/pecharunt/draft/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a>, are especially challenging to deal with.</p>\n<p><strong>Knock Off</strong>: Although Mandibuzz has an excellent resistance to Dark, it needs to avoid being hit by Knock Off from Pokemon it usually checks like Great Tusk, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>, since it relies on Heavy-Duty Boots to avoid taking damage from Stealth Rock. Without an item, Mandibuzz will struggle to check opposing Pokemon and safely remove entry hazards.</p>\n<p><strong>Wallbreakers</strong>: Although it has good mixed defenses, Mandibuzz isn't as bulky as many dedicated walls and can be broken by powerful attackers that can 2HKO it, including Choice Band and Specs users as well as naturally powerful wallbreakers such as <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/draft/\" hreflang=\"en\">Ursaluna-B</a> and Chi-Yu. <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> stands out as a physical wallbreaker that Mandibuzz struggles against due to a lack of Brave Bird weakness and strong secondary STAB moves to go with its Fighting typing. These wallbreakers can also force Mandibuzz to focus EVs into a single defense instead of spreading them out, weakening it on one end of the spectrum against the wallbreaker's teammates.</p>\n<p><strong>Disruption</strong>: Mandibuzz has little to no offensive presence, so Taunt or Encore from anything that isn't weak to Foul Play like <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a>, <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a>, and <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a> can prevent it from using most of its utility moves and keep it from recovering health.</p>\n<p><strong>Stealth Rock</strong>: Opposing Stealth Rock users can limit Mandibuzz by forcing it to both run Heavy-Duty Boots instead of a different item like Leftovers and use Defog instead of other utility moves like Toxic and Knock Off. Stealth Rock setters that threaten Mandibuzz offensively like <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a> and Glimmora make it difficult for Mandibuzz to effectively remove entry hazards. Similarly, hazard setters that Mandibuzz itself cannot threaten, such as <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a>, can consistently come in on it throughout a game to ensure Stealth Rock stays up.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 139162,
+            "username": "Hawhatos"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 466715,
+                "username": "sablolol"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mandibuzz's great utility options; good defensive typing that allows it to take on threats like <a href=\"/dex/sv/pokemon/kingambit/ubers-uu/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/sneasler/ubers-uu/\" hreflang=\"en\">Sneasler</a>; and solid physical bulk make it a decent pick in Ubers UU. Toxic puts Pokemon that lack recovery like <a href=\"/dex/sv/pokemon/zacian/ubers-uu/\" hreflang=\"en\">Zacian</a> and <a href=\"/dex/sv/pokemon/palkia-origin/ubers-uu/\" hreflang=\"en\">Palkia-O</a> on a timer. Alternatively, Knock Off removes items from switch-ins like <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ubers-uu/\" hreflang=\"en\">Landorus-T</a>, while Defog can give Mandibuzz extra utility by removing entry hazards for its teammates. Foul Play allows Mandibuzz to not be completely passive, dealing big damage to Pokemon like Swords Dance or Dragon Dance <a href=\"/dex/sv/pokemon/arceus/ubers-uu/\" hreflang=\"en\">Arceus</a> and Sneasler. U-turn gives Mandibuzz the ability to pivot out of bad matchups against Pokemon like <a href=\"/dex/sv/pokemon/zamazenta-crowned/ubers-uu/\" hreflang=\"en\">Zamazenta-C</a>. Tera Poison gives Mandibuzz a useful Fairy-type resistance and is generally an excellent defensive typing, helping it take on Pokemon like Zacian and <a href=\"/dex/sv/pokemon/magearna/ubers-uu/\" hreflang=\"en\">Magearna</a>. Mandibuzz generally fits on more defensive balance teams looking for a solid switch-in to physical attacks from Pokemon like Kingambit, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/ubers-uu/\" hreflang=\"en\">Ogerpon-H</a>, and Sneasler. Mandibuzz struggles against physical attackers like Kingambit and Zamazenta-C that do not fear Foul Play, so Pokemon like <a href=\"/dex/sv/pokemon/arceus-poison/ubers-uu/\" hreflang=\"en\">Arceus-Poison</a> and Landorus-T that can take them on are helpful. Pokemon like Landorus-T, <a href=\"/dex/sv/pokemon/slowking-galar/ubers-uu/\" hreflang=\"en\">Galarian Slowking</a>, and Magearna form a powerful defensive pivot core with Mandibuzz.</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 626445,
+                "username": "Imperial"
+              },
+              {
+                "user_id": 587908,
+                "username": "Leo Justice"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (HP, Atk, Def, SpD)",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Big Pecks"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Mix and Mega",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sablenite",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Mandibuzz serves as a solid wall thanks to its excellent typing, access to valuable utility moves, and impressive bulk, especially when utilizing Sablenite. It is arguably one of the best answers to powerful yet matchup-reliant Ghost-types such as <a href=\"/dex/sv/pokemon/arceus-ghost/mix-and-mega/\" hreflang=\"en\">Arceus-Ghost</a> and Manectite <a href=\"/dex/sv/pokemon/spectrier/mix-and-mega/\" hreflang=\"en\">Spectrier</a>, which can otherwise easily dismantle unprepared teams. Foul Play allows Mandibuzz to deal respectable damage to physical setup sweepers such as Pinsirite <a href=\"/dex/sv/pokemon/dragonite/mix-and-mega/\" hreflang=\"en\">Dragonite</a> as well as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/mix-and-mega/\" hreflang=\"en\">Urshifu-R</a> in dicey situations. It can also deal decent damage to foes such as <a href=\"/dex/sv/pokemon/lunala/mix-and-mega/\" hreflang=\"en\">Lunala</a>. U-turn, combined with the Speed reduction from Sablenite and minimum Speed investment, turns Mandibuzz into a highly effective slow pivot, enabling safe switches to powerful teammates like Urshifu-R, <a href=\"/dex/sv/pokemon/raging-bolt/mix-and-mega/\" hreflang=\"en\">Raging Bolt</a>, Spectrier, <a href=\"/dex/sv/pokemon/zamazenta/mix-and-mega/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/iron-crown/mix-and-mega/\" hreflang=\"en\">Iron Crown</a>. Alternatively, Defog can be run to give Mandibuzz entry hazard removal utility on bulky teams; however, it is not fond of switching into Stealth Rock due to its Rock weakness. Toxic is a fantastic option for crippling non-Sablenite defensive Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/mix-and-mega/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/garganacl/mix-and-mega/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/arceus/mix-and-mega/\" hreflang=\"en\">Arceus</a> formes, and Lunala, particularly Calm Mind variants of the latter two. Mandibuzz fits well on a variety of bulky offense, balance, and stall teams as a wall, Ghost-type check, and slow pivot. Pairing it with physically defensive partners like <a href=\"/dex/sv/pokemon/magearna/mix-and-mega/\" hreflang=\"en\">Magearna</a> and <a href=\"/dex/sv/pokemon/pecharunt/mix-and-mega/\" hreflang=\"en\">Pecharunt</a> forms a sturdy defensive and pivoting core. Due to its weakness to Stealth Rock, Mandibuzz appreciates hazard removal support from teammates such as Great Tusk and <a href=\"/dex/sv/pokemon/regieleki/mix-and-mega/\" hreflang=\"en\">Regieleki</a>, especially when it isn't running Defog. Mandibuzz also synergizes well with hazard setters like Magearna, Great Tusk, Garganacl, and <a href=\"/dex/sv/pokemon/arcanine-hisui/mix-and-mega/\" hreflang=\"en\">Hisuian Arcanine</a>, as it can force frequent switches with Toxic. Mandibuzz struggles significantly against Fairy-types like Altarianite Regieleki and Dragonite, <a href=\"/dex/sv/pokemon/arceus-fairy/mix-and-mega/\" hreflang=\"en\">Arceus-Fairy</a>, and Substitute Audinite Spectrier; thus, teammates like Pecharunt, Hearthflame Mask Great Tusk, <a href=\"/dex/sv/pokemon/ho-oh/mix-and-mega/\" hreflang=\"en\">Ho-Oh</a>, and <a href=\"/dex/sv/pokemon/eternatus/mix-and-mega/\" hreflang=\"en\">Eternatus</a> are effective at patching this weakness. Likewise, Electric-type checks such as <a href=\"/dex/sv/pokemon/arceus-ground/mix-and-mega/\" hreflang=\"en\">Arceus-Ground</a>, Altarianite Dragonite, and <a href=\"/dex/sv/pokemon/hippowdon/mix-and-mega/\" hreflang=\"en\">Hippowdon</a> help deal with threats like <a href=\"/dex/sv/pokemon/zapdos/mix-and-mega/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/kilowattrel/mix-and-mega/\" hreflang=\"en\">Kilowattrel</a>, and Raging Bolt.</p>",
+          "abilities": [
+            "Big Pecks"
+          ],
+          "items": [
+            "Sablenite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy",
+            "Relaxed"
+          ]
+        },
+        {
+          "name": "Gyaradosite Utility",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Gyaradosite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Impish",
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641598,
+            "username": "Solosis"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 545372,
+                "username": "Clas"
+              },
+              {
+                "user_id": 591294,
+                "username": "Lightniong"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Dark)",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>As a check to physical attackers with multiple utility options, Mandibuzz is a characteristic component for defensive backbones in Dark teams. Foul Play minimizes passivity, notably 2HKOing all <a href=\"/dex/sv/pokemon/ogerpon/national-dex-monotype/\" hreflang=\"en\">Ogerpon</a> formes, offensive <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>, <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, and +6 <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a>. U-turn lets Mandibuzz gain momentum by safely leaving potentially unfavorable matchups, bringing in checks that could struggle to switch in otherwise. Toxic lets Mandibuzz hinder entry hazard setters such as <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/araquanid/national-dex-monotype/\" hreflang=\"en\">Araquanid</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, easing the use of Defog. Brave Bird hits some foes its team can otherwise struggle with, for example, OHKOing <a href=\"/dex/sv/pokemon/lilligant-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Lilligant</a> and 2HKOing <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a> and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-monotype/\" hreflang=\"en\">Buzzwole</a>. The given EV spread allows Mandibuzz to outspeed Adamant Azumarill, with the rest invested in physical bulk to better handle foes such as <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>, and Mega Scizor. Ting-Lu can switch into Electric- and Rock-types that can easily force out Mandibuzz like <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/arcanine-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Arcanine</a>. <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> can also further complement a defensive core, as it mitigates a weakness to Fairy-types such as <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>, and <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>. Offensive Pokemon such as <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> benefit from Mandibuzz's utility, mitigating its passivity issues.</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 434487,
+            "username": "Bobsican"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Mandibuzz",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Speed investment outspeeds Specs <a href=\"/dex/sv/pokemon/primarina/national-dex-ru/\" hreflang=\"en\">Primarina</a> and Modest <a href=\"/dex/sv/pokemon/magnezone/national-dex-ru/\" hreflang=\"en\">Magnezone</a>. 252 HP / 160 SpD / 96 Spe is an alternative specially defensive spread.</p>\n<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Overcoat"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 160,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Air Cutter",
+    "Air Slash",
+    "Attract",
+    "Bone Rush",
+    "Brave Bird",
+    "Dark Pulse",
+    "Defog",
+    "Double-Edge",
+    "Dual Wingbeat",
+    "Endure",
+    "Facade",
+    "Fake Tears",
+    "Feather Dance",
+    "Flatter",
+    "Fly",
+    "Foul Play",
+    "Giga Impact",
+    "Gust",
+    "Heat Wave",
+    "Hurricane",
+    "Hyper Beam",
+    "Iron Defense",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Mean Look",
+    "Nasty Plot",
+    "Pluck",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Rock Tomb",
+    "Roost",
+    "Sandstorm",
+    "Scary Face",
+    "Shadow Ball",
+    "Sky Attack",
+    "Sleep Talk",
+    "Snarl",
+    "Spite",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Toxic",
+    "Uproar",
+    "U-turn",
+    "Whirlwind"
+  ]
+}

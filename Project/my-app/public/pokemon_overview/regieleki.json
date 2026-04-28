@@ -1,0 +1,715 @@
+{
+  "name": "Regieleki",
+  "alias": "regieleki",
+  "types": [
+    "Electric"
+  ],
+  "stats": [
+    80,
+    100,
+    50,
+    100,
+    50,
+    200
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dual Screens",
+          "pokemon": "Regieleki",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set while we work on the full analysis!</p>",
+          "abilities": [
+            "Transistor"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [
+            "Dark",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Explosion",
+                "type": null
+              },
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dual Screens",
+          "pokemon": "Regieleki",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With the highest base Speed in the game, Regieleki can enable high-powered setup sweepers like <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> on hyper offense teams as a dual screens lead, though it's more niche than other dual screens setters. With Refrigerate, Rapid Spin is a guaranteed way to remove entry hazards even in the face of Ghost-types like <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a>. However, Regieleki isn't the best to rely on for Rapid Spin all of the time, so teammates like <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/quaquaval/almost-any-ability/\" hreflang=\"en\">Quaquaval</a> can help as additional spinners. Explosion lets Regieleki get its teammates in safely, do massive damage to foes like <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, Great Tusk, and <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, and prevent dual screens removal via Defog. Many setup sweepers, most notably Gholdengo and Iron Hands, appreciate Regieleki's dual screens support while also fending off priority from Pokemon like <a href=\"/dex/sv/pokemon/slither-wing/almost-any-ability/\" hreflang=\"en\">Slither Wing</a> and Prankster <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, which would otherwise prevent it from setting dual screens. Regieleki similarly doesn't enjoy Choice Scarf Roaring Moon and <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a>, as they are the only relevant Pokemon able to outspeed it instantly, so having checks to them such as Kingambit, Iron Hands, and <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> can help. As a final note, Regieleki is exclusively a hyper offense lead meant to support Pokemon such as <a href=\"/dex/sv/pokemon/iron-boulder/almost-any-ability/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/gengar/almost-any-ability/\" hreflang=\"en\">Gengar</a>, and Kingambit by providing them with extra opportunities to set up and win the game.</p>",
+          "abilities": [
+            "Refrigerate"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Explosion",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 603640,
+            "username": "Hiusi guy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 540420,
+                "username": "April"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 297659,
+                "username": "deetah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 6-7 points</p>\n<p><strong>Overview</strong>: Regieleki has such an astonishing Speed stat that many Pokemon with a solid Speed tier, maximum Speed investment, and a Choice Scarf still cannot outrun it. It has a solid niche when setting dual screens or removing entry hazards for its teammates, always going first to guarantee the move is used. However, this is Regieleki's only leg up on other Pokemon, as its movepool is not going to galvanize anyone into picking it; since it has no coverage, foes that are immune to Electric run it through to the earth.</p>\n<h3>Common Roles</h3>\n<p><strong>Utility Pivot</strong>: Regieleki possesses a solid utility movepool; it is able to set up dual screens or reliably spread paralysis with Thunder Wave with its uncontested Speed tier. It can also pretty freely press a Transistor-boosted Volt Switch to spread chip damage or draw in the Ground-types that deal with it. It can also use Explosion after setting dual screens, immediately dealing lots of damage to the foe and bringing in a teammate safely.</p>\n<p><strong>Cleaner</strong>: Regieleki's Speed tier makes it an amazing late-game cleaner with a damage-boosting item. It may freely click Transistor-boosted STAB attacks once Electric-immune foes are removed from the match.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Thunderbolt, Thunder, Volt Switch, Wild Charge, Supercell Slam</p>\n<p><strong>Setup Moves</strong>: Charge Beam</p>\n<p><strong>Utility Moves</strong>: Reflect, Light Screen, Rapid Spin, Substitute, Thunder Wave, Protect</p>\n<p><strong>Coverage</strong>: Acrobatics, Ancient Power, Body Slam, Explosion, Extreme Speed, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Electro Ball</strong>: Regieleki's insane Speed tier allows it to smash through slow special walls with a max-power Electro Ball.</p>\n<p><strong>Thunder Cage</strong>: Regieleki can trap foes using Thunder Cage and deal residual damage, stopping bulky foes that may rely on Regenerator but lack ways to get off the field.</p>\n<p><strong>Eerie Impulse</strong>: Regieleki can use Eerie Impulse to prevent specially offensive Pokemon from setting up, which may provide more opportunities to switch out, chip the foe down, or provide extra utility to teammates.</p>\n<p><strong>Magnet Rise</strong>: Against weaker Ground-types, Regieleki may use Magnet Rise to alleviate its singular weakness for extra opportunities to help teammates out with its utility movepool.</p>\n<h3>Common Items</h3>\n<p><strong>Light Clay</strong>: Lengthening the time Reflect and Light Screen have on the field is be Regieleki's greatest boon, especially in matchups where the remainder of its team isn't bulky enough to take on certain threats.</p>\n<p><strong>Heavy-Duty Boots</strong>: Regieleki appreciates extra opportunities to switch in, especially when it wants to remove entry hazards. Heavy-Duty Boots allows it to do so and avoid permanent chip damage that may cut into its already pitiful bulk.</p>\n<p><strong>Choice Specs</strong>: Choice Specs turns Regieleki into an insane late-game cleaner once Electric-immune Pokemon are removed, as it only further extrapolates the power of its Electric-type STAB moves. It can even run Tera Blast as coverage to hit Pokemon that may be immune to its Electric-type moves.</p>\n<h3>Niche Items</h3>\n<p><strong>Focus Sash</strong>: Since Regieleki's bulk is mediocre, Focus Sash alleviates the issue to give it one guaranteed turn to set up a last-minute Reflect or Light Screen or provide a safe switch by switching in and sacrificing itself.</p>\n<p><strong>Air Balloon</strong>: Regieleki can utilize Air Balloon to avoid Ground-type moves, temporarily preventing it from being revenge killed or checked.</p>\n<p><strong>Other Damage-boosting Items</strong>: Magnet and Silk Scarf are serviceable to boost the Electric- and Normal-type moves that Regieleki has when it may not need the extra boost Choice Specs provides. Alternatively, it can run Life Orb when its health is less valuable and it wants to simply deal extra damage with some flexibility.</p>\n<p><strong>Choice Band</strong>: Although Regieleki lacks physical coverage, Choice Band can catch foes by surprise, and it synergizes well with Explosion.</p>\n<h3>Tera</h3>\n<p>Regieleki is generally not allowed to Terastallize, but if it is allowed, it should always be made a Tera Captain. It becomes nearly unstoppable with its Speed once it gains coverage, which is why it is nearly always banned. Tera Ice circumvents all of its coverage issues and turns it into a deadly late-game cleaner with nearly perfect BoltBeam coverage. Tera Grass and Water can also allow Regieleki to beat common Ground-types. Many other Tera types work well with it, as it's super versatile as a Tera Captain.</p>\n<h3>Draft Strategy</h3>\n<p>Regieleki has one amazing trait alongside a host of rather mediocre traits. It can support a team with its limited-but-useful utility movepool. If your team can take advantage of the Ground-type Pokemon that Regieleki lures out, it can provide far more than just utility through its powerful Electric-type moves.</p>\n<p><strong>Ground-type and Electric-immune Answers</strong>: Regieleki in an offensive role needs anything that is immune to its Electric-type STAB moves removed from the game, as it cannot pivot around risk-free with them around. Grass-type Pokemon resist Ground and can hit Ground-types super effectively, thus making Pokemon like <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a>, <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>, and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> great teammates. Additionally, Water- and Ice-type teammates can hit Ground-type foes super effectively and encourage them to be benched. Pokemon with Electric-immune abilities are generally Electric-type themselves, so Ground-type teammates such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a> can take them on and force them out reliably.</p>\n<p><strong>Setup Sweepers</strong>: Regieleki is able to set up Reflect and Light Screen pretty reliably and pivot out with Volt Switch to bring in strong setup sweepers, which can handle whatever is attempting to check it. Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> can come in after Volt Switch is used and begin to set up in the safety of dual screens.</p>\n<p><strong>Entry Hazards</strong>: Offensive variations of Regieleki appreciate the chip damage racking up to give it earlier cleaning opportunities. <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> has Ceaseless Edge to offensively set up Spikes. Ground-resistant and -immune Pokemon can set up extra entry hazards with few issues and enable it to draw chip damage onto the Ground-types that may want to wall it.</p>\n<p><strong>Secondary Entry Hazard Removal</strong>: Regieleki generally doesn't always want to be utility and it may not even come to a game at all if it's not valuable enough. Grabbing an alternative Pokemon with Rapid Spin can take pressure off of it, as it would be able to run other moves or opt to stay on the bench when its matchup might be poor. There are also Pokemon with Defog that can aid Regieleki in matchups against Ghost-type foes.</p>\n<p><strong>Secondary Speed Control</strong>: Regieleki's ludicrous Speed means nothing is going to be eclipsing its Speed tier, so foes usually opt to run bulk instead of Speed. It want teammates that are relatively fast so that running Speed EVs isn't completely pointless against the team, so any Pokemon between 105 and 130 Speed is an excellent option. Pokemon that reliably run Choice Scarf are also good options.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Electric-resistant and -immune Pokemon</strong>: Regieleki has zero offensive options against Pokemon that stop it from using its STAB moves. Pokemon such as Great Tusk, <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a> can remove it from the field with little to no issues. Pokemon that resist Electric-type moves can also limit the opportunities Regieleki has to deal damage; <a href=\"/dex/sv/pokemon/hydrapple/draft/\" hreflang=\"en\">Hydrapple</a>, Rillaboom, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> are good examples of this.</p>\n<p><strong>Priority Attackers</strong>: Being able to go before Regieleki means neutralizing its only boon and capitalizing on its awful bulk. Pokemon such as <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, and <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a> can all use their respective priority options to get it off of the field, as it cannot tank the strong priority moves coming at it.</p>\n<p><strong>Dual Screens Removal</strong>: Being able to shut down Regieleki's primary utility role puts its functionality in jeopardy, the most popular way being Defog via Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/talonflame/draft/\" hreflang=\"en\">Talonflame</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/draft/\" hreflang=\"en\">Galarian Weezing</a>, which can slot the move into their sets and make sure setup sweepers aren't as protected. Niche forms of dual screens removal may come from Pokemon with Psychic Fangs like <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a> and <a href=\"/dex/sv/pokemon/salamence/draft/\" hreflang=\"en\">Salamence</a> or Pokemon with Brick Break such as Great Tusk and <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a>.</p>",
+      "comments": "",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652897,
+            "username": "VeeeKay"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dual Screens",
+          "pokemon": "Regieleki",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to having the highest Speed in Ubers UU and good utility options, Regieleki is a niche but effective dual screens lead. Volt Switch allows Regieleki to bring a partner onto the battlefield. Rapid Spin lets Regieleki remove entry hazards for Pokemon like <a href=\"/dex/sv/pokemon/kyurem-white/ubers-uu/\" hreflang=\"en\">Kyurem-W</a>, although Explosion is an option to give it a one-time nuke that always brings a partner in safely. Tera Flying gives Regieleki an immunity to Ground-type attacks, which allows it to set up dual screens on <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a> and both <a href=\"/dex/sv/pokemon/landorus/ubers-uu/\" hreflang=\"en\">Landorus</a> formes. Alternatively, Tera Ghost allows Regieleki to be immunity to Extreme Speed from <a href=\"/dex/sv/pokemon/arceus/ubers-uu/\" hreflang=\"en\">Arceus</a> formes and <a href=\"/dex/sv/pokemon/deoxys/ubers-uu/\" hreflang=\"en\">Deoxys</a> and operate as a spinblocker. Regieleki should only be used on hyper offense teams and should be sent in first or after a Pokemon like <a href=\"/dex/sv/pokemon/deoxys-speed/ubers-uu/\" hreflang=\"en\">Deoxys-S</a> has set up entry hazards. Setup sweepers like Nasty Plot <a href=\"/dex/sv/pokemon/mewtwo/ubers-uu/\" hreflang=\"en\">Mewtwo</a> and <a href=\"/dex/sv/pokemon/zacian/ubers-uu/\" hreflang=\"en\">Zacian</a> appreciate Regieleki setting up dual screens to help them set up more safely. Pokemon like Choice Specs Kyurem-W and <a href=\"/dex/sv/pokemon/kingambit/ubers-uu/\" hreflang=\"en\">Kingambit</a> like Regieleki pivoting them onto the field safely. <a href=\"/dex/sv/pokemon/gholdengo/ubers-uu/\" hreflang=\"en\">Gholdengo</a> is a notable partner, as it blocks Defog and can use the dual screens Regieleki sets up to set up as well. Regieleki struggles against counter leads like Defog <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a>, Taunt Arceus, and Deoxys that prevent it from setting up dual screens, so Pokemon that can take these threats on like Zacian, Great Tusk, and Kingambit can be valuable.</p>",
+          "abilities": [
+            "Transistor"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [
+            "Flying",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              },
+              {
+                "move": "Explosion",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Offensive Utility",
+          "pokemon": "Regieleki",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Regieleki's blistering Speed, decent offensive stats, and utility options make it one of Ubers UU's fastest cleaners and offensive pivots. Tera Blast Ice OHKOes Ground-type Pokemon like <a href=\"/dex/sv/pokemon/landorus/ubers-uu/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a>, which otherwise completely wall Regieleki, as well as chipping Dragon-types like <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a>. Rapid Spin gives Regieleki utility for its team by acting as a form of entry hazard control for Pokemon like <a href=\"/dex/sv/pokemon/kyurem-white/ubers-uu/\" hreflang=\"en\">Kyurem-W</a>. Volt Switch allows Regieleki to bring in a partner onto the battlefield, like <a href=\"/dex/sv/pokemon/mewtwo/ubers-uu/\" hreflang=\"en\">Mewtwo</a> or <a href=\"/dex/sv/pokemon/palkia-origin/ubers-uu/\" hreflang=\"en\">Palkia-O</a>. Regieleki fits best on offensive teams looking for a solid pivot. Since it is hard walled by Ground-types if it does not Terastallize, Pokemon like <a href=\"/dex/sv/pokemon/palafin/ubers-uu/\" hreflang=\"en\">Palafin</a>, Kyurem-W, and <a href=\"/dex/sv/pokemon/iron-bundle/ubers-uu/\" hreflang=\"en\">Iron Bundle</a> that can take on these Ground-types are good partners, with the latter two also appreciating Regieleki removing Stealth Rock. Pokemon like <a href=\"/dex/sv/pokemon/landorus-therian/ubers-uu/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/magearna/ubers-uu/\" hreflang=\"en\">Magearna</a>, and Iron Bundle can create a potent pivot core with Regieleki. Regieleki can be walled by specially defensive walls like <a href=\"/dex/sv/pokemon/dialga/ubers-uu/\" hreflang=\"en\">Dialga</a>, Magearna, and <a href=\"/dex/sv/pokemon/blissey/ubers-uu/\" hreflang=\"en\">Blissey</a>, so Pokemon that can take these threads on like <a href=\"/dex/sv/pokemon/zamazenta-crowned/ubers-uu/\" hreflang=\"en\">Zamazenta-C</a>, Palafin, and <a href=\"/dex/sv/pokemon/kingambit/ubers-uu/\" hreflang=\"en\">Kingambit</a> are helpful to have.</p>",
+          "abilities": [
+            "Transistor"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ice"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 610920,
+                "username": "vesp"
+              },
+              {
+                "user_id": 626445,
+                "username": "Imperial"
+              },
+              {
+                "user_id": 642468,
+                "username": "Finchely"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Mix and Mega",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "-ate Speed",
+          "pokemon": "Regieleki",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Regieleki is the premier -ate Speed user, entry hazard remover, and speed control, having incredible role compression that is unmatched. Volt Switch creates progress against switch-ins like <a href=\"/dex/sv/pokemon/eternatus/mix-and-mega/\" hreflang=\"en\">Eternatus</a> and <a href=\"/dex/sv/pokemon/magearna/mix-and-mega/\" hreflang=\"en\">Magearna</a>, especially with entry hazard support, while Rapid Spin removes entry hazards to support its teammates. Explosion removes nearly every Pokemon in the tier upon use, notably removing chipped Calm Mind <a href=\"/dex/sv/pokemon/arceus/mix-and-mega/\" hreflang=\"en\">Arceus</a> formes, while Supercell Slam can lure and remove <a href=\"/dex/sv/pokemon/ho-oh/mix-and-mega/\" hreflang=\"en\">Ho-Oh</a>, an otherwise-decent Regieleki switch-in. Supercell Slam can be used over Rapid Spin to allow Regieleki to have even more offensive pressure on teams where Rapid Spin is less necessary. Maximum Attack and Speed investment is preferred to negate Speed ties, but 8 HP and 60 Defense EVs can be allocated to allow Regieleki to survive opposing Altarianite Regieleki's Extreme Speed and KO back with a Rapid Spin into Extreme Speed or straight Extreme Speed after Stealth Rock. Glalitite is a fringe option when Altarianite is used up with a spread of 252 Atk / 160 SpA / 96 Spe to outspeed opposing Regieleki and remove entry hazards reliably at the cost of being offensively pathetic in comparison to Altarianite. Regieleki fits on a wide range of teams, from offense to semi-stall, and its teammate support reflects that. Pivots and setup attackers like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/mix-and-mega/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/raging-bolt/mix-and-mega/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/spectrier/mix-and-mega/\" hreflang=\"en\">Spectrier</a>, and Calm Mind Arceus formes all benefit from Regieleki's Explosion threats and notable Volt Switch, either answering switch-ins like <a href=\"/dex/sv/pokemon/arceus-ground/mix-and-mega/\" hreflang=\"en\">Arceus-Ground</a>, <a href=\"/dex/sv/pokemon/blissey/mix-and-mega/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/pecharunt/mix-and-mega/\" hreflang=\"en\">Pecharunt</a>, and Magearna or capitalizing off of Regieleki removing these roadblocks via Explosion to let them clean up games. Regieleki struggles to make progress versus the likes of Magearna, Eternatus, and Ground-types like <a href=\"/dex/sv/pokemon/clodsire/mix-and-mega/\" hreflang=\"en\">Clodsire</a> and Hearthflame Mask <a href=\"/dex/sv/pokemon/great-tusk/mix-and-mega/\" hreflang=\"en\">Great Tusk</a>, so answers to these walls like <a href=\"/dex/sv/pokemon/lunala/mix-and-mega/\" hreflang=\"en\">Lunala</a>, Hearthflame Mask Great Tusk, and Arceus-Ground are necessary. Entry hazards also weaken grounded variants of those listed, so setters like Magearna, Hearthflame Mask Great Tusk, and <a href=\"/dex/sv/pokemon/garganacl/mix-and-mega/\" hreflang=\"en\">Garganacl</a> are enjoyed. While Regieleki is certainly the best Rapid Spin user in the tier, it despises switching into entry hazards, and, as such, Sablenite users like Magearna, <a href=\"/dex/sv/pokemon/mandibuzz/mix-and-mega/\" hreflang=\"en\">Mandibuzz</a>, and <a href=\"/dex/sv/pokemon/swampert/mix-and-mega/\" hreflang=\"en\">Swampert</a> are incredibly helpful.</p>",
+          "abilities": [
+            "Transistor"
+          ],
+          "items": [
+            "Altarianite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Explosion",
+                "type": null
+              },
+              {
+                "move": "Supercell Slam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 8,
+              "atk": 252,
+              "def": 60,
+              "spa": 0,
+              "spd": 0,
+              "spe": 188
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naughty"
+          ]
+        },
+        {
+          "name": "Dual Screens",
+          "pokemon": "Regieleki",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Transistor"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Explosion",
+                "type": null
+              },
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 196,
+              "atk": 52,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 545372,
+            "username": "Clas"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 604741,
+                "username": "kenn"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Attacker",
+          "pokemon": "Regieleki",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Regieleki functions as a fearsome wallbreaker on Electric teams thanks to its blistering Speed alongside a stunningly powerful Electric-type STAB move in Terrain-boosted Rising Voltage, being able to 2HKO even the most stalwart of neutral checks such as Assault Vest users like <a href=\"/dex/sv/pokemon/slowking-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> as well as slightly less specially sturdy Electric-resistant Pokemon such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>. Thunderbolt offers a secondary STAB option for consistent Electric-type damage outside of Electric Terrain, while Volt Switch allows Regieleki to soften up its answers such as <a href=\"/dex/sv/pokemon/porygon2/national-dex-monotype/\" hreflang=\"en\">Porygon2</a> and bring in partners to either set up Electric Terrain for it or deal with the foe currently on the field. Ancient Power hits <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> harder than an Electric-type STAB move would while also giving Regieleki a chance to become more threatening with an omniboost. Rapid Spin allows Regieleki to have some utility outside of its sheer attacking prowess, letting it help its team if there is a Ground-type switching into it. Choice Specs allows Regieleki to annihilate nearly anything that isn't <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a> or a very specially bulky Electric-resistant foe, while Heavy-Duty Boots lets Regieleki function much better as a Rapid Spin user as well as a pivot, and Magnet allows Regieleki to not get punished as much for clicking a move. <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> is a mandatory teammate, as it deals very good damage to Ground-types like <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a> that otherwise stuff Regieleki, and it sets up Electric Terrain to boost Regieleki's Rising Voltage to the heights of its power. <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a> both deal with Ground-types such as Great Tusk and <a href=\"/dex/sv/pokemon/landorus-therian/national-dex-monotype/\" hreflang=\"en\">Landorus-T</a> with Hurricane and Hydro Pump while giving Regieleki a pivot to bring it in. Furthermore, both come with unique benefits as well—Zapdos deals with Grass-types like the aforementioned Ferrothorn and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> if Regieleki cannot immediately break through them, while Rotom-W offers entry hazard control through Defog as well as a stopgap to dangerous physical attackers like <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a> thanks to Will-O-Wisp. <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a> provides both a way to deal with pesky special walls like Blissey and <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a> as well as a slow pivot for Regieleki. <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a> pairs well with Regieleki, as both are incredible attackers physically and specially, respectively, and they chip down each other's checks well. In particular, Zeraora deals with Blissey and Hisuian Goodra, major annoyances for Regieleki, while Regieleki sweeps away physically defensive Mega Venusaur.</p>",
+          "abilities": [
+            "Transistor"
+          ],
+          "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Magnet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Rising Voltage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ancient Power",
+                "type": null
+              },
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 571069,
+            "username": "Dead by Daylight"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Agility",
+    "Ancient Power",
+    "Body Slam",
+    "Charge",
+    "Charge Beam",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Explosion",
+    "Extreme Speed",
+    "Facade",
+    "Giga Impact",
+    "Hyper Beam",
+    "Light Screen",
+    "Lock-On",
+    "Magnet Rise",
+    "Protect",
+    "Rain Dance",
+    "Rapid Spin",
+    "Reflect",
+    "Rest",
+    "Shock Wave",
+    "Sleep Talk",
+    "Substitute",
+    "Supercell Slam",
+    "Swift",
+    "Take Down",
+    "Tera Blast",
+    "Thrash",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Cage",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Volt Switch",
+    "Wild Charge",
+    "Zap Cannon"
+  ]
+}

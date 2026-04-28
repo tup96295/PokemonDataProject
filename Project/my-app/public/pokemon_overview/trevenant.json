@@ -1,0 +1,276 @@
+{
+  "name": "Trevenant",
+  "alias": "trevenant",
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "stats": [
+    85,
+    110,
+    76,
+    65,
+    82,
+    56
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "All-Out Attacker",
+          "pokemon": "Trevenant",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wood Hammer",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rest+3 Attacks",
+          "pokemon": "Trevenant",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Life Orb",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Wood Hammer",
+                "type": null
+              },
+              {
+                "move": "Horn Leech",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 2-3 points</p>\n<p><strong>Overview</strong>: Trevenant is a budget spinblocker that makes up for its low BST with excellent abilities and moves. It can viably run offensive sets with devastating Poltergeists as well as utility sets with a wide range of options. Its typing also makes it a solid spinblocker against most of the format's Rapid Spin users. Unfortunately for the tree, it has to compete with many other spinblockers and Grass-types, including three with the same type combination and more overall value. It also has less bulk than many of these options, making its typing less valuable.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Tank</strong>: Trevenant can be a thorn in the side of many Pokemon thanks to its defensive typing and potent STAB attacks. Harvest is used to keep it in the game longer. Status moves like Toxic, Will-O-Wisp, and Leech Seed quickly wear down foes, while Trevenant heals itself with reused Sitrus Berries through Harvest and Protect. It also has strong attacks like Knock Off and Earthquake to pressure the Pokemon immune to its chosen status move.</p>\n<p><strong>Wallbreaker</strong>: Attack investment can make Trevenant an decent offensive threat. Trick Room and Sucker Punch are options to help it deal with its low Speed.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Poltergeist, Wood Hammer, Horn Leech, Shadow Claw</p>\n<p><strong>Setup Moves</strong>: None worth using</p>\n<p><strong>Utility Moves</strong>: Knock Off, Toxic, Will-O-Wisp, Leech Seed, Substitute, Protect, Trick Room, Foul Play, Pain Split</p>\n<p><strong>Coverage</strong>: Drain Punch, Earthquake, Poison Jab, Rock Slide, X-Scissor, Sucker Punch</p>\n<h3>Niche Moves</h3>\n<p><strong>Trick</strong>: Trevenant often wants to keep its item, but it can give foes items like Choice Band with Trick to shut them down.</p>\n<p><strong>Rest</strong>: Rest grants recovery to bulky sets, with Natural Cure allowing Trevenant to wake up on demand.</p>\n<p><strong>Endure</strong>: Endure can enable strategies with Custap Berry by removing the need for precise HP management.</p>\n<h3>Common Items</h3>\n<p><strong>Sitrus Berry</strong>: Trevenant's effective bulk is greatly increased by a Sitrus Berry, especially when Harvest provides more.</p>\n<p><strong>Resistance Berries</strong>: Colbur Berry and Occa Berry, among others, help Trevenant spinblock more safely against foes with specific coverage.</p>\n<p><strong>Choice Band</strong>: Trevenant can use a Choice Band with its powerful STAB attacks to wallbreak. If the game state necessitates it, the item can also be passed to a physically weak foe using Trick.</p>\n<h3>Niche Items</h3>\n<p><strong>Custap Berry</strong>: Offensive sets can use Custap Berry and Endure to generate additional chances to attack, potentially stopping a foe's sweep.</p>\n<p><strong>Rocky Helmet</strong>: If Trevenant is designed to spinblock a Pokemon that runs Knock Off like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/donphan/draft/\" hreflang=\"en\">Donphan</a>, Rocky Helmet can be the best way to punish its attacks.</p>\n<h3>Tera</h3>\n<p>Trevenant is generally too frail and weak to be used as a Tera Captain, though sometimes it can be the best option to pair with a more expensive captain. In those cases, it appreciates defensive Tera types like Fairy and Water to help it function as a defensive piece. Tera Ghost has value on wallbreaker sets, and Tera Fighting is solid with Drain Punch.</p>\n<h3>Draft Strategy</h3>\n<p>Trevenant is chosen to finish a draft that lacks a Ghost-type and a tanky Grass-type. Although it's not the most reliable answer to Grass-weak attackers, it can serve as a roadblock for them and force preparation against it.</p>\n<p><strong>Entry Hazard Setters</strong>: Drafts with strong users of Spikes and other entry hazards appreciate a Ghost-type over the many other cheap Grass-types.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Knock Off</strong>: Trevenant loses a lot of value without its item and takes super effective damage from Knock Off.</p>\n<p><strong>Wallbreakers</strong>: Stronger attackers with Choice items or boosts from moves like Nasty Plot can be too much for Trevenant to withstand, especially since nearly every wallbreaker attacks before it.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 599989,
+            "username": "scionicle"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Ally Switch",
+    "Astonish",
+    "Branch Poke",
+    "Bulldoze",
+    "Burning Jealousy",
+    "Calm Mind",
+    "Confuse Ray",
+    "Curse",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Dig",
+    "Disable",
+    "Drain Punch",
+    "Earthquake",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Focus Blast",
+    "Forest's Curse",
+    "Foul Play",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Haze",
+    "Hex",
+    "Horn Leech",
+    "Hyper Beam",
+    "Imprison",
+    "Ingrain",
+    "Knock Off",
+    "Lash Out",
+    "Leaf Storm",
+    "Leech Seed",
+    "Magical Leaf",
+    "Night Shade",
+    "Pain Split",
+    "Phantom Force",
+    "Poison Jab",
+    "Poltergeist",
+    "Protect",
+    "Psychic",
+    "Psychic Noise",
+    "Psych Up",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Scary Face",
+    "Seed Bomb",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spite",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Toxic",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "Will-O-Wisp",
+    "Wood Hammer",
+    "X-Scissor"
+  ]
+}

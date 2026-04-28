@@ -1,0 +1,315 @@
+{
+  "name": "Toedscruel",
+  "alias": "toedscruel",
+  "types": [
+    "Ground",
+    "Grass"
+  ],
+  "stats": [
+    80,
+    70,
+    65,
+    80,
+    120,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Rapid Spin",
+          "pokemon": "Toedscruel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Mycelium Might"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Assault Vest",
+            "Eject Pack"
+          ],
+          "teratypes": [
+            "Water",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Rapid Spin",
+          "pokemon": "Toedscruel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Mycelium Might"
+          ],
+          "items": [
+            "Eject Pack"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Entry Hazard Support (Grass)",
+          "pokemon": "Toedscruel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Mycelium Might"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 180,
+              "atk": 0,
+              "def": 64,
+              "spa": 12,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acid Spray",
+    "Acupressure",
+    "Bullet Seed",
+    "Celebrate",
+    "Confuse Ray",
+    "Dazzling Gleam",
+    "Earth Power",
+    "Endure",
+    "Energy Ball",
+    "Flash Cannon",
+    "Foul Play",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Hex",
+    "Hyper Beam",
+    "Knock Off",
+    "Leaf Storm",
+    "Leech Seed",
+    "Light Screen",
+    "Lunge",
+    "Magical Leaf",
+    "Mega Drain",
+    "Mirror Coat",
+    "Mud Shot",
+    "Mud-Slap",
+    "Pain Split",
+    "Poison Powder",
+    "Power Whip",
+    "Protect",
+    "Rage Powder",
+    "Rain Dance",
+    "Rapid Spin",
+    "Reflect",
+    "Reflect Type",
+    "Rest",
+    "Scary Face",
+    "Screech",
+    "Seed Bomb",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Solar Beam",
+    "Spikes",
+    "Spore",
+    "Stun Spore",
+    "Substitute",
+    "Supersonic",
+    "Swift",
+    "Tackle",
+    "Taunt",
+    "Tera Blast",
+    "Tickle",
+    "Toxic",
+    "Toxic Spikes",
+    "Trailblaze",
+    "Trick Room",
+    "Venoshock",
+    "Wrap"
+  ]
+}
