@@ -1,0 +1,197 @@
+{
+  "name": "Dusknoir",
+  "alias": "dusknoir",
+  "types": [
+    "Ghost"
+  ],
+  "stats": [
+    45,
+    100,
+    135,
+    65,
+    135,
+    45
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Attacker",
+          "pokemon": "Dusknoir",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [
+            "Bug",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 2-3 points</p>\n<p><strong>Overview</strong>: Dusknoir is one of several spinblockers that can be used to flesh out the end a draft. It doesn't have as many strengths as other options, but this is often reflected in its price, allowing it to be the best choice sometimes. It can contribute to teams with potent STAB attacks, respectable mixed bulk, and a number of viable utility moves. Its main ability, Frisk, gives insight on the opponent's team composition. Unlike many of its fellow cheap Ghost-types, it lacks the ability to reliably recover HP or outspeed common Rapid Spin users, making it easier to deal with. It also lacks a secondary typing, which gives it fewer ways to hit Normal- and Dark-types.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Bulky Offensive</strong>: Dusknoir will often want to make use of its bulk and Attack to trade with foes. Poltergeist threatens major damage, and although its coverage is lacking, it can hit nearly all Ghost-resistant Pokemon super effectively. Shadow Sneak lets it pick off weakened foes or deal some extra damage before fainting. It can also usually fit a utility move or two— Will-O-Wisp in particular is devastating for many Pokemon that can handle a Poltergeist. Trick Room gives it some late-game sweeping potential.</p>\n<p><strong>Wall</strong>: Bulkier sets can be used to repeatedly check specific foes. These will play similarly to the tank sets while sporting more defensive EVs and moves like Pain Split and Haze.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Poltergeist, Shadow Sneak</p>\n<p><strong>Setup Moves</strong>: N/A</p>\n<p><strong>Utility Moves</strong>: Will-O-Wisp, Pain Split, Memento, Trick Room, Haze, Taunt, Substitute, Protect, Night Shade, Destiny Bond</p>\n<p><strong>Coverage</strong>: Brick Break, Leech Life, Earthquake, Fire Punch, Ice Punch, Thunder Punch, Rock Slide, Payback</p>\n<h3>Niche Moves</h3>\n<p><strong>Curse</strong>: Although risky, Curse can be a strong tool for preventing setup. Unlike Will-O-Wisp, it can cripple all foes and hit through Substitute, making it a better catch-all against versatile teams. It's functionally similar to Haze but also limits further setup after Dusknoir faints.</p>\n<p><strong>Trick</strong>: Dusknoir gains a few options to weaken its checks by using Trick. The most practical item is Choice Band, though strategies with items like Lagging Tail could also work.</p>\n<p><strong>Endure</strong>: Endure can be used on Custap Berry sets to bypass Dusknoir's low Speed and potentially force out or KO a dangerous sweeper.</p>\n<p><strong>Focus Punch</strong>: Focus Punch is twice as strong as Dusknoir's next best Fighting-type attack, making it a decent coverage option if it can force a switch and possibly use Substitute.</p>\n<h3>Common Items</h3>\n<p><strong>Rocky Helmet</strong>: Dusknoir can quickly cause a lot of chip damage with a Rocky Helmet and its status moves without needing to commit to attacks. It can be especially useful against Rapid Spin users with physical attacks.</p>\n<p><strong>Sitrus Berry</strong>: Offensive tank sets enjoy the extra health provided by a Sitrus Berry, giving it more chances to attack.</p>\n<p><strong>Leftovers</strong>: Leftovers greatly enhances Dusknoir's bulk when its job is to stick around for a long time. It pairs well with moves like Protect, Pain Split, and Substitute.</p>\n<h3>Niche Items</h3>\n<p><strong>Assault Vest</strong>: Assault Vest Dusknoir makes use of its great Special Defense and acceptable attacking movepool to check specially offensive foes it normally couldn't.</p>\n<p><strong>Damage-boosting Items</strong>: Several items are solid options to increase Dusknoir's damage output and help it score KOs. Spell Tag is nice when the opponent has lackluster Ghost-resistant Pokemon, Expert Belt and Life Orb are solid when coverage is necessary, and Choice Band grants the most power for wallbreaking and revenge killing. Poltergeist and Shadow Sneak can be walled by a number of Pokemon, so Choice Band sets will need a plan for the opponent getting free turns.</p>\n<p><strong>Heavy-Duty Boots</strong>: All entry hazards deal damage to Dusknoir, so Heavy-Duty Boots can keep it healthier than the HP-restoring items if it's likely to switch in after hazards go up.</p>\n<p><strong>Custap Berry</strong>: Custap Berry is used to let Dusknoir catch faster Pokemon with moves other than Shadow Sneak, often a coverage attack or a status move like Destiny Bond.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries are often used to lure common Dusknoir checks or provide protection from Rapid Spin users.</p>\n<p><strong>Weakness Policy</strong>: Dusknoir can often tank at least one super effective hit, letting it strike back with massive damage if Weakness Policy activates. This helps it trade more effectively, as it can then use a stronger Shadow Sneak as well. The item can also make offensive Trick Room sets more viable.</p>\n<h3>Tera</h3>\n<p>Dusknoir isn't an amazing Tera user, but it can bring extra value if it's affordable as a Tera Captain. Its bulk lets it use a variety of Tera types to check specific foes, such as Fairy to flip the matchup on <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> or Grass to wall <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>. Tera Fairy also grants it a very strong STAB combination.</p>\n<h3>Draft Strategy</h3>\n<p>Dusknoir is taken at the end of a draft to support entry hazard setters and provide extra bulk. It can work on a variety of teams given that they already have a solid foundation.</p>\n<p><strong>Entry Hazards</strong>: Dusknoir's strongest trait is its ability to prevent Rapid Spin, making it a great supporter for a draft's entry hazard setters. Pokemon like <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a> and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> are more effective at setting entry hazards with a Ghost-type around, though the more dedicated ones like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> may want a more reliable spinblocker.</p>\n<p><strong>Fighting-types</strong>: Dusknoir's Poltergeist is much more dangerous when paired with Fighting-types like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> that can scare off Dark- and Normal-types.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Single-use Items</strong>: Dusknoir often relies on Poltergeist for damage, leaving it in a difficult spot against foes that used items like Booster Energy, Sitrus Berry, and Eject Button. Knock Off users will also need to exercise restraint while on a team with Dusknoir assuming it's running Poltergeist.</p>\n<p><strong>Chip Damage</strong>: Repeated hits and entry hazard damage will quickly add up due to Dusknoir's lack of reliable recovery, meaning it can sometimes only switch in once or twice even with Pain Split and a healing item.</p>\n<p><strong>Dark- and Normal-types</strong>: Dusknoir's mediocre Attack stat and coverage options can't always cut it against Ghost-immune or -resistant foes, especially if they aren't bothered by Will-O-Wisp like <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/draft/\" hreflang=\"en\">Ursaluna-B</a> and <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>. Also, faster wallbreakers that resist Shadow Sneak can often freely attack it.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 599989,
+            "username": "scionicle"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Astonish",
+    "Bind",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Calm Mind",
+    "Charge Beam",
+    "Confuse Ray",
+    "Curse",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Disable",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Future Sight",
+    "Giga Impact",
+    "Gravity",
+    "Hard Press",
+    "Haze",
+    "Helping Hand",
+    "Hex",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Leech Life",
+    "Leer",
+    "Mean Look",
+    "Memento",
+    "Metronome",
+    "Night Shade",
+    "Pain Split",
+    "Payback",
+    "Phantom Force",
+    "Poltergeist",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Shadow Ball",
+    "Shadow Punch",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Spite",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder Punch",
+    "Trick",
+    "Trick Room",
+    "Will-O-Wisp"
+  ]
+}

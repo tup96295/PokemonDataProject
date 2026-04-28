@@ -1,0 +1,163 @@
+{
+  "name": "Astrolotl",
+  "alias": "astrolotl",
+  "types": [
+    "Fire",
+    "Dragon"
+  ],
+  "stats": [
+    108,
+    108,
+    74,
+    92,
+    64,
+    114
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Utility",
+          "pokemon": "Astrolotl",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a Sample Set</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Fire Lash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 32,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 224
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Agility",
+    "Alluring Voice",
+    "Baton Pass",
+    "Breaking Swipe",
+    "Bulldoze",
+    "Charm",
+    "Cosmic Power",
+    "Dazzling Gleam",
+    "Defog",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Ember",
+    "Encore",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Lash",
+    "Fire Punch",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Healing Wish",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Beam",
+    "Imprison",
+    "Life Dew",
+    "Light Screen",
+    "Magical Leaf",
+    "Meteor Beam",
+    "Metronome",
+    "Mystical Fire",
+    "Outrage",
+    "Overheat",
+    "Pound",
+    "Protect",
+    "Reflect",
+    "Rest",
+    "Safeguard",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spikes",
+    "Stomping Tantrum",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tail Whip",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thunder Wave",
+    "Twister",
+    "Will-O-Wisp",
+    "Yawn"
+  ]
+}

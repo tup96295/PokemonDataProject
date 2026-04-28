@@ -1,0 +1,150 @@
+{
+  "name": "Crucibelle",
+  "alias": "crucibelle",
+  "types": [
+    "Rock",
+    "Poison"
+  ],
+  "stats": [
+    106,
+    105,
+    65,
+    75,
+    85,
+    104
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility Pivot",
+          "pokemon": "Crucibelle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Armor",
+    "Acid Spray",
+    "Astonish",
+    "Block",
+    "Coil",
+    "Confuse Ray",
+    "Confusion",
+    "Defense Curl",
+    "Draining Kiss",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Fake Tears",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hex",
+    "Hyper Beam",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Light Screen",
+    "Meteor Beam",
+    "Metronome",
+    "Poison Jab",
+    "Power Gem",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Reflect",
+    "Rest",
+    "Rock Blast",
+    "Rock Polish",
+    "Rock Slide",
+    "Rock Throw",
+    "Rock Tomb",
+    "Rollout",
+    "Sandstorm",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Sludge",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smack Down",
+    "Stealth Rock",
+    "Stone Edge",
+    "Substitute",
+    "Tera Blast",
+    "Torment",
+    "Toxic",
+    "Toxic Spikes",
+    "Trick",
+    "U-turn",
+    "Venoshock",
+    "Withdraw",
+    "Wood Hammer",
+    "Zen Headbutt"
+  ]
+}

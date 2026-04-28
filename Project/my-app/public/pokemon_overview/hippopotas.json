@@ -1,0 +1,207 @@
+{
+  "name": "Hippopotas",
+  "alias": "hippopotas",
+  "types": [
+    "Ground"
+  ],
+  "stats": [
+    68,
+    72,
+    78,
+    38,
+    42,
+    32
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sand Setter",
+          "pokemon": "Hippopotas",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Sand Stream"
+          ],
+          "items": [
+            "Eviolite",
+            "Smooth Rock"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Fang",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 100,
+              "def": 212,
+              "spa": 0,
+              "spd": 180,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sand Setter",
+          "pokemon": "Hippopotas",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sand Stream"
+          ],
+          "items": [
+            "Smooth Rock",
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Amnesia",
+    "Bite",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Crunch",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fire Fang",
+    "Fissure",
+    "Helping Hand",
+    "High Horsepower",
+    "Ice Fang",
+    "Muddy Water",
+    "Mud Shot",
+    "Mud-Slap",
+    "Protect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sand Attack",
+    "Sandstorm",
+    "Sand Tomb",
+    "Scorching Sands",
+    "Slack Off",
+    "Sleep Talk",
+    "Spit Up",
+    "Stealth Rock",
+    "Stockpile",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swallow",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thunder Fang",
+    "Whirlwind",
+    "Yawn"
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "name": "Skarmory",
+  "alias": "skarmory",
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "stats": [
+    65,
+    80,
+    140,
+    40,
+    70,
+    70
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wall",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Skarmory leverages its incredible defensive typing and physical bulk to act as an effective entry hazard setter and blanket check to physical attackers like <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>, and <a href=\"/dex/sv/pokemon/ogerpon/uu/\" hreflang=\"en\">Ogerpon</a>. Body Press lets it target the aforementioned Excadrill as well as <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/tyranitar/uu/\" hreflang=\"en\">Tyranitar</a>, preventing them from using it as setup fodder. Brave Bird lets it hit <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/conkeldurr/uu/\" hreflang=\"en\">Conkeldurr</a>, and Lokix for solid damage while letting it check <a href=\"/dex/sv/pokemon/clodsire/uu/\" hreflang=\"en\">Clodsire</a> better. Whirlwind can instead be used to stop setup sweepers like <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a> and <a href=\"/dex/sv/pokemon/revavroom/uu/\" hreflang=\"en\">Revavroom</a> in their tracks, as well as accrue chip damage from Spikes on the opposing team. Iron Defense bolsters the power of Body Press while also making Skarmory nigh-impossible to KO with physical attacks. Roost keeps Skarmory healthy, notably letting it retain Sturdy in case it needs to revenge kill or phaze a threat. 48 Speed EVs allow Skarmory to outrun max Speed Modest Hydrapple, letting it punish Choice Specs sets with Brave Bird. Rocky Helmet wears down the physical attackers it checks and punishes U-turns from Pokemon like <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> and Zarude. Tera Dragon grants Skarmory several useful resistances, including to Fire and Water; this lets it take on the likes of <a href=\"/dex/sv/pokemon/arcanine-hisui/uu/\" hreflang=\"en\">Hisuian Arcanine</a> and <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a> in a pinch.</p>\n<p>Skarmory provides bulky offense and balance teams a reliable Spikes setter and physical wall. <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a> is an incredible defensive partner for Skarmory due to its ability to take on special attackers like Keldeo and <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a> as well as its ability to spread burn with Scald, letting Skarmory wall physical threats better. In return, Skarmory takes on Pokemon that offensively threaten Slowking, like Lokix and Tyranitar, as well as Grass-types like Hydrapple. Hydrapple itself is another bulky pivot that pairs nicely with Skarmory, helping keep dangerous physical attackers that can be too much for Skarmory to handle, like <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>, in check. It also appreciates the chip damage provided by Spikes, letting it sweep teams with Nasty Plot easier. Other cleaners, like <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a>, Choice Scarf <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>, and Battle Bond <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>, appreciate Skarmory chipping away at opposing offensive threats with entry hazard damage and Rocky Helmet. Offensive pivots like Choice Scarf Zarude, Keldeo, and <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> also enjoy the additional chip damage provided by Spikes, letting them muscle through foes better. Sandy Shocks in particular appreciates the Ground immunity provided by Skarmory as well as its ability to check Grass-types like Zarude; in return, Sandy Shocks can set Stealth Rock on top of Skarmory's Spikes while providing a useful Volt Switch immunity. Excadrill is another excellent Ground-type partner due to its ability to remove Stealth Rock, letting Skarmory preserve Sturdy. Additionally, it can keep dangerous special attackers like Latios in check while appreciating Skarmory's ability to stop opposing Excadrill as well as check priority users like Lokix and non-Belly Drum <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a>.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 16,
+              "spa": 0,
+              "spd": 180,
+              "spe": 64
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 236507,
+            "username": "Bice"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              },
+              {
+                "user_id": 540289,
+                "username": "Tidal"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets before we work on <a href=\"https://www.smogon.com/forums/forums/ubers-analyses.759/\">new analyses</a>. These will update as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Skarmory is commonly used as an anti-setup Pokemon, having great bulk and a strong defensive typing that lets it check common offensive physical threats such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Skarmory's immense physical bulk allows it to tank hits from the aforementioned Pokemon and punish them with Rocky Helmet chip damage, making it a great sponge on balanced structures. Skarmory is able to set up Iron Defense on physical attackers, increasing its Defense exponentially and massively boosting the power of Body Press while denying any setup opportunities. With enough Defense boosts, Skarmory can turn into a deadly late-game win condition with IronPress, only stopped by Ghost-types like <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. However, it can run Brave Bird and Whirlwind instead; Brave Bird gives it an immediate way to hit <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, Great Tusk, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, while Whirlwind allows it to still deal with setup sweepers like Kingambit and non-Roar <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> that can otherwise take advantage of Skarmory lacking IronPress. Rocky Helmet makes it impossible for even fully Attack-boosted Pokemon to match its Defense boosts, as Skarmory's access to Roost grants it longevity, letting it outlive almost every physical setup Pokemon in the long term. It also allows Skarmory to punish stray U-turn and Knock Off from Pokemon like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>. Skarmory also has access to Spikes and Stealth Rock, making it more proactive against Pokemon such as <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> that may use it as an opportunity to set up entry hazards. Tera Dragon gives Skarmory a great resistance to Fire, which lets it check Pokemon such as <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>; it also eases the matchup against Ogerpon-W. Tera Fighting should only be used on IronPress variants; on top of boosting Skarmory's Body Press, it also gives Skarmory extra insurance against Kingambit thanks to its Kowtow Cleave resistance and is especially useful for teams that are potentially weak to Jolly Kingambit late-game. Skarmory is EVed to outspeed Adamant Kingambit and <a href=\"/dex/sv/pokemon/ursaluna/ou/\" hreflang=\"en\">Ursaluna</a> if running IronPress, but a fully defensive spread alongside Impish should be used if going for Brave Bird and Whirlwind.</p>\n<p>Iron Defense Skarmory is outstanding on balance teams that struggle against setup Pokemon that take advantage of the team's passivity, synergizing with Pokemon like Gliscor, Ting-Lu, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, as they can set up entry hazards to pressure foes as well as remove opposing Heavy-Duty Boots with Knock Off. It also pairs well with <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, which can sponge special moves that Skarmory is unable to take, and they also check dangerous threats such as <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and Cinderace. These Pokemon are often fodder for opposing Swords Dance Kingambit or Bulk Up Great Tusk; however, Skarmory handles them with ease. Skarmory is also great against Pokemon such as Iron Defense Zamazenta and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> thanks to its solid typing and immense bulk. Chip damage from Rocky Helmet disincentivizes the aforementioned Pokemon from using physical moves, and Skarmory outlives them eventually thanks to its longevity and recovery capabilities with Roost. Despite Skarmory's great physical bulk, it is vulnerable to special attackers and Ghost-types that may take advantage of it, such as Iron Moth, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and Dragapult. Ting-Lu and Galarian Slowking are great for tanking special attackers' hits, the former being a great Ghost-type check. Heavy-Duty Boots Kingambit is also a good choice alongside Skarmory, as it can find opportunities to set up against Ghost-types while being a reliable sponge, as well as having strong priority moves against the special attackers that Skarmory would otherwise struggle against. In return, Skarmory can set Spikes for Kingambit and act as a reliable wall to some of Kingambit's checks, particularly Bulk Up Great Tusk and Iron Defense Zamazenta. Due to its lack of pivoting capabilities unlike <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, Skarmory also appreciates Pokemon that can tank hits and pivot around, such as <a href=\"/dex/sv/pokemon/rotom-wash/ou/\" hreflang=\"en\">Rotom-W</a>, U-turn Gliscor, and Meowscarada.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Dragon",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Whirlwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 160,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 499397,
+            "username": "Arc"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 548068,
+                "username": "Setsu"
+              },
+              {
+                "user_id": 584916,
+                "username": "viivian"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Flying</h4>\n<p>Stealth Rock can be used over Spikes, freeing up moveslots on teammates like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>. However, this does come at the cost of being able to stack both entry hazards.</p>",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Flying)",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to its Steel typing and incredible physical bulk, Skarmory can easily handle Rock- and Ice-type attacks thrown towards Flying teams from the likes of <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>, <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. Body Press enables Skarmory to weaponize its incredible Defense, allowing it to handle foes like <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, Meowscarada, and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a> with ease. Spikes wears down would-be threats to Flying teams like <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Whirlwind can force out threats that Skarmory is less comfortable checking, such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, along with racking up entry hazard damage. Alternatively, Iron Defense can be used to further increase Skarmory's physical bulk and Body Press's damage, enabling it to easily clean through the likes of Ground and Rock if given momentum.</p>\n<p>Gliscor complements Skarmory by being able to handle Electric-types that threaten Skarmory, like <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a>, thanks to its Ground typing along with Toxic putting timers onto foes such as <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>. Gliscor also absorbs status such as Will-O-Wisp from <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> thanks to Poison Heal. <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> complements Skarmory incredibly well by dealing with threatening special attacks from the likes of Flutter Mane, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, and its Defog can give Skarmory safe entry. <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> can similarly help against special attackers like Kyurem, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, and Greninja, and it can use Freeze-Dry to pressure Water- and Dragon-types like <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/kingdra/monotype/\" hreflang=\"en\">Kingdra</a>, and <a href=\"/dex/sv/pokemon/latias/monotype/\" hreflang=\"en\">Latias</a>. Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> can help to check threats capable of overwhelming Skarmory such as the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and with Heat Wave, it pressures <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and opposing Skarmory. <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> can break through Electric- and Steel-types that Skarmory is unable to handle like Raging Bolt and Gholdengo, and if using a Choice Scarf, it is capable of using coverage such as Rock Slide and Sludge Wave to handle threats like Volcarona and the Ogerpon formes, respectively. Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> greatly appreciates Skarmory's Spikes softening up checks like <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>. It can also support Skarmory by using Moonblast to deal with problematic Dark- and Dragon-types like Sableye, <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>, and Latios, along with using Healing Wish to heal Skarmory back up in matchups where it is especially needed, such as Ice. Dragonite similarly appreciates Spikes wearing down its checks like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a> and in return can use its Dragon typing to help against Water-types like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Physically Defensive (Steel)",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Skarmory is a great defensive piece for Steel teams thanks to its Ground immunity, Fighting neutrality, and incredible Defense, which let it comfortably check problematic threats such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>. Spikes helps to wear down threats like <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. Body Press weaponizes Skarmory's high Defense, enabling it to deal with opposing Steel-, Normal-, and Dark-types like <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>. Whirlwind forces out foes, removing boosts from the likes of Swords Dance Gliscor and racking up Spikes damage. Alternatively, Iron Defense can be used to enable Skarmory to completely wall physical attackers like <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> while increasing Body Press's damage. Rocky Helmet helps wear down threats such as Hisuian Samurott and punishes U-turn from foes like <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>.</p>\n<p><a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> make for incredible teammates thanks to their immunities and ability to enable an entry hazard-stacking core. Heatran checks Fire-types such as <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> along with setting Stealth Rock. Gholdengo helps keep said hazards up thanks to its Ghost typing and Good as Gold while dealing with Fighting-types that can handle Skarmory like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>. Iron Treads, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> can all provide incredible utility and help further rack up hazard damage thanks to Knock Off removing Heavy-Duty Boots from the likes of Hisuian Samurott, <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>, and Great Tusk. Iron Treads also provides a useful Electric immunity, making it capable of handling threats such as Raging Bolt and <a href=\"/dex/sv/pokemon/magnezone/monotype/\" hreflang=\"en\">Magnezone</a> while using Earthquake to deal with opposing Poison- and Steel-types such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and Gholdengo. Hisuian Goodra wards off threats like <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> with its immense special bulk while also using Dragon Tail to rack up more hazard damage. Scizor greatly appreciates Skarmory's entry hazards wearing down opposing walls like <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>. In return, it can use Bullet Punch to handle the likes of <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>. Archaludon helps against physical attackers that can overwhelm Skarmory like the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>, and <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> while greatly appreciating Skarmory's ability to absorb Knock Off from the likes of <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and Gliscor.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 305839,
+                "username": "Rio Vidal"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 592895,
+                "username": "Dusk Mage Necrozma"
+              },
+              {
+                "user_id": 736762,
+                "username": "Ascension Evermore"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Skarmory can make use of Flame Body or Static to fish for burn or paralysis on Pokemon that commonly make contact with it, such as <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>. Specially defensive variants of Skarmory with max Special Defense instead of Defense can run Water Absorb to better check <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/almost-any-ability/\" hreflang=\"en\">Ogerpon-W</a> or Volt Absorb to reliably check <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Special Attackers</strong>: Skarmory's low HP and Special Defense leave it quite weak to special attackers like <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>.</p>\n<p><strong>Fire-types</strong>: If Skarmory isn't using Well-Baked Body, it struggles against Fire-types like <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a>, <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/almost-any-ability/\" hreflang=\"en\">Ogerpon-H</a>.</p>\n<p><strong>Electric-types</strong>: Electric-types like Zapdos, <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>, and Sandy Shocks as well as Hadron Engine users like <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a> and Deoxys-S can reliably outspeed and threaten an OHKO on Skarmory without Volt Absorb.</p>",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to its high Defense stat, solid utility movepool, and amazing typing, Skarmory functions as a physically defensive wall as well as an entry hazard setter. Fluffy lets Skarmory better check strong physical attackers such as <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a>, whereas Intimidate allows it to check <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a> and the <a href=\"/dex/sv/pokemon/ogerpon/almost-any-ability/\" hreflang=\"en\">Ogerpon</a> formes excluding <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/almost-any-ability/\" hreflang=\"en\">Ogerpon-H</a>; alternatively, Well-Baked Body enables Skarmory to check Fire-types like <a href=\"/dex/sv/pokemon/moltres/almost-any-ability/\" hreflang=\"en\">Moltres</a>, Ogerpon-H, and <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> lacking Discharge. Body Press hits Steel-types like <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>, and Kingambit for a great deal of damage, while Brave Bird is slightly stronger than an unboosted Body Press and nails Zamazenta, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and the Ogerpon formes. Spikes is very useful on hazard stacking team archetypes and can quickly wear down Great Tusk, <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, whereas Stealth Rock gives Skarmory valuable role compression and wears down Chien-Pao and <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>. Whirlwind works well in conjunction with Spikes to wear down the opposing team quite fast and forces out setup sweepers like Bulk Up Great Tusk and Iron Defense Zamazenta, while Iron Defense, which should only be used with Body Press, is a move that lets Skarmory set up along with setup sweepers like Zamazenta, Kingambit, and Great Tusk. Otherwise, Taunt can be used to prevent Corviknight from using Defog or Roost as well as <a href=\"/dex/sv/pokemon/ting-lu/almost-any-ability/\" hreflang=\"en\">Ting-Lu</a> from setting up Spikes or Stealth Rock, Heavily punishing both. Leftovers gives Skarmory extra longevity against Pokemon like Zamazenta, Chien-Pao, and Kingambit, though Rocky Helmet can be used instead to punish Pokemon like Great Tusk, Corviknight, and Zamazenta. Heavy-Duty Boots grants Skarmory immunity to Stealth Rock chip, which is quite helpful when it needs to repeatably switch in with Stealth Rock up.</p>\n<p>Skarmory functions on more defensively focused teams that tend to slowly wear down the opposing team with Spikes. Partners like Roaring Moon, <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> appreciate the entry hazards that Skarmory sets up, as it allows them to slowly wear down their checks, like Great Tusk, Swampert, and Manaphy. Skarmory struggles with the tier's many special attackers, so specially defensive teammates like Iron Treads, Swampert, and RegenVest Roaring Moon are much appreciated. Depending on its ability, Skarmory will need teammates to help it on the physical side. If Skarmory is not using Fluffy, <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a> is a nice partner to aid against Choice Band Zamazenta, while physically defensive Manaphy can help against Chien-Pao for non-Intimidate Skarmory. Lastly, Skarmory without Well-Baked Body very much appreciates a Fire-resistant or Fire-immune partner like Swampert or Primordial Sea Zapdos. A Ghost-type Pokemon like Pecharunt or Earth Eater Gholdengo works as a great partner for Skarmory, as it can prevent Great Tusk and Iron Treads from using Rapid Spin to remove the entry hazards that Skarmory sets up.</p>",
+          "abilities": [
+            "Fluffy",
+            "Intimidate",
+            "Well-Baked Body"
+          ],
+          "items": [
+            "Leftovers",
+            "Rocky Helmet",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652656,
+            "username": "Gambit"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 580765,
+                "username": "cat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 144939,
+                "username": "ryan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Covert Cloak"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Beak Blast",
+                "type": null
+              },
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order:</strong> Round 5 onwards</p>\n<p><strong>Price Range</strong>: 11-12 points</p>\n<p><strong>Overview</strong>: Skarmory excels at being a safe switch-in for most physical threats while applying pressure of its own with Stealth Rock, Spikes, and setup. Its excellent defensive profile often forces opponents to bring specific Pokemon or coverage moves to a match. Skarmory can also discourage opposing setup with Whirlwind, and it can serve as a defensive setup sweeper itself with IronPress. These attributes make it a solid, cost-effective option for an entry hazard-stacking wall.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Tank</strong>: Skarmory's main function is to switch in and take hits for its teammates while keeping itself healthy with Roost. If it switches in on a physical threat without super effective attacks, Skarmory can threaten to set up with Iron Defense, then dole out big damage with Body Press. While forcing opponents' physical threats out, Skarmory can make progress by setting entry hazards. Balanced teams can pivot around Skarmory as necessary to gain an advantageous position from which offensive Pokemon can launch devastating attacks. Meanwhile, Skarmory can use Whirlwind to minimize momentum lost from opposing pivots. Skarmory can also push through opposing Pokemon with IronPress.</p>\n<p><strong>Entry Hazard Lead</strong>: Skarmory is a strong choice for a lead thanks to Sturdy. When leading, Skarmory is usually guaranteed one use of Stealth Rock or Spikes, or it can use an early Whirlwind to phaze an opposing lead or first-turn switch. Using Skarmory as an entry hazard lead provides the most value in matchups where it isn't as useful as a wall.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Brave Bird, Iron Head</p>\n<p><strong>Setup Moves</strong>: Iron Defense, Curse</p>\n<p><strong>Utility Moves</strong>: Stealth Rock, Spikes, Roost, Whirlwind</p>\n<p><strong>Coverage</strong>: Body Press</p>\n<h3>Niche Moves</h3>\n<p><strong>Taunt</strong>: Skarmory can use Taunt on slower opposing walls that might otherwise set entry hazards, use Defog, heal themselves, or use other utility moves. Taunt on Skarmory can also stem the efforts of an opposing physical setup sweeper, forcing it to fruitlessly swing into Skarmory or concede momentum.</p>\n<p><strong>Reversal</strong>: Reversal can be a strong coverage option for Skarmory thanks to Sturdy. When left at 1 HP via Sturdy or Endure, Reversal will deal significant damage. Paired with Custap Berry, this set can catch foes off guard in a pinch.</p>\n<p><strong>Swords Dance</strong>: Skarmory can safely activate Weak Armor thanks to its high Defense, which can allow it to sometimes act as a cleaner. Setting up a Swords Dance can empower Skarmory to deal significant damage with its STAB moves and coverage options despite its subpar base Attack. Coverage options like Drill Run and Rock Slide can snuff out opposing Fire-types and dissipate opposing Electric-types, each of which usually cause problems for Skarmory.</p>\n<h3>Common Items</h3>\n<p><strong>Rocky Helmet</strong>: Skarmory's role as a physical wall and its immunity to most entry hazards allow it to make the most of Rocky Helmet. Foes will be punished for pivoting with moves like U-turn or Flip Turn, which often cause more damage to the user than to Skarmory. Rocky Helmet also allows Skarmory to better intercept certain priority moves like Bullet Punch or Aqua Jet. Opponents will be forced to give heavier consideration to attacking while Skarmory has this item.</p>\n<p><strong>Leftovers</strong>: Skarmory can use Leftovers to lengthen its stay on the battlefield.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: Skarmory can struggle against attackers with strong super effective attacks like <a href=\"/dex/sv/pokemon/ceruledge/draft/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>. A resistance Berry can provide an extra turn of survival where it can phaze with Whirlwind or attempt to KO in retaliation.</p>\n<p><strong>Custap Berry</strong>: Thanks to Sturdy and Endure, Skarmory can take full advantage of Custap Berry to use an additional attack before fainting.</p>\n<p><strong>Mental Herb</strong>: Taunt will immediately shut down most of Skarmory's capabilities, so having a Mental Herb for security will allow Skarmory to perform its duties with less fear of disruption.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots can be used to preserve Sturdy, helping Skarmory more reliably check setup sweepers. It also reduces Stealth Rock damage if heavy pivoting is planned.</p>\n<p><strong>Shed Shell</strong>: If an opponent has Pokemon with trapping abilities like <a href=\"/dex/sv/pokemon/magnezone/draft/\" hreflang=\"en\">Magnezone</a> and <a href=\"/dex/sv/pokemon/gothitelle/draft/\" hreflang=\"en\">Gothitelle</a>, Shed Shell can protect Skarmory from being eliminated by them.</p>\n<h3>Tera</h3>\n<p>Skarmory is not a typical candidate for a roster's Tera Captain, as Terastallization is usually more advantageous on other Pokemon. However, if Skarmory is chosen as a Tera Captain, Tera Fighting can empower Body Press, while Tera Dragon perfectly covers Skarmory's weaknesses to Electric and Fire, allowing it to survive otherwise lethal blows. Tera Ghost can be used to prevent foes from using Rapid Spin to remove its entry hazards. Other Tera types can be chosen to help it wall specific threats.</p>\n<h3>Draft Strategy</h3>\n<p>Skarmory fits well on balance teams. It is usually a smart choice when an offensive core is already secured and the roster's defenses need bolstering. In these cases, Skarmory should complement the attackers by defensively checking their counters and providing support through entry hazards and utility. Skarmory can fit into a main defensive core, using its massive Defense, Whirlwind, and its longevity to become a major nuisance with the proper support of other defensive teammates.</p>\n<p><strong>Offensive Partners</strong>: Skarmory will happily absorb hits for speedy attackers that are beaten by priority moves, like <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>. Pokemon like <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, and <a href=\"/dex/sv/pokemon/serperior/draft/\" hreflang=\"en\">Serperior</a> that have a weakness to common pivot moves like U-turn and Flip Turn also appreciate Skarmory's ability to disrupt opposing pivot-based offense. Any other attacker that has a weakness to a type that Skarmory resists will also synergize well with it—for example, Skarmory can switch into faster Dragon-types that might threaten <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a> or strong Ground-types that would otherwise bury <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>.</p>\n<p><strong>Dragon-types</strong>: Skarmory also benefits from offensive teammates that can stand to take a Fire- or Electric-type move. This makes a high-tier Dragon-type Pokemon the perfect partner for Skarmory. Teammates like <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a>, <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> will capitalize on Skarmory's strengths and cover its weaknesses.</p>\n<p><strong>Defensive Partners</strong>: Skarmory appreciates anything that can switch into special attacks. Teammates such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> have the specially defensive capabilities to intercept hits to which Skarmory is vulnerable.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fire-types</strong>: Most Fire-types can comfortably set up, pivot, or apply offensive pressure against Skarmory, while it cannot significantly damage them in return. For example, Chi-Yu can use Nasty Plot and <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a> can set up Dragon Dance.</p>\n<p><strong>Electric-types</strong>: Thanks to their resistance to Brave Bird and their ability to hit Skarmory super effectively, most Electric-type threats can do as they please around Skarmory. Raging Bolt is a common threat that can begin stacking uses of Calm Mind, and pivots like <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a> can take full advantage of Volt Switch.</p>\n<p><strong>Ghost-types</strong>: Because Body Press is Skarmory's strongest offensive option, Ghost-types can usually switch in for free against Skarmory. Subsequently, a threat like <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> may choose to use Nasty Plot to break through the rest of the team's defenses.</p>\n<p><strong>Strong Special Attackers</strong>: Anything with high Special Attack or boosting moves can put significant pressure on Skarmory, as its Special Defense is quite disappointing. Popular Pokemon like Darkrai and Iron Bundle can successfully force Skarmory out with strong neutral moves.</p>\n<p><strong>Taunt</strong>: Taunt renders Skarmory unable to spread entry hazards, keep healthy with Roost, or set up with Iron Defense.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 263022,
+            "username": "kirby6728"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Skarmory is one of the tier's best entry hazard stackers and physical walls thanks to its excellent typing allowing it to check many prominent Pokemon like <a href=\"/dex/sv/pokemon/zacian/ubers-uu/\" hreflang=\"en\">Zacian</a> and <a href=\"/dex/sv/pokemon/sneasler/ubers-uu/\" hreflang=\"en\">Sneasler</a>. Body Press is preferred on Skarmory over other attacks thanks to its Defense being significantly higher than its attacking stats. Iron Defense is typically run alongside Body Press to allow Skarmory to function as a wincon while also making it a better check to Pokemon like Zacian, <a href=\"/dex/sv/pokemon/palafin/ubers-uu/\" hreflang=\"en\">Palafin</a>, and <a href=\"/dex/sv/pokemon/baxcalibur/ubers-uu/\" hreflang=\"en\">Baxcalibur</a>. Whirlwind can be used over Iron Defense to rack up entry hazard damage from the Spikes Skarmory sets and phaze foes trying to set up on it. Tera Water allows Skarmory to beat Pokemon like Tera Fire Zacian and Palafin. Skarmory has trouble with special attackers like <a href=\"/dex/sv/pokemon/kyurem-white/ubers-uu/\" hreflang=\"en\">Kyurem-W</a>, <a href=\"/dex/sv/pokemon/arceus-dark/ubers-uu/\" hreflang=\"en\">Arceus-Dark</a>, and <a href=\"/dex/sv/pokemon/chi-yu/ubers-uu/\" hreflang=\"en\">Chi-Yu</a>, which can easily OHKO it, so specially defensive walls like <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a> and Arceus-Dark form excellent cores with it. In exchange, Skarmory can check Pokemon like Zacian and <a href=\"/dex/sv/pokemon/zamazenta-crowned/ubers-uu/\" hreflang=\"en\">Zamazenta-C</a> for its teammates. Pokemon like Life Orb <a href=\"/dex/sv/pokemon/mewtwo/ubers-uu/\" hreflang=\"en\">Mewtwo</a> and <a href=\"/dex/sv/pokemon/palkia-origin/ubers-uu/\" hreflang=\"en\">Palkia-O</a> appreciate Spikes chipping their checks like <a href=\"/dex/sv/pokemon/solgaleo/ubers-uu/\" hreflang=\"en\">Solgaleo</a> and Arceus-Dark into KO range of their coverage moves.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Leftovers",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Whirlwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 610920,
+            "username": "vesp"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 626445,
+                "username": "Imperial"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive (HP)",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Skarmory is a prolific defensive Pokemon; it's able to switch into and threaten out many common physical attackers like <a href=\"/dex/sv/pokemon/zacian-crowned/godly-gift/\" hreflang=\"en\">Zacian-C</a>, both <a href=\"/dex/sv/pokemon/urshifu/godly-gift/\" hreflang=\"en\">Urshifu</a> formes, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/godly-gift/\" hreflang=\"en\">Ogerpon-W</a>. It also has access to entry hazards and can deal with the tier's common spinners. Iron Defense lets Skarmory match the boosts from setup sweepers like <a href=\"/dex/sv/pokemon/roaring-moon/godly-gift/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/calyrex-ice/godly-gift/\" hreflang=\"en\">Calyrex-I</a> while also boosting Body Press, potentially turning it into a late-game sweeper. Brave Bird can be run to more instantly threaten <a href=\"/dex/sv/pokemon/ogerpon/godly-gift/\" hreflang=\"en\">Ogerpon</a> and <a href=\"/dex/sv/pokemon/great-tusk/godly-gift/\" hreflang=\"en\">Great Tusk</a>. With Brave Bird, Skarmory should run Whirlwind instead of Iron Defense, enabling it to wear down foes with hazards while still hindering setup sweepers. Should the team not have a Stealth Rock setter, or have another Spikes setter, like <a href=\"/dex/sv/pokemon/samurott-hisui/godly-gift/\" hreflang=\"en\">Hisuian Samurott</a> or <a href=\"/dex/sv/pokemon/meowscarada/godly-gift/\" hreflang=\"en\">Meowscarada</a>, Skarmory can run Stealth Rock instead. Tera Fairy is used, as it's a good defensive type that doesn't overlap with any of Skarmory's weaknesses, letting it handle attackers like <a href=\"/dex/sv/pokemon/cinderace/godly-gift/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/zekrom/godly-gift/\" hreflang=\"en\">Zekrom</a> that would otherwise have a type advantage over it. Tera Ghost is an alternative that lets Skarmory spinblock Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/godly-gift/\" hreflang=\"en\">Iron Treads</a> to keep hazards up while making it more resilient against Fighting-types like <a href=\"/dex/sv/pokemon/zamazenta/godly-gift/\" hreflang=\"en\">Zamazenta</a>. However, the Dark weakness does hurt, especially against Urshifu-S and <a href=\"/dex/sv/pokemon/weavile/godly-gift/\" hreflang=\"en\">Weavile</a>. Tera Dragon is an alternative that can make Skarmory into a better Ogerpon-W answer but does come with a worse matchup against Zacian-C and Calyrex-I, making it more situational.</p>\n<p>Skarmory appreciates an HP donation from almost any god. However, it does tend to fit better on bulkier teams, so gods like <a href=\"/dex/sv/pokemon/arceus/godly-gift/\" hreflang=\"en\">Arceus</a> and <a href=\"/dex/sv/pokemon/ho-oh/godly-gift/\" hreflang=\"en\">Ho-Oh</a> are great fits. Teammates with Knock Off like Weavile, <a href=\"/dex/sv/pokemon/clefable/godly-gift/\" hreflang=\"en\">Clefable</a>, and Great Tusk rid the opponent of their Heavy-Duty Boots, allowing Skarmory to rack up chip damage with Whirlwind and entry hazards. The latter two also provide Stealth Rock to complement Skarmory's Spikes. Ghost-types like <a href=\"/dex/sv/pokemon/arceus-ghost/godly-gift/\" hreflang=\"en\">Arceus-Ghost</a>, <a href=\"/dex/sv/pokemon/pecharunt/godly-gift/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/gholdengo/godly-gift/\" hreflang=\"en\">Gholdengo</a> can spinblock for Skarmory to allow it to keep entry hazards up; the latter also blocks Defog thanks to Good As Gold. Lastly, strong special attackers like <a href=\"/dex/sv/pokemon/kyogre/godly-gift/\" hreflang=\"en\">Kyogre</a>, <a href=\"/dex/sv/pokemon/electrode-hisui/godly-gift/\" hreflang=\"en\">Hisuian Electrode</a>, and Gholdengo can use Skarmory as a relatively free entry point, so pairing it up with specially defensive Pokemon like <a href=\"/dex/sv/pokemon/eternatus/godly-gift/\" hreflang=\"en\">Eternatus</a>, <a href=\"/dex/sv/pokemon/ting-lu/godly-gift/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/dondozo/godly-gift/\" hreflang=\"en\">Dondozo</a> makes for a very solid defensive core.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Whirlwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 517892,
+            "username": "pannu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 608218,
+                "username": "DragonPhoenix333"
+              },
+              {
+                "user_id": 604741,
+                "username": "kenn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 363909,
+                "username": "fiish"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Skarmory is one of the purest physical walls available, as its great defensive typing and superb physical bulk lets it take on most of the tier's dangerous physical attackers, such as <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, and <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>. Iron Defense allows Skarmory to beat boosting physical attackers like <a href=\"/dex/sv/pokemon/mawile-mega/national-dex/\" hreflang=\"en\">Mega Mawile</a>, Swords Dance <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>. Body Press immediately threatens Kingambit, <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a>, and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a> while also doing significant general damage when boosted. It can also dissuade Pokemon such as <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> from easily switching in to remove Skarmory or the entry hazards it sets. Spikes are quite effective in the metagame, as they hit and chip down several very prominent defensive Pokemon, most notably <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and Melmetal. Skarmory also gets many opportunities to set them up thanks to its ability to easily switch into common Pokemon like Gliscor, Great Tusk, and <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>. 96 Speed EVs allow Skarmory to outrun Adamant Kingambit and <a href=\"/dex/sv/pokemon/ursaluna/national-dex/\" hreflang=\"en\">Ursaluna</a>. Rocky Helmet chips down physical attackers such as Melmetal, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and Great Tusk, the latter of which is especially notable, as it will take damage should it try to spin away Skarmory's Spikes.</p>\n<p>Skarmory's limitations as a defensive Pokemon lead it to fit best on bulky balance and stall teams, as they greatly appreciate Skarmory's prowess as a catch-all physical wall that can use Spikes to force progress, and it notably beats several prominent wallbreakers, most notably Kingambit and Mega Mawile. While Skarmory has an impressive physically defensive profile, its poor Special Defense and reliance on Body Press to do damage leave it helpless against prominent special attackers such as Gholdengo, <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, and Calm Mind <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a>. The latter three are especially problematic, as many teams expect their Steel-type to at least help out versus them, whereas Skarmory needs a teammate to pick up its slack. Gholdengo and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> can help out with the Fairy-types, while Heatran or <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a> can help out with opposing Gholdengo. These teammates appreciate Skarmory handling powerful physical threats such as Great Tusk, <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, and Ursaluna. Skarmory also greatly appreciates a check to Fire-types such as <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a> and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, as they can switch into it without much trouble. <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> is an excellent partner that checks these dangerous Fire-types as well as Mega Diancie. Toxapex in turn greatly appreciates Skarmory checking dangerous Ground-types like Landorus-T and Great Tusk. Dragon-types such as <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a> and <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> can come in on these threats multiple times, and they also take pressure off of Skarmory to beat <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, which can occasionally cause trouble for Skarmory when boosted. Skarmory in turn takes care of powerful physical threats that can trouble these teammates, such as Mega Tyranitar, Mega Lopunny, and <a href=\"/dex/sv/pokemon/weavile/national-dex/\" hreflang=\"en\">Weavile</a>. Electric-types such as <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> are also problematic, so Ground-types such as Gliscor, Landorus-T, and Ting-Lu are good partners.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 160,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 475916,
+            "username": "Sputnik"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 658067,
+                "username": "ElectraineHeart"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Skarmory is a great physical wall in the metagame thanks to its impressive defensive typing and great physical bulk allowing it to handle threats such as <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> among other foes. Skarmory also serves as a valuable Spikes user thanks to it being able to set up against threats such as <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, <a href=\"/dex/sv/pokemon/blissey/national-dex-uu/\" hreflang=\"en\">Blissey</a>, and non-Flamethrower <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>. The combination of Iron Defense and Body Press is Skarmory’s preferred choice to make progress against teams, as it allows it to stonewall threats such as Scizor, <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a>, and <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> while also further pressuring threats such as Blissey and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>. Dropping Iron Defense and Body Press for Whirlwind or Toxic and Brave Bird respectively is also an option on more offensive teams to pressure threats such as Buzzwole and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> more effectively while also offering extra team support by phasing or spreading poison damage. However, this comes at the cost of being far more passive against Excadrill and lacks a proper response to Bisharp. 96 Speed EVs allows Skarmory to outspeed Adamant <a href=\"/dex/sv/pokemon/ursaluna/national-dex-uu/\" hreflang=\"en\">Ursaluna</a> and <a href=\"/dex/sv/pokemon/azumarill/national-dex-uu/\" hreflang=\"en\">Azumarill</a>. On stall teams, Skarmory has the choice of running Defog in place of either Spikes or Iron Defense and can also run an EV spread of 248 HP / 76 Def / 184 Spe with an Impish nature to outspeed Choice Band Tyranitar, allowing it to boost or safely heal up before Tyranitar can 2HKO it. Skarmory’s main item of choice is Rocky Helmet to get residual damage off against foes with U-turn such as Scizor while also chipping setup sweepers, but it can also run Shed Shell on bulkier playstyles such as balance and stall in order to avoid being trapped by <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a>. Skarmory can struggle a lot against special attackers such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>, so specially defensive walls such as Blissey, <a href=\"/dex/sv/pokemon/chansey/national-dex-uu/\" hreflang=\"en\">Chansey</a>, and specially defensive <a href=\"/dex/sv/pokemon/skeledirge/national-dex-uu/\" hreflang=\"en\">Skeledirge</a> are good partners to shore up that weakness. Tyranitar is another good partner, since it can switch into and Pursuit trap threats that pressure Skarmory such as Iron Moth and <a href=\"/dex/sv/pokemon/zoroark-hisui/national-dex-uu/\" hreflang=\"en\">Hisuian Zoroark</a>. Common pivots that take advantage of Skarmory such as <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> and <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a> also hate being Pursuit trapped by Tyranitar. Skarmory also has issues against Fire-types such as Iron Moth and Victini, so bulky Water-types such as <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/alomomola/national-dex-uu/\" hreflang=\"en\">Alomomola</a> can help deal with them. Electric-types such as Thundurus and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a> can also threaten Skarmory, so bulky Ground-types such as Hippowdon and Gastrodon are good partners to hinder them, but bulky Grass-types such as <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>, <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, and Mega Venusaur also work as teammates at the cost of being unable to block Volt Switch. The aforementioned Ground-types can also form strong entry hazard stacking cores with Skarmory that bulkier playstyles such as stall enjoy greatly. Offensively, wallbreakers such as Life Orb <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> make for good partners, since they appreciate Skarmory's Spikes helping them chip their checks so they can wallbreak easier.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Shed Shell"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Whirlwind",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 164,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 568189,
+            "username": "Runo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 546157,
+                "username": "Iride"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "IronPress (Steel)",
+          "pokemon": "Skarmory",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Providing a neutrality to Fighting and a immunity to Ground, Skarmory is a valuable option for Steel teams to mitigate their most common weaknesses and set entry hazards. Its IronPress combination enables Skarmory to act as a win condition, notably using foes such as <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a>, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, and <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a> as setup fodder. As Skarmory is passive against Ghost-types, <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> is a solid partner, as it can apply offensive pressure against them and also keeps entry hazards set by Skarmory on the field to ease wearing down the opposing team. <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>'s high special bulk and Fire immunity support Skarmory by acting as a switch-in to foes that can easily overwhelm Skarmory such as <a href=\"/dex/sv/pokemon/latias-mega/national-dex-monotype/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/pidgeot-mega/national-dex-monotype/\" hreflang=\"en\">Mega Pidgeot</a>. Defensive Electric-resistant teammates such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> can switch into Electric-types that threaten Skarmory such as <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>; Ferrothorn also makes a hazard stacking core with it. <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a> similarly checks Electric-types that threaten Skarmory and handles physical attackers Skarmory can't properly handle such as <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex-monotype/\" hreflang=\"en\">Mega Charizard X</a>. <a href=\"/dex/sv/pokemon/iron-treads/national-dex-monotype/\" hreflang=\"en\">Iron Treads</a> offensively checks Electric-types, as well as some foes Skarmory has trouble against such as <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> and Gholdengo.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 434487,
+            "username": "Bobsican"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Air Cutter",
+    "Air Slash",
+    "Body Press",
+    "Brave Bird",
+    "Curse",
+    "Dark Pulse",
+    "Drill Peck",
+    "Drill Run",
+    "Dual Wingbeat",
+    "Endure",
+    "Facade",
+    "Feint",
+    "Flash Cannon",
+    "Fly",
+    "Fury Attack",
+    "Giga Impact",
+    "Hurricane",
+    "Hyper Beam",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Leer",
+    "Metal Claw",
+    "Metal Sound",
+    "Night Slash",
+    "Payback",
+    "Peck",
+    "Protect",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Roost",
+    "Sand Attack",
+    "Sandstorm",
+    "Sand Tomb",
+    "Sky Attack",
+    "Slash",
+    "Sleep Talk",
+    "Spikes",
+    "Stealth Rock",
+    "Steel Beam",
+    "Steel Wing",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Whirlwind",
+    "Wing Attack",
+    "X-Scissor"
+  ]
+}

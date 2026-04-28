@@ -1,0 +1,1080 @@
+{
+  "name": "Indeedee-F",
+  "alias": "indeedee-f",
+  "types": [
+    "Psychic",
+    "Normal"
+  ],
+  "stats": [
+    70,
+    55,
+    65,
+    95,
+    105,
+    85
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choiced",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Alluring Voice",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Setter",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Indeedee-F can viably run Special Attack investment to reduce its passivity and better wear foes down for its teammates. Doing so comes at the cost of bulk, though, which tends to make Indeedee-F less reliable.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Terrain Extender"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Ghost",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              },
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Redirection Support",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Indeedee-F carves itself out a spot in the metagame as one of the only currently legal Pokemon with possession of Psychic Surge. With this, it is able to amplify the power of Pokemon using Expanding Force to extreme heights. Indeedee-F is also a generally great support option with access to redirection and speed control in Follow Me and Trick Room, respectively.</p>\n</li>\n<li>\n<p>To assist in its supportive capabilities, Indeedee-F can use Sitrus Berry to heal up, which lets it avoid 2HKOs from Sandsear Storm from <a href=\"/dex/sv/pokemon/landorus/doubles/\" hreflang=\"en\">Landorus</a>, Ivy Cudgel from any <a href=\"/dex/sv/pokemon/ogerpon/doubles/\" hreflang=\"en\">Ogerpon</a> forme, and Tera Normal Life Orb <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/doubles/\" hreflang=\"en\">Ursaluna-B</a>. Alternatively, Indeedee-F can use Safety Goggles to redirect Spore from <a href=\"/dex/sv/pokemon/amoonguss/doubles/\" hreflang=\"en\">Amoonguss</a>, or it can use Psychic Seed to boost its survivability by allowing it to withstand powerful attacks such as Tera Normal Life Orb Blood Moon from Ursaluna-B.</p>\n</li>\n<li>\n<p>Trick Room gives Indeedee-F access to a crucial form of speed control, allowing allies like <a href=\"/dex/sv/pokemon/hoopa-unbound/doubles/\" hreflang=\"en\">Hoopa-U</a> and <a href=\"/dex/sv/pokemon/ursaluna/doubles/\" hreflang=\"en\">Ursaluna</a> to move before their foes. Helping Hand helps boost the power of the aforementioned allies; Protect can be run over either option to help with positioning and defensive play.</p>\n</li>\n<li>\n<p>Psychic OHKOes Assault Vest <a href=\"/dex/sv/pokemon/okidogi/doubles/\" hreflang=\"en\">Okidogi</a> and 2HKOes non-Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a> thanks to the Psychic Terrain boost. Dazzling Gleam, on the other hand, can be used to deal chip damage across the field, breaking Focus Sash on Pokemon like <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/chi-yu/doubles/\" hreflang=\"en\">Chi-Yu</a>.</p>\n</li>\n<li>\n<p>The given EV spread, with Psychic Seed, lets Indeedee-F avoid a 2HKO from Earth Power from Landorus, with the rest going into Defense.</p>\n</li>\n<li>\n<p>Indeedee-F uses Tera Fairy to avoid getting KOed by powerful Dark-type attacks like Kowtow Cleave from <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a> and Knock Off from <a href=\"/dex/sv/pokemon/roaring-moon/doubles/\" hreflang=\"en\">Roaring Moon</a>. Tera Fairy additionally gives Indeedee-F a useful resistance to Fighting-type attacks like Drain Punch from Iron Hands and Bug-type attacks like U-turn from <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a> all the while providing an immunity to Dragon-type attacks like Dragon Energy from <a href=\"/dex/sv/pokemon/regidrago/doubles/\" hreflang=\"en\">Regidrago</a>. Additionally, Tera Fairy allows Indeedee-F to completely wall most Calm Mind <a href=\"/dex/sv/pokemon/raging-bolt/doubles/\" hreflang=\"en\">Raging Bolt</a> sets, using Follow Me to redirect Dragon Pulse and shutting down Thunderclap with both Follow Me and Psychic Terrain.</p>\n</li>\n<li>\n<p>Indeedee-F is typically used on fast-paced teams consisting of Expanding Force users such as Hoopa-U and <a href=\"/dex/sv/pokemon/hatterene/doubles/\" hreflang=\"en\">Hatterene</a>, both of which appreciate its ability to set Trick Room and use Follow Me to let them set Trick Room and punch holes in the opposing team. Alternatively, Indeedee-F can be paired with <a href=\"/dex/sv/pokemon/iron-crown/doubles/\" hreflang=\"en\">Iron Crown</a>, using Follow Me to protect it as Iron Crown launches Expanding Force or sets up with Calm Mind.</p>\n</li>\n<li>\n<p>Because of Indeedee-F's crippling Dark weakness, allies like <a href=\"/dex/sv/pokemon/diancie/doubles/\" hreflang=\"en\">Diancie</a> and Iron Hands are greatly appreciated, as they can remove opposing Dark-types with Body Press and Drain Punch, respectively. These allies can also switch in on Dark-type attacks, allowing Indeedee-F to reset Terrain if it runs out, is removed by Ice Spinner from Chien-Pao, or is overridden by Rillaboom's Grassy Surge.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/torkoal/doubles/\" hreflang=\"en\">Torkoal</a> and Iron Crown are great partners for Indeedee-F, as they can threaten Rillaboom, which overrides Indeedee-F's Terrain with its own, and Chien-Pao, which threatens to remove Psychic Terrain with Ice Spinner, respectively. Chien-Pao also threatens huge damage into Indeedee-F with Throat Chop.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/ogerpon-hearthflame/doubles/\" hreflang=\"en\">Ogerpon-H</a> is also a great partner, effectively removing Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a> and Kingambit to allow allies like Iron Crown and Regidrago to sweep more easily.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Safety Goggles",
+            "Psychic Seed"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 20,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 650323,
+            "username": "pengu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 159382,
+                "username": "qrChar"
+              },
+              {
+                "user_id": 617069,
+                "username": "LogIce"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 242745,
+                "username": "ego"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "TR Support",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Psychic Seed",
+            "Safety Goggles",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 220,
+              "spa": 0,
+              "spd": 36,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Indeedee-F is an exceptional support Pokemon, mainly being used for redirection with Follow Me and allowing the Trick Room teams it excels on to set up Trick Room safely. Psychic Surge allows partners such as <a href=\"/dex/sv/pokemon/hatterene/vgc24-regulation-f/\" hreflang=\"en\">Hatterene</a> to sweep under Trick Room with Expanding Force. A niche use of Indeedee-F is as an Imprison + Trick Room user on hyper offense offensive teams that who have a bad matchup into Trick Room teams.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/iron-crown/vgc24-regulation-f/\" hreflang=\"en\">Iron Crown</a> is a popular partner for Indeedee-F, as it's in Regulation F. It is a strong special attacker with Expanding Force that appreciates Indeedee-F's redirection and damage boosting with Helping Hand.</p>\n</li>\n<li>\n<p>Other common partners for Indeedee-F include <a href=\"/dex/sv/pokemon/armarouge/vgc24-regulation-f/\" hreflang=\"en\">Armarouge</a>, Hatterene, and <a href=\"/dex/sv/pokemon/torkoal/vgc24-regulation-f/\" hreflang=\"en\">Torkoal</a>. The former benefit from Psychic Terrain by getting a boost to their STAB, Expanding Force, and Torkoal can go for Eruptions without fear of priority thanks to Psychic Terrain. Some other notable Trick Room partners are both <a href=\"/dex/sv/pokemon/ursaluna/vgc24-regulation-f/\" hreflang=\"en\">Ursaluna</a> formes.</p>\n</li>\n<li>\n<p>Pokemon that are able to remove Psychic Terrain, such as <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>, also serve as good checks to Indeedee-F. Rillaboom sets up Grassy Terrain and Chien-Pao can remove Psychic Terrain with Ice Spinner, nullifying the Psychic-type spam strategy.</p>\n</li>\n<li>\n<p>Indeedee-F's best counters are Dark- and Steel-types, namely <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/archaludon/vgc24-regulation-f/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>, as they resist Psychic and Fairy and can take advantage of Indeedee-F's passivity.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Dazzling Gleam and Psychic are Indeedee-Fs primary damaging moves. Psychic is Indeedee-F's best STAB move, but Dazzling Gleam can be used, since its partners have Psychic-type coverage and it also hits Dark-types.</p>\n</li>\n<li>\n<p>Follow Me negates damage for partners and redirects status moves, being particularly valuable on Trick Room teams to ensure Trick Room goes up smoothly.</p>\n</li>\n<li>\n<p>Many offensive teams will utilize Helping Hand and Protect or Trick Room and Imprison as an answer to opposing Trick Room teams.</p>\n</li>\n<li>\n<p>Trick Room teams will opt for Trick Room and Helping Hand to give the Trick Room sweepers a damage boost. Protect can also be used on Trick Room teams over Helping Hand to preserve Indeedee-F and help reset Trick Room.</p>\n</li>\n<li>\n<p>Rocky Helmet is used to damage contact-making physical attackers. For example, (ac) Ice Spinner <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> would get rid of Psychic Terrain but would also have its Focus Sash broken, becoming vulnerable to Indeedee-F's partners. Safety Goggles protects Indeedee-F from <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>'s Spore and lets it safely redirect it from teammates. Psychic Seed increases Indeedee-F's already-good special bulk in Psychic Terrain.</p>\n</li>\n<li>\n<p>Tera Fairy provides resistances to all of Indeedee-F's weaknesses, therefore making it a good defensive Terastilization option, especially against Dark-types such as <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> and Chien-Pao.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Safety Goggles",
+            "Psychic Seed"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Imprison",
+                "type": null
+              },
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 658956,
+            "username": "gurupatak"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 435812,
+                "username": "Yuichi"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Indeedee-F's typing, ability, and movepool make it an excellent support Pokemon. Its Normal / Psychic typing allows it to deal with <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> well, and Psychic Surge has immense utility in Regulation G, as it blocks priority moves like Fake Out from <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a> and Prankster Taunt from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> while also denying the Terrains that power up <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a> and Rillaboom. The combination of Follow Me and Trick Room allows Indeedee-F to threaten either setting up Trick Room itself or redirecting away attacking moves and Taunt to enable a partner to set up Trick Room. Once the dimensions have been twisted, it can use Helping Hand to make a partner Trick Room sweeper even more threatening. Its last move is usually an attacking move to make it less prone to Taunt; Dazzling Gleam pairs well with Tera Fairy and lets it damage both foes, while Psychic gives it a strong Psychic Terrain-boosted STAB move regardless of Tera type. Alluring Voice is an acceptable alternative to Dazzling Gleam, letting Indeedee-F punish setup sweepers like IronPress <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> and Nasty Plot Calyrex-S while also bypassing the prominent Wide Guard. The Fairy-type attacks allow Indeedee-F to break Focus Sashes on Dark-types like <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a>, and <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a> so its partner can remove them quickly. However, Psychic allows Indeedee-F to OHKO <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>. Psychic Seed complements Psychic Surge well, as it reinforces Indeedee-F's special bulk. Safety Goggles allows it to bypass <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>'s Rage Powder and redirect away Spore for the benefit of its teammates, while Rocky Helmet lets it damage physical attackers whose contact moves it can redirect; Rocky Helmet can even break a Focus Sash from an Urshifu or Chien-Pao and severely punish Urshifu-R for using Surging Strikes. Tera Fairy allows Indeedee-F to resist the Dark-type attacks that would otherwise threaten it such as Incineroar's Knock Off and Urshifu's Wicked Blow while powering up Fairy-type moves that it may carry. Alternatively, Tera Grass lets it bypass Amoonguss's disruption and become immune to its Spore without having to use Safety Goggles while also granting a resistance to Water- and Electric-type attacks from the likes of Urshifu-R and Miraidon.</p>\n<p>With Indeedee-F's utility, it can fit on a variety of teams that appreciate Psychic Terrain, redirection, or its ability to set Trick Room. Calyrex-S appreciates Psychic Terrain blocking priority moves, namely Chien-Pao's Sucker Punch, and powering up its Psychic-type attacks; it is even able to run the devastating Expanding Force with Indeedee-F. Calyrex-S also takes advantage of Indeedee-F's redirection to fire off more of its brutal attacks without fear of retaliation and also benefits from Helping Hand pushing its damage potential up to eleven. <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> pairs well with Indeedee-F, as it is both a Trick Room setter and a sweeper, meaning that the opponent is hard-pressed to stop either Pokemon from setting up Trick Room with Indeedee-F's support, and once it is set up, Indeedee-F immediately enables Calyrex-I to deal big damage with Helping Hand. Other Trick Room sweepers like <a href=\"/dex/sv/pokemon/ursaluna/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna-B</a>, and <a href=\"/dex/sv/pokemon/torkoal/vgc24-regulation-g/\" hreflang=\"en\">Torkoal</a> appreciate that Indeedee-F can support them with Helping Hand and Follow Me on top of its ability to set up Trick Room. Indeedee-F is very vulnerable to Dark-types like Urshifu, Chi-Yu, and Incineroar, as the threat of their powerful moves makes it more hesitant to use Follow Me. It also hates Taunt, which completely shuts down all of its utility and thus its field presence. Rillaboom can also interfere with strategies predicated on Psychic Terrain blocking Fake Out.</p>",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Psychic Seed",
+            "Safety Goggles",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 555379,
+            "username": "Tbolt"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trick Room Support",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Indeedee-F is a great support option for many teams, utilizing its Normal typing to take no damage from <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a>'s Astral Barrage and <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a>'s Moongeist Beam while also setting Psychic Terrain to not only shut off <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a>'s Electric Terrain but also to guard its teammates from priority moves such as Fake Out, as well as Sucker Punch and Thunderclap from <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/raging-bolt/vgc25-regulation-i/\" hreflang=\"en\">Raging Bolt</a>, respectively.</li>\n<li>Psychic provides Indeedee-F with a way to deal consistent damage, while Alluring Voice scares off Dark-types like Chien-Pao and Tera Dark Calyrex-S.</li>\n<li>Safety Goggles is useful for Indeedee-F to safely redirect Spore from <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/smeargle/vgc25-regulation-i/\" hreflang=\"en\">Smeargle</a>, while Rocky Helmet punishes certain physical attackers, most notably <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>. Psychic Seed, although less common, is a good choice to help take on special attackers like the aforementioned Calyrex-S and Raging Bolt.</li>\n<li>If running a Trick Room team, a Relaxed Nature and 0 Speed IVs let Indeedee-F override Grassy Terrain against uninvested <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a> if both are sent on the field at the same time; it also lets Indeedee-F be as slow as possible for operating under Trick Room.</li>\n<li>Tera Water grants Indeedee-F a great defensive typing, helping it stomach moves such as Glacial Lance and Surging Strikes from <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> and Urshifu-R, respectively. Tera Fairy, on the other hand, most notably lets Indeedee-F resist Dark-types like <a href=\"/dex/sv/pokemon/chi-yu/vgc25-regulation-i/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/incineroar/vgc25-regulation-i/\" hreflang=\"en\">Incineroar</a>, and Chien-Pao. Although niche, Tera Fairy also boosts the power of Alluring Voice, letting it almost always OHKO <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a> and securing the OHKO on <a href=\"/dex/sv/pokemon/urshifu/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-S</a>.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Indeedee-F is very vulnerable to Taunt from the likes of Incineroar and <a href=\"/dex/sv/pokemon/flutter-mane/vgc25-regulation-i/\" hreflang=\"en\">Flutter Mane</a>, as it severely hinders Indeedee-F's supportive capabilities and stops it from redirecting attacks or setting up Trick Room.</li>\n<li>Without Terastallization available, Dark-type attacks like Wicked Blow from Urshifu and Dark Pulse from Chi-Yu threaten Indeedee-F with a potential OHKO. Chien-Pao in particular is a big threat to Indeedee-F, as it not only threatens Indeedee-F with Crunch, but it can also remove Psychic Terrain with Ice Spinner.</li>\n<li>Miraidon and Rillaboom are able to override Indeedee-F's Psychic Terrain with their own respective Terrains, forcing Indeedee-F to switch out if it wants to set up Psychic Terrain again.</li>\n<li>Packing multiple Trick Room setters like Calyrex-I and Lunala can ensure that Taunt won't shut down Trick Room altogether. Said Trick Room setters benefit from Indeedee-F's access to Follow Me and Trick Room, potentially setting up Trick Room for the aforementioned Restricted Pokemon and protecting them while they sweep via redirection.</li>\n<li>Partners such as the Urshifu formes and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a> are able to threaten Dark-types with a KO with Close Combat and Body Press, respectively. Zamazenta-C is notably able to almost completely wall out Chien-Pao, unless it has Sacred Sword. Running Alluring Voice or using <a href=\"/dex/sv/pokemon/whimsicott/vgc25-regulation-i/\" hreflang=\"en\">Whimsicott</a> can also help with Dark-types to an extent. Indeedee-F can help these partners more easily achieve these KOs with Helping Hand, or it can protect its allies from faster threats with Follow Me.</li>\n<li>Calyrex-I is able to easily take out Miraidon and Rillaboom, which can be achieved even easier thanks to Indeedee-F's access to Trick Room and Helping Hand.</li>\n<li>Calyrex-S and Lunala highly appreciate Indeedee-F's assistance, enabling powerful Expanding Forces with Psychic Terrain whilst helping Calyrex-S set up with Nasty Plot and Lunala set up Trick Room, thanks to Follow Me. Lunala in particular appreciates Indeedee-F's ability to set Trick Room. In return, Calyrex-S and Lunala can KO powerful threats such as Koraidon, which can threaten Indeedee-F with an OHKO.</li>\n</ul>",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Safety Goggles",
+            "Rocky Helmet",
+            "Psychic Seed"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Alluring Voice",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            },
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Bold",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 650323,
+            "username": "pengu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 646416,
+                "username": "Code"
+              },
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>\n<p>Indeedee-F works best on dedicated Trick Room teams, using Follow Me to almost always guarantee its partner to set up Trick Room as well as pairing well with Trick Room sweepers. It sets up Psychic Terrain to prevent Fake Out from disturbing your team's Trick Room setup as well as preventing priority attacks from threatening its partners.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> are common partners for Indeedee-F. Trick Room can help with the speed control both Ursaluna formes need, and Follow Me can protect them from non-spread moves while allowing them to deal Normal-type damage with Blood Moon and Facade and Ground-type damage with Headlong Rush, Earthquake, and Earth Power. Other Trick Room sweepers, such as <a href=\"/dex/sv/pokemon/hatterene/vgc/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/torkoal/vgc/\" hreflang=\"en\">Torkoal</a>, are the best Trick Room partners for Indeedee-F. Hatterene can threaten the opponent's team with heavy Psychic-type damage from Expanding Force, and Torkoal can threaten heavy Fire-type damage with Eruption, Weather Ball, and Heat Wave. <a href=\"/dex/sv/pokemon/gallade/vgc/\" hreflang=\"en\">Gallade</a> can threaten Dark-type Pokemon with Sacred Sword and provide Wide Guard support to protect its side of the field from spread moves. <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a> pairs nicely with Indeedee-F because Sneasler can hold the Psychic Seed, activating its Unburden ability.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> will decimate any opposing Indeedee-F. Even if Indeedee-F Terastallizes into a Fairy-type, Kingambit will still do significant amount of damage to it. Therefore, a Fighting-type Pokemon like Sneasler should be used to threaten Kingambit, as it can almost always guarantee a OHKO on Kingambit with Close Combat. <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> is another threat to watch out for, as it can set up Grassy Terrain, which can override the Psychic Terrain that Indeedee-F sets up.</p>\n</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>\n<p>Indeedee-F is a support Pokemon. It redirects attacks with Follow Me, provides speed control with Trick Room, provides important chip damage with Psychic or Dazzling Gleam, and helps partners spam Expanding Force.</p>\n</li>\n<li>\n<p>Indeedee-F is best used early-game. As a lead, it is really good to get a head start at initializing your strategy. Sneasler, Ursaluna-B , and Ursaluna are all common Pokemon to lead alongside Indeedee-F. The Sneasler + Indeedee-F lead doesn't require Trick Room to be utilized and does not require any other setup. The Ursaluna-B + Indeedee-F lead does not have to be in Trick Room, depending on the Speed investment of Ursaluna-B, and it unleashes some of the largest amount of special damage in the metagame. Ursaluna and Indeedee-F have to be in Trick Room and need Ursaluna's Guts boost to be utilized thoroughly. However, this lead provides some of the largest amount of physical damage in the metagame.</p>\n</li>\n<li>\n<p>The biggest weakness Indeedee-F has to deal with is the move Taunt. Taunt prevents Indeedee-F from setting up Trick Room and doing its job as a supportive Pokemon. The most reliable way to get rid of Taunt is to switch Indeedee-F out. Sometimes, Indeedee-F has to rely on its ally to set up Trick Room instead. Because it is a Trick Room Pokemon, it is vulnerable to being double targeted, which prevents Trick Room from being set up. Fortunately, it has Follow Me, which can redirect non-spread moves to it, allowing its ally to set up Trick Room.</p>\n</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Indeedee-F is a support Pokemon that mainly redirects attacks with Follow Me and sets up Trick Room. The Psychic Terrain that it sets up supports its teammates by protecting them from opposing priority moves like Sucker Punch and Fake Out.</p>\n</li>\n<li>\n<p>Follow Me provides redirection so that an allied Pokemon can safely set up Tailwind or Trick Room or set up with moves such as <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a>'s Bulk Up, <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a>'s Swords Dance, and <a href=\"/dex/sv/pokemon/kommo-o/vgc/\" hreflang=\"en\">Kommo-o</a>'s Clangorous Soul. Imprison prevents Trick Room from being set up by foes and shuts down the opponent's Follow Me Pokemon. Dazzling Gleam is mainly used to break opposing Pokemon that hold Focus Sash.</p>\n</li>\n<li>\n<p>Safety Goggles provides immunity to <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a>'s Spore and Rage Powder while allowing Indeedee-F to use Follow Me to redirect Spore. Psychic Seed ensures that it takes attacks like <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a>'s Blood Moon better. Rocky Helmet punishes any Pokemon that attack it with contact-making moves or have said attacks redirected to it. Some of these contact moves are Annihilape's Drain Punch and Rage Fist, <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a>'s Wood Hammer, and <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>'s Dire Claw and Close Combat. Rocky Helmet also has the ability to break Focus Sashes and threaten any Pokemon that use multi-hit moves, such as <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a> and its Population Bomb. Sitrus Berry helps out Indeedee-F's longevity by allowing it to survive moves like +4 <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>'s Body Press and <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a>'s Weather Ball.</p>\n</li>\n<li>\n<p>Fairy is the best Tera type for Indeedee-F. It provides resistances to Kingambit's Kowtow Cleave and Sucker Punch, Archaludon's Body Press, and Sneasler's Close Combat and Throat Chop and an immunity to Dragon-type moves from Archaludon, <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/dragapult/vgc/\" hreflang=\"en\">Dragapult</a>. As a little bonus, it offers a STAB boost to Dazzling Gleam. Tera Grass gives Indeedee-F a resistance to Grass-type moves such as Rillaboom's Wood Hammer and Water-type moves such as <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>'s Wave Crash and Pelipper's rain-boosted Weather Ball, which are its partners' most common weaknesses. Tera Grass also provides immunity to Amoonguss's Spore and redirection. However, if Indeedee-F uses Safety Goggles, Tera Grass is not recommended.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Safety Goggles",
+            "Psychic Seed",
+            "Rocky Helmet",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Imprison",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 672482,
+            "username": "Skwovetboi"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 678488,
+                "username": "poketitanterra"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Follow Me Support",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Safety Goggles"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Imprison",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 12,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Setter",
+          "pokemon": "Indeedee-F",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Psychic Seed"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Heal Pulse",
+                "type": null
+              },
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Alluring Voice",
+    "Baton Pass",
+    "Body Slam",
+    "Calm Mind",
+    "Charm",
+    "Dazzling Gleam",
+    "Disarming Voice",
+    "Draining Kiss",
+    "Drain Punch",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fake Out",
+    "Follow Me",
+    "Guard Split",
+    "Healing Wish",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hyper Voice",
+    "Imprison",
+    "Light Screen",
+    "Magical Leaf",
+    "Metronome",
+    "Play Nice",
+    "Play Rough",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Reflect",
+    "Rest",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Stored Power",
+    "Substitute",
+    "Swift",
+    "Take Down",
+    "Tera Blast",
+    "Trick",
+    "Trick Room",
+    "Zen Headbutt"
+  ]
+}

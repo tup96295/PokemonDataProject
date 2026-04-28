@@ -1,0 +1,147 @@
+{
+  "name": "Saharaja",
+  "alias": "saharaja",
+  "types": [
+    "Ground"
+  ],
+  "stats": [
+    70,
+    112,
+    105,
+    65,
+    123,
+    78
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Standard Camel",
+          "pokemon": "Saharaja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Water Absorb"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Grass",
+            "Fire",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Diamond Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Horn Leech",
+                "type": null
+              },
+              {
+                "move": "Temper Flare",
+                "type": null
+              },
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 88,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 168
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Dazzling Gleam",
+    "Diamond Storm",
+    "Double-Edge",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fissure",
+    "Flash Cannon",
+    "Giga Impact",
+    "Heavy Slam",
+    "High Horsepower",
+    "Horn Leech",
+    "Hyper Beam",
+    "Mud Shot",
+    "Outrage",
+    "Pain Split",
+    "Pay Day",
+    "Power Gem",
+    "Protect",
+    "Rapid Spin",
+    "Rest",
+    "Rock Tomb",
+    "Sand Attack",
+    "Sandstorm",
+    "Sand Tomb",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Spit Up",
+    "Stealth Rock",
+    "Stockpile",
+    "Stomp",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Swallow",
+    "Swords Dance",
+    "Tackle",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Water Gun",
+    "Water Pulse"
+  ]
+}

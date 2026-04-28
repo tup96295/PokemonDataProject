@@ -1,0 +1,740 @@
+{
+  "name": "Gyarados",
+  "alias": "gyarados",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "stats": [
+    95,
+    125,
+    79,
+    60,
+    100,
+    81
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Gyarados",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Moxie"
+          ],
+          "items": [
+            "Leftovers",
+            "Loaded Dice",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scale Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Flying)",
+          "pokemon": "Gyarados",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Gyarados finds a unique spot on Flying-type teams due to its unique combination of Intimidate, ability to spread paralysis, and ability to phaze. Intimidate allows Gyarados to safely switch into physical threats such as <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>. Dragon Tail punishes setup sweepers such as <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> by forcing them to switch out. Thunder Wave allows Gyarados to slow down Choice Scarf users such as <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, essentially making their Choice Scarf useless. Rest is Gyarados's only form of recovery, and it also allows it to act as a status absorber against moves such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/salazzle/monotype/\" hreflang=\"en\">Salazzle</a>'s Toxic. 24 Speed EVs allow Gyarados to outspeed non-Choice Scarf <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> while it is paralyzed.</p>\n<p>Entry hazard setters such as Gliscor, both <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> are great teammates for Gyarados, as Dragon Tail racks up hazard damage on unsuspecting Pokemon. Additionally, Gliscor and Landorus can switch into Electric-type attacks from Pokemon that would otherwise make quick work of Gyarados. <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> can use Knock Off to remove Heavy-Duty Boots from foes, so Gyarados can rack up damage on them via Dragon Tail paired with the aforementioned hazard setters. <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> is a nice defensive complement to Gyarados, as Articuno can switch into special moves from Pokemon like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>. Articuno can also use Haze to stop setup Pokemon that Gyarados cannot phaze with Dragon Tail, such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. Choice Scarf Enamorus can outspeed and KO Choice Scarf users such as <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and Roaring Moon when they have been paralyzed by Thunder Wave. It can also use Healing Wish to bring Gyarados back to full HP without having to be immobile for two turns. <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> not only provides a Rock-type neutrality but also can remove hazards with Defog if Gyarados loses its Heavy-Duty Boots. Adamant <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> appreciates Gyarados's Thunder Wave support, as it outspeeds and OHKOes paralyzed Choice Specs Flutter Mane after one Dragon Dance.</p>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 0,
+              "spe": 24
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        },
+        {
+          "name": "Dragon Dance (Flying)",
+          "pokemon": "Gyarados",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Gyarados finds many opportunities to set up Dragon Dance and sweep on Flying teams thanks to its great bulk and ability to force out foes thanks to Intimidate. Substitute allows Gyarados to take advantage of passive walls like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> so that it can set up freely on them, while Taunt shuts down attempts to both inflict status on it and remove its boosts with Haze. Earthquake provides coverage against Poison- and Steel-types such as Toxapex, <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. 248 HP and 8 Defense EVs ensure that Gyarados's Substitute does not get broken by Clodsire's Poison Jab.</p>\n<p><a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> pair well with Gyarados, as with their Electric immunity, they can take on foes like <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/magnezone/monotype/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a>. Additionally, Gliscor spreads status with Toxic, sets up entry hazards to aid in Gyarados's sweeping, and matches up well against several hazard removers like <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a>, and Regieleki. <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> also sets up Spikes to aid Gyarados, and it can set up its IronPress combination on physically offensive threats such as Dragon Dance <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>. Due to Gyarados's vulnerability to Stealth Rock, it appreciates hazard removal from <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> so that it finds more opportunities to switch in; Corviknight can also pivot Gyarados in with U-turn and aids against Choice Specs <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>. In return, Corviknight appreciates Gyarados taking on Fire-types such as <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>. Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> provides valuable speed control for Flying teams, as it is able to outspeed and threaten speedy foes like non-Choice Scarf <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and it also aids greatly in the Dragon matchup, taking on foes such as Dragapult, <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. Additionally, Enamorus provides Healing Wish support to aid Gyarados in its sweeping. Enamorus greatly appreciates Gyarados covering Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> in return. Early-game wallbreakers like Choice Band <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> and Choice Specs <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a> clear out bulky threats like <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a> and Corviknight so that Gyarados can find opportunities to sweep. Lastly, Gyarados can enable other sweepers like <a href=\"/dex/sv/pokemon/moltres-galar/monotype/\" hreflang=\"en\">Galarian Moltres</a> and <a href=\"/dex/sv/pokemon/thundurus-therian/monotype/\" hreflang=\"en\">Thundurus-T</a> by clearing out foes like opposing Gliscor, so it can sweep late-game. Specifically, Thundurus-T provides an Electric immunity and aids against Water-types such as <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>.</p>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 246753,
+            "username": "RoyalReloaded"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023. <a href=\"/dex/sv/formats/battle-stadium-singles/\">For more information on this format and its current events, check out the format page!</a></p>\n<p><a href=\"/forums/threads/battle-stadium-regulation-c-analyses.3719040/\">If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rocky Helmet",
+          "pokemon": "Gyarados",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Gyarados utilizes its unique typing alongside Rocky Helmet to cushion physical sweepers such as <a href=\"/dex/sv/pokemon/scizor/battle-stadium-singles/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/great-tusk/battle-stadium-singles/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/palafin/battle-stadium-singles/\" hreflang=\"en\">Palafin</a>.</p>\n</li>\n<li>\n<p><strong>Taunt</strong>: Taunt forces foes such as <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a> to attack Gyarados, constraining them to take Rocky Helmet chip while often dealing minimal damage themselves.</p>\n</li>\n<li>\n<p><strong>Waterfall versus Iron Head</strong>: Waterfall provides Gyarados with a reliable STAB move, but Iron Head works better with Thunder Wave thanks to its higher flinch chance. They can be run together, though usually at the cost of overall coverage.</p>\n</li>\n<li>\n<p><strong>Earthquake</strong>: Earthquake checks several common Gyarados switch-ins, such as <a href=\"/dex/sv/pokemon/iron-hands/battle-stadium-singles/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/magnezone/battle-stadium-singles/\" hreflang=\"en\">Magnezone</a>.</p>\n</li>\n<li>\n<p><strong>Ice Fang</strong>: Ice Fang hits bulky Dragon-types such as <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> that otherwise can withstand attacks from Gyarados.</p>\n</li>\n<li>\n<p><strong>Thunder Wave</strong>: Thunder Wave combined with flinch moves like Waterfall and Iron Head can shut down foes for several turns at a time. It can also catch foes switching into Gyarados, though keep in mind that many prominent Gyarados checks are naturally immune.</p>\n</li>\n<li>\n<p><strong>EV Spread</strong>: This spread allows Gyarados to survive two unboosted Moonblasts from <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and minimizes Stealth Rock chip. The Speed investment outspeeds 4 Speed <a href=\"/dex/sv/pokemon/rotom/battle-stadium-singles/\" hreflang=\"en\">Rotom</a> formes and, when using Thunder Wave, outspeeds paralyzed Speed-boosting nature <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a>.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Dragon Dance</strong>: Rocky Helmet sets can still opt to utilize Dragon Dance for more offensive presence, but this usually involves cutting bulk to invest in Attack and Speed.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: While Gyarados has uses for Terastallization, losing its unique defensive typing jeopardizes its Rocky Helmet niche and makes it much harder to check its key targets. Terastallization must be timed properly if Gyarados is to get proper value out of it.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel powers up Iron Head to more serviceable levels and makes it easier to OHKO bulky Flutter Mane.</p>\n</li>\n<li>\n<p><strong>Ground</strong>: Tera Ground prevents Gyarados from getting dismantled by its 4x Electric-type weakness and provides a sizable power boost to Earthquake.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Steel",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 4,
+              "def": 220,
+              "spa": 0,
+              "spd": 4,
+              "spe": 52
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 516307,
+            "username": "Photon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 383911,
+                "username": "YashGreninja"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Pivot",
+          "pokemon": "Gyarados",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Leftovers",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 204,
+              "spa": 0,
+              "spd": 4,
+              "spe": 44
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Tera Price Range</strong>: 7-8 points</p>\n<p><strong>Overview</strong>: On paper, Gyarados is a threatening sweeper that can utilize its two great abilities in Intimidate and Moxie along with Dragon Dance to win late-game, which can be further boosted by Terastallization. In practice, however, it is often quite underwhelming. Its Speed tier is incredibly average, with Gyarados often needing to set up twice to outrun many threats, which is difficult to pull off considering its average bulk, its inability to recover health, and the prevalence of phazing in the meta. Although it has good coverage, it has no reliable Flying-type STAB moves, and it often struggles fitting all the coverage it needs onto its sets, especially considering it often wants to fit a utility move along with Dragon Dance. Gyarados also lacks utility that many other Flying-types have, including Defog, pivoting, and recovery, and it is extremely weak to Electric, allowing foes to easily use Volt Switch and gain positive momentum on it.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Gyarados can set up with Dragon Dance to try and sweep late-game. Intimidate can be used against physical attackers, giving it safer opportunities to set up, and Moxie can let it snowball if it can rack up a few KOs. This set typically relies on its checks being chipped or KOed beforehand, but it can also set up mid-game to weaken specific foes and enable a teammate late-game.</p>\n<p><strong>Defensive Utility</strong>: With Intimidate, Gyarados can somewhat reliably check some physical attackers, but it typically requires lots of EV investment and a more defensive item. It also has a strong utility movepool that can further check these foes; it can also force setup sweepers out with Roar and Dragon Tail, it can cripple faster foes with Thunder Wave, and it can use Taunt to stop passive utility Pokemon.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Waterfall, Aqua Tail</p>\n<p><strong>Setup Moves</strong>: Dragon Dance</p>\n<p><strong>Utility Moves</strong>: Taunt, Thunder Wave, Dragon Tail, Roar, Substitute</p>\n<p><strong>Coverage</strong>: Crunch, Earthquake, Ice Fang, Iron Head, Outrage, Stone Edge, Temper Flare, Tera Blast, Double-Edge</p>\n<h3>Niche Moves</h3>\n<p><strong>Whirlpool</strong>: Whirlpool allows Gyarados to trap passive foes and remove them, allowing it or its teammates to make progress afterwards.</p>\n<p><strong>Bounce</strong>: Bounce can be used along with Power Herb to give Gyarados an actual Flying-type STAB move, dealing lots of damage to foes that resist Water or are weak to Flying.</p>\n<p><strong>Endeavor</strong>: Endeavor lets Gyarados chip down foes after taking lots of damage. It usually works best against passive foes that do little damage to Gyarados over time.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: As a Flying-type with no reliable recovery, Heavy-Duty Boots is frequently required on Gyarados, letting it stay healthy by avoiding damage from Stealth Rock.</p>\n<h3>Niche Items</h3>\n<p><strong>Lum Berry</strong>: Lum Berry allows Gyarados to avoid annoying status effects that can stop it from sweeping.</p>\n<p><strong>Damage-boosting Items</strong>: Gyarados enjoys having items that boost its already-high damage output so that it does not have to set up as much. Life Orb and Expert Belt work best, but Choice Band can also make it a powerful immediate wallbreaker, catching foes off-guard.</p>\n<p><strong>Rocky Helmet</strong>: With Intimidate, Rocky Helmet lets Gyarados effectively punish foes that use U-turn or other weak physical attacks. However, this only works well if Stealth Rock stays off the field.</p>\n<p><strong>Leftovers</strong>: Leftovers can keep Gyarados healthy in matchups where Stealth Rock is not a concern. It also synergizes well with Substitute sets.</p>\n<p><strong>Power Herb</strong>: Power Herb lets Gyarados do a surprise attack with Bounce, catching foes off-guard.</p>\n<p><strong>Clear Amulet</strong>: Against Intimidate users, Clear Amulet lets Gyarados maintain its Attack boosts from Dragon Dance and Moxie.</p>\n<h3>Tera</h3>\n<p>Gyarados functions best with Terastallization and should usually be drafted with the idea of making it a secondary Tera Captain. Although it's generally outclassed by higher-priced Captains, it functions well for its price. Terastallization further boosts Gyarados's sweeping potential with Dragon Dance, giving it much-needed coverage or defensive typings that can give it more opportunities to set up. Tera Flying gives it a powerful Flying-type STAB move in Tera Blast, which can deal a surprising amount of damage even when unboosted. Tera Fire and Ground boost Gyarados's existing coverage, and Tera Ground additionally covers its typical weaknesses to Electric and Rock. Tera Fairy and Fighting give it additional coverage with Tera Blast, and Tera Steel, Water, and Ghost give it a better defensive typing, allowing it more opportunities to safely set up.</p>\n<h3>Draft Strategy</h3>\n<p>Gyarados should not be a team's primary setup sweeper, and it should not even come to every match, as its low Speed and lack of strong coverage makes it hard to get going. However, it can occasionally put in work as a late-game sweeper once its checks are weakened, and it can also set up mid-game to weaken foes and enable its teammates.</p>\n<p><strong>Entry Hazard Removal</strong>: Gyarados is weak to Stealth Rock and has no reliable way to recover the damage, so if it wants to run other more useful items over Heavy-Duty Boots, hazard removers like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> are necessary teammates.</p>\n<p><strong>Faster Pokemon</strong>: Gyarados is incredibly slow to start with and cannot always reliably set up to KO faster Pokemon. Faster teammates like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> can handle opposing faster Pokemon much more reliably.</p>\n<p><strong>Ground-types</strong>: As Gyarados is very weak to Electric, Ground-types like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a>, and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> can switch into Electric-types that immediately threaten it. They can also block Volt Switch, preventing foes from gaining momentum off of Gyarados, and they can switch into super effective Rock-type moves.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Wallbreakers</strong>: Gyarados's defenses are not great, so faster wallbreakers can easily KO it. Many can reliably outspeed a +1 Gyarados with Choice Scarf, especially since it almost always wants to set up on its first turn. Pokemon with super effective attacks like <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, <a href=\"/dex/sv/pokemon/lycanroc-dusk/draft/\" hreflang=\"en\">Lycanroc-D</a>, and <a href=\"/dex/sv/pokemon/kilowattrel/draft/\" hreflang=\"en\">Kilowattrel</a> fulfill this role best.</p>\n<p><strong>Stealth Rock</strong>: Without Heavy-Duty Boots, which Gyarados often does not want to run over other items, it is very weak to Stealth Rock, making it much harder for it to safely set up.</p>\n<p><strong>Electric-types</strong>: Gyarados is extremely weak to Electric, and Electric-type Pokemon can also use Volt Switch on it to maintain positive momentum. Some of the Electric-types that check it the best include <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>.</p>\n<p><strong>Bulky Water- and Grass-types</strong>: Gyarados lacks the necessary coverage to break through bulky Water- and Grass-types like <a href=\"/dex/sv/pokemon/azumarill/draft/\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/sv/pokemon/shaymin/draft/\" hreflang=\"en\">Shaymin</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>. Although it has coverage for Grass-types, Ice Fang is too weak without boosts, and Bounce is unreliable after its Power Herb is used up.</p>\n<p><strong>Status Effects</strong>: Paralysis and burn completely shut down Gyarados, allowing foes to easily take advantage of its weakened stats and KO it. Gyarados also doesn't like poison, which limits the amount of turns it gets to sweep.</p>\n<p><strong>Disruption</strong>: Encore can lock Gyarados into Dragon Dance, allowing foes to easily take advantage of it. Roar and Whirlwind also force it out, negating all of its setup and forcing it to take entry hazard damage again if it does not have Heavy-Duty Boots.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 527276,
+            "username": "Techno"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance (HP, Def, Spe)",
+          "pokemon": "Gyarados",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Gyarados",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/gyarados-mega/national-dex/\" hreflang=\"en\">Mega Gyarados</a>'s fantastic Attack stat, solid defenses, and great offensive typing make it a strong wallbreaker against defensive Pokemon such as <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>. Its typing before and after Mega Evolution provides it many setup opportunities for the hyper offense teams it belongs on, especially when combined with Intimidate. It performs particularly well against threats such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> prior to Mega Evolution and against <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a> and Gholdengo after Mega Evolution. Mold Breaker allows Mega Gyarados to break past <a href=\"/dex/sv/pokemon/dondozo/national-dex/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> more easily, enhancing its wallbreaking capabilities. However, Mega Gyarados faces competition from other Dark-types such as <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and Hisuian Samurott, since they are typically more consistent for hyper offense teams, with the latter providing valuable Spikes support for its teammates. Substitute blocks status moves such as Thunder Wave from Gholdengo and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a> or Toxic from <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, turning all three into setup fodder; it also limits revenge killing efforts from <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a> and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>. Earthquake allows Mega Gyarados to cleave straight through <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, Raging Bolt, and <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, preventing them from trading with it safely. Taunt shuts down opposing setup from Pokemon such as IronPress <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, as well as preventing entry hazards from going up from <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> and defensive <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>. Similarly to Substitute, it also shuts down status conditions such as paralysis and Toxic poison from defensive Pokemon such as Slowbro and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>.</p>\n<p>While it has a decent defensive profile, Mega Gyarados's lack of longevity means it primarily fits on hyper offense teams that want to capitalize off of its power and unique ability to break past stall teams with ease while not being slowed down by Dragonite and Terapagos due to Mold Breaker. Mega Gyarados usually works best mid-game, helping to overwhelm defensive staples such as Ferrothorn, Toxapex, and <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a>; this is heavily appreciated by offensive teammates such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, Kingambit, and Dragonite. Specially offensive partners such as Gholdengo, <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>, and Raging Bolt can support Mega Gyarados in taking down these physically defensive foes, while Mega Gyarados does well against opposing specially defensive walls such as Moltres and Ting Lu. Suicide leads are necessary on the hyper offense teams that Mega Gyarados belongs to. Landorus-T and the more niche <a href=\"/dex/sv/pokemon/glimmora/national-dex/\" hreflang=\"en\">Glimmora</a> can set up entry hazards to assist in Mega Gyarados's wallbreaking capabilities; for example, by letting it OHKO <a href=\"/dex/sv/pokemon/serperior/national-dex/\" hreflang=\"en\">Serperior</a> with boosted Crunch after Stealth Rock. Dual screens leads such as <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> and <a href=\"/dex/sv/pokemon/grimmsnarl/national-dex/\" hreflang=\"en\">Grimmsnarl</a> improve Mega Gyarados's longevity and bulk, notably letting Mega Gyarados survive +1 Garchomp's Devastating Drake with Reflect, allowing it more opportunities to set up. All of these suicide leads can deny opposing Stealth Rock from going up with either Taunt or Mortal Spin, which makes up for base Gyarados's weakness to Stealth Rock. Although Mega Gyarados has Dragon Dance, it is still prone to being revenge killed by faster Choice Scarf Pokemon such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> and Urshifu-R due to its mediocre Speed, making teammates such as Gholdengo and Dragonite, which can punish these revenge killing attempts, valuable partners.</p>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Gyaradosite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 604820,
+            "username": "Sami"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 591294,
+                "username": "Lightniong"
+              },
+              {
+                "user_id": 471780,
+                "username": "Solaros & Lunaris"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aqua Tail",
+    "Avalanche",
+    "Bite",
+    "Blizzard",
+    "Body Slam",
+    "Brine",
+    "Bulldoze",
+    "Chilling Water",
+    "Crunch",
+    "Dark Pulse",
+    "Double-Edge",
+    "Dragon Cheer",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Earthquake",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Flail",
+    "Flamethrower",
+    "Giga Impact",
+    "Helping Hand",
+    "Hurricane",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Icy Wind",
+    "Iron Head",
+    "Lash Out",
+    "Leer",
+    "Muddy Water",
+    "Outrage",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Sandstorm",
+    "Scald",
+    "Scale Shot",
+    "Scary Face",
+    "Sleep Talk",
+    "Spite",
+    "Splash",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thrash",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Twister",
+    "Waterfall",
+    "Water Pulse",
+    "Whirlpool"
+  ]
+}

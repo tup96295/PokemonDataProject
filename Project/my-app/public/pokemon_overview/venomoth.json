@@ -1,0 +1,216 @@
+{
+  "name": "Venomoth",
+  "alias": "venomoth",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    70,
+    65,
+    60,
+    90,
+    75,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance",
+          "pokemon": "Venomoth",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Venomoth",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Acrobatics",
+    "Agility",
+    "Air Cutter",
+    "Air Slash",
+    "Baton Pass",
+    "Bug Bite",
+    "Bug Buzz",
+    "Confuse Ray",
+    "Confusion",
+    "Disable",
+    "Double-Edge",
+    "Endeavor",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Giga Drain",
+    "Giga Impact",
+    "Hyper Beam",
+    "Leech Life",
+    "Lunge",
+    "Morning Sun",
+    "Night Shade",
+    "Poison Fang",
+    "Poison Powder",
+    "Pounce",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Quiver Dance",
+    "Rage Powder",
+    "Rest",
+    "Screech",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Powder",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Solar Beam",
+    "Struggle Bug",
+    "Stun Spore",
+    "Substitute",
+    "Sunny Day",
+    "Supersonic",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Toxic",
+    "Toxic Spikes",
+    "U-turn",
+    "Venoshock",
+    "Zen Headbutt"
+  ]
+}

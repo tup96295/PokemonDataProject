@@ -1,0 +1,150 @@
+{
+  "name": "Oricorio-Pom-Pom",
+  "alias": "oricorio-pom-pom",
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "stats": [
+    75,
+    70,
+    70,
+    98,
+    70,
+    93
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance",
+          "pokemon": "Oricorio-Pom-Pom",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Dancer"
+          ],
+          "items": [
+            "Kee Berry",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ground",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Revelation Dance",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Air Slash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Air Cutter",
+    "Air Slash",
+    "Alluring Voice",
+    "Attract",
+    "Baton Pass",
+    "Calm Mind",
+    "Charm",
+    "Defog",
+    "Dual Wingbeat",
+    "Endure",
+    "Facade",
+    "Feather Dance",
+    "Flatter",
+    "Fly",
+    "Growl",
+    "Helping Hand",
+    "Hurricane",
+    "Icy Wind",
+    "Peck",
+    "Pluck",
+    "Pound",
+    "Protect",
+    "Psych Up",
+    "Quiver Dance",
+    "Rain Dance",
+    "Rest",
+    "Revelation Dance",
+    "Reversal",
+    "Roost",
+    "Safeguard",
+    "Sandstorm",
+    "Sleep Talk",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Teeter Dance",
+    "Tera Blast",
+    "Trailblaze",
+    "U-turn"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Sharpedo",
+  "alias": "sharpedo",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "stats": [
+    70,
+    120,
+    40,
+    95,
+    40,
+    95
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Attacker (Water)",
+          "pokemon": "Sharpedo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Speed Boost"
+          ],
+          "items": [
+            "Sharpedonite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Fangs",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Destiny Bond",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Sharpedo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Speed Boost"
+          ],
+          "items": [
+            "Sharpedonite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Fangs",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              },
+              {
+                "move": "Poison Jab",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

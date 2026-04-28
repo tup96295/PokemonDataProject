@@ -1,0 +1,1382 @@
+{
+  "name": "Greninja",
+  "alias": "greninja",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "stats": [
+    72,
+    95,
+    67,
+    103,
+    71,
+    122
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its wide coverage combined with its excellent ability Protean, Choice Specs Greninja is a scary wallbreaker that hits all of the metagame at least neutrally while outspeeding common offensive Pokemon such as <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>. Surf is the best option to deal strong damage, as Hydro Pump can unfortunately miss and lacks PP. However, Hydro Pump could still be an option to inflict more damage, as it can OHKO defensive <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> and 2HKO defensive <a href=\"/dex/sv/pokemon/tyranitar/uu/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a>, though Surf deals with these Pokemon with entry hazards anyway. Ice Beam is able to hit <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a>, and Ogerpon-C super effectively, whereas Sludge Wave can surprise common switch-ins like <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a> and <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a> and gives Greninja a resistance to Fighting-type moves, such as Secret Sword, allowing it to 2HKO Keldeo. Spikes chips the opposing team in the long term and punishes switch-ins, helping Greninja and its teammates clean more easily. Greninja naturally finds some good opportunities to set up a layer of Spikes or two thanks to the switches it naturally forces. U-turn is an alternative that grants Greninja some momentum, allowing it to pivot out on Pokemon that can wall it such as <a href=\"/dex/sv/pokemon/empoleon/uu/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/gastrodon/uu/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a>. Tera Water is preferred to boost the power of Greninja's Water-type move, guaranteeing an OHKO on <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a> with Surf and a 2HKO on Keldeo with Hydro Pump, although it shouldn't Terastallize outside of an emergency because it'll lose the boost of Protean.</p>\n<p>Due to its severe frailty and incapacity to switch in easily, Greninja fits well on bulky offense teams that can afford slow VoltTurn support to bring it safely into battle, and they also provide some defensive backbones for Greninja to rely on. Teammates such as Cobalion, Tornadus-T, and <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a> are thus very appreciated, especially since Slowking can be useful to pressure Toxapex and Gastrodon with Future Sight. Excadrill is a helpful partner that can help Greninja by crushing common Water-resistant Pokemon like <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a>, allowing Greninja to spam its Water-type move. Also, Excadrill is capable of removing entry hazards, which can be a little overwhelming for Greninja. In the same way, Knock Off support helps Greninja by removing crucial items such as Assault Vest on Tornadus-T and Heavy-Duty Boots on Slowking and <a href=\"/dex/sv/pokemon/volcanion/uu/\" hreflang=\"en\">Volcanion</a>. Examples of users would be Tornadus-T and Tinkaton. Since Greninja causes a lot of switches, hazard setters like <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> and the aforementioned Cobalion are helpful. Cobalion can also check the powerful <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>. Lastly, offensive teammates such as Calm Mind Latios and <a href=\"/dex/sv/pokemon/comfey/uu/\" hreflang=\"en\">Comfey</a> like the opposing team weakened by Greninja's powerful moves so that they can clean up, while others such as Ogerpon-C and Lokix can overwhelm their shared checks with Choice Specs Greninja, with examples of these being Toxapex, Tinkaton, and Empoleon.</p>",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Water Shuriken",
+                "type": null
+              },
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Battle Bond",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Battle Bond turns Greninja into one of UU’s deadliest sweepers and revenge killers, as simply getting just one KO alone grants Greninja significant boosts in Special Attack and Speed to become a very difficult-to-wall sweeper that also avoids revenge killing attempts barring priority. Hydro Pump is an option over Surf for greater power, but Surf’s accuracy is much more desirable due to Greninja’s frailty and Hydro Pump's potential to be punished via a miss. Ice Beam allows Greninja to take down <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/ogerpon/uu/\" hreflang=\"en\">Ogerpon</a>. Sludge Wave is a more specific option that helps versus <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a> and <a href=\"/dex/sv/pokemon/quaquaval/uu/\" hreflang=\"en\">Quaquaval</a>, hitting them for neutral damage. Extrasensory is an option for the third moveslot to nail checks like Quaquaval and <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a>. Protect allows Greninja to block First Impression from <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a> and scout attacks from Choice item users such as <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a> and Hydrapple. It also can scout reactive Terastallizations from foes like <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a> and Tornadus-T. Water Shuriken allows Greninja to pick off faster targets like Sand Rush <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> and Choice Scarf <a href=\"/dex/sv/pokemon/mienshao/uu/\" hreflang=\"en\">Mienshao</a> as well as beating out priority moves from <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/mamoswine/uu/\" hreflang=\"en\">Mamoswine</a> and KOing them when they are at low health. Life Orb is key in granting Greninja the power needed to break past foes such as <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a>, and Assault Vest Tornadus-T despite reducing Greninja's limited longevity. Tera Water removes Greninja’s weakness to Fighting-type moves and gives it a permanently stronger Surf. Tera Stellar gives all of Greninja's moves extra power to take down Assault Vest Tornadus-T, Tera Steel Hydrapple, and Rotom-W late-game, and it gives Greninja a good shot at taking down Sand Rush Excadrill with Water Shuriken.</p>\n<p>Greninja best fits on offensive teams and is best supported by teammates that can weaken its checks and counters so that it can have an easier time cleaning up. Latios acts as a secondary wallbreaker, which can force critical damage on foes such as Skeledirge and Toxapex as well as overwhelmed shared checks like Azumarill and Assault Vest Tornadus-T. Mamoswine and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a> similarly can punch holes into the opposing team by taking down the likes of Skeledirge and <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a>, and they can wear down checks like Hydrapple for Greninja to clean late-game. Knock Off support from <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a>, Tornadus-T, and Ogerpon can cripple checks such as Slowking, Rotom-W, and Assault Vest Tornadus-T to bring them into KO range of Greninja's attacks. Strong Electric-types such as <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> and <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a> are essential in punching holes through Water-types such as <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a> and Azumarill that give Greninja trouble. Entry hazard support is key in putting foes such as Tinkaton, Rotom-W, and Toxapex into KO range, making hazard setters like the aforentioned Sandy Shocks, your own Tinkaton, and <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a> valuable teammates. Sandy Shocks pressures Tornadus-T while Tinkaton and Cobalion can punish revenge killers like Ogerpon, Choice Scarf <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a>, and Lokix if Greninja lacks Protect. Cobalion also can bring Greninja in with Volt Switch against Hydrapple and Mandibuzz to wallbreak while crippling Tornadus-T with Thunder Wave. Excadrill can remove hazards to avoid worsening the damage Greninja takes from Life Orb, and it offensively handles Rotom-W, Toxapex, and <a href=\"/dex/sv/pokemon/empoleon/uu/\" hreflang=\"en\">Empoleon</a> while also swapping into Tinkaton.</p>",
+          "abilities": [
+            "Battle Bond"
+          ],
+          "items": [
+            "Life Orb",
+            "Expert Belt"
+          ],
+          "teratypes": [
+            "Water",
+            "Stellar"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 566724,
+            "username": "Scavet"
+          },
+          {
+            "user_id": 492518,
+            "username": "HydreigonTheChild"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              },
+              {
+                "user_id": 617840,
+                "username": "eeriespell"
+              },
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Battle Bond",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Owing to its incredible Speed and unique ability, Greninja is a frightening late-game sweeper and cleaner that is capable of snowballing through teams after a one-time boost thanks to Battle Bond. Surf can be used as an alternative to Hydro Pump, trading power for more consistency. Water Shuriken provides good priority for Greninja to revenge kill weakened yet faster threats such as <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, as well as letting Greninja bypass revenge killing attempts from <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>'s Sucker Punch. Ice Beam allows Greninja to hit Dragon-type Pokemon such as <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a> and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and hit Grass-type Pokemon such as <a href=\"/dex/sv/pokemon/serperior/ou/\" hreflang=\"en\">Serperior</a> and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> much harder. Sludge Wave can be used over Ice Beam as an alternative coverage move that can notably 2HKO Assault Vest <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> after Stealth Rock damage while also having a stronger move to hit <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Tera Water enhances its Water-type STAB moves and thus improves its cleaning potential. Tera Ghost can be used an alternative Tera type that allows Greninja to bypass Dragonite's Extreme Speed and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>'s Body Press.</p>\n<p>Greninja fits best on hyper offense and rain teams as an excellent sweeper and cleaner. On hyper offense teams, leads such as <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and Deoxys-S can get up entry hazards to help Greninja grab KOs more easily. Dragonite is an excellent teammate for Greninja, as it can deal with Grass-types such as Ogerpon-W and Rillaboom, while Greninja can eliminate physically defensive Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> for it. <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> is also a good teammate, as it can help check Zamazenta, which is otherwise a dangerous threat that Greninja can let in; in return, Greninja can help check Fire- and Ground-types such as <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>. On rain teams, <a href=\"/dex/sv/pokemon/pelipper/ou/\" hreflang=\"en\">Pelipper</a> is a prime teammate, as it sets up the rain and helps Greninja get safe switch-ins with U-turn. <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> is an excellent partner that helps Greninja by keeping momentum with Flip Turn and overwhelming shared checks like Primarina and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> is a fantastic teammate for Greninja, as it can break bulky Water-type Pokemon such as Primarina and specially defensive <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and in return, Greninja can eliminate Ground-type Pokemon such as Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> for Raging Bolt. Iron Treads is a great teammate, since it can reliably clear hazards to keep Greninja healthy as well as check Raging Bolt for Greninja. Rillaboom and Ogerpon-W are also excellent partners for Greninja, threatening special walls such as Primarina and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>.</p>",
+          "abilities": [
+            "Battle Bond"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Water",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Water Shuriken",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 629771,
+            "username": "Zer0"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 177111,
+                "username": "Magcargo"
+              },
+              {
+                "user_id": 616497,
+                "username": "FayaWizard"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Dark (Scarf)</h4>\n<p>Extrasensory can be used on Greninja over a different coverage option, as it allows for a clean OHKO on <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>; it also eases the Fighting matchup in general and can even sweep said matchup in the proper conditions.</p>",
+      "movesets": [
+        {
+          "name": "Choice Scarf (Dark)",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With access to colorful coverage, Greninja makes itself a great revenge killer and potential sweeper when paired with a Choice Scarf. Ice Beam allows Greninja to muscle through opposing Ground- and Flying-type Choice Scarf users such as <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>. Low Kick lets Greninja hit targets that can easily take its other coverage such as <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Gunk Shot allows Greninja to defeat <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes after entry hazard damage, while Switcheroo lets Greninja give its Choice Scarf away to neuter defensive Pokemon such as <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and Hisuian Goodra. U-turn can be used as an alternative to Switcheroo, as it allows Greninja to retain momentum on a predicted swap without having to give away its item.</p>\n<p>Choice Band <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> paired with Greninja make for a synergistic offensive core. Meowscarada is able to handle Pokemon that can shrug off Greninja's attacks such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>, while with the appropriate coverage, Greninja can return the favor by taking care of Pokemon that can easily switch into Meowscarada such as <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> and Hatterene. <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>'s ability to set a wide array of entry hazards makes Greninja's job of being a late-game sweeper easier; it is also an important defensive backbone that can switch into Pokemon such as the aforementioned <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> and Hatterene. <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> is able to neuter specially defensive Pokemon that shrug off Greninja's attacks such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and Articuno with Knock Off and Will-O-Wisp; it also stops setup sweepers such as Corviknight and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> with Encore, all while providing an invaluable Fighting immunity. Both Nasty Plot <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> are also able to wallbreak easily, which makes Greninja's ability to sweep much easier. Darkrai can also cripple defensive Pokemon such as the aforementioned Corviknight and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> with Hypnosis, while Hydreigon can readily deal with <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>. <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a> has access to Defog, which Dark teams lack; it also checks physical setup sweepers such as Dragonite and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> with Foul Play and provides a much-needed Ground immunity for Dark teams. Alolan Muk also stomachs Fairy-type attacks and threatens most Fairy-types for Greninja. In return, Greninja is able to take care of <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and Great Tusk.</p>",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Switcheroo",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        },
+        {
+          "name": "Battle Bond (Water)",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set as we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Battle Bond"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Water Shuriken",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs (Dark)",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>By virtue of its ability to outspeed most threats in the metagame as well as a colorful moveset boosted by Protean, Greninja is one of Dark's best wallbreakers and potential cleaners. Hydro Pump not only takes out non-Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> but also guarantees a 2HKO on specially defensive <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> after Stealth Rock damage. While Hydro Pump is preferred due to its superior power, Surf can be used due to its consistency while stilling landing an OHKO on <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> after Stealth Rock. Sludge Wave eliminates Grass- and Fairy-types such as the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/clefable/monotype/\" hreflang=\"en\">Clefable</a>. Alternatively, Grass Knot targets <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a> but fails to threaten the Fairy-types that many of Greninja's teammates dislike. Ice Beam targets Dragon- and Ground-types such as <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes, and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>. Extrasensory threatens Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, and <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>.</p>\n<p>Ting-Lu provides entry hazard support in Stealth Rock and Spikes, an Electric immunity, and support against Fairy- and Dragon-types such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>; in return, Greninja can take advantage of said hazards to more easily handle Corviknight, which can remove them. <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a> provides a Ground immunity, removes hazards with Defog so Greninja can come in more safely, takes advantage of physical attackers such as <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> with Foul Play, and pivots Greninja in with U-turn. In return, it appreciates Greninja handling Rock-types such as <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a> after Sturdy is broken and Choice Band users like <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> and <a href=\"/dex/sv/pokemon/terrakion/monotype/\" hreflang=\"en\">Terrakion</a>. <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> provides a Ghost immunity to switch into predicted attacks from Great Tusk and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, softens physical attackers with Prankster Will-O-Wisp, blocks Rapid Spin to keep entry hazards, and dissuades setup with Encore. Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> pairs well with Greninja due to their shared access to Protean, allowing them to take on a multitude of threats for their teammates, with Meowscarada handling Choice Scarf Iron Valiant, Choice Specs Flutter Mane, and unboosted <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. Nasty Plot <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> is a solid wallbreaker, removing walls such as Hisuian Goodra and Corviknight.</p>",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extrasensory",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs (Water)",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Greninja makes for one of Water's best choices for a wallbreaker thanks to its great array of moveset options that are all further boosted by Protean. Furthermore, its great Speed tier allows it to outspeed and take on a myriad of threats such as unboosted <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. Dark Pulse threatens Psychic- and Ghost-types such as <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>. Ice Beam's great offensive coverage allows Greninja to threaten a myriad of threats like <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, Water Absorb <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>. Extrasensory targets Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. Sludge Wave targets both the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes and Fairy-types such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>. Alternatively, Grass Knot can also be used to hit <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>. However, Sludge Wave is preferred, since the Ogerpon formes could otherwise pose significant problems to Water teams.</p>\n<p>Greninja appreciates entry hazard support from the likes of Swampert and Gastrodon to wallbreak more easily. Notably, their entry hazards break Choice Band Dragonite's Multiscale and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>'s Sturdy so that Greninja can eliminate them immediately, and they also provide an Electric immunity to ease that matchup. Additionally, Swampert can bring Greninja in safely with Flip Turn. In return, Greninja deals with troublesome Grass-types for them like the Ogerpon formes, <a href=\"/dex/sv/pokemon/hydrapple/monotype/\" hreflang=\"en\">Hydrapple</a>, and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. Poison-type teammates like Toxapex and <a href=\"/dex/sv/pokemon/tentacruel/monotype/\" hreflang=\"en\">Tentacruel</a> make for great defensive partners, as their great bulk coupled with their typing allows them to handle Fairy-types that pressure Greninja such as Iron Valiant and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, and they are also able to melt Toxic Spikes so Greninja can come in safely. Moreover, Toxapex walls Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, which can threaten Greninja, while Tentacruel serves as great role compression, being able to stack hazards with Toxic Spikes and remove entry hazards from foes with Rapid Spin. In return, Tentacruel appreciates Greninja dealing with Poison-types that can melt its Toxic Spikes like Amoonguss, Toxapex, and Okidogi. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> and Greninja form a great wallbreaking duo, with Ogerpon-W handling bulky Fire- and Steel-types such as <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, while it appreciates Greninja taking on Toxapex and Amoonguss in return. Primarina eases the Dragon and Fighting matchups, as its great Calm Mind-boosted bulk lets it take on threats such as <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, and Iron Hands. Rain-boosted <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> provides great speed control to threaten faster threats to Greninja like Meowscarada, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, and Flutter Mane.</p>",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extrasensory",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 493260,
+            "username": "Marnie"
+          },
+          {
+            "user_id": 510532,
+            "username": "hex"
+          },
+          {
+            "user_id": 305839,
+            "username": "Rio Vidal"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 305839,
+                "username": "Rio Vidal"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 518038,
+                "username": "Ashbala"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 493260,
+                "username": "Marnie"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Battle Bond"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Steam Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Wrath",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Water Shuriken",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Battle Bond"
+          ],
+          "items": [
+            "Life Orb",
+            "Loaded Dice"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Steam Eruption",
+                "type": null
+              },
+              {
+                "move": "Water Shuriken",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Wrath",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Water Shuriken",
+                "type": null
+              },
+              {
+                "move": "Extrasensory",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Late round 1 onwards</p>\n<p><strong>Price Range</strong>: 17-18 points</p>\n<p><strong>Overview</strong>: Greninja is a highly sought-out Pokemon in Draft due to its valuable Speed tier and diverse set options. When this is combined with its strong utility, Greninja becomes an extremely flexible Pokemon that can fill multiple roles to force progress, allowing it to fit well on nearly any team. Having three usable abilities in Battle Bond, Protean, and Torrent, along with being one of the few top-tier picks that is viable with or without being a Tera Captain, makes it an extremely easy Pokemon to fit on a draft. Greninja, however, can lack initial wallbreaking power and needs to be positioned well to take advantage of its strong abilities.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Battle Bond Sweeper</strong>: Battle Bond Greninja can flourish as a cleaner if it can manage to pick off a weakened foe. Once Battle Bond is activated, it can outspeed most Speed-boosted Pokemon and utilize its wide movepool, making it even tougher to revenge kill. It can also Terastallize to break through checks or use even stronger STAB moves if it is made a Tera Captain. Water Shuriken can be used as coverage to pick off faster weakened foes and outspeed opposing revenge killers that use priority moves.</p>\n<p><strong>Wallbreaker</strong>: Greninja can have strong wallbreaking prowess thanks to Protean, as it allows Greninja to gain access to STAB damage on coverage moves, and it can further raise its damage output with damage-boosting items such as Choice Specs and Life Orb. With such a wide range of coverage moves, including Protean-boosted U-turn, it can become insanely difficult for an opponent to predict what to switch into. These sets are extremely effective revenge killers while also being able to break down walls early-game and open up a pathway for a different wincon.</p>\n<p><strong>Entry Hazard Lead</strong>: With Greninja's natural Speed, it can be used as a dedicated lead to set up Spikes or Toxic Spikes while utilizing Taunt to prevent any potential Defogger from removing the entry hazards. Once hazards are set, Greninja can use strong Protean-boosted attacks or even Torrent-boosted Surf or Hydro Pump to keep up the pressure.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Dark Pulse, Surf, Hydro Pump, Water Shuriken, Night Slash, Liquidation</p>\n<p><strong>Setup Moves</strong>: Trailblaze</p>\n<p><strong>Utility Moves</strong>: Spikes, Toxic Spikes, U-turn, Taunt, Substitute, Brick Break</p>\n<p><strong>Coverage</strong>: Ice Beam, Extrasensory, Grass Knot, Gunk Shot, Sludge Wave, Low Kick, Ice Punch, Rock Slide, Shadow Sneak, Acrobatics, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Switcheroo</strong>: Switcheroo can be paired with any of the Choice items to make Greninja a lure for any bulky Pokemon attempting to check it, as they will be hindered for the remainder of the battle.</p>\n<p><strong>Swords Dance</strong>: Physical Greninja sets are less common due to its weaker STAB attacks and slightly lower Attack stat, but against physically weaker teams, it can use Swords Dance to wallbreak, and in combination with Battle Bond, it can become incredibly difficult to revenge kill.</p>\n<p><strong>Endure</strong>: Endure can be used on Torrent sets to activate a Salac or Petaya Berry, allowing Greninja to do massive damage with its Water-type moves.</p>\n<h3>Common Items</h3>\n<p><strong>Life Orb</strong>: Life Orb can be used to effectively use Greninja's coverage for wallbreaking or sweeping. This is especially useful on Battle Bond sets, giving Greninja extra wallbreaking power without needing to Choice-lock it.</p>\n<p><strong>Choice Specs</strong>: Choice Specs allows Greninja to punch holes into bulkier Pokemon and maximize its damage output, having great synergy with Protean.</p>\n<p><strong>Heavy-Duty Boots</strong>: Greninja uses Heavy-Duty Boots to sustain its HP while pivoting, letting it revenge kill foes while staying out of KO range of priority moves.</p>\n<p><strong>Focus Sash</strong>: On lead sets, Focus Sash guarantees setting entry hazards while letting Greninja dish out a strong Torrent-boosted Water-type attack to force progress.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Scarf</strong>: Having a Choice Scarf of your own can be used to revenge KO foes that boost their speed or opposing Choice Scarf users. With Switcheroo, it can also cripple bulkier foes.</p>\n<p><strong>Other Damage-boosting Items</strong>: In scenarios where Greninja will mainly be using a single attack against teams that lack resistance to a specific type, damage-boosting items including Mystic Water, Black Glasses, and Never-Melt Ice are solid alternatives. Sets that wish to utilize Greninja's great super effective coverage can also use Expert Belt as opposed to Life Orb to avoid recoil.</p>\n<p><strong>Petaya Berry / Salac Berry</strong>: Petaya and Salac Berry can be activated with Substitute or Endure on Torrent or Battle Bond sets to more effectively set up sweeps.</p>\n<p><strong>Choice Band</strong>: Choice Band is less popular in comparison to Choice Specs on Greninja; however, it can be used against teams that are more susceptible to its physical coverage such as Protean-boosted U-turn.</p>\n<h3>Tera</h3>\n<p>Although Greninja does not require being a Tera Captain, it can be a great choice on drafts that don't have other high-cost partners that rely on Terastallizing. If Greninja is chosen to Terastallize, its damage on both wallbreaking and sweeper sets can be increased while also making it harder for foes to revenge kill it if it sheds its original weaknesses. Terastallizing removes Greninja's initial STAB combination on Protean sets as well as the ability to change its type, meaning it will generally only plan to Terastallize with sets using Battle Bond. Tera Water and Dark are the main options, as they further increase Greninja's STAB move damage, allowing Battle Bond sets to claim KOs that they would struggle to otherwise. Tera Ice and Poison are less common options that can be used to strengthen coverage moves. Other Tera types like Tera Ground and Electric can be used to gain additional coverage with Tera Blast while avoiding Thunder Wave.</p>\n<h3>Draft Strategy</h3>\n<p>Greninja is an extremely flexible Pokemon as a fast sweeper, wallbreaker, and revenge killer, making it a great option to center a draft's offense late in the first round or early in the second. Many hyper offensive teams match Greninja’s playstyle, but it also fits well on balance teams. Since Greninja can excel with or without Terastallizing, it works well with a variety of teammates, allowing most other top-tier Pokemon to be great partners regardless of if they require Terastallization.</p>\n<p><strong>Wallbreakers</strong>: Greninja's low unboosted damage output, even with Protean, means it can struggle to break through certain defensive cores without support from its team. This makes strong wallbreakers such as <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, which specifically greatly appreciates the pressure it applies to Ground-type foes, fantastic partners. Physical wallbreakers like <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a> can help it break through opposing special walls, opening up Greninja to clean late-game.</p>\n<p><strong>Entry Hazard Setters</strong>: Although Greninja has access to Spikes, it often wants to run more offensive sets that cannot fit the move. With its low power, the chip damage from entry hazards is incredibly useful to tip the scales in a battle where Greninja will be able to pick up a KO after foes are weakened by hazard damage, allowing Battle Bond to shine. Partners including <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a> have access to Spikes, reducing the pressure for Greninja to use it.</p>\n<p><strong>Entry Hazard Removal</strong>: Greninja will often be pivoting throughout the match, and Battle Bond sets that won't pivot as frequently often want the power boost of Life Orb. With entry hazards on the field, Greninja's longevity with offensive sets can plummet quickly without Heavy-Duty Boots. Due to this, drafting hazard removers like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> allows it to be much more flexible in which item it uses.</p>\n<p><strong>Pivots</strong>: Greninja’s access to U-turn allows it to be a great pivot, and when paired with entry hazards and other slow pivots to bring it in safely, a strong VoltTurn playstyle can be established that will be difficult for opponents to answer. Greninja itself can pivot to alternative wallbreakers, but having partners to pivot into Greninja is appreciated. Slower pivots like <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a> can bring in Greninja safely to keep up offensive pressure.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Special Walls</strong>: Greninja can be weak if it has no damage-boosting item, especially on Battle Bond sets prior to claiming a KO. If naturally bulky Pokemon like <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a>, and Rotom-W switch in, they can freely absorb hits and force out Greninja, preventing it from being able to ever activate its ability.</p>\n<p><strong>Status</strong>: If Greninja is ever statused by Toxic or switching in with Toxic Spikes present, it’s automatically put on a timer, and with entry hazards up, it can become even harder to try and position it well for securing KOs. Greninja relies a lot on its Speed, meaning paralysis can cripple it almost entirely, allowing it to be more easily offensively checked.</p>\n<p><strong>Speed Control / Priority Move Users</strong>: Greninja can suffer from getting offensively checked by naturally faster Pokemon, strong Choice Scarf users, and priority move users, which prevent it from getting the Battle Bond boost. Foes with strong priority including Grassy Glide <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>, Thunderclap Raging Bolt, and Vacuum Wave <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> are difficult to deal with, even with priority of its own in Water Shuriken.</p>\n<p><strong>Chip Damage</strong>: Greninja is very frail and often pivots many times in a game depending on its set. Due to this, it is often chipped down throughout a match by entry hazards if it is lacking Heavy-Duty Boots or by other sources of chip damage. This can severely cut down on Greninja's effectiveness, as its ability to pivot is limited, and it risks falling into range of priority attacks.</p>\n<p><strong>Lures</strong>: Greninja can be lured in and surprised by unexpected resistance Berries, as it often relies on predictable coverage to deal with certain threats. This can lead to Protean sets being picked off or Battle Bond sets being stopped in their tracks. Common resistance Berries foes may use as lures against Greninja are Yache, Colbur, Passho, Rindo, and Kebia Berries.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 546554,
+            "username": "blittius"
+          },
+          {
+            "user_id": 617175,
+            "username": "E Man"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hydro Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Extrasensory",
+                "type": null
+              },
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Extrasensory",
+                "type": null
+              },
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 8,
+              "spd": 64,
+              "spe": 184
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Hasty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Battle Bond",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Battle Bond"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Water Shuriken",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs (Water)",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its exceptional movepool and Protean to further bolster its power, Choice Specs Greninja makes for an incredible wallbreaker for Water teams, eliminating threats like <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a>, <a href=\"/dex/sv/pokemon/sinistcha/national-dex-monotype/\" hreflang=\"en\">Sinistcha</a>, and <a href=\"/dex/sv/pokemon/latias-mega/national-dex-monotype/\" hreflang=\"en\">Mega Latias</a> for the teams. Dark Pulse targets Ghost- and Psychic-types like <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/latios/national-dex-monotype/\" hreflang=\"en\">Latios</a>. Sludge Wave provides crucial coverage, threatening Fairy- and Grass-types like <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, Tapu Bulu, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>. In addition to targeting Grass-types, Ice Beam also targets Dragon- and Flying-types like <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>. Extrasensory deals with Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, and non-Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex-monotype/\" hreflang=\"en\">Urshifu-R</a> and 2HKOes Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>. When boosted by rain, Hydro Pump provides Greninja with an incredible nuke, allowing it to OHKO threats like <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a> and <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> and 2HKO <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a> and non-Assault Vest <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>. Alternatively, Switcheroo can also be used in the last moveslot, allowing Greninja to punish would-be switch-ins like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Physical attackers like <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>, Choice Band <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a>, Urshifu-R, and Ogerpon-W can eliminate special walls like Hisuian Goodra and Alolan Muk. With their secondary Ground typing, <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a> and Mega Swampert can handle Electric-types like Iron Hands and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex-monotype/\" hreflang=\"en\">Raging Bolt</a> and provide Stealth Rock support and safe entry to Greninja with Flip Turn. Mega Swampert and Barraskewda also provide valuable speed control, threatening foes like <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>, <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, and Choice Scarf users like <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a>, with Barraskewda even outspeeding Choice Scarf variants of <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a>. Greninja appreciates Fighting-type coverage from teammates like Urshifu-R, Ogerpon-W, and Barraskewda to break through foes like Ferrothorn and <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>. Ogerpon-W can also remove bulky Water-types like Swampert and <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>. <a href=\"/dex/sv/pokemon/pelipper/national-dex-monotype/\" hreflang=\"en\">Pelipper</a> boosts the power of Greninja's Hydro Pump with its rain, can also provide a safe entry to Greninja with U-turn, and removes entry hazards with Defog. Toxapex offers an important neutrality to Grass and a resistance to Fighting, which allows it to take on foes like Meowscarada and Iron Valiant. Additionally, Toxapex provides valuable team support by setting up Toxic Spikes. <a href=\"/dex/sv/pokemon/empoleon/national-dex-monotype/\" hreflang=\"en\">Empoleon</a> helps stave off threats like Kyurem and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, provides Stealth Rock support and safe entry to Greninja with its slow Flip Turn, and serves as a Defogger.</p>",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extrasensory",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs (Dark)",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Greninja is one of Dark's best wallbreakers thanks to its amazing Speed and coverage, which is further boosted by Protean. Hydro Pump targets Fire-, Rock-, and Ground-types like <a href=\"/dex/sv/pokemon/torkoal/national-dex-monotype/\" hreflang=\"en\">Torkoal</a>, <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>. Sludge Wave threatens Grass- and Fairy-types such as <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a>, <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>, and non-Choice Scarf <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>. Alternatively, Dark Pulse nails Ghost- and Psychic-types such as <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/zoroark-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Zoroark</a>, and <a href=\"/dex/sv/pokemon/slowbro/national-dex-monotype/\" hreflang=\"en\">Slowbro</a>, while Switcheroo lets Greninja weaken special walls that it cannot threaten otherwise like <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a>. Sludge Wave is the preferred option out of the three, however, due to nailing threats that many of Greninja's teammates struggle with like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a> and non-Choice Scarf <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>. Ice Beam allows Greninja to handle Dragon- and Flying-types like <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/latias-mega/national-dex-monotype/\" hreflang=\"en\">Mega Latias</a>, and the <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> formes. Extrasensory targets Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a>, <a href=\"/dex/sv/pokemon/okidogi/national-dex-monotype/\" hreflang=\"en\">Okidogi</a>, and <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a>. Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> provides speed control and forms a Protean core with Greninja, with it outspeeding and taking on <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, Choice Scarf <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a>, and Choice Scarf Iron Valiant. <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a> sets up entry hazards to aid Greninja's wallbreaking, giving Greninja a good chance to OHKO <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a> after Stealth Rock damage, and it also handles Steel-types such as <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, Gholdengo, and <a href=\"/dex/sv/pokemon/iron-crown/national-dex-monotype/\" hreflang=\"en\">Iron Crown</a>. Furthermore, it provides an Electric immunity, which allows it to take on Electric-types like <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, terrain-boosted <a href=\"/dex/sv/pokemon/raichu-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Raichu</a>, and <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a>. Choice Scarf <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-monotype/\" hreflang=\"en\">Mandibuzz</a>, and <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Moltres</a> aid Greninja in the Ground matchup due to their immunities. Hydreigon also deals with Choice Scarf Gholdengo and Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/national-dex-monotype/\" hreflang=\"en\">Kleavor</a> with its STAB moves; Mandibuzz removes entry hazards with Defog and pivots Greninja in with U-turn; and Galarian Moltres can sweep late-game with Agility and Nasty Plot after Greninja wallbreaks. Alolan Muk's great special bulk helps Greninja deal with Fairy-types like Tapu Koko, Tapu Lele, and <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a>. In return, Alolan Muk appreciates Greninja taking on Ground-types like <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> and Garchomp. Greninja's wallbreaking opens the door for sweeping and cleaning opportunities from the likes of Galarian Moltres and <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a>.</p>",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Switcheroo",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extrasensory",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Water)",
+          "pokemon": "Greninja",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Protean"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 594972,
+            "username": "Murphy Lawden"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Blizzard",
+    "Bounce",
+    "Brick Break",
+    "Chilling Water",
+    "Counter",
+    "Dark Pulse",
+    "Dig",
+    "Double Team",
+    "Endure",
+    "Extrasensory",
+    "Facade",
+    "False Swipe",
+    "Fling",
+    "Giga Impact",
+    "Grass Knot",
+    "Growl",
+    "Gunk Shot",
+    "Haze",
+    "Helping Hand",
+    "Hydro Cannon",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Lick",
+    "Liquidation",
+    "Low Kick",
+    "Low Sweep",
+    "Mud Shot",
+    "Mud-Slap",
+    "Night Slash",
+    "Pound",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Rest",
+    "Retaliate",
+    "Rock Slide",
+    "Rock Tomb",
+    "Role Play",
+    "Round",
+    "Shadow Sneak",
+    "Sleep Talk",
+    "Sludge Wave",
+    "Smack Down",
+    "Smokescreen",
+    "Snowscape",
+    "Spikes",
+    "Substitute",
+    "Surf",
+    "Swift",
+    "Switcheroo",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Toxic Spikes",
+    "Trailblaze",
+    "Upper Hand",
+    "U-turn",
+    "Waterfall",
+    "Water Gun",
+    "Water Pledge",
+    "Water Pulse",
+    "Water Shuriken",
+    "Weather Ball"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Dracozolt",
+  "alias": "dracozolt",
+  "types": [
+    "Electric",
+    "Dragon"
+  ],
+  "stats": [
+    90,
+    100,
+    90,
+    80,
+    70,
+    75
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sand Rush",
+          "pokemon": "Dracozolt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sand Rush"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bolt Beak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naughty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

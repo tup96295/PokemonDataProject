@@ -1,0 +1,505 @@
+{
+  "name": "Bombirdier",
+  "alias": "bombirdier",
+  "types": [
+    "Flying",
+    "Dark"
+  ],
+  "stats": [
+    70,
+    103,
+    85,
+    60,
+    85,
+    82
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Bombirdier",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Bombirdier is one of PU's best offensive pivots and Knock Off spreaders thanks to its great offensive typing, spammable STAB moves, wide variety of utility options, and a great defensive profile allowing it to take advantage of Pokemon like <a href=\"/dex/sv/pokemon/decidueye/pu/\" hreflang=\"en\">Decidueye</a>, <a href=\"/dex/sv/pokemon/golurk/pu/\" hreflang=\"en\">Golurk</a>, and <a href=\"/dex/sv/pokemon/gastrodon/pu/\" hreflang=\"en\">Gastrodon</a>. Sucker Punch allows Bombirdier to pick off weakened faster threats and setup sweepers such as Choice Scarf <a href=\"/dex/sv/pokemon/staraptor/pu/\" hreflang=\"en\">Staraptor</a>, <a href=\"/dex/sv/pokemon/delphox/pu/\" hreflang=\"en\">Delphox</a>, and <a href=\"/dex/sv/pokemon/toxtricity/pu/\" hreflang=\"en\">Toxtricity</a>. Bombirdier has a wide variety of options in its final slot; Taunt allows Bombirdier to deny setup attempts from Pokemon like <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a> and <a href=\"/dex/sv/pokemon/scream-tail/pu/\" hreflang=\"en\">Scream Tail</a>, hazard-setting attempts from <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a> and <a href=\"/dex/sv/pokemon/gligar/pu/\" hreflang=\"en\">Gligar</a>, Defog from <a href=\"/dex/sv/pokemon/altaria/pu/\" hreflang=\"en\">Altaria</a>, and recovery attempts from Pokemon like the beforementioned Altaria, <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a>, and <a href=\"/dex/sv/pokemon/palossand/pu/\" hreflang=\"en\">Palossand</a>. Stealth Rock allows Bombirdier to support its team with entry hazards and allows it to free up a moveslot for teammates like <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> and Gastrodon. Roost allows Bombirdier to capitalize on the switches it forces on Pokemon like <a href=\"/dex/sv/pokemon/bronzong/pu/\" hreflang=\"en\">Bronzong</a> and Decidueye and recover off damage and Brave Bird recoil. U-turn or Parting Shot allows Bombirdier to safely pivot into teammates, but both moves can be hard to fit over other options. Tera Dark boosts the power of Knock Off and Sucker Punch, allowing Bombirdier to achieve rolls such as OHKOing Bronzong and Toxtricity with minimal chip and 2HKOing Altaria while also removing its weakness to Electric- and Rock-type attacks, which is valuable against Pokemon like <a href=\"/dex/sv/pokemon/kilowattrel/pu/\" hreflang=\"en\">Kilowattrel</a> and <a href=\"/dex/sv/pokemon/minior/pu/\" hreflang=\"en\">Minior</a>.</p>\n<p>Bombirdier finds itself on a wide variety of teams ranging from bulky balance to hyper offense. Although it resists Knock Off, Bombirdier appreciates fellow Dark-resistant Pokemon such as <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a> and <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a> that can switch into Knock Off for it, as Bombirdier requires Heavy-Duty Boots to be an effective pivot. Bombirdier's ability to take out walls like <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a>, Gastrodon, and <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a> allows for Pokemon checked by these threats such as Calm Mind <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a>, <a href=\"/dex/sv/pokemon/tatsugiri/pu/\" hreflang=\"en\">Tatsugiri</a>, and Decidueye to become much more potent offensive threats. Bombirdier struggles with bulkier walls who can cripple it with status like <a href=\"/dex/sv/pokemon/bellibolt/pu/\" hreflang=\"en\">Bellibolt</a> and <a href=\"/dex/sv/pokemon/coalossal/pu/\" hreflang=\"en\">Coalossal</a>, so Pokemon who can check these threats like Mudsdale, <a href=\"/dex/sv/pokemon/goodra/pu/\" hreflang=\"en\">Goodra</a>, and Tatsugiri make good partners. While it is immune to Ground-type attacks, Bombirdier should be paired with other Pokemon that resist Ground such as Decidueye and Bronzong because it cannot reliably take on Ground-types such as Gligar and Mudsdale on its own.</p>",
+          "abilities": [
+            "Big Pecks"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Bulky Utility",
+          "pokemon": "Bombirdier",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Big Pecks"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Parting Shot",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 220,
+              "spe": 40
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Bombirdier",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Rocky Payload"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Blast",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Parting Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 414072,
+                "username": "Yunie"
+              },
+              {
+                "user_id": 400292,
+                "username": "asa"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Stealth Rock",
+          "pokemon": "Bombirdier",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>U-turn provides unwallable pivoting, but Parting Shot can be used to lower the foe's offenses but gets stopped by Magic Bounce <a href=\"/dex/sv/pokemon/espeon/nu/\" hreflang=\"en\">Espeon</a> and Clear Body <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a> and <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a>. The Speed EVs help to outpace Adamant <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, letting Bombirdier use Knock Off and pivot before getting attacked.</p>",
+          "abilities": [
+            "Big Pecks"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Ground",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Parting Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 180,
+              "spe": 80
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Entry Hazard Support (Flying)",
+          "pokemon": "Bombirdier",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Big Pecks"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Parting Shot",
+                "type": null
+              },
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Bombirdier is an oft-overlooked low-tier packed with utility and role compression that can aid teams lacking certain tools. It has multiple qualities that make it stand out among similarly priced options, such as three solid offensive STAB types in Dark, Flying, and Rock thanks to its signature ability, two sought-after immunities, and a plethora of utility moves to aid its team. Unfortunately, Bombirdier's Stealth Rock weakness combined with its lackluster stats leaves it wanting multiple items to help it deal damage, survive multiple hits, or outspeed opposing threats without ever being stellar at anything.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Utility</strong>: Bombirdier offers multiple strong support options to aid its team without necessarily dealing damage. Knock Off is invaluable at removing opposing items, Stealth Rock relieves higher-tier teammates of being forced to spend an extra moveslot, Parting Shot can allow its teammates to more safely switch in and potentially set up on weakened foes, and Taunt can prevent defensive foes from setting up or recovering.</p>\n<p><strong>Choiced Attacker</strong>: Bombirdier's most straightforward role is using its passable Attack and Speed stats combined with either Choice Band or Choice Scarf to pressure foes with its offensive coverage combined with U-turn or Parting Shot to maintain momentum against typical checks. Choice Scarf is preferred against faster, more offensive teams as well as in a cleaner role, while Choice Band can help Bombirdier wallbreak with its good STAB options and weaken slower, bulkier compositions.</p>\n<p><strong>Dedicated Lead</strong>: Bombirdier has multiple tools that allow it to be an atypical but reliable lead Stealth Rock setter. With Focus Sash or Endure, it can utilize Endeavor to keep foes at low HP, Taunt to prevent any setup or entry hazards from a slower foe, and Memento to block any hazard removal and maintain momentum, assuming it is not hit with a faster Taunt or common multi-hit move options.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Brave Bird, Knock Off, Sucker Punch</p>\n<p><strong>Setup Moves</strong>: With those defenses? In this economy?</p>\n<p><strong>Utility Moves</strong>: Stealth Rock, Parting Shot, U-turn, Taunt, Roost, Whirlwind, Memento, Substitute, Foul Play</p>\n<p><strong>Coverage</strong>: Stone Edge, Rock Blast, Rock Slide, Drill Run</p>\n<h3>Niche Moves</h3>\n<p><strong>Dual Wingbeat / Acrobatics</strong>: Although Brave Bird is the most reliable Flying-type attack Bombirdier has access to, it doesn't always want to take recoil damage. Acrobatics can be used alongside consumable items, while Dual Wingbeat can break through opposing Focus Sash leads like <a href=\"/dex/sv/pokemon/ribombee/draft/\" hreflang=\"en\">Ribombee</a> and <a href=\"/dex/sv/pokemon/breloom/draft/\" hreflang=\"en\">Breloom</a> and provide decent damage when a held item is preferred.</p>\n<p><strong>Heat Wave / Icy Wind</strong>: Although Bombirdier's Special Attack stat is pitiful, certain foes that are incredibly weak to Fire or Ice, like <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, respectively, can be caught off guard by Bombirdier's coverage.</p>\n<p><strong>Tailwind</strong>: Tailwind is Bombirdier's only reliable way of increasing Speed for itself and its teammates, allowing it to outrun and KO frail foes or pivot into a teammate with multiple Tailwind turns remaining.</p>\n<p><strong>Endeavor + Endure</strong>: Combined with Focus Sash, Custap Berry, or Salac Berry on dedicated lead sets, Bombirdier can significantly weaken foes that it normally struggles to damage.</p>\n<p><strong>Hone Claws / Curse</strong>: Rarely, Bombirdier may be able to set up on passive foes and take advantage of teams that cannot handle its coverage with boosted Attack. Hone Claws is better when Bombirdier's Speed is important and helps it land its Rock-type coverage moves more reliably, while Curse also boosts its Defense to make Roost more viable and still lets Bombirdier hit faster foes with Sucker Punch.</p>\n<p><strong>Rock Tomb</strong>: Rock Tomb is weaker than Bombirdier's other tertiary STAB options, but its accuracy and secondary effect of dropping foes' Speed makes it a preferred option in some matchups.</p>\n<p><strong>Feather Dance</strong>: Feather Dance can help Bombirdier beat slower physical attackers one-on-one alongside Roost and force its foes out, allowing it to remove more items with Knock Off or gain momentum.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Bombirdier is relatively frail and weak to Stealth Rock, so reducing its damage taken upon switching in can be vital to functioning as a pivot.</p>\n<p><strong>Choice Scarf</strong>: Bombirdier can utilize a Choice Scarf to outrun typically faster foes and either pressure a KO or reliably pivot with either U-turn or Parting Shot into a better matchup.</p>\n<p><strong>Focus Sash</strong>: Lead Bombirdier can combine Focus Sash with other utility options to become a usable entry hazard lead to support offensive teams.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Band</strong>: Bombirdier's strong offensive coverage and priority Sucker Punch can be boosted significantly by Choice Band, allowing it to pick up KOs or deal significantly more damage to walls than it would otherwise be able to.</p>\n<p><strong>Damage-boosting Items</strong>: Life Orb, Black Glasses, Sharp Beak, and Hard Stone can all be used to increase Bombirdier's damage output without locking it into a single move.</p>\n<p><strong>Custap Berry / Salac Berry</strong>: For sets utilizing Endure, Bombirdier can guarantee one additional use of Stealth Rock, Knock Off, or Endeavor with Custap Berry.</p>\n<h3>Tera</h3>\n<p>Bombirdier should never be a priority option as a Tera Captain, but rather a support to teams with other strong Tera Captain options. Although it appreciates added damage on its STAB moves with Tera Flying, Dark, and Rock, its defensive profile is too unreliable to utilize defensive Tera types outside of removing its Stealth Rock weakness.</p>\n<h3>Draft Strategy</h3>\n<p>Bombirdier can help patch teams that are missing utility and immunities that would otherwise be difficult to fill late in a draft; however, it should not be valued as a core component or requirement of any draft but instead as a luxury on an already self-sufficient team. At its best, Bombirdier is brought to games to help patch specific matchups and set up the rest of its team for success or benched in games where it forces otherwise unnecessary coverage.</p>\n<p><strong>Wallbreakers / Setup Sweepers</strong>: Bombirdier has multiple pivoting and support options to enable wallbreakers like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/volcarona/draft/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a>. It opens up favorable positions for its teammates to wallbreak or sweep, sets up Stealth Rock for invaluable chip damage, and removes items to decrease the longevity and defensive capabilities of foes.</p>\n<p><strong>Entry Hazard Removers</strong>: Bombirdier appreciates item freedom for offensive sets, so entry hazard removal options like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a> can allow it to bring more impactful items than Heavy-Duty Boots.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Stealth Rock</strong>: Common Stealth Rock setters like <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a>, and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> have very positive offensive and defensive matchups against Bombirdier, both forcing it out and setting up entry hazards to significantly damage it when it comes back in. Slow, passive Stealth Rock setters can also run Mental Herb to shut down Bombirdier's Taunt.</p>\n<p><strong>Faster Wallbreakers</strong>: Without a Choice Scarf, Bombirdier suffers against faster Pokemon that can hit it for super effective damage before it can move, like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>. It can also struggle in its more defensive roles, since its low Speed can leave it prone to fast Taunt or multi-hit moves.</p>\n<p><strong>Bulky Foes</strong>: Bombirdier's primary non-Rock-type coverage options each have a drawback; Knock Off gets weaker after removing the foe's item, and Brave Bird will consistently make Bombirdier damage itself over time. Foes that can take multiple hits and recover the damage like <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> can consistently switch in with no real downside outside of being pivoted on.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 614716,
+            "username": "Xand"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 514695,
+                "username": "Addison"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Air Cutter",
+    "Air Slash",
+    "Brave Bird",
+    "Curse",
+    "Dark Pulse",
+    "Drill Run",
+    "Dual Wingbeat",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Feather Dance",
+    "Fly",
+    "Foul Play",
+    "Giga Impact",
+    "Heat Wave",
+    "Hone Claws",
+    "Hurricane",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Icy Wind",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Memento",
+    "Nasty Plot",
+    "Parting Shot",
+    "Payback",
+    "Peck",
+    "Pluck",
+    "Power Gem",
+    "Power Trip",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Throw",
+    "Rock Tomb",
+    "Roost",
+    "Sandstorm",
+    "Scary Face",
+    "Sky Attack",
+    "Sleep Talk",
+    "Snarl",
+    "Stealth Rock",
+    "Stone Edge",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Torment",
+    "U-turn",
+    "Whirlwind",
+    "Wing Attack"
+  ]
+}

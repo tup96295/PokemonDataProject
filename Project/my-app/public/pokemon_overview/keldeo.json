@@ -1,0 +1,1768 @@
+{
+  "name": "Keldeo",
+  "alias": "keldeo",
+  "types": [
+    "Water",
+    "Fighting"
+  ],
+  "stats": [
+    91,
+    72,
+    90,
+    129,
+    90,
+    108
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              },
+              {
+                "move": "Secret Sword",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water",
+            "Electric",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Life Orb",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Water",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              },
+              {
+                "move": "Secret Sword",
+                "type": null
+              },
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Secret Sword",
+                "type": null
+              },
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Boots Attacker",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Keldeo is a great offensive Water-type for balance and bulky offense teams, finding a niche over similar offensive Water-types like <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> thanks to its Fighting typing and access to Vacuum Wave. Aura Sphere is preferred over Secret Sword, as it allows Keldeo to break past <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, but Secret Sword can be used to do more damage to some special walls like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>. Vacuum Wave is an amazing move, giving Keldeo the ability to pick off many Pokemon including <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>. Flip Turn rounds out its moveset as a very safe option to maintain momentum, but it is notably punishable by Ogerpon-W. Tera Water boosts the power of Surf and sheds its Fairy weakness, allowing it to pick off <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and secure an OHKO on specially defensive <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> after Stealth Rock.</p>\n<p>Keldeo fits on balance and bulky offense teams that appreciate its wallbreaking capabilities. Hazard stacking cores are essential to Keldeo teams, as it often finds itself unable to break bulkier teams on its own when Heavy-Duty Boots are intact or hazards remain off the field. Gliscor fits especially well with Keldeo when running Knock Off + Swords Dance sets, as it provides a great wincon into bulky teams while appreciating Keldeo's ability to heavily threaten offensive teams that can overwhelm Gliscor with direct damage. Gliscor and Ting-Lu are both immune to Electric, guarding Keldeo from threats like <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, while <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> can check physical threats attempting to use Keldeo as safe entry point like Ogerpon-W and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. All three Spikes users appreciate Keldeo pressuring Spikes-immune Pokemon like Gliscor and Clefable and Keldeo's ability to use Flip Turn against its counters like Alomomola and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> to give good opportunities for them to set up Spikes. Stealth Rock users like Clefable, <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, and Ting-Lu are also crucial to ensure maximum damage from entry hazards. Tinkaton in particular is amazing, as its Fairy / Steel typing allows it to check Pokemon that heavily threaten Keldeo like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, Iron Valiant, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> if its Air Balloon is still intact, while its Encore serves as a backup check to Kingambit if it uses Tera Ghost on Keldeo's Vacuum Wave. Tinkaton loves Keldeo threatening Ground- and Fire-types like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> that heavily threaten it. Knock Off users complete hazard cores by removing Heavy-Duty Boots for Keldeo, and Knock Off users that synergize with Keldeo include Clefable and Weavile. Keldeo appreciates how Weavile and Calm Mind + Knock Off Clefable can wear down defensive cores featuring Pokemon like Alomomola, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>. Ogerpon-W is a huge threat for Keldeo, as its Water immunity, access to Knock Off, and higher base Speed can easily lead to Ogerpon-W offensively overwhelming Keldeo and winning the game. To counteract this, Ogerpon-W answers like Dragonite, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> are greatly appreciated. Dragonite is an especially good partner, as its Extreme Speed covers threats that Keldeo cannot revenge kill with Vacuum Wave such as Iron Valiant and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, while Keldeo provides a check to Weavile and threatens bulky Ground-types like Gliscor, Ting-Lu, and Great Tusk. All-out attacking Zamazenta provides excellent speed control, appreciates Keldeo wearing down Dragapult, and is a massive threat for offense teams that can overwhelm Keldeo. <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>, Pecharunt, and Dragapult can help Keldeo by being solid spinblockers, allowing hazards to stay up so Keldeo can threaten bulkier cores featuring Pokemon like Assault Vest Primarina, Assault Vest Alomomola, and Toxapex. Sinistcha can additionally serve as a potent win condition that finds opportunities to set up Calm Mind on Water-types Keldeo draws in, while Pecharunt can bring Keldeo in by pivoting out of Ground-types like Ting-Lu and Gliscor and check Pokemon like Ogerpon-W and Dragonite for Keldeo. Pecharunt also appreciates Keldeo's ability to threaten the aforementioned Dark-types and provides an answer to Iron Valiant without Shadow Ball, Dragonite, and Ogerpon-W. Most Dragapult sets are major threats to bulkier teams that Keldeo can struggle with, and it appreciates Keldeo being able to threaten Dark-types like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, Ting-Lu, and Kingambit.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              },
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Keldeo is an effective wallbreaker that can leverage its high Special Attack, decent Speed, and unique STAB move options to break holes into the opposition. Surf is usually preferred for its higher accuracy, but Hydro Pump can be chosen to get a guaranteed OHKO on <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, a chance to OHKO <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and a guaranteed OHKO on <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> after Stealth Rock. Both Secret Sword and Aura Sphere OHKO threats like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. Secret Sword also yields great damage against <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, Tera Dark or Steel <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, Tera Water <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and Assault Vest <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, while Aura Sphere hits defensive <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> significantly harder than Secret Sword would. Vacuum Wave grants Keldeo the opportunity to pick off weakened and faster foes like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Darkrai, Weavile, and Dragon Dance-boosted Kyurem; it also gives Keldeo an edge over Kingambit trying to use Sucker Punch. Flip Turn allows Keldeo to pivot out of unfavorable matchups like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, Alomomola, <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Icy Wind directly threatens switch-ins like Dragonite, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>. Tera Water is usually preferred, as it can give a chance to OHKO targets like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and Enamorus with Surf while also removing Keldeo's Fairy weakness for the latter. Tera Water lets Hydro Pump OHKO <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, offensive <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>. Tera Fighting gives a Keldeo the opportunity to OHKO Ogerpon-W with Secret Sword and Darkrai with Vacuum Wave. Tera Blast Electric can be used to target foes like Assault Vest Alomomola, Primarina, and Dondozo.</p>\n<p>This particular Keldeo set finds its niche on bulky offense teams that appreciate its ability to threaten key defensive Pokemon like Ting-Lu, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>. Keldeo appreciates teammates that bring it in safely to effectively wallbreak or handle foes such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Dragapult, and Choice Scarf Enamorus, which outpace and threaten it. In addition to pivoting, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> can provide a reliable answer to threats such as Iron Valiant and Choice Scarf Enamorus. It also provides Future Sight, which discourages checks like Toxapex from coming in on Keldeo. Zapdos provides a defensive answer to Grass-type Pokemon that look to revenge kill Keldeo. Dragapult is an effective teammate for Keldeo, as it can bring Keldeo in versus Garganacl and Ting-Lu and take on foes that try to advantage of a Choice-locked Keldeo, like Raging Bolt, Dragonite, and Kyurem. Garganacl and Ting-Lu can serve as effective partners due to their ability to answer Dragapult. Choice Scarf Gholdengo can provide speed control and cripple walls with Trick, pressuring common defensive cores in conjunction with Keldeo's offensive prowess. Dragonite can help answer Ogerpon-W for Keldeo; in return, Keldeo can punch through walls like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Ting-Lu for Dragonite. Keldeo also appreciates entry hazard support from partners like Ting-Lu, <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> to further enhance its wallbreaking opportunities, reaching feats such as a guaranteed OHKO on Garganacl with Surf after Stealth Rock. Keldeo can easily be worn down by hazards; therefore, it values entry hazard removal from allies like Great Tusk, Iron Treads, and Corviknight.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              },
+              {
+                "move": "Icy Wind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542295,
+            "username": "Blaze"
+          },
+          {
+            "user_id": 612907,
+            "username": "sequoia"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 521637,
+                "username": "Shaymin Sky"
+              },
+              {
+                "user_id": 571069,
+                "username": "Dead by Daylight"
+              },
+              {
+                "user_id": 518682,
+                "username": "alkazoth"
+              },
+              {
+                "user_id": 548068,
+                "username": "Setsu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 391343,
+                "username": "EthanLac"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs (Water)",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Keldeo is a formidable wallbreaker for Water teams, easily dismantling Flying and Steel defensive cores without setup, which makes it terrifying from the get-go. Hydro Pump 2HKOes popular walls such as specially defensive <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>. Surf is an alternative that ensures consistency against Pokemon with Pressure. Secret Sword sets Keldeo apart from other Water-type attackers by allowing Keldeo to OHKO specially defensive targets such as <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and to 2HKO <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>. Vacuum Wave can pick off weakened foes such as <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. Lastly, Icy Wind targets <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> and prevents popular Choice Specs users like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> from switching into Keldeo.</p>\n<p>Keldeo appreciates entry hazard setters such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>, as they bolster Keldeo's attacking prowess and are immune to Electric. Swampert can also run utility moves such as Knock Off and Flip Turn, which makes it the ideal partner to maintain pressure. <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> provides a useful Fairy-resistant option for <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>'s Moonblast, removes Toxic Spikes from the field, and has access to utility options such as Toxic, Toxic Spikes, and Haze to support Keldeo. <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> can set up Spikes, provides a useful Psychic immunity, and can remove foes such as Dragapult and Latios with Sucker Punch, which reduces the need for prediction on Keldeo's part. Other excellent offensive teammates include <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>; Ogerpon-W can deal with Water Absorb <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> against which Keldeo is powerless, and Greninja can address any issue Keldeo faces thanks to its huge offensive movepool. Greninja's Sludge Wave hits Grass- and Fairy-types that handle Keldeo like the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, Primarina, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, while Extrasensory and Ice Beam can deal with Poison-, Flying-, and Dragon-types. Finally, Keldeo appreciates rain from Drizzle <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, as it allows Hydro Pump to OHKO defensive Gholdengo and Corviknight, while Pelipper's Hurricane can deal with Grass-type foes such as <a href=\"/dex/sv/pokemon/rillaboom/monotype/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind (Water)",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Calm Mind, Keldeo turns into a great sweeper that can threaten foes both physically and specially. Vacuum Wave is a strong STAB priority option to pick off faster albeit weakened threats like <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>. Surf is highly accurate, targeting slower threats like non-Choice Scarf <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, while Hydro Pump, although it has lower accuracy, brings more power, notably 2HKOing physically defensive <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>. Secret Sword threatens special walls that Keldeo's other moves do not; it OHKOes Assault Vest <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and 2HKOes <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> after a Calm Mind boost. Heavy-Duty Boots allows Keldeo to switch in safely regardless of entry hazards, while Leftovers grants Keldeo a small form of longevity.</p>\n<p><a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a> make for good teammates, as they set up entry hazards that can help Keldeo sweep, and they also both provide an immunity against Electric-types like <a href=\"/dex/sv/pokemon/magnezone/monotype/\" hreflang=\"en\">Magnezone</a> and <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a>. In return, Keldeo threatens Choice Specs <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> for them. <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> is another great defensive partner, threatening Fairy-types like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> with Sludge Bomb; it also absorbs Toxic Spikes for Keldeo when Keldeo isn't running Heavy-Duty Boots. In return, Keldeo handles Ground-types that threaten Toxapex such as <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a> and Landorus. Choice Scarf <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> outspeeds Pokemon that can shrug off Keldeo's STAB moves, such as <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, while easily setting up Spikes with Ceaseless Edge. Greninja makes for another great partner, as it outspeeds and threatens the likes of Iron Valiant, <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes with Sludge Wave. In return, Keldeo threatens Hisuian Goodra for it. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> forms an offensive core with Keldeo. It checks Water Absorb <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, and Primarina, while Keldeo threatens <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs (Fighting)",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Equipped with Choice Specs, Keldeo makes for a strong wallbreaker on Fighting teams, threatening the likes of <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> with Hydro Pump and outspeeding both <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. With Secret Sword, Keldeo is able to threaten foes physically and specially; thus, walls that would normally switch into one of Keldeo's other attacks, such as <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, take high damage from it. Vacuum Wave serves as a strong revenge killing option for Keldeo, picking off faster weakened threats like <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> and KOing <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> after Stealth Rock damage with ease. Icy Wind grants Keldeo coverage against Dragon-types, and with the Speed drop, it is able to counter Dragon Dance attempts from Garchomp. Surf is a great Water-type STAB move that, although weaker than Hydro Pump, has greater accuracy.</p>\n<p>Great Tusk is an almost-universal choice for a partner for Keldeo, both setting up Stealth Rock to wear down incoming foes and removing entry hazards with Rapid Spin so Keldeo can switch in safely. Great Tusk also provides an Electric immunity for Keldeo, and it can take out the likes of <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, and Water Absorb <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>. Iron Hands grants Fighting teams coverage against Flying teams, and with its bulk and movepool, it is able to remove the likes of <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>. <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> is another great teammate for Keldeo, outspeeding the likes of Choice Specs <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, Choice Band <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, and non-Choice Scarf Meowscarada when equipped with a Choice Scarf. Its mixed sets work well with Keldeo, softening each other's checks while wearing down shared checks like Toxapex. Choice Scarf <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> is a fast pivot for Fighting teams with U-turn, and it can aid Keldeo in its wallbreaking with its great status spreading abilities thanks to a combination of Dire Claw and Poison Touch. Sneasler can also take out faster threats that annoy Keldeo such as Meowscarada, the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, and Iron Valiant. In return, Keldeo is able to remove the Ground-types that annoy Sneasler such as Unaware Clodsire and Great Tusk. <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> is another great teammate due to its ability to break down Poison teams. Lastly, Keldeo's wallbreaking abilities open up room for sweepers like <a href=\"/dex/sv/pokemon/zamazenta/monotype/\" hreflang=\"en\">Zamazenta</a> and Iron Valiant to clean late-game, the two of them also appreciating Keldeo removing walls such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 552160,
+            "username": "Showl"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 629794,
+                "username": "LOrd Fernado"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>This analysis has outdated information / Banned mons</p>",
+      "overview": "",
+      "comments": "<h4>Other Options</h4>\n<h5>Fighting (Choice Specs)</h5>\n<p>Air Slash provides Keldeo coverage against Grass-types such as <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>; however, the two of them are the only real targets of Air Slash, and Grass teams usually find ways to play around Keldeo.</p>\n<h5>Fighting (Calm Mind)</h5>\n<p>Black Belt is an alternative, granting an OHKO versus <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> after a Calm Mind with Vacuum Wave. It can also OHKO 252 HP <a href=\"/dex/sv/pokemon/hoopa/monotype/\" hreflang=\"en\">Hoopa</a> with +1 Sacred Sword and Choice Scarf <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a> with +1 Vacuum Wave after Stealth Rock chip, making it a very difficult Pokemon to revenge in the Steel and Dark matchups.</p>",
+      "movesets": [
+        {
+          "name": "Calm Mind (Fighting)",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Calm Mind; Keldeo can break through the bulkiest of threats such as <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> while also dealing heavy damage on <a href=\"/dex/sv/pokemon/gouging-fire/monotype/\" hreflang=\"en\">Gouging Fire</a> and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/monotype/\" hreflang=\"en\">Ursaluna-B</a>. Keldeo is also able to outspeed <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>. Secret Sword is Keldeo's best way to break through even the bulkiest of the metagame such as <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and Keldeo can take advantage of Secret Sword by boosting it with Calm Mind and hitting them on their physical defensive side. Surf threatens Ground-types such as Landorus, Ursaluna-B, <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a> while dealing with physical walls like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, which Fighting has a difficult time facing. Along with breaking through bulky Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Vacuum Wave gets rid of faster threats that outspeed Keldeo such as <a href=\"/dex/sv/pokemon/chien-pao/monotype/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. Heavy-Duty Boots keeps Keldeo safe from getting chipped by entry hazards, as removal is very difficult for Fighting.</p>\n<p><a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> is an amazing defensive teammate for Keldeo, providing an Electric immunity and the ability to not only set up Stealth Rock but also use Taunt opposing Defoggers, allowing its entry hazards to chip foes. Great Tusk can take out opposing threats to Keldeo such as <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>. Assault Vest Iron Hands grants coverage against Flying. With its high HP stat and tremendous bulk; it can remove the likes of <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>. Choice Scarf <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> can outspeed Choice Scarf <a href=\"/dex/sv/pokemon/latias/monotype/\" hreflang=\"en\">Latias</a>, Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and non-Choice Scarf <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. Iron Valiant can also run a mixed set that gives more coverage to further assist Keldeo by outspeeding the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes and picking up suprise KOs by not being locked into a single move. Choice Scarf <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> is an alternative option to pair with Keldeo, as it can use U-turn against threats such as Gliscor and Great Tusk that Keldeo can take advantage of. With Dire Claw, Sneasler can potentially spread status on problematic foes such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Sneasler also outspeeds threats to Keldeo such as the Ogerpon formes and Iron Valiant. Choice Band <a href=\"/dex/sv/pokemon/zamazenta/monotype/\" hreflang=\"en\">Zamazenta</a> can assist in breaking through faster Pokemon like Choice Specs Greninja and Choice Specs <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, while its Substitute + Iron Defense set can safely set up and break down teams. <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> is a unique teammate for Keldeo as well, as it's able to break down Poison teams, a matchup where Keldeo struggles quite a lot.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 635656,
+            "username": "Irys"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 246753,
+                "username": "RoyalReloaded"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Steam Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Steam Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 3 onwards</p>\n<p><strong>Price Range</strong>: 13-14 points</p>\n<p><strong>Overview</strong>: Keldeo is a powerful special wallbreaker, offensive pivot, and setup sweeper thanks to its powerful STAB moves, excellent Special Attack, good Speed, and ability to hit special walls with Secret Sword. Its typing also allows it to act as a defensive check to dangerous Dark- and Ice-type Pokemon in the format. However, Keldeo struggles to break past Pokemon that resist its STAB moves due to having very limited and weak coverage options. It also offers very few utility options, making it harder to fit into drafts due to its poor role compression.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: With the help of Choice Specs or another damage-boosting item, Keldeo's Water- and Fighting-type STAB moves can rip through many defensive cores. Access to Secret Sword allows Keldeo to hit both physically and specially, making it harder to defensively check, and a powerful Vacuum Wave also allows it to beat many frail offensive Pokemon that would be faster than it.</p>\n<p><strong>Offensive Pivot</strong>: Thanks to Flip Turn, a good defensive typing with moderate bulk, and powerful moves that tend to force foes to switch, Keldeo can act as an effective offensive pivot. Additionally, thanks to Keldeo's good Speed, especially if paired with a Choice Scarf, it can also be a powerful revenge killer.</p>\n<p><strong>Setup Sweeper</strong>: With its good Speed stat, Keldeo can use Calm Mind to be an effective late-game cleaner. Against more offensive drafts, Trailblaze is an option to outspeed an opponent's threats if the extra coverage or power boost from another setup move isn't necessary. Work Up is also a viable alternative in specific matchups, as Keldeo can run a mixed set to make use of its wider physical coverage and beat certain Pokemon that would normally check it.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Surf, Hydro Pump, Secret Sword, Aura Sphere, Focus Blast, Vacuum Wave</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Trailblaze, Work Up, Substitute</p>\n<p><strong>Utility Moves</strong>: Flip Turn, Taunt, Brick Break, Reflect</p>\n<p><strong>Coverage</strong>: Icy Wind, Air Slash, Stone Edge, Poison Jab, X-Scissor</p>\n<h3>Niche Moves</h3>\n<p><strong>Swords Dance</strong>: Keldeo has a good amount of strong physical STAB options and coverage moves, so a physical set with Swords Dance can be effective in certain scenarios against drafts that would otherwise be difficult for a special Keldeo to break through, such as against special walls that resist Secret Sword. For such sets, your STAB moves of choice are generally Liquidation and Close Combat.</p>\n<p><strong>Rain Dance</strong>: While normally outclassed by Calm Mind or another setup option, Rain Dance can be useful in a matchup against sun teams by denying their weather while also boosting its Water-type attacks.</p>\n<p><strong>Aqua Jet</strong>: While Keldeo has a much lower Attack in comparison to its Special Attack, Aqua Jet can be an option to revenge kill weakened Pokemon that are resistant to Vacuum Wave.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Specs</strong>: Choice Specs allows Keldeo to do massive damage without needing to set up. This lets it act as a strong wallbreaker while also boosting Vacuum Wave so that it can more effectively revenge kill weakened foes.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf allows Keldeo to act as great speed control and lets it revenge kill many offensive threats, including many setup sweepers after a Speed boost.</p>\n<p><strong>Leftovers</strong>: Leftovers is Keldeo's only source of recovery and is mostly useful for Calm Mind sets, allowing Keldeo to stay on the field for longer periods of time.</p>\n<p><strong>Heavy-Duty Boots</strong>: If Keldeo is being used as an offensive pivot, Heavy-Duty Boots allows it to minimize damage from entry hazards, prolonging its longevity and ability to check key offensive threats.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage-boosting Items</strong>: Other damage-boosting items, such as Life Orb, or items that boost one of Keldeo's STAB types, can be used as a weaker alternative to Choice Specs on wallbreaking sets or on Calm Mind sets that need a power boost to break through specific defensive checks.</p>\n<p><strong>Assault Vest</strong>: Keldeo can utilize an Assault Vest, alongside its decent natural bulk, good defensive typing, and strong STAB moves, to act as a check to certain special attackers such as <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>. Keldeo's lack of recovery and vulnerability to entry hazards, however, means that Assault Vest sets can eventually be chipped down and overwhelmed by said attackers.</p>\n<p><strong>Salac Berry</strong>: Salac Berry can be used alongside Substitute or Endure, mainly on Calm Mind sets, to give Keldeo a Speed boost and allow it to more effectively sweep late-game.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries can allow Keldeo to avoid being revenge killed and lure in and defeat its checks. Calm Mind sets in particular can also use them to gain more setup opportunities.</p>\n<h3>Tera</h3>\n<p>Keldeo greatly benefits from Tera, but it should not be your first choice for a Tera captain and should be chosen only if your higher-tier Pokemon do not benefit as much from or cannot use Tera. Tera Water and Fighting are great options to boost Keldeo's STAB moves and its wallbreaking potential. Other good options would be Tera types that can utilize Tera Blast to deal with Pokemon that would wall Keldeo's STAB options, such as Tera Electric to allow it to hit <a href=\"/dex/sv/pokemon/toxapex/draft/\" hreflang=\"en\">Toxapex</a> and Tera Fairy to hit <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a>.</p>\n<h3>Draft Strategy</h3>\n<p>Keldeo is a good option for both offensive and balanced drafts that are looking for a powerful special wallbreaker that can also act as an offensive pivot or provide decent speed control. Keldeo greatly struggles with Pokemon that resist both of its STAB types, so having teammates that can deal with such Pokemon is essential for maximizing Keldeo's potential as a wallbreaker or setup sweeper.</p>\n<p><strong>Speed Control</strong>: Having faster teammates that can fulfill the role of speed control allows Keldeo to run its powerful wallbreaker or setup sweeper sets. Pokemon such as <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> are great partners for this, as they can pivot into Keldeo with U-turn and provide good utility through Knock Off.</p>\n<p><strong>Other Wallbreakers</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> can be great partners for Keldeo, as they can break through most Pokemon that would wall Keldeo, while Keldeo can use Flip Turn to better position these wallbreakers and allow them to break apart opposing teams. They can enable Keldeo to have more flexibility with its set, letting it run more restricting items like Choice Scarf with less downsides.</p>\n<p><strong>Entry Hazard Removal</strong>: Entry hazards—Spikes and Toxic Spikes in particular—greatly reduce Keldeo's longevity and hurt its ability to switch into Pokemon that it could otherwise check. Pokemon that can reliably remove hazards, such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a>, and even cheaper removal options such as <a href=\"/dex/sv/pokemon/talonflame/draft/\" hreflang=\"en\">Talonflame</a>, are greatly appreciated.</p>\n<p><strong>Entry Hazard Setters</strong>: As with most wallbreakers, Keldeo greatly appreciates entry hazard support that can chip down opposing walls and allow it to more easily break through them. Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, or <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a> can fulfill this role while also supporting Keldeo by taking on types it is weak to or pivoting into it.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Water- and Fighting-resistant Pokemon</strong>: Keldeo has poor options for coverage, so Pokemon that resist its STAB moves such as Latias, <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/amoonguss/draft/\" hreflang=\"en\">Amoonguss</a> can easily switch into it and threaten to OHKO or weaken it. Very specially bulky Pokemon that resist Fighting such as <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a>, <a href=\"/dex/sv/pokemon/cresselia/draft/\" hreflang=\"en\">Cresselia</a>, and <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a> are also strong checks to Keldeo, as they take little damage from Secret Sword and can wall Keldeo's other special moves with ease.</p>\n<p><strong>Faster Pokemon</strong>: Fast Pokemon that aren't weak to Fighting such as <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/thundurus/draft/\" hreflang=\"en\">Thundurus</a> naturally outspeed Keldeo and can OHKO it while taking little damage from Vacuum Wave. Opposing Choice Scarf users are also effective at revenge killing Keldeo or forcing it out, as it is outsped by most of them if it does not have a Speed boost itself. Choice Specs Keldeo sets in particular are especially prone to being revenge killed this way if they are not Choice-locked into Vacuum Wave.</p>\n<p><strong>Grass-types</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/serperior/draft/\" hreflang=\"en\">Serperior</a>, and <a href=\"/dex/sv/pokemon/hydrapple/draft/\" hreflang=\"en\">Hydrapple</a> can easily switch into Keldeo's Water-type STAB moves and threaten to OHKO it, though they do not appreciate switching into a Fighting-type move or Air Slash. <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a> deserves a special mention, as its above average bulk and additional recovery from Grassy Terrain allow it to potentially switch into Keldeo multiple times throughout a match, and Grassy Glide allows it to easily OHKO Keldeo with little risk.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613460,
+            "username": "vmnunes"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 613399,
+                "username": "Celeste"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs (SpA, Spe)",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Substitute + Calm Mind",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Leftovers",
+            "Waterium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Keldeo leverages its fantastic offensive and defensive typing to be a reliable wallbreaker, capable of threatening defensive staples like <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> while taking little from their attacks. Hydro Pump is generally preferred on Keldeo, OHKOing <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a> and Scizor after Stealth Rock and having odds to 2HKO defensive Celesteela. Surf hits similarly hard, and while it misses these damage thresholds, it provides greater consistency and more PP; this is particularly notable against Celesteela, which can waste Hydro Pump PP with Protect. Air Slash 2HKOes <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, while Flip Turn is an option alongside Pursuit users like Tyranitar and <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a>, as they can threaten the aforementioned defensive options as well as other answers to Keldeo like <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a> and <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>. Toxic is an alternative on teams without Pursuit to cripple checks like Slowking and Mega Latias, but it significantly hinders Keldeo's matchup against Mega Venusaur and Amoonguss, making it a niche option. Vacuum Wave provides Keldeo with powerful priority that is able to pick off faster threats like Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> as well as weakened targets like <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>. Keldeo is typically seen on offense and sand teams looking for a powerful special attacker that can shore up weaknesses to offensive threats like <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> and Iron Boulder. Sand teams in particular utilize Keldeo well, as Tyranitar can Pursuit trap Slowking and Mega Latias with Pursuit and provides sand, preventing Synthesis Mega Venusaur from being a reliable long-term check to Keldeo. Keldeo in return can help force damage onto <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> and handle physical walls like <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> and Buzzwole. While Keldeo is powerful, it can struggle against teams with multiple Pokemon resistant or immune to its STAB attacks, which include defensive options such as Mega Venusaur, Slowking, and Mega Latias. It can also be outsped quite easily by the offensive metagame, which consists of Pokemon such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, Iron Boulder, and Mega Aerodactyl. For these reasons, teammates like Scizor and Mienshao are appreciated for their ability to pressure shared checks, use Knock Off to remove important held items like Leftovers from <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> and Celesteela, and provide offensive answers to these Pokemon that threaten Keldeo. Teammates like Iron Moth and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a> work similarly, pivoting Keldeo in against Ground- and Grass-type Pokemon that it can threaten. <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a>, Skarmory, and Celesteela help provide Keldeo's team with a defensive backbone against options like Iron Boulder and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, with the former two able to set entry hazards to wear down many of its checks.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Air Slash",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Calm Mind Keldeo is a fantastic wallbreaker, its formidable offensive typing and ability to run a variety of mixed attacking sets enable it to be a threat against balanced or stall teams, making it an effective setup sweeper versus the likes of <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>. Scald is an excellent Water-type STAB move for Keldeo, as it can burn foes and make it easier to wear down physical attackers like <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-uu/\" hreflang=\"en\">Mega Gallade</a>. Hydro Pump, though having lower accuracy, is best used in tandem with Waterium Z to OHKO Swampert after a Calm Mind boost while threatening a KO on both <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a> and Scizor with an unboosted Hydro Vortex. Secret Sword is Keldeo's preferred Fighting-type STAB attack, as it hits common pivots to special attacks like <a href=\"/dex/sv/pokemon/blissey/national-dex-uu/\" hreflang=\"en\">Blissey</a>. Substitute, when paired with Leftovers, helps Keldeo set up on defensive switch-ins like <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, and Celesteela. Alternatively, Air Slash could be used for coverage against threatening Grass-type foes and gives Keldeo the ability to run Flyinium Z to OHKO the likes of <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a> and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> after a boost. Alternatively, Taunt can be used to prevent bulky Pokemon like <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> from spreading status. With this much wallbreaking power, Keldeo is seen on more offensive teams that are lacking in checks against the likes of Scizor and <a href=\"/dex/sv/pokemon/greninja/national-dex-uu/\" hreflang=\"en\">Greninja</a>. Although Keldeo can be seen as a wallbreaking threat, many teams can utilize Pokemon that aren't weak to either STAB attack such as Mega Venusaur and Slowking. There are also quite a few Pokemon that can outspeed and threaten Keldeo such as <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>, <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/serperior/national-dex-uu/\" hreflang=\"en\">Serperior</a>. Teamates such as Scizor and <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> help against these faster threats and can assist greatly by pressuring checks to Keldeo like Aegislash and Celesteela by removing their Leftovers while also being able to efficiently pivot out with U-turn. In return, Keldeo assists both by pressuring physical walls like <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-uu/\" hreflang=\"en\">Mandibuzz</a>. Teammates that can provide entry hazard support such as Tyranitar and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> are appreciated by Keldeo, as chip from entry hazards makes it easier to threaten a OHKO on physical walls. Faster teammates such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> and Zeraora can be excellent in baiting in Ground-type threats and pivoting back into Keldeo for more offensive pressure. In return, Keldeo removes Ground-type threats like <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> to make it easier for both to pivot reliably.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Leftovers",
+            "Waterium Z",
+            "Flyinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Air Slash",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 589016,
+            "username": "Danbear02"
+          },
+          {
+            "user_id": 635656,
+            "username": "Irys"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 546157,
+                "username": "Iride"
+              },
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs (Fighting)",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Keldeo stands out as Fighting team's premier Choice Specs user, leveraging its solid typing and unique toolkit to easily break past physical walls such as <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> and <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a> that often cause issues for Fighting teams. Hydro Pump is Keldeo's strongest attack, washing away Ground- and Fire-types like the <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> formes, <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a> with ease. Secret Sword enables Keldeo to break special walls such as <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a> that would otherwise wall it. Vacuum Wave serves as a Fighting team's main form of priority, being used to pick off weakened targets such as Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>, which can be a nuisance to Fighting teams. Finally, Keldeo can use Icy Wind to immediately remove threats such as <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/latios/national-dex-monotype/\" hreflang=\"en\">Latios</a> in a pinch. Alternatively, Scald can be used as a completely accurate Water-type STAB move in situations where Hydro Pump's higher power isn't needed, while Hidden Power Electric enables Keldeo to break past <a href=\"/dex/sv/pokemon/pelipper/national-dex-monotype/\" hreflang=\"en\">Pelipper</a> and <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a>. <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a> serves as an excellent partner to Keldeo, as it is able to break through Water-types that can handle Keldeo such as <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-monotype/\" hreflang=\"en\">Tapu Fini</a> and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> along with taking on faster Flying-types like <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/pidgeot-mega/national-dex-monotype/\" hreflang=\"en\">Mega Pidgeot</a>; in return, it appreciates Keldeo breaking Ground-types such as Gliscor and Great Tusk. <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a> can break through problematic threats that can easily take on Keldeo such as <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> and Water Absorb <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a>, which otherwise wall Keldeo. <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a> deals with Dragon-type threats such as <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>, and <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a> along with using coverage moves like Shadow Ball to beat <a href=\"/dex/sv/pokemon/sinistcha/national-dex-monotype/\" hreflang=\"en\">Sinistcha</a>. <a href=\"/dex/sv/pokemon/breloom/national-dex-monotype/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/lilligant-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Lilligant</a> both assist Keldeo by breaking down Water-types like <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> and appreciate Keldeo handling Fire-types like <a href=\"/dex/sv/pokemon/torkoal/national-dex-monotype/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a>. Great Tusk provides Rapid Spin and Stealth Rock support, enabling Keldeo to get in safely while chipping down switch-ins like Assault Vest Iron Hands, and its Ground typing enables it to handle Electric-types such as <a href=\"/dex/sv/pokemon/regieleki/national-dex-monotype/\" hreflang=\"en\">Regieleki</a> and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex-monotype/\" hreflang=\"en\">Raging Bolt</a>. <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a> is a fast teammate that can handle Fairy- and Grass-types like Iron Valiant, <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a>, and Breloom.</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              },
+              {
+                "move": "Scald",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Electric"
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind (Water)",
+          "pokemon": "Keldeo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Leftovers",
+            "Waterium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Secret Sword",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Air Slash",
+    "Aqua Jet",
+    "Aqua Tail",
+    "Aura Sphere",
+    "Baton Pass",
+    "Brick Break",
+    "Bubble Beam",
+    "Calm Mind",
+    "Chilling Water",
+    "Close Combat",
+    "Coaching",
+    "Double-Edge",
+    "Double Kick",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Flip Turn",
+    "Focus Blast",
+    "Giga Impact",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Icy Wind",
+    "Leer",
+    "Liquidation",
+    "Low Kick",
+    "Muddy Water",
+    "Pain Split",
+    "Poison Jab",
+    "Protect",
+    "Psych Up",
+    "Quick Guard",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Retaliate",
+    "Reversal",
+    "Roar",
+    "Sacred Sword",
+    "Secret Sword",
+    "Sleep Talk",
+    "Smart Strike",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Trailblaze",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Water Pulse",
+    "Work Up",
+    "X-Scissor"
+  ]
+}

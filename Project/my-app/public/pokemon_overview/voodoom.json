@@ -1,0 +1,157 @@
+{
+  "name": "Voodoom",
+  "alias": "voodoom",
+  "types": [
+    "Fighting",
+    "Dark"
+  ],
+  "stats": [
+    90,
+    85,
+    80,
+    130,
+    80,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs Pivot",
+          "pokemon": "Voodoom",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Lightning Rod"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acupressure",
+    "Astonish",
+    "Aura Sphere",
+    "Baton Pass",
+    "Burning Jealousy",
+    "Charge",
+    "Close Combat",
+    "Coaching",
+    "Copycat",
+    "Counter",
+    "Dark Pulse",
+    "Drain Punch",
+    "Earthquake",
+    "Echoed Voice",
+    "Endure",
+    "Facade",
+    "Flash Cannon",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Follow Me",
+    "Foul Play",
+    "Giga Impact",
+    "Hex",
+    "Hyper Voice",
+    "Ice Punch",
+    "Imprison",
+    "Knock Off",
+    "Lash Out",
+    "Low Kick",
+    "Low Sweep",
+    "Mach Punch",
+    "Memento",
+    "Metronome",
+    "Mud-Slap",
+    "Nasty Plot",
+    "Night Slash",
+    "Pain Split",
+    "Perish Song",
+    "Pin Missile",
+    "Power Trip",
+    "Protect",
+    "Psychic",
+    "Rest",
+    "Rock Slide",
+    "Sleep Talk",
+    "Smart Strike",
+    "Snarl",
+    "Spite",
+    "Stone Edge",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Take Down",
+    "Taunt",
+    "Tearful Look",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Torment",
+    "Uproar",
+    "Vacuum Wave",
+    "Volt Switch",
+    "Wrap"
+  ]
+}

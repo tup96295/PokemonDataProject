@@ -1,0 +1,164 @@
+{
+  "name": "Drifloon",
+  "alias": "drifloon",
+  "types": [
+    "Ghost",
+    "Flying"
+  ],
+  "stats": [
+    90,
+    50,
+    34,
+    60,
+    44,
+    70
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Setup Sweeper",
+          "pokemon": "Drifloon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Grassy Seed"
+          ],
+          "teratypes": [
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 84,
+              "spa": 196,
+              "spd": 4,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Air Cutter",
+    "Amnesia",
+    "Astonish",
+    "Baton Pass",
+    "Calm Mind",
+    "Clear Smog",
+    "Curse",
+    "Defog",
+    "Destiny Bond",
+    "Disable",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Fly",
+    "Focus Energy",
+    "Gust",
+    "Gyro Ball",
+    "Haze",
+    "Helping Hand",
+    "Hex",
+    "Hypnosis",
+    "Icy Wind",
+    "Imprison",
+    "Knock Off",
+    "Memento",
+    "Minimize",
+    "Night Shade",
+    "Pain Split",
+    "Payback",
+    "Phantom Force",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Rain Dance",
+    "Rest",
+    "Self-Destruct",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Spite",
+    "Spit Up",
+    "Stockpile",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swallow",
+    "Swift",
+    "Tailwind",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Trick",
+    "Trick Room",
+    "Weather Ball",
+    "Will-O-Wisp"
+  ]
+}

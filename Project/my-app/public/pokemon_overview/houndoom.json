@@ -1,0 +1,256 @@
+{
+  "name": "Houndoom",
+  "alias": "houndoom",
+  "types": [
+    "Dark",
+    "Fire"
+  ],
+  "stats": [
+    75,
+    90,
+    50,
+    110,
+    80,
+    95
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wallbreaker",
+          "pokemon": "Houndoom",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Houndoom",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Houndoominite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Grass"
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Beat Up",
+    "Bite",
+    "Body Slam",
+    "Burning Jealousy",
+    "Comeuppance",
+    "Counter",
+    "Crunch",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Double-Edge",
+    "Ember",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Feint",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Foul Play",
+    "Giga Impact",
+    "Heat Wave",
+    "Helping Hand",
+    "Howl",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Incinerate",
+    "Inferno",
+    "Lash Out",
+    "Leer",
+    "Mud Shot",
+    "Mud-Slap",
+    "Nasty Plot",
+    "Overheat",
+    "Pain Split",
+    "Protect",
+    "Psychic Fangs",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Scary Face",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Smog",
+    "Snarl",
+    "Solar Beam",
+    "Spite",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Super Fang",
+    "Take Down",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder Fang",
+    "Torment",
+    "Toxic",
+    "Trailblaze",
+    "Will-O-Wisp"
+  ]
+}

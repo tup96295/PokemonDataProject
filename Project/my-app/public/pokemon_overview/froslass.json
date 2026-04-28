@@ -1,0 +1,783 @@
+{
+  "name": "Froslass",
+  "alias": "froslass",
+  "types": [
+    "Ice",
+    "Ghost"
+  ],
+  "stats": [
+    70,
+    80,
+    70,
+    80,
+    70,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Hazard Lead",
+          "pokemon": "Froslass",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Ice"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              },
+              {
+                "move": "Avalanche",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Utility Spikes",
+          "pokemon": "Froslass",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Ice"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Triple Axel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Lead",
+          "pokemon": "Froslass",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Froslass is one of the many viable leads of RU due to its good Speed stat and access to Spikes and Taunt. Froslass can be powerful against slower teams, as they may have trouble stopping it from setting Spikes. Spikes allows offensive teammates, such as <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, to more easily break through slower Pokemon like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>. 100 Attack EVs let Froslass OHKO <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> with Triple Axel or Avalanche. Avalanche works best with Destiny Bond, allowing Froslass to attack with negative priority the turn after using Destiny Bond to force a slower threat to hit it while Destiny Bond is still active; however, Avalanche's negative priority means it is easier to deal direct damage when using Triple Axel. Will-O-Wisp is useful to cripple opponents who may want to lead against it such as <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>, and Bisharp. Destiny Bond allows Froslass to trade with threats that would otherwise ignore Will-O-Wisp and Triple-Axel such as <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>, Empoleon, and Hisuian Goodra and works best alongside Avalanche. Taunt is a powerful tool to stop slower foes such as Empoleon and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> from setting entry hazards and deny setup moves from threats such as Bisharp and Armarouge. Tera Steel is chosen to help against foes such as <a href=\"/dex/sv/pokemon/kleavor/ru/\" hreflang=\"en\">Kleavor</a> and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>; however, Terastallizing Froslass instead of other teammates should not be necessary outside of emergencies because it doesn't mind getting KOed early.</p>\n<p>As a dedicated lead, Froslass fits exclusively on hyper offense teams, which benefit the most from dedicating a slot to reliably setting entry hazards while stopping the opponent from placing their own. As Spikes can be easily removed, a spinblocker such as <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> or Colbur Berry <a href=\"/dex/sv/pokemon/golurk/ru/\" hreflang=\"en\">Golurk</a> can prove useful, with the latter also helping stack even more hazards for further chip damage. Specially offensive teammates such as Armarouge and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> can come in for free on Talonflames's Defog and take advantage of Spikes to better deal with special walls such as Hisuian Goodra and Empoleon. Bisharp works well to punish Defog, but its weakness to Will-O-Wisp can make switching in on <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> dangerous. Pokemon such as <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a> and Armarouge that would normally run Heavy-Duty Boots also benefit greatly from Froslass denying the opponent from setting up Stealth Rock, as it allows them to run items such as Lum Berry, Throat Spray, and Weakness Policy, respectively.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Triple Axel",
+                "type": null
+              },
+              {
+                "move": "Avalanche",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 156,
+              "atk": 100,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 664444,
+            "username": "Canard"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 647728,
+                "username": "Heatranator"
+              },
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 388157,
+                "username": "A Cake Wearing A Hat"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Spikes Utility",
+          "pokemon": "Froslass",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Spikes Lead",
+          "pokemon": "Froslass",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Froslass's rare combination of high Speed, vast utility movepool, and its typing, which lets it take advantage of spinners like <a href=\"/dex/sv/pokemon/tatsugiri/pu/\" hreflang=\"en\">Tatsugiri</a> and <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> and aids it in beating the Defoggers such as <a href=\"/dex/sv/pokemon/scyther/pu/\" hreflang=\"en\">Scyther</a> and <a href=\"/dex/sv/pokemon/altaria/pu/\" hreflang=\"en\">Altaria</a> one-on-one, helps it solidify a niche as a dedicated hyper offense lead that can beat common Ground-type entry hazard setters like <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a> and <a href=\"/dex/sv/pokemon/golurk/pu/\" hreflang=\"en\">Golurk</a>. Ice Beam is Froslass's preferred STAB move for its power, but Icy Wind could be run instead to slow down foes like <a href=\"/dex/sv/pokemon/salazzle/pu/\" hreflang=\"en\">Salazzle</a> and Choice Scarf <a href=\"/dex/sv/pokemon/meloetta/pu/\" hreflang=\"en\">Meloetta</a> for its teammates. Taunt stops Pokemon like <a href=\"/dex/sv/pokemon/coalossal/pu/\" hreflang=\"en\">Coalossal</a> and <a href=\"/dex/sv/pokemon/gastrodon/pu/\" hreflang=\"en\">Gastrodon</a> from setting up their entry hazards on Froslass as well as Pokemon such as <a href=\"/dex/sv/pokemon/bronzong/pu/\" hreflang=\"en\">Bronzong</a> from using it as setup fodder. On the other hand, Will-O-Wisp cripples physical attackers like <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/pu/\" hreflang=\"en\">Paldean Tauros-W</a> and messes with Sucker Punch users such as <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a> and <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a>. Destiny Bond lets Froslass get either a KO or an extra turn to set up another layer of Spikes unharmed due to its threat. Thunder Wave can be used over Taunt or Will-O-Wisp so that Froslass can cripple special attackers like <a href=\"/dex/sv/pokemon/delphox/pu/\" hreflang=\"en\">Delphox</a> and <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a> better, but its matchups into the aforementioned Sucker Punch users worsen a bit. Avalanche could also be run as Froslass's STAB move because its negative priority means Destiny Bond might get a surprise KO on a foe, but it misses out on the power of Ice Beam and the utility of Icy Wind, and it can be played around easily once revealed. Since Froslass's goal is to set up hazards and then provide an entry point for its partners when it faints, its Tera types are for the niche situations in which it has difficulty achieving this, and therefore, Froslass should be Terastallized sparingly. Tera Fairy gives Froslass a strong defensive typing that provides a Dark resistance, helping it against Sucker Punch Bombirdier and Skuntank. Alternatively, Tera Dark gifts Froslass a Dark resistance as well alongside a Ghost resistance, which helps it versus <a href=\"/dex/sv/pokemon/decidueye/pu/\" hreflang=\"en\">Decidueye</a> and Golurk, and it blocks status moves like Encore and Taunt from Prankster users such as <a href=\"/dex/sv/pokemon/sableye/pu/\" hreflang=\"en\">Sableye</a> and <a href=\"/dex/sv/pokemon/grimmsnarl/pu/\" hreflang=\"en\">Grimmsnarl</a>. However, Froslass gains a Fighting weakness.</p>\n<p>Froslass works exclusively as a dedicated lead on hyper offensive teams, which enjoy Spikes weakening checks. As Froslass's Spikes can be easily removed after it's KOed, a Defog deterrent like Competitive <a href=\"/dex/sv/pokemon/kilowattrel/pu/\" hreflang=\"en\">Kilowattrel</a>, Pokemon such as <a href=\"/dex/sv/pokemon/toxtricity/pu/\" hreflang=\"en\">Toxtricity</a> and Skuntank that threaten out Defoggers, and spinblockers like <a href=\"/dex/sv/pokemon/oricorio-sensu/pu/\" hreflang=\"en\">Oricorio-G</a> and Tera Ghost Salazzle are vital partners to help keep up pressure. Pokemon like <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a>, Salazzle, and <a href=\"/dex/sv/pokemon/minior/pu/\" hreflang=\"en\">Minior</a>, which prefer to run other items like Leftovers, Focus Sash, and White Herb instead of Heavy-Duty Boots, appreciate Froslass's ability to deny opposing hazards from being set up. Teammates like Bulk Up Paldean Tauros-W and -F, both Nasty Plot and Swords Dance <a href=\"/dex/sv/pokemon/zoroark/pu/\" hreflang=\"en\">Zoroark</a>, and Throat Spray Toxtricity all benefit greatly from their checks like Gastrodon, <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a>, and Golurk being whittled into range of a 2HKO or OHKO. Fighting-type teammates like Paldean Tauros-W and <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a> that can take advantage of common switch-ins to Froslass such as Coalossal and Dark-types like Skuntank and Zoroark are greatly appreciated, as Froslass fails to effectively threaten the latter two otherwise, barring status conditions from moves like Will-O-Wisp and Thunder Wave.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Icy Wind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 583607,
+            "username": "PowerOfMemes"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 617840,
+                "username": "eeriespell"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Ghost</h4>\n<p>Will-O-Wisp and Thunder Wave can be solid options, weakening switch-ins attempting to play around Destiny Bond like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>. Shadow Ball is a solid option to threaten out <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> attempting to stop entry hazards going up with Magic Bounce. Avalanche can be used to catch slower targets like <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> attempting to play around Destiny Bond by making Froslass move slower; however, it gives up offensive pressure.</p>\n<h4>Ice</h4>\n<p>Curse can be used to deter setup while also denying entry hazard removal. Icy Wind reduces the foe's Speed, allowing Froslass to get another turn to set up Spikes or deal damage.</p>",
+      "movesets": [
+        {
+          "name": "Spikes Suicide Lead (Ice)",
+          "pokemon": "Froslass",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Froslass is an incredible addition for Ice teams, not only providing a nice Fighting immunity and spinblocker, but also giving Ice teams access to a fantastic entry hazard in Spikes. Froslass's attack of choice can be either Shadow Ball or Poltergeist; both cleanly 2HKO <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, deterring it from switching in when Froslass uses Spikes. Note that Shadow Ball is generally preferred, as it's more reliable and hits users of Body Press such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, harder; however, Poltergeist has higher Base Power, dealing more damage to Hatterene and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. The last two moves can be any two of Thunder Wave, Taunt, Will-O-Wisp, and Destiny Bond; the best choices here depend on Froslass's teammates. Thunder Wave is generally the best option, helping fix Ice's questionable speed control as well as hindering dangerous threats such as <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>. Will-O-Wisp weakens important targets like <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>. Taunt is an excellent option for an offensive type weak to Stealth Rock like Ice, as it prevents hazard moves such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>'s Toxic Spikes from being used. Destiny Bond can net Froslass KOs that it otherwise wouldn't get, and is run often enough to force opponents to respect the possibility; sometimes, even the mere threat of Destiny Bond can let Froslass get three layers of Spikes. As a rule of thumb, teams without a reliable defensive spinner like <a href=\"/dex/sv/pokemon/avalugg/monotype/\" hreflang=\"en\">Avalugg</a> should run Taunt Froslass to prevent hazards from coming up, and teams running Light Clay on <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a> should run Thunder Wave Froslass to help Alolan Ninetales safely set up Aurora Veil. Focus Sash is used to help Froslass get an additional layer of Spikes or ensure a crucial Thunder Wave or Will-O-Wisp against dangerous targets such as <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>, and Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>.</p>\n<p>Alolan Ninetales appreciates the speed control granted by Thunder Wave to help it set up Aurora Veil without losing too much health; in return, Alolan Ninetales generates snow, letting Froslass more reliably switch into Fighting-type physical attackers. The halved physical damage from Will-O-Wisp, Thunder Wave support, or even a Cursed Body activation can allow sweepers such as <a href=\"/dex/sv/pokemon/cetitan/monotype/\" hreflang=\"en\">Cetitan</a>, Swords Dance <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/cloyster/monotype/\" hreflang=\"en\">Cloyster</a> to set up and sweep more easily; in addition, Spikes help chip away at their defensive answers such as Shuca Berry <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, and Choice Specs <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>. Knock Off users such as Weavile and <a href=\"/dex/sv/pokemon/sandslash-alola/monotype/\" hreflang=\"en\">Alolan Sandslash</a> appreciate Spikes more than other teammates, as it gives Knock Off a bit more punch against defensive switch-ins such as Toxapex, Archaludon, and <a href=\"/dex/sv/pokemon/alomomola/monotype/\" hreflang=\"en\">Alomomola</a>. Rapid Spin users such as Avalugg and Alolan Sandslash can help preserve Froslass's Focus Sash. Stealth Rock users such as <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> and <a href=\"/dex/sv/pokemon/piloswine/monotype/\" hreflang=\"en\">Piloswine</a> can form a nice entry hazard stacking core with Froslass and also help deal with some Pokemon that do well against it like non-Air Balloon <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Suicide Lead (Ghost)",
+          "pokemon": "Froslass",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Froslass is the premier lead on Ghost teams thanks to its blazing Speed stat allowing it to comfortably outpace other fast leads like <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/galvantula/monotype/\" hreflang=\"en\">Galvantula</a>, and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. Setting up Spikes is Froslass's main job, wearing down switch-ins to Ghost-type attacks such as <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>. Taunt is used to prevent other leads like <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a>, <a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a>, and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> from getting their entry hazards up, along with stopping status moves from the likes of <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/talonflame/monotype/\" hreflang=\"en\">Talonflame</a>. Destiny Bond allows Froslass to take foes down once it has finished setting Spikes, along with creating mind games around when it will be used. Finally, Ice Beam when running a Timid nature and Triple Axel when running Jolly are Froslass's main STAB moves, with Ice Beam threatening Ground- and Flying-types like Garchomp, <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> straight away. Meanwhile, Triple Axel can break past Focus Sash on other leads like <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a>, along with having a higher but less consistent damage output.</p>\n<p>The more pressure Froslass causes as a lead, the happier its teammates will be. <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, for example, enjoys Alolan Muk and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> being unable to take multiple Choice Specs Moonblasts when it comes in, which can open it up majorly against Poison- and Dragon-type teams that cannot stop its special offense. <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> enjoys not having its Focus Sash broken by entry hazards, which are prevented by Taunt, and loves chip damage on would-be checks, including <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/overqwil/monotype/\" hreflang=\"en\">Overqwil</a>. <a href=\"/dex/sv/pokemon/gengar/monotype/\" hreflang=\"en\">Gengar</a> can help with hazard-stacking by setting up Toxic Spikes, forcing threats like <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> onto timers they can't outlast. <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> enjoys Fairy-types, including <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and Primarina, which naturally tank its Dragon-type STAB moves, to be chipped upon entry for its boosted Phantom Force to pick them off. <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>'s ability, Gold as Gold, blocks Defog from the likes of <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and Galarian Weezing, keeping Spikes pressure up even longer, and Gholdengo itself can remove <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> trying to prevent Froslass's Spikes. <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> enjoys Ghost-resistant foes being chipped down throughout a game so that they cannot handle its threatening Grim Neigh boosts.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Triple Axel",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 244354,
+            "username": "pikachu<3"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 4-5 points</p>\n<p><strong>Overview</strong>: Froslass is a diverse utility Pokemon that has a similarly diverse offensive profile and a great Speed tier for the role it fits. However, its weak offensive stats and frailty relegate it to its role as a sacrificial lead, which opponents can easily take advantage of. It still does this role extremely well, as being a spinblocking Spikes lead with Taunt and Destiny Bond means it will be very easy to keep Spikes up while it stays on the field.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Sacrificial Lead</strong>: With a vast number of disruptive options such as Taunt and Thunder Wave available to stop opponents from preventing Spikes, Froslass serves as a very good sacrificial lead.</p>\n<p><strong>Offensive Wallbreaker</strong>: Your opponent may be expecting a Spikes lead, but Froslass has a fantastic offensive typing with a plethora of moves to take advantage of it, catching them off guard with items such as Choice Band.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Ice Beam, Ice Shard, Ice Spinner, Icicle Crash, Icicle Spear, Triple Axel, Hex, Shadow Ball, Poltergeist</p>\n<p><strong>Setup Moves</strong>: Trailblaze</p>\n<p><strong>Utility Moves</strong>: Reflect, Light Screen, Disable, Destiny Bond, Haze, Icy Wind, Pain Split, Spikes, Switcheroo, Trick, Taunt, Thunder Wave, Will-O-Wisp</p>\n<p><strong>Coverage</strong>: Draining Kiss, Psychic, Thunderbolt</p>\n<h3>Niche Moves</h3>\n<p><strong>Avalanche</strong>: It may seem counterproductive to have a Pokemon whose selling point is its Speed stat carry a move with negative priority, but Avalanche + Destiny Bond ensures that a foe cannot avoid attacking with Destiny Bond active, taking it down with Froslass.</p>\n<p><strong>Curse</strong>: Although slightly less useful than Destiny Bond, Curse is an option to self-KO Froslass while putting its foe on a timer, as opposed to Destiny Bond, which would also give opponents momentum when both Pokemon faint.</p>\n<h3>Common Items</h3>\n<p><strong>Focus Sash</strong>: Focus Sash is the best item to slap on sacrificial lead Froslass to always freely get a move off.</p>\n<p><strong>Heavy-Duty Boots</strong>: If Froslass is not the dedicated lead, Heavy-Duty Boots can be held to prevent entry hazard damage, which Froslass is particularly weak to.</p>\n<h3>Niche Items</h3>\n<p><strong>Mental Herb</strong>: Against faster Taunt users, Mental Herb can be used to prevent lead Froslass from being Taunted, which would render it useless.</p>\n<p><strong>Light Clay</strong>: Having access to dual screens with its Speed, Froslass can use Light Clay to extend their duration, being a useful tool in offensively oriented drafts, which it typically wants to be on.</p>\n<p><strong>Choice Band</strong>: Although Froslass is not particularly strong, Poltergeist and Triple Axel are strong enough moves to make up for it; it also has Ice Shard to revenge kill foes.</p>\n<h3>Tera</h3>\n<p>Froslass should plainly not be a Tera Captain. Its most useful trait is being a lead that can also spinblock, and Terastallizing into anything but a Ghost-type would ruin that.</p>\n<h3>Draft Strategy</h3>\n<p>Froslass demands to be on an offensive draft that can either take advantage the of chip damage from Spikes or force your opponent to stick to using Heavy-Duty Boots to prevent the Spikes chip damage, deterring their Pokemon from having another held item.</p>\n<p><strong>Setup Sweepers</strong>: Setup sweepers such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a> that need chip damage on the opposing team to properly sweep can make use of Froslass.</p>\n<p><strong>Wallbreakers</strong>: With Pokemon like <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, the <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu</a> formes, and <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a> that can smash through the opposing team when hazards are up, preventing foes from removing Froslass's Spikes is important.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Taunt Users</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a> can outspeed and Taunt lead Froslass can shut it down.</p>\n<p><strong>Faster Offensive Pokemon</strong>: Although Froslass can use Thunder Wave or Will-O-Wisp on offensive threats like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>, they can still prevent Froslass from using more than one move by KOing it faster than it can move, greatly reducing its efficacy.</p>\n<p><strong>Multi-strike Moves</strong>: Moves that can KO Froslass past its Focus Sash such as Tachyon Cutter and Rock Blast make it much harder for it to its job.</p>\n<p><strong>Priority</strong>: Pokemon with priority moves such as <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>, Palafin, and <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a> can take advantage of Froslass's frailty while ensuring it is not able to get a last move off.</p>\n<p><strong>Lum Berry / Mental Herb</strong>: Since Froslass looks to disrupts its foes with varied status moves, having to worry about both Lum Berry and Mental Herb nullifying one of its turns is a real concern.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 313217,
+            "username": "Thanos"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657717,
+                "username": "Big Pharma"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Astonish",
+    "Aurora Veil",
+    "Avalanche",
+    "Bite",
+    "Blizzard",
+    "Block",
+    "Body Slam",
+    "Charm",
+    "Chilling Water",
+    "Confuse Ray",
+    "Crunch",
+    "Curse",
+    "Destiny Bond",
+    "Disable",
+    "Double Team",
+    "Draining Kiss",
+    "Endure",
+    "Facade",
+    "Fake Tears",
+    "Fling",
+    "Frost Breath",
+    "Giga Impact",
+    "Haze",
+    "Headbutt",
+    "Helping Hand",
+    "Hex",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Ice Punch",
+    "Ice Shard",
+    "Ice Spinner",
+    "Icicle Crash",
+    "Icicle Spear",
+    "Icy Wind",
+    "Imprison",
+    "Leer",
+    "Light Screen",
+    "Night Shade",
+    "Pain Split",
+    "Poltergeist",
+    "Powder Snow",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rollout",
+    "Scary Face",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Snowscape",
+    "Spikes",
+    "Spite",
+    "Substitute",
+    "Switcheroo",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Trailblaze",
+    "Trick",
+    "Triple Axel",
+    "Water Pulse",
+    "Weather Ball",
+    "Will-O-Wisp"
+  ]
+}

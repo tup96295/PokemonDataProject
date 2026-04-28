@@ -1,0 +1,818 @@
+{
+  "name": "Typhlosion-Hisui",
+  "alias": "typhlosion-hisui",
+  "types": [
+    "Fire",
+    "Ghost"
+  ],
+  "stats": [
+    73,
+    84,
+    78,
+    119,
+    85,
+    95
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Heavy-Duty Boots",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Blaze",
+            "Frisk"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fire",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Infernal Parade",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Item",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Blaze",
+            "Frisk"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ghost",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Infernal Parade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Infernal Parade",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Substitute + Calm Mind",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Blaze",
+            "Frisk"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Infernal Parade",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "All-out Attacker",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Frisk"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Typhlosion is weaker than <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, meaning Chandelure outclasses it in most roles. However, Hisuian Typhlosion has way better Speed and Focus Blast; this gives it an edge on offense teams that want a faster Choice Scarf user or on builds that prefer a wallbreaker that isn't entirely walled by <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>.</p>",
+          "abilities": [
+            "Frisk"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fire",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Hisuian Typhlosion works best with Pokemon that help it attack before taking damage, which could weaken Eruption. <a href=\"/dex/sv/pokemon/whimsicott/vgc/\" hreflang=\"en\">Whimsicott</a> and <a href=\"/dex/sv/pokemon/weezing-galar/vgc/\" hreflang=\"en\">Galarian Weezing</a> are two examples of this, with Whimsicott setting priority Tailwind and Galarian Weezing shutting down opposing Prankster Pokemon, something that pairs even better with Choice Scarf Hisuian Typhlosion, as it can outspeed and OHKO opposing Whimsicott. Redirection from <a href=\"/dex/sv/pokemon/indeedee-f/vgc/\" hreflang=\"en\">Indeedee-F</a> and <a href=\"/dex/sv/pokemon/electabuzz/vgc/\" hreflang=\"en\">Electabuzz</a> helps Hisuian Typhlosion attack without having the Base Power of Eruption lowered, though it doesn't help against spread moves. Choice Specs is almost always paired with Prankster Tailwind support, mainly from Whimsicott, that allows Hisuian Typhlosion to outspeed the entire unboosted metagame. On the other hand, Choice Scarf is used on a variety of teams, as the Speed boost makes it less reliant on speed control.</li>\n<li>The aforementioned Whimsicott and Galarian Weezing are good partners, but they don't have much of an offensive presence. More offensive Pokemon like <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> can help mitigate this, threatening <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> and appreciating Hisuian Typhlosion's good matchup into <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a>.</li>\n<li>Priority attacks like Kingambit's Sucker Punch can be a problem for Hisuian Typhlosion, as they weaken Eruption as well as threatening it for super effective damage. <a href=\"/dex/sv/pokemon/indeedee/vgc/\" hreflang=\"en\">Indeedee-M</a> can block priority attacks with Psychic Surge and threaten <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>, Kingambit, and <a href=\"/dex/sv/pokemon/tyranitar/vgc/\" hreflang=\"en\">Tyranitar</a>, which Hisuian Typhlosion struggles with, with Tera Blast Fighting.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>Hisuian Typhlosion is purely an offensive Pokemon, functioning best when one or both foes can be KOed by Eruption.</li>\n<li>Hisuian Typhlosion works best as a lead, though it can also work as a late-game cleaner in matchups where the opponent has led with counters for it in previous games.</li>\n<li>Hisuian Typhlosion struggles the most with specially defensive Pokemon like Assault Vest Kingambit and Pokemon that resist its Fire-type STAB moves like Incineroar. This can be mitigated by bringing Hisuian Typhlosion in the back or by using it to chip these Pokemon and clear the way for a partner late-game.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Glass Cannon",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Hisuian Typhlosion has one job: spam powerful Fire-type moves.</li>\n<li>Eruption is the main STAB attack of choice for Hisuian Typhlosion due to its high Base Power and spread damage, while Heat Wave can be used if Hisuian Typhlosion's health is lowered or at risk of being lowered by a foe's attack. Overheat gives Hisuian Typhlosion an option for single-target burst damage, letting it OHKO <a href=\"/dex/sv/pokemon/porygon2/vgc/\" hreflang=\"en\">Porygon2</a> when paired with Tera Fire and Sunny Day support at the cost of being less spammable and often forcing a switch out. Overheat also bypasses Wide Guard, meaning that Hisuian Typhlosion can attack without having to play mindgames.</li>\n<li>Choice Specs increases Hisuian Typhlosion's damage output, allowing it to OHKO Assault Vest <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> sets, while Choice Scarf lets it outspeed <a href=\"/dex/sv/pokemon/dragapult/vgc/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>.</li>\n<li>Tera Fire maximizes the damage from Eruption, letting Choice Scarf sets OHKO Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> and Choice Specs sets OHKO <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a> and Porygon2 in sun.</li>\n</ul>",
+          "abilities": [
+            "Blaze"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 645750,
+            "username": "iPetBigfoot"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Hisuian Typhlosion is one of the best wallbreakers in its price range. Boasting a tried and true STAB type combination, strong attacks such as nuclear-boosted Eruption, and serviceable stats to wallbreak, it can be solid value on teams where it fits well. It can also have some flexibility with some utility options and its surprisingly solid resistance profile; however, Hisuian Typhlosion is mostly miscast as anything but a wallbreaker. All this being said, a Stealth Rock weakness, its preference for other items over Heavy-Duty Boots, its weakness to common typings, and its mediocre at best stats outside Special Attack cause its price and draft position.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Hisuian Typhlosion can use its near-unresisted and powerful STAB move combination to weaken teams. Choice Scarf can be used to get the jump on foes despite its natural Speed, and Choice Specs can be powerful enough to even invalidate many resistances. In rarer instances, it can use Calm Mind to avoid being Choice-locked and set up. Often, these sets are led to avoid Stealth Rock damage, create mind games involving its item, and use Frisk to identify the opposing lead's item.</p>\n<p><strong>Utility</strong>: Hisuian Typhlosion can sometimes serve as an effective status spreader with multiple methods of burning foes. It can also use its typing to resist a fair amount of foes and perform some roles such as spinblocking if well executed.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Eruption, Fire Blast, Flamethrower, Shadow Ball, Overheat, Infernal Parade, Lava Plume</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Flame Charge</p>\n<p><strong>Utility Moves</strong>: Will-O-Wisp, Substitute, Roar</p>\n<p><strong>Coverage</strong>: Focus Blast, Extrasensory</p>\n<h3>Niche Moves</h3>\n<p><strong>Solar Beam</strong>: Hisuian Typhlosion can struggle to break bulkier Water- and Rock-type foes and may use Power Herb + Solar Beam as a solution.</p>\n<p><strong>Hex</strong>: Although it lacks the chance to inflict burn, Hex is stronger than Infernal Parade. In matchups where Will-O-Wisp or teammates are the means of spreading status, Hex becomes the preferred attack.</p>\n<p><strong>Physical Coverage</strong>: Although it has poor special coverage, Hisuian Typhlosion has a subpar albeit usable Attack as well as coverage options such as Earthquake, Wild Charge, and Iron Head to target foes that can usually check it.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Scarf</strong>: Choice Scarf allows Hisuian Typhlosion to outpace most foes and threaten them with powerful hits. This is in particular strong to use Eruption at full power and pick up KOs as a cleaner.</p>\n<p><strong>Choice Specs</strong>: Choice Specs is used to further enhance the wallbreaking of Hisuian Typhlosion, allowing it to seriously damage would-be checks. Choice Specs is favorable in matchups where it has a more workable Speed into an opposing team.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots allows Hisuian Typhlosion to avoid the entry hazards that hinder it heavily and also allows freedom of move selection.</p>\n<h3>Niche Items</h3>\n<p><strong>Air Balloon</strong>: Air Balloon can be useful to gain a very helpful Ground immunity. It is in particular good on utility sets, as it can allow Hisuian Typhlosion to more effectively spinblock common entry hazard removers such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> pretty reliably.</p>\n<p><strong>Leftovers</strong>: The passive healing of Leftovers is appreciated on sets that use Substitute.</p>\n<p><strong>Eject Pack</strong>: Paired with Overheat, Eject Pack can be a useful means of maintaining momentum while dealing damage.</p>\n<p><strong>Power Herb</strong>: Power Herb in conjunction with Solar Beam can allow Hisuian Typhlosion to KO or weaken Water- and Rock-type checks.</p>\n<h3>Tera</h3>\n<p>Hisuian Typhlosion is not an amazing secondary Tera Captain, but it can certainly benefit from the mechanic. Enhancing its Fire- and Ghost-type STAB moves can improve the output of Choice item sets even further. It lacks coverage pretty severely, so some other useful offensive and defensive Tera typings that provide helpful coverage could be useful, including Tera Grass, Water, and Fairy.</p>\n<h3>Draft Strategy</h3>\n<p>Hisuian Typhlosion is a budget wallbreaker that is taken when teams lack some punch or specifically benefit from the foes it can take on with its typing. Bringing it is incredibly matchup dependent, but against teams that struggle resisting its STAB types, it can thrive.</p>\n<p><strong>Entry Hazard Removal</strong>: With a weakness to Stealth Rock and with Choice items usually being optimal, having good entry hazard removal allows Hisuian Typhlosion to erupt off the bench. Hazard removal options such as Great Tusk, <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a>, and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> all make great partners.</p>\n<p><strong>Reliable Pivots</strong>: Hisuian Typhlosion has a number of common weaknesses and subpar bulk. Reliable pivots such as <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a> pair well by taking hits for it and bringing it in safely.</p>\n<p><strong>Strong Grass-types</strong>: Grass-type teammates are incredibly complementary both offensively to break Hisuian Typhlosion's checks and defensively to cover its weaknesses. <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a> are excellent teammates.</p>\n<p><strong>Cleaners</strong>: Hisuian Typhlosion is good at weakening walls and forcing KOs, but it does not usually have the combination of Speed and power to end games. Fast cleaners like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> can finish the job for its team.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Special Walls</strong>: Bulkier special walls are able to check Hisuian Typhlosion, as it has limited coverage and relies on items to deal enough damage. <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a> are examples of good checks, but even some bulkier foes that take neutral damage to Eruption such as <a href=\"/dex/sv/pokemon/goodra-hisui/draft/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> can check it.</p>\n<p><strong>Entry Hazards</strong>: Being prone to all entry hazards, especially Stealth Rock, makes them an effective way to wear Hisuian Typhlosion down. This is especially the case because it very commonly does not use Heavy-Duty Boots.</p>\n<p><strong>Faster Foes</strong>: Due to its middling Speed, there are many faster foes that can check Hisuian Typhlosion, and there are many common Speed-boosting Pokemon that can outpace Choice Scarf sets. <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, Roaring Moon, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> effectively serve as checks with their Speeds and typing.</p>\n<p><strong>Priority</strong>: An easy way to keep Hisuian Typhlosion in check is through the use of common super effective priority attacks to strike it first. <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>'s Jet Punch and the plethora of strong Sucker Punch users in the format are all reliable checks, although Sucker Punch users sometimes need to outplay Will-O-Wisp.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608304,
+            "username": "jscurf"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Blaze"
+          ],
+          "items": [
+            "Leftovers",
+            "Ghostium Z",
+            "Firium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Infernal Parade",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Frisk"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Typhlosion-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Frisk"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Blast Burn",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Burning Jealousy",
+    "Calm Mind",
+    "Confuse Ray",
+    "Covet",
+    "Curse",
+    "Defense Curl",
+    "Dig",
+    "Double-Edge",
+    "Double Kick",
+    "Earthquake",
+    "Ember",
+    "Endeavor",
+    "Endure",
+    "Eruption",
+    "Extrasensory",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Pledge",
+    "Fire Punch",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Focus Blast",
+    "Focus Punch",
+    "Giga Impact",
+    "Gyro Ball",
+    "Heat Wave",
+    "Hex",
+    "Howl",
+    "Hyper Beam",
+    "Infernal Parade",
+    "Inferno",
+    "Iron Head",
+    "Lava Plume",
+    "Leer",
+    "Low Kick",
+    "Night Shade",
+    "Overheat",
+    "Play Rough",
+    "Poltergeist",
+    "Protect",
+    "Quick Attack",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Rock Slide",
+    "Rollout",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Smokescreen",
+    "Solar Beam",
+    "Spite",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Thunder Punch",
+    "Wild Charge",
+    "Will-O-Wisp",
+    "Zen Headbutt"
+  ]
+}

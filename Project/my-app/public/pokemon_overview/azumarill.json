@@ -1,0 +1,1367 @@
+{
+  "name": "Azumarill",
+  "alias": "azumarill",
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "stats": [
+    100,
+    50,
+    80,
+    60,
+    80,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Belly Drum",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Belly Drum Azumarill serves as a phenomenal setup sweeper on hyper offense teams that is able to KO most Pokemon that do not resist Water with +6 Aqua Jet outright or after slight chip, such as <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/weavile/uu/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>. It is also a dangerous wallbreaker that annihilates slower counterplay. Azumarill is vital in providing natural defensive utility against certain sets of <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>, in addition to being a countermeasure for hyper offense teams against the sand archetype. Play Rough enables it to KO Water-resistant Pokemon such as <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> and Latios as well as beefier neutral targets like <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> and <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a>. Knock Off serves as an alternative damage option to hit <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/pecharunt/uu/\" hreflang=\"en\">Pecharunt</a>, 2HKO <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a>, and be a more reliable way of taking out Slowking. Sitrus Berry is used to give Azumarill a much-needed health boost after using Belly Drum. The alternate EV spread lets Azumarill outspeed Skeledirge. Tera Water boosts damage from Aqua Jet, OHKOing Greninja and Latios after Stealth Rock. Tera Electric gives Azumarill the ability to set up on Tornadus-T and <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a>. Both Tera types give Azumarill a Steel resistance, which is useful to set up on <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a>. Alternatively, a Jolly nature could be run to outspeed threats such as Mandibuzz, <a href=\"/dex/sv/pokemon/sinistcha/uu/\" hreflang=\"en\">Sinistcha</a>, Metagross, and Pecharunt, but this comes at a cost, as the drop in the power of Aqua Jet is noticeable.</p>\n<p>Azumarill fits best on hyper offense teams as a late-game sweeper that can take down weakened teams with +6 Aqua Jet. <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> provide a key role in breaking <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>'s Sturdy with entry hazards as well as getting Cobalion, Latios, and Greninja in range of +6 Aqua Jet. Thundurus-T and Ogerpon-C can pressure faster threats such as <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/volcanion/uu/\" hreflang=\"en\">Volcanion</a>, and Tera Water <a href=\"/dex/sv/pokemon/zapdos/uu/\" hreflang=\"en\">Zapdos</a>. Greninja and <a href=\"/dex/sv/pokemon/bisharp/uu/\" hreflang=\"en\">Bisharp</a> are able to check Pecharunt and Sinistcha, both of which can check Azumarill. Sticky Web from <a href=\"/dex/sv/pokemon/araquanid/uu/\" hreflang=\"en\">Araquanid</a> is able to slow down threats such as Sinistcha and Pecharunt, bringing them down to a speed where Adamant Azumarill can defeat them.</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Belly Drum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 458971,
+            "username": "NDK"
+          },
+          {
+            "user_id": 540058,
+            "username": "StarFalcon555"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 617840,
+                "username": "eeriespell"
+              },
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              },
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Belly Drum Sweeper (Fairy)",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Azumarill stands as Fairy's premier sweeper thanks to Huge Power and Belly Drum, allowing it to easily clean defensive Poison and Steel teams when positioned well. Aqua Jet makes up for Azumarill's low Speed, enabling it to deal with threats such as <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, and the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes. Play Rough complements Aqua Jet and breaks through sturdier targets that can survive Aqua Jet such as <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Alternatively, Liquidation can OHKO <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, dealing with them before they can neutralize Azumarill with Will-O-Wisp and Whirlwind. Knock Off handles targets Azumarill cannot deal with using its STAB moves such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and Water Absorb <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>.</p>\n<p><a href=\"/dex/sv/pokemon/klefki/monotype/\" hreflang=\"en\">Klefki</a> provides near essential dual screens support, enabling Azumarill to safely use Belly Drum in front of threats such as <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a> and Choice Band <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> along with setting Spikes to wear down targets such as <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. Klefki also provides a valuable Poison immunity that helps against Poison Jab Toxapex, and it can check Scizor thanks to Foul Play. Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> is an incredible wallbreaker capable of easily tearing through several physical walls like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, Archaludon, and <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>, allowing Azumarill to easily clean up late-game. <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> appreciates Azumarill handling its checks such as <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a>. In return, Iron Valiant can threaten checks to Azumarill such as <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> with its powerful Close Combat. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> provides entry hazard control thanks to Magic Bounce, preventing Azumarill from taking hazard damage. Assault Vest <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> can use Flip Turn to safely bring in Azumarill. Calm Mind Primarina enjoys Azumarill removing special walls such as Hisuian Goodra and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, and in return, it can deal with physical walls such as Galarian Weezing and <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a>. <a href=\"/dex/sv/pokemon/tinkaton/monotype/\" hreflang=\"en\">Tinkaton</a> can provide Stealth Rock support along with spreading paralysis with Thunder Wave, allowing Azumarill to outspeed foes like Archaludon and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>.</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Belly Drum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              },
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band (Fairy)",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Band Azumarill, when paired with Huge Power, turns into an effective wallbreaker that can deal great damage to Fire and Ground teams. Aqua Jet can OHKO <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and Focus Sash <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> after Stealth Rock damage and is a strong priority option. Liquidation hits bulky threats like <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Superpower enables it to clear out weakened foes such as <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, while Knock Off can be used to eliminate Ghost-types such as <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>. 140 Speed EVs allow Azumarill to outspeed threats like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, and the remaining 116 EVs in HP increase its survivability.</p>\n<p><a href=\"/dex/sv/pokemon/klefki/monotype/\" hreflang=\"en\">Klefki</a> is a great partner for Azumarill. It sets Spikes on the field, provides a safe switch from Poison-type attacks, slows foes such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and Archaludon down with Thunder Wave, and disrupts setup sweepers like <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> with Foul Play. In return, Azumarill takes out Fire- and Ground-types that threaten Klefki like <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a>, <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>, Landorus and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> prevents entry hazards with Magic Bounce and threatens foes like <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> with Psyshock. Azumarill forms an offensive core with Iron Valiant and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. The latter two eliminate threats such as <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>, <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, and in exchange, Azumarill wipes out Gholdengo and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> helps get rid of faster threats such as non-Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>. <a href=\"/dex/sv/pokemon/clefable/monotype/\" hreflang=\"en\">Clefable</a> sets Stealth Rock, which puts Pokemon like Ceruledge and Landorus into OHKO range of Azumarill's Aqua Jet. <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> also synergizes with Azumarill, as they form an offensive core. Primarina defeats threats like Unaware <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, while Azumarill shuts down threats like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and Hisuian Goodra.</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 116,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 140
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 667394,
+            "username": "July"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 527157,
+                "username": "Kiwi"
+              },
+              {
+                "user_id": 594972,
+                "username": "Murphy Lawden"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023. <a href=\"/dex/sv/formats/battle-stadium-singles/\">For more information on this format and its current events, check out the format page!</a></p>\n<p><a href=\"/forums/threads/battle-stadium-regulation-c-analyses.3719040/\">If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With a fantastic typing that checks key threats like <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> and a good STAB priority attack, Azumarill is a common choice for a team's bulky Water-type.</p>\n</li>\n<li>\n<p><strong>Superpower</strong>: Superpower often forces Azumarill to switch out, but it deals massive damage to the important <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Ice Spinner</strong>: Ice Spinner lets Azumarill deal serious damage to Water Absorb <a href=\"/dex/sv/pokemon/clodsire/battle-stadium-singles/\" hreflang=\"en\">Clodsire</a> and does more against <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> before it Terastallizes.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Azumarill has a fantastic typing that it normally wants to keep, but it being rather weak to Iron Bundle is a major issue that can force it to Terastallize.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water not only makes it easier to clean weakened teams with Aqua Jet, but it also lets Choice Band Azumarill OHKO uninvested <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> with Aqua Jet.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Assault Vest Azumarill a much better matchup against Iron Bundle, no longer being weak to Freeze-Dry and OHKOing it after Stealth Rock damage with Play Rough.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire gives Azumarill a vital immunity to Will-O-Wisp, as well as letting it deal massive damage to <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a> with Tera Blast.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric lets Azumarill deal massive damage to <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a>, and Corviknight, plus it OHKOes Iron Bundle.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass lets Azumarill beat <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>, <a href=\"/dex/sv/pokemon/brute-bonnet/battle-stadium-singles/\" hreflang=\"en\">Brute Bonnet</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/battle-stadium-singles/\" hreflang=\"en\">Rotom-W</a>.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Assault Vest</strong>: Assault Vest lets Azumarill act as a decent Chi-Yu check, with only +2 Life Orb Overheat even coming close to OHKOing.</p>\n</li>\n<li>\n<p><strong>Choice Band</strong>: The big power boost from Choice Band gives Azumarill an 81.3% chance to OHKO <a href=\"/dex/sv/pokemon/rotom-heat/battle-stadium-singles/\" hreflang=\"en\">Rotom-H</a> with Aqua Jet, and it lets it pick off major foes such as Flutter Mane, Chien-Pao, and <a href=\"/dex/sv/pokemon/great-tusk/battle-stadium-singles/\" hreflang=\"en\">Great Tusk</a> more easily.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Assault Vest",
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy",
+            "Fire",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Belly Drum",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Azumarill's excellent typing and access to priority Aqua Jet make it one of the best Belly Drum users in the metagame.</p>\n</li>\n<li>\n<p><strong>Liquidation</strong>: Liquidation remains a strong Water-type STAB move and makes Azumarill more usable in matchups where Belly Drum can't be used. When boosted by Belly Drum, Liquidation is fully capable of punching through bulky Steel-types—like <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a>—that Play Rough can't.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Encore can create an opening to use Belly Drum against slower, more passive foes, such as <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a>, though the decreased offensive coverage can hurt in the long run.</p>\n</li>\n<li>\n<p><strong>Belly Drum Usage</strong>: While finding a safe opportunity to use Belly Drum can be tough, Azumarill can cushion hits well from and set up on popular sweepers like <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>, given that they don't have a Tera type that counters Azumarill. Azumarill can still hit hard even without Belly Drum, so don't force it if the situation looks too dangerous.</p>\n</li>\n<li>\n<p><strong>EV Spread</strong> : 244 HP EVs are used to give Azumarill an even HP number, guaranteeing that Sitrus Berry activates after Belly Drum. The extra EVs are put into Speed to prevent Speed ties with opposing 4 Speed Azumarill.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Belly Drum is inherently risky; smart Tera usage can cushion an attack during setup or provide a stronger coverage option when Belly Drum simply isn't viable to use.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water combined with Belly Drum gives Aqua Jet nightmarish power. After Stealth Rock chip, it can even OHKO <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>!</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire blocks Will-O-Wisp, and the Tera Blast coverage can hit Steel-types like <a href=\"/dex/sv/pokemon/scizor/battle-stadium-singles/\" hreflang=\"en\">Scizor</a> and Corviknight hard even without Belly Drum.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass turns both Grass- and Electric-type weaknesses into resistances, and when combined with Tera Blast, it makes dealing with Unaware <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/rotom-wash/battle-stadium-singles/\" hreflang=\"en\">Rotom-W</a> much easier. It can also be used to block Spore and set up Belly Drum for free, but this must be done with discretion, as Spore users like Loaded Dice <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a> may just attack and leave Azumarill heavily wounded after Belly Drum.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric with Tera Blast is Azumarill's best option to beat <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a>, and it still deals big damage to Unaware Dondozo and Corviknight.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Water",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Belly Drum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Substitute + Encore",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-c-analysis-reservations.3719447/\">This set does not have a full write-up yet. If you'd like to finish this, feel free to reserve it here!</a></li>\n</ul>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              },
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          },
+          {
+            "user_id": 516307,
+            "username": "Photon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 583793,
+                "username": "Sabelette"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 9-10 points</p>\n<p><strong>Overview</strong>: Azumarill fits onto teams as a powerful bulky wallbreaker with excellent offensive and defensive typing, able to absorb attacks and fire back with force due to Huge Power, strong STAB options, and priority in Aqua Jet. Although it requires a very calculated game state, Azumarill is the premier Belly Drum sweeper in the meta and forces preparation accordingly. Despite these strengths, Azumarill is not a perfect fit on every roster, as its lack of longevity, low Speed for an offensive Pokemon, and general difficulty to position make it a flawed Pokemon. This combination of weaknesses and the prevalence of other desirable Water- or Fairy-type Pokemon cause Azumarill to be undrafted regularly or taken in the later rounds if it fits a particular roster.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Azumarill can use a Choice Band or damage-boosting item to output large amounts of damage and break down opposing walls. These sets can also handle faster or weakened foes with a powerful priority Aqua Jet to become a late-game cleaning threat.</p>\n<p><strong>Belly Drum Sweeper</strong>: Azumarill can maximize its damage output and become a potentially game-ending sweeper by using Belly Drum. These sets rely on Sitrus Berry to get a Belly Drum off while retaining HP and can sweep once Aqua Jet cannot be checked by foes or the opposing teams lacks priority options to revenge kill Azumarill. Trailblaze can also be used to outspeed slightly faster Pokemon that could normally check and revenge kill it.</p>\n<p><strong>Sap Sipper Wall</strong>: Azumarill can use Sap Sipper to become a more defensively-oriented team member capable of beating Grass-type foes. These sets are anti-meta, as they check many top threats and can often surprise a foe, trap them with Whirlpool, and beat them one-on-one through a variety of methods such as Perish Song.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Liquidation, Play Rough, Aqua Jet</p>\n<p><strong>Setup Moves</strong>: Belly Drum, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Encore, Substitute, Rest, Brick Break, Protect, Whirlpool, Perish Song</p>\n<p><strong>Coverage</strong>: Knock Off, Ice Spinner, Superpower</p>\n<h3>Niche Moves</h3>\n<p><strong>Bulldoze</strong>: Bulldoze can be found on attacking and sweeping sets against foes that resist Azumarill's STAB attacks. This move is only against Pokemon that are 4x weak to Ground or resist its STAB combination as STAB attacks are generally more powerful and do not cost an extra moveslot.</p>\n<p><strong>Endure</strong>: Endure can be used to ensure Azumarill survives an attack and activates Custap Berry to dish out an additional powerful attack.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Band</strong>: Choice Band is a premier item for Azumarill to let it wallbreak with potency and weaken nearly any foe tremendously. It also makes Azumarill's Aqua Jet into a great late-game cleaning option and win condition.</p>\n<p><strong>Damage-boosting Items</strong>: Similarly to Choice Band, items such as Mystic Water and Expert Belt allow Azumarill to hit higher damage thresholds to tear down opposing walls. These items are used when Azumarill wishes to switch attacks, which can be important given its ability to hit a foe into KO range and then clean up with a priority Aqua Jet.</p>\n<p><strong>Sitrus Berry</strong>: With even HP, a Sitrus Berry, and a dream, Azumarill can use Belly Drum in a favorable field position and then regain HP to facilitate a potential sweep. This item can also have more general applications to help Azumarill avoid being KOed in certain situations and provide it extra longevity.</p>\n<p><strong>Assault Vest</strong>: Azumarill can take advantage of its combination of strong STAB attacks, priority Aqua Jet, utility attacks like Knock Off, and coverage to effectively use an Assault Vest and gain the bulk to sponge hits from and check some special threats.</p>\n<h3>Niche Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots provides Azumarill safety from getting chipped down by entry hazards. On average, Heavy-Duty Boots will be more consistent than healing items for promoting its longevity, due to the prevalence of hazard-stacking teams.</p>\n<p><strong>Leftovers</strong>: Leftovers provide extra longevity to Azumarill which greatly appreciates passive healing if it is not too threatened by hazards in a given matchup.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries such as Wacan and Rindo Berry will let Azumarill unexpectedly absorb one super effective attack to trade damage with a foe or gain extra security.</p>\n<p><strong>Lum Berry</strong>: Lum Berry can be effective in preventing a burn that would greatly diminish Azumarill's damage output.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet can be found on bulkier sets to punish contact moves, as Azumarill can capably absorb common contact attacks such as Knock Off and U-turn due to its Fairy typing.</p>\n<p><strong>Custap Berry</strong>: Custap Berry is used on sets in conjunction with Endure to allow Azumarill to ignore its poor Speed and gain an extra chance to attack.</p>\n<h3>Tera</h3>\n<p>Azumarill is not an ideal primary Tera Captain, as it already has excellent typing, can only set up in very specific scenarios due to its low Speed, and generally is outclassed by other potential Tera Captains. If you make Azumarill a Tera Captain, it often uses STAB Tera types to further enhance its wallbreaking capabilities and the power of its strong Aqua Jet. It can also use defensive Tera types such as Tera Grass, Electric, and Poison to flip type matchups in its favor and ease its ability to use Belly Drum safely.</p>\n<h3>Draft Strategy</h3>\n<p>Due to its many inherent flaws, Azumarill is a complementary piece that fits on specific teams and requires support. It can provide strong wallbreaking, some coveted typings, and the potential to clean up games and even sweep if facilitated extremely well.</p>\n<p><strong>Reliable Pivots</strong>: As a slow wallbreaker that does not possess extreme bulk or reliable recovery, Azumarill needs reliable pivots to provide it safe entry to be effective. Pokemon such as <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a> fit this role well and can position Azumarill favorably.</p>\n<p><strong>Special Wallbreakers</strong>: As a strong physical wallbreaker, Azumarill appreciates teammates that can help it weaken walls with special attacks. Additional wallbreaking is particularly essential to allow it to clean up late-game scenarios with Aqua Jet. Pokemon such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a> can perform this role.</p>\n<p><strong>Entry Hazard Removal</strong>: Azumarill can benefit greatly from having entry hazard control, as it appreciates the flexibility to run damage-boosting items and healing items regularly. Entry hazard removal options such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/talonflame/draft/\" hreflang=\"en\">Talonflame</a>, and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> support it well.</p>\n<p><strong>Bulky Teammates</strong>: Although Azumarill possesses solid natural bulk, it lacks the longevity to serve as a long-term check to foes and form a sturdy defensive backbone. Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> can work well alongside Azumarill and provide its team with bulk.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Physically Bulky Pokemon</strong>: As a relatively one-dimensional physical wallbreaker, some physically bulky Pokemon can very reliably check Azumarill, especially as it lacks coverage. These walls will usually chip Azumarill down with a Rocky Helmet, as it almost exclusively uses contact moves. Physical walls such as <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/skarmory/draft/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/deoxys-defense/draft/\" hreflang=\"en\">Deoxys-D</a> can all check Azumarill.</p>\n<p><strong>Faster Foes</strong>: With very subpar Speed, Azumarill is easily offensively checked and revenge killed by a wide variety of Pokemon with type advantages. A few of these numerous threats are <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>, and Zapdos.</p>\n<p><strong>Water-resistant Pokemon</strong>: Pokemon that resist Aqua Jet can usually check Belly Drum variants and revenge kill them. Pokemon such as <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> are unthreatened by Aqua Jet and are fast enough to easily revenge kill Belly Drum sets with super effective attacks. These checks also force standard Azumarill sets to be far more reliant on prediction to make progress and deal the damage they aim to.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608304,
+            "username": "jscurf"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "PerishTrap (Def, SpD)",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sap Sipper"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlpool",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Perish Song",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>With Assault Vest, Azumarill patches up its frail Special Defense, letting it defeat special attackers it would otherwise struggle against, such as <a href=\"/dex/sv/pokemon/porygon-z/1v1/\" hreflang=\"en\">Porygon-Z</a>, <a href=\"/dex/sv/pokemon/iron-moth/1v1/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/spectrier/1v1/\" hreflang=\"en\">Spectrier</a>.</li>\n<li>Play Rough can hit Dark-type foes such as <a href=\"/dex/sv/pokemon/urshifu/1v1/\" hreflang=\"en\">Urshifu</a> and <a href=\"/dex/sv/pokemon/darkrai/1v1/\" hreflang=\"en\">Darkrai</a> as well as Dragon-type foes such as <a href=\"/dex/sv/pokemon/roaring-moon/1v1/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/walking-wake/1v1/\" hreflang=\"en\">Walking Wake</a>.</li>\n<li>Liquidation hits Fire-types such as <a href=\"/dex/sv/pokemon/skeledirge/1v1/\" hreflang=\"en\">Skeledirge</a>, <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a>, and Iron Moth.</li>\n<li>Knock Off allows it to defeat Spectrier, while Superpower allows it to beat most Porygon-Z.</li>\n<li>Aqua Jet is a crucial priority move that allows Azumarill to score key knockouts by using it after one of its primary offensive moves. It beats Spectrier by using Knock Off thrice followed by Aqua Jet and gains its best odds against most Porygon-Z by using it after Superpower.</li>\n<li>The EV spread allows Azumarill to survive two Hexes while burned from Spectrier lacking an item, while having the best odds against Choice Specs Porygon-Z should you choose to run Superpower.</li>\n<li>Due to its inability to handle Poison-types and opposing Fairy-types such as <a href=\"/dex/sv/pokemon/sneasler/1v1/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a>, Steel-types such as <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a>, <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a>, and <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a> pair well alongside it.</li>\n</ul>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 112,
+              "def": 0,
+              "spa": 0,
+              "spd": 148,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Life Orb",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Tickle",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 212,
+              "def": 0,
+              "spa": 0,
+              "spd": 48,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        },
+        {
+          "name": "Kebia Berry",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Kebia Berry"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dig",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 224,
+              "atk": 204,
+              "def": 80,
+              "spa": 0,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Superpower",
+                "type": null
+              },
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 216,
+              "atk": 252,
+              "def": 28,
+              "spa": 0,
+              "spd": 0,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Stall",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Chilling Water allows Azumarill to chip the foe down while reducing their Attack, giving it better chances versus Taunt <a href=\"/dex/sv/pokemon/great-tusk/1v1/\" hreflang=\"en\">Great Tusk</a>.</li>\n<li>Sap Sipper lures in Grass-types such as most offensive Choice Band <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a>.</li>\n<li>The HP, Special Defense investment, and Calm nature allow Azumarill to defeat Timid Choice Specs <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a> most of the time.</li>\n<li>Use Charm or Amnesia to lower the foe's damage output until Azumarill is forced to use Rest.</li>\n</ul>",
+          "abilities": [
+            "Sap Sipper"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Chilling Water",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Charm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Amnesia",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 4,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 670315,
+            "username": "Mentality"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 561084,
+                "username": "stravench"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 563650,
+                "username": "bern"
+              },
+              {
+                "user_id": 518399,
+                "username": "Itchy"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Belly Drum",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Azumarill excels as a strong setup sweeper on hyper offense teams thanks to the combination of Belly Drum and Huge Power allowing it to output colossal damage against walls such as <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a> while also being able to hold its own against offensive threats like <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> with Aqua Jet. Its defensive value to hyper offense teams is also important, as it's a solid check to threats like <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>. Unfortunately, Azumarill's low Speed leaves it susceptible to common checks such as <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>, which all shrug off its +6 Aqua Jet. Play Rough is important in order to beat bulky Water- and Grass-types such as <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-uu/\" hreflang=\"en\">Tapu Fini</a> and <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a> while also mauling Dragon-types that may otherwise check it such as <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>. Knock Off is valuable to rip apart common Steel-types such as <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> after a Belly Drum boost, and the progress it forces against threats it can't immediately beat such as <a href=\"/dex/sv/pokemon/volcanion/national-dex-uu/\" hreflang=\"en\">Volcanion</a> and <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a> is very valuable. Alternatively, Liquidation can be used in order to OHKO Skarmory and bulky <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>. Ice Spinner is a middle ground option that especially terrorizes Grass-types like physically defensive Tangrowth while still being able to annihilate Skarmory and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>. Normalium Z provides a near guarantee that Azumarill can set up a Belly Drum and sweep, but Sitrus Berry is perfectly fine if it's partnering with another Z-Move user. The 4 HP EVs are important for Sitrus Berry sets, as they ensure the berry activates after setting up with Belly Drum, but it's better to run 4 Defense or Special Defense EVs instead on Normalium Z sets to minimize Stealth Rock damage. Since Azumarill tends to struggle even with +6 Aqua Jet against faster foes that resist Water like <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/sv/pokemon/zarude/national-dex-uu/\" hreflang=\"en\">Zarude</a>, partners that can threaten them, such as <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a> and <a href=\"/dex/sv/pokemon/hawlucha/national-dex-uu/\" hreflang=\"en\">Hawlucha</a>, respectively, are greatly appreciated. In return, Azumarill can break open defensive staples like Assault Vest Tangrowth and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> for them. Although Azumarill is a powerful sweeper, it can't break through physically defensive behemoths such as <a href=\"/dex/sv/pokemon/quagsire/national-dex-uu/\" hreflang=\"en\">Quagsire</a> and Mega Venusaur, so partners like Meteor Beam Celesteela and <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a> are great to have while Azumarill takes cares of their checks like Aegislash for them. Hyper offense leads such as <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/mew/national-dex-uu/\" hreflang=\"en\">Mew</a> are essential partners to help Azumarill break through foes like Skarmory with the help of entry hazard chip. <a href=\"/dex/sv/pokemon/ribombee/national-dex-uu/\" hreflang=\"en\">Ribombee</a> is another option that helps Azumarill negate its poor Speed with Sticky Web so it can deal with threats such as Mega Venusaur and Tapu Fini. Setup sweepers such as Nasty Plot Thundurus can wear down checks like Mega Venusaur and Rotom-W for Azumarill while it takes down threats such as Gastrodon for it. Cleaners such as Alakazam, <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-uu/\" hreflang=\"en\">Galarian Moltres</a>, and Iron Moth appreciate Azumarill softening defensive checks such as <a href=\"/dex/sv/pokemon/chansey/national-dex-uu/\" hreflang=\"en\">Chansey</a> and Celesteela for them.</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Normalium Z",
+            "Sitrus Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Belly Drum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Liquidation",
+                "type": null
+              },
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Band Azumarill finds a solid niche in the tier as a wallbreaker with access to priority in Aqua Jet and an excellent defensive typing that provides switch-in opportunities into common threats such as Choice Specs <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>. Its STAB combination threatens common metagame staples such as <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>. Aqua Jet allows Azumarill to revenge kill threats like Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>, Booster Energy <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>. Knock Off hits Pokemon that resist its STAB moves like <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, and item removal is valuable for helping chip down walls like <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> into range for future assaults by Azumarill or its teammates. Choice Band Azumarill fits best on bulky offense teams, as they can reliably fit pivots such as <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>. Azumarill appreciates the pivoting support that these Pokemon provide in helping it enter the field, and in return, it pressures Pokemon that dissuade U-turn or Volt Switch such as Buzzwole and Hippowdon. Azumarill's excellent defensive typing provides bulky offensive teams with the ability to withstand hits from otherwise threatening wallbreakers such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> and Keldeo. Furthermore, its access to priority lets it revenge kill fast offensive threats that threaten these teams such as Sand Rush Excadrill and Booster Energy Iron Moth. Azumarill's biggest hindrance in the tier is <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>; and,to a lesser extent, Amoonguss, which can withstand all of Azumarill's moves and threaten it with Sludge Bomb, Leech Seed, or status. Therefore, Azumarill should be paired with partners that can reliably dispatch or scare out Mega Venusaur such as Mega Latias and Air Slash Celesteela. While other defensive Grass-types like <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>, <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a>, and <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-uu/\" hreflang=\"en\">Tapu Bulu</a> need to watch out for Choice Band Azumarill's Play Rough, they can slow down its attempts at wallbreaking and retaliate with their Grass-type STAB moves or, in Tangrowth's case, Rocky Helmet. Pokemon that can punish these Grass-types like Iron Moth, Offensive Celesteela, Mega Latias, <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a>, and Scizor thus make excellent partners for Azumarill. In a similar vein, blanket physical walls like Rocky Helmet Buzzwole and Skarmory can punish an Azumarill Choice-locked into one of its STAB moves; as a result, Azumarill appreciates the support of special attacking wallbreakers such as <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a>, <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a>, <a href=\"/dex/sv/pokemon/volcanion/national-dex-uu/\" hreflang=\"en\">Volcanion</a>, and Keldeo. In return, these special wallbreakers appreciate Azumarill's ability to handle special walls like <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a> and <a href=\"/dex/sv/pokemon/blissey/national-dex-uu/\" hreflang=\"en\">Blissey</a>. Volcanion and Keldeo in particular appreciate its ability to pressure Mega Latias. Additionally, Water-types like Slowbro, Rotom-W, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, and Volcanion have resistances or immunities that allow them to pivot in on Choice-locked Azumarill and threaten it with burns and Toxic. Consequently, Pokemon that exploit bulky Water-types like Rotom-W, <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>, and Hydrapple make excellent teammates. Azumarill appreciates entry hazard support from the likes Excadrill, Skarmory, and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, as they can help chip down answers such as Mega Venusaur.</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 391284,
+            "username": "Velcroc"
+          },
+          {
+            "user_id": 568189,
+            "username": "Runo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 535121,
+                "username": "gu"
+              },
+              {
+                "user_id": 535530,
+                "username": "Gangsta Spongebob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Z-Belly Drum (Fairy)",
+          "pokemon": "Azumarill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Azumarill's presence is greatly appreciated on Fairy teams, where it tends to be the Z-Crystal user of choice and a good answer to the Fire, Ground, Rock, Poison and Steel matchups. Z-Belly Drum guarantees a +6 boost to Azumarill's already impressive Attack, turning it into a redoubtable setup sweeper with access to priority, and it can even offer a second setup opportunity if Azumarill gets forced out with its Z-Move unused. Aqua Jet is Azumarill's answer to threats that outspeed it, such as <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, and <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a>. Aside from dealing with Ghost- and Psychic-types such as <a href=\"/dex/sv/pokemon/slowbro/national-dex-monotype/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/sinistcha/national-dex-monotype/\" hreflang=\"en\">Sinistcha</a>, Knock Off is Azumarill's best coverage option against walls that resist its other attacks, such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and Water Absorb <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a>. Breakneck Blitz coming off Return beats <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> as well as Icium Z Toxapex, which doesn't fear Knock Off. Alternatively, Liquidation could be used as a stronger STAB option for slower foes like <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, which is important if a Jolly nature is used. Ice Spinner is an alternative that can be used to defeat both Ting-Lu and Mega Venusaur after some chip, along with getting rid of Psychic Terrain to allow for Aqua Jet to be used without being blocked. <a href=\"/dex/sv/pokemon/klefki/national-dex-monotype/\" hreflang=\"en\">Klefki</a> is an amazing partner for Azumarill, offering a Poison immunity and dual screens support to ease setup and spreading Spikes to chip the opposing team. <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> helps in the Fire and Flying matchups and provides entry hazard control, contributing to keeping Azumarill healthy as well as providing Stealth Rock to help its wallbreaking. Tapu Koko deals with Water-types such as <a href=\"/dex/sv/pokemon/pelipper/national-dex-monotype/\" hreflang=\"en\">Pelipper</a> and Toxapex, making Azumarill's sweep easier down the line, and it also handles Steel- and Flying-types like Celesteela and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> should Azumarill opt for Return. <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a> also aids in the Water and Electric matchup, handling foes like <a href=\"/dex/sv/pokemon/quagsire/national-dex-monotype/\" hreflang=\"en\">Quagsire</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a> that Azumarill can struggle to bring down. <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a> deals with most Fighting-types and, when paired with Tapu Koko, outspeeds and defeats faster foes such as <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a> and <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a> under rain, but it competes with Azumarill for a Z-Crystal. <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> handles Poison-types like Mega Venusaur and Clodsire, but be cautious of Psychic Terrain preventing Azumarill from using Aqua Jet. Babiri Berry <a href=\"/dex/sv/pokemon/clefable/national-dex-monotype/\" hreflang=\"en\">Clefable</a> can be used as an alternative to Tapu Lele for checking <a href=\"/dex/sv/pokemon/scizor/national-dex-monotype/\" hreflang=\"en\">Scizor</a>, and it also handles Mega Venusaur well, as it can use it as setup fodder.</p>",
+          "abilities": [
+            "Huge Power"
+          ],
+          "items": [
+            "Normalium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Belly Drum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Return",
+                "type": null
+              },
+              {
+                "move": "Liquidation",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 547532,
+            "username": "Swiffix"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Alluring Voice",
+    "Amnesia",
+    "Aqua Jet",
+    "Aqua Ring",
+    "Aqua Tail",
+    "Belly Drum",
+    "Blizzard",
+    "Body Slam",
+    "Bounce",
+    "Brick Break",
+    "Bubble Beam",
+    "Bulldoze",
+    "Charm",
+    "Chilling Water",
+    "Copycat",
+    "Defense Curl",
+    "Dig",
+    "Disarming Voice",
+    "Double-Edge",
+    "Draining Kiss",
+    "Encore",
+    "Endure",
+    "Facade",
+    "Fake Tears",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Giga Impact",
+    "Grass Knot",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Ice Punch",
+    "Ice Spinner",
+    "Icy Wind",
+    "Knock Off",
+    "Light Screen",
+    "Liquidation",
+    "Metronome",
+    "Misty Explosion",
+    "Misty Terrain",
+    "Muddy Water",
+    "Mud Shot",
+    "Mud-Slap",
+    "Perish Song",
+    "Play Rough",
+    "Present",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Rollout",
+    "Sing",
+    "Slam",
+    "Sleep Talk",
+    "Snowscape",
+    "Soak",
+    "Splash",
+    "Substitute",
+    "Superpower",
+    "Supersonic",
+    "Surf",
+    "Swift",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Tickle",
+    "Trailblaze",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Whirlpool"
+  ]
+}

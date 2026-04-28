@@ -1,0 +1,303 @@
+{
+  "name": "Hitmonlee",
+  "alias": "hitmonlee",
+  "types": [
+    "Fighting"
+  ],
+  "stats": [
+    50,
+    120,
+    53,
+    35,
+    110,
+    87
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Sweeper",
+          "pokemon": "Hitmonlee",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Earthquake has poor synergy with Grassy Terrain, so Hitmonlee should run either Stone Edge or Poison Jab if it's using Grassy Seed.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Psychic Seed",
+            "Grassy Seed"
+          ],
+          "teratypes": [
+            "Dark",
+            "Fighting",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Poison Jab",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "<p>Hitmonlee is a powerful physical sweeper on Grassy Terrain offense teams, taking advantage of the Defense and Speed boosts from Grassy Seed and Unburden to set up on, outspeed, and sweep through foes like <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/duraludon/nu/\" hreflang=\"en\">Duraludon</a>. Close Combat and Knock Off are great options against the majority of the metagame, and moves like Poison Jab and Earthquake can give it a super effective option against other foes, such as <a href=\"/dex/sv/pokemon/scream-tail/nu/\" hreflang=\"en\">Scream Tail</a> and <a href=\"/dex/sv/pokemon/overqwil/nu/\" hreflang=\"en\">Overqwil</a>. Hitmonlee's bulk can be a bit lacking, and the Defense boost from Grassy Seed is required in order to find a turn to set up. Further, if it is phazed by <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>'s or <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>'s Roar or Duraludon's Dragon Tail, it will lose this boost and its Unburden boost, severely hampering its later effectiveness. Without a Speed boost, Hitmonlee is limited - it is outsped by common threats like <a href=\"/dex/sv/pokemon/flamigo/nu/\" hreflang=\"en\">Flamigo</a>, Flygon, and <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>, all of which can seriously threaten it. Outside of Grassy Terrain, Hitmonlee is outclassed by other Fighting-types, such as Flamigo, <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a>, and <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Hitmonlee can also run Tera Fire with Blaze Kick to target foes like <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a> and to avoid being burned, but this has limited defensive utility and makes Himtonlee more vulnerable to revenge killers like Aqua Jet <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion</a>. Stone Edge can also be used to hit foes like <a href=\"/dex/sv/pokemon/altaria/nu/\" hreflang=\"en\">Altaria</a> for super effective damage, but this gives up on wallbreaking a wide variety of foes such as <a href=\"/dex/sv/pokemon/scream-tail/nu/\" hreflang=\"en\">Scream Tail</a> and <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a> with Poison Jab.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Status</strong>: Hitmonlee is all-in on physical offense, and there are a number of physically defensive Pokemon that carry Will-O-Wisp, such as <a href=\"/dex/sv/pokemon/houndstone/nu/\" hreflang=\"en\">Houndstone</a> and Altaria, that Hitmonlee cannot OHKO at +2. Also, Hitmonlee's greatest asset is its Unburden Speed boost, which paralysis easily nullifies.</p>\n<p><strong>Phazing</strong>: Phazing is a death sentence for Hitmonlee, as it removes the Unburden Speed boost, the Grassy Seed Defense boost, and any Attack boosts it has gathered. As a result, phazing moves such as Roar from <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>, Houndstone, and <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>, as well as Dragon Tail from <a href=\"/dex/sv/pokemon/duraludon/nu/\" hreflang=\"en\">Duraludon</a>, can be incredibly dangerous.</p>\n<p><strong>Fighting-resistant Pokemon</strong>: A number of powerful Psychic-, Fairy-, and Poison-type Pokemon, such as <a href=\"/dex/sv/pokemon/reuniclus/nu/\" hreflang=\"en\">Reuniclus</a>, Sylveon, and <a href=\"/dex/sv/pokemon/slowbro-galar/nu/\" hreflang=\"en\">Galarian Slowbro</a>, can effectively wall Hitmonlee while seriously threatening it in return. However, particularly after Hitmonlee uses Swords Dance, these checks must often rely on Terastallization or prediction to succeed.</p>",
+      "movesets": [
+        {
+          "name": "Terrain Sweeper",
+          "pokemon": "Hitmonlee",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Knock Off allows Hitmonlee to hit Dark-weak foes like <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, <a href=\"/dex/sv/pokemon/slowbro-galar/nu/\" hreflang=\"en\">Galarian Slowbro</a>, and <a href=\"/dex/sv/pokemon/houndstone/nu/\" hreflang=\"en\">Houndstone</a> for super effective damage. Poison Jab allows Hitmonlee to hit Fairy-types like <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a> and <a href=\"/dex/sv/pokemon/scream-tail/nu/\" hreflang=\"en\">Scream Tail</a>, while Earthquake gives it an option against Poison-types like <a href=\"/dex/sv/pokemon/overqwil/nu/\" hreflang=\"en\">Overqwil</a> and <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>. An Adamant nature gives Hitmonlee a few additional damage rolls, such as +2 Knock Off having good odds to OHKO Galarian Slowbro after Stealth Rock or one layer of Spikes. A Jolly nature allows it to outspeed some weather sweepers, such as <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion</a> under rain. Tera Dark boosts Knock Off, OHKOing Galarian Slowbro at +2, and gives Hitmonlee an immunity to Psychic-type attacks from <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a> as well as Prankster moves from <a href=\"/dex/sv/pokemon/klefki/nu/\" hreflang=\"en\">Klefki</a>. Tera Poison boosts the power of Poison Jab, allowing +2 Hitmonlee to OHKO Scream Tail. Tera Steel is a solid defensive typing, allowing Hitmonlee to set up in the face of Psychic-types like Munkidori and Fairy-types like Sylveon.</p>\n<p>Hitmonlee works best on Grassy Terrain offense teams, so <a href=\"/dex/sv/pokemon/thwackey/nu/\" hreflang=\"en\">Thwackey</a> is a must-have partner for its ability to set Grassy Terrain. Other physical Terrain attackers like <a href=\"/dex/sv/pokemon/grafaiai/nu/\" hreflang=\"en\">Grafaiai</a>, <a href=\"/dex/sv/pokemon/arcanine/nu/\" hreflang=\"en\">Arcanine</a>, and <a href=\"/dex/sv/pokemon/cinccino/nu/\" hreflang=\"en\">Cinccino</a> are great partners, as they work together to break down shared checks like Houndstone, <a href=\"/dex/sv/pokemon/altaria/nu/\" hreflang=\"en\">Altaria</a>, and Galarian Slowbro. Other Terrain sweepers like <a href=\"/dex/sv/pokemon/articuno-galar/nu/\" hreflang=\"en\">Galarian Articuno</a>, <a href=\"/dex/sv/pokemon/drifblim/nu/\" hreflang=\"en\">Drifblim</a>, Calm Mind <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, and <a href=\"/dex/sv/pokemon/meloetta/nu/\" hreflang=\"en\">Meloetta</a> also fit well on such teams and benefit from the threat Hitmonlee poses to specially defensive walls such as <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a> and <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>. <a href=\"/dex/sv/pokemon/espeon/nu/\" hreflang=\"en\">Espeon</a> can use Magic Bounce to reflect hazards and block phazing attempts from the likes of Whirlwind Copperajah and Roar <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>.</p>",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Grassy Seed"
+          ],
+          "teratypes": [
+            "Dark",
+            "Poison",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poison Jab",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641404,
+            "username": "hammer798"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 736762,
+                "username": "Ascension Evermore"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 4-5 points</p>\n<p><strong>Overview</strong>: Hitmonlee boasts two powerful abilities in Unburden and Reckless alongside strong coverage moves that boost its offensive value to the teams that draft it. With Swords Dance and a Speed boost, it can threaten to clean up weakened teams or simply use its helpful movepool to take advantage of momentum generated by teammates. However, its base Speed is relatively poor, and its Defense is abysmal, leaving Hitmonlee incredibly vulnerable without stat boosts.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Boasting the second strongest base Attack of all Unburden users and arguably the best coverage options, Hitmonlee can position itself for a clean sweep of enemy teams by consuming its item and boosting its Attack with Swords Dance, especially when paired with Terrain.</p>\n<p><strong>Wallbreaker</strong>: Hitmonlee can use its good Attack stat, high-Base Power moves, and sometimes Reckless to punch holes in opponents' defensive cores, softening them up for a teammate's late-game sweep.</p>\n<p><strong>Offensive Utility</strong>: Hitmonlee has access to the coveted Rapid Spin, meaning it has the ability to threaten a strong Fighting-type STAB move, spammable coverage moves like Knock Off and Earthquake, Taunt to shut down passive walls, and entry hazard removal with a built-in Speed boost all in the same moveset.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Close Combat, High Jump Kick, Mach Punch</p>\n<p><strong>Setup Moves</strong>: Swords Dance, Bulk Up</p>\n<p><strong>Utility Moves</strong>: Brick Break, Rapid Spin, Taunt, Substitute</p>\n<p><strong>Coverage</strong>: Earthquake, Knock Off, Lunge, Poison Jab, Rock Slide, Stone Edge, Sucker Punch, Bullet Punch, Blaze Kick</p>\n<h3>Niche Moves</h3>\n<p><strong>Endure / Reversal</strong>: One of the oldest tricks in Hitmonlee’s book, Endure and Reversal can be utilized alongside a Liechi Berry on Unburden sets allowing it to fire off 200-Base Power STAB Reversals at +1 with a doubled Speed stat when reduced to a sliver of HP. This can be a risky yet potentially lucrative strategy, vulnerable to Fighting-immune Pokemon, status, chip damage, priority, and opponents predicting the Endure.</p>\n<p><strong>Upper Hand</strong>: When paired with the above two moves, this can mitigate Hitmonlee’s weakness to priority against non-Ghost-type foes.</p>\n<p><strong>Fling</strong>: Hitmonlee can use Fling alongside a Big Nugget for a 130-Base Power one-time use Dark-type move while also activating Unburden. Other items, like Light Ball, can provide utility instead of raw damage.</p>\n<p><strong>Fake Out</strong>: Hitmonlee’s Fake Out serves a niche purpose in dealing chip damage while also activating Unburden by consuming a Normal Gem.</p>\n<h3>Common Items</h3>\n<p><strong>Terrain Seed</strong>: Terrain Seeds are the standard method of activating Unburden when Hitmonlee is paired with a Terrain-setting Pokemon. The Defense boost from Electric and Grassy Seed deserve special mention for upgrading Hitmonlee's Defense stat from awful to average.</p>\n<p><strong>White Herb</strong>: White Herb can activate Unburden without the help of a teammate by clearing the negative stat drops from Hitmonlee’s Close Combat.</p>\n<p><strong>Choice Band</strong>: On wallbreaking sets, a Choice Band can help Hitmonlee deliver a maximally powerful Close Combat or High Jump Kick.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage-boosting Items</strong>: Expert Belt, Black Belt, and Life Orb can offer more flexibility to Hitmonlee than a Choice Band can for using its utility moves and combating Pokemon with immunities to its most common attacks.</p>\n<p><strong>Heavy-Duty Boots</strong>: Although Hitmonlee resists Stealth Rock, Heavy-Duty Boots can help it switch in and remove entry hazards more often over the course of the battle, aiding its utility sets.</p>\n<p><strong>Focus Sash</strong>: A Focus Sash can be used in place of a Liechi Berry to free up a moveslot and a turn for Swords Dance, but it can be completely negated by hazards or chip damage, so it is not as reliable for activating Unburden.</p>\n<p><strong>Assault Vest</strong>: Hitmonlee boasts a bizarrely high Special Defense stat, so an Assault Vest can make Hitmonlee a reasonably effective special tank in a pinch.</p>\n<p><strong>Normal Gem</strong>: As mentioned above, Normal Gem can be used with Fake Out to activate Unburden.</p>\n<p><strong>Protective Pads</strong>: Most of Hitmonlee's most common attacks deal contact damage, so Protective Pads may alleviate the pain of Rocky Helmet and other contact effects in problematic matchups.</p>\n<p><strong>Lum Berry</strong>: Hitmonlee hates getting statused, so Lum Berry is one way to gain a free turn while also activating Unburden, but this is an unreliable strategy due to relying on the foe using a status move.</p>\n<h3>Tera</h3>\n<p>Hitmonlee appreciates having Tera as an option, although it isn’t usually worth the opportunity cost of a higher-tier Tera Captain that has better stats and worse type coverage. When given the opportunity, Hitmonlee most often uses Tera Fighting to further increase the power of its STAB moves or Tera Ground and Dark to gain relevant immunities and boost its most useful coverage moves.</p>\n<h3>Draft Strategy</h3>\n<p>Hitmonlee is a useful secondary wincon on teams that support Unburden users well or are in need of more offensive power, but it should never be the linchpin of the team. Its utility movepool, particularly Rapid Spin, can also make it attractive, but it is decidedly a budget pick and is unlikely to be the first choice for its role even when a team is in dire need of a sweeper or entry hazard removal.</p>\n<p><strong>Terrain Setters</strong>: Pokemon with abilities that set Terrain can enable Hitmonlee to activate its Unburden ability upon switching in. These include <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/weezing-galar/draft/\" hreflang=\"en\">Galarian Weezing</a>, <a href=\"/dex/sv/pokemon/indeedee/draft/\" hreflang=\"en\">Indeedee</a>, and <a href=\"/dex/sv/pokemon/pincurchin/draft/\" hreflang=\"en\">Pincurchin</a>.</p>\n<p><strong>Wallbreakers</strong>: If Hitmonlee is attempting to sweep, it appreciates having the sturdiest walls damaged or defeated beforehand by powerful teammates like <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/draft/\" hreflang=\"en\">Ursaluna-B</a>, and <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>.</p>\n<p><strong>Pivots</strong>: Hitmonlee can rarely switch in on hits, so it appreciates teammates that can help it utilize its colorful movepool, such as <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Contact Damage</strong>: Most of Hitmonlee’s moves make contact, so Rocky Helmet or contact abilities can quickly drain its health, especially when using Rapid Spin or Reversal.</p>\n<p><strong>Ghost-types</strong>: Ghost-types are immune to both Rapid Spin and Hitmonlee’s Fighting-type STAB attacks, although none of them like switching in on a Knock Off. Note that a Ghost-type switching in on Hitmonlee's High Jump Kick will result in it taking disastrous crash damage.</p>\n<p><strong>Phazing</strong>: Unburden can be permanently disabled if Hitmonlee is forced to switch out with moves like Roar and Dragon Tail or items like Red Card. This is especially dangerous for Hitmonlee due to its middling Speed, crippling it for the rest of the battle.</p>\n<p><strong>Priority Moves</strong>: While Hitmonlee has some counterplay options with priority moves of its own, it can still be quite vulnerable against enemies that negate its Speed boosts from Unburden and Rapid Spin like <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, Rillaboom, and <a href=\"/dex/sv/pokemon/azumarill/draft/\" hreflang=\"en\">Azumarill</a>.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 582655,
+            "username": "BurningMonSoul"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657717,
+                "username": "Big Pharma"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              },
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aura Sphere",
+    "Axe Kick",
+    "Baton Pass",
+    "Blaze Kick",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Punch",
+    "Close Combat",
+    "Coaching",
+    "Counter",
+    "Double-Edge",
+    "Double Kick",
+    "Earthquake",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Feint",
+    "Fling",
+    "Focus Blast",
+    "Focus Energy",
+    "Giga Impact",
+    "Helping Hand",
+    "High Jump Kick",
+    "Knock Off",
+    "Low Kick",
+    "Low Sweep",
+    "Lunge",
+    "Mach Punch",
+    "Mega Kick",
+    "Metronome",
+    "Mud-Slap",
+    "Poison Jab",
+    "Protect",
+    "Rain Dance",
+    "Rapid Spin",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Sleep Talk",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Upper Hand",
+    "Uproar",
+    "Vacuum Wave",
+    "Wide Guard"
+  ]
+}

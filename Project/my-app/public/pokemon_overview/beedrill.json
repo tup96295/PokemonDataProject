@@ -1,0 +1,122 @@
+{
+  "name": "Beedrill",
+  "alias": "beedrill",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    65,
+    90,
+    40,
+    45,
+    80,
+    75
+  ],
+  "strategies": [
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Please Don't Use Mega Beedrill",
+          "pokemon": "Beedrill",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Despite <a href=\"/dex/sv/pokemon/beedrill-mega/national-dex-uu/\" hreflang=\"en\">Mega Beedrill</a> initially seeming like a good Pokemon thanks to its exceptional Attack and Speed stats, great ability in Adaptability, and access to U-turn, it is completely unviable. While U-turn can grab momentum against foes such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, and Poison Jab has some utility in targeting Fairy-types like <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, Bug and Poison is an atrocious STAB combination that has no way to break through common defensive Pokemon like <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, and it notably struggles to even touch Steel-types. <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> stonewall Mega Beedrill, and while other Steel-types dislike Drill Run and Knock Off, virtually every Steel-type, from <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a> to <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>, can usually beat Mega Beedrill one-on-one. As a pivot, Mega Beedrill suffers massively due to its Stealth Rock weakness and inability to hold Heavy-Duty Boots, which makes it very over-reliant on hazard control, or else it'd be worn down rapidly. Mega Beedrill's paltry defensive stats and terrible typing give it practically no defensive utility, rendering it extremely vulnerable to Choice Scarf users such as Hydreigon and priority moves like <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>'s Bullet Punch and Bisharp's Sucker Punch. Pursuit is another seemingly useful option, with its ability to outpace the likes of <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> and Mega Latias working well in tandem with Mega Beedrill's ability to hit them super effectively. However, Mega Beedrill is outclassed as a Pursuit trapper by <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a> and <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, both of which have a much better offensive and defensive presence thanks to their better typings. For teammates, entry hazard removers like Excadrill and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> are mandatory. Special attackers that can remove or chip physical walls, such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a>, are necessary to let Mega Beedrill have any hope of threatening the opposing team. <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a> is notable for its ability to trap and remove Skarmory and Celesteela. Entry hazards from setters like <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a> and Skarmory can chip Mega Beedrill's targets and help it actually KO its targets. Overall, Mega Beedrill is an offensive threat that loses to most foes and requires excessive amounts of support to function properly; thus, it is far too difficult to apply to standard teams to be considered viable.</p>",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Beedrillite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poison Jab",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drill Run",
+                "type": null
+              },
+              {
+                "move": "Pursuit",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Pursuit",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535530,
+            "username": "Gangsta Spongebob"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 272785,
+                "username": "nimzowitsch"
+              },
+              {
+                "user_id": 568189,
+                "username": "Runo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

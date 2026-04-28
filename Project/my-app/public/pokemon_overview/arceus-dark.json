@@ -1,0 +1,725 @@
+{
+  "name": "Arceus-Dark",
+  "alias": "arceus-dark",
+  "types": [
+    "Dark"
+  ],
+  "stats": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind + Taunt",
+          "pokemon": "Arceus-Dark",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set while we work on the full analysis!</p>",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Dread Plate"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Judgment",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Arceus-Dark",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set while we work on the full analysis!</p>",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Dread Plate"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 132,
+              "spa": 0,
+              "spd": 0,
+              "spe": 128
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Arceus-Dark",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Dread Plate"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Water",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Judgment",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Perish Song",
+                "type": null
+              },
+              {
+                "move": "Roar",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "The Set",
+          "pokemon": "Arceus-Dark",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Dread Plate"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Fire",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Judgment",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Ekiller",
+          "pokemon": "Arceus-Dark",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Dread Plate"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 156,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 100
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Arceus-Dark",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>With access to STAB Foul Play, high defensive stats, and its mono-Dark typing, Arceus-Dark effectively checks Pokemon such as Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a>, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>, and <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>, making it one of the most reliable defensive Arceus formes in NatDex Ubers.</li>\n<li>Foul Play is absolutely essential for Arceus-Dark, as it serves two crucial roles: first, it allows Arceus-Dark to effectively revenge kill boosted threats such as Primal Groudon, Arceus, Ultra Necrozma, and Mega Salamence. Second, it acts as a deterrent, dissuading these threats from setting up until Arceus-Dark has been sufficiently weakened.</li>\n<li>Toxic is the preferred status move for Arceus-Dark, primarily to cripple common switch-ins such as <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>, <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>, Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, and <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>. Will-O-Wisp presents a viable alternative for hitting <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a> and <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>, which is particularly relevant given Zacian-C's resistance to Foul Play.</li>\n<li>Refresh is a solid choice when Arceus-Dark is utilized as a primary Knock Off and status absorber for the team, since it can reliably  switch into Toxic Yveltal or <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>. However, in other scenarios, it's not recommended since it would render Arceus-Dark too passive against the aforementioned threats.</li>\n<li>Taunt allows Arceus-Dark to greatly limit most of the entry hazard setters in the tier, namely Primal Groudon, Defensive Necrozma-DM, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a>. Additionally, it can neutralize status spreaders like Toxic Yveltal, Ferrothorn, and <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-Origin</a>, while also restricting the former's ability to use Defog. Taunt Arceus-Dark is also one of the best checks to <a href=\"/dex/sv/pokemon/zygarde-complete/national-dex-ubers/\" hreflang=\"en\">Zygarde-C</a>, as it can completely shut down its ability to spread paralysis and set up.</li>\n<li>Defog serves as a good filler move when Arceus-Dark acts as hazard control over common Defoggers like Ho-Oh and Giratina-O.\nStealth Rock can be a viable option to free up teammates to fulfill other roles; for example, it alows Primal Groudon to run more offensive sets such as Swords Dance, or fit Spikes on defensive set. In addition, Arceus-Dark's typing and movepool allow it to set up Stealth Rock on common Defoggers such as Ho-Oh, Giratina-O, and most opposing Arceus formes, all of which are threatened by Arceus-Dark's status moves.</li>\n<li>Arceus-Dark's EV spread enables it to be faster than common base 90 Speed foes and also facilitates its role as a revenge killer against offensive Primal Groudon and Primal Kyogre. Alternatively, investing in Speed with EVs of 248 HP / 164 Def / 96 Spe and a Timid nature allows Arceus-Dark to outspeed Pokémon like Yveltal, <a href=\"/dex/sv/pokemon/zekrom/national-dex-ubers/\" hreflang=\"en\">Zekrom</a>, and <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a>, and still survive a Life Orb Low Kick from Marshadow.</li>\n<li>Tera Poison lets Arceus Dark acts as an emergency check to boosted Marshadow and Tera Fighting Zacian-C, making it possible to safely revenge kill them. Moreover, by becoming a Poison-type, Arceus-Dark becomes immune to Toxic, making it possible for non-Taunt versions to beat Toxic Yveltal one-on-one. However, Tera Poison makes Arceus-Dark extremely vulnerable to Photon Geyser Ultra Necrozma, Primal Groudon, <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a>, and <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a>, thus trainers should think twice before Terastallizing Arceus-Dark.</li>\n<li>Utility Arceus-Dark is an excellent fit for balance and defensive teams, offering a check to Zygarde-C and and other common physical sweepers such as Ultra Necrozma.\nDepending on the set used, some precautions should be taken with Arceus-Dark. Non-Refresh sets need to scout for Toxic before switching into Primal Groudon and Necrozma-DM. Similarly, it is important to scout for Glare <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a> since Arceus-Dark doesn't enjoy being paralyzed.</li>\n<li>Stealth Rock from Arceus-Dark itself or a teammate  like Primal Groudon can wear down Fairy-types such as Arceus-Fairy that can switch into Arceus-Dark.</li>\n<li>Since Necrozma-DM, the premier Toxic absorber of the tier, is heavily threatened by Foul Play, Arceus-Dark can often freely use Toxic on a predicted switch-in.</li>\n<li>Primal Groudon and Swords Dance Arceus can overwhelm Arceus-Dark. To improve its matchup against these threats, teammates like Zygarde-C, Ferrothorn, and <a href=\"/dex/sv/pokemon/ditto/national-dex-ubers/\" hreflang=\"en\">Ditto</a> can provide valuable support.</li>\n<li>Defensive Primal Groudon serves as a great partner for Arceus-Dark, threatening Eternatus, which walls Arceus-Dark. A similar role is accomplished by Ho-Oh, especially sets carrying Thunder Wave, which can make Arceus-Dark faster than it. Additionally, Ho-Oh appreciates Arceus-Dark's ability to deal with Knock Off Necrozma-DM and Ultra Necrozma.</li>\n<li>Necrozma-DM is another partner that benefits from Arceus-Dark's ability to cripple Primal Groudon and Yveltal, and it provides a Fairy resistance and Toxic immunity in return.</li>\n<li>Cleric support from Pokemon such as <a href=\"/dex/sv/pokemon/magearna/national-dex-ubers/\" hreflang=\"en\">Magearna</a> and <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a> can mitigate non-Refresh Arceus-Dark's weakness to status conditions.</li>\n</ul>",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Dread Plate"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Refresh",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 136,
+              "spa": 0,
+              "spd": 0,
+              "spe": 124
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 164,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Arceus-Dark",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Calm Mind Arceus-Dark is an appealing option for balance and bulky offense teams that appreciate the role compression this set is able to provide. Arceus-Dark provides these teams with a sturdy win condition, a special wall, and a counter to Pokemon such as <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a> and specially offensive <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>.</li>\n<li>Arceus-Dark has some flexibility in its fourth moveslot. Refresh enables Arceus-Dark to shrug off status and enables a stronger mid-game presence, as it is able to switch into Pokemon such as <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a> and <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> with impunity. Refresh also enables Arceus-Dark to position itself for a sweep more easily, as it is not hampered by Toxic.</li>\n<li>Taunt allows Arceus-Dark to easily shut down much of the defensive metagame and set up on Pokemon such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, but it has to come in cautiously, as status conditions such as Toxic poison and paralysis from Ho-Oh, Giratina-O, and Zygarde heavily impede its ability to sweep prior to Terastallizing.</li>\n<li>4 Defense and 96 Speed EVs enable Arceus-Dark to survive Choice Band <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a>'s Glacial Lance and outspeed <a href=\"/dex/sv/pokemon/chi-yu/national-dex-ubers/\" hreflang=\"en\">Chi-Yu</a>. The remaining EVs are dumped into Special Defense, which enables Arceus-Dark to better function as a special wall. This is particularly important against specially offensive Yveltal, as Arceus-Dark is easily able to shrug off Oblivion Wing as opposed to being forced to use Recover. This investment also enables Arceus-Dark to use Meteor Beam <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> as setup fodder, as it can withstand the combination of Meteor Beam followed by +1 Dynamax Cannon.</li>\n<li>Arceus-Dark's Tera type depends on whether it opts to run Refresh or Taunt. As Refresh Arceus-Dark does not have to worry about status, the defensive utility of Fairy is preferred. Tera Fairy enables Arceus-Dark to still check specially defensive Yveltal while also countering <a href=\"/dex/sv/pokemon/palkia-origin/national-dex-ubers/\" hreflang=\"en\">Palkia-O</a>, as it is no longer concerned about Spacial Rend's critical hits; it also provides an immunity to attempts to phase it with Dragon Tail from Pokemon such as Giratina-O. Taunt Arceus-Dark opts for Tera Poison due to the poison immunity, as Toxic prevents it from sweeping; Tera Poison also provides additional utility by absorbing Eternatus's Toxic Spikes.</li>\n<li>Against balance and bulky offense teams, Calm Mind Arceus-Dark is often used mid-game to defensively check Pokemon such as Giratina-O, Ho-Oh, Yveltal, and Zygarde. As the opposing team is worn down, Arceus-Dark often finds itself in a position late-game to start boosting and sweep.</li>\n<li>As Arceus-Dark requires multiple boosts to become offensively threatening, it is often unable to sweep but plays an essential defensive role by checking Pokemon such as Ultra Necrozma and specially offensive Yveltal. Arceus-Dark's role against stall teams is heavily dependent on whether it opts to use Refresh or Taunt. If running Refresh, Arceus-Dark is an excellent pivot and status sponge that is capable of sweeping once <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a> is removed. Taunt Arceus-Dark has a more active role in stallbreaking, often utilizing Tera Poison and Taunt to preserve progress.</li>\n<li>Zygarde is the best teammate for Arceus-Dark. As Arceus-Dark invests in Special Defense, it relies on Zygarde to check physically offensive threats that it itself is unable to such as <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, and Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>. In return, Arceus-Dark checks Pokemon that overwhelm Zygarde such as Eternatus and specially offensive Yveltal. Arceus-Dark also appreciates Defog and status support from Giratina-O and Ho-Oh in addition to their ability to check Primal Groudon and Zacian-C, respectively.</li>\n<li>Arceus-Dark can struggle against other Calm Mind <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> formes, especially <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>. Consequently, physical attackers such as Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a> and Zacian-C are good teammates. Their ability to offensively check defensive Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a> is appreciated, as Arceus-Dark struggles to beat it without Taunt.</li>\n</ul>",
+          "abilities": [
+            "Multitype"
+          ],
+          "items": [
+            "Dread Plate"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Judgment",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Refresh",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 160,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 399174,
+            "username": "entrocefalo"
+          },
+          {
+            "user_id": 523420,
+            "username": "bumboclaat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 535530,
+                "username": "Gangsta Spongebob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 633500,
+                "username": "StupidFlandrs48"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Agility",
+    "Air Slash",
+    "Aura Sphere",
+    "Avalanche",
+    "Blizzard",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Bug Buzz",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Seed",
+    "Calm Mind",
+    "Charge Beam",
+    "Chilling Water",
+    "Confuse Ray",
+    "Cosmic Power",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Earth Power",
+    "Earthquake",
+    "Electric Terrain",
+    "Endure",
+    "Energy Ball",
+    "Extreme Speed",
+    "Facade",
+    "Fire Blast",
+    "Flamethrower",
+    "Flare Blitz",
+    "Flash Cannon",
+    "Fly",
+    "Focus Blast",
+    "Foul Play",
+    "Future Sight",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Terrain",
+    "Gravity",
+    "Gunk Shot",
+    "Healing Wish",
+    "Heat Wave",
+    "Heavy Slam",
+    "Hex",
+    "Hurricane",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Icy Wind",
+    "Imprison",
+    "Iron Defense",
+    "Iron Head",
+    "Judgment",
+    "Light Screen",
+    "Liquidation",
+    "Magical Leaf",
+    "Meteor Beam",
+    "Misty Terrain",
+    "Outrage",
+    "Overheat",
+    "Perish Song",
+    "Phantom Force",
+    "Poison Jab",
+    "Power Gem",
+    "Protect",
+    "Psychic",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Recover",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Scorching Sands",
+    "Seismic Toss",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Snarl",
+    "Solar Beam",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Surf",
+    "Swift",
+    "Swords Dance",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "Waterfall",
+    "Water Pulse",
+    "Wild Charge",
+    "Will-O-Wisp",
+    "X-Scissor",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "name": "Wartortle",
+  "alias": "wartortle",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    59,
+    63,
+    80,
+    65,
+    80,
+    58
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Shell Smash",
+          "pokemon": "Wartortle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Shell Smash Wartortle is an effective setup sweeper in the NFE metagame. Hydro Pump can be used over Surf to more reliably break through foes like specially defensive <a href=\"/dex/sv/pokemon/tinkatuff/nfe/\" hreflang=\"en\">Tinkatuff</a>, with favorable odds to 2HKO it after taking Spikes chip damage. Ice Beam helps nail Dragon- and Grass-types like <a href=\"/dex/sv/pokemon/drakloak/nfe/\" hreflang=\"en\">Drakloak</a>, <a href=\"/dex/sv/pokemon/gabite/nfe/\" hreflang=\"en\">Gabite</a>, <a href=\"/dex/sv/pokemon/ivysaur/nfe/\" hreflang=\"en\">Ivysaur</a>, and <a href=\"/dex/sv/pokemon/servine/nfe/\" hreflang=\"en\">Servine</a>. Substitute can provide a safe opportunity to avoid status and set up against foes that will be forced to switch out, such as <a href=\"/dex/sv/pokemon/koffing/nfe/\" hreflang=\"en\">Koffing</a> and <a href=\"/dex/sv/pokemon/piloswine/nfe/\" hreflang=\"en\">Piloswine</a>; Rapid Spin is an alternative that can help with boosting Wartortle's Speed while also allowing it to function as entry hazard removal for its team. The Speed investment ensures that Wartortle can outspeed Drakloak, <a href=\"/dex/sv/pokemon/frogadier/nfe/\" hreflang=\"en\">Frogadier</a>, and <a href=\"/dex/sv/pokemon/raboot/nfe/\" hreflang=\"en\">Raboot</a> at +2 while also outpacing the niche <a href=\"/dex/sv/pokemon/hakamo-o/nfe/\" hreflang=\"en\">Hakamo-o</a> and <a href=\"/dex/sv/pokemon/mienfoo/nfe/\" hreflang=\"en\">Mienfoo</a> at +1.</p>\n<p>Wartortle is a powerful setup sweeper for bulky offense and offense teams, though it struggles to break through metagame staples like <a href=\"/dex/sv/pokemon/quaxwell/nfe/\" hreflang=\"en\">Quaxwell</a> and Tinkatuff without adequate support. Such support can come in the form of entry hazard setters like Frogadier, Piloswine, and Tinkatuff. Drakloak and <a href=\"/dex/sv/pokemon/dusclops/nfe/\" hreflang=\"en\">Dusclops</a> are valuable teammatesas they provide spinblock support against Quaxwell as well as disruption in the form of status spreading to help Wartortle set up more effectively. Knock Off partners like <a href=\"/dex/sv/pokemon/clefairy/nfe/\" hreflang=\"en\">Clefairy</a> and <a href=\"/dex/sv/pokemon/monferno/nfe/\" hreflang=\"en\">Monferno</a> are valuable, as they can offer Eviolite removal to help a boosted Wartortle secure KOs against foes like Coil <a href=\"/dex/sv/pokemon/dunsparce/nfe/\" hreflang=\"en\">Dunsparce</a> and Quaxwell after some chip damage, as well as offer Stealth Rock support. Offensive setup partners, like Swords Dance users Gabite and <a href=\"/dex/sv/pokemon/thwackey/nfe/\" hreflang=\"en\">Thwackey</a> and Nasty Plot <a href=\"/dex/sv/pokemon/girafarig/nfe/\" hreflang=\"en\">Girafarig</a>, can provide tremendous support in wearing down foes that Wartortle struggles against, like Dunsparce and <a href=\"/dex/sv/pokemon/sliggoo-hisui/nfe/\" hreflang=\"en\">Hisuian Sliggoo</a>. Toxic Spikes support from <a href=\"/dex/sv/pokemon/glimmet/nfe/\" hreflang=\"en\">Glimmet</a>, Ivysaur, and Koffing can also help break through Dunsparce and Quaxwell, though Wartortle still needs them chipped down considerably before attempting to set up and sweep. Thwackey is a great partner, as it provides Grassy Terrain to help Wartortle recover health, allowing it some more leeway while setting up. Servine is a notable Wartortle counter, threatening to OHKO it with Leaf Storm; Monferno and Raboot are great partners to sponge attacks from Servine while offering offensive support and safe entry points via U-turn.</p>",
+          "abilities": [
+            "Torrent"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shell Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 176,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 80
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 543866,
+                "username": "5Dots"
+              },
+              {
+                "user_id": 601970,
+                "username": "sleid"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 643347,
+                "username": "calmvibes"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aqua Jet",
+    "Aqua Ring",
+    "Aqua Tail",
+    "Bite",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Chilling Water",
+    "Dig",
+    "Double-Edge",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Flail",
+    "Fling",
+    "Flip Turn",
+    "Focus Punch",
+    "Gyro Ball",
+    "Haze",
+    "Helping Hand",
+    "Hydro Pump",
+    "Ice Beam",
+    "Ice Punch",
+    "Ice Spinner",
+    "Icy Wind",
+    "Iron Defense",
+    "Life Dew",
+    "Liquidation",
+    "Mirror Coat",
+    "Mist",
+    "Muddy Water",
+    "Mud Shot",
+    "Protect",
+    "Rain Dance",
+    "Rapid Spin",
+    "Rest",
+    "Shell Smash",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Water Gun",
+    "Water Pledge",
+    "Water Pulse",
+    "Water Spout",
+    "Wave Crash",
+    "Weather Ball",
+    "Whirlpool",
+    "Withdraw",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "name": "Crawdaunt",
+  "alias": "crawdaunt",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "stats": [
+    63,
+    120,
+    85,
+    90,
+    55,
+    55
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>The big bad crawdad of competitive Pokemon, Crawdaunt remains a relevant wallbreaker and stall dismantler several generations after its debut. Choice Band and Adaptability make switching into Crawdaunt nigh impossible, as it fires off massive Knock Offs and Crabhammers. With little regard to physical walls' existence, Crawdaunt excels in taking advantage of safe entry points provided by teammates to force concessions every time it hits the field, as switching into the combination of Dark- and Water-type attacks is difficult for even the bulkiest of walls like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. With access to Aqua Jet, Crawdaunt can overcome its relative slowness against offensive foes, picking up KOs and dealing big damage before it can be taken out in return. Unfortunately, Crawdaunt is still a bit slow and frail and competes for a spot against notable faster and bulkier wallbreakers like <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a>, <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>. Along with the lack of Speed, Crawdaunt also suffers from a frailness that makes it susceptible to being taken out by the faster Pokemon in the metagame like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, <a href=\"/dex/sv/pokemon/kleavor/ru/\" hreflang=\"en\">Kleavor</a>, and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>With a Jolly nature, Dragon Dance improves Crawdaunt's Speed enough to outpace notable threats like <a href=\"/dex/sv/pokemon/kleavor/ru/\" hreflang=\"en\">Kleavor</a> and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> after just one boost. Liquidation can be used over Crabhammer for a more accurate attack. Covert Cloak allows Crawdaunt to set up against Scald users, like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>, without fear of getting burned.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Wallbreakers</strong>: Crawdaunt struggles to keep pace against offensive teams, often relying on Aqua Jet, as it can't outspeed the opposition. Faster wallbreakers like <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a>, Mienshao, and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> threaten to KO Crawdaunt before it can leverage its absurd offensive output for balance teams reliant on it.</p>\n<p><strong>Water-type Pokemon</strong>: <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a>, because of its ability Storm Drain prevents Crawdaunt from freely using Crabhammer to power its way through teams. Suicune does not have an immunity to Water but does prevent Crawdaunt from staying in comfortably by threatening Scald burns, while <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a> can use the threat of Close Combat to pivot into more favorable matchups.</p>\n<p><strong>Entry Hazards and Rocky Helmet</strong>: Coming in multiple times throughout a game to fire off massive attacks is Crawdaunt's specialty, which makes it susceptible to getting worn down by entry hazards. Similarly, Rocky Helmet Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> and especially <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> cause problems for Crawdaunt, racking up chip damage while making Crawdaunt far less imposing by recovering their health back.</p>\n<p><strong>Grass-type Pokemon</strong>: Amoonguss and Chesnaught are two defensive Grass-types that can often switch into Crawdaunt's STAB attacks and recover off most of the damage, with both threatening to KO it back with Giga Drain and Body Press, respectively. <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a> similarly can take many of Crawdaunt's strongest attacks and recover HP back with Leech Seed. Hisuian Lilligant is a niche offensive pick but matches up well into Crawdaunt, using it to set up Victory Dance and threaten a sweep late-game.</p>",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Crawdaunt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Swords Dance Crawdaunt functions as an unstoppable wallbreaker and setup sweeper, capable of dismantling defensive cores with ease while threatening offense with strong priority. Aqua Jet ensures an already set up Crawdaunt can fire off strong attacks before being revenge killed, preventing faster Pokemon like <a href=\"/dex/sv/pokemon/flygon/ru/\" hreflang=\"en\">Flygon</a>, <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> from stopping a potential sweep. Adaptability-boosted Knock Off is Crawdaunt's most spammable attack, providing utility in item removal with the benefit of being incredibly difficult to switch into generally. Life Orb maximizes the breaking potential of Crawdaunt, enabling it to comfortably 2HKO nearly the entire unboosted metagame, including notable walls like <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. Crawdaunt does not get much value from using Terastallization, as the interaction between Terastallization and Adaptability provides minimal gain generally, but Tera Water is still the default choice to boost damage output for Aqua Jet while also removing the weakness to Bug and Fighting.</p>\n<p>Balance and bulky offense teams looking for a powerful wallbreaker, setup sweeper, and priority revenge killer can use Swords Dance Crawdaunt to fill all of these roles comfortably. As one of the strongest physical attackers in the metagame, Crawdaunt often is paired with strong Volt Switch users, namely <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> and <a href=\"/dex/sv/pokemon/raikou/ru/\" hreflang=\"en\">Raikou</a>, to form a dynamic duo that keeps the opponent from getting comfortable, as specially defensive walls like <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> get worn down quickly trying to keep pace with the pivoting. Similarly, other strong physical setup sweepers, like <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a>, can take advantage of Crawdaunt racking up massive damage on physically defensive walls like Slowbro to secure their own late-game sweep. However, Crawdaunt is often on a time crunch with regards to health, as it takes all forms of entry hazard chip damage in addition to its own Life Orb recoil and potential Rocky Helmet chip, making hazard removal teammates that can pivot Crawdaunt in safely like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> crucial to minimize the damage it takes and provide safe entry points against common switch-ins like Hisuian Goodra, and Slowbro. Teams that utilize Crawdaunt often want to support it with their own hazards to capitalize on its strong Knock Off, making partners like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/klefki/ru/\" hreflang=\"en\">Klefki</a> valuable as both hazard setters and defensive pivots into Electric- and Fighting-type attacks from Pokemon like Raikou and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>. Defensive teammates like <a href=\"/dex/sv/pokemon/bellibolt/ru/\" hreflang=\"en\">Bellibolt</a>, <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, and Jirachi can provide immense value as switch-ins to revenge killers like Mienshao and Gardevoir while being able to provide safe pivots into Crawdaunt. Chesnaught and <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a> are two of the few reliable Crawdaunt counters in the metagame, making teammates that can handle them like <a href=\"/dex/sv/pokemon/ribombee/ru/\" hreflang=\"en\">Ribombee</a> and <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a> appreciated.</p>",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crabhammer",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Crawdaunt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Choice Band Crawdaunt dishes out massive damage with every attack it uses, making it a seemingly unwallable wallbreaker. Aqua Jet functions as a STAB priority attack that allows Crawdaunt to overcome its relative slowness, picking up valuable revenge kills and chip damage on faster threats like <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>, and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>. Close Combat gives Crawdaunt additional breaking power against Dark- and Steel-type Pokemon like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>. Adaptability, in conjunction with Crabhammer and Knock Off, renders physical walls neutral to its STAB attacks like <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a> unable to weather the storm as Crawdaunt 2HKOes them with ease. Tera Water does not get much value offensively, as Adaptability offsets a majority of the boost provided by Terastallization, so Crawdaunt does not often Terastallize outside of the rare instances where it can improve a damage roll against a foe. Tera Water does remove Crawdaunt's weaknesses to common priority attacks like First Impression and Mach Punch, though it also eliminates the Adaptability boost for Knock Off, which is a tough concession to make.</p>\n<p>Balance and bulky offense teams needing a reliable Knock Off user and wallbreaker appreciate Crawdaunt's ability to do both well. Teammates like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> can pivot to Crawdaunt against incoming physical walls, such as Amoonguss, <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, to provide safe opportunities to use its raw power to break holes into the opposition. Cyclizar and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> are exceptional teammates, as they can both pivot and remove entry hazards from the field, which Crawdaunt appreciates to retain health throughout a game. Similarly, defensive partners like <a href=\"/dex/sv/pokemon/bellibolt/ru/\" hreflang=\"en\">Bellibolt</a> and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> can slowly pivot to Crawdaunt, providing valuable entry points against bulkier walls like Hisuian Goodra and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>. Choice Scarf users like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> appreciate Crawdaunt's ability to break through defensive Pokemon like Quagsire, Hisuian Goodra, and Umbreon, enabling them to clean late-game. Slowbro and Jirachi provide speed control in the form of Thunder Wave, giving valuable opportunities for Crawdaunt to break through faster Pokemon like Jirachi, Terrakion, and Bisharp. Defensive teammates that can absorb Fairy- and Fighting-type attacks from revenge killers like Gardevoir and Mienshao are a necessity for Crawdaunt, making Jirachi and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> key teammates that can take attacks and provide safe entry points with U-turn. Hazard stacking cores, with setters like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, Jirachi, and <a href=\"/dex/sv/pokemon/klefki/ru/\" hreflang=\"en\">Klefki</a>, can use Crawdaunt's Knock Off as a way to remove Heavy-Duty Boots while forcing switches, accruing damage quickly.</p>",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crabhammer",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 555741,
+                "username": "MachJacob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Crawdaunt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Crabhammer",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Crawdaunt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Surging Strikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Swords Dance",
+          "pokemon": "Crawdaunt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Life Orb",
+            "Protective Pads"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Surging Strikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              },
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 4-5 Points</p>\n<p><strong>Overview</strong>: Crawdaunt’s wallbreaking power is feared by many. With Adaptability, not much can withstand Crawdaunt's STAB combination defensively. However, the positives end there for Crawdaunt, as its poor Speed and bulk leave very little opportunity to wallbreak without pivoting teammates to get it in safely, and even then, it is often too slow to take advantage of this. Its one-dimensional role can often be filled quite easily with other, more flexible Pokemon.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Crawdaunt can tear open holes with its strong STAB combination if brought in safely on passive or slower foes, allowing for its teammates to take advantage later in the game.</p>\n<p><strong>Cleaner</strong>: Using its priority option in Aqua Jet and setup moves, Crawdaunt can position itself to clean games with a free setup turn and adequate chip damage on opposing Pokemon.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Aqua Jet, Crabhammer, Crunch, Knock Off, Liquidation</p>\n<p><strong>Setup Moves</strong>: Swords Dance, Dragon Dance</p>\n<p><strong>Utility Moves</strong>: Endure, Taunt, Brick Break, Substitute</p>\n<p><strong>Coverage</strong>: Close Combat, Rock Slide, X-Scissor</p>\n<h3>Niche Moves</h3>\n<p><strong>Switcheroo</strong>: Crawdaunt can use Switcheroo to give a Choice Band to unsuspecting passive walls expecting to eat a hit, crippling them for the remainder of the game.</p>\n<p><strong>Special Attacks</strong>: Crawdaunt can use special attacks and weaker coverage in Sludge Wave and Ice Beam, possibly alongside Nasty Plot, to help break past foes that may have good responses to a physical Crawdaunt.</p>\n<p><strong>Endeavor</strong>: Alongside a Focus Sash, Crawdaunt can use Endeavor to bring an opposing Pokemon down to low health if Crawdaunt cannot break through it using other options.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Band</strong>: Crawdaunt can utilize a Choice Band for immediate power and wallbreaking potential and doesn’t mind being locked in due to its minimal coverage options.</p>\n<p><strong>Life Orb</strong>: Life Orb can allow Crawdaunt some slight flexibility in its moveset and move selection in battles where clicking one move is less than ideal.</p>\n<p><strong>Focus Sash</strong>: Crawdaunt can use a Focus Sash to give itself a free turn for an attack or use the turn to set up.</p>\n<h3>Niche Items</h3>\n<p><strong>Lum Berry</strong>: Crawdaunt can hold a Lum Berry to shake off status conditions that would otherwise hinder its wallbreaking potential.</p>\n<p><strong>Other Damage-boosting Items</strong>: Black Glasses and Mystic Water can give Crawdaunt a slight boost without the drawbacks of Life Orb or Choice Band.</p>\n<p><strong>Custap Berry</strong>: Custap Berry can be used alongside Endure to get one last KO or strong hit off before Crawdaunt goes down.</p>\n<h3>Tera</h3>\n<p>Crawdaunt often does not utilize Terastallization very well and therefore should not be considered for a Tera Captain. However, if Crawdaunt does become a Tera Captain, typings such as Fairy, Flying, and Ice can grant Crawdaunt the coverage it needs to break past foes that normally would take a hit from its STAB combination. However, its Water- and Dark-type moves lose their Adaptability boost when it doesn't Terastallize into those types, so you are better off choosing one of these types to boost its STABs even further.</p>\n<h3>Draft Strategy</h3>\n<p>Crawdaunt should aim to support offensively oriented rosters that need cheap wallbreakers with Knock Off that can break through Fire, Ground, and Psychic types.</p>\n<p><strong>Pivots</strong>: Pivots such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> can all safely bring in Crawdaunt.</p>\n<p><strong>Late-game Sweepers</strong>: Pokemon like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> love Crawdaunt’s wallbreaking power so they can sweep through weakened teams.</p>\n<p><strong>Speed Control</strong>: With Crawdaunt’s naturally low Speed, Pokemon such as <a href=\"/dex/sv/pokemon/serperior/draft/\" hreflang=\"en\">Serperior</a>, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a> can spread paralysis and allow Crawdaunt to outpace certain threats that it could not before.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Pokemon</strong>: Pokemon that naturally outpace Crawdaunt such as <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a> often KO it outright or have ways to punish Crawdaunt’s attacks; most of these Pokemon also still outpace Crawdaunt, even after a Dragon Dance.</p>\n<p><strong>Bulky STAB-resistant Foes</strong>: Pokemon that naturally take hits from Crawdaunt's STAB options and relatively weak coverage moves, such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/draft/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> can take a hit and fire back with a move to KO Crawdaunt.</p>\n<p><strong>Colbur Berry</strong>: Colbur Berry can be used by Pokemon such as Galarian Slowking, <a href=\"/dex/sv/pokemon/sinistcha/draft/\" hreflang=\"en\">Sinistcha</a>, and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> to bait in and punish Crawdaunt attempting to use Knock Off.</p>\n<p><strong>Chip Damage</strong>: Rocky Helmet, Life Orb recoil, and entry hazards can all limit Crawdaunt's opportunities to unleash strong hits.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 315566,
+            "username": "AceTrainerOrange"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657717,
+                "username": "Big Pharma"
+              },
+              {
+                "user_id": 617175,
+                "username": "E Man"
+              },
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Crawdaunt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Crabhammer",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Swords Dance",
+          "pokemon": "Crawdaunt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Waterium Z",
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crabhammer",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Aqua Jet",
+    "Avalanche",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Bubble Beam",
+    "Chilling Water",
+    "Close Combat",
+    "Crabhammer",
+    "Crunch",
+    "Dark Pulse",
+    "Dig",
+    "Double-Edge",
+    "Double Hit",
+    "Dragon Dance",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Fling",
+    "Giga Impact",
+    "Guillotine",
+    "Harden",
+    "Hard Press",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Iron Defense",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Liquidation",
+    "Metal Claw",
+    "Muddy Water",
+    "Mud Shot",
+    "Nasty Plot",
+    "Night Slash",
+    "Protect",
+    "Rain Dance",
+    "Razor Shell",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Slash",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Snarl",
+    "Spite",
+    "Substitute",
+    "Surf",
+    "Swift",
+    "Switcheroo",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Whirlpool",
+    "X-Scissor"
+  ]
+}

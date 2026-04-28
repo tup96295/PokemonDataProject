@@ -1,0 +1,1386 @@
+{
+  "name": "Salamence",
+  "alias": "salamence",
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "stats": [
+    95,
+    135,
+    80,
+    110,
+    80,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "<p>Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.</p>\n<p>If you feel this analysis is not up to date, <a href=\"https://www.smogon.com/forums/threads/salamence.3712162/\">feel free to check out the thread for this Pokemon and post suggestions</a>. For more discussion and resources on Series 1 in general, <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-1-a-land-free-of-ruins-and-paradoxes.3711710/\">check out this thread</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specsmence Returns",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Salamence finds a niche for itself among other Dragon-types due to outspeeding <a href=\"/dex/sv/pokemon/hydreigon/bss-series-1/\" hreflang=\"en\">Hydreigon</a>, the most prominent special attacking Dragon-type. It also has a useful typing that provides a handy Fissure immunity, and it has an incredible ability in Intimidate.</p>\n</li>\n<li>\n<p>Hurricane's accuracy may not be very reliable, but the sheer damage output makes it worth it.</p>\n</li>\n<li>\n<p>Air Slash is much weaker than Hurricane, but the more reliable accuracy and flinch chance make it a reasonable alternative. It becomes especially attractive if using Tera Flying.</p>\n</li>\n<li>\n<p>If not using Tera Fairy, Hydro Pump is a reasonable choice that deals massive damage to <a href=\"/dex/sv/pokemon/hippowdon/bss-series-1/\" hreflang=\"en\">Hippowdon</a> and Fire-types without risking Draco Meteor.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Fairy</strong>: Not only does Tera Fairy give Salamence an edge against many Dragon-types, but it also pairs extremely well with Intimidate, transforming Salamence into an effective hit-and-run threat.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel comes in handy against Dragon- and Fairy-types alike, though the added weaknesses to Ground and Fighting make it less effective at taking physical hits with Intimidate.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Air Slash becomes much easier to justify with Tera Flying, and if you're willing to risk it, Hurricane can be used to become almost impossible to wall with Choice Specs.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire doesn't offer as much defensive utility, but the powerful STAB attacks come in handy against Steel-types like <a href=\"/dex/sv/pokemon/corviknight/bss-series-1/\" hreflang=\"en\">Corviknight</a>.</p>\n</li>\n<li>\n<p><strong>Dragon</strong>: Tera Dragon trades defensive advantages for an extremely powerful Draco Meteor that catches defensive foes like <a href=\"/dex/sv/pokemon/dondozo/bss-series-1/\" hreflang=\"en\">Dondozo</a> by surprise.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Choice Specs</strong>: With Salamence already standing at a decent Speed tier, it can get away with Choice Specs, making it extremely difficult to wall outside of using <a href=\"/dex/sv/pokemon/blissey/bss-series-1/\" hreflang=\"en\">Blissey</a>.</p>\n</li>\n<li>\n<p><strong>Choice Scarf</strong>: Choice Scarf trades wallbreaking power for the ability to get the jump on major offensive threats, such as <a href=\"/dex/sv/pokemon/dragapult/bss-series-1/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/meowscarada/bss-series-1/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/garchomp/bss-series-1/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Steel",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Physically Offensive",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Salamence is somewhat overshadowed by other Dragon-types, but it has a trick up its claws: Dual Wingbeat, which OHKOes <a href=\"/dex/sv/pokemon/breloom/bss-series-1/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/meowscarada/bss-series-1/\" hreflang=\"en\">Meowscarada</a> through their Focus Sash.</p>\n</li>\n<li>\n<p>Earthquake is the best option for hitting Steel-types such as <a href=\"/dex/sv/pokemon/gholdengo/bss-series-1/\" hreflang=\"en\">Gholdengo</a> hard, but Fire Blast is Salamence's best shot at 2HKOing <a href=\"/dex/sv/pokemon/corviknight/bss-series-1/\" hreflang=\"en\">Corviknight</a>.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Flying</strong>: With a Flying Tera type, a boosted Dual Wingbeat has a 75% chance to OHKO offensive <a href=\"/dex/sv/pokemon/mimikyu/bss-series-1/\" hreflang=\"en\">Mimikyu</a> through its disguise!</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric lets Tera Blast Salamence OHKO <a href=\"/dex/sv/pokemon/azumarill/bss-series-1/\" hreflang=\"en\">Azumarill</a> and potentially 2HKO <a href=\"/dex/sv/pokemon/dondozo/bss-series-1/\" hreflang=\"en\">Dondozo</a> after Stealth Rock damage.</p>\n</li>\n</ul>\n<h4>Abilities</h4>\n<ul>\n<li>\n<p><strong>Intimidate</strong>: While Salamence isn't particularly bulky, Intimidate makes setting up far easier when paired with a Flying Tera type that removes Salamence's common weaknesses.</p>\n</li>\n<li>\n<p><strong>Moxie</strong>: With Moxie, Salamence has the potential to seriously punish Breloom leads or snowball through teams even without Dragon Dance.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate",
+            "Moxie"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Flying",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dual Wingbeat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Mixed Attacker",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Salamence's great mixed offenses and decent Speed give it a niche.</p>\n</li>\n<li>\n<p>Dual Wingbeat lets Salamence OHKO <a href=\"/dex/sv/pokemon/breloom/bss-series-1/\" hreflang=\"en\">Breloom</a> regardless of its Focus Sash, something very few Pokemon can do.</p>\n</li>\n<li>\n<p>Draco Meteor deals massive damage to <a href=\"/dex/sv/pokemon/dondozo/bss-series-1/\" hreflang=\"en\">Dondozo</a>, usually doing more than 50% to physically defensive ones.</p>\n</li>\n<li>\n<p>Substitute makes the Dondozo match-up even better, making Yawn a non-issue. It's also a good way to scout Terastallization against slower threats.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Steel</strong>: A Steel Tera type covers a lot of Salamence's weaknesses and makes dealing with <a href=\"/dex/sv/pokemon/mimikyu/bss-series-1/\" hreflang=\"en\">Mimikyu</a> much easier.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Salamence a great match-up against most Dragon-types, and pairs especially well with Intimidate to turn Salamence into a good hit-and-run attacker.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: With a Fire Tera type, Salamence gains a resistance to Fairy-type attacks and deals massive damage to Assault Vest <a href=\"/dex/sv/pokemon/magnezone/bss-series-1/\" hreflang=\"en\">Magnezone</a>.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric gives Salamence a great tool against Dondozo with Tera Blast.</p>\n</li>\n<li>\n<p><strong>Dragon</strong>: While this Tera type fails to help Salamence much defensively, it makes Draco Meteor 2HKO physically defensive Dondozo.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dual Wingbeat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 62165,
+                "username": "StarkGod"
+              },
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specsmence Returns",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Salamence finds a niche for itself among other special attacking Dragon-types due to an incredible ability in Intimidate and a useful typing that provides a handy Fissure immunity.</p>\n</li>\n<li>\n<p><strong>Hurricane versus Air Slash</strong>: Hurricane's accuracy may not be very reliable, but the sheer damage output makes it worth it. Air Slash is much weaker than Hurricane, but the more reliable accuracy and flinch chance make it a reasonable alternative. It becomes especially attractive if using Tera Flying.</p>\n</li>\n<li>\n<p><strong>Hydro Pump</strong>: If not using Tera Fairy, Hydro Pump is a reasonable choice that deals massive damage to <a href=\"/dex/sv/pokemon/hippowdon/bss-series-2/\" hreflang=\"en\">Hippowdon</a> and Fire-types without risking Draco Meteor.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Fairy</strong>: Not only does Tera Fairy give Salamence an edge against many Dragon-types, but it also pairs extremely well with Intimidate, transforming Salamence into an effective hit-and-run threat.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel comes in handy against Dragon- and Fairy-types alike, though the added weaknesses to Ground and Fighting make it less effective at taking physical hits with Intimidate.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Air Slash becomes much easier to justify with Tera Flying, and if you're willing to risk it, Hurricane can be used to become almost impossible to wall with Choice Specs.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire doesn't offer as much defensive utility, but the powerful STAB attacks come in handy against Steel-types like <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a>.</p>\n</li>\n<li>\n<p><strong>Dragon</strong>: Tera Dragon trades defensive advantages for an extremely powerful Draco Meteor that catches defensive foes like <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a> by surprise.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Choice Specs</strong>: With Salamence already standing at a decent Speed tier, it can get away with Choice Specs, making it extremely difficult to wall outside of using <a href=\"/dex/sv/pokemon/blissey/bss-series-2/\" hreflang=\"en\">Blissey</a>.</p>\n</li>\n<li>\n<p><strong>Choice Scarf</strong>: Choice Scarf trades wallbreaking power for the ability to get the jump on major offensive threats, such as <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/meowscarada/bss-series-2/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/garchomp/bss-series-2/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Steel",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              },
+              {
+                "move": "Air Slash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Physically Offensive",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Salamence is somewhat overshadowed by other physical Dragon-types like <a href=\"/dex/sv/pokemon/roaring-moon/bss-series-2/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a>, but it has a trick up its claws: Dual Wingbeat, which OHKOes <a href=\"/dex/sv/pokemon/breloom/bss-series-2/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/meowscarada/bss-series-2/\" hreflang=\"en\">Meowscarada</a> through their Focus Sash.</p>\n</li>\n<li>\n<p><strong>Earthquake versus Fire Blast</strong>: Earthquake is the best option for hitting Steel-types such as <a href=\"/dex/sv/pokemon/gholdengo/bss-series-2/\" hreflang=\"en\">Gholdengo</a> hard, but Fire Blast is Salamence's best shot at 2HKOing <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a>.</p>\n</li>\n<li>\n<p><strong>Dragon Dance</strong>: After a boost, Dual Wingbeat's Focus Sash slaying powers go into overdrive, being able to bust through <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/iron-bundle/bss-series-2/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a>.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Flying</strong>: With a Flying Tera type, a boosted Dual Wingbeat has a 75% chance to OHKO offensive <a href=\"/dex/sv/pokemon/mimikyu/bss-series-2/\" hreflang=\"en\">Mimikyu</a> through its disguise! It also means Salamence no longer needs a boost to OHKO Great Tusk and Flutter Mane.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric lets Tera Blast Salamence OHKO <a href=\"/dex/sv/pokemon/azumarill/bss-series-2/\" hreflang=\"en\">Azumarill</a> and Iron Bundle, and potentially 2HKO <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a> after Stealth Rock damage.</p>\n</li>\n</ul>\n<h4>Abilities</h4>\n<ul>\n<li>\n<p><strong>Intimidate</strong>: While Salamence isn't particularly bulky, Intimidate makes setting up far easier when paired with a Flying Tera type that removes Salamence's common weaknesses.</p>\n</li>\n<li>\n<p><strong>Moxie</strong>: With Moxie, Salamence has the potential to seriously punish Breloom leads or snowball through teams even without Dragon Dance.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate",
+            "Moxie"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Flying",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dual Wingbeat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Mixed Attacker",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Salamence's great mixed offenses, Intimidate, and decent Speed give it a niche as a powerful wall breaker.</p>\n</li>\n<li>\n<p><strong>Dual Wingbeat</strong>: Dual Wingbeat lets Salamence OHKO <a href=\"/dex/sv/pokemon/breloom/bss-series-2/\" hreflang=\"en\">Breloom</a> regardless of its Focus Sash, something very few Pokemon can do.</p>\n</li>\n<li>\n<p><strong>Draco Meteor</strong>: Draco Meteor deals massive damage to <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a>, usually doing more than 50% to physically defensive ones.</p>\n</li>\n<li>\n<p><strong>Substitute</strong>: Substitute makes the Dondozo match-up even better, making Yawn a non-issue. It's also a good way to scout Terastallization against slower threats.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Steel</strong>: A Steel Tera type covers a lot of Salamence's weaknesses and makes dealing with <a href=\"/dex/sv/pokemon/mimikyu/bss-series-2/\" hreflang=\"en\">Mimikyu</a>, <a href=\"/dex/sv/pokemon/iron-bundle/bss-series-2/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a> much easier.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Salamence a great match-up against most Dragon-types, and pairs especially well with Intimidate to turn Salamence into a good hit-and-run attacker.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: With a Fire Tera type, Salamence gains a resistance to Fairy-type attacks and deals massive damage to Assault Vest <a href=\"/dex/sv/pokemon/magnezone/bss-series-2/\" hreflang=\"en\">Magnezone</a>.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric gives Salamence a great tool against Dondozo with Tera Blast.</p>\n</li>\n<li>\n<p><strong>Dragon</strong>: While this Tera type fails to help Salamence much defensively, it makes Draco Meteor 2HKO physically defensive Dondozo.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dual Wingbeat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 62165,
+                "username": "StarkGod"
+              },
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Dragon Dance",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Moxie"
+          ],
+          "items": [
+            "Clear Amulet",
+            "Lum Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              },
+              {
+                "move": "Glaive Rush",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Ascent",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Defensive Dragon Dance",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate",
+            "Moxie"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 216,
+              "atk": 120,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 172
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Moxie"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Ascent",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 72,
+              "spd": 0,
+              "spe": 184
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Moxie"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Ascent",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glaive Rush",
+                "type": null
+              },
+              {
+                "move": "Dragon Darts",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Temper Flare",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 4 onwards</p>\n<p><strong>Price Range</strong>: 14-15 points</p>\n<p><strong>Overview</strong>: Salamence's access to Dragon Dance along with Moxie makes it a very potent cleaner. It also possesses high Base Power moves and good coverage, allowing it to use its strong offensive stats to break through teams. Its access to reliable recovery and the ability Intimidate give it a use as a defensive Pokemon as well, though its common weaknesses, including a 4x weakness to Ice, hold it back defensively. However, its average Speed and middling defenses mean that it is often reliant on Choice items or Dragon Dance in order to fulfill its potential offensively. These capabilities are further compounded when given the opportunity to be a Tera Captain. You should, more often than not, have this in consideration when drafting it on a team.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Cleaner</strong>: Salamence's high Attack and Speed give it the ability to clean late-game if given the opportunity to set up a Dragon Dance, especially when compounded with its ability Moxie. Moxie can also allow Salamence to win while holding a Choice Scarf. Intimidate can also be valuable on a cleaner Salamence, as it provides more opportunities to set up a Dragon Dance with the foe at -1 Attack.</p>\n<p><strong>Wallbreaker</strong>: Salamence's strong attacking stats and high Base Power moves, when paired with offense-boosting items such as Choice Band and Choice Specs, allow for it to break through opposing teams with relative ease.</p>\n<p><strong>Defensive Wall</strong>: Salamence's usable natural bulk, solid set of resistances, and access to Intimidate allow for it to act as a defensive answer to some physically offensive Pokemon that do not have strong, super effective coverage or another way to disrupt Salamence such as statusing it.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Dragon Claw, Outrage, Dragon Pulse, Draco Meteor, Dual Wingbeat, Hurricane, Air Slash</p>\n<p><strong>Setup Moves</strong>: Dragon Dance, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Dragon Tail, Roar, Brick Break, Roost, Substitute</p>\n<p><strong>Coverage</strong>: Body Slam, Double-Edge, Crunch, Earthquake, Fire Blast, Flamethrower, Temper Flare, Hydro Pump, Iron Head, Psychic Fangs, Rock Slide, Stone Edge, Shadow Claw, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Fire Spin</strong>: Fire Spin gives Salamence the ability to trap and remove a Pokemon that could be an issue for the rest of its team.</p>\n<p><strong>Tailwind</strong>: Tailwind can act as a worse, and turn-sensitive, alternative to Dragon Dance as a Speed-boosting move, though it can also boost the speed of Salamence's teammates.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots allows Salamence to switch into battle without worrying about taking chip damage from Stealth Rock. It can maximize its ability to set up a Dragon Dance or allow it to get an extra hit off.</p>\n<p><strong>Choice Band / Choice Specs</strong>: Both of these items allow for Salamence to maximize its offensive stats, and they let it inflict as much damage as possible.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf allows for Salamence to get the speed it needs without needing a turn in battle to set it up. It can also play very nicely with its Moxie ability, allowing for Salamence to clean late-game much easier.</p>\n<p><strong>Lum Berry</strong>: Lum Berry lets Salamence set up a Dragon Dance without worrying about being paralyzed or burned by the opposing Pokemon. It can also use it to cure confusion inflicted by its own Outrage, making it much easier to spam its strongest STAB move in a battle.</p>\n<h3>Niche Items</h3>\n<p><strong>Salac Berry</strong>: Endure and Salac Berry, in combination with Moxie, can act as a replacement for Choice Scarf or Dragon Dance if there is a matchup where living an attack from a specific Pokemon that Salamence can KO with the Speed boost is necessary.</p>\n<p><strong>Resistance Berries</strong>: Berries that help nullify Salamence's weaknesses give it an easier time setting up a Dragon Dance to help it in the long run.</p>\n<p><strong>Damage-boosting Items</strong>: Items such as Expert Belt, Life Orb, and Sharp Beak let Salamence further improve its damage output while still allowing it to set up a Dragon Dance and not be locked into just one attacking move.</p>\n<h3>Tera</h3>\n<p>Salamence's good stats, large coverage movepool, access to Dragon Dance, and Moxie make it a huge offensive threat when given the opportunity to Terastallize. It can use Tera to expand its coverage and allow it to set up a Dragon Dance with more ease. Its access to Intimidate also gives Salamence the ability to deal with some physically offensive threats by Terastallizing into a type that beats them. Salamence can use a STAB Tera type to maximize its damage output, it can use a Tera type to counteract its weaknesses such as Steel or Fire, or it can use a Tera type like Ground, Fire, or Fighting to beat its common answers, including Steel-types. Tera Flying also gives Salamence a more reliable Flying-type STAB move in Tera Blast as opposed to being reliant on Dual Wingbeat.</p>\n<h3>Draft Strategy</h3>\n<p>Salamence provides teams with a large array of offensive capabilities in one Pokemon. Having Pokemon that enable it as much as possible is ideal when building a team around it.</p>\n<p><strong>Flexible Offensive Threats</strong>: Pokemon that are capable of being either a wallbreaker or a cleaner in any given matchup pair very well alongside Salamence. They allow for Salamence to have more flexibility in its own sets rather than being stuck performing just one of its roles on a team. Pokemon that complement Salamence nicely include <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>.</p>\n<p><strong>Entry Hazard Removal</strong>: Salamence's weakness to Stealth Rock can prevent it from performing its best due to it being unable to live attacks as well as limit its opportunities to switch in. Its lack of defog as a Flying-type can also leave a team lacking in hazard removal. Thus, having good hazard removal alongside Salamence greatly lessens the burden that these faults cause for the rest of its team. Pokemon like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> are excellent partners for these reasons.</p>\n<p><strong>Entry Hazard Setters</strong>: Salamence enjoys having the opposing team weakened for its Dragon Dance sets to be as effective as possible. Thus, having good hazard setters is great to force the opposing Pokemon to be as close as possible to be within range of Salamence's attacks. Excellent hazard setters to pair with it include <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a>.</p>\n<p><strong>Ice-resistant Pokemon</strong>: Pokemon that help to cover Salamence's crippling 4x weakness to Ice are highly appreciated. Pokemon that fill this role nicely include <a href=\"/dex/sv/pokemon/empoleon/draft/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/bronzong/draft/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Bulky Steel-types</strong>: As Steel-type Pokemon resist both of Salamence's STAB types, a bulky Steel-type can be difficult for Salamence to break through on its own. Salamence does have coverage to hit them super effectively, but there are still some that are an annoyance even with the coverage to hit them. Pokemon like <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a>, Bronzong, and <a href=\"/dex/sv/pokemon/goodra-hisui/draft/\" hreflang=\"en\">Hisuian Goodra</a> fit into this category.</p>\n<p><strong>Strong Priority Move Users</strong>: While Salamence does have solid physical bulk, especially in combination with Intimidate, it can still be revenge killed by strong priority moves. Ice Shard in particular is a massive problem for Salamence. It is often OHKOed by STAB Ice Shard without protection from a Yache Berry. While it does resist some priority moves like Mach Punch, Vacuum Wave, and Jet Punch, it can still struggle to survive attacks like Bullet Punch from <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> and Sucker Punch from <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a> if its HP gets too low.</p>\n<p><strong>Fast Choice Scarf / Booster Energy Users</strong>: Due to Salamence's middling Speed tier, it can be easily revenge killed by Pokemon holding Speed-boosting items with strong, super effective coverage. Pokemon capable of revenge killing Salamence at +1 Speed include <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, Meowscarada, and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 472513,
+            "username": "Quin4949"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dual Wingbeat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 172,
+              "atk": 20,
+              "def": 120,
+              "spa": 0,
+              "spd": 0,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Utility",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Leveraging its respectable stat spread, Intimidate, and useful set of resistances, Salamence makes for a decent offensive presence that is able to consistently check the likes of <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/rillaboom/national-dex-uu/\" hreflang=\"en\">Rillaboom</a>. It can use these opportunities to fire off its strong attacks capable of ripping through significant portions of the defensive metagame, including the likes of <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>. However, Salamence struggles to fit on teams in practice due to significant competition from other Pokemon capable of fulfilling similar defensive roles, notably <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>, <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, which possess similar defensive utility turned offensive potential. Mega Aerodactyl's much higher Speed tier also lets it outpace and revenge kill notable offensive threats such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a>, and <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a>, while Hydrapple and Mega Latias's immense bulk and lack of exploitable weaknesses make them much more sturdy defensive checks to the aforementioned Pokemon. Flamethrower's better accuracy and PP make it the preferred coverage move to hit Steel-type Pokemon, notably maximizing Salamence’s effectiveness at checking Scizor and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> long-term. Fire Blast is a stronger alternative that improves Salamence's odds to 2HKO <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> through Leftovers while also potentially OHKOing offensive Excadrill from full HP. Toxic is best used as a way to cripple specially defensive answers such as <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> long-term, opening them up for Salamence to break through them later on in the match. Alternatively, Draco Meteor provides Salamence with a stronger STAB option that applies immediate pressure to Flying-resistant Pokemon such as Mega Aerodactyl and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>, preventing them from switching into it for free. Lastly, Salamence can use Defog to provide crucial entry hazard removal for its team. 136 Speed EVs allow Salamence to outpace Adamant Rillaboom, and a Modest nature in conjunction with maximum Special Attack investment allows it to potentially 2HKO physically defensive Clefable with Hurricane. However, maximum Speed investment in conjunction with a Timid nature can be used instead if outspeeding offensive threats such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> is necessary. Salamence fits best on offensive teams that appreciate its unique defensive profile and ability to conserve offensive momentum in return. Good examples of wallbreakers that complement Salamence include Life Orb <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>, Swords Dance Aegislash, and Choice Band Rillaboom; these Pokemon can easily take advantage of specially defensive checks such as Celesteela and <a href=\"/dex/sv/pokemon/garganacl/national-dex-uu/\" hreflang=\"en\">Garganacl</a> that Salamence tends to invite in. In return, Salamence can provide them with a soft answer to the likes of <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a>. Salamence also heavily appreciates hazards and Knock Off support, which goes a long way in overwhelming the likes of Celesteela, specially defensive Hippowdon, and Rotom-W. Teammates such as Clefable, Scizor, and <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a> can assist in this regard; Scizor and Swampert can also U-turn and Flip Turn to bring Salamence in safely against the likes of <a href=\"/dex/sv/pokemon/okidogi/national-dex-uu/\" hreflang=\"en\">Okidogi</a> and Hydrapple, which are otherwise able to potentially threaten it on the switch. Clefable provides an amazing defensive answer to Knock Off users such as Life Orb Mienshao and <a href=\"/dex/sv/pokemon/lokix/national-dex-uu/\" hreflang=\"en\">Lokix</a>, which are otherwise capable of wearing down Salamence in conjunction with Stealth Rock. Lastly, hazard removal options such as Defog Rotom-W and Rapid Spin Excadrill are highly valuable for their ability to alleviate Salamence's moveslot constraints while also ensuring that it can manage its HP in the face of its Stealth Rock weakness after losing Heavy-Duty Boots to Knock Off.</p>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 120,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 136
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 546157,
+            "username": "Iride"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p><a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a> excels as an offensive powerhouse due to its formidable Attack stat, access to Dragon Dance, and its potent ability, Aerilate, achieving multiple roles like wallbreaker, sweeper, and late-game cleaner.</p>\n</li>\n<li>\n<p>Double-Edge is Mega Salamence's most powerful STAB move, being able to 2HKO most defensive Pokemon such as <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a> and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a>. Return serves as a weaker but safer STAB move, although it misses out on the 2HKO on foes like <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> and offensive Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>.</p>\n</li>\n<li>\n<p>Earthquake is Mega Salamence's best coverage move to hit Steel-types like <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a> and <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a> and to hit Primal Groudon almost as hard as Double-Edge without the recoil damage. At +1, it can OHKO Zacian-C and additionally OHKO <a href=\"/dex/sv/pokemon/zekrom/national-dex-ubers/\" hreflang=\"en\">Zekrom</a> after Stealth Rock.</p>\n</li>\n<li>\n<p>Roost provides Mega Salamence with reliable recovery and helps it find more setup opportunities throughout the battle, while Facade punishes foes that try to status it like Ho-Oh, Primal Groudon, <a href=\"/dex/sv/pokemon/arceus-water/national-dex-ubers/\" hreflang=\"en\">Arceus-Water</a>, and <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a> at the cost of making Mega Salamence more sensitive to chip damage while setting up.</p>\n</li>\n<li>\n<p>Mega Salamence, especially when not running Roost, should aim to switch in after a foe has fainted or on a predicted Earthquake from foes like Primal Groudon, Necrozma-DM, and <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a>. By pressuring these Pokemon to switch out, it can take on the opportunity to set up and start wearing down its checks.</p>\n</li>\n<li>\n<p>In certain scenarios, retaining access to Salamence's Intimidate can prove advantageous due to its capability to mitigate foes that threaten to set up such as <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a> and Necrozma-DM. Additionally, the Attack drop can let Mega Salamence avoid a 2HKO from Choice Band <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>'s Poltergeist, offensive Necrozma-DM's Sunsteel Strike, and Rayquaza's Dragon Ascent and set up on them.</p>\n</li>\n<li>\n<p>Having weaknesses to Fairy and Ice, Mega Salamence appreciates Fire- and Steel-type teammates such as Primal Groudon, Necrozma-DM, and Zacian-C that can threaten the likes of opposing Zacian-C, <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>, and <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a>.</p>\n</li>\n<li>\n<p>Fairy-type teammates like Zacian-C and Arceus-Fairy love Mega Salamence's ability to check Steel- and Fire-types such as Necrozma-DM and Primal Groudon and threaten them with Earthquake.</p>\n</li>\n<li>\n<p>Mega Salamence works well on hyper offense teams, and suicide entry hazard leads such as <a href=\"/dex/sv/pokemon/deoxys-speed/national-dex-ubers/\" hreflang=\"en\">Deoxys-S</a> and <a href=\"/dex/sv/pokemon/glimmora/national-dex-ubers/\" hreflang=\"en\">Glimmora</a> are invaluable in helping it sweep; the aforementioned Pokemon can also prevent hazards. Mega Salamence also appreciates dual screens support from Deoxys-S and <a href=\"/dex/sv/pokemon/grimmsnarl/national-dex-ubers/\" hreflang=\"en\">Grimmsnarl</a> to make it harder to knock out.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Salamencite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Double-Edge",
+                "type": null
+              },
+              {
+                "move": "Return",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Facade",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 652323,
+                "username": "Anchor9"
+              },
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              },
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Mixed Attacker",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>The given EV spread allows <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-doubles/\" hreflang=\"en\">Mega Salamence</a> to 2HKO <a href=\"/dex/sv/pokemon/iron-hands/national-dex-doubles/\" hreflang=\"en\">Iron Hands</a> with Double Edge while maximizing its Speed, allocating the remaining EVs into Special Attack.</li>\n</ul>",
+          "abilities": [
+            "Aerilate"
+          ],
+          "items": [
+            "Salamencite"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hyper Voice",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Double-Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 156,
+              "def": 0,
+              "spa": 100,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Hasty"
+          ]
+        },
+        {
+          "name": "Physical Attacker",
+          "pokemon": "Salamence",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Salamencite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Double-Edge",
+                "type": null
+              },
+              {
+                "move": "Return",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 128,
+              "atk": 16,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 104
+            },
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Air Slash",
+    "Bite",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brick Break",
+    "Bulldoze",
+    "Crunch",
+    "Defense Curl",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Dual Wingbeat",
+    "Earthquake",
+    "Ember",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Spin",
+    "Flamethrower",
+    "Fly",
+    "Focus Energy",
+    "Giga Impact",
+    "Headbutt",
+    "Heat Wave",
+    "Helping Hand",
+    "Hurricane",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Leer",
+    "Mud-Slap",
+    "Outrage",
+    "Protect",
+    "Psychic Fangs",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Roost",
+    "Scary Face",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tailwind",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Thrash",
+    "Thunder Fang",
+    "Twister",
+    "Zen Headbutt"
+  ]
+}

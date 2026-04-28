@@ -1,0 +1,244 @@
+{
+  "name": "Pawniard",
+  "alias": "pawniard",
+  "types": [
+    "Dark",
+    "Steel"
+  ],
+  "stats": [
+    45,
+    85,
+    70,
+    40,
+    40,
+    60
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Pawniard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Pawniard is a solid defensive Pokemon with the potential to win games. Swords Dance can be used against Pokemon such as on <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a>, <a href=\"/dex/sv/pokemon/gastly/lc/\" hreflang=\"en\">Gastly</a>, and <a href=\"/dex/sv/pokemon/snubbull/lc/\" hreflang=\"en\">Snubbull</a>. Sucker Punch is a strong STAB priority move that allows Pawniard to hit foes that would otherwise outspeed it such as Gastly and <a href=\"/dex/sv/pokemon/snivy/lc/\" hreflang=\"en\">Snivy</a>. Tera Flying lets Pawniard beat common Fighting- and Ground-types such as <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>, <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a>, and <a href=\"/dex/sv/pokemon/trapinch/lc/\" hreflang=\"en\">Trapinch</a> that would otherwise stop its sweep; Tera Blast cleaves through common Pokemon such as the aforementioned Mienfoo and <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a>. Inner Focus is preferred over Defiant to avoid being flinched by Mienfoo's Fake Out, especially after Terastallizing.</p>\n<p>Pawniard's presence helps deal with <a href=\"/dex/sv/pokemon/gothita/lc/\" hreflang=\"en\">Gothita</a>, assisting teammates such as Foongus, Mienfoo, and <a href=\"/dex/sv/pokemon/timburr/lc/\" hreflang=\"en\">Timburr</a>. Vullaby works well with Pawniard due to Pawniard's good matchup against both Snubbull and <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a>. Mienfoo can U-turn into Pawniard and is a great partner for luring in Vullaby and Snubbull. While Pawniard can Terastallize to remove its Fighting weakness, teammates such as Snubbull, <a href=\"/dex/sv/pokemon/koffing/lc/\" hreflang=\"en\">Koffing</a>, and Gothita help against Mienfoo and Timburr without needing to Terastallize themsleves. Snubbull can also help Pawniard set up with Intimidate.</p>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 236,
+              "def": 36,
+              "spa": 0,
+              "spd": 36,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Stealth Rock",
+          "pokemon": "Pawniard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Pawniard is a solid utility Pokemon, pairing its excellent typing that allows it to check common Pokemon like <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a> with its useful support options in Stealth Rock and Thunder Wave. Thunder Wave keeps Pawniard from being too passive, and it combines well with Iron Head to paraflinch opposing Pokemon. Iron Head lets Pawniard hit both <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a> and Vullaby for neutral damage. Sucker Punch is a strong priority move that can pick off setup sweepers such as Shell Smash <a href=\"/dex/sv/pokemon/shellder/lc/\" hreflang=\"en\">Shellder</a> or Choice Scarf users like <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a>. Pawniard's EV spread gives it the bulk it needs to handle the aforementioned threats while keeping itself fast and strong enough to deal damage on its own. Pawniard struggles with Fighting- and Ground-type moves from Pokemon like Mienfoo and <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a> respectively, so Pawniard can use Tera Flying to turn these attacks into a resistance and an immunity, respectively.</p>\n<p>Pawniard can complement Vullaby-weak Pokemon such as <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a>, which struggle to deal with Vullaby's STAB moves, with Foongus being able to check Mienfoo, which gives Pawniard trouble. Slow and strong wallbreakers such as Mudbray and Eviolite Hisuian Growlithe can take advantage of Thunder Wave from Pawniard to become more threatening when opposing Pokemon are outpaced by them.</p>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 156,
+              "def": 36,
+              "spa": 0,
+              "spd": 116,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 585065,
+            "username": "TheShoddyStrawman"
+          },
+          {
+            "user_id": 605215,
+            "username": "Flou"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 32350,
+                "username": "ghost"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 440139,
+                "username": "Éric"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              },
+              {
+                "user_id": 633500,
+                "username": "StupidFlandrs48"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Air Slash",
+    "Assurance",
+    "Brick Break",
+    "Dark Pulse",
+    "Dig",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Flash Cannon",
+    "Fling",
+    "Foul Play",
+    "Fury Cutter",
+    "Grass Knot",
+    "Guillotine",
+    "Headbutt",
+    "Iron Defense",
+    "Iron Head",
+    "Lash Out",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Mean Look",
+    "Metal Claw",
+    "Metal Sound",
+    "Night Slash",
+    "Poison Jab",
+    "Protect",
+    "Quick Guard",
+    "Rain Dance",
+    "Rest",
+    "Retaliate",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Scratch",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Snarl",
+    "Spite",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stone Edge",
+    "Substitute",
+    "Sucker Punch",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder Wave",
+    "Torment",
+    "X-Scissor"
+  ]
+}
