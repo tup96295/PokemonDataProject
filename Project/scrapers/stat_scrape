@@ -1,0 +1,78 @@
+import requests
+from bs4 import BeautifulSoup
+import os
+import re
+import csv
+
+BASE_URL = "https://www.smogon.com/stats/"
+OUTPUT_DIR = "smogon_csv"
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Regex for target files
+pattern = re.compile(r"gen\d+ou-0\.txt")
+
+# Step 1: Get all months
+response = requests.get(BASE_URL)
+soup = BeautifulSoup(response.text, "html.parser")
+
+month_links = [
+    link.get("href")
+    for link in soup.find_all("a")
+    if link.get("href") and link.get("href").endswith("/")
+    and link.get("href") != "../"
+]
+
+print(f"Found {len(month_links)} months")
+
+# Step 2: Loop through months
+for month in month_links:
+    month_url = BASE_URL + month
+    print(f"\nChecking {month_url}")
+
+    try:
+        res = requests.get(month_url)
+        soup = BeautifulSoup(res.text, "html.parser")
+
+        for link in soup.find_all("a"):
+            file_name = link.get("href")
+
+            if file_name and pattern.match(file_name):
+                file_url = month_url + file_name
+                print(f"Processing: {file_url}")
+
+                text_data = requests.get(file_url).text.splitlines()
+
+                csv_rows = []
+
+                for line in text_data:
+                    line = line.strip()
+
+                    # Only lines that contain actual data
+                    if not line.startswith("|") or "Rank" in line or "---" in line:
+                        continue
+
+                    parts = [p.strip() for p in line.split("|") if p.strip()]
+
+                    if len(parts) < 3:
+                        continue
+
+                    rank = parts[0]
+                    pokemon = parts[1]
+                    usage = parts[2].replace("%", "")
+
+                    csv_rows.append([rank, pokemon, usage])
+
+                # Save CSV
+                csv_name = f"{month.strip('/')}_{file_name.replace('.txt', '.csv')}"
+                csv_path = os.path.join(OUTPUT_DIR, csv_name)
+
+                with open(csv_path, "w", newline="", encoding="utf-8") as f:
+                    writer = csv.writer(f)
+                    writer.writerow(["Rank", "Pokemon", "UsagePercent"])
+                    writer.writerows(csv_rows)
+
+    except Exception as e:
+        print(f"Error in {month}: {e}")
+
+print("\nAll files converted to CSV!")
