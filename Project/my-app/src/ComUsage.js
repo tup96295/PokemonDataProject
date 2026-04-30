@@ -46,19 +46,22 @@ export default function ComUsage({ theme }) {
       .replace(/\s+/g, "-");
 
   const getImage = (name) => {
-    const formatted = formatName(name);
+  if (!name) return `${process.env.PUBLIC_URL}/pokemon_artwork/default.png`;
 
-    if (imageSet.has(formatted)) {
-      return `/pokemon_artwork/${formatted}.jpg`;
-    }
+  const formatted = formatName(name);
 
-    const base = formatName(name.split(" ")[0]);
-    if (imageSet.has(base)) {
-      return `${process.env.PUBLIC_URL}/pokemon_artwork/${normalize(name)}.jpg`;
-    }
+  if (imageSet.has(formatted)) {
+    return `${process.env.PUBLIC_URL}/pokemon_artwork/${formatted}.jpg`;
+  }
 
-    return `${process.env.PUBLIC_URL}/pokemon_artwork/default.png`;
-  };
+  const base = formatName(name.split(" ")[0]);
+
+  if (imageSet.has(base)) {
+    return `${process.env.PUBLIC_URL}/pokemon_artwork/${base}.jpg`;
+  }
+
+  return `${process.env.PUBLIC_URL}/pokemon_artwork/default.png`;
+};
 
   const loadCSV = async (path) => {
     const res = await fetch(path);
