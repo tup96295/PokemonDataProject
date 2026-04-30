@@ -1,0 +1,970 @@
+{
+  "name": "Smeargle",
+  "alias": "smeargle",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    55,
+    20,
+    35,
+    20,
+    45,
+    75
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Hazard Lead",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Own Tempo"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Axe",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ceaseless Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Nuzzle",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Lead",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set(s).</p>",
+          "abilities": [
+            "Own Tempo"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ceaseless Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Axe",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Burning Bulwark",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Hazard Setter",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Silk Trap is chosen over similar moves like Burning Bulwark for its ability to slow down foes like <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/pu/\" hreflang=\"en\">Paldean Tauros-W</a> and <a href=\"/dex/sv/pokemon/scyther/pu/\" hreflang=\"en\">Scyther</a>; this gives Smeargle an easier time setting entry hazards or denying Defog attempts.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Own Tempo"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Axe",
+                "type": null
+              },
+              {
+                "move": "Ceaseless Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Explosion",
+                "type": null
+              },
+              {
+                "move": "Memento",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Silk Trap",
+                "type": null
+              },
+              {
+                "move": "Nuzzle",
+                "type": null
+              },
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Entry Hazard Setter",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to Smeargle's nearly endless movepool, it finds a place in the metagame as the premier entry hazard setter for hyper offensive Normal teams. Ceaseless Edge and Stone Axe are able to set up Spikes and Stealth Rock, ignoring Magic Bounce from <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>. Sticky Web support is the driving force behind hyper offensive Normal teams, as the Speed reduction greatly helps its powerful wallbreakers such as <a href=\"/dex/sv/pokemon/terapagos/monotype/\" hreflang=\"en\">Terapagos</a> and <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>. Spore, in tandem with Focus Sash, allows Smeargle to immobilize a foe for a few turns, giving Smeargle an opportunity to set up hazards.</p>\n<p><a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a> is a great teammate for Smeargle, as its Ghost typing blocks Rapid Spin; it also appreciates the wide range of entry hazards Smeargle can provide, which aids its wallbreaking capabilities. With Sticky Web set up, Hisuian Zoroark is able to outspeed Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and Choice Scarf <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, stopping them from revenge killing it. Terapagos is another incredibly strong wallbreaking teammate that thrives with entry hazard support. Tera Starstorm turns from a 3HKO to a 2HKO on Pokemon such as <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>. Terapagos also has a lot of great coverage moves, such as Earth Power for Steel- and Fire-types like <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> and Ice Beam for Flying-types such as <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>. <a href=\"/dex/sv/pokemon/braviary/monotype/\" hreflang=\"en\">Braviary</a> is a strong physical attacker that takes advantage of Smeargle's Sticky Web support, as its Defiant ability punishes Defog. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> is also a great teammate, as its Psychic-type support helps greatly in the Poison and Fighting matchups. Psychic Terrain also protects its teammates against priority moves, blocking foes such as <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> from revenge killing setup sweepers. <a href=\"/dex/sv/pokemon/ditto/monotype/\" hreflang=\"en\">Ditto</a> can take advantage of Sticky Web, having an easier time coming in for revenge kills against Choice Scarf users such as <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and Great Tusk.</p>",
+          "abilities": [
+            "Own Tempo"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Ceaseless Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Axe",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 246753,
+            "username": "RoyalReloaded"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 652323,
+                "username": "Anchor9"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Smeargle is a Pokemon with access to a strong supportive movepool, allowing it to function as a niche supportive option with great role compression.</p>\n</li>\n<li>\n<p>Smeargle works well alongside <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-S</a>, especially Choice Band variants. Along with Follow Me support, Wide Guard can protect Urshifu from common super effective spread moves like Dazzling Gleam and Bleakwind Storm.</p>\n</li>\n<li>\n<p>Smeargle's biggest weakness is its abysmal stats, necessitating the use of Focus Sash in order to give it any survivability. Due to its dreadful Attack stat, it cannot provide any offensive pressure outside of Endeavor, and so it is almost completely reliant on its partner to deal damage.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Burning Bulwark can be used to dissuade Fake Out and potentially burn physical attackers; however, Spiky Shield can be considered to block certain status effects and bypass opposing Focus Sashes.</p>\n</li>\n<li>\n<p>Decorate can punish passive play in front of Fake Out pressure and should be used alongside Pokemon slower than Smeargle in order to immediately threaten +2 attacks.</p>\n</li>\n<li>\n<p>The invested bulk allows Smeargle to survive a Tachyon Cutter from <a href=\"/dex/sv/pokemon/iron-crown/vgc24-regulation-f/\" hreflang=\"en\">Iron Crown</a> and almost always survive a Surging Strikes from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> after Terastallizing into Grass.</p>\n</li>\n<li>\n<p>Tera Grass is generally preferred to be immune to Spore, though Tera Ghost can be used for a Fake Out immunity.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Moody"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wide Guard",
+                "type": null
+              },
+              {
+                "move": "Burning Bulwark",
+                "type": null
+              },
+              {
+                "move": "Endeavor",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 68,
+              "atk": 4,
+              "def": 60,
+              "spa": 0,
+              "spd": 124,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 627748,
+            "username": "Jesuuuus"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Smeargle's access to almost every move with Sketch grants it a great niche in Regulation G as a support Pokemon. Follow Me allows Smeargle to protect its more offensive partners, and Spore threatens to shut down opposing Pokemon, making it easier for Smeargle's partners to set up and sweep. Wide Guard blocks the plethora of spread moves in the metagame that ignore Smeargle's Follow Me, such as Tera Starstorm and Glacial Lance from Terapagos-S and <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>, respectively. This can, however, be replaced with Decorate on more offensive Calyrex-I teams, letting Trick Room threats like Calyrex-I and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna-B</a> do significantly more damage quickly. Fake Out is the best last move on Smeargle, providing lots of pressure when it enters the field and opening up room for repositioning or setting up. Smeargle can use Spiky Shield over Fake Out for added longevity and to keep Focus Sash intact against opposing Fake Out. Transform can be used to utilize Smeargle as an offensive threat and win condition, especially when transforming into partner <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> or opposing Restricted Pokemon. Smeargle requires Focus Sash to make up for its horrendous bulk. Smeargle can also opt for an EV spread of 252 HP / 252 Def with a Relaxed nature and 0 Speed IVs on Trick Room teams, enabling Smeargle to boost its partners with Decorate before they attack. Moody is the primary ability on Smeargle, as it has a good chance of allowing Smeargle to take more attacks or threaten fast Spore. Calyrex-I teams can utilize Own Tempo to make sure Smeargle is always slow to function under Trick Room. Smeargle prefers Tera Ghost to escape Fake Out, but it may use Tera Grass on a team with <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-g/\" hreflang=\"en\">Farigiraf</a> for the immunity to Spore and Rage Powder from <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, as well as the resistance to <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>'s Surging Strikes, which would otherwise OHKO it through Focus Sash.</p>\n<p>Smeargle struggles due to its lack of offensive pressure as a full support Pokemon. This makes it incredibly vulnerable to Taunt from Pokemon like <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>. Smeargle also lacks longevity, even with Focus Sash, so its chances to support its allies are limited. Hence, Smeargle is strongest with incredibly offensive Restricted Pokemon like the <a href=\"/dex/sv/pokemon/calyrex/vgc24-regulation-g/\" hreflang=\"en\">Calyrex</a> formes. Smeargle's Follow Me and Fake Out helps the Calyrex formes set up Nasty Plot and Trick Room, respectively. Smeargle also protects them with Wide Guard from opposing Calyrex-S and <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a>, which can otherwise threaten major damage if not an OHKO. These teams will usually carry Urshifu-R and Ursaluna-B to threaten Incineroar. The two also appreciate Smeargle's support as some of the most oppressive non-Restricted Pokemon available. Farigiraf can pair with Smeargle on hyper offensive Calyrex-I teams to form a strong Trick Room core and enable Smeargle to utilize Tera Grass without fear of Fake Out and Prankster Taunt.</p>",
+          "abilities": [
+            "Moody",
+            "Own Tempo"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wide Guard",
+                "type": null
+              },
+              {
+                "move": "Decorate",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              },
+              {
+                "move": "Spiky Shield",
+                "type": null
+              },
+              {
+                "move": "Transform",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 239881,
+                "username": "Mr.GX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Disruptive Support",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Smeargle uses its wide movepool to support its offensive teammates. It is the fastest Spore user in the format, and it can shut down foes such as <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> and <a href=\"/dex/sv/pokemon/raging-bolt/vgc25-regulation-i/\" hreflang=\"en\">Raging Bolt</a> before they can move. Its Moody ability can punish the opponent for not KOing it quickly enough, and a possible Speed boost will allow it to outspeed and incapacitate <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a> and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a> with Spore. Trick Room sets use Technician or Own Tempo on Smeargle to prevent a Moody Speed boost from altering the turn order in Trick Room.</li>\n<li>Follow Me protects teammates susceptible to OHKOs such as Calyrex-S, redirecting Moongeist Beam from <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a> and Shadow Ball from <a href=\"/dex/sv/pokemon/flutter-mane/vgc25-regulation-i/\" hreflang=\"en\">Flutter Mane</a>. Fake Out can stop a foe for a turn, which can allow for a Restricted partner such as Calyrex-S with Nasty Plot or Calyrex-I with Trick Room to set up. Decorate increases the offenses of Smeargle's partners, punishing passive play from the opposing side such as using Protect to stall Fake Out. Wide Guard blocks powerful spread moves in the format like Astral Barrage from Calyrex-S and Glacial Lance from Calyrex-I.</li>\n<li>Focus Sash ensures survival against most moves and can force the opponent to double target Smeargle.</li>\n<li>Maximum Speed with a Jolly nature can be used to ensure Decorate occurs before Calyrex-I's and <a href=\"/dex/sv/pokemon/terapagos/vgc25-regulation-i/\" hreflang=\"en\">Terapagos</a>'s moves outside of Trick Room, or Smeargle can run minimum Speed with a Relaxed nature while Calyrex-I is one Speed point faster than it in order for Decorate to go first in Trick Room.</li>\n<li>Tera Grass can be used to ensure Tera Water Surging Strikes from Urshifu-R will never OHKO Smeargle, and it lets Smeargle be immune to Spore and Rage Powder. Tera Ghost provides an immunity to Fake Out and Fighting- and Normal-type attacks such as Body Press from <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a>, Close Combat from the <a href=\"/dex/sv/pokemon/urshifu/vgc25-regulation-i/\" hreflang=\"en\">Urshifu</a> formes, and Facade from <a href=\"/dex/sv/pokemon/ursaluna/vgc25-regulation-i/\" hreflang=\"en\">Ursaluna</a>.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Urshifu-R threatens an OHKO onto Smeargle through Focus Sash with Surging Strikes. Taunt from Pokemon such as <a href=\"/dex/sv/pokemon/tornadus/vgc25-regulation-i/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a> shuts down Smeargle's support options. Spore-immune redirectors like <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a>, the <a href=\"/dex/sv/pokemon/ogerpon/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon</a> formes, and Safety Goggles <a href=\"/dex/sv/pokemon/indeedee-f/vgc25-regulation-i/\" hreflang=\"en\">Indeedee-F</a> can save their partners from being put to sleep and also stop Decorate from boosting Smeargle's partner.</li>\n<li>Smeargle can be partnered with <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a> in order to remove Psychic Terrain from Indeedee-F to use Fake Out, which helps Nasty Plot Calyrex-S set up. Rillaboom also threatens an OHKO against Urshifu-R with its Grass-type STAB moves.</li>\n<li>Smeargle can use Fake Out on Choice Scarf Urshifu-R, which threatens Calyrex-S with an OHKO, so Calyrex-S can instead OHKO it; it can also support Calyrex-S with Follow Me if Fake Out is not available. Calyrex-S enjoys Wide Guard blocking spread moves it is weak to such as Astral Barrage from opposing Calyrex-S and Snarl from <a href=\"/dex/sv/pokemon/chi-yu/vgc25-regulation-i/\" hreflang=\"en\">Chi-Yu</a>.</li>\n<li>Decorate can target bulky slower Restricted Pokemon such as Calyrex-I and Terapagos to quickly boost their offenses to high levels before they attack. Terapagos can also Terastallize to remove <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a>'s Electric Terrain from the field in order for Smeargle to put foes to sleep with Spore.</li>\n</ul>",
+          "abilities": [
+            "Moody",
+            "Technician",
+            "Own Tempo"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Decorate",
+                "type": null
+              },
+              {
+                "move": "Wide Guard",
+                "type": null
+              },
+              {
+                "move": "Spiky Shield",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            },
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Jolly",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 528197,
+            "username": "ProssettiVGC"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sticky Web",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Smeargle functions incredibly as an entry hazard lead on hyper offense teams thanks to its ability to lay Sticky Web and Stealth Rock via Stone Axe. Taunt can prevent hazards from <a href=\"/dex/sv/pokemon/deoxys-defense/almost-any-ability/\" hreflang=\"en\">Deoxys-D</a> and <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a> and sweepers such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/almost-any-ability/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> from setting up, while Memento can allow safe switch-ins for other frail Pokemon like <a href=\"/dex/sv/pokemon/gengar/almost-any-ability/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>. Smeargle is exclusively used on hyper offense teams due to it more or less being a suicide lead. Some notable partners include frail attackers such as Swords Dance <a href=\"/dex/sv/pokemon/iron-boulder/almost-any-ability/\" hreflang=\"en\">Iron Boulder</a> and Sheer Force Gengar, which benefit greatly from Sticky Web and the safe switch-in Memento provides. Some counters to Smeargle include <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a> and Chien-Pao, since they are both immune to Taunt and Memento, enabling them to use it as setup fodder; as a result, Fighting-types such as offensive Bulk Up <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> are good partners. Another Pokemon that annoys Smeargle is Great Tusk due to its hazard removal capabilities, making threats such as <a href=\"/dex/sv/pokemon/polteageist/almost-any-ability/\" hreflang=\"en\">Polteageist</a>, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/almost-any-ability/\" hreflang=\"en\">Ogerpon-C</a>, and Tail Glow <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> much appreciated.</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Memento",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Axe",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652656,
+            "username": "Gambit"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 580765,
+                "username": "cat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onward</p>\n<p><strong>Price Range</strong>: 3-5 points</p>\n<p><strong>Overview</strong>: With access to nearly every single move, Smeargle can appear to have godlike role compression when it comes to support moves. In reality, Smeargle's presence on a draft symbolizes either a panic to shore up preparation deficiencies or a flexible celebration of a completed draft strategy that has the freedom to pick it up. Nine times out of ten, Smeargle will serve as a barely-effectual bandage to a weak support move backbone, unable to provide the compression it appears to have. Smeargle can provide the support needed in select few circumstances; however, in most cases, it serves more as a teambuilder threat to an overthinking opponent.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Entry Hazard Lead</strong>: With access to every entry hazard available, teams that have the ability to not worry about hazard removal can make use of Smeargle's options to pick and choose what to set for a matchup.</p>\n<p><strong>Blanket check</strong>: With a custom built moveset, Smeargle can kit itself out to target a specific threat and remove or neutralize it.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Extreme Speed, Population Bomb</p>\n<p><strong>Setup Moves</strong>: No Retreat, Belly Drum</p>\n<p><strong>Utility Moves</strong>: Spore, Stone Axe, Ceaseless Edge, Toxic Spikes, Sticky Web, Taunt, Mortal Spin, Nuzzle, Burning Bulwark, Parting Shot, Healing Wish, Memento, Encore, Taunt, Endeavor, Knock Off, Rapid Spin</p>\n<p><strong>Coverage</strong>: With base 20 offenses, Smeargle will cause more damage to its opponents by using anything but damaging attacks.</p>\n<h3>Niche Moves</h3>\n<p><strong>Destiny Bond</strong>: If Smeargle can find time to use the move, it can enable a replacement to set up or remove an opposing threat. Destiny Bond can even provide an additional turn for Smeargle as an opponent waits for the effect to wear off.</p>\n<p><strong>Fake Out</strong>: Despite doing next to no damage, Fake Out can disrupt Multiscale, Sturdy, and Focus Sash strategies.</p>\n<p><strong>Imprison</strong>: Against certain stall or setup threats, Smeargle can counterbuild their expected moveset, using Imprison to make them unable to execute their strategy.</p>\n<p><strong>Trick / Switcheroo</strong>: Trick can surprise opponents expecting a status-inducing move or hazards, inhibiting their strategies by giving them a Choice item or a debilitating item like Toxic Orb, Flame Orb, or Iron Ball.</p>\n<p><strong>Chilly Reception</strong>: If Smeargle's team needs the weather to be cleared, Chilly Reception can be run as a pivoting move. Chilly Reception reduces the impact of opposing weather sweepers by removing sand, sun, or rain if positioned correctly.</p>\n<p><strong>Dragon Tail / Circle Throw</strong>: Smeargle can use phazing moves as an emergency check to setup sweepers. Additionally, forcing switches has natural synergy with the entry hazards that Smeargle can set.</p>\n<p><strong>Court Change</strong>: An option that requires Smeargle to rely less on setting its own entry hazards, Court Change reverses the hazard environment entirely, freeing up moveslots if hazard-setting Pokemon like <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> or <a href=\"/dex/sv/pokemon/skarmory/draft/\" hreflang=\"en\">Skarmory</a> are on the opposing team.</p>\n<h3>Common Items</h3>\n<p><strong>Focus Sash</strong>: Smeargle cannot take hits at all, and Focus Sash affords it a turn to accomplish whatever goal it was built to do.</p>\n<h3>Niche Items</h3>\n<p><strong>Mental Herb</strong>: If Taunt is expected as a means of stifling Smeargle's progress, Mental Herb can be a surprise method to circumvent that and act anyway.</p>\n<p><strong>Choice Scarf</strong>: While not particularly fast naturally, a Choice Scarf outspeeds most unboosted threats and can be combined with Trick to limit an opposing Pokemon. Alternatively, Choice Scarf can ensure Smeargle outspeeds a specific threat and handle it with a specifically selected move for the circumstance.</p>\n<p><strong>Custap Berry</strong> When paired with Endure, Smeargle can assure itself one turn of moving first, which can be enough to take out a runaway threat or accomplish its predetermined task during the game.</p>\n<h3>Tera</h3>\n<p>Tera does Smeargle no favors, as even blanking a powerful attack with an immunity is less effective when the opponent can see it coming from Tera Preview and barely more effective if they can't. In niche cases where Smeargle is the only available Tera Captain to pair alongside an expensive top-end partner, Tera Ghost can provide Rapid Spin immunity even just as a bluff. Additionally, Tera Normal with a No Retreat or Belly Drum boost can turn STAB moves like Extreme Speed or Population Bomb into something worth considering.</p>\n<h3>Draft Strategy</h3>\n<p>Smeargle works best when it can focus on its own role and not worry about needing to serve any other purposes or its role being disrupted. While Smeargle should not be planned around, a well-drafted team can ensure that Smeargle does not end up as an anchor in battle.</p>\n<p><strong>Spinblockers</strong>: Smeargle will be unable to set up entry hazards more than once a match on average, as it's far more likely to be KOed than switch out once it hits the field. Teammates that can disincentive or prevent hazard removal make sure Smeargle's sacrifice is not in vain. <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> is the shining star in this department, but Pokemon with Defiant or Competitive can make Defog a riskier click, and Ghost-types like <a href=\"/dex/sv/pokemon/annihilape/draft/\" hreflang=\"en\">Annihilape</a> and <a href=\"/dex/sv/pokemon/skeledirge/draft/\" hreflang=\"en\">Skeledirge</a> can prevent Rapid Spin.</p>\n<p><strong>Knock Off</strong>: Making use of the entry hazards that Smeargle sets out is important; in respnse, Smeargle's opponent can bring more Heavy-Duty Boots sets than normal. Access to Knock Off among Smeargle's teammates can remove hazard protection from the opposing team, ensuring that its entry hazards are effective.</p>\n<p><strong>Offensive Entry Hazard Setters</strong>: Many Pokemon would rather not need to bring hazards to every match, such as <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, or <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a>, who would prefer the flexibility of having the open moveslot. While Smeargle can't always be the hazard setter, or even the only hazard setter, its teammates will appreciate the flexibility to drop Stealth Rocks or Spikes in favor of running more coverage or other utility moves.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Entry Hazard Removal</strong>: Smeargle does not have the longevity to wait out an opposing Defog or Rapid Spin and will be a wasted slot if the hazards it puts up are removed later in the battle. While removal can be disincentivized or delayed, a consistent removal option will result in Smeargle facing the Sisyphean task of keeping hazards on the field in an extremely unfriendly environment.</p>\n<p><strong>Multi-Hit Moves</strong>: Smeargle's speed leaves a lot to be desired, so a faster Pokemon can take it out through Focus Sash with a multi-hit move. <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a>'s Triple Axel, Garchomp's Scale Shot, <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a>'s Icicle Spear, among others, can KO Smeargle outright. Some Pokemon have access to unconventional multi-hit moves, such as <a href=\"/dex/sv/pokemon/terrakion/draft/\" hreflang=\"en\">Terrakion</a> with Double Kick, which can be brought specifically for Smeargle.</p>\n<p><strong>Taunt</strong>: With Smeargle rarely able to run Mental Herb, Taunt can prevent Smeargle from being able to use many of its options. While moves like Ceaseless Edge and Nuzzle prevent Taunt from entirely locking Smeargle out from its full moveset, other options like Sticky Web and Spore become inaccessible when Smeargle cannot use status moves.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 57965,
+            "username": "a fairy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 277988,
+                "username": "dex"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sticky Web Lead",
+          "pokemon": "Smeargle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Due to having nearly every move in the game, Smeargle has fantastic qualities as a versatile suicide lead and Sticky Web setter for hyper offense teams due to the large amount of roles it can compress, such as being able to anti-lead opposing hyper offense leads, punishing entry hazard removers with status, controlling hazards on either side of the field, and minimizing impact from Taunt users. These combined factors make it difficult to shut down Smeargle.</li>\n<li>Sticky Web can help to enable threats such as Eruption Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, wallbreaker Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, and <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a> by letting them outpace threats such as <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a> and <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>.</li>\n<li>Nuzzle can cripple common Taunt users such as <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>, <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a>, and <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>. Spore is great for crippling opposing hyper offense leads such as <a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a> and <a href=\"/dex/sv/pokemon/iron-treads/national-dex-ubers/\" hreflang=\"en\">Iron Treads</a>. Both options are also valuable in order to punish attempts to remove Smeargle's hazards from <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> and <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a>.</li>\n<li>Rapid Spin or Mortal Spin allows Smeargle to clear hazards from opposing hyper offense leads such as Shuckle and <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-ubers/\" hreflang=\"en\">Mega Diancie</a>. Rapid Spin is more valuable if Smeargle needs to clear hazards from Steel-types such as <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, and it provides a Speed boost to cripple threats such as Yveltal and <a href=\"/dex/sv/pokemon/palkia-origin/national-dex-ubers/\" hreflang=\"en\">Palkia-O</a> with Spore or Nuzzle. Mortal Spin can clear hazards against spinblockers such as <a href=\"/dex/sv/pokemon/lunala/national-dex-ubers/\" hreflang=\"en\">Lunala</a> and <a href=\"/dex/sv/pokemon/arceus-ghost/national-dex-ubers/\" hreflang=\"en\">Arceus-Ghost</a> and poison them in the process, but it's at the cost of being more susceptible to Tera Steel Pokemon such as Yveltal. The poison chip damage is also valued by Smeargle's partners such as Ultra Necrozma and <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a> to break through checks like Arceus-Dark easier.</li>\n<li>Perish Song prevents Dragon Dance <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a> from using Smeargle as setup fodder to facilitate a sweep from the lead slot. Due to the frailty of most hyper offense teams Zygarde is often able to sweep if it uses Dragon Dance twice, while Dragon Tail's phasing makes it easier for the opposing team to remove Sticky Web. Ceaseless Edge and Stone Axe can grant Smeargle access to extra utility with unblockable hazards.</li>\n<li>Smeargle's moveset is very flexible and can be mixed and matched to however you feel to deal with specific scenarios. Running Parting Shot or Teleport can generate momentum for the team while still preserving Smeargle potentially, and running both Stone Axe and Ceaseless Edge in the last two moveslots is possible if you don't care about opposing hazards. However, the given moveset is generally the most optimized variant of Smeargle.</li>\n<li>Technician is the default ability of choice to slightly increase the damage output of Smeargle's utility-focused attacks, without potential inconsistencies by becoming slower at the end of a turn with Moody, but otherwise Moody is a viable alternative to punish passive play from the opponent.</li>\n<li>Tera Ghost and Steel are used only for dealing with opposing suicide leads such as Iron Treads and <a href=\"/dex/sv/pokemon/glimmora/national-dex-ubers/\" hreflang=\"en\">Glimmora</a> in order to block their attempts to clear Smeargle's hazards with Rapid Spin and Mortal Spin, respectively. Terastallization should only be used on Smeargle for absolute emergencies, as it takes the opportunity away from its wallbreaking partners.</li>\n<li>Smeargle only should be used as a lead in order to enable its teammates as fast as possible.</li>\n<li>Attempts to conserve Smeargle for use later in the game are unnecessary, as its sacrifice generates momentum for its teammates.</li>\n<li>After setting Sticky Web, Smeargle should make every effort to keep Sticky Web up and spread status for as long as possible before it goes down.</li>\n<li>In addition to partners such as Dragon Dance Rayquaza and <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> enjoying Smeargle's Sticky Web to outpace threats like Zacian-C and <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>, Smeargle can benefit from spinblockers such as Arceus-Ghost and your own Zacian-C to block Rapid Spin and Mortal Spin, respectively. Nasty Plot <a href=\"/dex/sv/pokemon/chi-yu/national-dex-ubers/\" hreflang=\"en\">Chi-Yu</a>'s strong matchups against common forms of hazard removal such as Ho-oh and Yveltal also makes it a great partner for Smeargle.</li>\n</ul>",
+          "abilities": [
+            "Technician",
+            "Moody"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Steel",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nuzzle",
+                "type": null
+              },
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              },
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Perish Song",
+                "type": null
+              },
+              {
+                "move": "Ceaseless Edge",
+                "type": null
+              },
+              {
+                "move": "Stone Axe",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 568189,
+            "username": "Runo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Sketch"
+  ]
+}

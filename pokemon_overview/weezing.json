@@ -1,0 +1,396 @@
+{
+  "name": "Weezing",
+  "alias": "weezing",
+  "types": [
+    "Poison"
+  ],
+  "stats": [
+    65,
+    90,
+    120,
+    85,
+    70,
+    60
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "<p>With its incredible physical bulk, great typing, and ability, Weezing serves as an excellent physical wall. Its Poison typing gives it a resistance to Fighting-type attacks, making it an incredible check to Fighting-types, such as <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a> and <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a>. Its bulk allows it to easily spread status through Will-O-Wisp and Sludge Bomb, making Weezing incredibly irritating to switch into. However, Weezing lacks any reliable recovery, making it easy to wear down over the course of a game. Its mediocre special bulk means it folds to any strong special attack.</p>",
+      "comments": "<h3>Checks and Counters</h3>\n<p><strong>Special Attackers</strong>: Weezing's lacking Special Defense makes it susceptible to any strong neutral attack from the likes of <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a>, <a href=\"/dex/sv/pokemon/clawitzer/zu/\" hreflang=\"en\">Clawitzer</a>, and <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a>. However, Sludge Bomb's nasty poison chance makes it hard to repeatedly switch these attackers in.</p>\n<p><strong>Residual Damage</strong>: As tanky as Weezing is, its lack of reliable recovery leaves it prone to being overwhelmed, especially in longer games versus bulkier teams. Strong attacks can easily bypass Pain Split's weak healing, leaving Weezing vulnerable to being forced past by attackers like <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a> and <a href=\"/dex/sv/pokemon/dodrio/zu/\" hreflang=\"en\">Dodrio</a>.</p>\n<p><strong>Psychic-types</strong>: <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> can easily switch in on Weezing, only fearing Sludge Bomb's poison chance, threaten it out, and use it to set entry hazards, pivot with U-turn, set up Substitute or boosts, or do any other of the million things it does. <a href=\"/dex/sv/pokemon/farigiraf/zu/\" hreflang=\"en\">Farigiraf</a> can also easily enter on Weezing and start boosting. Less common Psychic-types like <a href=\"/dex/sv/pokemon/malamar/zu/\" hreflang=\"en\">Malamar</a>, <a href=\"/dex/sv/pokemon/indeedee-f/zu/\" hreflang=\"en\">Indeedee-F</a>, and <a href=\"/dex/sv/pokemon/veluza/zu/\" hreflang=\"en\">Veluza</a> still scare Weezing out with super effective Psychic-type attacks and use it to force progress throughout the game, though none of them enjoy being poisoned or burned.</p>",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Weezing",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sludge Bomb's poison chance makes it the preferred attack of choice, threatening otherwise safe switches like <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> and <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a> with uncomfortable chip damage. Will-O-Wisp cripples physical attackers and spreads chip damage on common switch-ins like <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> and Mesprit. Pain Split gives Weezing some staying power and helps it stick around in longer games. Haze denies setup sweepers like Swords Dance <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a>. Taunt messes with defensive foes, denying attempts at setting entry hazards, spreading status, and recovery. Toxic Spikes messes with grounded Pokemon like <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a> and is great into bulkier teams. Rocky Helmet chips away at physical attackers using contact moves. Levitate lets Weezing hover over Spikes as well as Ground-type moves, letting it ignore Earthquake from <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a> and <a href=\"/dex/sv/pokemon/sandaconda/zu/\" hreflang=\"en\">Sandaconda</a>. Tera Steel makes Weezing resist Psychic-type attacks from Mespirit and <a href=\"/dex/sv/pokemon/farigiraf/zu/\" hreflang=\"en\">Farigiraf</a>, as well as a ton of other types like Flying, Normal, and Ice, making it a better check to many physical attackers like <a href=\"/dex/sv/pokemon/dodrio/zu/\" hreflang=\"en\">Dodrio</a> and <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a>. However, Tera Steel makes Weezing weak to Fighting-type attacks, reducing its effectiveness as a check to Fighting-types like <a href=\"/dex/sv/pokemon/hitmontop/zu/\" hreflang=\"en\">Hitmontop</a> and Primeape.</p>\n<p>Balance teams can tend to struggle against the many strong Fighting-types like Primeape, so Weezing is a great fit on these teams to take this pressure off its teammates. Because of this, Fighting-weak partners like <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a> appreciate Weezing's presence. Glastrier is another wallbreaker that balance teams struggle with, and Weezing can help its team dance around it. As Weezing can't take special hits very well, special walls like Cryogonal and <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a> are helpful for sponging the special attacks aimed at Weezing. Orthworm coincidentally form a powerful defensive core with Weezing, with Weezing covering Fighting-types for Orthworm. Offensive threats like Glastrier and Sneasel appreciate having Weezing to fall back on against would-be revenge killers like Primeape.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Haze",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 626095,
+            "username": "sinnabyss"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 369076,
+                "username": "Tuthur"
+              },
+              {
+                "user_id": 601970,
+                "username": "sleid"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 643347,
+                "username": "calmvibes"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Weezing",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set(s) while NU develops through the DLC releases. Stay tuned for future updates.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 212,
+              "spa": 0,
+              "spd": 0,
+              "spe": 44
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Poison)",
+          "pokemon": "Weezing",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Haze",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 Points</p>\n<p><strong>Overview</strong>: Weezing is a defensive Pokemon with many things going for it. Levitate combined with its Poison typing gives it just one weakness and numerous resistances combined with a powerful Ground immunity. It can also use its other amazing ability, Neutralizing Gas, to disrupt foes in specific matchups by cancelling out their abilities. In addition, it has high Defense and some great support moves to disrupt foes and support its team. These combined traits give it great matchups against high-tier picks such as <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, giving Weezing a lot of value as a low-tier pick. On the flip side, its low special bulk and Speed make it vulnerable to most special attackers. Weezing also tends to be passive due to its poor offensive stats and thus can potentially be taken advantage of by fast Taunt and Encore users, as well as bulky foes that can take its rather weak attacks.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Wall</strong>: Weezing makes for a great defensive wall, using its great bulk and typing to switch into an array of attacks aimed at its teammates. This set aims to stick around for as long as possible, making use of its limited healing options such as Black Sludge and Pain Split to amplify its longevity.</p>\n<p><strong>Bulky Support</strong>: This set aims to take advantage of Weezing's support movepool, sacrificing longevity to run more moves to support its team. For instance, Weezing can inflict status in the form of burn from Will-O-Wisp or poison from Toxic or Toxic Spikes. It can also deny opposing setup by using moves such as Haze, Clear Smog, and even Taunt. Weezing is quite flexible in the support it can offer, but its passivity can be taken advantage of, especially since it doesn't aim to stick around as long as possible.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Sludge Bomb, Sludge Wave, Gunk Shot</p>\n<p><strong>Setup Moves</strong>: 404: Could not be found</p>\n<p><strong>Utility Moves</strong>: Acid Spray, Clear Smog, Destiny Bond, Haze, Memento, Pain Split, Protect, Taunt, Toxic, Toxic Spikes, Will-O-Wisp</p>\n<p><strong>Coverage</strong>: Dark Pulse, Flamethrower, Fire Blast, Shadow Ball, Thunderbolt</p>\n<h3>Niche Moves</h3>\n<p><strong>Explosion</strong>: Explosion is a powerful attack that not only has the potential to inflict huge damage but also allows Weezing to enable a teammate to safely hit the field afterwards. It works similarly to Memento in this regard, but since it is not a status move, it bypasses status move-blocking methods such as Taunt and does damage instead of lowering stats.</p>\n<p><strong>Venoshock</strong>: Weezing makes for a great Toxic Spikes setter. Once a foe is poisoned, Venoshock will double in power, allowing for a spammable STAB attack that's even stronger than Sludge Bomb.</p>\n<p><strong>Endure</strong>: Weezing makes for a great Custap Berry user, having many great moves to disrupt foes with. Endure ensures Weezing will survive any incoming attack and activate its Berry.</p>\n<h3>Common Items</h3>\n<p><strong>Rocky Helmet</strong>: Finding itself often switching into physical attacks, most of which are contact moves, Weezing can punish foes with Rocky Helmet, forcing chip damage over the course of a game.</p>\n<p><strong>Black Sludge</strong>: Having very limited forms of recovery, Black Sludge is used to allow Weezing to stick around for longer. This can be combined with Protect to allow for even more turns of recovery.</p>\n<p><strong>Sitrus Berry</strong>: While Weezing has a good defensive profile, it is not invincible, and it can find itself struggling against high Base Power attacks and foes with massive attacking stats. Sitrus Berry works better than Black Sludge in these scenarios by providing Weezing a burst of recovery, potentially giving it an extra turn to survive and disrupt its foe.</p>\n<h3>Niche Items</h3>\n<p><strong>Custap Berry</strong>: Boasting sacrificial moves such as Memento, Explosion, and Destiny Bond, Weezing can run a Custap Berry to successfully use these moves while bypassing its low Speed stat.</p>\n<p><strong>Heavy-Duty Boots</strong>: Weezing may find itself using Neutralizing Gas in some matchups, making it more vulnerable to entry hazards. As such, Heavy-Duty Boots can be used to remedy this issue, allowing Weezing to switch in and out of battle more safely.</p>\n<p><strong>Payapa Berry</strong>: As mentioned above, Weezing effectively only has one weakness in Psychic, limiting the coverage options foes have to break it. This makes Payapa Berry effective to let Weezing lure and either KO or status foes that fail to KO it with Psychic-type coverage, such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>.</p>\n<h3>Tera</h3>\n<p>Weezing generally doesn't need to be a Tera Captain. It does not have amazing offensive power on its own, and it already has a fantastic defensive typing. However, should Weezing be made a Tera Captain anyway, it can use its fantastic ability in Levitate to retain a Ground immunity when changing types. Tera types such as Tera Steel and Fire work very well in this regard, with a particular mention to Tera Electric giving it no weaknesses. However, it can also exploit a number of other great Tera types such as Tera Fairy and Water to wall more specific threats. Finally, Tera Dark can be used to make Weezing immune to its sole effective weakness, Psychic.</p>\n<h3>Draft Strategy</h3>\n<p>Weezing should be drafted on teams that appreciate its physical bulk, wide support movepool, and valuable resistances. Due to its passivity and vulnerability to special attackers, Weezing should not be used as the centerpiece of a bulky core. Rather, it is used to patch up weaknesses and enable its team, with many different teammates appreciating the help it can provide.</p>\n<p><strong>Special Walls</strong>: As a physically bulky Pokemon, Weezing pairs well with specially bulky teammates, forming a potent defensive core. With effectively only one type weakness to compensate for, many Pokemon can form such a core with Weezing. Pokemon with high Special Defense such as <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/clefable/draft/\" hreflang=\"en\">Clefable</a> can reliably tank special attacks aimed at Weezing, allowing it to survive for longer.</p>\n<p><strong>Status-weak Pokemon</strong>: Being a slow Poison-type that primarily uses special moves, Weezing usually ignores poison, paralysis, and burn. As such, it can find itself a great status absorber, taking status attacks for its teammates and ensuring they stay healthy throughout the match. Pokemon such as <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, and Iron Valiant detest all forms of status and can rely on Weezing to take these moves for them.</p>\n<p><strong>Setup Sweepers</strong>: Weezing has numerous ways it can enable setup sweepers, whether it be providing a switch opportunity with Memento or weakening a physical threat with a burn, providing safe entry for its teammates. Setup sweepers such as <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/volcarona/draft/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a> can set up more safely and potentially end the game thanks to the support Weezing offers.</p>\n<p><strong>Offensive Teammates</strong>: Due to its low offensive stats, Weezing struggles to do much damage, even with its coverage moves. As such, Poison- and Steel-type Pokemon, to name a couple examples, often switch in freely against it. Offensive teammates that can take advantage of these types of Pokemon pair well with Weezing. Ground-types such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> and Fire-types such as <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a> are reliable Pokemon that can switch into and remove them.</p>\n<p><strong>Entry Hazard Control</strong>: Regardless of which ability Weezing runs, it appreciates teammates that can remove entry hazards. If it runs Levitate, it cannot absorb Toxic Spikes and thus cannot protect its team from being poisoned. On the other hand, Neutralizing Gas sets become vulnerable to Spikes, and Weezing prefers to run items other than Heavy-Duty Boots. Spinners such as <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/blastoise/draft/\" hreflang=\"en\">Blastoise</a> can reliably remove hazards and solidify Weezing's walling capabilities.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Psychic-types</strong>: Psychic is Weezing's sole weakness when using Levitate, and thus it finds itself frequently targeted by both Psychic-type coverage and powerful Psychic-type Pokemon. Pokemon such as <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a>, <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, and both <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a> formes have both the typing and the bulk to switch into Weezing directly and threaten it with super effective STAB attacks.</p>\n<p><strong>Poison-types</strong>: Weezing is helpless against most opposing Poison-type Pokemon. It lacks powerful moves to hit them, and they are immune to being poisoned. Weezing can still threaten them with Will-O-Wisp and its other support moves, but Pokemon that do not mind these tactics such as <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/gengar/draft/\" hreflang=\"en\">Gengar</a>, and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> make for excellent switch-ins to Weezing, often completely blanking it.</p>\n<p><strong>Special Attacks</strong>: Even when investing in its Special Defense, Weezing is still threatened by powerful special attackers, which it cannot weaken in the same way it can weaken physical attackers with burn. Special attackers such as <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> can repeatedly fire off special STAB attacks, which Weezing struggles to handle.</p>\n<p><strong>Status Blockers</strong>: Since Weezing's damage output is low, it relies on status and status moves to threaten foes. As such, Pokemon that can ignore these moves give it a lot of trouble. Fast Taunt users like <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> and Darkrai can prevent Weezing from using status moves altogether. Substitute is a move learned by many Pokemon that can block most forms of status and allow them to take advantage of Weezing's low damage output, with some Pokemon like Garchomp also resisting Weezing's limited coverage. Finally, Lum Berry can be used by wallbreakers such as both <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu</a> formes to prevent Weezing from immediately checking them and potentially use it to set up.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 272077,
+            "username": "Deranged_Lime"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 618293,
+                "username": "Diviniya"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Assurance",
+    "Belch",
+    "Body Slam",
+    "Clear Smog",
+    "Curse",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Double Hit",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Fire Blast",
+    "Flamethrower",
+    "Giga Impact",
+    "Gunk Shot",
+    "Gyro Ball",
+    "Haze",
+    "Heat Wave",
+    "Hyper Beam",
+    "Memento",
+    "Pain Split",
+    "Poison Gas",
+    "Protect",
+    "Psybeam",
+    "Rain Dance",
+    "Rest",
+    "Scary Face",
+    "Self-Destruct",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Sludge",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smog",
+    "Smokescreen",
+    "Spite",
+    "Spit Up",
+    "Stockpile",
+    "Substitute",
+    "Sunny Day",
+    "Swallow",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Toxic",
+    "Toxic Spikes",
+    "Venoshock",
+    "Will-O-Wisp"
+  ]
+}

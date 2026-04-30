@@ -1,0 +1,1354 @@
+{
+  "name": "Porygon2",
+  "alias": "porygon2",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    85,
+    80,
+    90,
+    105,
+    95,
+    60
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Trick Room",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tera Blast is best suited for Tera Fairy and Tera Fighting variants of Porygon2; otherwise, Tri Attack is better. Shadow Ball deals heavy damage to <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a> and <a href=\"/dex/sv/pokemon/hoopa/pu/\" hreflang=\"en\">Hoopa</a> and also hits <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> neutrally, while Ice Beam has better coverage against bulky Ground-types in <a href=\"/dex/sv/pokemon/rhydon/pu/\" hreflang=\"en\">Rhydon</a> and <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a>.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fairy",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tri Attack",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        },
+        {
+          "name": "Special Wall",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Download",
+            "Trace"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tri Attack",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 4,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trick Room",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyper Beam",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "<p>Porygon2's good Eviolite-boosted defenses and access to Trace make it one of the best special walls in the tier. Porygon2 utilizes Trace to great effect, copying abilities such as <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>'s Flash Fire, <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>'s Water Absorb, <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a>'s Regenerator, and <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>'s Punk Rock. Boasting an impressive Special Attack, Porygon2 circumvents its passivity by threatening 2HKOs or 3HKOs on most offensive Pokemon with its Tri Attack and super effective coverage options. Porygon2's Normal typing is great for letting it be a general blanket check, but its lack of resistances can lead to it being overwhelmed, especially with its susceptibility to entry hazards, since it cannot run Heavy-Duty Boots. Porygon2 is also very vulnerable to physical attackers such as <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a> using Knock Off as well as Choice item users like Chandelure and <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a> using Trick, since it relies heavily on Eviolite to boost its bulk. Additionally, Porygon2 struggles to threaten bulky Steel-types, such as <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a> and <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, which can allow them opportunities to come in on it for free. On top of that, Porygon2 cannot handle Calm Mind setup sweepers like <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a> and <a href=\"/dex/sv/pokemon/scream-tail/nu/\" hreflang=\"en\">Scream Tail</a> on its own, especially if they have recovery moves, but it can slow them down with Thunder Wave, allowing a teammate to handle them.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Discharge can be used as an alternative to Thunder Wave, since it gives Porygon2 space for more offensive options while still letting it fish for paralysis, though Thunder Wave's guaranteed paralysis is generally preferred. Download can be used over Trace, boosting Porygon2's offensive power and making it more difficult for offensive threats to safely switch into it. However, Trace's overall utility is usually much better.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Item Displacement</strong>: Porygon2 relies on Eviolite for much of its walling power, meaning it is very susceptible to moves like Knock Off and Trick, which can remove the Eviolite. Many physical attackers such as <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, and <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a> carry Knock Off and can hinder Porygon2's bulk to allow partners to break through it more easily. Additionally, special attackers with Choice items, such as <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a>, and <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>, can cripple Porygon2 by giving it a Choice item, using Trick.</p>\n<p><strong>Steel-types</strong>: Porygon2 struggles against bulky Steel-types such as <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a>. They aren't generally hindered by Thunder Wave and have ways to set entry hazards or boost their own stats, letting these Steel-types exploit Porygon2's lack of coverage to hit them. The first two also threaten Porygon2 with a powerful Body Press.</p>\n<p><strong>Fighting-types</strong>: Powerful physical Fighting-types such as <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/nu/\" hreflang=\"en\">Paldean Tauros-F</a> and -W, <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a>, and <a href=\"/dex/sv/pokemon/flamigo/nu/\" hreflang=\"en\">Flamigo</a> all threaten Porygon2 with their strong Close Combat. While most do not want to switch into a Thunder Wave, they can pivot in and force Porygon2 out, and Lum Berry <a href=\"/dex/sv/pokemon/tauros-paldea-combat/nu/\" hreflang=\"en\">Paldean Tauros</a> formes as well as Poison Heal Breloom ignore Thunder Wave altogether and can use Porygon2 as a chance to setup with Bulk Up, Swords Dance, or Substitute.</p>",
+      "movesets": [
+        {
+          "name": "Special Wall",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Shadow Ball complements Tri Attack, hitting Ghost-types such as <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>, and <a href=\"/dex/sv/pokemon/typhlosion-hisui/nu/\" hreflang=\"en\">Hisuian Typhlosion</a> while also dealing super effective damage to <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>. Porygon2 can also run a BoltBeam set. Ice Beam threatens Ground-types that might be tempted to switch into a Thunder Wave, such as <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a> and <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a> as well as Grass-types such as <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a>, which are otherwise very threatening to Porygon2. Thunderbolt handles bulky Water-types like <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a> and <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a> that could chip down Porygon2 or Wish pass to allies for free. Foul Play is useful against any physical attackers, such as <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a>, <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>, and Tera Steel Flygon, as well as physically frail Pokemon such as <a href=\"/dex/sv/pokemon/espeon/nu/\" hreflang=\"en\">Espeon</a> and <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>. Trace gives Porygon2 amazing defensive utility, providing a massive advantage against a number of Pokemon. For example, it can Trace Vaporeon's Water Absorb, <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a>'s Adaptability, Munkidori's Toxic Chain, <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>'s Punk Rock, Chandelure's Flash Fire, <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>'s as well as <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>'s Intimidate, and <a href=\"/dex/sv/pokemon/klefki/nu/\" hreflang=\"en\">Klefki</a>'s as well as <a href=\"/dex/sv/pokemon/tornadus/nu/\" hreflang=\"en\">Tornadus</a>'s Prankster. Tera Poison is an excellent defensive typing overall and prevents Porygon2 from being poisoned, which is vital against Pokemon like Munkidori, <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, and Amoonguss that attempt to cripple Porygon2 by poisoning it. Alternatively, Tera Ghost makes Porygon2 Fighting-immune and boosts the power of Shadow Ball. Finally, Tera Fairy, if Porygon2 copies Flygon's Levitate, allows it to completely wall both of Flygon's STAB attacks while being a generally useful defensive typing. In addition to that, unlike Tera Ghost, Tera Poison and Fairy allow Porygon2 to resist Scrappy <a href=\"/dex/sv/pokemon/flamigo/nu/\" hreflang=\"en\">Flamigo</a>'s Close Combat.</p>\n<p>Porygon2's weakness to Knock Off users and physical attackers, especially Fighting-types such as Flamigo, <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, and <a href=\"/dex/sv/pokemon/heracross/nu/\" hreflang=\"en\">Heracross</a>, means that it appreciates teammates that can switch into these Pokemon. Amoonguss and <a href=\"/dex/sv/pokemon/slowbro-galar/nu/\" hreflang=\"en\">Galarian Slowbro</a> make for excellent partners thanks to their Poison typing and Regenerator, allowing them to come in repeatedly throughout the game and tank hits from these threats. <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a> is another physical wall that pairs well with Porygon2. Despite Avalugg still being weak to Fighting and Knock Off, Porygon2 covers many of its weaknesses by being a blanket special wall that can take on special attackers for it. In return, Avalugg removes entry hazards for Porygon2. Other hazard control options such as Defog Scyther and <a href=\"/dex/sv/pokemon/altaria/nu/\" hreflang=\"en\">Altaria</a> are also good partners for Porygon2, since they remove hazards for it while providing good defensive synergy with their Fighting resistances. Porygon2 also appreciates teaming up with physical wallbreakers, especially Fighting-types that can take advantage of bulky Steel-types, which Porygon2 tends to allow in. Flamigo, Paldean Tauros-W and -F, and Heracross are great for this, since they also have good defensive synergy with Porygon2 and appreciate it spreading paralysis to faster Pokemon. Bulky Water-types like Vaporeon, Milotic, and <a href=\"/dex/sv/pokemon/tentacruel/nu/\" hreflang=\"en\">Tentacruel</a> can spread status to physical attackers like Flamigo, Flygon, and Scyther that threaten Porygon2 while also checking Hisuian Typhlosion, one of the only special attackers that consistently carries Fighting-type coverage moves. These bulky Water-types also often carry phazing moves, which are very helpful against bulky setup sweepers like <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a> and Bronzong, which Porygon2 struggles against. Additionally, Tentacruel can also provide Rapid Spin support for Porygon2.</p>",
+          "abilities": [
+            "Trace"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Poison",
+            "Ghost",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tri Attack",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 4,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 680530,
+            "username": "emikatana"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 312113,
+                "username": "Shengineer"
+              },
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594972,
+                "username": "Murphy Lawden"
+              },
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Defensive",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Porygon2 is an amazing physical wall on Normal teams due to its good bulk and access to Eviolite. Discharge threatens Flying- and Water-types like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a>, and <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>. Ice Beam checks Ground-, Flying-, and Dragon-types like the <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. Foul Play is a great anti-setup move that dissuades physical sweepers like <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes from setting up. Substitute can be run over Foul Play, as it allows Porygon2 to block status from <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> while also protecting itself from incoming threats like <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> or <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>. However, doing so will make Porygon2 vulnerable into setup sweepers like <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/gouging-fire/monotype/\" hreflang=\"en\">Gouging Fire</a> due to not having Foul Play. Trace is the ideal ability for Porygon2 to copy Regenerator and Poison Heal from Toxapex and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, respectively. Trace also allows Porygon2 to copy Sword of Ruin, which helps it take hits from <a href=\"/dex/sv/pokemon/chien-pao/monotype/\" hreflang=\"en\">Chien-Pao</a> better. Download can be run over Trace to make Porygon2 a bulky wallbreaker, making it notably effective in the Flying matchup by taking out Corviknight and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> with ease.</p>\n<p><a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> is the ideal partner for Porygon2, forming a strong defensive core by providing a switch-in to special threats like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, and Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, while also spreading paralysis with Thunder Wave. Blissey also provides utility in setting up Stealth Rock. <a href=\"/dex/sv/pokemon/braviary/monotype/\" hreflang=\"en\">Braviary</a> provides entry hazard removal with Defog for Porygon2 while also checking <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a> with Brave Bird. In return, Porygon2 deals with <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> and Ceruledge for Braviary with Foul Play. Choice Specs <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a> is a nice teammate due to its Fighting immunity, and it can threaten important targets like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, non-Choice Scarf <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a> with Shadow Ball and Focus Blast. Calm Mind <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/monotype/\" hreflang=\"en\">Ursaluna-B</a> is a great wallbreaker, KOing defensive threats like <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a>, Gouging Fire, and Heatran at +1. Ursaluna-B is also a Knock Off absorber for Porygon2 due its bulk and access to Moonlight. Choice Scarf <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> is a great revenge killer, taking out Fighting- and Poison-types like mixed <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/zamazenta/monotype/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, and it can use Healing Wish to bring Porygon2 back to full health if it gets weakened. <a href=\"/dex/sv/pokemon/ditto/monotype/\" hreflang=\"en\">Ditto</a> becomes a great reverse sweeper for Porygon2 by transforming into sweepers like Gouging Fire and Chien-Pao. <a href=\"/dex/sv/pokemon/cinccino/monotype/\" hreflang=\"en\">Cinccino</a> not only removes hazards and boosts its stats with Tidy Up, but also threatens a lot of specially bulky Pokemon with Bullet Seed, Rock Blast, and Triple Axel for Porygon2, most notably <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>. Cinccino can also run a Choice Band set to potentially wallbreak, letting it OHKO Clodsire with Triple Axel. <a href=\"/dex/sv/pokemon/terapagos/monotype/\" hreflang=\"en\">Terapagos</a> can run an offensive utility set with Rapid Spin for Porygon2, but it can also become a fierce setup sweeper with Calm Mind and Tera Starstorm. Terapagos notably threatens Steel-types like <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> and Heatran with Earth Power, which Porygon2 appreciates.</p>",
+          "abilities": [
+            "Trace",
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 4,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 637295,
+            "username": "boomp"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 598658,
+                "username": "Ultraman1"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 633500,
+                "username": "StupidFlandrs48"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trick Room",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>This EV Spread survives two <a href=\"/dex/sv/pokemon/deoxys-attack/doubles/\" hreflang=\"en\">Deoxys-A</a> Expanding Forces in Psychic Terrain, as well as two <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a> Drain Punches.</li>\n</ul>",
+          "abilities": [
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fairy",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 172,
+              "spa": 0,
+              "spd": 84,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>Welcome to Battle Stadium Singles Regulation F! This Pokemon is a new addition from the Indigo Disk that happens to be relevant!</p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-f-dex-updates-and-suggestions.3734864/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Immortal Duck",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>With its wide movepool and impressive bulk courtesy of Eviolite, Porygon2 is a great defensive option.</p>\n</li>\n<li>\n<p><strong>Tri Attack vs Tera Blast</strong>: Tri Attack offers Porygon2 consistent damage and the chance of inflicting status, while Tera Blast allows Porygon2 to make use of Tera to damage foes it might miss out on with Tri Attack such as <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>.</p>\n</li>\n<li>\n<p><strong>Foul Play</strong>: Foul Play prevents Porygon2 from being used as setup fodder by the likes of <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/ogerpon/battle-stadium-singles/\" hreflang=\"en\">Ogerpon</a>, punishing their attempts to boost with increasing damage.</p>\n</li>\n<li>\n<p><strong>Ice Beam</strong>: Ice Beam allows Porygon2 to more immediately threaten important targets like Dragonite and <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a> without relying on Tera.</p>\n</li>\n<li>\n<p><strong>Discharge</strong>: Discharge gives Porygon2 coverage against the likes of <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> and enables it to attempt to spread paralysis even through Taunt.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li><strong>244 HP / 192 Def / 60 SpD / 12 Spe with Calm</strong>: This spread gives Porygon2 good mixed bulk and allows it to outspeed paralyzed <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a>.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Porygon2 is a great defensive presence even without Tera; however, the right Tera type is still crucial in allowing it to lock down important targets.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Porygon2 resistances to Dark- and Fighting-type attacks, allowing it to better stand up to foes such as Urshifu. The immunity to Dragon is also useful in denying Scale Shot attempts from the likes of Dragonite.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison grants a resistance to Fighting as well as an immunity to Toxic and Toxic Spikes, enabling Porygon2 to function better against bulkier teams.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Trace",
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tri Attack",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 188,
+              "spa": 4,
+              "spd": 60,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 528485,
+            "username": "DerpySuX"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 62165,
+                "username": "StarkGod"
+              },
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Porygon2 is one of the bulkiest Pokemon in the format with Eviolite, which allows it to set up Trick Room for it and its partners and beat most Pokemon in the format one-on-one with Recover. With a Download Special Attack boost, it is able to OHKO Pokemon such as the <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a> formes, <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a>, and <a href=\"/dex/sv/pokemon/dragonite/vgc24-regulation-f/\" hreflang=\"en\">Dragonite</a> with Ice Beam.</p>\n</li>\n<li>\n<p>Porygon2 appreciates redirection, damage reduction, and Fake Out support to set up Trick Room and to allow it to Recover safely, making <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/gouging-fire/vgc24-regulation-f/\" hreflang=\"en\">Gouging Fire</a>, and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> excellent partners. Amoonguss especially benefits from Trick Room, since it is able to utilize its low Speed under Trick Room to incapacitate foes with Spore. <a href=\"/dex/sv/pokemon/ursaluna/vgc24-regulation-f/\" hreflang=\"en\">Ursaluna</a> is also a great partner for Porygon2, since, as a slow and offensive Pokemon, it appreciates Trick Room letting it deal great damage to faster foes that threaten it outside of Trick Room like <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a>. This damage output is something that Porygon2 lacks.</p>\n</li>\n<li>\n<p>Porygon2 struggles against Snarl, Taunt, Amoonguss, Incineroar, and Urshifu. Snarl makes it deal significantly less damage, which allows opponents to ignore it without being punished. Taunt removes valuable options from Porygon2 such as Trick Room and Recover. Spore from Amoonguss can stop Trick Room setups and makes Porygon2 vulnerable to strong attacks such as Close Combat from Urshifu, Moonblast from Flutter Mane, and Sacred Sword from <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> without being able to heal the damage off with Recover. Amoonguss also underspeeds Porygon2, punishing Trick Room setups, meaning that once Trick Room is set up, Amoonguss can Spore Porygon2 before it attacks, removing its access to recovery and damage. Incineroar pressures Fake Out, which helps stop Trick Room. Additionally, Incineroar can use Knock Off to remove the Eviolite from Porygon2, making it easier to KO. Finally, Urshifu can threaten Porygon2 with a 2HKO with Close Combat if Porygon2 does not Terastallize.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive TR Setter",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Tera Blast is used as strong Normal-type STAB move that offers coverage once Porygon2 Terastallizes. When Tera Blast is paired with a Download Attack boost, Tera Blast becomes a physical move when Porygon2 Terastallizes. This allows you to hit Assault Vest users like <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> harder, as well as Pokemon with high base Special Defense such as <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>. Ice Beam is used as coverage against <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>, and Recover is used for longevity, allowing it to set Trick Room up multiple times.</p>\n</li>\n<li>\n<p>With the bulk investment bolstered by the Eviolite, this Porygon2 always survives three Sacred Swords from <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>, Timid Choice Specs <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-f/\" hreflang=\"en\">Chi-Yu</a> Overheat, and two Moonblasts from Special Attack Booster Energy Flutter Mane. It also almost always lives a Sword of Ruin Close Combat from Adamant <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a>.</p>\n</li>\n<li>\n<p>Tera Poison is the main Tera type for Porygon2. It offers resistances to Grass-, Fighting-, and Fairy-type attacks, which are important against Rillaboom, Urshifu, and Flutter Mane, respectively, as well as offering a solid overall defensive typing. Additionally, it allows it to hit Grass- and Fairy-types like Rillaboom, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, and Tera Fairy Flutter Mane for super effective damage with Tera Blast. Tera Fairy is used to wall Urshifu and hit it and Raging Bolt for super effective damage. Tera Flying is used to hit Grass- and Fighting-types like Urshifu, <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon</a>, and Rillaboom. Additionally, it makes Porygon2 immune to Earthquake from <a href=\"/dex/sv/pokemon/ursaluna/vgc24-regulation-f/\" hreflang=\"en\">Ursaluna</a>, giving its partner a valuable spread move. Finally, Tera Ghost is used for an immunity to Fighting-type attacks and Fake Out, as well as giving it the ability to hit Flutter Mane.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Poison",
+            "Flying",
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 196,
+              "spa": 0,
+              "spd": 60,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 657713,
+            "username": "Flarefox"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Thanks to its offensive and defensive tools, Porygon2 fits well on balance teams with a Trick Room mode. It benefits from teammates that provide utility, such as Fake Out or redirection, enabling it to set up Trick Room and go on the offensive, as well as teammates that can take advantage of Trick Room.</li>\n<li>Porygon2 is most commonly paired with <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>, which offers Fake Out support to allow Porygon2 to set up Trick Room. It also provides Intimidate and Parting Shot utility, enhancing Porygon2’s survivability. Parting Shot is especially valuable, as it allows Incineroar to pivot to a Trick Room sweeper while Porygon2 sets up Trick Room. Additionally, Incineroar’s access to Flare Blitz and Knock Off helps to threaten Pokemon like <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, which would otherwise wall Porygon2.</li>\n<li>The preferred Trick Room sweeper for Porygon2 teams is <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a>, as it takes full advantage of Trick Room by securing OHKOs on many Pokemon with its Guts boost. This pairing also works well because Porygon2 threatens special damage, while Ursaluna dishes out massive physical damage. <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> is another excellent offensive partner for Porygon2 because Garchomp provides a faster-paced, non-Trick Room-dependent offensive option for Porygon2 but with a less explosive damage output than Ursaluna.</li>\n<li><a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a> is a common support partner for Porygon2, taking full advantage of Trick Room with its low Speed and putting foes to sleep with Spore to allow Porygon2 to attack unthreatened. It also provides Rage Powder redirection, enabling Porygon2 to set up Trick Room freely, and Pollen Puff to heal Porygon2, reducing the need for it to constantly use Recover.</li>\n<li>Gholdengo is a common offensive partner for Porygon2, as it walls Pokemon like non-Throat Chop <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>, which can threaten massive damage to Porygon2, and Amoonguss, which can disrupt Porygon2 by putting it to sleep with Spore before it sets up Trick Room or deals much damage. Additionally, the threat of Nasty Plot boosts forces opponents to focus on Gholdengo, potentially allowing Porygon2 to move freely.</li>\n<li><a href=\"/dex/sv/pokemon/flamigo/vgc/\" hreflang=\"en\">Flamigo</a> and Sneasler are used on Porygon2 teams, as they threaten Incineroar, which can hinder Porygon2 with Knock Off and Parting Shot, as well as threats like <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a>, and, in Flamigo's case, Gholdengo with Close Combat. Sneasler has the added benefit of threatening status with Dire Claw and Poison Touch, while Flamigo has Wide Guard utility to protect Porygon2 from moves like Eruption from <a href=\"/dex/sv/pokemon/typhlosion-hisui/vgc/\" hreflang=\"en\">Hisuian Typhlosion</a> and Make It Rain from Gholdengo.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>As a defensive unit with offensive potential, Porygon2 excels when it is minimally threatened by high-damage moves, such as Close Combat from Sneasler and Choice Specs Tera Fire Eruption from Hisuian Typhlosion. This necessitates pivoting and relying on its teammates to handle major damage dealers, enabling Porygon2 to safely set up Trick Room, heal itself as needed, and retaliate with substantial damage.</li>\n<li>The optimal strategy for using Porygon2 involves pivoting between Pokemon like Incineroar and Amoonguss until Porygon2 and its partner sweepers like Ursaluna achieve a strong offensive position. This includes cycling Intimidate and Parting Shot with Incineroar to stack stat drops while using Amoonguss's Spore to stop opposing threats. By doing so, you create a window for Porygon2 and its offensive partners to safely attack and capitalize on the advantageous board state.</li>\n<li>Due to Porygon2's relatively unoppressive presence, it's susceptible to being outpaced offensively, which is largely unavoidable. However, the best way to deal with this is by pivoting between teammates like Incineroar and Amoonguss to cycle Intimidate, use Spore, or provide redirection until Porygon2 and its offensive partner are in a favorable position. As mentioned earlier, Incineroar's Knock Off and Parting Shot significantly impair Porygon2's offensive and defensive capabilities, which is why Pokemon like Garchomp and Flamigo are employed to take down Incineroar. Additionally, cycling Fake Out from Incineroar and <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> can be particularly threatening for Porygon2, as it may allow an opposing Pokemon to set up or chip away at Porygon2, potentially causing it to faint before it can use Recover. This is why Pokemon like Flamigo and Sneasler are often included, as they can threaten common Fake Out users as well as setup threats like Kingambit and Gholdengo.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Offensive Trick Room Setter",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Porygon2’s primary role is to absorb hits, set up Trick Room, and exert offensive pressure while Trick Room is active. With Eviolite, Porygon2 becomes one of the bulkiest Pokemon in the format, and its access to Recover allows it to heal and remain difficult to remove. Additionally, the Download boost helps it gain more offensive pressure.</li>\n<li>Tera Blast is essential to Porygon2's set, as it provides the necessary coverage to make Porygon2 offensively threatening once it's Terastallized. Ice Beam is also crucial, offering good coverage against Pokemon like <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>.</li>\n<li>Tera Fighting is used for Fighting-type Tera Blast, enabling Porygon2 to deal significant damage to Steel- and Dark-type Pokemon such as <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>. Tera Blast Ground also targets Steel-types but has the niche of threatening Pokemon like <a href=\"/dex/sv/pokemon/electabuzz/vgc/\" hreflang=\"en\">Electabuzz</a>, <a href=\"/dex/sv/pokemon/magmar/vgc/\" hreflang=\"en\">Magmar</a>, and <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>. Tera Flying serves a slightly different purpose; while Flying-type Tera Blast is effective against threats like <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a>, it is primarily used for its resistance to Fighting-type moves and immunity to Ground-type attacks. This allows Porygon2's common partner, <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a>, to freely use Earthquake without worrying about hitting Porygon2.</li>\n<li>With the provided Defense and HP investment, Porygon2 can almost always survive two Kowtow Cleaves from Black Glasses Tera Dark Kingambit, a Wave Crash from Tera Water Choice Band <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a> in rain, and two Wood Hammers from most Assault Vest Rillaboom. The Special Defense investment allows it to live three Hyper Voices from Life Orb <a href=\"/dex/sv/pokemon/primarina/vgc/\" hreflang=\"en\">Primarina</a> as well as a Make It Rain from Leftovers Gholdengo after two Nasty Plot boosts. The Special Attack investment ensures that Porygon2 can KO Garchomp with Ice Beam or with a Download-boosted Tera Blast Fighting or Ground if Garchomp has Terastallized into a Steel-type. With the Download boost, it also guarantees an OHKO on most Assault Vest Kingambit with Tera Blast Fighting and a 2HKO on non-Sitrus Berry <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a> with Ice Beam.</li>\n</ul>",
+          "abilities": [
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Ground",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 4,
+              "def": 140,
+              "spa": 36,
+              "spd": 84,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 646416,
+            "username": "Code"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Trace"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Court Change",
+                "type": null
+              },
+              {
+                "move": "Glare",
+                "type": null
+              },
+              {
+                "move": "Heal Bell",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Download Support",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Download"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Electric",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Tri Attack",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 140,
+              "spa": 36,
+              "spd": 72,
+              "spe": 8
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Porygon2 has high defensive stats for an unevolved Pokemon, making it one of the best users of Eviolite in the format. Even with a bland Normal typing, its high defenses basically let it resist any attacker it wants to, barring Fighting-types. On the flipside, due to being dependent on Eviolite, Porygon2 is completely helpless against foes with access to Knock Off, which can strip it of its fantastic defenses. Being unable to reliably use items such as Leftovers and Heavy-Duty Boots leaves Porygon2 to be worn down much quicker than other defensive staples. Finally, while it is capable of doing decent damage with the right set, it can end up being passive if invested fully in its defenses, leaving it potentially exploited by Substitute and specially defensive Pokemon.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Wall</strong>: Porygon2 is mainly used as a defensive wall, where it can tank powerful attacks thanks to high natural defenses boosted further by Eviolite. Recover lets it stay healthy throughout a game. Trace is the preferred ability choice, allowing Porygon2 to copy abilities to further its defensive profile, such as Flash Fire from <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a> and Regenerator from either <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a> forme.</p>\n<p><strong>Bulky Offense</strong>: Boasting a decent offensive movepool and abilities to boost its damage output, Porygon2 can attempt to go on the offense instead. Download can potentially boost its Special Attack if it faces the right opponent, while Analytic provides a smaller but more reliable boost to its attacks against faster foes.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Tri Attack</p>\n<p><strong>Utility Moves</strong>: Foul Play, Recover, Thunder Wave, Trick Room</p>\n<p><strong>Coverage</strong>: Blizzard, Discharge, Ice Beam, Psychic, Psyshock, Shadow Ball, Thunder, Thunderbolt</p>\n<h3>Niche Moves</h3>\n<p><strong>Electroweb / Icy Wind</strong>: Both of these moves have the additional effect of dropping the foe's Speed, which can cripple setup sweepers and help teammates outspeed typically faster foes.</p>\n<p><strong>Charge Beam</strong>: Given its high chance to boost Special Attack, Charge Beam can see some use in boosting Porygon2's damage output.</p>\n<p><strong>Eerie Impulse</strong>: With Eerie Impulse, Porygon2 can prevent opposing special attackers from setting up or dealing large amounts of damage, allowing its teammates to more safely hit the field.</p>\n<p><strong>Trick</strong>: Due to running Eviolite most of the time, Porygon2 has little reason to ever use Trick. However, it can cripple opposing defensive Pokemon with a Choice item.</p>\n<h3>Common Items</h3>\n<p><strong>Eviolite</strong>: Porygon2 is almost required to run Eviolite, allowing its defenses to be boosted significantly.</p>\n<h3>Niche Items</h3>\n<p><strong>Rocky Helmet</strong>: In matchups where Porygon2 cannot avoid switching into a Knock Off, rendering Eviolite useless, Rocky Helmet can at least punish the foe as the item is removed.</p>\n<p><strong>Choice Specs / Scarf</strong>: Certain offensive Porygon2 sets can sacrifice the defensive increase of Eviolite for more immediate power or Speed. This also allows it to run the otherwise-useless Trick, crippling defensive opponents that can take its attacks.</p>\n<h3>Tera</h3>\n<p>Porygon2 does not have the viability to be made a primary Tera Captain. However, it could make for an interesting backup Tera Captain by exchanging its bland Normal typing for one that has actual resistances. Types such as the tried-and-true Tera Water, Fairy, and Steel allow Porygon2 to excel more effectively as a wall and switch into attacks more reliably.</p>\n<h3>Draft Strategy</h3>\n<p>Porygon2 is usually drafted near the end of a draft as a defensive piece that can slot in synergistically with its teammates thanks to a lack of weaknesses and an immunity to Ghost. However, a lack of resistances, offensive capabilities, and utility options means it needs ample support in order to get the most out of it.</p>\n<p><strong>Fighting-resistant Teammates</strong>: Porygon2 finds itself threatened by Fighting-type Pokemon, meaning it pairs well with Pokemon that are able to absorb their STAB attacks. Pokemon such as <a href=\"/dex/sv/pokemon/annihilape/draft/\" hreflang=\"en\">Annihilape</a>, Slowking, and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> have the typing as well as the bulk to tank Fighting-type attacks reliably.</p>\n<p><strong>Knock Off Absorbers / Punishers</strong>: Porygon2 is heavily reliant on Eviolite to function defensively, inviting in Knock Off users as a result. Pokemon that can reliably tank Knock Off, such as <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> after being poisoned and Rough Skin <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, make for good teammates.</p>\n<p><strong>Status Absorbers</strong>: Being vulnerable to status effects, especially poison, Porygon2 pairs well with Pokemon that can absorb said status moves. Poison- and Steel-types such as <a href=\"/dex/sv/pokemon/archaludon/draft/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/pecharunt/draft/\" hreflang=\"en\">Pecharunt</a> can switch into moves that can inflict poison such as Toxic in order to keep Porygon2 safe.</p>\n<p><strong>Entry Hazard Removal</strong>: Porygon2 is prone to being worn down easily due to holding Eviolite as well as lacking the typing and abilities to resist entry hazards. As such, hazard removal options such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/blastoise/draft/\" hreflang=\"en\">Blastoise</a> can relieve some pressure for Porygon2 as it continually switches in and out of battle.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Offensive Fighting-types</strong>: In a format overrun by many powerful Fighting-types, Porygon2 finds itself in great danger around every corner. <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, both <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu</a> formes, and <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> are a mere handful of Fighting-types that can smash it into pieces.</p>\n<p><strong>Item Removal</strong>: Porygon2 finds itself threatened by all forms of item removal, since stripping it of its precious Eviolite leaves it defensively compromised. Knock Off users such as the <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a> formes and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> and users of Trick such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> can completely ruin Porygon2 for the rest of the match.</p>\n<p><strong>Residual Damage</strong>: With no items or abilities to help it heal or avoid passive damage, Porygon2 can be worn down much faster than other defensive Pokemon as it attempts to continually tank attacks. Entry hazard setters such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> can create uncomfortable conditions for it to struggle in, with the latter also being able to poison it.</p>\n<p><strong>Specially Defensive Pokemon</strong>: Despite having good neutral coverage, Porygon2 has a rather low damage output, leaving Pokemon with high Special Defense to switch into and potentially use its passiveness to set themselves up. <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a> are examples of setup sweepers with good Special Defense that Porygon2 can feel helpless against, especially if they use Substitute to more easily absorb damage and block Thunder Wave.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 272077,
+            "username": "Deranged_Lime"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive (HP, Def, SpD)",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Trace"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tri Attack",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 4,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Porygon2",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Porygon2 has found itself to be an excellent defensive staple for Normal teams, with Eviolite boosting its great defenses to a higher level. With the ability Trace, it's able to come in on certain Pokemon such as Intimidate Landorus- T, Stamina <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>, and Technician <a href=\"/dex/sv/pokemon/scizor/national-dex-monotype/\" hreflang=\"en\">Scizor</a> and utilize their abilities. Alternatively, Download can raise its Special Attack and deal good damage to more passive teams along with Flying- teams. Ice Beam helps to threaten Dragon- and Ground-type Pokemon such as <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>. Discharge can spread status while also threaten Flying- and Water-type Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/pelipper/national-dex-monotype/\" hreflang=\"en\">Pelipper</a>. Hidden Power Fire can be used to take out opposing Steel-types like <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>. Substitute in conjunction with Download can give Porygon2 more opportunities to freely use Ice Beam or Discharge to threaten Flying-types. Porygon2 can utilize Teleport to bring in teammates such as <a href=\"/dex/sv/pokemon/ursaluna/national-dex-monotype/\" hreflang=\"en\">Ursaluna</a> and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>. Foul Play can also be used to check physical setup sweepers such as Mega Scizor and the <a href=\"/dex/sv/pokemon/ogerpon/national-dex-monotype/\" hreflang=\"en\">Ogerpon</a> formes. Mega Lopunny can take out Ghost- and Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> while also taking out Landorus, something Porygon2 can't wall; alternatively, <a href=\"/dex/sv/pokemon/pidgeot-mega/national-dex-monotype/\" hreflang=\"en\">Mega Pidgeot</a> be used to deal with <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a> and <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a>. <a href=\"/dex/sv/pokemon/chansey/national-dex-monotype/\" hreflang=\"en\">Chansey</a> and <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a> provide a specially defensive core that can sponge special moves while taking advantage of entry hazards. Defensive <a href=\"/dex/sv/pokemon/staraptor/national-dex-monotype/\" hreflang=\"en\">Staraptor</a> provides hazard control along with its ability Intimidate, making it easier to pivot Porygon2 in with U-turn. <a href=\"/dex/sv/pokemon/zoroark-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Zoroark</a>, with its Ghost typing and the ability Illusion, can bait in Fighting type moves if positioned to look like one of Porygon2's teammates while being able to take advantage of Teleport pivoting. Ursaluna is a powerful teammate that can deal high damage when switched in by Teleport and remove bulky walls such as Archaludon and <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a>.</p>",
+          "abilities": [
+            "Trace"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              },
+              {
+                "move": "Teleport",
+                "type": null
+              },
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 635656,
+            "username": "Irys"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Blizzard",
+    "Charge",
+    "Charge Beam",
+    "Conversion",
+    "Conversion 2",
+    "Defense Curl",
+    "Discharge",
+    "Double-Edge",
+    "Eerie Impulse",
+    "Electroweb",
+    "Endure",
+    "Facade",
+    "Foul Play",
+    "Giga Impact",
+    "Gravity",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Lock-On",
+    "Magnet Rise",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psyshock",
+    "Rain Dance",
+    "Recover",
+    "Recycle",
+    "Rest",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Solar Beam",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Tri Attack",
+    "Trick",
+    "Trick Room",
+    "Zap Cannon",
+    "Zen Headbutt"
+  ]
+}

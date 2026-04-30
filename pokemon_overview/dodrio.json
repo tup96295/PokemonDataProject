@@ -1,0 +1,157 @@
+{
+  "name": "Dodrio",
+  "alias": "dodrio",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": [
+    60,
+    110,
+    70,
+    60,
+    60,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Dodrio",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tangled Feet"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Grassy Seed"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Normal",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Brave Bird",
+                "type": null
+              },
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quick Attack",
+                "type": null
+              },
+              {
+                "move": "Trailblaze",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Acupressure",
+    "Aerial Ace",
+    "Agility",
+    "Assurance",
+    "Baton Pass",
+    "Body Slam",
+    "Brave Bird",
+    "Double-Edge",
+    "Double Hit",
+    "Drill Peck",
+    "Drill Run",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Feather Dance",
+    "Flail",
+    "Fly",
+    "Fury Attack",
+    "Giga Impact",
+    "Growl",
+    "Helping Hand",
+    "Hyper Beam",
+    "Knock Off",
+    "Low Kick",
+    "Lunge",
+    "Mud-Slap",
+    "Peck",
+    "Pluck",
+    "Pounce",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Rest",
+    "Scary Face",
+    "Sky Attack",
+    "Sleep Talk",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Throat Chop",
+    "Trailblaze",
+    "Tri Attack",
+    "Uproar",
+    "Whirlwind"
+  ]
+}

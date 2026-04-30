@@ -1,0 +1,2277 @@
+{
+  "name": "Landorus",
+  "alias": "landorus",
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "stats": [
+    89,
+    125,
+    90,
+    115,
+    80,
+    101
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wallbreaker",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>This is a sample set while we work on the full analysis!</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Ground (Gravity Breaker)</h4>\n<h4>Nasty Plot can allow Landorus to become nearly unwallable, as even the bulkiest special wall, <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, will collapse to Landorus's attacks after a single Nasty Plot and minor chip damage. However, this requires giving up either valuable coverage or Gravity, which can hurt Landorus's teammates.\nFlying (All-out Attacker)</h4>\n<p>Stealth Rock can be used over Rock Slide to free up moveslots on teammates like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>.</p>",
+      "movesets": [
+        {
+          "name": "All-out Attacker (Flying)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Landorus serves as an incredible offensive threat for Flying teams thanks to its sky high Special Attack when boosted by Sheer Force and Life Orb, easily cleaning through threats like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> with Earth Power without worry. Focus Blast nails Ice- and Dark-types such as <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> along with handling Air Balloon <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. Psychic crushes non-Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> while also popping <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>'s Air Balloon. Alternatively, Sludge Wave better handles Fairy-types like <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>. Finally, Rock Slide removes <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>.</p>\n<p>Landorus greatly appreciates specially defensive <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> thanks to it being able to come in on the likes of <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> then check them with Iron Head. Corviknight can also remove Stealth Rock with Defog and bring Landorus in with U-turn. Skarmory can check physical attackers that threaten Landorus such as <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> with Body Press alongside <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. Skarmory can also provide entry hazard support with Stealth Rock and Spikes to wear down checks like Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, and the aforementioned Mamoswine. <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> provides a defensive Ground-type more capable of setting Stealth Rock and spreading Toxic to wear down foes such as <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>, and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Assault Vest Tornadus-T can handle foes like opposing Landorus, Choice Specs <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a>, and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> along with using Knock Off to remove problematic held items from foes like <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a>'s Eviolite and opposing Tornadus-T's Assault Vest. Dragonite provides a strong physical wallbreaker capable of entering in on Water-types such as <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and Urshifu-R, picking off faster threats such as Iron Valiant and Meowscarada with Extreme Speed, and breaking special walls such as Blissey and Corviknight with options like Outrage and Fire Punch. Articuno can help pressure Water- and Flying-types such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and Gliscor with Freeze-Dry while also being capable of coming in on the likes of Latios and Primarina.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Flying)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>With a Choice Scarf, Landorus becomes a devastating revenge killer for Flying teams, being able to outspeed and check the likes of <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>. Earth Power handily removes Steel-, Fire-, and Electric-types such as <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, and Raging Bolt. Sludge Wave checks the Ogerpon formes after minor chip damage as well as Fairy-types like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. Rock Slide can enable Landorus to handily deal with +1 Volcarona along with Flying-types such as <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, while Focus Blast with a Timid nature can deal with Air Balloon threats like <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> along with Ice- and Dark-types such as <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> and non-Choice Scarf <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>. Lastly, U-turn can keep up momentum for Flying teams along with checking <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>.</p>\n<p>Landorus enjoys teammates like Moltres and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> that can come in on faster threats like Triple Axel from Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and Ice Shard from <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> and <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a> and pressure them back with Flamethrower and Body Press, respectively. Moltres can further assist Landorus by threatening Skarmory and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and using U-turn to pivot it in. Skarmory can reliably set entry hazards like Spikes to wear down would-be switch-ins such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> and use Whirlwind to prevent setup from the likes of Belly Drum <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>. Corviknight can check <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> for Landorus along with providing Defog support to prevent Landorus from being worn down by Stealth Rock. <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> set entry hazards while being able to use Toxic to put checks to Landorus like <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a>, <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>, and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> on a timer. Articuno can check Water- and opposing Flying-types such as <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and Gliscor with Freeze-Dry while taking Ice Beam from threats such as <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> comfortably. <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> is a strong physical wallbreaker that is capable of removing special walls like <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and Ting-Lu while apprecating Landorus's ability to removal physical walls like <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a>. With Dragon Dance and Roost, Dragonite can also serve as a solid gameplan against Water-type threats such <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>. Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> can sponge special attacks from threats like Choice Scarf <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> and <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a> and use Knock Off to deal with them as well as removing Assault Vest from threats like Gallade and and Primarina.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Gravity breaker (Ground)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Landorus serves as Ground's premier special wallbreaker and Gravity setter, capable of making otherwise-problematic Flying-types such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> easy prey for both itself and its teammates. Earth Power nails threats such as <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/avalugg/monotype/\" hreflang=\"en\">Avalugg</a> along with removing Skarmory and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> after Gravity. Focus Blast hits Ice-, Dark-, and Normal-types like <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/scrafty/monotype/\" hreflang=\"en\">Scrafty</a>, and <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a>. Sludge Wave threatens Grass- and Fairy-types like <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>, <a href=\"/dex/sv/pokemon/hydrapple/monotype/\" hreflang=\"en\">Hydrapple</a>, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. Alternatively, Psychic allows Landorus to check Fighting-types like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> along with popping Gholdengo's Air Balloon.</p>\n<p><a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> and Landorus form a great wallbreaking core, with Mamoswine appreciating Gravity to prevent Icicle Crash from missing and, in return, using Icicle Crash to remove Grass- and Flying-types like <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>. Mamoswine can also use Ice Shard to handle faster threats like <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Water Absorb <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> can assist against powerful special threats like <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> while also providing Toxic and Toxic Spikes to wear down special walls such as Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>. Hippowdon provides Stealth Rock to wear down Flying-types like Choice Band Dragonite and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, along with setting sand to further wear down targets. Sand Rush <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> can outspeed and check faster foes like Meowscarada and <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes for Landorus, along with using Iron Head to handle Ice-types such as Mamoswine and <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>. Mixed <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> can use Draco Meteor to threaten opposing Dragon-types like Kyurem and Dragonite, along with being able to use Fire Blast to remove Bug-types like <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>. Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> can outspeed and use Close Combat to handle Dark-type threats like <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a> and Choice Band Meowscarada, along with using coverage like Knock Off to hit <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Gravity",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf Landorus (Ground)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Although Landorus typically runs Sheer Force and Life Orb, Choice Scarf Landorus is a reliable form of speed control alongside its Ground-type friends. Earth Power can check Steel- and Poison-types like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> while also doing great neutral damage. Sludge Wave is great coverage to deal with Fairy- and Grass-types like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes after minor chip damage. Focus Blast checks threatening Dark-types like Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and non-Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> while also hitting Steel-types like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> that Earth Power can't. Rock Slide with a Naive nature is a good alternative to deal with Flying-types like <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> that Ground can struggle against while also checking <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>. U-turn allows Landorus to swap out while also checking <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>.</p>\n<p>This style of set is typically ran on sandless Ground teams, so having a defensive partner like <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a> is effective, as with Unaware and great Defense investment, Quagsire can take hits from threats like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and Belly Drum <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a> while also providing status and entry hazard support with Toxic, Spikes, and Stealth Rock. <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> is Ground's best Water-immune Pokemon, so having it paired with Landorus in front of other threats like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> and Choice Band <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> is very appreciated as an immediate switch-in. Clodsire also can spread status and set hazards to help Landorus sweep late-game as well. <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> can also be a great pairing with Landorus, as it has a plethora of options to either be a defensive partner, a secondary wallbreaker, or an additional status and hazard spreader with reliable recovery thanks to Poison Heal and Toxic Orb along with Protect to scout for Choice-locked users. <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a> effectively pairs well with Landorus, as not only can it take Ice-type hits reliably, but it also provides hazard removal with Rapid Spin. Mixed <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> complements Landorus as well, as it has access to hazards while also being a reliable check to Dragon-types like <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> with Life Orb Draco Meteor as well as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> with Fire Blast. <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> is an alternative defensive switch-in that has access to hazard removal with Rapid Spin; it can also remove items with Knock Off from faster Choice-locked Pokemon like Meowscarada. <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> pairs as a secondary wall-breaker: although it is slower, it can utilize a Choice Band to defeat Flying-types that threaten Great Tusk like <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> and Gliscor while also dealing great damage to the Steel / Flying types like Corviknight and Skarmory. Mamoswine is also a great switch-in to Flying teams that use Articuno, thanks to its neutrality to Ice and ability Thick Fat.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 635656,
+            "username": "Irys"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 305839,
+                "username": "Rio Vidal"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 246753,
+                "username": "RoyalReloaded"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 391343,
+                "username": "EthanLac"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special Attacker",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Landorus is one of the strongest offensive Pokemon in the metagame with its powerful Sheer Force- and Life Orb-boosted attacks, which threaten much of the tier for super effective damage, including many metagame staples such as <a href=\"/dex/sv/pokemon/archaludon/doubles/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/incineroar/doubles/\" hreflang=\"en\">Incineroar</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/doubles/\" hreflang=\"en\">Raging Bolt</a>. It excels at forcing the opponent into defensive positions, creating opportunities to play aggressively with Landorus and its teammates.</p>\n</li>\n<li>\n<p>Earth Power annihilates targets weak to it and puts massive dents in most neutral targets. Sludge Bomb allows Landorus to hit Grass- and Flying-types such as <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/doubles/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/tornadus/doubles/\" hreflang=\"en\">Tornadus</a>, which resist or are immune to its Ground-type moves. Tera Poison elevates Sludge Bomb to a STAB move, which secures the OHKO on Assault Vest Rillaboom, bulky Ogerpon-W, and <a href=\"/dex/sv/pokemon/ninetales-alola/doubles/\" hreflang=\"en\">Alolan Ninetales</a> as long as Aurora Veil is not active.</p>\n</li>\n<li>\n<p>Sandsear Storm gives Landorus the option of a strong spread move, making it even more difficult to play around and preventing foes with Follow Me or Rage Powder from redirecting its attacks. This move is especially potent when used in the rain, as it becomes a 100% accurate spread move, allowing Landorus to reliably apply offensive pressure to both targets simultaneously.</p>\n</li>\n<li>\n<p>Alternatively, Substitute gives Landorus the ability to safely fire off strong Earth Powers and Sludge Bombs while attracting attention to itself, which can supply its teammates with opportunities to set up or attack on their own. Substitute guarantees that Landorus will survive at least one attack while behind it, which it appreciates given its mediocre bulk that ordinarily leaves it vulnerable to getting OHKOed by super effective attacks or getting KOed by priority moves when weakened. Landorus's offensive pressure forces the opponent to switch and use Protect a lot, creating many opportunities for it to set up a Substitute. This is especially true when it is paired with Pokemon that can apply Fake Out pressure such as Rillaboom and Incineroar.</p>\n</li>\n<li>\n<p>While Tera Poison increases Landorus's offensive capabilities, a more defensive route can also be taken with Tera Steel, which turns its glaring 4x Ice weakness into a resistance, allowing it to flip the script on foes that would normally force it out such as <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/kyurem/doubles/\" hreflang=\"en\">Kyurem</a>, and Alolan Ninetales. Additionally, Steel is a generally useful defensive typing with many miscellaneous resistances, including ones to common attacks such as Rillaboom's Grassy Glide and Tornadus's Bleakwind Storm, among others.</p>\n</li>\n<li>\n<p>Landorus appreciates teammates that can set up Tailwind such as Tornadus and <a href=\"/dex/sv/pokemon/whimsicott/doubles/\" hreflang=\"en\">Whimsicott</a>, as it is naturally outsped and threatened with super effective damage by common Pokemon such as Ogerpon-W, Chien-Pao, and Alolan Ninetales. Effective speed control and positioning can allow Landorus to gain the advantage on these foes and others, making Pokemon that supply redirection support useful teammates as well, including <a href=\"/dex/sv/pokemon/indeedee-f/doubles/\" hreflang=\"en\">Indeedee-F</a>, Ogerpon-W, and <a href=\"/dex/sv/pokemon/sinistcha/doubles/\" hreflang=\"en\">Sinistcha</a>. Teammates that struggle either offensively or defensively against Fire- and Steel-types, such as <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a>, and Kyurem, appreciate Landorus's ability to neutralize those threats.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 609101,
+            "username": "Iceberg77"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 550367,
+                "username": "Smudge"
+              },
+              {
+                "user_id": 608134,
+                "username": "bagel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Landorus is one of the best special attackers in the format currently, as its Sheer Force and Life Orb boosted STAB moves devestate opposing teams and nail prominant threats like <a href=\"/dex/sv/pokemon/archaludon/vgc24-regulation-f/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>.</p>\n</li>\n<li>\n<p>However, Landorus has a very crowded Speed tier, thus speed control from Pokemon such as <a href=\"/dex/sv/pokemon/latias/vgc24-regulation-f/\" hreflang=\"en\">Latias</a> and <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a> is vital against faster checks like <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>. Both Pokemon also act as excellent Urshifu-R checks themselves.</p>\n</li>\n<li>\n<p>Fake Out users like <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> and Incineroar can be great teammates too, buying time for Landorus to set up Substitute. Rillaboom also serves as another answer to Urshifu-R, while Incineroar helps dampen the damage from opposing Chien-Pao. Other common Landorus checks include Pokemon that can comfortably ignore Earth Power, namely Latias and Tornadus.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> is also a particularly good teammate, as it can redirect and absorb attacks from Chien-Pao and Urshifu-R while dealing decent damage back.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Earth Power serves as its main STAB attack, allowing it to hit the majority of the format for good damage.</p>\n</li>\n<li>\n<p>Sludge Bomb is able to deal respectable damage against Ground-resistant foes, such as <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a>. Tera Poison can also elevate Sludge Bomb's damage and secure KOs against Rillaboom.</p>\n</li>\n<li>\n<p>Tera Poison in conjunction with 132 HP and 4 Def EVs lets Landorus survive Surging Strikes from Tera Water <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> the majority of the time. The remaining EVs are used to maximize its Speed and Special Attack.</p>\n</li>\n<li>\n<p>A timely Tera Poison lets Landorus live a Tera Fairy-boosted Choice Specs Moonblast from <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>, as well Ice-type attacks from Chien Pao.</p>\n</li>\n<li>\n<p>Substitute allows Landorus to punish passive plays, mainly switches and Protect. A well-timed Substitute in front of a <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a> also prevents Landorus from getting knocked out by a potential Sucker Punch. This move can be substituted for Sandsear Storm on Rain teams or when paired with Rain Dance Tornadus.</p>\n</li>\n<li>\n<p>A Timid nature can be considered, allowing Landorus to outspeed faster Urshifu-R and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> variants, at the cost of damage.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 132,
+              "atk": 0,
+              "def": 4,
+              "spa": 116,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 435812,
+            "username": "Yuichi"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 562330,
+                "username": "Robbie35646"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Landorus is one of the strongest Pokemon in the metagame thanks to its access to strong Ground-type STAB moves in Earth Power and Sandsear Storm, which are further boosted by its ability, Sheer Force. In conjunction with Life Orb, Landorus can OHKO top metagame Pokemon like <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a> and <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-g/\" hreflang=\"en\">Kingambit</a>. Sludge Bomb allows Landorus to OHKO <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-H</a> while threatening huge damage to Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-W</a>. Substitute allows Landorus to stay on the field longer and avoid <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>'s Spore, which allows it to deal continuous damage. Tera Poison allows Landorus to OHKO Ogerpon-W with Sludge Bomb, while shedding weaknesses to common attacks like Surging Strikes from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> and Ice Spinner from <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a>; it also allows Landorus to deal great damage to common Tera Fairy users, like <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>. Tera Steel allows Landorus to resist Ice while also giving a neutrality against Water-type STAB moves from common Pokemon like Urshifu-R and Ogerpon-W. The EV spread allows it to survive Tera Water Surging Strikes from Urshifu-R while Terastallized and Moonblast from Choice Specs Flutter Mane. The investment in Special Attack allows it to OHKO uninvested Urshifu-R safely.</p>\n<p>Landorus has a poor matchup against Chien-Pao, <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>, and <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a>, which can all OHKO Landorus. It also struggles against Tailwind teams, which can remove it before it can deal significant damage. Once Terastallized, Ogerpon-W threatens huge damage on Landorus, while also taking reduced damage from Sludge Bomb. Kyogre sets up rain with Drizzle, allowing Landorus to spam Life-Orb boosted Sandsear Storm without any accuracy drawbacks. <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> sets up Tailwind, letting Landorus move before non-Tailwind teams. In return, Landorus threatens Raging Bolt, which generally threatens both Tornadus and Kyogre.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 132,
+              "atk": 0,
+              "def": 4,
+              "spa": 116,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Landorus is a strong special attacker that can threaten metagame staples such as <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>, <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> thanks to its good Speed tier, ability, and powerful STAB moves. Sandsear Storm is a spread option but is less consistent than Earth Power. Sludge Bomb hits Grass-types such as <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a> and Fairy-type Pokemon like <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a> and Tera-Fairy <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, while U-turn allows Landorus to pivot out of a bad position. Choice Scarf allows it to outspeed most Pokemon, such as Miraidon, <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a>, Calyrex-S, and Zamazenta-C. A Timid nature can be opted for to outspeed Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a>, even if they have a Speed-boosting nature, while a Modest nature allows Landorus to further boost its damage output. Tera Ground allows Earth Power to pick up OHKOs on bulkier Pokemon such as Zamazenta-C and <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a>.</p>\n<p>Chien-Pao, Flutter Mane, and <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> are common Pokemon that threaten Landorus. Chien-Pao threatens an OHKO with Ice Spinner or Icicle Crash, Flutter Mane can nullify its Choice Scarf Speed boost with Icy Wind while doing a lot of damage, and Calyrex-I OHKOes Landorus with Glacial Lance and can set up Trick Room. <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a>, especially with Assault Vest, can soak up hits from Landorus and threaten to OHKO it with Water-type attacks such as Origin Pulse and Water Spout. Rillaboom is a good partner for Landorus because of its positive matchup against Flutter Mane and Kyogre, with Wood Hammer OHKOing them. Kyogre helps against Chien-Pao, Flutter Mane, and Calyrex-I, as it can easily take their attacks while responding with tons of damage with its STAB moves while also setting up rain for Sandsear Storm. Both Rillaboom and Kyogre appreciate Landorus being a check to Pokemon that threaten them, such as Chi-Yu and Miraidon, respectively. Raging Bolt is a great counter to Kyogre, because of its natural typing and ability to threaten it with Thunderclap and Thunderbolt. <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> can set up Tailwind for Landorus to further bolster its Speed, use Rain Dance to boost Sandsear Storm's accuracy, and has a spread move in Bleakwind Storm that hits Grass-types such as Rillaboom and <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a> that benefits from rain.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641757,
+            "username": "fyfyy"
+          },
+          {
+            "user_id": 661240,
+            "username": "Cizy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 239881,
+                "username": "Mr.GX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Landorus is a powerful offensive Pokemon able to threaten massive damage to many common metagame fixtures with its Life Orb- and Sheer Force-boosted Earth Power, Sludge Bomb, and Sandsear Storm.</li>\n<li>Sludge Bomb allows Landorus to threaten super effective damage into Tera Fairy <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a>, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-H</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/grimmsnarl/vgc25-regulation-i/\" hreflang=\"en\">Grimmsnarl</a>, and any other Pokemon that utilize Tera Fairy.</li>\n<li>Sandsear Storm provides Landorus with powerful, spread Ground-type damage for Miraidon, <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a>, and <a href=\"/dex/sv/pokemon/incineroar/vgc25-regulation-i/\" hreflang=\"en\">Incineroar</a>. Taunt gives Landorus a great option into Pokemon that use dual screens, Wide Guard, or Trick Room, shutting down those options for Pokemon like Grimmsnarl and <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a>.</li>\n<li>Life Orb and Sheer Force enable Landorus to pick up most of its KOs, most notably OHKOing Miraidon and Incineroar with Earth Power and 2HKOing <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a> with Sludge Bomb.</li>\n<li>The offensive investment allows Landorus to OHKO <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a> with no defensive investment with Earth Power, while Landorus's defensive investment allows it to live a Choice Band Surging Strikes from Urshifu-R when Landorus is Terastallized, as well as living a Choice Specs Miraidon's Draco Meteor when Landorus is behind Light Screen.</li>\n<li>Tera Poison allows Landorus to remove its weaknesses to Water- and Ice-type attacks like Surging Strikes from Urshifu-R and Ice Spinner from <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a> that typically give it a lot of trouble while increasing the power of Sludge Bomb, which most notably turns Sludge Bomb into an OHKO into Rillaboom following Wood Hammer recoil.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Landorus's typing means that it is threatened by <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> and <a href=\"/dex/sv/pokemon/kyogre/vgc25-regulation-i/\" hreflang=\"en\">Kyogre</a>, which can easily OHKO Landorus. <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a> can also pose an issue to Landorus, as it can outspeed and OHKO Landorus with Flare Blitz.</li>\n<li>Chien-Pao is another major threat to Landorus, as it threatens to outspeed and OHKO Landorus with its Ice-type attacks. <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a> can also be a difficult foe, as Amoonguss always survives any attack Landorus uses and can use Spore to immobilize it.</li>\n<li>Grimmsnarl partners well with Landorus, giving it some much needed bulk and support with dual screens while slowing down opposing Pokemon such as Koraidon with Thunder Wave, which can allow Landorus to outspeed them and threaten massive damage. This especially supports matchups into Kyogre and Koraidon, as dual screens prevent OHKOs from Flare Blitz and any of Kyogre's moves after Landorus has Terastallized.</li>\n<li>Incineroar is also a very good partner, as Intimidate weakens the damage output of Calyrex-I and Koraidon, unless they are holding a Clear Amulet, which can be removed with Knock Off. Will-O-Wisp also cripples Calyrex-I's and Chien-Pao's damage output, regardless of what item Calyrex-I runs.</li>\n<li>Miraidon pairs naturally with Landorus, as it poses a threat to many of the top dangers to Landorus, such as Kyogre and Koraidon, with powerful Electric-, Fairy-, and Dragon-type attacks, while Landorus deals massive damage to some of Miraidon's biggest counterplay in Zamazenta-C and Rillaboom.</li>\n<li>Landorus also is a great partner to Calyrex-I, as Landorus is able to threaten the Fire-types that scare Calyrex-I, such as Incineroar and <a href=\"/dex/sv/pokemon/chi-yu/vgc25-regulation-i/\" hreflang=\"en\">Chi-Yu</a>, while Calyrex-I can use Glacial Lance to deal significant damage to Amoonguss and Koraidon.</li>\n</ul>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 116,
+              "spd": 132,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 646017,
+            "username": "Ducktile"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Fluffy"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Smack Down",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 128,
+              "spd": 0,
+              "spe": 128
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Desolate Land",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Landorus is a good wallbreaker, taking advantage of Desolate Land's Water-type protection, Weather Ball's type synergy, and its Ground-type STAB moves to blast through Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>. Earth Power is used for its consistency, while Sandsear Storm provides higher power, allowing it to have a chance to OHKO <a href=\"/dex/sv/pokemon/jirachi/almost-any-ability/\" hreflang=\"en\">Jirachi</a> and Pixilate <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a> after a Nasty Plot; additionally, Sandsear Storm has the ability to burn foes, which can help if it doesn't take the KO. Grass Knot helps Landorus take on bulky Ground-types such as <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, while Stealth Rock lets Landorus support its teammates, weaken its own checks like <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a> and non-Heavy-Duty Boots <a href=\"/dex/sv/pokemon/dragonite/almost-any-ability/\" hreflang=\"en\">Dragonite</a>, and threaten common entry hazard removal options such as Corviknight and the aforementioned Great Tusk. Using Leftovers lets Landorus stay on the field longer, while Life Orb lets it OHKO Swampert and 2HKO Primarina with a +2 Grass Knot. Pokemon like Iron Moth, <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a> appreciate Landorus for being able to take on checks like Swampert, <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a>, and <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>. Landorus struggles to deal with Pokemon that aren't weak to its moves like <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a>, and RegenVest <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, so having teammates like <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a>, Great Tusk, and <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> will help with taking them down. Similarly, Landorus enjoys having teammates that can remove items with Knock Off such as Roaring Moon, Manaphy, and Azelf, helping it to break down RegenVest Pokemon like <a href=\"/dex/sv/pokemon/meloetta/almost-any-ability/\" hreflang=\"en\">Meloetta</a> and Manaphy as well as Pokemon with Heavy-Duty Boots like Dragonite and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>. Landorus struggles to switch in on many Pokemon due to its frailty, so it appreciates slow pivots such as Corviknight and Primarina, which also help it by checking offensive Pokemon like Roaring Moon, <a href=\"/dex/sv/pokemon/iron-boulder/almost-any-ability/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/walking-wake/almost-any-ability/\" hreflang=\"en\">Walking Wake</a>.</p>",
+          "abilities": [
+            "Desolate Land"
+          ],
+          "items": [
+            "Life Orb",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 603640,
+            "username": "Hiusi guy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 594122,
+                "username": "Evie"
+              },
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Landorus serves its role as one of the scariest wallbreakers in the tier, using its good stats and great ability in Sheer Force, as well as strong type matchup into prominent metagame threats like <a href=\"/dex/sv/pokemon/incineroar/partners-in-crime/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/gholdengo/partners-in-crime/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/iron-hands/partners-in-crime/\" hreflang=\"en\">Iron Hands</a>. Sludge Bomb hits foes such as <a href=\"/dex/sv/pokemon/rillaboom/partners-in-crime/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/partners-in-crime/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/partners-in-crime/\" hreflang=\"en\">Ogerpon-H</a>, while Substitute allows it to punish Protect, get around moves such as Spore, avoid Fake Out while still being able to attack (unlike Protect), and stall out Trick Room. Sandsear Storm gives Landorus a spread option, while Imprison can be used to stop moves like Fake Out, Trick Room, and Protect alongside teammates like Incineroar, <a href=\"/dex/sv/pokemon/sinistcha/partners-in-crime/\" hreflang=\"en\">Sinistcha</a>, and the multitude of Protect users, respectively. Imprison can also help massively in the Landorus + <a href=\"/dex/sv/pokemon/tornadus/partners-in-crime/\" hreflang=\"en\">Tornadus</a> mirror, as it can block almost all of the foe's moves. Sheer Force can sometimes be a double-edged sword for Landorus’s teammates, as it can remove important secondary effects, most notably Fake Out. Landorus struggles with <a href=\"/dex/sv/pokemon/porygon2/partners-in-crime/\" hreflang=\"en\">Porygon2</a>, as it can take its attacks well and fire back with a powerful Ice Beam, as well as being able to set Trick Room to make it vulnerable to slower offensive foes. Levitate and Earth Eater users like <a href=\"/dex/sv/pokemon/orthworm/partners-in-crime/\" hreflang=\"en\">Orthworm</a>, <a href=\"/dex/sv/pokemon/latios/partners-in-crime/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/latias/partners-in-crime/\" hreflang=\"en\">Latias</a> can also be a problem for Landorus, as they will grant their team an immunity to Ground; Latios and Latias also outspeed Landorus and OHKO it with Ice Beam. Tera Poison brings extra power to Landorus's Sludge Bomb, while also providing a decent defensive typing that removes a lot of its weaknesses. Alternatively, Tera Steel is a purely defensive Tera that notably gives Landorus a resistance to <a href=\"/dex/sv/pokemon/chien-pao/partners-in-crime/\" hreflang=\"en\">Chien-Pao</a>'s Ice-type attacks but most importantly is an all-round good defensive type.</p>\n<h4>Notable Partners</h4>\n<p><strong>Speed Control</strong>: Speed control such as Tornadus and Tailwind Latias prevents Landorus from being outsped and revenge killed, allowing it to wallbreak much more effectively. Tornadus in particular can also provide a spread Flying-type STAB move for Landorus, while Landorus's Sheer Force can boost both Tornadus's and Latias's firepower.</p>\n<p><strong>Offensive Pokemon</strong>: Landorus can share its Sheer Force with many offensive threats to boost their damage output, such as Chien-Pao, <a href=\"/dex/sv/pokemon/volcanion/partners-in-crime/\" hreflang=\"en\">Volcanion</a>, and <a href=\"/dex/sv/pokemon/heatran/partners-in-crime/\" hreflang=\"en\">Heatran</a>. These teammates may also have typing-based offensive synergy with Landorus, with Chien-Pao beating Latios and Latias as well as the Flying-types that can be problematic for Landorus.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              },
+              {
+                "move": "Imprison",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 594122,
+            "username": "Evie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 438997,
+                "username": "HiZo"
+              },
+              {
+                "user_id": 531334,
+                "username": "zoe"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Mid-round 2 onward</p>\n<p><strong>Price Range</strong>: 14-16 points</p>\n<p><strong>Overview</strong>: Landorus is a premier wallbreaker. The power boost it gets from combining Sheer Force and Life Orb allows it to do considerable damage to the opponent's team, and it can boost that damage even further with a wide array of setup moves. However, even though Landorus has great raw power and boosting moves, its average Speed, lack of Speed-boosting moves, and underwhelming defensive profile make it highly susceptible to revenge killers.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Using Sheer Force and Life Orb combined with solid coverage options allows Landorus to dish out considerable damage with ease and be a threatening wallbreaker versus almost any team.</p>\n<p><strong>Revenge Killer</strong>: Because Sheer Force already provides its moves with a power boost, Landorus can make use of Choice Scarf to be a strong revenge killer that can even clean up entire teams if they are weakened by its teammates.</p>\n<p><strong>Sacrificial Lead</strong>: Using a Focus Sash, Landorus can be an effective sacrificial lead. Focus Sash allows it to set up Stealth Rock, and its damage output is high enough to threaten many other entry hazard setters, allowing it to effectively win the early-game hazard battle.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Earth Power, Earthquake, Sandsear Storm</p>\n<p><strong>Setup Moves</strong>: Nasty Plot, Calm Mind, Bulk Up, Swords Dance</p>\n<p><strong>Utility Moves</strong>: Substitute, Stealth Rock</p>\n<p><strong>Coverage</strong>: Psychic, Focus Blast, Grass Knot, Sludge Wave, Brick Break, Crunch, Rock Slide, Stone Edge, Hammer Arm, Outrage, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Smack Down / Gravity</strong>: Since Landorus wants to be using its Ground-type moves as much as possible, Smack Down and Gravity allow it to hit targets like <a href=\"/dex/sv/pokemon/skarmory/draft/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> that might otherwise switch into its attacks.</p>\n<h3>Common Items</h3>\n<p><strong>Life Orb</strong>: Landorus gets its power from combining Life Orb and Sheer Force, and very rarely is it worth giving up the damage for other items.</p>\n<p><strong>Choice Scarf</strong>: Using a Choice Scarf, Landorus can escape its average Speed tier and be a threatening form of speed control or a late-game cleaner.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: Being able to survive a hit in a pinch can help Landorus overcome would-be checks and continue to put pressure on opposing teams.</p>\n<p><strong>Focus Sash</strong>: Focus Sash is used on sacrificial lead sets to ensure Landorus gets Stealth Rock up. It can also take foes by surprise if preserved longer, allowing Landorus to beat would-be revenge killers.</p>\n<h3>Tera</h3>\n<p>Landorus is pretty average as a Tera Captain. Because Tera Blast is not boosted by Sheer Force, it gains most of its strength as a Tera Captain by boosting its STAB moves even further or boosting the power of its coverage moves. It can also make use of defensive Tera types to flip defensive matchups, but it generally gains more value using Tera offensively. Even with these solid upsides, there are generally Pokemon that benefit more from being a Tera Captain than Landorus.</p>\n<h3>Draft Strategy</h3>\n<p>Landorus is a great wallbreaker, but it is very one-dimensional. Combining Landorus with teammates that can make use of its wallbreaking is the key to getting the most out of it.</p>\n<p><strong>Sweepers / Cleaners</strong>: Landorus is great at getting rid of walls that stop Pokemon like <a href=\"/dex/sv/pokemon/blaziken/draft/\" hreflang=\"en\">Blaziken</a> and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> from tearing through opposing teams. By breaking down walls, Landorus clears the way for these Pokemon to finish up games.</p>\n<p><strong>Ice- and Water-resistant Pokemon</strong>: Landorus is only weak to widely distributed Water- and Ice-type moves. Having teammates that can switch into these moves helps limit momentum lost if Landorus is forced out.</p>\n<p><strong>Pivots</strong>: Pokemon like <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a> that can force switches and pivot into Landorus are highly effective teammates. By doing this, they can bring Landorus into favorable matchups without needing it to risk taking extra damage.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Attackers</strong>: Since Landorus cannot boost its Speed unless it's holding a Choice Scarf, it is easy for opponents to force it out with a faster Pokemon.</p>\n<p><strong>Ground-immune Pokemon</strong>: Pokemon that can switch into Landorus's strong STAB attacks safely can be frustrating to deal with throughout a game.</p>\n<p><strong>Stealth Rock</strong>: Since Landorus doesn't want to run Heavy-Duty Boots and can occasionally take recoil damage from Life Orb, it is susceptible to getting worn down from chip damage.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 404799,
+            "username": "termnal"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground",
+            "Poison",
+            "Steel",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Hazard Setter",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf (SpA, Any)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Choice Scarf Landorus serves as a form of speed control capable of threatening offensive and defensive teams alike thanks to its great Speed tier, powerful Sheer Force-boosted attacks, and valuable pivoting utility. With a Choice Scarf, Landorus is able to outspeed the entire unboosted tier, as well as Choice Scarf Pokemon in the crowded 100 Speed tier and below, such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/godly-gift/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/kyurem-white/godly-gift/\" hreflang=\"en\">Kyurem-W</a>. U-turn lets Landorus act as a momentum-preserving pivot, letting it safely bring in teammates to avoid unfavorable matchups such as against <a href=\"/dex/sv/pokemon/ho-oh/godly-gift/\" hreflang=\"en\">Ho-Oh</a>, <a href=\"/dex/sv/pokemon/ting-lu/godly-gift/\" hreflang=\"en\">Ting-Lu</a>, and opposing Landorus. Sludge Wave offers excellent coverage against Grass-types such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/godly-gift/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/hydrapple/godly-gift/\" hreflang=\"en\">Hydrapple</a>, which resist Earth Power. Focus Blast provides coverage for Pokemon like <a href=\"/dex/sv/pokemon/skarmory/godly-gift/\" hreflang=\"en\">Skarmory</a>, Ting-Lu, and <a href=\"/dex/sv/pokemon/arceus/godly-gift/\" hreflang=\"en\">Arceus</a>, while Psychic is an alternative to hit Fighting-types like Urshifu-R and <a href=\"/dex/sv/pokemon/great-tusk/godly-gift/\" hreflang=\"en\">Great Tusk</a>. Stealth Rock is another choice if the team lacks a setter. Tera Ground provides a further boost to Earth Power, turning it Landorus into a dangerous revenge killer capable of breaking through neutral targets. On the other hand, Tera Ghost offers a valuable immunity to Extreme Speed from Arceus and <a href=\"/dex/sv/pokemon/rayquaza/godly-gift/\" hreflang=\"en\">Rayquaza</a>, as well as the ability to spinblock the likes of Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/godly-gift/\" hreflang=\"en\">Iron Treads</a> in a pinch.</p>\n<p>Choice Scarf Landorus mainly fits on balance, where it can receive a good Special Attack stat from the likes of <a href=\"/dex/sv/pokemon/eternatus/godly-gift/\" hreflang=\"en\">Eternatus</a> and Kyurem-W. However, it can essentially fit into any slot as needed, as it can still function without the power boost. Landorus can form pivot cores with both offensive and defensive partners. Offensively, <a href=\"/dex/sv/pokemon/samurott-hisui/godly-gift/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/meowscarada/godly-gift/\" hreflang=\"en\">Meowscarada</a> synergize well, forming a fast-paced VoltTurn core that pressures common bulky Pokemon while maintaining momentum. Other strong physical wallbreakers such as Swords Dance Ogerpon-W and Booster Energy Great Tusk are also welcome partners, as they can capitalize on the special walls that Landorus brings in. Defensively, pivots such as <a href=\"/dex/sv/pokemon/pecharunt/godly-gift/\" hreflang=\"en\">Pecharunt</a> and <a href=\"/dex/sv/pokemon/rotom-wash/godly-gift/\" hreflang=\"en\">Rotom-Wash</a> can bring Landorus in safely, with Rotom-Wash being especially good due to covering Landorus's Water- and Ice-type weaknesses. Entry hazard support from Ting-Lu, <a href=\"/dex/sv/pokemon/clefable/godly-gift/\" hreflang=\"en\">Clefable</a>, or Skarmory is also useful to help chip opposing walls into OHKO or 2HKO range for Landorus.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ground",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot (SpA)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Landorus acts as a powerful wallbreaker and late-game cleaner against defensive teams, utilizing a combination of decent Speed, excellent ability, and a decent movepool. Earth Power is Landorus's most reliable STAB move, while Sludge Wave serves as a consistent coverage option to nail targets such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/godly-gift/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/hydrapple/godly-gift/\" hreflang=\"en\">Hydrapple</a>. Alternatively, Psychic hits <a href=\"/dex/sv/pokemon/great-tusk/godly-gift/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/zamazenta/godly-gift/\" hreflang=\"en\">Zamazenta</a>, as well as opposing Landorus. Focus Blast is a less accurate option to hit Pokemon such as <a href=\"/dex/sv/pokemon/skarmory/godly-gift/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/arceus/godly-gift/\" hreflang=\"en\">Arceus</a>. Lastly, Nasty Plot enables Landorus to act as a setup sweeper that can break through bulkier teams. Sheer Force synergizes well with Life Orb, granting Landorus's moves substantial boosts with no drawback. Tera Poison boosts the power of Sludge Wave, while Tera Steel is a generally good defensive Tera type that also allows Landorus to flip its weakness to Ice-type moves into a resistance. Tera Psychic can be used on sets running Psychic as a way to boost its damage output.</p>\n<p>Landorus appreciates gods with decent Special Attack stats such as <a href=\"/dex/sv/pokemon/kyurem-white/godly-gift/\" hreflang=\"en\">Kyurem-W</a> and <a href=\"/dex/sv/pokemon/eternatus/godly-gift/\" hreflang=\"en\">Eternatus</a> to amplify its damage output. Kyurem-W notably breaks Water-types like Ogerpon-W thanks to Freeze-Dry as well as Flying-types like opposing <a href=\"/dex/sv/pokemon/landorus-therian/godly-gift/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/mandibuzz/godly-gift/\" hreflang=\"en\">Mandibuzz</a> that Landorus can struggle against, while Landorus beats Steel-types such as <a href=\"/dex/sv/pokemon/zacian-crowned/godly-gift/\" hreflang=\"en\">Zacian-C</a> and <a href=\"/dex/sv/pokemon/iron-crown/godly-gift/\" hreflang=\"en\">Iron Crown</a> in return. Also, Landorus's bulk is average at best; therefore, having bulky pivots such as <a href=\"/dex/sv/pokemon/rotom-wash/godly-gift/\" hreflang=\"en\">Rotom-Wash</a> and <a href=\"/dex/sv/pokemon/pecharunt/godly-gift/\" hreflang=\"en\">Pecharunt</a> is appreciated. Rotom-Wash is especially helpful, switching into the Ice- and Water-type moves that Landorus is vulnerable to. Despite having a slightly above average Speed tier, Landorus can struggle against faster threats like <a href=\"/dex/sv/pokemon/meowscarada/godly-gift/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/weavile/godly-gift/\" hreflang=\"en\">Weavile</a>, and Ogerpon-W, making faster teammates such as Zamazenta and Speed Booster Energy <a href=\"/dex/sv/pokemon/iron-moth/godly-gift/\" hreflang=\"en\">Iron Moth</a>, as well as Sticky Web support from <a href=\"/dex/sv/pokemon/ribombee/godly-gift/\" hreflang=\"en\">Ribombee</a>, much appreciated. Lastly, entry hazard support from Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/godly-gift/\" hreflang=\"en\">Ting-Lu</a> and Skarmory is appreciated to chip foes into OHKO range while also disrupting Sturdy and Focus Sash.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": []
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608218,
+            "username": "DragonPhoenix333"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 517892,
+                "username": "pannu"
+              },
+              {
+                "user_id": 604741,
+                "username": "kenn"
+              },
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 483288,
+                "username": "Iguana"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Sheer Force unlocks the full potential of Life Orb, as its damaging recoil is negated by the ability while using moves with secondary effects, like Earth Power and Sludge Wave.</li>\n<li>Earth Power is Landorus's primary STAB move, handling Steel-types like <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a> and <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a>, Electric-types such as <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/iron-hands/1v1/\" hreflang=\"en\">Iron Hands</a>, and common Poison-types such as <a href=\"/dex/sv/pokemon/sneasler/1v1/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>.</li>\n<li>Sludge Wave allows Landorus to have the best matchup against Grass-types such as non-Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/1v1/\" hreflang=\"en\">Rillaboom</a> and non-Kebia Berry <a href=\"/dex/sv/pokemon/serperior/1v1/\" hreflang=\"en\">Serperior</a>, as well as Fairy-types such as Encore + Disable <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a> and <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a> lacking Ice-type moves.</li>\n<li>Smack Down helps Landorus against Flying-types such as <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/zapdos/1v1/\" hreflang=\"en\">Zapdos</a>, as well as common Air Balloon Pokemon like <a href=\"/dex/sv/pokemon/heatran/1v1/\" hreflang=\"en\">Heatran</a>. It also has a chance to OHKO <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a> with no defensive investment.</li>\n<li>Nasty Plot gives Landorus consistency against Weakness Policy Iron Crown and allows it to keep up with Air Balloon <a href=\"/dex/sv/pokemon/registeel/1v1/\" hreflang=\"en\">Registeel</a>'s Amnesia boosts. Alternatively, Protect may be used to beat Custap Berry users such as <a href=\"/dex/sv/pokemon/skeledirge/1v1/\" hreflang=\"en\">Skeledirge</a> consistently.</li>\n<li>Landorus has a great advantage against many top-tier Pokemon, including all Steel-, Electric-, Fire-and Poison-types. This lets it serve as a strong glue to use alongside partners such as <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, which help mitigate its vulnerability to prevalent Water- and Dragon-types like <a href=\"/dex/sv/pokemon/manaphy/1v1/\" hreflang=\"en\">Manaphy</a>, <a href=\"/dex/sv/pokemon/walking-wake/1v1/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/1v1/\" hreflang=\"en\">Roaring Moon</a>.</li>\n</ul>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Smack Down",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 670315,
+            "username": "Mentality"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 563650,
+                "username": "bern"
+              },
+              {
+                "user_id": 493772,
+                "username": "bellchime"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Gravity (Ground)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Due to its potent ability, admirable offensive stats, and great coverage, Landorus cements itself as a staple wallbreaker on Ground teams. Sludge Wave hits Grass-types like <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a> and <a href=\"/dex/sv/pokemon/celebi/national-dex-monotype/\" hreflang=\"en\">Celebi</a> as well as other Fairy-types such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/clefable/national-dex-monotype/\" hreflang=\"en\">Clefable</a>, easing the Fairy and Grass matchups due to unresisted coverage. Focus Blast breaks through <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>. Rock Polish enables Landorus as a late-game cleaner, shutting down revenge killing abilities from faster foes like <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, Choice Scarf <a href=\"/dex/sv/pokemon/darmanitan-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Darmanitan</a>, and <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, while Nasty Plot allows Landorus to easily break past the likes of <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> and become terrifying with Gravity-aided Earth Power spam. Rock Slide is another option to hit <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, as it is dangerous once set up, as well as <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a>, <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/araquanid/national-dex-monotype/\" hreflang=\"en\">Araquanid</a>; however, using it is very situational and forces Landorus to use an unpreferred nature. Gravity allows Landorus to ease the Flying and Steel matchups and easily spam Earth Power, increasing its potential to new heights and also supporting its teammates like Choice Band Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>. <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a> is a great teammate due to its ability to soak up Water-type moves from foes like <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>, while Gastrodon appreciates Landorus's ability to threaten Grass-types with Sludge Wave. <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a> is heavily valued as a sponge for Ice-type moves due to its ability Thick Fat, taking on SubRoost Kyurem and <a href=\"/dex/sv/pokemon/ninetales-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Ninetales</a>. In return, Mamoswine cleans up Flying teams once Landorus deals with <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>, or <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>. Choice Scarf or Bulk Up <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> forms a great wallbreaking core, taking out threats like Triple Axel <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a> and <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, while also appreciating Gravity support. <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> provides entry hazards to chip down walls for Landorus, switches into revenge killers like <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> and Tapu Koko, and counters Volcarona with Unaware so Landorus doesn't need to use Rock Slide. <a href=\"/dex/sv/pokemon/steelix-mega/national-dex-monotype/\" hreflang=\"en\">Mega Steelix</a> is valued in the Ice and Fairy matchups, taking on Alolan Ninetales, Tapu Koko, <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a>, and <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a>. <a href=\"/dex/sv/pokemon/garchomp-mega/national-dex-monotype/\" hreflang=\"en\">Mega Garchomp</a> and <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> threaten specially defensive walls like <a href=\"/dex/sv/pokemon/slowking/national-dex-monotype/\" hreflang=\"en\">Slowking</a>, Blissey, and Mantine while also providing a Water neutrality with decent defensive stats.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Rock Polish",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gravity",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Ground)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>By wielding a Choice Scarf, Landorus can forgo its wallbreaking capabilities and become a fearsome revenge killer that disposes of numerous threats to Ground teams. Sludge Wave takes out <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a> after minor chip damage and revenge kills would-be faster Fairy-types like Choice Scarf <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, making Landorus a menace in the Fairy matchup. With Psychic, Landorus outspeeds and does hefty damage to nuisances like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex-monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, and boosted <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>. Psychic also lets Landorus snipe <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a>, safely 2HKOing it on the switch in. U-turn nails <a href=\"/dex/sv/pokemon/celebi/national-dex-monotype/\" hreflang=\"en\">Celebi</a> and takes utmost advantage of the switches Landorus forces, letting it gather momentum should it face a bad matchup. In tandem with a Naive nature, Rock Slide can answer +1 <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> and deal sizable damage to Flying-types like <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>. As this Landorus variant is more focused around revenge killing, wallbreakers like mixed <a href=\"/dex/sv/pokemon/garchomp-mega/national-dex-monotype/\" hreflang=\"en\">Mega Garchomp</a>, Choice Band <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a> are essential partners, because they handle otherwise-annoying walls such as <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>. <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> switch into Water-type moves for Landorus and also improve its cleaning potential by laying down either Spikes or Stealth Rock. Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a> takes down faster Pokemon like <a href=\"/dex/sv/pokemon/deoxys-speed/national-dex-monotype/\" hreflang=\"en\">Deoxys-S</a> and Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> when under sand, composing a powerful revenge killing core with Landorus.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Naive"
+          ]
+        },
+        {
+          "name": "Wallbreaker (Flying)",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>By virtue of its STAB moves, coverage options, and helpful ability in Sheer Force, Landorus makes for a great wallbreaker, matching up well against Dragon, Electric, and Psychic teams and handling the likes of <a href=\"/dex/sv/pokemon/raging-bolt/national-dex-monotype/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>. Focus Blast targets Dark- and Ice-types like <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/piloswine/national-dex-monotype/\" hreflang=\"en\">Piloswine</a>, and Kyurem and can 2HKO switch-ins like <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>. Alternatively, Rock Slide in tandem with a neutral nature and 4 Attack EVs can be used to target Flying- and Bug-types such as <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>, <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>; it also breaks <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>'s Air Balloon and hits Ice-types more accurately than Focus Blast. Sludge Wave takes on Grass- and Fairy-types such as <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a> and <a href=\"/dex/sv/pokemon/celebi/national-dex-monotype/\" hreflang=\"en\">Celebi</a>. Stealth Rock wears down incoming foes so that Landorus and its teammates can wallbreak and sweep more efficiently, and it breaks Sturdy from <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/national-dex-monotype/\" hreflang=\"en\">Ogerpon-C</a>. Alternatively, Rock Polish allows Landorus to serve as a cleaner as well by outspeeding and threatening Choice Scarf <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>. <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a> makes for a great teammate, taking on problematic Grass- and Fighting-types such as Ogerpon-C, <a href=\"/dex/sv/pokemon/lilligant-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Lilligant</a>, and <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>. <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a> both remove Stealth Rock with Defog so Landorus has an easier time switching in. Corviknight also threatens Ice-types such as Weavile and <a href=\"/dex/sv/pokemon/ninetales-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Ninetales</a> and provides slow pivoting with U-turn, while Mantine fares well against Water-types like <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>. <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a> not only threatens Ice-types, but its coverage also allows it to threaten opposing Landorus, <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>, and Tornadus-T; it can also run Stealth Rock so Landorus can run Rock Polish instead. Landorus's wallbreaking opens up sweeping opportunities for <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Moltres</a> and <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, which appreciate the removal of their checks such as <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Rock Polish",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          },
+          {
+            "user_id": 321991,
+            "username": "Mateeus"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 547532,
+                "username": "Swiffix"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 593863,
+                "username": "CrossHeart"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special Attacker",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Bulky",
+          "pokemon": "Landorus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Poison",
+            "Steel",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sandsear Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 96,
+              "spd": 28,
+              "spe": 132
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Block",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Calm Mind",
+    "Crunch",
+    "Dig",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Extrasensory",
+    "Facade",
+    "Fissure",
+    "Fling",
+    "Fly",
+    "Focus Blast",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Hammer Arm",
+    "Hyper Beam",
+    "Imprison",
+    "Leer",
+    "Mud Shot",
+    "Mud-Slap",
+    "Nasty Plot",
+    "Outrage",
+    "Protect",
+    "Psychic",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandsear Storm",
+    "Sandstorm",
+    "Sand Tomb",
+    "Scary Face",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smack Down",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "U-turn",
+    "Weather Ball"
+  ]
+}

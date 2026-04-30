@@ -1,0 +1,426 @@
+{
+  "name": "Altaria",
+  "alias": "altaria",
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "stats": [
+    75,
+    70,
+    90,
+    70,
+    105,
+    80
+  ],
+  "strategies": [
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "<p>Altaria is a good entry hazard control option with a great defensive typing and decent mixed bulk, allowing it to consistently remove hazards. Altaria also has amazing defensive utility, as it can wall powerful threats such as both <a href=\"/dex/sv/pokemon/tauros-paldea-combat/nu/\" hreflang=\"en\">Paldean Tauros</a> formes, <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a>, and <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a>. Natural Cure allows Altaria to double up as a status absorber, enabling status-hating Pokemon like <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>, <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, and Substitute Basculegion-M. With Perish trapping sets, Altaria can surprise bulky walls and offensive foes alike that plan to take advantage of it like <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a>, and <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>, and by removing these foes, Altaria can open up its teammates to more easily break through and take on the opposing team. However, utility sets are very passive, meaning many Pokemon such as <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>, Diancie, and <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a> can capitalize on it by switching in freely. Additionally, Altaria's 4x Ice weakness means that it must be extremely careful around Pokemon carrying Ice-type coverage like <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>, Porygon2, and <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a> as well as common Ice-types like Alolan Ninetales and <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a>. Altaria requires its Heavy-Duty Boots so that it can reliably use Defog, which forces it to be cautious around Knock Off users it would check otherwise such as Infernape and Scrafty.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Cloud Nine lets Altaria be a very potent counter to rain and sun teams by disabling the weather and resisting their attacks. However, <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a>'s snow is the most prevalent weather, and Altaria's 4x Ice weakness makes it struggle against snow teams without Terastallizing. Perish trap Altaria sets can utilize Protect to stall out Perish Song turns, but this forces it to give up some much-needed utility.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Ice-types and Ice-type coverage</strong>: Altaria's 4x Ice weakness makes it very vulnerable to Ice-type Pokemon, such as Alolan Ninetales and <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a>, as well as Pokemon carrying Ice-type coverage, such as <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>, <a href=\"/dex/sv/pokemon/golurk/nu/\" hreflang=\"en\">Golurk</a>, and <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a>.</p>\n<p><strong>Fairy-types</strong>: <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>, <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a>, and <a href=\"/dex/sv/pokemon/scream-tail/nu/\" hreflang=\"en\">Scream Tail</a> can all capitalize on Altaria by using it as a free switch in to wallbreak, set up entry hazards, or boost their stats, though they dislike the pressure that Perish Song puts on them.</p>\n<p><strong>Steel-types</strong>: <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, <a href=\"/dex/sv/pokemon/duraludon/nu/\" hreflang=\"en\">Duraludon</a>, and <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a> can use Altaria as an opportunity to set their hazards. However, Bronzong and Copperajah hate Will-O-Wisp and easily get taken advantage of by Perish Song sets. Additionally, if Altaria Terastallizes or Duraludon already dropped its Special Attack by using Draco Meteor, Altaria can beat Duraludon as well.</p>\n<p><strong>Item Displacement</strong>: Altaria relies on Heavy-Duty Boots so that it can switch in repeatedly to remove hazards and wall foes, meaning Knock Off users such as <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a>, and <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a> are threatening. Trick users such as <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a> and <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a> can also give Altaria a Choice item, permanently crippling it.</p>",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Altaria",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Will-O-Wisp lets Altaria burn physical attackers such as <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a>, <a href=\"/dex/sv/pokemon/flamigo/nu/\" hreflang=\"en\">Flamigo</a>, and <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>. Alternatively, Altaria can use Haze to prevent setup sweepers like <a href=\"/dex/sv/pokemon/arcanine/nu/\" hreflang=\"en\">Arcanine</a> and <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a> from taking advantage of it. Roar works similarly, and it can rack up entry hazard damage on foes, though it's worse in one-on-one scenarios. Natural Cure allows Altaria to be a very valuable status absorber, being able to take <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>'s Scald burns, <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a>'s Toxic, and <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a>'s Thunder Wave. Both EV spreads allow Altaria to be faster than <a href=\"/dex/sv/pokemon/thwackey/nu/\" hreflang=\"en\">Thwackey</a>, <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a>, and Bulk Up <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>, but the first one improves its matchup against physical attackers like <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>, Flamigo, and Basculegion-M, whereas the second lets it better handle powerful special attackers such as <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>, and <a href=\"/dex/sv/pokemon/kilowattrel/nu/\" hreflang=\"en\">Kilowattrel</a>. However, a physically defensive set is generally preferred due to the lack of Pokemon in the tier that can also handle both STAB attacks from powerful wallbreakers like Paldean Tauros-W, <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a>, and <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/nu/\" hreflang=\"en\">Paldean Tauros-F</a>. Tera Steel complements Altaria's base typing quite well, gifting Altaria resistances to attacks it would take big damage from otherwise like <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a>'s Blizzard and Moonblast, <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>'s Rock- and Fairy-type STAB attacks, and <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>'s Dragon-type STAB moves. On the other hand, Tera Fairy grants Altaria a Dragon immunity to help its matchup against Flygon while still maintaining Altaria's Fighting resistance.</p>\n<p>Altaria appreciates Steel- and Fairy-type defensive partners, such as <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a>, and Diancie, which can switch into Ice-, Dragon-, and Fairy-types that threaten Altaria, such as Alolan Ninetales, Flygon, and opposing Sylveon. Powerful special wallbreakers such as Chandelure, <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>, and <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a> can overwhelm Altaria, especially if they have Ice-type coverage, making special walls such as Porygon2 and <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a> good partners. In return, Altaria's great defensive typing lets it switch into Fighting- and Ground-type attacks that threaten them. Altaria's typing also has great synergy with other defensive Pokemon, such as <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a>, Diancie, Incineroar, and <a href=\"/dex/sv/pokemon/gastrodon/nu/\" hreflang=\"en\">Gastrodon</a>, switching into attacks from Pokemon that threaten them like Infernape, <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>, Paldean Tauros-W, and <a href=\"/dex/sv/pokemon/heracross/nu/\" hreflang=\"en\">Heracross</a>. Altaria's entry hazard removal further helps keep these defensive cores healthy. However, Altaria is very susceptible to item displacement, making Knock Off absorbers such as Amoonguss, Paldean Tauros-W, Paldean Tauros-F, Sylveon, and Sticky Hold Gastrodon good partners. Finally, Altaria's passivity makes it vulnerable to bulky setup sweepers, especially special attackers that do not care about Will-O-Wisp such as <a href=\"/dex/sv/pokemon/oricorio-pau/nu/\" hreflang=\"en\">Oricorio-P</a>, Calm Mind <a href=\"/dex/sv/pokemon/scream-tail/nu/\" hreflang=\"en\">Scream Tail</a>, and Nasty Plot Porygon-Z, making Pokemon that can disrupt them with Encore, such as <a href=\"/dex/sv/pokemon/whimsicott/nu/\" hreflang=\"en\">Whimsicott</a> and <a href=\"/dex/sv/pokemon/grafaiai/nu/\" hreflang=\"en\">Grafaiai</a>, or phazers and Haze users such as Roar Sylveon and Vaporeon as well as Haze <a href=\"/dex/sv/pokemon/overqwil/nu/\" hreflang=\"en\">Overqwil</a> and Milotic good partners.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Haze",
+                "type": null
+              },
+              {
+                "move": "Roar",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 240,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 240,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish",
+            "Calm"
+          ]
+        },
+        {
+          "name": "Perish Trap",
+          "pokemon": "Altaria",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Perish Song and Fire Spin let Altaria trap and KO foes that lack pivot moves, such as <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/gastrodon/nu/\" hreflang=\"en\">Gastrodon</a>. Roost lets it heal up and stall turns until Perish Song kicks in. However, Rest can also be used, since Altaria's Natural Cure allows it to heal to full HP and then switch out while removing the sleep status. Altaria's fourth move is very flexible. Defog allows Altaria to remove entry hazards, which it can find opportunities to use when stalling turns for Perish Song. Brave Bird makes Altaria a bit more threatening and not entirely reliant on Perish Song for KOing foes, aiding it against Pokemon that either don't care about Fire Spin or can pivot out of it like <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a> and <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>. Will-O-Wisp lets Altaria cripple physical attackers, allowing it to more easily weather their attacks while waiting for Perish Song. Finally, Haze lets Altaria remove stat boosts from the foe, which prevents setup sweepers such as Swords Dance Incineroar and Bulk Up <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a> from breaking through Altaria. Natural Cure removes status such as poison from <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a> and Amoonguss or paralysis from <a href=\"/dex/sv/pokemon/klefki/nu/\" hreflang=\"en\">Klefki</a> and <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a> when it switches out. A Bold or Calm nature should be used if Fire Spin is Altaria's only attack, but Impish or Careful can be used if Altaria has Brave Bird. Altaria can run either a physically defensive or a specially defensive EV spread, depending on what its team requires defensively. Either way, the given Speed investment lets it outpace <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a>, <a href=\"/dex/sv/pokemon/thwackey/nu/\" hreflang=\"en\">Thwackey</a>, and Bulk Up Scrafty. Tera Steel flips Altaria's matchup against Ice- and Fairy-types such as <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a> and <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a> as well as Pokemon with Ice-type coverage, such as Ice Beam Porygon2 and <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>. Alternatively, Tera Fairy can be used, as it lets Altaria more reliably handle Dragon-types and continue checking Fighting-types after Terastallizing.</p>\n<p>Perish trap Altaria pairs well with offensive teammates that struggle to break through bulky foes, such as <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>, Chandelure, <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>, and <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>. These Pokemon can bait in their bulky checks, such as Amoonguss, Porygon2, Bronzong, and <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a>, letting Altaria trap and KO them. Altaria also pairs well with defensive partners that struggle to make progress against bulky teams, such as Porygon2, <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>, and Gastrodon, helping very passive teams make progress against opposing walls. Knock Off and entry hazard support is very useful for Altaria, as Altaria can force a lot of switches once it is revealed to be a Perish trap variant . This makes Altaria useful on hazard stack teams, with partners such as <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a>, Diancie, and Bronzong. As Pokemon with pivot moves like Volt Switch <a href=\"/dex/sv/pokemon/kilowattrel/nu/\" hreflang=\"en\">Kilowattrel</a>, Flip Turn <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a>, and U-turn <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a> don't fear Perish Song + Fire Spin, teammates that can punish these attacks such as Electric-immune Pokemon like Gastrodon and Volt Absorb Kilowattrel, Water-immune Pokemon like Vaporeon, and Rocky Helmet users like Milotic and <a href=\"/dex/sv/pokemon/slowbro-galar/nu/\" hreflang=\"en\">Galarian Slowbro</a> have great synergy. Diancie, <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>, Basculegion-M, and Incineroar enjoy Altaria's great defensive profile, which allows it to switch into checks of theirs like Paldean Tauros-W, <a href=\"/dex/sv/pokemon/arcanine/nu/\" hreflang=\"en\">Arcanine</a>, Scrafty, and <a href=\"/dex/sv/pokemon/heracross/nu/\" hreflang=\"en\">Heracross</a>. Steel- and Fairy-type Pokemon such as Bronzong, Copperajah, Sylveon, and Alolan Ninetales naturally complement Altaria quite well, with the former two being specially defensive partners and the latter two offensively handling Dragon-types.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Perish Song",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Brave Bird",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Haze",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 240,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 240,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 680530,
+            "username": "emikatana"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              },
+              {
+                "user_id": 641404,
+                "username": "hammer798"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 8</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Altaria is an okay, cheap wall that can help patch up a team's defensive backbone while also having access to the notoriously rare Defog. Sporting a solid defensive typing, great support moves, and good bulk, Altaria is usually able to be a dedicated check to a single threat on the opponent's team. It also has a solid selection of abilities, with Natural Cure allowing it to absorb status-inflicting moves and Cloud Nine allowing it to disrupt opposing weather strategies. Altaria's biggest drawback is that it has a debilitating weakness to Ice-type coverage, often being 2HKOed by even the weakest of Ice Beams. It also lacks any item flexibility, is very strapped for moveslots, and can often be passive against Pokemon that resist Brave Bird. Altaria's linearity can make it quite easy for an opponent to account for, meaning that it will usually end up riding the bench in most games.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wall</strong>: Altaria's able to check both physical and special attackers alike, thanks to its good defensive stats. Having access to Will-O-Wisp allows it to permanently weaken most physical attackers while also having Roar to phaze setup threats. It needs to be paired with other defensive Pokemon as a part of a defensive backbone, since it usually will be overwhelmed after checking just one specific foe.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Brave Bird, Draco Meteor, Hurricane, Dragon Pulse, Outrage</p>\n<p><strong>Setup Moves</strong>: Cotton Guard, Agility</p>\n<p><strong>Utility Moves</strong>: Defog, Will-O-Wisp, Fire Spin, Roar, Haze, Tailwind, Sing, Dragon Breath, Body Slam, Alluring Voice</p>\n<p><strong>Coverage</strong>: Earthquake, Fire Blast, Flamethrower, Ice Beam, Moonblast, Play Rough, Solar Beam, Weather Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Perish Song</strong>: Coupled with Fire Spin, Perish Song can allow Altaria to trap and remove specific foes so that its teammates can have an easier chance to sweep. Given the committal nature of this set, it may be beneficial to also run Protect to stall Perish Song turns or Haze to prevent setup, but both of these can severely dampen Altaria's ability to do much else in the battle.</p>\n<p><strong>Dragon Dance</strong>: Offensive Altaria borders into meme territory, but given the high Base Power of its STAB attacks, it can be a borderline usable option. It mandates a damage-boosting item, as Altaria's Attack stat fringes on outright bad, and shouldn't be considered unless the opponent truly has no way around Flying-types.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots is Altaria's best-in-slot item in almost every matchup. Without it, Altaria would take far too much damage on switching in and be vulnerable to being 2HKOed. On a lot of builds, Altaria will end up being the sole Pokemon with entry hazard removal, and having the hazard remover be KOed by entry hazards defeats its purpose.</p>\n<h3>Niche Items</h3>\n<p><strong>Rocky Helmet</strong>: When paired with solid entry hazard removal, Rocky Helmet can be used to punish physical attackers, especially those that attempt to spam U-turn and gain momentum.</p>\n<p><strong>Resistance Berries</strong>: In an attempt to check specific Pokemon, Altaria can act as a lure that takes a super effective hit and threatens to OHKO the foe with its coverage.</p>\n<p><strong>Red Card</strong>: Red Card aims to do the same thing as a resistance Berry, just against neutral attacks, which Altaria can usually survive thanks to its good bulk.</p>\n<h3>Tera</h3>\n<p>Altaria should never a Tera Captain. Even for its price point, there are better offensive and defensive Tera users. If you still choose it as a Tera Captain, Tera Water, Fairy, and Steel can help fix its defensive matchups.</p>\n<h3>Draft Strategy</h3>\n<p>Since Altaria is the last pick of any draft, it tends to just slot onto teams as the final piece of a defensive backbone. For this reason, it tends to only find a place on balance drafts, as it's simply too much of a momentum sink on anything more offensive.</p>\n<p><strong>BulkySteel-types</strong>: Altaria has perfect defensive synergy with most bulky Steel-types and can help to form a solid defensive core for a draft. Examples of such Steel-types include <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a>.</p>\n<p><strong>Ground-weak Drafts</strong>: Altaria can excel at checking most Ground-types, as it's immune to Earthquake and can burn most of them, meaning that it can even bypass their coverage Stone Edge.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Ice-type Attacks</strong>: Altaria is 4x weak to Ice. Most Ice-type attacks will either OHKO it or put it at such low health that it is immediately KOed on the next turn.</p>\n<p><strong>Fairy-types</strong>: The only way Altaria can threaten Fairy-types is Brave Bird, which many can comfortably take and then threaten big damage with STAB Moonblast or Play Rough.</p>\n<p><strong>Substitute</strong>: While Altaria does get phazing options, it can't always afford to run them, as it is quite strapped for moveslots, and without phazing, it is prone to being a free Substitute opportunity for the foe.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 564960,
+            "username": "Princess Autumn"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 613460,
+                "username": "vmnunes"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Dragon Dance (Dragon)",
+          "pokemon": "Altaria",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>'s unique typing and offensive potential allow it to serve as a valuable setup sweeper that checks threats like <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a>. Pixilate-boosted Return checks the aforementioned Dragon-types as well as Fighting- and Dark-types such as <a href=\"/dex/sv/pokemon/terrakion/national-dex-monotype/\" hreflang=\"en\">Terrakion</a>, <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a>, and <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-monotype/\" hreflang=\"en\">Mandibuzz</a>. Earthquake is essential coverage, as it hits Steel- and Fire-types like <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/magnezone/national-dex-monotype/\" hreflang=\"en\">Magnezone</a> and—in conjunction with Return—eases the Dark and Electric matchups. Roost increases Mega Altaria's longevity so it can continuously Dragon Dance throughout the match or use its bulk to switch into threats. The given EV spread allows Mega Altaria to survive <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>'s Triple Axel. Choice Specs <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a> is a great teammate, as it breaks past the likes of <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/dondozo/national-dex-monotype/\" hreflang=\"en\">Dondozo</a> for Mega Altaria. <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> sets up Stealth Rock and Spikes, wearing down Mega Altaria's switch-ins. Kommo-o breaks past Steel-types like <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/aegislash/national-dex-monotype/\" hreflang=\"en\">Aegislash</a>, and defensive <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a> as well as other troublesome walls like Toxapex and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a> for Mega Altaria. Roaring Moon threatens obstacles such as <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>, Choice Specs <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a>.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Altarianite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Return",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 16,
+              "atk": 224,
+              "def": 16,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Alluring Voice",
+    "Astonish",
+    "Body Slam",
+    "Brave Bird",
+    "Breaking Swipe",
+    "Bulldoze",
+    "Cotton Guard",
+    "Dazzling Gleam",
+    "Defog",
+    "Disarming Voice",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dual Wingbeat",
+    "Earthquake",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Feather Dance",
+    "Fire Blast",
+    "Fire Spin",
+    "Flamethrower",
+    "Fly",
+    "Fury Attack",
+    "Giga Impact",
+    "Growl",
+    "Haze",
+    "Heat Wave",
+    "Helping Hand",
+    "Hurricane",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Mist",
+    "Moonblast",
+    "Outrage",
+    "Peck",
+    "Perish Song",
+    "Play Rough",
+    "Pluck",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Roost",
+    "Round",
+    "Safeguard",
+    "Sing",
+    "Sky Attack",
+    "Sleep Talk",
+    "Snowscape",
+    "Solar Beam",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tailwind",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Trailblaze",
+    "Weather Ball",
+    "Will-O-Wisp"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "name": "Rotom",
+  "alias": "rotom",
+  "types": [
+    "Electric",
+    "Ghost"
+  ],
+  "stats": [
+    50,
+    50,
+    77,
+    95,
+    77,
+    91
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Rotom",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Electric",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Rotom",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 6-7 points</p>\n<p><strong>Overview</strong>: Rotom is a cheap utility Pokemon that finds a niche with its useful immunities and ability to support its teammates with its plethora of disruptive moves, such as Will-O-Wisp and Thunder Wave, and pivoting ability with Volt Switch. Its best claim to fame is its ability to spinblock effectively against several of the most popular Rapid Spin users thanks to its immunity to Ground and Fighting and resistance to Steel. While it has few weaknesses and a decent STAB type combination, its low base stats leave it lacking both offensively and defensively, while its dearth of coverage means it struggles to scratch many bulkier Pokemon.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Utility</strong>: Rotom's deep support movepool allows it to support its teammates through spreading status with Will-O-Wisp and Thunder Wave, disrupting opposing setup sweepers and walls with Trick, and pivoting with Volt Switch. Thanks to its low base HP, it can also use Pain Split very effectively to stay healthy while dealing significant damage to the opposing Pokemon.</p>\n<p><strong>Offensive Pivot</strong>: While Rotom's offensive stats leave a lot to be desired, Volt Switch and a good secondary STAB type in Ghost alongside a workable Speed tier make it a decent Choice Scarf user. The threat of Will-O-Wisp and Trick discourage many Ground-types from switching into it, allowing it to use Volt Switch more reliably.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Thunderbolt, Discharge, Volt Switch, Shadow Ball, Hex</p>\n<p><strong>Setup Moves</strong>: Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Will-O-Wisp, Thunder Wave, Trick, Pain Split, Reflect, Light Screen, Substitute, Foul Play, Night Shade</p>\n<p><strong>Coverage</strong>: Dark Pulse</p>\n<h3>Niche Moves</h3>\n<p><strong>Eerie Impulse</strong>: Eerie Impulse can hinder special attackers that are unbothered by Rotom's other utility options, in particular allowing it to avoid becoming setup bait for Calm Mind sweepers.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Scarf</strong>: Choice Scarf allows Rotom to outspeed most of the unboosted metagame and pivot on a wider array of Pokemon. It also pairs extremely well with Trick, allowing Rotom to shut down an opposing setup sweeper or defensive wall.</p>\n<p><strong>Colbur Berry</strong>: Since many Pokemon that Rotom wants to switch in on can threaten it with Knock Off, Colbur Berry can allow it to spinblock more freely or give it an extra turn to land a crucial status move.</p>\n<p><strong>Light Clay</strong>: Rotom has access to dual screens and a pivot move, allowing it to be an effective setter in some matchups.</p>\n<h3>Niche Items</h3>\n<p><strong>Sitrus Berry</strong>: As Rotom lacks reliable recovery, Sitrus Berry is useful to improve its longevity as well as allowing it to avoid certain 2HKOs.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet allows Rotom to get extra chip on opposing Pokemon that try to pivot out with U-turn or hit it with weaker coverage moves.</p>\n<p><strong>Leftovers</strong>: Leftovers can keep Rotom healthy in some matchups, although it usually doesn't spend enough turns on the field to heal significantly.</p>\n<p><strong>Choice Specs</strong>: Against teams that cannot effectively block Volt Switch, Rotom can use Choice Specs to deal serious damage as it pivots. Choice Specs also pairs very well with Trick.</p>\n<p><strong>Damage-boosting Items</strong>: In some matchups, Rotom can opt to boost its damage output with items such as Spell Tag and Magnet, allowing it to hit certain damage benchmarks. Spell Tag alongside Hex and a status move can be particularly devastating to teams weak to Ghost.</p>\n<p><strong>Heavy-Duty Boots</strong>: Although Rotom isn't weak to Stealth Rock and is immune to other entry hazards, it pivots in and out enough that Heavy-Duty Boots can sometimes be the best way to keep it healthy.</p>\n<h3>Tera</h3>\n<p>Due to Rotom's low base stats and the fact its main niche lies in its typing, it is not typically the first or second choice for a Tera Captain. However, it can benefit from Terastallization on drafts lacking a better option for a secondary Tera Captain. If chosen as a Tera Captain, Rotom can use Tera Ghost and Electric to boost its damage against teams weak to these types, or it can use types such as Tera Water and Fairy to gain coverage on offensive sets. It can also utilize types such as Tera Steel and Poison in combination with Levitate to check certain opposing Pokemon.</p>\n<h3>Draft Strategy</h3>\n<p>While Rotom should not be the core part of any draft, it functions well on entry hazard-heavy offense and bulky offense builds where its spinblocking, status-spreading, and pivoting talents are appreciated.</p>\n<p><strong>Entry Hazards</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> can consistently set multiple layers of entry hazards, which Rotom can then ensure stay up.</p>\n<p><strong>Strong Wallbreakers</strong>: Since Rotom is typically not doing much damage on its own, it should be paired with strong wallbreakers such as <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a>, which appreciate its pivoting and spinblocking support.</p>\n<p><strong>Sweepers</strong>: Sweepers such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> benefit from Rotom's pivoting and ability to rack up chip via Volt Switch and keep up entry hazards. Its ability to spread burn and paralysis onto potential revenge killers can also facilitate a sweep.</p>\n<p><strong>Dark- and Ghost-resistant Pokemon</strong>: Rotom's lack of bulk means it usually struggles to take more than one hit, so is best paired with bulky Dark- and Ghost-resistant Pokemon such as Ting-Lu, <a href=\"/dex/sv/pokemon/krookodile/draft/\" hreflang=\"en\">Krookodile</a>, and <a href=\"/dex/sv/pokemon/overqwil/draft/\" hreflang=\"en\">Overqwil</a> that it can pivot to after using one of its utility moves.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Thunder Wave-immune Special Attackers</strong>: Special attackers such as <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/thundurus-therian/draft/\" hreflang=\"en\">Thundurus-T</a>, and Landorus cannot be paralyzed with Thunder Wave and are unbothered by Will-O-Wisp, allowing them to switch into Rotom fairly freely.</p>\n<p><strong>Specially Defensive Walls</strong>: Defensive Pokemon such as Ting-Lu, <a href=\"/dex/sv/pokemon/amoonguss/draft/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/sylveon/draft/\" hreflang=\"en\">Sylveon</a> take very little from Rotom's attacks and are much less bothered by status moves than their offensive teammates. However, Volt Switch paired with a strong wallbreaker can allow it to take advantage of an obvious switch.</p>\n<p><strong>Lum Berry / Substitute</strong>: Rotom's low bulk means it often only gets one chance to land a status move against an offensive Pokemon. A well-placed Lum Berry or well-timed Substitute can lead to it failing to cripple the opposing Pokemon and being swiftly KOed.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622647,
+            "username": "wughead"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Astonish",
+    "Charge",
+    "Charge Beam",
+    "Confuse Ray",
+    "Dark Pulse",
+    "Discharge",
+    "Double Team",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Facade",
+    "Foul Play",
+    "Helping Hand",
+    "Hex",
+    "Hyper Voice",
+    "Light Screen",
+    "Nasty Plot",
+    "Night Shade",
+    "Pain Split",
+    "Poltergeist",
+    "Protect",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Shadow Ball",
+    "Shock Wave",
+    "Sleep Talk",
+    "Spite",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Trick",
+    "Uproar",
+    "Volt Switch",
+    "Will-O-Wisp"
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "name": "Charizard",
+  "alias": "charizard",
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "stats": [
+    78,
+    84,
+    78,
+    109,
+    85,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Charizard has Dragon Dance and Swords Dance in its arsenal for setting up without sacrificing half of its HP, but Charizard's Attack isn't amazing without multiple boosts, so Charizard needs teams to be significantly worn down before it can sweep. Solar Power makes Charizard a capable sun attacker, though Charizard is worn down quickly by Stealth Rock and the ability's recoil, and it faces competition from <a href=\"/dex/sv/pokemon/scovillain/zu/\" hreflang=\"en\">Scovillain</a> as a sun sweeper. All-out attacker Charizard can run Focus Blast for greater damage against Rock-types, but Scorching Sands has reliable accuracy and lets Charizard fish for burns on these targets. Belly Drum Charizard can run Tera Ground to turn the tables on Rock-types and Electric-types, and the boost in power to Earthquake lets Charizard reliably OHKO <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a> and <a href=\"/dex/sv/pokemon/naclstack/zu/\" hreflang=\"en\">Naclstack</a>. Tera Dark on Belly Drum Charizard can protect Charizard from moves affected by Prankster coming from foes like <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a> and <a href=\"/dex/sv/pokemon/sableye/zu/\" hreflang=\"en\">Sableye</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Revenge Killers</strong>: <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a> requires little chip damage to revenge kill Charizard, and Choice Specs Jolteon can OHKO Charizard outright. <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a>, <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a>, and <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a> are strong attackers faster than Charizard, but few revenge killers can switch into it safely or repeatedly.</p>\n<p><strong>Rock-types</strong>: Regirock is quite difficult for Charizard to break on its own, and still threatens Charizard even when it is burned. <a href=\"/dex/sv/pokemon/lycanroc/zu/\" hreflang=\"en\">Lycanroc</a> outspeeds Charizard and can pick off Flame Charge variants with Accelerock. Naclstack is an excellent wall to all-out attacker Charizard thanks to Recover, Purifying Salt shielding it from burns, and great bulk with Eviolite, but Belly Drum Charizard can OHKO it with a +6 Earthquake.</p>\n<p><strong>Specially Bulky Pokemon</strong>: <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> dislikes burns but can take repeated hits from Charizard and wear it down with Poison Jab and Knock Off. Fire-weak speical walls like <a href=\"/dex/sv/pokemon/articuno/zu/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a> can become a pain for Charizard to deal with if they Terastallize.</p>",
+      "movesets": [
+        {
+          "name": "All-Out Attacker",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Charizard's high Speed, great Special Attack, and unique offensive and defensive typing make it a great all-out attacker, checking many common Grass-types like <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a> and <a href=\"/dex/sv/pokemon/venusaur/zu/\" hreflang=\"en\">Venusaur</a>. Charizard's Hurricane is one of its strongest attacks and has few common resistances. Flamethrower has more reliable accuracy than Hurricane, destroys Steel-types like <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a> and <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a> that can otherwise handle Hurricane, and melts Ice-types like <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a>. Scorching Sands covers <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a>, and lets Charizard fish for burns, and is a more accurate move than Hurricane against foes like <a href=\"/dex/sv/pokemon/typhlosion/zu/\" hreflang=\"en\">Typhlosion</a>. Roar is an option to wear down checks that want to switch into Charizard like <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> and Regirock, while also being a get out of jail free card against foes setting up like <a href=\"/dex/sv/pokemon/minior/zu/\" hreflang=\"en\">Minior</a> and <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a>. Will-O-Wisp punishes physical attackers like <a href=\"/dex/sv/pokemon/eelektross/zu/\" hreflang=\"en\">Eelektross</a> and Regirock that would otherwise try to take advantage of Charizard. Tera Ground stops fast Electric-types like <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a> and Choice Scarf Magneton from taking advantage of Charizard with Volt Switch and flips its major 4x Rock weakness into a resistance to better handle Regirock and <a href=\"/dex/sv/pokemon/sandaconda/zu/\" hreflang=\"en\">Sandaconda</a>. Offensively, Tera Ground allows Charizard to always 3HKO defensive Muk after Stealth Rock chip.</p>\n<p>Charizard appreciates pivots like Jolteon and Whimsicott bringing it in safely on Pokemon that check them like Orthworm and Magneton; Charizard also benefits from these teammates checking Water-types like <a href=\"/dex/sv/pokemon/poliwrath/zu/\" hreflang=\"en\">Poliwrath</a> and <a href=\"/dex/sv/pokemon/clawitzer/zu/\" hreflang=\"en\">Clawitzer</a> that it otherwise struggles with. Grass-type partners like <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a>, <a href=\"/dex/sv/pokemon/arboliva/zu/\" hreflang=\"en\">Arboliva</a>, and <a href=\"/dex/sv/pokemon/dipplin/zu/\" hreflang=\"en\">Dipplin</a> cover Charizard's weaknesses and are complemented by Charizard handling Whimsicott. Charizard is a great switch-in against <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a>'s Will-O-Wisp for <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a> and <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a>, while they threaten one of Charizard's biggest checks in Regirock.</p>",
+          "abilities": [
+            "Blaze"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scorching Sands",
+                "type": null
+              },
+              {
+                "move": "Roar",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Belly Drum",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>After a Belly Drum, Charizard becomes a deadly sweeper capable of OHKOing most Pokemon that don't resist Acrobatics. Even physical walls like <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a> and <a href=\"/dex/sv/pokemon/sandslash/zu/\" hreflang=\"en\">Sandslash</a> are KOed by +6 Acrobatics after Stealth Rock damage. Earthquake wrecks bulky Pokemon that resist Acrobatics like <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a>, and at +6, Charizard's Earthquake OHKOes even <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a> after Stealth Rock damage and <a href=\"/dex/sv/pokemon/naclstack/zu/\" hreflang=\"en\">Naclstack</a>. Flame Charge makes Charizard harder to revenge kill by fast Pokemon like <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a> and Choice Scarf <a href=\"/dex/sv/pokemon/rotom/zu/\" hreflang=\"en\">Rotom</a>, and at +6, it is likely to OHKO <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a> after Stealth Rock damage. Sitrus Berry restores some of Charizard's health given that Stealth Rock and Belly Drum both take 50% of its HP, and it easily allows Charizard to consume its item and maximize damage from Acrobatics. Tera Flying boosts Acrobatics, allowing Charizard to reliably OHKO physical walls like <a href=\"/dex/sv/pokemon/sandaconda/zu/\" hreflang=\"en\">Sandaconda</a>.</p>\n<p>Belly Drum Charizard usually has just one chance to sweep, so it primarily features on hyper offense teams built around fast-paced setup sweepers. Charizard benefits immensely from teammates that set entry hazards, enabling it to OHKO foes like Sandaconda and Regirock, both of which could otherwise survive its onslaught; offensive teammates like <a href=\"/dex/sv/pokemon/lycanroc/zu/\" hreflang=\"en\">Lycanroc</a> and <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a> can reliably set Stealth Rock, and Orthworm and Sandslash can set Spikes for Charizard. Sandslash is an excellent partner for Charizard, as it can set up hazards, remove hazards with Rapid Spin, and check Rock- and Electric-types for Charizard. Parting Shot users <a href=\"/dex/sv/pokemon/persian-alola/zu/\" hreflang=\"en\">Alolan Persian</a> can weaken foes and ease Charizard's time setting up. Offensive pivots like <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> and <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a> can bring Charizard into favorable matchups against Pokemon they lure in like Orthworm and <a href=\"/dex/sv/pokemon/articuno/zu/\" hreflang=\"en\">Articuno</a>. Other physical attackers like <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a> and <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a> can break holes in teams so that Charizard can clean up afterwards, and they all appreciate its great Speed and potential to sweep.</p>",
+          "abilities": [
+            "Blaze"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Belly Drum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flame Charge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 452572,
+            "username": "missangelic"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 543866,
+                "username": "5Dots"
+              },
+              {
+                "user_id": 601970,
+                "username": "sleid"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Wallbreaker",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Solar Power"
+          ],
+          "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Scorching Sands",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Charizard is a powerful wallbreaker solely used on teams that can set the sun consistently in order to activate Solar Power and to increase the damage of its Fire-type attacks. With its high Speed tier, Charizard outruns the majority of the metagame, but it struggles against faster foes that threaten to KO or disrupt Charizard such as <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a>, so it appreciates Tailwind support. Charizard also greatly appreciates damage mitigation and redirection, since it is unable to use Protect and is relatively frail. Partners that use Fake Out can also provide Charizard opportunities to deal devastating damage without taking damage in return.</li>\n<li><a href=\"/dex/sv/pokemon/torkoal/vgc/\" hreflang=\"en\">Torkoal</a> is Charizard's primary partner, providing sun with its Drought ability. Torkoal can additionally support Charizard's damage further with Helping Hand, and it can finish off weakened foes with its own Fire-type attacks. Eject Pack Torkoal can also reset the sun immediately after it gets Intimidated or after using Overheat when it is slower than its foes to pivot Charizard onto the field unharmed.</li>\n<li><a href=\"/dex/sv/pokemon/jumpluff/vgc/\" hreflang=\"en\">Jumpluff</a> is commonly paired with Charizard. Charizard and Jumpluff both benefit from the sun, as Charizard's power output skyrockets and Jumpluff outspeeds the entire metagame thanks to Chlorophyll. This allows Jumpluff to support Charizard by setting up Tailwind as well as disrupting foes with Sleep Powder before they can attack. Jumpluff is also capable of redirecting attacks with Rage Powder. If the sun expires or is overridden, Jumpluff can use Sunny Day to reset it. Jumpluff additionally can heal Charizard and the rest of the team with Pollen Puff.</li>\n<li><a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> is also often found on teams with Charizard, where it provides disruption with Fake Out and damage reduction with Intimidate; this Intimidate allows Charizard to survive Rock Slide from Garchomp. Parting Shot or U-turn can also be used to pivot Charizard onto the field safely if Incineroar is slower than its foes.</li>\n<li>Charizard is significantly threatened by <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a> and <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>. Pelipper overrides sun with its Drizzle, while Basculegion-M outspeeds Charizard with Choice Scarf or while rain is active. Additionally, both easily KO Charizard with their Water-type attacks.</li>\n<li><a href=\"/dex/sv/pokemon/tyranitar/vgc/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/excadrill/vgc/\" hreflang=\"en\">Excadrill</a> are also very problematic. Tyranitar sets sand and takes little damage from Charizard, and Excadrill outspeeds Charizard in sand. They both easily threaten Charizard with Rock Slide.</li>\n<li>Bulky partners like <a href=\"/dex/sv/pokemon/porygon2/vgc/\" hreflang=\"en\">Porygon2</a> can support Charizard by switching into opposing attacks, potentially threatening Charizard's threats, and setting Trick Room for <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a>, another common partner for Charizard. Porygon2 can Terastallize into a Fighting-type to threaten Tyranitar and Excadrill with Tera Blast. Ursaluna, when under Trick Room, can move before Pelipper, Basculegion-M, Tyranitar, and Excadrill and threaten them with Facade and Headlong Rush. Incineroar also functions well with these Trick Room partners, threatening to KO Basculegion-M with Knock Off as well as reducing the damage dealt by Tyranitar and Excadrill with Intimidate and Parting Shot. Torkoal can also help mitigate these threats by setting sun to disable Swift Swim and Sand Rush, weakening the damage of Water-type attacks, and reducing Tyranitar's special bulk. Incineroar is also capable of removing crucial defensive items such as Focus Sash and Assault Vest with Knock Off so Charizard can pick off the Pokemon that used them.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>Charizard is a hyper offensive sweeper that aims to deal as much damage as it can with its Fire-type attacks. It excels in matchups where the opponent lacks ways to override the sun or when Charizard can deal damage before it is damaged by foes.</li>\n<li>Opposing weather is by far Charizard's greatest weakness. To counter this, Torkoal should be kept in the back often so it can be switched in to override the opposing weather. Otherwise, relying on the Trick Room mode from Porygon2 and Ursaluna is best because that core has a better matchup against weather. Hard Trick Room teams featuring <a href=\"/dex/sv/pokemon/hatterene/vgc/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/indeedee-f/vgc/\" hreflang=\"en\">Indeedee-F</a> are also difficult for Charizard to overcome. Incineroar works well in this matchup to take hits while stalling out turns until Trick Room expires. Porygon2 can also reverse Trick Room, and Ursaluna can potentially make use of the Trick Room set by the opponent to sweep.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Charizard is one of the strongest sweepers in the metagame thanks to the sun, Solar Power, and Choice Specs. With these damage multipliers, Charizard is capable of OHKOing and 2HKOing the entire metagame with its Fire-type attacks.</li>\n<li>Heat Wave is Charizard's most used attack, providing good spread damage. Weather Ball provides consistent single-target damage while weather is active and is unaffected by Wide Guard. Overheat deals significant damage to bulkier foes such as <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> and <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>. Air Slash threatens Fighting-types like <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a> as well as Grass-types like <a href=\"/dex/sv/pokemon/sinistcha/vgc/\" hreflang=\"en\">Sinistcha</a> while rain is active. Dragon Pulse can be used instead of Air Slash to threaten Dragon-types like <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/dragapult/vgc/\" hreflang=\"en\">Dragapult</a> that resist Charizard's Fire-type attacks.</li>\n<li>Choice Specs is the most commonly used item to significantly increase Charizard's damage, allowing it to 2HKO Pokemon that resist its Fire-type attacks such as <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/tyranitar/vgc/\" hreflang=\"en\">Tyranitar</a> in the sun with Weather Ball. Notably, Choice Specs allows Charizard to OHKO Assault Vest Archaludon and <a href=\"/dex/sv/pokemon/porygon2/vgc/\" hreflang=\"en\">Porygon2</a> in the sun with Overheat.</li>\n<li>Tera Ghost provides Charizard with an immunity to Fake Out so it can continue to deal massive damage uninterrupted, and it sheds Charizard's weaknesses to Water- and Electric-type attacks such as <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>'s Wave Crash and Archaludon's Electro Shot.</li>\n</ul>",
+          "abilities": [
+            "Solar Power"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Air Slash",
+                "type": null
+              },
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 589964,
+            "username": "RauSakura"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 553122,
+                "username": "gephicka"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Charizard is a low-price offensive Fire-type, boasting a pretty decent move pool and usable base stats. It can leverage these traits to force progress in matchups where foes cannot resist its attacks. It can also provide significant wallbreaking in sun with its Fire-type STAB moves and Solar Power. However, it is far from the centerpiece of any team and should be benched more than it's brought. Its Speed and offenses are leagues away from top metagame threats, and it can only really leverage its typing and coverage in matchups where they particularly excel in order to force progress.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Special Attacker</strong>: Charizard most often wants to function as a special attacker, using high-Base Power STAB moves like Fire Blast and Hurricane in matchups where the opponent lacks Pokemon that resist them.</p>\n<p><strong>Setup Sweeper</strong>: Charizard can make use of setup moves such as Belly Drum and Dragon Dance as well as a plethora of physical coverage to run usable physical attacking sets. Physically offensive sets often need the boosts to force progress.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Fire Blast, Flamethrower, Overheat, Hurricane, Air Slash, Flare Blitz, Acrobatics</p>\n<p><strong>Setup Moves</strong>: Belly Drum, Dragon Dance, Flame Charge</p>\n<p><strong>Utility Moves</strong>: Will-O-Wisp, Roar, Dragon Tail, Substitute, Brick Break</p>\n<p><strong>Coverage</strong>: Scorching Sands, Focus Blast, Ancient Power, Dragon Pulse, Tera Blast, Earthquake, Rock Slide, Thunder Punch, Dragon Claw, Crunch</p>\n<h3>Niche Moves</h3>\n<p><strong>Endure</strong>: Endure can be paired with a Custap Berry to gain a Speed advantage as well as to safely use up an item to boost Acrobatics.</p>\n<p><strong>Swords Dance</strong>: Swords Dance could be useful into bulkier teams, but Charizard's mediocre stats and lack of reliable recovery make it more difficult to use than other options.</p>\n<p><strong>Sunny Day</strong>: Charizard can set up Sunny Day for itself to boost its own Fire-type STAB moves from the sun and gain an additional Solar Power boost.</p>\n<p><strong>Solar Beam</strong>: Solar Beam can be a good option under sun or with a Power Herb as solid type coverage.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots negates the 50% damage Charizard would take from Stealth Rock, allowing it to safely switch in and maintain enough health to set up or take hits.</p>\n<h3>Niche Items</h3>\n<p><strong>Custap / Salac Berry</strong>: Custap Berry is a useful one-time stop to a foe that is already set up to sweep, and Salac Berry can threaten a sweep with Belly Drum or work on its own against worn-down teams lacking priority. Endure lets Charizard guarantee that the Berry activates, and Acrobatics benefits from a damage boost afterwards.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry is useful on Belly Drum Charizard, letting it get back some of the health it just lost and powering up Acrobatics.</p>\n<p><strong>Damage-boosting Items</strong>: Items such as Choice Specs, Charcoal, Expert Belt, and even Life Orb can be useful on Charizard to boost damage, but they are often not worth taking Stealth Rock damage for. Life Orb is especially tricky to use, racking up copious amounts of chip damage.</p>\n<h3>Tera</h3>\n<p>Charizard doesn't need Tera to function, but it can be useful if there is no other option for a secondary Tera user. It can Tera into one of its own types to boost its STAB moves even further or pick a defensive type such as Tera Water, Ground, and Grass to cover for its own weaknesses. Generally, good Tera types such as Tera Fairy, Steel, and Ghost may also be used, but they do not provide a lot of inherent synergy with Charizard itself. With whatever type it uses, it can also benefit from the extra coverage of Tera Blast, but be wary because most teams should have a better, more expensive Tera Captain than Charizard that can prioritize Tera in most situations.</p>\n<h3>Draft Strategy</h3>\n<p>Charizard is a budget Fire-type that is primarily considered late into a draft. Teams should not rely on it to function, as it is best used every once in a while when given a particularly strong matchup. It can be slotted onto most teams due to its low price point and insignificance as a defensive Pokemon. With this in mind, there are still a couple of roles to consider that could enhance Charizard's effectiveness in its role.</p>\n<p><strong>Strong Entry Hazard Removal</strong>: Having strong entry hazard removal enables Charizard to run more of its setup sets without being forced to run Heavy-Duty Boots. Pokemon such as <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/blastoise/draft/\" hreflang=\"en\">Blastoise</a> are all premier removal options.</p>\n<p><strong>Sun</strong>: Charizard can provide decent wallbreaking on sun teams if a cheap option is needed. <a href=\"/dex/sv/pokemon/torkoal/draft/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/ninetales/draft/\" hreflang=\"en\">Ninetales</a> can set sun to give it more immediate wallbreaking power. Sun-boosted teammates like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a> can also cover its weaknesses and provide valuable support to it.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Bulky Fire- and Flying-resistant Pokemon</strong>: Charizard's strongest and most reliable moves are its STAB moves, letting many Rock-, Water-, and Dragon-type Pokemon check it effectively. Pokemon such as <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/tyranitar/draft/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/azumarill/draft/\" hreflang=\"en\">Azumarill</a> are effective at this role.</p>\n<p><strong>Off-beat Bulky Foes</strong>: It can be particularly annoying for Charizard to face particularly bulky Pokemon that are neutral to its STAB moves but can't be reliably hit super effectively. Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>, and Scream Tail are particularly annoying for it in this regard.</p>\n<p><strong>Revenge Killers</strong>: Charizard's mediocre Speed allows it to be easily revenge killed by many top threats, as a majority of teams have at least 2 good Pokemon that naturally outspeed it. There are also many offensive Water-type Pokemon that are potent in this metagame. Pokemon such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a> can all revenge kill most Charizard sets with ease.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 304744,
+            "username": "StreetCredCookie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 466715,
+                "username": "sablolol"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Drought Wallbreaker",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>'s immense power combined with Drought makes it an extremely dangerous wallbreaker that threatens common defensive staples like <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> while also supporting its teammates via sun. Weather Ball is the preferred Fire-type STAB move, as it is perfectly accurate, quite powerful, and 2HKOs <a href=\"/dex/sv/pokemon/pelipper/national-dex/\" hreflang=\"en\">Pelipper</a> in the rain after Stealth Rock. However, Fire Blast can be used to get better damage rolls onto <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> and defensive <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> while also hitting <a href=\"/dex/sv/pokemon/kommo-o/national-dex/\" hreflang=\"en\">Kommo-o</a> through Bulletproof. Solar Beam provides crucial coverage for Water-types, such as Alomomola, <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex/\" hreflang=\"en\">Rotom-W</a>. Scorching Sands allows Mega Charizard Y to hit <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> super effectively; it also pressures them with burns, which is also useful against other switch-ins, such as Kommo-o and Garchomp. On the other hand, Focus Blast is far more threatening to Mega Tyranitar and still hits Heatran, but it leaves Mega Charizard Y struggling to pressure Toxapex. Roost allows Mega Charizard Y to stay healthy throughout a match; this is important given its extreme vulnerability to Stealth Rock.</p>\n<p>Entry hazard removal is absolutely imperative when using Mega Charizard Y due to its 4x weakness to Stealth Rock. <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> is a standout partner that can clear hazards while also benefitting from Mega Charizard Y's sun due to Protosynthesis. It also offensively pressures common Mega Charizard Y switch-ins, like Mega Tyranitar and Toxapex. A secondary form of entry hazard removal, such as <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> or Defog <a href=\"/dex/sv/pokemon/kartana/national-dex/\" hreflang=\"en\">Kartana</a>, is required as well. <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> is another notable beneficiary of Mega Charizard Y, as it appreciates sun boosting its Special Attack and gaining access to a powerful Fire-type Weather Ball that lets it pressure Ferrothorn and Assault Vest <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>. <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a> is also a good teammate due to it being able to set Spikes to wear down Mega Charizard Y’s checks, such as Toxapex and Garchomp; in return, Mega Charizard Y threatens <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a> and Ferrothorn for Hisuian Samurott. Mega Charizard Y also appreciates Future Sight support from Slowbro and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a>. This is especially potent with Focus Blast variants, as common Future Sight switch-in Mega Tyranitar does not want to take a Focus Blast, and it allows these variants to overcome their lack of coverage for Toxapex. They, along with Alomomola, can also function as slow pivots to get Mega Charizard Y in safely. Faster offensive threats such as <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a> appreciate Mega Charizard Y wallbreaking for them early so they can potentially clean up late-game. Kingambit is another great partner that can Pursuit trap foes that are problematic for Mega Charizard Y, most notably <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a> and <a href=\"/dex/sv/pokemon/latias-mega/national-dex/\" hreflang=\"en\">Mega Latias</a>, while also removing items from <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a> and Toxapex.</p>",
+          "abilities": [
+            "Blaze"
+          ],
+          "items": [
+            "Charizardite Y"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scorching Sands",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Setup Sweeper",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex/\" hreflang=\"en\">Mega Charizard X</a>'s insane power from Tough Claws enables it to be a devastating wallbreaker, setting up on and breaking past defensive Steel- and Fire-types such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>. This combined with its typing before and after Mega Evolution makes it a unique setup sweeper, since base Charizard's various resistances alongside a Ground immunity leads to additional setup oppurtunities, such as against <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and Choice-locked <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>. Mega Evolution enables base Charizard to shrug off and punish would-be super effective attacks from Water- and Electric-types such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>, both of which would attempt to revenge kill it with Aqua Jet and Thunderclap, respectively. Dragon Dance prevents Choice Scarf Pokemon such as Landorus-T, <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, and Urshifu-R from outspeeding and revenge killing Mega Charizard X. Swords Dance is an alternative that gives Mega Charizard X more wallbreaking power, notably OHKOing <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> with Flare Blitz after a boost, making it a solid option either on Sticky Web teams or as a standalone wallbreaker. Earthquake hits <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, and <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>. Dragon Claw is used for opposing Dragon-types such as <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a>, and <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> as well as other targets such as Moltres. Roost is a viable alternative to either, making up for Mega Charizard X's horrible Stealth Rock weakness while letting it make up the damage it takes from setting up or using Flare Blitz repeatedly. It also limits priority users, such as <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a>, since they can no longer reliably wear it down into Sucker Punch or Fake Out range, respectively. However, it leaves Mega Charizard X reliant on its teammates to break past foes it would otherwise match up well against, since it lacks coverage.</p>\n<p>Due to its insane strength but limited longevity, Mega Charizard X works well on hyper offense teams that want to capitalize off its damage. Offensive partners such as Iron Valiant, <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, and Kingambit all appreciate Mega Charizard X wearing down the opposing team early- or mid-game, where they can clean up afterwards. In particular, Zamazenta and Kingambit help to overwhelm shared checks, such as Landorus-T, <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a>. Meanwhile, specially offensive partners such as Gholdengo, Tapu Lele, and Raging Bolt all break past physically defensive Pokemon that Mega Charizard X can't, such as <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, IronPress Zamazenta, and <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>. Suicide leads such as Landorus-T and <a href=\"/dex/sv/pokemon/glimmora/national-dex/\" hreflang=\"en\">Glimmora</a> provide additonal support in the form of Stealth Rock while also denying opposing Stealth Rock for Mega Charizard X, mitigating its horrible entry hazard weakness. Dual screens <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> can do the latter with Taunt while providing extra bulk for Mega Charizard X to set up with more safety, especially variants lacking Roost. Mega Charizard X is also solid on bulky offense teams that need a powerful wallbreaker and potential wincon. Since it despises Stealth Rock, hazard removal from allies like Great Tusk and <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> is mandatory for Mega Charizard X to set up. Great Tusk in particular is able to overwhelm otherwise hardy checks like Clefable and Slowbro while being able to handle the Electric-types that base Charizard has to fear defensively. This pairing also allows Mega Charizard X to masquerade as <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, and can pick up surprise KOs against unaware checks and revenge killers such as specially defensive Heatran, Raging Bolt, and Tapu Koko. <a href=\"/dex/sv/pokemon/rillaboom/national-dex/\" hreflang=\"en\">Rillaboom</a>'s Grassy Terrain provides Mega Charizard X with more longevity, as well as limiting Landorus-T's and Gliscor's ability to OHKO it with Earthquake. Rillaboom itself can handle bulky Water-types such as Alomomola and pivot out of Fire-types such as Heatran, which Mega Charizard X can take advantage of to set up. In return, Rillaboom appreciates Mega Charizard X blowing past Grass-resistant foes such as Ferrothorn, Gholdengo, and Raging Bolt. <a href=\"/dex/sv/pokemon/tapu-fini/national-dex/\" hreflang=\"en\">Tapu Fini</a> provides similar Terrain-based support, with Misty Terrain protecting Mega Charizard X from debilitating status conditions from <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> and Alomomola. It is able to exploit the latter with either Trick or Calm Mind while providing support against opposing Dragon-types such as <a href=\"/dex/sv/pokemon/roaring-moon/national-dex/\" hreflang=\"en\">Roaring Moon</a>. In return, Mega Charizard X removes Grass-types such as Ferrothorn, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/kartana/national-dex/\" hreflang=\"en\">Kartana</a> that may try to take advantage of Tapu Fini's lack of immediate power, as well as breaking past sturdy specially defensive walls such as <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> and Assault Vest <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>. Unfortunately, Grassy Terrain weakens Mega Charizard X's own Earthquake, while Tapu Fini's Misty Terrain weakens Dragon Claw, meaning Mega Charizard X will have to forgo one of its coverage options to synergise well with these two.</p>",
+          "abilities": [
+            "Tough Claws"
+          ],
+          "items": [
+            "Charizardite X"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              },
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Claw",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 475916,
+            "username": "Sputnik"
+          },
+          {
+            "user_id": 604820,
+            "username": "Sami"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 526618,
+                "username": "omar"
+              },
+              {
+                "user_id": 662575,
+                "username": "boppy"
+              },
+              {
+                "user_id": 658067,
+                "username": "ElectraineHeart"
+              },
+              {
+                "user_id": 661238,
+                "username": "slopcat"
+              },
+              {
+                "user_id": 632421,
+                "username": "Medasus"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance (Fire)",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex-monotype/\" hreflang=\"en\">Mega Charizard X</a> is a ferocious wallbreaker and setup sweeper, aiding Fire teams in matchups like Dragon, Fire, and Electric. Tough Claws-boosted Flare Blitz fires off nuclear-powered attacks, heavily denting walls such as <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-monotype/\" hreflang=\"en\">Mandibuzz</a>, <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a>. Dragon Claw, also powered up by Tough Claws, threatens <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>. Earthquake threatens switch-ins like <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a>, and <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, while Roost increases Mega Charizard X's longevity and mitigates recoil damage from Flare Blitz. Alternatively, Thunder Punch may be used to deal more damage to <a href=\"/dex/sv/pokemon/slowbro/national-dex-monotype/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/pelipper/national-dex-monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-monotype/\" hreflang=\"en\">Tapu Fini</a> while still retaining super effective coverage against Toxapex. <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> is an exceptional teammate, as it threatens physical walls such as Slowbro, Toxapex, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a> after a Quiver Dance. <a href=\"/dex/sv/pokemon/torkoal/national-dex-monotype/\" hreflang=\"en\">Torkoal</a> supports Mega Charizard X with sun to boost Flare Blitz's power and remove rain, Stealth Rock to wear down switch-ins, and Rapid Spin to remove entry hazards. <a href=\"/dex/sv/pokemon/rotom-heat/national-dex-monotype/\" hreflang=\"en\">Rotom-H</a> sets up Reflect and Light Screen to ease Mega Charizard X's setup process and offers pivoting with Volt Switch. Choice Scarf <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a> is a great late-game cleaner and is appreciated to wear down troublesome walls like Skeledirge and Slowbro as well as cripple Toxapex and <a href=\"/dex/sv/pokemon/porygon2/national-dex-monotype/\" hreflang=\"en\">Porygon2</a> with Trick. Heatran traps and withers down Toxapex with Magma Storm and prevents Stealth Rock from being set up using Taunt. <a href=\"/dex/sv/pokemon/cinderace/national-dex-monotype/\" hreflang=\"en\">Cinderace</a> provides entry hazard control with Court Change and brings Mega Charizard X in using U-turn.</p>",
+          "abilities": [
+            "Blaze"
+          ],
+          "items": [
+            "Charizardite X"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Claw",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Sun Wallbreaker (Flying)",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a> makes for a great wallbreaker on Flying teams. Fire Blast, although it has lower accuracy, can be used over Flamethrower, notably 2HKOing <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> under sun. Solar Beam covers Water-types that resist Flamethrower like <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, and thanks to sun, it does not need to charge. Focus Blast targets Dark- and Steel-types such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>. Alternatively, Scorching Sands can be used to target Heatran more reliably, as well as providing coverage against <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>, the latter of which can be greatly hindered thanks to the burn chance. Hidden Power Electric can be run over Roost to greatly threaten Water teams in tandem with Solar Beam, threatening the likes of <a href=\"/dex/sv/pokemon/pelipper/national-dex-monotype/\" hreflang=\"en\">Pelipper</a>, <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a>, and <a href=\"/dex/sv/pokemon/gyarados/national-dex-monotype/\" hreflang=\"en\">Gyarados</a>. <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a> and Mega Charizard Y form a great offensive pairing, with Mega Charizard Y threatening physically bulky threats like <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> for Dragonite, while Dragonite acts as a late-game sweeper and deals with Alolan Muk and <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a> for Mega Charizard Y. Corviknight and Mantine are essential teammates, as they remove Stealth Rock with Defog, which would otherwise effectively leave Mega Charizard Y out of the match. Corviknight also brings Mega Charizard Y in with U-turn, while Mantine helps against rain teams, taking hits from <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>. In turn, Mega Charizard Y takes out threats to them both like Rotom-W and <a href=\"/dex/sv/pokemon/magnezone/national-dex-monotype/\" hreflang=\"en\">Magnezone</a>. It also appreciates entry hazard support from <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a> wearing down foes to help it wallbreak more easily, while both setters also provide an Electric immunity. In return, Mega Charizard Y handles Ice-types like <a href=\"/dex/sv/pokemon/articuno/national-dex-monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a>. <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a> makes for a great partner because it handles Dark-types like <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> and provides Healing Wish support; it appreciates the removal of bulky Steel-types in return.</p>",
+          "abilities": [
+            "Blaze"
+          ],
+          "items": [
+            "Charizardite Y"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Scorching Sands",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Electric"
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 593863,
+                "username": "CrossHeart"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Attacker",
+          "pokemon": "Charizard",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>An alternative EV spread of 192 HP / 28 SpA / 36 SpD / 252 Spe (Modest Nature) survives Thunderclap from <a href=\"/dex/sv/pokemon/raging-bolt/national-dex-doubles/\" hreflang=\"en\">Raging Bolt</a>. Another alternative EV spread of 148 HP / 84 Def / 24 SpA / 252 Spe (Modest Nature) survives Double-Edge from <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-doubles/\" hreflang=\"en\">Mega Salamence</a>. Both EV spreads outspeed <a href=\"/dex/sv/pokemon/glimmora/national-dex-doubles/\" hreflang=\"en\">Glimmora</a>.</li>\n<li>Scorching Sands should be used on teams that need Charizard to be able to pressure <a href=\"/dex/sv/pokemon/heatran/national-dex-doubles/\" hreflang=\"en\">Heatran</a>.</li>\n</ul>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Charizardite Y"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scorching Sands",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 192,
+              "atk": 0,
+              "def": 0,
+              "spa": 28,
+              "spd": 36,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Air Cutter",
+    "Air Slash",
+    "Ancient Power",
+    "Belly Drum",
+    "Bite",
+    "Blast Burn",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brick Break",
+    "Bulldoze",
+    "Counter",
+    "Crunch",
+    "Dig",
+    "Double-Edge",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Earthquake",
+    "Ember",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Pledge",
+    "Fire Punch",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Fling",
+    "Fly",
+    "Focus Blast",
+    "Focus Punch",
+    "Giga Impact",
+    "Growl",
+    "Heat Crash",
+    "Heat Wave",
+    "Helping Hand",
+    "Hurricane",
+    "Hyper Beam",
+    "Inferno",
+    "Iron Tail",
+    "Metal Claw",
+    "Outrage",
+    "Overheat",
+    "Protect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Scorching Sands",
+    "Scratch",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Smokescreen",
+    "Solar Beam",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Thunder Punch",
+    "Weather Ball",
+    "Will-O-Wisp"
+  ]
+}

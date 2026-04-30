@@ -1,0 +1,143 @@
+{
+  "name": "Fuecoco",
+  "alias": "fuecoco",
+  "types": [
+    "Fire"
+  ],
+  "stats": [
+    67,
+    45,
+    59,
+    63,
+    40,
+    36
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Fuecoco",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 140,
+              "atk": 0,
+              "def": 124,
+              "spa": 12,
+              "spd": 196,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 607664,
+                "username": "Joeshh"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Belch",
+    "Bite",
+    "Body Slam",
+    "Crunch",
+    "Curse",
+    "Dig",
+    "Disarming Voice",
+    "Ember",
+    "Encore",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Pledge",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Voice",
+    "Incinerate",
+    "Leer",
+    "Mud-Slap",
+    "Outrage",
+    "Overheat",
+    "Protect",
+    "Rest",
+    "Roar",
+    "Round",
+    "Seed Bomb",
+    "Slack Off",
+    "Sleep Talk",
+    "Snarl",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Tackle",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Thunder Fang",
+    "Will-O-Wisp",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

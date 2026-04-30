@@ -1,0 +1,236 @@
+{
+  "name": "Steelix",
+  "alias": "steelix",
+  "types": [
+    "Steel",
+    "Ground"
+  ],
+  "stats": [
+    75,
+    85,
+    200,
+    55,
+    65,
+    30
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Curse (Ground)",
+          "pokemon": "Steelix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>An Impish nature lets Mega Steelix survive Azumarill's Aqua Jet after it has used Belly Drum.</p>\n<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Steelixite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Curse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Tank",
+          "pokemon": "Steelix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Max HP and 8 Defense EVs takes any attack from +2 <a href=\"/dex/sv/pokemon/cobalion/national-dex-ru/\" hreflang=\"en\">Cobalion</a> barring All-Out Pummeling. 32 Attack Evs guarantee an OHKO on <a href=\"/dex/sv/pokemon/houndoom-mega/national-dex-ru/\" hreflang=\"en\">Houndoom-Mega</a>.</p>\n<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Steelixite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 32,
+              "def": 8,
+              "spa": 0,
+              "spd": 216,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        },
+        {
+          "name": "Curse",
+          "pokemon": "Steelix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>The given EV spread lets <a href=\"/dex/sv/pokemon/steelix-mega/national-dex-ru/\" hreflang=\"en\">Mega Steelix</a> avoid an OHKO from +2 <a href=\"/dex/sv/pokemon/cobalion/national-dex-ru/\" hreflang=\"en\">Cobalion</a>'s Close Combat and <a href=\"/dex/sv/pokemon/manectric-mega/national-dex-ru/\" hreflang=\"en\">Mega Manectric</a>'s Overheat.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Steelixite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Curse",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 200,
+              "def": 8,
+              "spa": 0,
+              "spd": 48,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Brave"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Aurumoth",
+  "alias": "aurumoth",
+  "types": [
+    "Bug",
+    "Psychic"
+  ],
+  "stats": [
+    110,
+    120,
+    99,
+    117,
+    60,
+    94
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Tail Glow",
+          "pokemon": "Aurumoth",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Weak Armor",
+            "No Guard"
+          ],
+          "items": [
+            "Weakness Policy",
+            "Focus Sash",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tail Glow",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Blizzard",
+    "Bug Bite",
+    "Bug Buzz",
+    "Calm Mind",
+    "Close Combat",
+    "Counter",
+    "Disable",
+    "Double Team",
+    "Dragon Cheer",
+    "Dragon Dance",
+    "Dual Wingbeat",
+    "Electroweb",
+    "Expanding Force",
+    "Facade",
+    "Feint",
+    "Final Gambit",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Healing Wish",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Imprison",
+    "Light Screen",
+    "Megahorn",
+    "Nasty Plot",
+    "Overheat",
+    "Pounce",
+    "Protect",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Shadow Ball",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Snowscape",
+    "Solar Beam",
+    "String Shot",
+    "Struggle Bug",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Tackle",
+    "Tail Glow",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Trick",
+    "Water Pulse",
+    "Will-O-Wisp",
+    "Wish",
+    "X-Scissor",
+    "Zen Headbutt"
+  ]
+}

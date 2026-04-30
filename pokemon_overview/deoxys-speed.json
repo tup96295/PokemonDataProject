@@ -1,0 +1,1898 @@
+{
+  "name": "Deoxys-Speed",
+  "alias": "deoxys-speed",
+  "types": [
+    "Psychic"
+  ],
+  "stats": [
+    50,
+    95,
+    90,
+    95,
+    90,
+    180
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "<p>Deoxys-S outruns and outguns all of the opposition with its blazing base Speed stat alongside its colorful coverage and utility options, giving it great versatility as either a wallbreaker, late-game cleaner, or lead. Its mixed attacking set allows it to utilize its great coverage on both sides to threaten both physical and special walls alike, such as <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>. Nasty Plot sets forgo long-term utility for immediate offensive power and can even clean late-game, which Deoxys-S is sure to provide; at +2, nearly nothing can withstand a boosted Psycho Boost, and those that can handle it get eviscerated by its coverage moves. Finally, Deoxys-S can function as a suicide lead alongside a very fast Taunt, letting it set up hazards, of which it has access to both Stealth Rock and Spikes, or dual screens safely while going toe-to-toe with common hazard removers and other setters like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>. However, Deoxys-S's wallbreaking sets suffer from its pitiful base attacking stats across the board and inability to carry all the moves it wants to run. Its paper thin bulk alongside middling typing not only gives it harder opportunities to come in and wreak havoc to the point of having its rampage cut short easily by the omnipresent priority from the likes of <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> that doesn't care about its Speed at all, but it also provides almost zero defensive utility for the team, which means it can either only be used on highly offensive teams or be forced to run specific and more deliberate teammates to compensate this issue.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Deoxys-S has many underexplored Tera type options; for example, Tera Dark grants Deoxys-S a resistance to <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>'s and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>'s Sucker Punch, an immunity to Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>'s Mirror Coat, and a powered-up Knock Off against <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>. Tera Electric, alongside Thunderbolt, can be used as a way to demolish <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Assault Vest Alomomola attempting to pivot out of Deoxys-S or take it out with Mirror Coat while neutralizing paralysis from foes like Galarian Slowking and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>. It also pairs nicely with Ice Beam to nail foes like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and form a coverage combination that is nigh unresisted. On Psychic Terrain teams, Nasty Plot Tera Psychic Deoxys-S can run the more reliable Expanding Force as its Psychic-type STAB move of choice over Psycho Boost. On Nasty Plot sets, Pain Split is an option to hassle <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, Ting-Lu, and Assault Vest Alomomola, although losing critical coverage and Deoxys-S having trouble finding many safe opportunities to use the move makes it somewhat unappealing. Finally, Cosmic Power alongside Stored Power lets Deoxys-S function as a bulky setup sweeper; however, its unreliability and opportunity cost make it a high-risk set to run, especially due to the prominence of common Dark-types like Ting-Lu and Kingambit.</p>",
+      "movesets": [
+        {
+          "name": "Mixed Attacker",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Deoxys-S can leverage its vast coverage movepool and high Speed to function as an unpredictable mixed attacker and excellent revenge killer. Superpower complements Psycho Boost by hitting the many Dark- and Steel-types that are immune to or resist Psycho Boost for super effective damage, most notably OHKOing <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and dealing significant damage to <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Knock Off provides both excellent coverage and utility, hitting <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and opposing Deoxys-S hard while also removing items from switch-ins like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Ice Beam rounds out this set's coverage, threatening to KO <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> after Multiscale is broken as well as dissuading the former from switching into Deoxys-S's Knock Off. Alternatively, if the team lacks another Stealth Rock setter, Deoxys-S can make use of it, as it's a good setter of the hazard thanks to its high Speed, access to Knock Off to remove the opposing Heavy-Duty Boots that would otherwise prevent Stealth Rock from making progress, and excellent coverage with just three attacking moves, hitting every Pokemon for at least neutral damage. Eject Pack is run on more offensively-oriented teams to provide Deoxys-S with a single-use pivot via either of Psycho Boost or Superpower, though Landorus-T's Intimidate will cause Eject Pack to activate before Deoxys-S's attack can go off. Heavy-Duty Boots is an option to come in safely over entry hazards repeatedly throughout a game, particularly useful for bulky hazard stacking teams that may not be able to afford robust hazard control. Tera Fighting is used to turn Deoxys-S's Bug- and Dark-type weaknesses into resistances while boosting the power of Superpower, flipping the script on foes like Kingambit and Hisuian Samurott with Sucker Punch while enabling Superpower to OHKO the likes of Hisuian Samurott and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>. A Naive nature with 56 Speed EVs allows Deoxys-S to outspeed Speed Protosynthesis <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and Choice Scarf users like Gholdengo and Hisuian Samurott without compromising its power or ability to withstand priority, Thunderclap notwithstanding. Maximum Special Attack investment and 200 EVs in Attack guarantees that Psycho Boost and Superpower OHKO offensive <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> variants and Kingambit, respectively. Alternatively, Deoxys-S can sacrifice some of its Attack investment in order to outspeed Choice Scarf Landorus-T or even Choice Scarf <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, though investment towards any further relevant Speed tiers requires a significant drop in power.</p>\n<p>Deoxys-S fits best on bulky offense and balance teams in need of speed control and a capable Knock Off user. <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> provides Deoxys-S with entry hazard support as well as a resilient switch-in to the many strong offensive threats that pressure Deoxys-S, such as Gholdengo, Darkrai, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, while also providing a Thunder Wave immunity. In exchange, Deoxys-S can force hazard progress by removing Heavy-Duty Boots with Knock Off and either setting Stealth Rock itself or dissuading Gliscor from halting Knock Off progress while also pressuring threats to Ting-Lu like Great Tusk and Zamazenta. <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> forms a potent offensive partnership with Deoxys-S, with the two being able to overwhelm shared checks like Gholdengo, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and Galarian Slowking while covering each other's worst matchups effectively; Iron Valiant appreciates Deoxys-S's ability to hit <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, Gliscor, and Iron Moth hard, while Deoxys-S can take advantage of Iron Valiant's pressure against Ting-Lu, Kyurem, and Darkrai. The sheer set variety of this pairing makes escaping their onslaught without making significant concessions difficult even for prepared teams. Deoxys-S is cripplingly weak to all forms of status, so Gholdengo, Gliscor, and Garganacl make for solid partners that blanket check almost all status-inducing threats, with the former two being natural choices on hazard stacking teams thanks to their removal blocking and hazard setting capabilities, respectively, while the latter is effective at spreading chip damage to allow Deoxys-S to secure KOs it would otherwise miss. Clefable's bulk, ability to absorb Knock Off, and access to Thunder Wave make it a very effective counter to this Deoxys-S variant; Gholdengo, Galarian Slowking, <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a>, and even Galarian Weezing on fatter structures can serve as effective ways of alleviating this weakness. Despite its blazing speed, Deoxys-S is liable to be outsped by Booster Energy and Choice Scarf users like Iron Valiant, Iron Moth, Darkrai, and Enamorus. Strong priority users like Scizor, <a href=\"/dex/sv/pokemon/lokix/ou/\" hreflang=\"en\">Lokix</a>, Raging Bolt, and Dragonite can force out or revenge kill these fast, frail threats. Defensive pivots like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, Galarian Slowking, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> can also absorb hits from these foes and provide safe entry for your proper checks. Although Deoxys-S carries Superpower to threaten Dark-types like Kingambit, Hisuian Samurott, Ting-Lu, and Darkrai, they can still be difficult for it to deal with; Iron Valiant, Zamazenta, Clefable, Primarina, and Enamorus can all act as effective answers to these threats.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Eject Pack",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 200,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 56
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Courtesy of its ludicrous Speed and a spectacular offensive movepool bolstered further by Nasty Plot, Deoxys-S can serve as a fantastic wallbreaker and late-game sweeper. Though the combination of Nasty Plot and Psycho Boost may appear anti-synergistic at a glance, Psycho Boost's massive Base Power is necessary to muscle past threats like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, specially defensive <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Tera Psychic can further enhance Psycho Boost's tremendous damage output, ensuring that Deoxys-S can eliminate these aforementioned threats after Stealth Rock without even requiring a Nasty Plot boost while OHKOing even <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and Assault Vest variants of <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> after a Nasty Plot. Focus Blast, accuracy permitting, always OHKOes <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and hits other Dark- and Steel-types like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> for tremendous damage; after a Nasty Plot boost, even <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> are cleanly 2HKOed by Focus Blast. Tera Fighting allows Deoxys-S to outright OHKO Ting-Lu at +2, brute force past <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and OHKO Blissey after minimal chip damage, and it provides the added benefit of resisting Darkrai's Dark Pulse as well as Sucker Punch from Kingambit, Cinderace, and Hisuian Samurott. Shadow Ball rounds out Deoxys-S's coverage by hitting <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and opposing Deoxys-S super effectively while hitting Galarian Slowking and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> reasonably hard without committing to Psycho Boost's Special Attack drop. Tera Ghost lets Deoxys-S outright OHKO offensive Gholdengo after Stealth Rock and OHKO Galarian Slowking lacking Assault Vest at +2 while granting it a Normal immunity to protect it from <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed and let it spinblock against <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and Iron Treads in a pinch. Recover is an interesting alternative; while the loss of Shadow Ball's coverage is noticeable, Deoxys-S can now offset its own Life Orb recoil and obtain multiple Nasty Plot boosts to devastate defensively leaning teams.</p>\n<p>Deoxys-S fits well on offensive teams, both as a wallbreaker and as a late-game cleaner. Powerful physical setup sweepers like Kingambit and Dragonite appreciate Deoxys-S's ability to handle physically bulky threats like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, Great Tusk, Corviknight, Pecharunt, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. Kingambit does well against Assault Vest Hatterene, Iron Crown, and Galarian Slowking, which can all stomach hits from an unboosted Deoxys-S relatively easily. Dragonite can additionally serve as a powerful wallbreaker early-game with a Choice Band set, muscling past Garganacl, Corviknight, and Ting-Lu early-game so that Deoxys-S can clean up late-game. Nasty Plot Gholdengo's strong matchup against defensive teams benefits Deoxys-S greatly, as it tends to get worn down quickly because of its Life Orb recoil and, as such, cannot muscle past these teams on its own. Swords Dance <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> makes for a solid teammate that can break past Ting-Lu and disrupt defensive teams with Encore, while Deoxys-S breaks past Pecharunt, <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> and serves as a second fast attacker if Iron Valiant wastes its Booster Energy. <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> also pairs well with Deoxys-S, as it does very well against Steel-types like Gholdengo, Corviknight, and <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a> that Deoxys-S would require Terastallization or Focus Blast's shaky accuracy to muscle past. Iron Moth additionally checks revenge killers like <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/lokix/ou/\" hreflang=\"en\">Lokix</a>, which give Deoxys-S immense trouble. Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> is another stellar teammate; it appreciates Deoxys-S's ability to wear down Galarian Slowking, Gholdengo, and Corviknight and can further support Deoxys-S with Healing Wish. Deoxys-S is almost completely devoid of defensive utility and cannot directly switch into most attacks, so strong wallbreakers like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, Ogerpon-W, and Zamazenta are fantastic teammates that can pressure Ting-Lu while forcing many switches in general, with Zamazenta doubling as a great defensive check to Kingambit and Hisuian Samurott. Deoxys-S can be brought in via aggressive double switches against foes these wallbreakers force in and puts a tremendous amount of pressure on <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> and Pecharunt, which are otherwise problematic matchups for Ogerpon-W and Zamazenta. Strong pivots, like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and the aforementioned Ogerpon-W, can generate momentum with U-turn to pivot Deoxys-S in safely. Lastly, entry hazard support from the likes of Hisuian Samurott, Ting-Lu, and Iron Treads help Deoxys-S more reliably muscle past Ogerpon-W, Raging Bolt, Corviknight, and Gliscor without needing to Terastallize. Great Tusk and Iron Treads also support Deoxys-S well with Rapid Spin, since this set's problem of getting worn down quickly by Life Orb recoil is further exacerbated by any chip damage from hazards.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Psychic",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Hazard Lead",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Deoxys-S is the second-fastest entry hazard setter in OU, only being outpaced by Speed Booster Energy <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and possesses a wide utility movepool that allows it to function as an excellent lead on hyper offense teams. While Stealth Rock is preferred if Deoxys-S is the team's standalone hazard setter, Spikes is also an option if the team has another Stealth Rock setter; it can also choose to run both if needed. Taunt stops <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>'s Court Change and Defog from <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a> as well as preventing Deoxys-S's passivty from being exploited by setup sweepers like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. Skill Swap can be used to remove <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>'s Magic Bounce and subsequently set up entry hazards in front of it; it's the preferred move if running both Stealth Rock + Spikes. Psycho Boost prevents it from being too passive, in particular letting it OHKO <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> that can otherwise remove Deoxys-S hazards. At the cost of the aforementioned benchmarks, Psychic Noise lets it chip while also denying recovery from walls such as <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, Corviknight, and Draining Kiss Hatterene. Sets running either Psycho Boost or Psychic Noise should run the offensive spread with maximum Special Attack investment. Thunder Wave is an option to immediately cripple offensive threats like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Dragonite looking to take advantage of Deoxys-S. Red Card can be used to emergency phaze setup sweepers in the offense mirror, preventing the team from being overrun first. Rocky Helmet further spreads chip damage against the opposition, most notably punishing the likes of Iron Treads and Great Tusk from attempting to remove its hazard with Rapid Spin. Colbur Berry allows Deoxys-S to survive Dark-type attacks that would normally result in a KO, in particular letting it set up hazards against Dark-types like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and defensive <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a>. Focus Sash guarantees it can set at least one layer of entry hazard against faster threats like Choice Scarf <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> or even set two layers of hazards against slower threats like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and is the preferred item on sets without the bulk investment. Tera Ghost blocks Rapid Spin from Great Tusk and Iron Treads.</p>\n<p>Deoxys-S fits best on hyper offense teams with powerful wallbreakers and setup sweepers that appreciate Deoxys-S's ability to set the stage for them. Hyper offense staples like Great Tusk, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Dragonite, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> are its go-to teammates that appreciate the hazard chipping at the oppositon. Moreover, Raging Bolt can also take advantage of or prevent Corviknight from coming in freely to remove Deoxys-S's hazards with Defog, while Iron Valiant and some Dragonite sets can do the same against Great Tusk and Cinderace. Offensive hazard setters like Hisuian Samurott and Glimmora can stack hazards with Deoxys-S, letting it forgo one of its hazards for another move. Deoxys-S struggles to set Stealth Rock against Hatterene if it lacks Skill Swap, so it appreciates Steel-type attackers such as Gholdengo and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> that can force it out; the former has additional utility in denying most hazard removal attempts.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Red Card",
+            "Rocky Helmet",
+            "Colbur Berry",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Skill Swap",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Psycho Boost",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Dual Screens",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Utilizing its plethora of support moves and blistering Speed, Deoxys-S establishes itself as a premier dual screens setter. Taunt is extremely versatile, being able to shut down opposing leads looking to set field conditions of their own like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and opposing Deoxys-S, Pokemon that seek to remove the dual screens such as <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and any setup sweepers that try to take advantage of Deoxys-S's more passive nature like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. Rounding out the moveslots is Psycho Boost, which lets Deoxys-S be able to threaten targets like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>. Alternatively, Deoxys-S can forgo attacks entirely to run Stealth Rock, sacrificing immediate pressure for long-term chip damage. In accordance with this option, it runs Tera Ghost to prevent Rapid Spin from the likes of <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> as well as dodge Extreme Speed from Dragonite to set up another round of dual screens. Along with this, Deoxys-S also invests fully into its HP and Speed EVs with a Timid Nature to ensure it has more attempts to set these field conditions as well as Speed tie with opposing Deoxys-S for Taunt.</p>\n<p>Befitting its fast-paced nature, this set finds itself best suited for hyper offense teams, which can utilize the reduced damage to its fullest. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> excels under dual screens, being able to flatten threats to Deoxys-S like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a> and set up Swords Dance comfortably for a devastating attack. Zamazenta can leverage its natural bulk combined with Light Screen covering its weaker Special Defense to set up multiple times and plow through teams while threatening Pokemon looking to take advantage of Deoxys-S like Kingambit, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and Hisuian Samurott. Sweepers like <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/moltres-galar/ou/\" hreflang=\"en\">Galarian Moltres</a> heavily appreciate the safety of Deoxys-S's dual screens, with the former appreciating the ability to activate Weak Armor reliably, while the latter appreciates the multiple turns of setup it can gain. Deoxys-S's ability to shut down Stealth Rock with Taunt is also helpful to the aforementioned two as well as Dragonite, which can drop Heavy-Duty Boots for items like Loaded Dice, Leftovers, and Sharp Beak. Keeping dual screens up is key, so <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> serves as an excellent block to most Defog attempts from Corviknight with Good As Gold, as well as appreciating the added bulk to set up its own Nasty Plot. Meanwhile, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> can supplement the lead role of Deoxys-S, setting Stealth Rock on its own and freeing up Deoxys-S to run Psycho Boost, alongside being able to threaten Cinderace and its Court Change attempts. Alternatively, Bulk Up Great Tusk can serve as another threat to Cinderace and Kingambit, an entry hazard remover against Spikes set by Hisuian Samurott, and a late-game sweeper with its excellent bulk. Kingambit, another late-game sweeper, can excel under dual screens, being able to survive key attacks with maximum HP investment such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>'s Close Combat.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 408271,
+            "username": "Dreadfury"
+          },
+          {
+            "user_id": 539107,
+            "username": "Whaloob"
+          },
+          {
+            "user_id": 571069,
+            "username": "Dead by Daylight"
+          },
+          {
+            "user_id": 616497,
+            "username": "FayaWizard"
+          },
+          {
+            "user_id": 674157,
+            "username": "GC"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 548068,
+                "username": "Setsu"
+              },
+              {
+                "user_id": 408271,
+                "username": "Dreadfury"
+              },
+              {
+                "user_id": 633798,
+                "username": "kd458"
+              },
+              {
+                "user_id": 647728,
+                "username": "Heatranator"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 571069,
+                "username": "Dead by Daylight"
+              },
+              {
+                "user_id": 110504,
+                "username": "Stads"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 452572,
+                "username": "missangelic"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 653095,
+                "username": "FavMon=Garchomp"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "AG",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Counter allows Deoxys-S to get a surprise OHKO on <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a> after Extreme Speed or on Pokemon switching in from a U-turn from <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>. Tera Ghost can be used as a way to block Extreme Speed from Arceus if the situation arises or a niche Rapid Spin from the likes of <a href=\"/dex/sv/pokemon/terapagos/ag/\" hreflang=\"en\">Terapagos</a> and <a href=\"/dex/sv/pokemon/iron-treads/ag/\" hreflang=\"en\">Iron Treads</a>. Knock Off can be used to OHKO <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a> with 68 Attack EVs while removing Heavy-Duty Boots from the likes of Arceus and <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>, Toxic Orb from <a href=\"/dex/sv/pokemon/gliscor/ag/\" hreflang=\"en\">Gliscor</a>, and Leftovers from <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong><a href=\"/dex/sv/pokemon/hatterene/ag/\" hreflang=\"en\">Hatterene</a></strong>: Hatterene's Magic Bounce ability prevents Deoxys-S from setting up entry hazards while also resisting Psycho Boost. It can also hold an Ability Shield to block Skill Swap.</p>\n<p><strong><a href=\"/dex/sv/pokemon/grimmsnarl/ag/\" hreflang=\"en\">Grimmsnarl</a></strong>: Grimmsnarl can use Taunt before Deoxys-S due to Prankster and is immune to Psycho Boost. It does need to be wary of Knock Off removing Light Clay, however, as it puts Reflect and Light Screen on a tighter timer.</p>\n<p><strong>Rapid Spin Users</strong>: Rapid Spin users like Iron Treads and Terapagos are able to comfortably tank Deoxys-S's attacks and clear hazards while setting up their own Stealth Rock.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots prevents the holder from taking damage from hazards, effectively rendering Deoxys-S useless into full Heavy-Duty Boots stall teams.</p>",
+      "movesets": [
+        {
+          "name": "Lead",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Backed by its high Speed stat, which allows it to outspeed every relevant Pokemon without a Choice Scarf, and access to a wide variety of status moves, Deoxys-S remains a consistent suicide lead. Spikes is a must-have for Deoxys-S, as it damages <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a> formes more than Stealth Rock, but Stealth Rock can still be used with Spikes if wanting to chip Spikes-immune Pokemon such as <a href=\"/dex/sv/pokemon/landorus-therian/ag/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/gliscor/ag/\" hreflang=\"en\">Gliscor</a>. Deoxys-S's access to Taunt lets it stop those trying to set up against it, such as Calm Mind <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>, while also shutting down other entry hazard setters like <a href=\"/dex/sv/pokemon/glimmora/ag/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/ribombee/ag/\" hreflang=\"en\">Ribombee</a>. Psycho Boost gives Deoxys-S a way to OHKO Koraidon, 2HKO Glimmora after Focus Sash, and chip physically defensive Gliscor, and Thunder Wave can be used to cripple fast threats that stay in on Deoxys-S like <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>, Koraidon, and <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a>. Skill Swap can be used to remove Magic Bounce from <a href=\"/dex/sv/pokemon/hatterene/ag/\" hreflang=\"en\">Hatterene</a>. However, Deoxys-S struggles to compete against other suicide leads like Ribombee and Glimmora, which offer more valuable hazards in Sticky Web and Toxic Spikes, respectively. Tera Steel gives Deoxys-S an immunity to Mortal Spin from Glimmora, while Tera Fairy allows it to block Scale Shot from Koraidon, and Tera Dark allows it to block Taunt and Parting Shot from <a href=\"/dex/sv/pokemon/grimmsnarl/ag/\" hreflang=\"en\">Grimmsnarl</a>. Maximum Special Attack EVs should be used to OHKO Koraidon with Psycho Boost, but maximum HP EVs can also be used.</p>\n<p>Deoxys-S is used exclusively on hyper offense teams that benefit from its entry hazards and overall disruption. Common hyper offense threats like Koraidon, Zacian-C, and Calyrex-S appreciate having the hazard support from Deoxys-S to chip Arceus formes and other Pokemon without Heavy-Duty Boots, such as Ting-Lu and Koraidon. For example, it allows Tera Normal Arceus to OHKO Koraidon with Extreme Speed after a Swords Dance and Life Orb Calyrex-S to OHKO Arceus with Psychic or Grass Knot after a Nasty Plot, in case of a hyper offense mirror. These teammates also appreciate Deoxys-S preventing opposing hazards from going up because they are vulnerable to chip damage. Hatterene is able to shut down Deoxys-S without Skill Swap, so Pokemon such as Zacian-C, Calyrex-S, and <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a> are also helpful for threatening Hatterene.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Skill Swap",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 649291,
+            "username": "Playering"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 487990,
+                "username": "Swas"
+              },
+              {
+                "user_id": 660324,
+                "username": "GigaBytes7"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 592895,
+                "username": "Dusk Mage Necrozma"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Lead",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>16 Speed EVs allow Deoxys-S to outspeed Zacian-C, Miraidon, and Koraidon.</p>\n<p>These are sample sets before we work on <a href=\"https://www.smogon.com/forums/forums/ubers-analyses.759/\">new analyses</a>. These will update as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Mental Herb"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Steel",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 240,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Deoxys-S can use Energy Ball to reliably hit Water- and Rock-types such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/rhyperior/monotype/\" hreflang=\"en\">Rhyperior</a>. However, it is not worth sacrificing either its STAB moves or its key BoltBeam coverage. Superpower with 4 Attack EVs and a neutral nature can also be used to target Normal-, Dark-, and Steel-types such as <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. However, Superpower is only useful in those specific scenarios, and it is essentially useless outside of them.</p>\n<h4>(Entry Hazard Support)</h4>\n<p>Deoxys-S can run Thunder Wave, taking advantage of its almost unmatched Speed tier by paralyzing pesky threats and potential setup sweepers like the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. However, Deoxys-S wouldn't want to sacrifice either of its entry hazards or its attacking moves.</p>",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Nasty Plot, great coverage in BoltBeam, and a Speed tier that makes it lightning fast outspeeding the entire unboosted metagame as well as boosted threats like +1 <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, +1 <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, Deoxys-S makes for a great setup sweeper. Thunderbolt threatens the likes of <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, offensive <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>. Ice Beam allows Deoxys-S to take on <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/hydrapple/monotype/\" hreflang=\"en\">Hydrapple</a>, and the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes.</p>\n<p><a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> is a valuable partner, as it sets up Psychic Terrain to both boost Deoxys-S's Expanding Force and prevent it from being revenge killed by <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>'s Sucker Punch, Dragonite's Extreme Speed, and <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a>'s First Impression. Furthermore, Indeedee's part-Normal typing and access to Shadow Ball make it a great asset in the Ghost matchup. <a href=\"/dex/sv/pokemon/jirachi/monotype/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/metagross/monotype/\" hreflang=\"en\">Metagross</a> provide great entry hazard support with Stealth Rock, and Jirachi also provides pivoting with U-turn. In return, they appreciate Deoxys-S taking on Ground-types such as <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a> is a great physical wall that takes on Hisuian Samurott with Body Press, and it also spreads status with Thunder Wave so Deoxys-S outspeeds Choice Scarf users like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> provides hazard control for Psychic teams thanks to Magic Bounce, and with its Fairy typing, it takes on Dark- and Dragon-types such as <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. Choice Specs <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and Choice Band <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> wallbreak early-game so that Deoxys-S can clean late-game. Latios breaks through <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> and <a href=\"/dex/sv/pokemon/skeledirge/monotype/\" hreflang=\"en\">Skeledirge</a>, while Hoopa-U threatens <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, specially defensive <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> handles threats faster than Deoxys-S such as Choice Scarf Iron Valiant, Choice Scarf Meowscarada, and Choice Scarf <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a>. In return, Deoxys-S handles Ground-types such as Landorus and Gliscor.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Expert Belt"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Entry Hazard Support",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Deoxys-S makes for a great entry hazard lead thanks to its access to both Stealth Rock and Spikes. Low Kick threatens Dark- and Steel-types such as <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Knock Off can be used to remove Heavy-Duty Boots from holders like <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> so Deoxys-S's entry hazards can affect them, as well as reduce the wallbreaking power of Choice item users like Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and Choice Band <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Alternatively, Taunt can be used to further Deoxys-S's role as a lead, shutting down opposing entry hazard support and also preventing Defog attempts. Ice Beam targets Ground-, Flying-, and Dragon-types such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>, and Dragonite. Alternatively, Psycho Boost can transform Deoxys-S into a suicide lead, taking out strong leads like <a href=\"/dex/sv/pokemon/froslass/monotype/\" hreflang=\"en\">Froslass</a> and <a href=\"/dex/sv/pokemon/galvantula/monotype/\" hreflang=\"en\">Galvantula</a> with it before sacrificing itself. Rocky Helmet punishes physical attackers like <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, notably breaking <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>'s Sturdy, while Focus Sash guarantees that Deoxys-S places at least one entry hazard. 236 Speed EVs allow it to outspeed +1 <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and Choice Scarf Landorus.</p>\n<p><a href=\"/dex/sv/pokemon/iron-crown/monotype/\" hreflang=\"en\">Iron Crown</a> and <a href=\"/dex/sv/pokemon/metagross/monotype/\" hreflang=\"en\">Metagross</a> make for great partners, as they both threaten <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, which can swap in on Deoxys-S and block its entry hazards. Additionally, Iron Crown threatens Flying-types such as <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a>, Corviknight, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> with Volt Switch, while Metagross revenge kills weakened sweepers such as <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and Flutter Mane with Bullet Punch. <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a> is a great defensive partner, as it can potentially bring Deoxys-S in safely with Eject Button, and thanks to the item's consumability, it can wall <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> once it's been used. Wallbreakers such as Hoopa-U and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> appreciate the entry hazards Deoxys-S provides, wearing down walls for them to exploit. They also have colorful coverage to threaten a multitude of threats, with Hoopa-U taking on Flutter Mane, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and Hisuian Goodra, while Latios targets <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, Corviknight, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. Hatterene makes for another great partner, threatening Dark- and Dragon-types. Late-game sweepers such as Latios, Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, and Agility Iron Crown appreciate the entry hazards Deoxys-S provides so they can pick off foes more easily. Psycho Boost Deoxys-S appreciates Psychic Terrain support from <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> which also provides a Ghost immunity to match up well against the likes of <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> and <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a>.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 16,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Dual Screens",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its great Speed, Deoxys-S makes for great dual screens support, greatly aiding in the survivability of its teammates. Ice Beam can be run over Psycho Boost to threaten Ground- and Flying-types such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Spikes can be run over Stealth Rock when a teammate is already running it, and its ability to be stacked thrice makes it more potent against grounded foes in the long run. However, Stealth Rock should be prioritized when none of Deoxys-S's teammates is running it, since it can wear down threats that don't run Heavy-Duty Boots .</p>\n<p><a href=\"/dex/sv/pokemon/metagross/monotype/\" hreflang=\"en\">Metagross</a> makes for a great partner, as its access to Stealth Rock allows Deoxys-S to run Spikes instead, and it revenge kills weakened sweepers such as Dragon Dance <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and Choice Scarf <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> with Bullet Punch. <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> appreciates dual screens, as it boosts its subpar Defense and further boosts its great Special Defense. Notably, Hoopa-U now survives a boosted Sucker Punch from Swords Dance <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> and OHKOes it back with Focus Blast. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> is a great form of hazard control thanks to its access to Magic Bounce, and its part Fairy typing makes it a great asset in the Dragon matchup and allows it to be more threatening in the Dark and Fighting matchups under dual screens. <a href=\"/dex/sv/pokemon/iron-crown/monotype/\" hreflang=\"en\">Iron Crown</a> and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> threaten common Defog users that threaten to remove Deoxys-S's screens such as <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> thanks to their access to Volt Switch and Thunderbolt, respectively. Additionally, they also remove <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a>, which can hinder dual screens setup. Late-game sweepers such as Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/armarouge/monotype/\" hreflang=\"en\">Armarouge</a>, and Agility <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> appreciate being behind screens, which make them harder to revenge kill. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> provides Psychic Terrain support to further boost Deoxys-S's Psycho Boost.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 8,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Mixed Attacker",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protean",
+            "Psychic Surge"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              },
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 164,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 92
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Rash",
+            "Naive"
+          ]
+        },
+        {
+          "name": "All-Out Attacker",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Deoxys-S leverages its colorful offensive movepool to become a formidable wallbreaker and, alongside its superb Speed tier, potentially clean late-game as well. Psychic works well with Sheer Force variants, but Psycho Boost can be used when going with Hadron Engine; the former's reliability and spammability can be forgone for the latter's immediate sheer power, reaching feats such as straight up OHKOing the <a href=\"/dex/sv/pokemon/ogerpon/almost-any-ability/\" hreflang=\"en\">Ogerpon</a> formes, <a href=\"/dex/sv/pokemon/moltres/almost-any-ability/\" hreflang=\"en\">Moltres</a>, and potentially <a href=\"/dex/sv/pokemon/garganacl/almost-any-ability/\" hreflang=\"en\">Garganacl</a>. Ice Beam reliably hits <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a> and otherwise problematic Dark-types like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/ting-lu/almost-any-ability/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a> super effectively while additionally being capable of OHKOing <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/garchomp/almost-any-ability/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a> without suffering Psycho Boost drops, especially since the last two can withstand a Psychic. Thunderbolt hits non-Volt Absorb <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a> and <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, while Energy Ball handles RegenVest <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, with either move covering for RegenVest <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a>. Focus Blast hits Steel-types like <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>, non-Bulletproof Empoleon, and <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a> and pressures Dark-types like Roaring Moon and Ting-Lu better than Ice Beam, notably OHKOing the former and potentially the latter. Shadow Ball deals with non-Bullet Proof <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a>. Sheer Force works well in tandem with Life Orb, keeping Deoxys-S healthy to repeatedly wallbreak. On top of the slightly higher power boost, Hadron Engine is an alternative that trades longevity for Electric Terrain-boosted Thunderbolts; notably, it makes sure that the move can OHKO physically defensive Corviknight and Mandibuzz, has significant odds to 2HKO even specially defensive RegenVest Manaphy, and is strong enough to 2HKO Scream Tail after minor chip damage and defensive Gholdengo, especially Bulletproof variants of the latter.</p>\n<p>Deoxys-S finds a home on bulky offense and offense teams that appreciate its wallbreaking and cleaning prowess. Slow defensive pivots like Swampert, Manaphy, and Corviknight are valuable supporting pieces; aside from bringing Deoxys-S into the field safely, they can switch into and check Choice Scarf and priority users like Roaring Moon, Latios, <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, and Kingambit looking to revenge kill it. Additionally, Swampert and Manaphy can use Knock Off to make opposing RegenVest users like Manaphy and Swampert easier for Deoxys-S to break down, while Corviknight provides entry hazard removal to let Deoxys-S come in repeatedly. Other hazard removal options include Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>; the former can also check Kingambit, <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a>, and Choice Scarf Roaring Moon that can revenge kill Deoxys-S, while the latter switches into Gholdengo and Scream Tail if Deoxys-S lacks the appropriate coverage to threaten them. Offensive pivots like Roaring Moon, <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a>, and Meowscarada are similarly useful to bring Deoxys-S in safely, as they tend to invite in physical walls like Great Tusk, <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a> that it feasts on. What they lack in defensive profile is made up for by their ability to pressure common Deoxys-S checks like Gholdengo, Heatran, and RegenVest Swampert, especially if it lacks the corresponding coverage; other physical wallbreakers like <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> and Chien-Pao are thus similarly helpful in this regard. These offensive threats can also overwhelm shared checks in Scream Tail, Ting-Lu, and Mandibuzz together with Deoxys-S, letting either of them take over the game more easily. Entry hazards from setters like Garchomp, Heatran, and Great Tusk can take advantage of the switches Deoxys-S forces and are great at chipping down its checks, namely the RegenVest users that cannot afford Heavy-Duty Boots.</p>",
+          "abilities": [
+            "Sheer Force",
+            "Hadron Engine"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 493260,
+            "username": "Marnie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 580765,
+                "username": "cat"
+              },
+              {
+                "user_id": 652656,
+                "username": "Gambit"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Suicide Lead",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Focus Sash",
+            "Rocky Helmet",
+            "Mental Herb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              },
+              {
+                "move": "Lunar Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 56,
+              "spa": 0,
+              "spd": 100,
+              "spe": 104
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Dual Screens Lead",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              },
+              {
+                "move": "Lunar Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lunar Dance",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 216,
+              "def": 0,
+              "spa": 84,
+              "spd": 0,
+              "spe": 208
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naughty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Inh",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Psychic Surge (Indeedee)",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Psychic Surge"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Mixed Contrary (Inkay)",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>52 Speed EVs lets it outrun <a href=\"/dex/sv/pokemon/barraskewda/inh/\" hreflang=\"en\">Barraskewda</a>, and 208 Special Attack EVs guarantee that Psychic OHKOes max HP <a href=\"/dex/sv/pokemon/great-tusk/inh/\" hreflang=\"en\">Great Tusk</a></p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Expert Belt",
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 248,
+              "def": 0,
+              "spa": 208,
+              "spd": 0,
+              "spe": 52
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naughty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 2 onwards</p>\n<p><strong>Price Range</strong>: 17-18 points</p>\n<p><strong>Overview</strong>: Deoxys-S is one of the fastest Pokemon in the format, providing elite speed control as well as executing a range of roles at a high level. It serves as an incredible lead due to its access to Stealth Rock, Spikes, dual screens, and Taunt, which paired with unmatched Speed allow it to kick off games fantastically. Deoxys-S can also be a fantastic offensive piece, as it has a variety of effective setup options and a diverse mixed attacking movepool. With its ability to heavily invest in bulk, it can often survive neutral hits to set up the required boosts to clean a team or wallbreak mid-game. Due to this flexibility and the value of Speed, Deoxys-S finds itself at the top of draft boards, only held back by its lack of bulk and weaker unboosted attacking stats.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Deoxys-S can boost its Special Attack with Nasty Plot to add strength to its elite Speed and become a powerful threat. Due to its wide range of special coverage, ability to run bulky sets due to its natural Speed, and strong STAB options, a well-supported Deoxys-S can set up with relative ease and is often able to hit an entire opposing team powerfully while outspeeding any unboosted Pokemon or +1 Speed Pokemon below base 104 Speed.</p>\n<p><strong>Dedicated Lead</strong>: Deoxys-S is an elite lead Pokemon, as its Speed paired with a Focus Sash allows it to set up entry hazards with ease and potentially shut down an opposing lead with Taunt. It can also perform a similar role with Light Clay, as it has access to dual screens.</p>\n<p><strong>All-Out Attacker</strong>: Deoxys-S can easily afford to run dual-invested mixed attacking sets with damage-boosting items, as it rarely requires investment into its Speed stat. These sets typically run four attacks and leverage its wealth of coverage to strongly hit entire teams.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Psycho Boost, Psychic, Psyshock, Psychic Noise, Zen Headbutt</p>\n<p><strong>Setup Moves</strong>: Nasty Plot, Meteor Beam, Calm Mind, Iron Defense, Cosmic Power</p>\n<p><strong>Utility Moves</strong>: Spikes, Stealth Rock, Reflect, Light Screen, Knock Off, Thunder Wave, Taunt, Recover, Trick, Brick Break</p>\n<p><strong>Coverage</strong>: Ice Beam, Thunderbolt, Shadow Ball, Energy Ball, Grass Knot, Focus Blast, Superpower, Low Kick, Fire Punch, Ice Punch, Poison Jab, Rock Slide, Thunder Punch, Stomping Tantrum</p>\n<h3>Niche Moves</h3>\n<p><strong>Stored Power</strong>: Stored Power is used on setup sets, often defensive dual dance ones with Iron Defense and Calm Mind, taking advantage of teams with a poor Dark-type or lack of one and sweeping after some boosts. These sets can pair well with a Weakness Policy to stomach a super effective hit and gain immediate power.</p>\n<p><strong>Mirror Coat / Counter</strong>: Mirror Coat and Counter can be found on lead or Focus Sash sets to trade with a foe.</p>\n<p><strong>Extreme Speed</strong>: Although Deoxys-S is incredibly fast, Extreme Speed can be a means of avoiding being revenge killed by opposing priority moves on all-out attacker sets. It is particularly useful against Sucker Punch and Thunderclap, as Extreme Speed goes first and makes these attacks fail.</p>\n<p><strong>Future Sight</strong>: Future Sight can be used to put pressure on opposing teams and allow Deoxys-S's teammates to find themselves in favorable positions.</p>\n<h3>Common Items</h3>\n<p><strong>Damage-boosting Items</strong>: As Deoxys-S is relatively weak, damage-boosting items such as Life Orb and Expert Belt allow it to hit out-of-reach damage thresholds on setup or all-out attacking variants.</p>\n<p><strong>Focus Sash</strong>: Focus Sash pairs excellently with dedicated lead sets and setup sets to ignore Deoxys-S's weak natural bulk and give it an extra turn to either set entry hazards or boost its stats.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots allows Deoxys-S to gain some extra longevity by avoiding entry hazard chip damage, especially since it typically wants other moves over Recover.</p>\n<h3>Niche Items</h3>\n<p><strong>Eject Pack</strong>: Paired with Psycho Boost and less frequently Superpower, Eject Pack can be used as a way to dish out a powerful attack and maintain momentum.</p>\n<p><strong>Power Herb</strong>: Power Herb in conjunction with Meteor Beam can provide Deoxys-S with an effective and powerful means of setup as well as strong Rock-type coverage.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries can be useful to make up for the Deoxys-S's weaknesses and allow it an extra turn to set up, use its utility moves, or lure and trade with a foe.</p>\n<p><strong>Light Clay</strong>: Light Clay is useful on lead sets that wish to set dual screens to extend their duration and support their team more effectively.</p>\n<p><strong>Sitrus Berry</strong>: To avoid being KOed by certain attacks, Sitrus Berry can occasionally prove useful for increasing Deoxys-S's longevity.</p>\n<p><strong>Weakness Policy</strong>: Weakness Policy can be found on bulky setup Stored Power sets to boost Deoxys-S's power tremendously.</p>\n<h3>Tera</h3>\n<p>Due to its unparalleled Speed, great movepool, and abundance of viable setup moves, Deoxys-S is essentially never allowed to use Tera. If one were to make Deoxys-S their Tera Captain, they could use Tera types such as Tera Fighting, Fairy, and Ground to give it needed coverage to effectively counter its typical checks. More defensively-oriented Tera types such as Tera Steel, Water, and Dark could also be useful to facilitate setup sets. Tera Ghost could also be used to deny opposing Rapid Spin on entry hazard lead sets.</p>\n<h3>Draft Strategy</h3>\n<p>Deoxys-S is an incredibly versatile Pokemon that has a defined and strong role in almost any given matchup. It can function as an excellent supportive piece to your team with its speed control, entry hazard setting, dual screens setting, and wide utility. If supported well, it can become a centerpiece of your draft with its ability to set up and clean teams.</p>\n<p><strong>Wallbreakers</strong>: Strong wallbreaking teammates are a necessity for Deoxys-S to weaken opposing teams and clean games with its setup sets and elite Speed. In turn, wallbreakers also can greatly benefit from Deoxys-S reliably stacking entry hazards for them and setting dual screens to facilitate their wallbreaking. Strong wallbreakers such as <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> fit well with Deoxys-S.</p>\n<p><strong>Pivots</strong>: Due to its natural frailty, Deoxys-S appreciates bulkier teammates that can allow it to hit the field reliably and set up or powerfully attack. Reliable pivots such as <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a> complement it nicely.</p>\n<p><strong>Entry Hazard Control</strong>: Deoxys-S appreciates teammates that can remove pressure from it to be a dedicated entry hazard lead and allow it more item flexibility by removing hazards. <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> are all good teammates that control various components of the hazard war.</p>\n<p><strong>Bulk</strong>: With low defenses despite its ability to invest in them, Deoxys-S enjoys bulkier walls to fall back on when it cannot net a KO. Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> can provide a defensive backbone.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Speed-boosted Pokemon</strong>: Although Deoxys-S may outspeed +1 Speed Pokemon at 104 base Speed or lower, faster Choice Scarf and Speed Booster Energy Pokemon such as <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, and Roaring Moon, can outspeed and KO Deoxys-S.</p>\n<p><strong>Strong Attackers</strong>: Due to its lack of bulk, many strong neutral wallbreakers can endure an interaction with Deoxys-S and use their raw power to KO it. Strong attackers such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> can all potentially survive a hit and overpower Deoxys-S if they are not weakened.</p>\n<p><strong>Priority Attackers</strong>: Strong priority attackers such as <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>, Urshifu-S, and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> can revenge kill Deoxys-S without having to worry about its Speed.</p>\n<p><strong>Entry Hazard Removal</strong>: As dedicated entry hazard lead sets are very prominent, facing reliable opposing hazard removal can render these less effective. Foes such as Iron Treads, <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, and Great Tusk can shut down these lead sets.</p>\n<p><strong>Dark-types</strong>: Deoxys-S can often struggle against common Dark-type foes, as it relies heavily on its STAB moves to deal the damage it desires and is forced to use the suboptimal Focus Blast or Superpower to hit them. Dark-types such as Ting-Lu, Hisuian Samurott, and Roaring Moon are all strong against Deoxys-S.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608304,
+            "username": "jscurf"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 620359,
+                "username": "olivia"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Deoxys-S is a versatile offensive threat for Psychic teams due to its coverage and Speed that lets it outspeed even Choice Scarf threats like <a href=\"/dex/sv/pokemon/landorus-therian/national-dex-monotype/\" hreflang=\"en\">Landorus-T</a>, easing matchups like Ground, Water, and Flying. Thunderbolt targets Flying- and Water-types like <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, and Gigavolt Havoc OHKOes <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/scizor/national-dex-monotype/\" hreflang=\"en\">Scizor</a> and offensive <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> at +2 after Stealth Rock damage. Ice Beam, in addition to hitting Flying-types, also threatens Dragon- and Ground-types like <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>, and the <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> formes. At +2, Energy Ball OHKOes foes like <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a>, which take minimal damage from its other moves. Expanding Force in Psychic Terrain OHKOes bulkier foes like <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>, <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> at +2. With Shattered Psyche, Deoxys-S can beat these foes without requiring the Psychic Terrain boost. Expert Belt is an alternate option to provide a boost to the various coverage moves that Deoxys-S uses while also relieving the Z-Move slot for a teammates like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> or <a href=\"/dex/sv/pokemon/victini/national-dex-monotype/\" hreflang=\"en\">Victini</a>. Deoxys-S appreciates <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>'s ability to remove Dark- and Steel-types like <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and special walls like <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/articuno/national-dex-monotype/\" hreflang=\"en\">Articuno</a>. In return, Deoxys-S can eliminate Flying-types like Tornadus-T, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, and <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>. Tapu Lele also threatens Dark-types like <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> and can set up Psychic Terrain, which boosts the power of Deoxys-S's Expanding Force and protects it from getting revenge killed by priority moves like <a href=\"/dex/sv/pokemon/mimikyu/national-dex-monotype/\" hreflang=\"en\">Mimikyu</a>'s Shadow Sneak and <a href=\"/dex/sv/pokemon/cinderace/national-dex-monotype/\" hreflang=\"en\">Cinderace</a>'s Sucker Punch. Victini can deal with Steel- and Bug-types like Gholdengo and Scizor. <a href=\"/dex/sv/pokemon/jirachi/national-dex-monotype/\" hreflang=\"en\">Jirachi</a> can set Stealth Rock and provide safe entry to Deoxys-S with U-turn. Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a> can take on opposing Choice Scarf users like <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>, Greninja, and <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>.</p>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Electrium Z",
+            "Expert Belt",
+            "Psychium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 594972,
+            "username": "Murphy Lawden"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Entry Hazard Setter",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Deoxys-S clocks in at a blistering base 180 Speed, making it the naturally fastest viable Pokemon in the tier. With a diverse support movepool and passable bulk, Deoxys-S establishes itself as the premier entry hazard setter for hyper offense teams.</li>\n<li>Magic Coat allows Deoxys-S to bounce opposing Taunt from <a href=\"/dex/sv/pokemon/grimmsnarl/national-dex-ubers/\" hreflang=\"en\">Grimmsnarl</a> and entry hazards from other suicide leads like <a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a> and <a href=\"/dex/sv/pokemon/smeargle/national-dex-ubers/\" hreflang=\"en\">Smeargle</a>.</li>\n<li>Psycho Boost is an alternative to Spikes, giving Deoxys-S a powerful STAB move that can heavily damage anything that tries to take advantage of its relatively passive nature, like <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a> and <a href=\"/dex/sv/pokemon/flutter-mane/national-dex-ubers/\" hreflang=\"en\">Flutter Mane</a>.</li>\n<li>Rocky Helmet provides valuable chip damage against foes like <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, which puts it within OHKO range of <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>'s Earthquake, but Focus Sash can be an alternative for the frailer spread as to ensure Deoxys-S can withstand virtually any attack once to lay more entry hazards.</li>\n<li>16 Speed EVs and a Timid nature allow Deoxys-S to outspeed <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a> and Zacian-C, while the HP and Defense EVs avoid a 2HKO from <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a>'s Extreme Speed and <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a>'s combination of Dragon Ascent + Extreme Speed. A frailer spread can be used instead to maximize Speed, ensuring that Deoxys-S outspeeds Choice Scarf users like <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a> and <a href=\"/dex/sv/pokemon/darmanitan-galar/national-dex-ubers/\" hreflang=\"en\">Galarian Darmanitan</a>.</li>\n<li>Tera Steel allows Deoxys-S to block Mortal Spin from <a href=\"/dex/sv/pokemon/glimmora/national-dex-ubers/\" hreflang=\"en\">Glimmora</a>, keeping up hazards, as well as giving a crucial resistance to Extreme Speed from Arceus. However, Deoxys-S generally wants to avoid Terastallizing, saving the slot for one of its teammates instead.</li>\n<li>Deoxys-S is best used as a lead, since it provides little defensive or offensive options to its team, so it is usually worth sacrificing early-game for an extra layer of entry hazards or a fast Taunt to deny opposing sweepers from setting up, such as <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a> and <a href=\"/dex/sv/pokemon/zygarde-complete/national-dex-ubers/\" hreflang=\"en\">Zygarde-C</a>.</li>\n<li>The hazards Deoxys-S lays serve as an excellent enabler for powerful sweepers like <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a>, Zacian-C, <a href=\"/dex/sv/pokemon/mewtwo-mega-y/national-dex-ubers/\" hreflang=\"en\">Mega Mewtwo Y</a>, Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, and <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>, and teammates like Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a> and Meteor Beam <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> can threaten hazard removers, especially <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>.</li>\n</ul>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Magic Coat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Dual Screens",
+          "pokemon": "Deoxys-Speed",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Being the naturally fastest viable Pokemon in the tier, Deoxys-S establishes itself as an excellent dual screens setter for hyper offense teams.</li>\n<li>Magic Coat allows Deoxys-S to beat other leads, bouncing back opposing Taunt from <a href=\"/dex/sv/pokemon/grimmsnarl/national-dex-ubers/\" hreflang=\"en\">Grimmsnarl</a>, entry hazards from setters like <a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a> and <a href=\"/dex/sv/pokemon/glimmora/national-dex-ubers/\" hreflang=\"en\">Glimmora</a>, and Spore from <a href=\"/dex/sv/pokemon/smeargle/national-dex-ubers/\" hreflang=\"en\">Smeargle</a>.</li>\n<li>Taunt is invaluable to Deoxys-S, not only giving it another way to prevent opposing leads from setting entry hazards, but also denying Defog from Pokemon like <a href=\"/dex/sv/pokemon/arceus-water/national-dex-ubers/\" hreflang=\"en\">Arceus-Water</a> and <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a>, which would otherwise remove its dual screens.</li>\n<li>Deoxys-S can use Tera Ghost to avoid trapping from <a href=\"/dex/sv/pokemon/zygarde-complete/national-dex-ubers/\" hreflang=\"en\">Zygarde-C</a> and <a href=\"/dex/sv/pokemon/gothitelle/national-dex-ubers/\" hreflang=\"en\">Gothitelle</a> as well as blank Extreme Speed from <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a>. However, it is generally best to avoid Terastallizing Deoxys-S, saving the slot for one of its teammates instead.</li>\n<li>Deoxys-S is best used as a lead, since it provides little defensive or offensive options to its team, so it is usually worth sacrificing early-game for a second layer of dual screens or a fast Taunt to stop opposing sweepers such as <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and <a href=\"/dex/sv/pokemon/mewtwo-mega-y/national-dex-ubers/\" hreflang=\"en\">Mega Mewtwo Y</a> from setting up. Against physical threats like <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a> and <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>, Deoxys-S should set Reflect first, while against special threats like <a href=\"/dex/sv/pokemon/flutter-mane/national-dex-ubers/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/palkia-origin/national-dex-ubers/\" hreflang=\"en\">Palkia-O</a>, it should set Light Screen to ensure it can survive a hit and set Reflect.</li>\n<li>Dual screens Deoxys-S sets are perfect enablers for bulkier sweepers like Zygarde-C, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>, Arceus-Water, and Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>. Deoxys-S also appreciates teammates like Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a> and Meteor Beam <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>, which threaten Defoggers, especially <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>.</li>\n</ul>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Magic Coat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 616497,
+            "username": "FayaWizard"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 652323,
+                "username": "Anchor9"
+              },
+              {
+                "user_id": 535530,
+                "username": "Gangsta Spongebob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 569291,
+                "username": "zinnias"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Amnesia",
+    "Brick Break",
+    "Calm Mind",
+    "Charge Beam",
+    "Cosmic Power",
+    "Counter",
+    "Dark Pulse",
+    "Double Team",
+    "Drain Punch",
+    "Endure",
+    "Energy Ball",
+    "Expanding Force",
+    "Extreme Speed",
+    "Facade",
+    "Fire Punch",
+    "Flash Cannon",
+    "Fling",
+    "Focus Blast",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Iron Defense",
+    "Knock Off",
+    "Leer",
+    "Light Screen",
+    "Low Kick",
+    "Low Sweep",
+    "Meteor Beam",
+    "Mirror Coat",
+    "Nasty Plot",
+    "Night Shade",
+    "Pain Split",
+    "Poison Jab",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psycho Boost",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Recover",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spikes",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Superpower",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Teleport",
+    "Tera Blast",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trick",
+    "Trick Room",
+    "Water Pulse",
+    "Wrap",
+    "Zap Cannon",
+    "Zen Headbutt"
+  ]
+}

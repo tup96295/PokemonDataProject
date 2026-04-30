@@ -1,0 +1,2100 @@
+{
+  "name": "Pelipper",
+  "alias": "pelipper",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "stats": [
+    60,
+    50,
+    100,
+    95,
+    70,
+    65
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Pelipper is OU's premier rain setter thanks to Drizzle, ability to safely bring in its offensive teammates with U-turn, and reliable recovery in Roost. Its perfectly-accurate STAB Hurricane threatens <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Grass-types like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>— which are generally huge threats to rain teams—while dealing great neutral damage to Water-resistant targets like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Surf threatens a number of common Stealth Rock setters such as <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> with OHKOs in rain, while Knock Off cripples foes like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, making them easier for Pelipper's teammates to break through. A Speed-reducing nature in conjunction with 0 Speed IVs gives Pelipper its slowest possible U-turn, allowing it to safely bring in teammates to make use of its rain. It also lets Pelipper underspeed uninvested <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a>, allowing its rain to override sand in the lead matchup. A physically defensive EV spread lets Pelipper easily handle physical threats like Great Tusk, Zamazenta, and Hisuian Samurott. On the other hand, a specially defensive spread can be used to take less damage from special attackers that would otherwise take advantage of Pelipper's poor Special Defense, such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, as well as avoiding an OHKO from Choice Specs Dragapult's Draco Meteor. Though Pelipper is rarely Terastallized, Tera Ground can be used to remove its 4x weakness to Electric-type moves from <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> and safely pivot out of them. Tera Grass similarly provides a way to stomach Raging Bolt's Electric-type attacks but with the additional benefit of taking on Rillaboom and Ogerpon-W, which are otherwise huge threats to rain teams.</p>\n<p>Pelipper should be used exclusively on rain teams where it is commonly partnered with powerful wallbreakers like <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a>, which is greatly enabled by Swift Swim activation, and Raging Bolt, which benefits from Water-type Weather Ball to break through Ground-types. Due to Pelipper's weakness to Stealth Rock and that it can't afford to run Heavy-Duty Boots, it benefits greatly from Rapid Spin support from <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> to allow it to repeatedly set rain. Because Damp Rock is needed to maximize the number of rain turns, Pelipper appreciates having a teammate that can switch into Knock Off, such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, especially if its Air Balloon has been popped. Due to its 4x weakness to Electric-type moves, Pelipper enjoys Ground-type teammates like Iron Treads that can easily switch into the likes of Raging Bolt. Pokemon like Air Balloon Kingambit that can help against <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> are also appreciated, as Pelipper is unable to defensively check it and rain teams tend to struggle against it.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Damp Rock"
+          ],
+          "teratypes": [
+            "Ground",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed",
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 439018,
+            "username": "Maia"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 633798,
+                "username": "kd458"
+              },
+              {
+                "user_id": 584916,
+                "username": "viivian"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 633500,
+                "username": "StupidFlandrs48"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter (Water)",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Pelipper provides vital utility for Water teams due to its secondary Flying typing and decent natural bulk along with its ability, Drizzle, enabling rain strategies. Hurricane blows away problematic Fighting- and Grass-type threats such as <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. U-turn allows it to safely pivot in teammates like <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> while pivoting out against threats like <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>. Finally, Knock Off removes items from checks to Pelipper and its teammates like <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>'s Leftovers ​and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>'s Rocky Helmet.</p>\n<p>Teammates like Barraskewda and <a href=\"/dex/sv/pokemon/kingdra/monotype/\" hreflang=\"en\">Kingdra</a> make for excellent partners for Pelipper, as they benefit heavily from rain enabling Swift Swim, which allows them to outspeed and handle threats such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>. Barraskewda can also naturally outspeed and handle foes like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> for Pelipper. <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> helps Pelipper out by handling special threats and Electric-types like Flutter Mane, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a>, and <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a>. Swampert can also provide Stealth Rock to wear down foes such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a> along with using Flip Turn to safely bring Pelipper in to enable rain. Toxapex can assist in handling powerful Grass- and Fighting-types Pelipper cannot handle like <a href=\"/dex/sv/pokemon/brambleghast/monotype/\" hreflang=\"en\">Brambleghast</a> and, if Toxapex is running Rocky Helmet, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, as well as Fairy-types like <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>; it can also spread poiso with Toxic to wear down foes such as <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> and opposing weather setters such as <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>. In return, it enjoys Pelipper being able to come in on Ground-types like <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, which otherwise easily handle Toxapex. <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> can threaten Ghost- and Psychic-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> with Ceaseless Edge along with using Sucker Punch to pick off faster targets like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>. Choice Specs Greninja can check problematic Fairy- and Grass-types like Iron Valiant and the Ogerpon formes with Sludge Wave while using Extrasensory to deal with Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, Toxapex, and Iron Hands. Choice Scarf Urshifu-R enjoys the safe entry granted by Pelipper, ​and in return, it can handle Dark- and Steel-type threats such as <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, Choice Specs Greninja, and Hisuian Goodra.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 8,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Choice Specs (Water)",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Choice Specs, Pelipper can serve as a scary offensive force while providing rain support. Hurricane's perfect accuracy in rain allows Pelipper to use its strongest STAB move reliably, enabling it to remove Grass- and Fighting-types like <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>, non-Focus Sash <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a>, and <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>. Surf consistently pressures threats like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>. Knock Off hinders targets that can handle Pelipper such as <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a> and Water Absorb <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> by removing their Leftovers and Black Sludge, respectively. Finally, U-turn allows Pelipper to safely pivot out of unfavorable matchups and into wallbreakers such as <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>. The given EV spread helps it outspeed Adamant Breloom and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> while letting it survive a Flower Trick from a Choice Band <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> at full health.</p>\n<p>Barraskewda complements Pelipper by removing targets like Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. Close Combat helps Barraskewda beat <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and in return, Barraskewda appreciates Pelipper enabling Swift Swim and eliminating physical walls like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> appreciates Pelipper handling opposing Grass-types like <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a> and Amoonguss, which would otherwise wall it, and in return, Ogerpon-W can remove Water- and Rock-types that can cause issues for Pelipper such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, Rotom-W, and <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a>. <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> acts like a bulky Electric immunity capable of removing targets like <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a> and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> while providing Stealth Rock support to wear down checks like <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>. Swampert can also use Flip Turn to bring Pelipper in safely, forming a pivot core. <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> provides a solid Grass neutrality and Fairy resistance, capable of handling foes like Meowscarada, <a href=\"/dex/sv/pokemon/mimikyu/monotype/\" hreflang=\"en\">Mimikyu</a>, and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>. Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> acts like a fast threat, breaking through Pelipper's checks like <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a> and Choice Specs <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>. Furthermore, rain enables Urshifu-R to OHKO <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>. <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> grants support by setting up Spikes with Ceaseless Edge to chip down would-be checks to Pelipper, like Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> and Water Absorb Clodsire. It can also use Sucker Punch to check foes like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and Latios. <a href=\"/dex/sv/pokemon/quaquaval/monotype/\" hreflang=\"en\">Quaquaval</a> and <a href=\"/dex/sv/pokemon/tentacruel/monotype/\" hreflang=\"en\">Tentacruel</a> both provide entry hazard removal. Additionally, Quaquaval can break Hisuian Goodra, while Tentacruel provides a soft check to the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes with Liquid Ooze. Empoleon is a solid teammate capable of providing Stealth Rock and pivoting with Flip Turn. It can also use Flash Cannon to nail Ice- and Fairy-type threats like Kyurem, <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>, and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 40,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 212
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "<h4>Other Options</h4>\n<h5>Water (Choice Specs)</h5>\n<p>Weather Ball can be used over Surf as its higher power enables Pelipper to have a guaranteed chance to 2HKO <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> while also providing a nearly guaranteed chance to 2HKO <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>. However, against opposing weather setters such as <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a> and <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, Surf does a far better job. In case Pelipper loses weather control or rain stops, Surf is preferable over Weather Ball.</p>\n<h5>Water (Rain Setter)</h5>\n<p>Surf can be used over one of Pelipper's utility options, providing it with a better offensive output and the ability to break Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>. This does, however, force Pelipper to drop either Knock Off or U-turn, and most of the time, Pelipper would prefer its teammates to handle these threats instead.</p>",
+      "movesets": [
+        {
+          "name": "Rain Setter (Flying)",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>This EV Spread survives Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/doubles/\" hreflang=\"en\">Flutter Mane</a> Moonblast and outspeeds <a href=\"/dex/sv/pokemon/iron-bundle/doubles/\" hreflang=\"en\">Iron Bundle</a> in Tailwind.</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Eject Button",
+            "Damp Rock"
+          ],
+          "teratypes": [
+            "Grass",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wide Guard",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Helping Hand",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 48,
+              "spa": 0,
+              "spd": 52,
+              "spe": 156
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!</p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-f-dex-updates-and-suggestions.3734864/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Drizzle",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Pelipper is the best rain summoner around, letting dangerous teammates like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>, Swift Swim <a href=\"/dex/sv/pokemon/basculegion/battle-stadium-singles/\" hreflang=\"en\">Basculegion</a>, or Electro Shot <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a> run wild!</p>\n</li>\n<li>\n<p><strong>Ice Beam</strong>: This lets Pelipper do huge damage to <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, who otherwise takes most of this set on fine.</p>\n</li>\n<li>\n<p><strong>Tailwind</strong>: Tailwind gives Pelipper even more team support props, making it an especially scary option with Urshifu-R sets.</p>\n</li>\n<li>\n<p><strong>Roost</strong>;  Roost takes advantage of its decent physical bulk, increasing its staying power. This is particularly useful in weather wars against <a href=\"/dex/sv/pokemon/torkoal/battle-stadium-singles/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/hippowdon/battle-stadium-singles/\" hreflang=\"en\">Hippowdon</a>.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Pelipper is all about rain support, so only Terastallize if if its needed to win certain match-ups.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel prevents total annihilation from Freeze-Dry users like <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/battle-stadium-singles/\" hreflang=\"en\">Alolan Ninetales</a>.</p>\n</li>\n</ul>\n<p><strong>Ground</strong>: Tera Ground gives Pelipper an immunity to Volt Switch, which is often used against it early-game. This wastes a turn for the opponent and gives Pelipper the chance to safely U-turn or deal massive damage with a rain-boosted Hydro Pump.</p>\n<p><strong>Grass</strong>: Tera Grass is a viable way to gain an Electric resistances without being revenge killed by Urshifu-R.</p>\n<h5>Alternate EV Spreads</h5>\n<ul>\n<li>\n<p><strong>252 HP / 4 Def / 252 SpA with Quiet</strong>: With 0 Speed IVs, this is used to underspeed uninvested Hippowdon, giving Pelipper the initial advantage in weather wars.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpA with Bold or Relaxed</strong>: This spread gives Pelipper a better matchup against dominant, powerful physical attackers like Urshifu-R and Dragonite.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Damp Rock",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Steel",
+            "Ground",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Tailwind",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Bold"
+          ]
+        },
+        {
+          "name": "Fast Drizzle",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>Quick Attack</strong>: Quick Attack may seem silly, but it allows Pelipper to snipe opposing Focus Sash foes like <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Quick Attack",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              },
+              {
+                "move": "Quick Attack",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 62165,
+            "username": "StarkGod"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "<p>Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.</p>\n<p>If you feel this analysis is not up to date, <a href=\"https://www.smogon.com/forums/threads/pelipper.3713836/\">feel free to check out the thread for this Pokemon and post suggestions</a>. For more resources on Series 1 in general, <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-1-a-land-free-of-ruins-and-paradoxes.3711710/\">check out this thread</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Drizzle Bird",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Hydro Pump significantly weakens opponents when rain-boosted, often picking up surprise KOs.</p>\n</li>\n<li>\n<p>The choice between Hurricane and Roost is a matter of coverage versus longevity. Hurricane gives Pelipper a powerful secondary STAB move, while Roost takes advantage of its decent physical bulk, increasing its staying power. This is particularly useful in weather wars.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<p><strong>Ground</strong>: Tera Ground gives Pelipper an immunity to Volt Switch, which is often used against it early-game. This wastes a turn for the opponent and gives Pelipper the chance to safely U-turn or deal massive damage with a rain-boosted Hydro Pump.</p>\n<p><strong>Grass</strong>: Tera Grass is a viable option for <a href=\"/dex/sv/pokemon/rotom-wash/bss-series-1/\" hreflang=\"en\">Rotom-W</a>, which primarily uses Hydro Pump on lead while providing a Volt Switch resistance.</p>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 4 Def / 252 SpA with Quiet</strong>: With 0 Speed IVs, this is used to underspeed uninvested <a href=\"/dex/sv/pokemon/hippowdon/bss-series-1/\" hreflang=\"en\">Hippowdon</a>, giving Pelipper the initial advantage in weather wars.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpA with Relaxed</strong>: This spread gives Pelipper a better matchup against dominant, powerful physical attackers like Choice Band Dragpault and Extreme Speed <a href=\"/dex/sv/pokemon/dragonite/bss-series-1/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p><strong>4 Def / 252 SpA / 252 Spe with Modest</strong>: This offensive spread can be used to outspeed uninvested <a href=\"/dex/sv/pokemon/corviknight/bss-series-1/\" hreflang=\"en\">Corviknight</a> and others in that Speed tier.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Choice Specs</strong>: Choice Specs can be used to take advantage of Pelipper's powerful STAB moves.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry provides longevity on defensive sets.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Damp Rock"
+          ],
+          "teratypes": [
+            "Ground",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 62165,
+            "username": "StarkGod"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Drizzle Bird",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p><strong>Hydro Pump versus Surf</strong>: Hydro Pump significantly weakens opponents when rain-boosted, often picking up surprise KOs. Surf is the far more reliable option.</p>\n</li>\n<li>\n<p><strong>Hurricane versus Roost</strong>; The choice between Hurricane and Roost is a matter of coverage versus longevity. Hurricane gives Pelipper a powerful secondary STAB move, while Roost takes advantage of its decent physical bulk, increasing its staying power. This is particularly useful in weather wars against <a href=\"/dex/sv/pokemon/torkoal/bss-series-2/\" hreflang=\"en\">Torkoal</a></p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<p><strong>Ground</strong>: Tera Ground gives Pelipper an immunity to Volt Switch, which is often used against it early-game. This wastes a turn for the opponent and gives Pelipper the chance to safely U-turn or deal massive damage with a rain-boosted Hydro Pump.</p>\n<p><strong>Grass</strong>: Tera Grass is a viable option for <a href=\"/dex/sv/pokemon/rotom-wash/bss-series-2/\" hreflang=\"en\">Rotom-W</a>, which primarily uses Hydro Pump on lead while providing a Volt Switch resistance.</p>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 4 Def / 252 SpA with Quiet</strong>: With 0 Speed IVs, this is used to underspeed uninvested <a href=\"/dex/sv/pokemon/hippowdon/bss-series-2/\" hreflang=\"en\">Hippowdon</a>, giving Pelipper the initial advantage in weather wars.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpA with Relaxed</strong>: This spread gives Pelipper a better matchup against dominant, powerful physical attackers like Choice Band Dragpault and Extreme Speed <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p><strong>4 Def / 252 SpA / 252 Spe with Modest</strong>: This offensive spread can be used to outspeed uninvested <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a> and others in that Speed tier.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Eject Button</strong>: This extra method of pivoting makes it much easier to switch Pelipper in just for getting rain up.</p>\n</li>\n<li>\n<p><strong>Choice Specs</strong>: Choice Specs can be used to take advantage of Pelipper's powerful STAB moves.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry provides longevity on defensive sets.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Damp Rock",
+            "Eject Button"
+          ],
+          "teratypes": [
+            "Ground",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 62165,
+            "username": "StarkGod"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Wide Guard",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Pelipper's Drizzle ability, STAB Hurricane for Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, and access to Tailwind, make it the premier rain setter.</p>\n</li>\n<li>\n<p>Pelipper is best paired with partners who benefit from like <a href=\"/dex/sv/pokemon/archaludon/vgc24-regulation-f/\" hreflang=\"en\">Archaludon</a> and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>, both having incredibly hard-hitting moves in Rain being Electro Shot and Surging Strikes, respectively.</p>\n</li>\n<li>\n<p>Pelipper's mediocre bulk and Speed leave it especially vulnerable to fast threats like <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>. These, combined with Fake Out pressure, can prevent Pelipper from getting up Tailwind and minimize its impact on the game. Drizzle boosting opposing Water-types like Urshifu-R and Ogerpon-W's STAB moves can also make Pelipper disadvantageous long-term.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Pelipper can use Wide Guard over Protect to block spread move, most notably <a href=\"/dex/sv/pokemon/iron-crown/vgc24-regulation-f/\" hreflang=\"en\">Iron Crown</a>'s Expanding Force. Pelipper utilizes Weather Ball to obtain strong boosted STAB, threatening <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a>.</p>\n</li>\n<li>\n<p>Pelipper utilizes Rocky Helmet to provide useful chip damage against Fake Out users, Ice Spinner <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>, but can use Focus Sash for survivability or Damp Rock to extend rain for slower teams.</p>\n</li>\n<li>\n<p>When using Focus Sash, Pelipper should use an alternative spread of 4 HP / 252 SpA / 252 Spe with a Modest or Timid nature instead, foregoing bulk.</p>\n</li>\n<li>\n<p>The EV spread helps Pelipper survive a Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>'s Moonblast and almost always a Miracle Seed <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>'s Wood Hammer. The Speed investment allows Pelipper to outspeed <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon</a> when in Tailwind.</p>\n</li>\n<li>\n<p>Tera Steel helps Pelipper gain resistances to strong threats like Rillaboom and Flutter Mane, giving it a turn to set Tailwind or click Hurricane. Tera Flying can be used to boost Pelipper's damage output and, when fully invested in Special Attack, threaten <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> for an OHKO. Tera Ghost makes Pelipper immune to common moves, being Fake Out and Extreme Speed.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Focus Sash",
+            "Damp Rock"
+          ],
+          "teratypes": [
+            "Steel",
+            "Flying",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Wide Guard",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 76,
+              "spa": 4,
+              "spd": 140,
+              "spe": 36
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 562330,
+                "username": "Robbie35646"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Weather Support",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Pelipper's access to Drizzle and Wide Guard in a metagame full of spread moves and weather control allow it to thrive as a support Pokemon with the threat of strong STAB options. Wide Guard is an excellent utility move, which not only protects its partner but, along with Pelipper's typing, also allows it to counter many Restricted Pokemon such as <a href=\"/dex/sv/pokemon/groudon/vgc24-regulation-g/\" hreflang=\"en\">Groudon</a>, <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a>, both <a href=\"/dex/sv/pokemon/calyrex/vgc24-regulation-g/\" hreflang=\"en\">Calyrex</a> formes, and <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a>. Weather Ball and Hurricane's high Base Power make up for Pelipper's middling Special Attack, nuking most targets weak to its STAB moves, such as both <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a> formes and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>. Protect is generally preferred for utility and to block Fake Out, but Helping Hand can be used to support its teammates, thanks to moving before Fake Out. Focus Sash is needed to guarantee Pelipper can remain a threat even when facing one of the many Pokemon that can hit it for super effective damage. Tera Ghost is a generally strong Tera type and allows Pelipper to dodge Fake Out, which is especially important because it threatens to break Focus Sash. Tera Stellar is also viable to boost Pelipper's damage.</p>\n<p>Any Pokemon that benefits from rain or Wide Guard appreciates Pelipper's support. <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> all value Pelipper's support, with Wide Guard blocking super effective Astral Barrages and Precipice Blades and rain boosting Urshifu-R's Surging Strikes. Other support Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a> and Incineroar are also strong with Pelipper defensively, with it handling threats such as Urshifu-R and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-g/\" hreflang=\"en\">Landorus</a> for Incineroar and Wide Guard blocking Bleakwind Storms from hitting Amoonguss. Its low Speed tier means it's essentially useless against Pokemon that can exploit its Speed and bring it down to its Focus Sash, leaving Pelipper unable to do anything without the threat of being knocked out. Opposing weather also completely cripples Pelipper, as its moves rely on rain to be consistent; however, its lower Speed compared to most weather setters means this scenario is playable, with rain more commonly lasting its five turns. Fake Out and other priority moves that can break Focus Sash easily are also devastating.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Stellar"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wide Guard",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Helping Hand",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Bulky Support",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>With a good set of supportive moves like Wide Guard to protect against damaging spread moves and a typing that can check various Pokemon in the metagame like <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>, Pelipper can be a good supportive option for a team. Pelipper's ability Drizzle is also very important, as rain allows it to check threats such as <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a>. Weather Ball and Hurricane are great STAB moves to have, as they benefit from rain and remove Pokemon like <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> and Urshifu-R. Protect is helpful for blocking Fake Out; Helping Hand supports Pelipper's teammates and lets them to dish out huge damage; and Tailwind provides speed control for Pelipper and its teammates. Rocky Helmet punishes Urshifu-R while also being helpful for chip damage, breaking Focus Sash held by Pokemon like <a href=\"/dex/sv/pokemon/mienshao/vgc24-regulation-g/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a>. Safety Goggles provides an immunity to Spore and Rage Powder from <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, and Covert Cloak gives Pelipper an immunity to Fake Out flinches from Incineroar and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>. The EV spread allows Pelipper to outspeed the <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon</a> formes under Tailwind and survive a Wood Hammer from Rillaboom or a Moonblast from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>. The Special Attack investment is used to OHKO Incineroar and <a href=\"/dex/sv/pokemon/groudon/vgc24-regulation-g/\" hreflang=\"en\">Groudon</a> under rain. Tera Ghost gives Pelipper an immunity to Fake Out, while Tera Grass is a good defensive Tera type that lets it resist Electric- and Grass-type moves like Wood Hammer and Volt Switch while also gaining an immunity to powder moves like Spore and Rage Powder. Tera Dark makes Pelipper immune to Prankster Taunt from <a href=\"/dex/sv/pokemon/whimsicott/vgc24-regulation-g/\" hreflang=\"en\">Whimsicott</a> and <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> and resists Astral Barrage from <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>.</p>\n<p><a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a> are great counters to Pelipper, as they resist its STAB moves and can OHKO with Volt Switch or Thunderbolt. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-C</a> can also check Pelipper with its super effective Ivy Cudgel while also not worrying about Rocky Helmet sets breaking its Sturdy ability. Other forms of weather, like sun, can be devastating for Pelipper, since its two attacking moves are reliant on rain. Zamazenta-C and <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> like Pelipper's Wide Guard support blocking moves like Astral Barrage and Tera Starstorm, while Urshifu-R appreciates rain boosting its Water-type moves. Pelipper forms a good defensive core with Incineroar, Rillaboom, and Amoonguss, which resist Grass- and Electric-type moves, while Pelipper damages threats like Urshifu-R.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Safety Goggles"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Helping Hand",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wide Guard",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 172,
+              "atk": 0,
+              "def": 4,
+              "spa": 172,
+              "spd": 140,
+              "spe": 20
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 646006,
+            "username": "Choruto"
+          },
+          {
+            "user_id": 651372,
+            "username": "4Kuser"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 641757,
+                "username": "fyfyy"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Pelipper excels in teams capable of taking advantage of Drizzle while also having sufficient defensive options to switch around to regain control of the weather late-game.</li>\n<li><a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>, with its signature move Electro Shot, works exceptionally well in rain, and it provides a defensive backbone to the team thanks to its immense bulk and ability, capable of switching into threats such as <a href=\"/dex/sv/pokemon/tyranitar/vgc/\" hreflang=\"en\">Tyranitar</a>'s Rock Slide and <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a>'s Population Bomb. It quickly becomes an offensive threat once it starts stacking up Electro Shot boosts in rain.</li>\n<li><a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>'s ability Swift Swim makes it desirable on rain teams both as an early-game powerhouse with its fast rain-boosted Wave Crash and as a late-game sweeper with Last Respects. Its immense Speed and power help it form a well-rounded balanced core with Archaludon and Pelipper, taking on threats such as <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, while Pelipper threatens the Grass-types that resists Wave Crash like <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> with Hurricane.</li>\n<li>Pelipper struggles against opposing weather setters like Tyranitar, which not only tanks Pelipper's STAB moves in sand but also breaks its Focus Sash with sand chip damage and KOs it with Rock Slide. Archaludon takes advantage of Pelipper's rain to fire off Electro Shots as well as completely walling Pelipper's STAB attacks. Amoonguss is an excellent disruptive option, taking advantage of its bulk to survive attacks like Knock Off from Tyranitar and Draco Meteor from Archaludon and put the aforementioned threats to sleep with Spore. Basculegion-M is a great check against Tyranitar as well, outspeeding and OHKOing it with Wave Crash.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>As a rain setter, Pelipper is often used to enable Archaludon snowball with Electro Shots while handling threats like Amoonguss with Hurricane. Speed control with Tailwind is desirable due to Archaludon's slow Speed, and it helps tremendously against balance archetypes.</li>\n<li>Pelipper is often lead with Basculegion-M or Archaludon to immediately take advantage of rain, provided the opposing team lacks a method to change the weather. A more flexible approach would be to lead the weather-reliant Pokemon like Archaludon and prepare Pelipper as a switch-in to swiftly take control of the game with a well-timed weather change. It is pivotal to keep Pelipper intact for late-game weather control, as lack of such could potentially end up severely weakening the board and result in a loss of momentum.</li>\n<li>Rivaling weather setters like Tyranitar and <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a> threaten Pelipper's rain. It's advisable to preserve Pelipper and switch it in to thwart Aurora Veil setups from Alolan Ninetales, while Archaludon or Basculegion-M should take out Tyranitar first. Opposing Archaludon can end up being a powerful threat due to being capable of walling Pelipper while taking advantage of its rain. The ideal option here would be to use Amoonguss to force it to Terastallize into a Grass-type, and then have Pelipper deal a massive amount of damage to it with Hurricane.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Weather Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Pelipper functions as a weather setter thanks to Drizzle, enabling powerhouses like <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a> to dish out enormous damage as well as providing support in the form of speed control or Wide Guard. Its Flying- and Water-type STAB options combined with its decent Speed help Pelipper to fill in the role of an attacker as well, taking advantage of its own rain to buff its offensive options.</li>\n<li>Weather Ball is a flexible attack that gains a STAB boost in rain while providing decent coverage under opposing weather like sun. Tailwind provides speed control for the team, whereas Wide Guard protects the team from <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>'s Make it Rain, <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a>'s Hyper Voice, Expanding Force in Psychic Terrain, and <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a>'s Earthquake.</li>\n<li>Focus Sash allows Pelipper to survive an attack due to the set's frailty, increasing its long-term value as a weather setter and allowing it to get an extra attack off.</li>\n<li>Tera Stellar further boosts its damage, allowing Pelipper to OHKO <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a> with Hurricane and Tera Normal Ursaluna-B and Assault Vest <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> with rain-boosted Weather Ball. Meanwhile, Tera Ghost provides an immunity to Fake Out, enabling an early Tailwind uninterrupted while keeping Focus Sash intact.</li>\n<li>A maximized Special Attack stat with a Modest nature secures an OHKO on Incineroar with rain-boosted Weather Ball and on Amoonguss with Tera Stellar Hurricane, while a Timid nature can be opted for faster speed control and securing KOs on weakened Pokemon, and it comes in handy in rain mirror matches.</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Stellar",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              },
+              {
+                "move": "Wide Guard",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 239881,
+            "username": "Mr.GX"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Eject Button",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Steam Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 8,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Steam Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Outspeeds non-Booster Energy <a href=\"/dex/sv/pokemon/iron-bundle/partners-in-crime/\" hreflang=\"en\">Iron Bundle</a> under Tailwind.</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Eject Button",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 100,
+              "spe": 156
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 4 onwards</p>\n<p><strong>Price Range</strong>: 9-10 points</p>\n<p><strong>Overview</strong>: Pelipper is the best rain setter in the format and the premier choice for rain-centric drafts, thanks to Drizzle greatly benefitting teammates such as <a href=\"/dex/sv/pokemon/barraskewda/draft/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/archaludon/draft/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/basculegion/draft/\" hreflang=\"en\">Basculegion</a>. Better physical bulk, U-turn, and reliable recovery set it apart from the other automatic rain setter, <a href=\"/dex/sv/pokemon/politoed/draft/\" hreflang=\"en\">Politoed</a>. However, Pelipper is not without flaws; it's weak to Stealth Rock but wants Damp Rock to extend rain turns. Its quadruple weakness to Electric is also highlighted, since even physical attackers can KO it with Thunder. Furthermore, given the nature of Draft, rain teams can struggle against opposing preparation. Pelipper is usually only drafted on full rain teams with other Pokemon able to exploit rain to its fullest.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Rain Setter</strong>: With Drizzle and Damp Rock, Pelipper can support its team with rain, using its decent physical bulk to pivot in teammates and deal respectable damage.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Hydro Pump, Weather Ball, Surf, Chilling Water, Hurricane</p>\n<p><strong>Utility Moves</strong>: U-turn, Knock Off, Roost, Icy Wind</p>\n<p><strong>Coverage</strong>: Ice Beam</p>\n<h3>Niche Moves</h3>\n<p><strong>Tailwind</strong>: Tailwind can be used to make a slower, bulkier teammate faster and much more threatening.</p>\n<p><strong>Rain Dance</strong>: Rain Dance can be used as a countermeasure against opposing weather teams, particularly sun teams with <a href=\"/dex/sv/pokemon/torkoal/draft/\" hreflang=\"en\">Torkoal</a>.</p>\n<h3>Common Items</h3>\n<p><strong>Damp Rock</strong>: Damp Rock is Pelipper's most viable item and enables a rain-centric draft to benefit from more rain turns.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots fixes Pelipper's weakness to Stealth Rock, helping it stay around for longer and thus giving it more opportunities to set rain. This also enables it to showcase its physical bulk more.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Specs</strong>: Under rain, Pelipper can hit fairly hard if it invests in Special Attack, and Choice Specs helps it lean more into its powerful STAB attacks.</p>\n<h3>Tera</h3>\n<p>Pelipper should not usually be considered for your Tera Captain. It is generally recommended to make a Pokemon that exploits its rain a Tera Captain instead. However, if you do choose to make it a Tera Captain, Tera Ground and Grass are great options to rid Pelipper of its Rock and Electric weaknesses.</p>\n<h3>Draft Strategy</h3>\n<p>Drafting Pelipper indicates that you are drafting a rain team, so the Pokemon you draft should naturally be good in rain. You also need to account for Pelipper's poor special bulk and weaknesses to Rock and Electric.</p>\n<p><strong>Swift Swim Users</strong>: Swift Swim is the most obvious way to take advantage of rain against opposing offensive drafts. There are multiple great options for Swift Swim users; the <a href=\"/dex/sv/pokemon/basculegion/draft/\" hreflang=\"en\">Basculegion</a> formes and <a href=\"/dex/sv/pokemon/barraskewda/draft/\" hreflang=\"en\">Barraskewda</a> are great picks, while there are also cheaper options like <a href=\"/dex/sv/pokemon/floatzel/draft/\" hreflang=\"en\">Floatzel</a> and <a href=\"/dex/sv/pokemon/ludicolo/draft/\" hreflang=\"en\">Ludicolo</a>.</p>\n<p><strong>Strong Water-type Wallbreakers</strong>: When combined with the boost to Water-type attacks in rain, strong wallbreakers like <a href=\"/dex/sv/pokemon/keldeo/draft/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> become very difficult to wall.</p>\n<p><strong>Other Rain Exploiters</strong>: To bring type diversity to your draft, other, non Water-type Pokemon are appreciated. Electric-types that can spam Thunder, such as <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/raikou/draft/\" hreflang=\"en\">Raikou</a>, and <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, are appreciated. Flying-types that can use Hurricane, such as <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/iron-jugulis/draft/\" hreflang=\"en\">Iron Jugulis</a>, are also great picks. Pokemon weak to Fire, like <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a>, also greatly appreciate the rain Pelipper provides. <a href=\"/dex/sv/pokemon/archaludon/draft/\" hreflang=\"en\">Archaludon</a> is an absolute must when drafting rain, as it handles foes of all the types that rain traditionally struggles with while having great damage output thanks to Electro Shot.</p>\n<p><strong>Electric-resistant Pokemon</strong>: Pelipper is 4x-weak to Electric, and most Water-types found on rain drafts share this weakness. Therefore, having Pokemon that can deal with Electric-types is a must. <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> is immune to Electric and also brings a variety of utility moves to the table, including Rapid Spin as an emergency entry hazard removal option. <a href=\"/dex/sv/pokemon/thundurus-therian/draft/\" hreflang=\"en\">Thundurus-T</a> and <a href=\"/dex/sv/pokemon/kilowattrel/draft/\" hreflang=\"en\">Kilowattrel</a> are both powerhouses in rain that are immune to Electric by virtue of their abilities.</p>\n<p><strong>Entry Hazard Control</strong>: Rain teams usually aim to win quickly, but having entry hazard removal available is great because it means Pelipper can set rain more times. <a href=\"/dex/sv/pokemon/tentacruel/draft/\" hreflang=\"en\">Tentacruel</a>, Iron Treads, and <a href=\"/dex/sv/pokemon/cyclizar/draft/\" hreflang=\"en\">Cyclizar</a> are options for Rapid Spin support, while <a href=\"/dex/sv/pokemon/noivern/draft/\" hreflang=\"en\">Noivern</a> and Scizor can be Defoggers.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Opposing Weather</strong>: Other weather setters, like <a href=\"/dex/sv/pokemon/tyranitar/draft/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/draft/\" hreflang=\"en\">Alolan Ninetales</a>, are bad matchups for Pelipper, as it cannot do its job and provide rain for the team as effectively. Most Pokemon, including but not limited to Tornadus-T, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/whimsicott/draft/\" hreflang=\"en\">Whimsicott</a>, can also prepare for the matchup by carrying a weather-setting move like Sunny Day. Torkoal in particular can sometimes be tricky to play around, as it is slower than Pelipper and hence sets sun when both Pokemon lead. Additionally, it can use Stealth Rock to limit Pelipper's switch opportunities, and its Grass-type teammates with Chlorophyll beat the Water-types on Pelipper's team.</p>\n<p><strong>Stealth Rock</strong>: If Stealth Rock goes up and stays up, Pelipper is forced to choose between Heavy-Duty Boots for longevity or Damp Rock for maximum turns, which can make the matchup more difficult.</p>\n<p><strong>Electric-types</strong>: All Electric-types can threaten OHKOs on the 4x-weak Pelipper.</p>\n<p><strong>Special Attackers</strong>: Pelipper has poor special bulk and as a result is vulnerable to being KOed by strong special attackers, such as <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/walking-wake/draft/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 586482,
+            "username": "BoingK"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Pelipper is the only viable rain setter in Ubers UU due to its decent bulk, a great Water / Flying typing that allows it to switch into Ground-type moves, and its decent movepool. U-turn allows Pelipper to safely pivot into <a href=\"/dex/sv/pokemon/palkia-origin/ubers-uu/\" hreflang=\"en\">Palkia-O</a> against threats like <a href=\"/dex/sv/pokemon/baxcalibur/ubers-uu/\" hreflang=\"en\">Baxcalibur</a>. A Surf boosted by rain and a never-missing Hurricane allow Pelipper to have some offensive presence. Tera Ground grants Pelipper an immunity to Electric and resistance to Rock, its only two weaknesses. It also turns Pelipper's Stealth Rock weakness into a resistance. Pelipper's 0 Speed IVs are designed to make its U-turn as slow as possible so its pivoting is as safe as possible. Valuable teammates that benefit from Pelipper are rain wallbreakers, such as Palkia-O, <a href=\"/dex/sv/pokemon/palafin/ubers-uu/\" hreflang=\"en\">Palafin</a>, and <a href=\"/dex/sv/pokemon/barraskewda/ubers-uu/\" hreflang=\"en\">Barraskewda</a>. The fact that Damp Rock is a mandatory item on Pelipper means it can't run Heavy-Duty Boots to ignore any entry hazards, which means that Pelipper would appreciate hazard removal from a teammate like <a href=\"/dex/sv/pokemon/corviknight/ubers-uu/\" hreflang=\"en\">Corviknight</a> or <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a>. Pelipper also appreciates having Ground-types like <a href=\"/dex/sv/pokemon/landorus/ubers-uu/\" hreflang=\"en\">Landorus</a> or <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a>, which can switch into Electric-type moves that Pelipper fears greatly.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Damp Rock"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 8,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 650155,
+            "username": "OceanicGamer"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 610920,
+                "username": "vesp"
+              },
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Slow Drizzle Pivot (HP, SpD)",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Damp Rock"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to Drizzle, Pelipper establishes itself as rain teams' dedicated weather setter and the archetype's most important supporting piece. Scald punishes threats like <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/roaring-moon/national-dex/\" hreflang=\"en\">Roaring Moon</a> for using Pelipper as setup fodder as well as <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> for switching in to replace the weather. Additionally, it cripples walls that can be very hard for rain teams to break through like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>. U-turn makes Pelipper an effective pivot; in conjunction with minimum Speed investment, it can comfortably take hits from foes and safely bring in teammates like <a href=\"/dex/sv/pokemon/swampert-mega/national-dex/\" hreflang=\"en\">Mega Swampert</a> and <a href=\"/dex/sv/pokemon/archaludon/national-dex/\" hreflang=\"en\">Archaludon</a> afterwards. More specifically, being as slow as possible allows Pelipper to underspeed <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a> as well as Speed tie with Alomomola, potentially preventing it from gaining momentum. Not only does Roost allow Pelipper to keep itself healthy so that it can repeatedly set up rain throughout the game in the face of Stealth Rock, Roost also lets Pelipper switch into and check foes like <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a> more consistently. Pelipper can run Defog to act as the team's entry hazard remover, especially due to its positive matchup against the tier's common hazard setters such as Great Tusk, <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>. However, if the team has another form of hazard removal, Pelipper can opt to run Hurricane instead; on top of synergizing well with Drizzle, the move allows Pelipper to immediately threaten Zamazenta and, more importantly, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, which is a tough matchup for rain. Knock Off is a niche option to cripple walls like Toxapex, Ferrothorn, and Alomomola, allowing Pelipper's offensive teammates to overwhelm them more easily.</p>\n<p>Pelipper is exclusively found on rain teams and is essentially required for the archetype. Mega Swampert is Pelipper's best friend, as the rain makes it stronger and enables its Swift Swim, allowing it to outspeed the entire unboosted metagame. Its Electric immunity is also valuable, providing rain teams, especially Pelipper itself, a stopgap against the likes of <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>. Similarly, the team's own Raging Bolt and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> are great teammates, and they threaten bulky Water-types like Alomomola, Toxapex, and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, which Pelipper draws in and pivots on. Pelipper's rain allows them to take advantage of Thunder as well as Hurricane and run Water-type Weather Ball to deal with their Ground-type checks like Gliscor and Ting-Lu more easily. Defensively, Raging Bolt helps check Ogerpon-W and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, the latter of which can remove Pelipper's rain, while Zapdos takes on Zamazenta and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a> for rain teams. Other wallbreakers in rain include offensive Water-types like Urshifu-R and <a href=\"/dex/sv/pokemon/barraskewda/national-dex/\" hreflang=\"en\">Barraskewda</a> as well as Archaludon; Urshifu-R gives rain teams a way to threaten Ferrothorn and <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, Barraskewda is an even faster Swift Swim user than Mega Swampert, and Archaludon can make use of Electro Shot to accumulate boosts and snowball games while providing defensive value in checking threats like Ogerpon-W and Zapdos. Other Steel-types, like <a href=\"/dex/sv/pokemon/iron-treads/national-dex/\" hreflang=\"en\">Iron Treads</a> and Ferrothorn, that focus more on utility are also valuable, as they take advantage of the weather to do better against Pokemon with Fire-type coverage like <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> and <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>. On top of that, both of them in particular are sturdy checks to Tapu Koko and Raging Bolt, and Iron Treads also provides hazard removal with Rapid Spin, mitigating Pelipper's Stealth Rock weakness and even letting it forgo Defog. In return, Pelipper is great at checking Ground- and Fighting-types that would threaten the aforementioned Steel-types and Raging Bolt out like Zamazenta, Urshifu-R, Great Tusk, and Landorus-T. <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a> can take advantage of the weather for a fully accurate STAB move, be a check to <a href=\"/dex/sv/pokemon/kartana/national-dex/\" hreflang=\"en\">Kartana</a> and—if holding an Assault Vest—<a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, and become the team's hazard removal instead if necessary.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Damp Rock"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 493260,
+            "username": "Marnie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 658067,
+                "username": "ElectraineHeart"
+              },
+              {
+                "user_id": 591294,
+                "username": "Lightniong"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Setter (Water)",
+          "pokemon": "Pelipper",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Pelipper is one of Water's most valuable Pokemon thanks to its ability to set up rain to activate Swift Swim for its teammates and its various utility options. Hurricane under rain is able to consistently hit Grass- and Fighting-types like <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>. Alternatively, Scald punishes switch-ins like <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a> with a potential bur, and it also targets <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>. U-turn in tandem with its low Speed allows Pelipper to bring in its teammates safely. With 9 Speed IVs, Pelipper underspeeds Hippowdon, guaranteeing it sets up rain after Hippowdon's sand. <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>, <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a>, and <a href=\"/dex/sv/pokemon/kingdra/national-dex-monotype/\" hreflang=\"en\">Kingdra</a> appreciate Pelipper's rain, as it activates their Swift Swim to outspeed and threaten <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, <a href=\"/dex/sv/pokemon/raichu-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Raichu</a>, and <a href=\"/dex/sv/pokemon/latias-mega/national-dex-monotype/\" hreflang=\"en\">Mega Latias</a>, respectively. Ogerpon-W is another beneficiary of rain, as it further boosts the power of Ivy Cudgel. Notably, Ivy Cudgel now outright OHKOes <a href=\"/dex/sv/pokemon/thundurus-therian/national-dex-monotype/\" hreflang=\"en\">Thundurus-T</a>, has a high chance of OHKOing <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> after Stealth Rock damage, and guarantees a 2HKO on <a href=\"/dex/sv/pokemon/weezing-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Weezing</a> when unboosted. <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex-monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a> can deal with <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a> and bulky Steel-types such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, and <a href=\"/dex/sv/pokemon/empoleon/national-dex-monotype/\" hreflang=\"en\">Empoleon</a>. <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> sets up Toxic Spikes or spreads poison directly with Toxic to aid Pelipper's teammates; it is also great in the Fairy matchup, handling the likes of <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a>, <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-monotype/\" hreflang=\"en\">Tapu Fini</a>, and <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a>.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              },
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 9
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Air Cutter",
+    "Air Slash",
+    "Aqua Ring",
+    "Blizzard",
+    "Body Slam",
+    "Brave Bird",
+    "Chilling Water",
+    "Dual Wingbeat",
+    "Endure",
+    "Facade",
+    "Feather Dance",
+    "Fling",
+    "Fly",
+    "Giga Impact",
+    "Growl",
+    "Gunk Shot",
+    "Gust",
+    "Helping Hand",
+    "Hurricane",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Knock Off",
+    "Liquidation",
+    "Mist",
+    "Muddy Water",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Rest",
+    "Roost",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Snowscape",
+    "Soak",
+    "Spit Up",
+    "Stockpile",
+    "Substitute",
+    "Supersonic",
+    "Surf",
+    "Swallow",
+    "Swift",
+    "Tailwind",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Twister",
+    "U-turn",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Weather Ball",
+    "Whirlpool",
+    "Wide Guard",
+    "Wing Attack"
+  ]
+}

@@ -1,0 +1,1834 @@
+{
+  "name": "Hoopa-Unbound",
+  "alias": "hoopa-unbound",
+  "types": [
+    "Psychic",
+    "Dark"
+  ],
+  "stats": [
+    80,
+    160,
+    60,
+    170,
+    130,
+    80
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hoopa-U takes advantage of its staggering mixed attacking stats, coverage options, and STAB Knock Off and Psychic Noise to become a solid stallbreaker in the metagame. Simultaneously, the Assault Vest and physical bulk investment slightly improve its matchup against offensive teams, capable of trading hits decently well; in particular, Assault Vest magnifies Hoopa-U's natural special bulk to soft check common threats like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Knock Off can remove valuable items like Heavy-Duty Boots and Leftovers from foes like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, while Psychic Noise can shut down the recovery of <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, with an even wider range of Pokemon falling victim to both moves, including common defensive staples like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. Psychic Noise has the added benefit of stopping <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>'s Draining Kiss, letting Hoopa-U potentially win the one-on-one. Aside from providing Hoopa-U with decent longevity, Drain Punch reliably hits Dark-types like Ting-Lu, Darkrai, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> as well as common Tera Dark users like Clodsire, which can attempt to heal in the face of Hoopa-U's Psychic Noise. Thunderbolt immediately nails physically defensive Water- and Flying-types like Alomomola, Dondozo, Moltres, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. On top of working well with Tera Poison, Gunk Shot is another option to threaten common Fairy-types and Tera Fairy users like Primarina, Hatterene, Clefable, Raging Bolt, and Gholdengo while netting the OHKO against <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>; the poison chance is also handy against foes like Ting-Lu. The Special Attack EVs allow Hoopa-U to OHKO <a href=\"/dex/sv/pokemon/keldeo/ou/\" hreflang=\"en\">Keldeo</a> with Psychic Noise, with the remaining Defense EVs letting it reach benchmarks such as surviving Ogerpon-W's Power Whip after Stealth Rock, +1 Tera Normal <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed after Stealth Rock, and +1 Speed Booster Energy <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>'s Headlong Rush. If not running Gunk Shot, then a spread of 252 HP / 156 Def / 100 SpA can be used instead, running enough Special Attack to OHKO <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> with Thunderbolt. Tera Fairy provides a generally valuable defensive typing against the metagame's Dragon- and Dark-types like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Raging Bolt, Kyurem, and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, while Tera Poison flips its Fairy weakness from foes like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Enamorus, and Primarina. Both Tera types provide a crucial U-turn resistance against pivots like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, Dragapult, <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> as well as letting it stomach otherwise fearsome Fighting-type attacks from <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and physical Iron Valiant.</p>\n<p>Hoopa-U works well on balance and bulky offense teams that appreciate its role compression as a strong stallbreaker and special tank. Defensive pivots like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, Alomomola, Corviknight, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, and Moltres are necessary teammates; aside from bringing Hoopa-U into the field safely, they can deal with and switch into troublesome offensive threats that can overrun Hoopa-U, such as Enamorus, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and Weavile. Moreover, Moltres, Zapdos, and Corviknight can punish otherwise no-drawback U-turns aimed at Hoopa-U from foes like Rillaboom, Landorus-T, and Ogerpon-W with Flame Body, Static, and Rocky Helmet, while Alomomola provides crucial Wish support for Hoopa-U. The aforementioned Corviknight as well as other entry hazard control options like Great Tusk and Cinderace also keep Hoopa-U healthy by removing troublesome hazards. The team's own entry hazards from setters like Garganacl, Gliscor, and Clefable are similarly important, as they take advantage of the switches that Hoopa-U forces and further exacerbates its ability to suffocate defensive teams, especially because it makes Heavy-Duty Boots users like Alomomola and Moltres vulnerable to them with Knock Off. Landorus-T is a phenomenal partner on bulky offense teams that similarly covers all of the aforementioned traits; it brings Hoopa-U in safely via U-turn, sets Stealth Rock, and switches into physical attackers like Great Tusk, Cinderace, and opposing Landorus-T. Other wallbreakers like Gholdengo and Raging Bolt can further pressure the opposition together with Hoopa-U, with Gholdengo also capable of defensively covering for its weaknesses against Iron Valiant. Hoopa-U works well with late-game cleaners like Zamazenta that appreciate its positive matchup against bulky teams that they tend to struggle with; in particular, Hoopa-U's ability to either threaten or overwhelm the likes of Dondozo, Moltres, and Clefable makes it take over games more easily. Furthermore, it also complements Hoopa-U by excelling against offensive teams that Hoopa-U has a harder time keeping up with, either offensively threatening or defensively handling foes like Kingambit and Weavile. Other offensive threats like Dragapult are great teammates too, with it in particular capable of bringing Hoopa-U on the field safely via U-turn and crippling foes like Kingambit with status to improve Hoopa-U's matchup against them.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 180,
+              "spa": 76,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Quiet"
+          ]
+        },
+        {
+          "name": "Trick Room",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Eject Pack",
+            "Psychic Seed"
+          ],
+          "teratypes": [
+            "Psychic"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 180,
+              "spa": 76,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 493260,
+            "username": "Marnie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 633798,
+                "username": "kd458"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Dark (Choice Specs)</h4>\n<p>A Timid nature allows Hoopa-U to outspeed Rash <a href=\"/dex/sv/pokemon/kommo-o/monotype/\" hreflang=\"en\">Kommo-o</a> and Timid <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, which it can OHKO with Psychic and Focus Blast. It also enables Hoopa-U to punish common base 80 Speed Pokemon that are running an Attack-boosting nature like Adamant <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>.</p>\n<h4>Dark (Choice Scarf)</h4>\n<p>Gunk Shot is great for threatening Fairy- and Grass-types like <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes. Focus Blast is another option to OHKO <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, but its low accuracy is unappealing. Destiny Bond is a weird catch-all move that notably lets you trade with the Ogerpon formes, but it is very unreliable.</p>\n<h4>Psychic (Assault Vest)</h4>\n<p>Expanding Force can be used over Psychic and Psychic Noise if Hoopa-U is being paired with <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a>. Gunk Shot can enable Hoopa-U to easily remove Hatterene and Primarina without any issues; however, its shaky accuracy and lack of use cases outside of hitting slow Fairy-types aren't ideal.</p>",
+      "movesets": [
+        {
+          "name": "Choice Specs (Dark)",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hoopa-U is an unparalleled wallbreaker in the metagame, 2HKOing even the bulkiest walls like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a> with Dark Pulse, and its coverage also packs a punch to beat its would-be checks. Psychic OHKOes Fighting- and Poison-type Pokemon such as defensive <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. Psyshock can help break past Calm Mind users such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> as well as physically defensive Quiver Dance <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> if it tries to switch in, Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. Thunderbolt OHKOes physically defensive <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> if the latter tries to switch in while also having a chance to OHKO Corviknight after Stealth Rock. Focus Blast can 2HKO Dark-types like <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/scrafty/monotype/\" hreflang=\"en\">Scrafty</a>, and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> that can otherwise stomach all of Hoopa-U's attacks while also being able to 2HKO <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. 8 Special Defense EVs allow Hoopa-U to always tank Choice Scarf Flutter Mane's Moonblast from full HP.</p>\n<p>Choice Specs Hoopa-U should be safely brought into battle via U-turn from Mandibuzz or <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. Mandibuzz switches into physical threats such as Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, easily healing with Roost and walling them. It also provides a ton of utility for Hoopa-U, being able to clear entry hazards with Defog. On the other hand, Choice Scarf Meowscarada can safely bring in Hoopa-U with U-turn by forcing switches into physical walls that Hoopa-U can break. It can also handle faster threats such as Choice Specs Flutter Mane, <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, and Urshifu-R, which otherwise OHKO Hoopa-U. Ting-Lu sets Stealth Rock, allowing Hoopa-U to OHKO Pokemon such as Corviknight and Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, while easily tanking special attacks. In particular, it can take Moonblast from Choice Scarf Flutter Mane and OHKO back with Heavy Slam. Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> can take care of threats such as non-Choice Scarf variants of <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> with Extrasensory, Ogerpon-H and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> with Sludge Wave, and <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> with Surf. It can also help Hoopa-U pressure Flying and Dragon teams with Ice Beam. Choice Scarf Greninja can offensively check faster threats, including <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and common Choice Scarf users like <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and Great Tusk. The Spikes that Hisuian Samurott's Ceaseless Edge sets help Hoopa-U force progress throughout the game. Additionally, Hisuian Samurott can break past Pokemon such as Hisuian Goodra and Alolan Muk that can give it trouble while also helping Hoopa-U apply pressure and win late-game scenarios against Ghost and Dragon teams.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 248,
+              "spd": 8,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Assault Vest (Psychic)",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Assault Vest Hoopa-U serves as a great defensive and offensive piece for Psychic teams, easily handling the likes of <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> for its teammates. Psychic is Hoopa-U's strongest offensive option, handling threats like <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>. Alternatively, Psychic Noise, while a drop in power, enables Hoopa-U to greatly impede the likes of <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and Calm Mind <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> by denying them access to Draining Kiss. Knock Off threatens opposing Ghost- and Psychic-types like Gholdengo, <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, along with hindering checks to Hoopa-U and its teammates reliant on their held items such as Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>. Focus Blast rips through Steel- and Dark-types like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>. Drain Punch can also be used over Focus Blast to better handle <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Finally, Thunderbolt shocks Flying- and Water-types such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a>. The given EV spread allows Hoopa-U to outspeed Modest <a href=\"/dex/sv/pokemon/magnezone/monotype/\" hreflang=\"en\">Magnezone</a> while only having a minor chance of being 2HKOed by Choice Scarf Flutter Mane's Moonblast after a layer of Spikes.</p>\n<p>With its low physical bulk and less-than-stellar Speed, Hoopa-U is greatly reliant on teammates such as Hatterene and Slowbro to come in and check foes like <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> while providing speed control through Nuzzle and Thunder Wave, respectively, allowing Hoopa-U to outspeed threats such as <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a> and opposing Hoopa-U. Hatterene checks Dark-types like Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> for Hoopa-U, along with preventing status and entry hazards from foes such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> with Magic Bounce. Slowbro, meanwhile, can assist against Fire- and Water-types like <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and use Body Press to help break through Dark-types like <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> if using a Colbur Berry or go itemless to handle <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> and physical Hisuian Zoroark. <a href=\"/dex/sv/pokemon/metagross/monotype/\" hreflang=\"en\">Metagross</a> provides Stealth Rock for Hoopa-U, wearing down checks such as <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and Tornadus-T and using Bullet Punch to pick off faster targets like <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and Flutter Mane. Choice Specs Latios provides a nice Ground immunity through Levitate, enabling it to help ward off <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and Gliscor while also using options such as Draco Meteor to cleanly remove the likes of Kyurem and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Choice Scarf <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> can check Ghost-types like Ceruledge and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> due to its Normal typing, along with using Healing Wish to keep Hoopa-U healthy in a pinch. Indeedee-M also sets Psychic Terrain with its ability Psychic Surge, preventing Hoopa-U from being picked off by Aqua Jet <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>. Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> provides incredible speed control, handling faster threats like <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, Kleavor, and Meowscarada for Hoopa-U while greatly appreciating Hoopa-U removing physical walls like Skarmory.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 168,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Gentle"
+          ]
+        },
+        {
+          "name": "Assault Vest (Dark)",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hoopa-U, when paired with an Assault Vest, can leverage its incredible Special Defense, enabling it to come in on threats like <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and proceed to cause immense havoc with its incredible base attacking stats. Psychic and Psyshock handle Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> for Hoopa-U's teammates; Psychic OHKOes <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a>, while Psyshock removes <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> after Stealth Rock. Knock Off cripples special walls attempting to come in such as <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, making it much easier for Hoopa-U and teammates like <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> to wear them down. Focus Blast slams Steel- and Dark-types like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, Heatran, and <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>. Finally, Thunderbolt handles Water- and Flying-types such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. The given EV spread allows Hoopa-U to outspeed Modest <a href=\"/dex/sv/pokemon/magnezone/monotype/\" hreflang=\"en\">Magnezone</a> while only having a minor chance of being 2HKOed by Choice Scarf Flutter Mane's Moonblast after a layer of Spikes.</p>\n<p>Hoopa-U greatly appreciates support from <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a> to make up for its poor Defense, with it checking threats like Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, along with pivoting Hoopa-U in safely with U-turn. <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> can provide entry hazard support that helps to wear down would-be switch-ins like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, and its Ground typing makes it great at checking <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. Choice Band <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> is a strong wallbreaker able to check Ground- and Water-types such as Ting-Lu, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> with Flower Trick while also using Triple Axel to handily check <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Choice Scarf Greninja greatly enjoys Hoopa-U breaking down special walls like <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and Assault Vest Gallade and in return can outspeed and check threats such as Choice Scarf <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes, <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> with options like Ice Beam and Sludge Wave. Hisuian Samurott and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> can provide speed control with Sucker Punch picking off faster targets like physical <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and Choice Specs Flutter Mane. Hisuian Samurott can also set Spikes with Ceaseless Edge and use Sacred Sword to check <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> comfortably, while Bisharp can handle Fairy-types like <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/clefable/monotype/\" hreflang=\"en\">Clefable</a>. <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> packs a helpful Fighting immunity, enabling it to safely come in on the likes of <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/lilligant-hisui/monotype/\" hreflang=\"en\">Hisuian Lilligant</a> and hinder them with Will-O-Wisp. Sableye can also use Encore to trap walls like Articuno and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> into their recovery options, allowing Hoopa-U to get onto the field safely.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 168,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Gentle"
+          ]
+        },
+        {
+          "name": "Choice Band (Psychic)",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hoopa-U is one of Psychic's best physical wallbreakers. Its strong offensive STAB combination coupled with great coverage allows it to muscle through bulky Pokemon such as <a href=\"/dex/sv/pokemon/skeledirge/monotype/\" hreflang=\"en\">Skeledirge</a>, <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>, and with its great special bulk, it can prove useful against Ghost teams. Drain Punch grants Hoopa-U super effective coverage against Dark- and Steel-types such as <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Brick Break can also be run as Hoopa-U's Fighting-type move, as this allows it to remove dual screens set by Fairy- and Dark-type teams. Trick is a great option for Hoopa-U to hinder Pokemon that can take a hit like <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> and <a href=\"/dex/sv/pokemon/klefki/monotype/\" hreflang=\"en\">Klefki</a>, as well as potentially disrupt Pokemon reliant on their items such as <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>. Gunk Shot is another great option, as it allows Hoopa-U to threaten Fairy-types like <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a> and to OHKO <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>. By investing 8 EVs in Special Defense, Hoopa-U can live a Moonblast from Choice Scarf <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>.</p>\n<p><a href=\"/dex/sv/pokemon/azelf/monotype/\" hreflang=\"en\">Azelf</a> and <a href=\"/dex/sv/pokemon/scream-tail/monotype/\" hreflang=\"en\">Scream Tail</a> make for great partners, as they can set up entry hazards for Hoopa-U to be able to wallbreak more easily. Azelf can also run Taunt to prevent Defog users like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> removing its hazards, while Scream Tail can also set up dual screens for both Hoopa-U and its teammates and provide Wish support. Because of Hoopa-U's lack of longevity outside of Wish, it can get easily worn down by hazards. Hence, Hatterene is a great partner, as it is able to provide great hazard control for Psychic teams through Magic Bounce. <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> is another great partner for Hoopa-U, as it provides Hoopa-U a switch-in to Fairy-types and aids Hoopa-U's wallbreaking through Future Sight. Galarian Slowking can also set up Toxic Spikes to annoy Hoopa-U's switch-ins such as Azumarill, and its Poison typing allows it to remove Toxic Spikes to prevent Hoopa-U from getting worn down by poison. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> is another great addition to Psychic teams, as its Normal typing grants it an immunity to Ghost. Aside from this, Indeedee can set up Psychic Terrain to allow Hoopa-U to threaten <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> with Drain Punch without fearing Sucker Punch. Lastly, late-game sweepers such as <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> and <a href=\"/dex/sv/pokemon/armarouge/monotype/\" hreflang=\"en\">Armarouge</a> appreciate Hoopa-U beating their checks such as Azumarill for the former and Galarian Slowking for the latter.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Zen Headbutt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Brick Break",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 248,
+              "def": 0,
+              "spa": 0,
+              "spd": 8,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Psychic)",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Boasting stellar offenses, Choice Scarf Hoopa-U grants Psychic teams a form of speed control as well as a threatening wallbreaker, outspeeding the whole unboosted metagame bar <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a> and <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a>, especially key targets such as Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and Choice Band <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. Hyperspace Fury OHKOes both Flutter Mane and Dragapult and can be used to break through special tanks such as <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a>. Dark Pulse complements it nicely by offering a powerful neutral attack against physically bulky Steel- and Water-types like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. Alternatively, Focus Blast targets Dark-type foes like <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>. Psychic covers Fighting and Fairy matchups, preventing threats like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> from switching in safely. Expanding Force is a viable alternative if the team uses Psychic Terrain, transforming Hoopa-U into a killing machine for the Terrain's duration. The last moveslot aims at targeting specific foes. Thunderbolt deals with <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, while Gunk Shot helps against the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes. 8 Special Defense EVs allow Hoopa-U to always survive a Moonblast from Choice Scarf Flutter Mane from full health.</p>\n<p>Hoopa-U immensely benefits from Galarian Slowking and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>; they can both support Hoopa-U in multiple ways. Galarian Slowking strengthens the wallbreaking potential of Hoopa-U with Future Sight and a slow pivoting option in the form of Chilly Reception. Hatterene can send entry hazards back to the opponent; paralyze the target with Nuzzle; take care of most Dark-types such as <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>; and provide Healing Wish support to Hoopa-U. <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a> helps mitigate Hoopa-U's poor physical bulk by absorbing physical moves, spreading burns with Scald, and effectively hard-countering physical bulky setup sweepers such as <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> with its IronPress combination. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> sets up Psychic Terrain, effectively negating any priority move for the Terrain's duration and massively boosting Hoopa-U's potential with Expanding Force, and has access to Healing Wish in case of need. Lastly, Hoopa-U appreciates other sweeper teammates such as <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/metagross/monotype/\" hreflang=\"en\">Metagross</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> that can weaken defensive cores of types like Fairy, Flying, and Fire to allow a proper Hoopa-U sweep. Latios is especially threatening to Flying teams with access to BoltBeam coverage and a powerful STAB move in Draco Meteor, while Metagross and Iron Boulder can both offer a breaking potential similar to Latios's in Fairy and Fire matchups, respectively, with access to Heavy Slam, Bullet Punch, and Stealth Rock for Metagross and Mighty Cleave on top of naturally outspeeding both Meowscarada and Greninja for Iron Boulder.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 248,
+              "spd": 8,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Hasty"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Dark)",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf Hoopa-U is an amazing option on Dark teams thanks to its great Attack stat. Knock Off allows Hoopa-U to not only remove items from foes like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> but also takes out threats like Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Drain Punch deals with Dark-, Normal-, Steel-, and Ice-types like <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, while Psychic cleans up Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a>, <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, mixed attacker <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and Choice Specs <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>. Thunderbolt is a great coverage move, handling Flying- and Water-types like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a>. Trick can be run over Thunderbolt to Choice-lock foes like Calm Mind <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>; however, without Thunderbolt Hoopa-U cannot reliably deal with Skarmory, which can then wall it. The given EV spread allows Hoopa-U to survive a Moonblast from Choice Scarf Flutter Mane and retaliate back with Knock Off. Its special bulk is also notable, allowing it to trade blows with the likes of Iron Valiant.</p>\n<p>Alolan Muk is a great special wall, easing the Fairy matchup thanks to its Poison typing while dealing with Primarina and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> with Poison Jab. Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> deals with Water-, Ground- and Fighting-types like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a>, and Choice Scarf Iron Valiant with Flower Trick and Play Rough. Choice Specs Greninja covers a lot of matchups thanks to Protean, notably taking out the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, Hatterene, and the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes with Sludge Wave and Ice Beam. <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> provides a Fighting immunity while also weakening physical threats like <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> with Will-O-Wisp. Sableye can also use Encore on setup sweepers like <a href=\"/dex/sv/pokemon/zamazenta/monotype/\" hreflang=\"en\">Zamazenta</a> and spread paralysis with Thunder Wave so Hoopa-U can outspeed faster threats. <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a> provides entry hazard removal for Hoopa-U with Defog and slow pivoting with U-turn. Mandibuzz also checks Swords Dance sweepers like <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> with Foul Play. It's also worth mentioning that Mandibuzz provides a Ground immunity, which allows it to come in on Choice Scarf Great Tusk's Headlong Rush for Hoopa-U. Ting-Lu is a great wall that can lay down hazards with Stealth Rock and Spikes, which chip down threats like Iron Valiant and Zamazenta. Ting-Lu also handles Steel-types like non-Air Balloon <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and Hisuian Goodra with Earthquake and phazes setup sweepers like Swords Dance <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and Dragon Dance <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> with Whirlwind. <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> also sets hazards with Stealth Rock while taking out Dragon-types like Archaludon with Draco Meteor. In return, Hoopa-U deals with Skarmory, Galarian Weezing, and Iron Valiant for its teammates.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 8,
+              "spe": 248
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Hasty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 305839,
+            "username": "Rio Vidal"
+          },
+          {
+            "user_id": 552160,
+            "username": "Showl"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 637295,
+            "username": "boomp"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 532439,
+                "username": "Bka Onon"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 532439,
+                "username": "Bka Onon"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 531302,
+                "username": "Aether"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 736762,
+                "username": "Ascension Evermore"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 543620,
+                "username": "Vertigo"
+              },
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              },
+              {
+                "user_id": 523866,
+                "username": "UT"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Lumina Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Wrath",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Parting Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Lunar Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Switcheroo",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Hasty"
+          ]
+        },
+        {
+          "name": "Physical Life Orb",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 96,
+              "def": 0,
+              "spa": 0,
+              "spd": 60,
+              "spe": 104
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Psychic Terrain Sweeper",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Room Service"
+          ],
+          "teratypes": [
+            "Psychic"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 216,
+              "def": 0,
+              "spa": 40,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Brave"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 9-11 points</p>\n<p><strong>Overview</strong>: Hoopa-U is a wallbreaker that uses its gargantuan offensive stats and unpredictable coverage options to become an almost impossible Pokemon to switch into. With a respectable Special Defense stat as well, it can serve as a special tank that does not require much investment in its offensive stats to muscle through teams. Hoopa-U's immediate power is most appreciated in bulky offense teams that benefit from a Pokemon that does not require turns to set up. Keeping all of this in mind, however, its slow Speed stat and debilitating weakness to U-turn limits it greatly, resulting in a cheap Pokemon that needs to be craftily built around.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: With vast coverage options and disruptive tools like Trick and Taunt, Hoopa-U serves best as a wallbreaker. Its ability to break walls both physically and specially is unrivaled by any other Pokemon. Its strong offensive STAB combination coupled with fantastic coverage makes it near impossible to switch into, and it has special setup options to muscle past anything that could potentially switch into it. This set typically relies on Choice Scarf, since Hoopa-U's Speed is incredibly average, but in some scenarios, damage-boosting items can be effective.</p>\n<p><strong>Special Wall</strong>: With an Assault Vest, Hoopa-U can sponge multiple special attacks, and with access to Drain Punch, it has a way to recover any health lost back.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Knock Off, Hyperspace Fury, Dark Pulse, Psychic, Psyshock, Zen Headbutt, Psychic Noise</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Trick, Taunt, Thunder Wave, Light Screen, Reflect, Brick Break, Substitute</p>\n<p><strong>Coverage</strong>: Drain Punch, Energy Ball, Fire Punch, Focus Blast, Grass Knot, Gunk Shot, Ice Punch, Rock Tomb, Thunderbolt, Thunder Punch</p>\n<h3>Niche Moves</h3>\n<p><strong>Future Sight</strong>: Hoopa-U is an incredibly strong Future Sight user, which fits well with its role as a wallbreaker.</p>\n<p><strong>Focus Punch</strong>: If the relatively weak Drain Punch and inaccurate Focus Blast are not reliable enough to deal with Dark-types that are not concerned about Hoopa-U's STAB options, it can use Focus Punch by taking advantage of the fact that Pokemon often switch out against it.</p>\n<p><strong>Trick Room</strong>: Hoopa-U's Speed is not fast enough to outspeed most offensive threats. A Trick Room set can be used as a preventative measure from being revenge killed while having multiple turns to get strong attacks off, but it must be aware of slower Pokemon that can then outspeed it.</p>\n<p><strong>Endure</strong>: With a Custap Berry, Hoopa-U can successfully use Endure to get a powerful final attack off.</p>\n<p><strong>Destiny Bond</strong>: Although Hoopa-U is too slow for Destiny Bond to always be effective, it can be used with Custap Berry as a surprise way to trade Pokemon.</p>\n<h3>Common Items</h3>\n<p><strong>Damage-boosting Items</strong>: Although it may not seem like it needs it, Hoopa-U's efficacy is fully realized when it has an item that can boost its damage output. Seeing as it has coverage for practically every type, it arguably takes advantage of Expert Belt more than Life Orb, Choice Band, and Choice Specs, but all of them are viable.</p>\n<p><strong>Choice Scarf</strong>: Hoopa-U's Speed lets it outspeed most unboosted Pokemon with a Choice Scarf and serve as a niche revenge killer, and with Trick, it can give the Choice Scarf away to walls in order to benefit it and its teammates.</p>\n<p><strong>Assault Vest</strong>: Hoopa-U's special bulk is naturally good enough that it can safely tank a hit or two, but with an Assault Vest, it becomes something opponents has to seriously consider, especially if it is a Tera Captain and can shed its mediocre typing.</p>\n<h3>Niche Items</h3>\n<p><strong>Eject Pack</strong>: Using Hyperspace Fury to lower its own Defense stat and get a free switch with Eject Pack, Hoopa-U can further enable its teammates while also freeing up its item slot to potentially steal an enemy's item with Magician.</p>\n<p><strong>Heavy-Duty Boots</strong>: In matchups where Hoopa-U is expected to hit the field multiple times or tank multiple hits, Heavy-Duty Boots ensures it does not take excess damage from entry hazards.</p>\n<p><strong>Custap Berry</strong>: Used in Endure sets, or even without it if properly played around, Custap Berry can allow for Hoopa-U to deliver a final attack while also having the potential to steal the foe's item with Magician afterwards, since the Custap Berry will have been eaten.</p>\n<p><strong>Light Clay</strong>: Hoopa-U typically likes attacking more often than not, but a Light Clay with dual screens can be used to enable both its teammates and itself to tank more hits.</p>\n<h3>Tera</h3>\n<p>Hoopa-U has an incredibly mediocre defensive typing, and being a secondary Tera Captain gives it the option to fix this. It is a great mid-tier option that can use Tera types like Tera Poison to strengthen its Gunk Shot while turning both of its weaknesses, including its major weakness to Bug, into resistances. Tera Fairy with Tera Blast gives it a more powerful option than its Fighting-type coverage against most Dark-types while also getting rid of that pesky Bug-type weakness, ensuring it does not have to worry about being free U-turn food. Tera Dark and Psychic can boost its STAB moves as well, with Tera Dark deserving a special shoutout for enabling a much more spammable Hyperspace Fury.</p>\n<h3>Draft Strategy</h3>\n<p>While Hoopa-U theoretically fits in a large variety of draft compositions, bulky offense is usually able to support it best, giving enough tools to it so that it does not need to be the sole damage dealer on a team. Its weaknesses are easily exploitable, and as a result, all of them need to be patched up in order to effectively use it.</p>\n<p><strong>Defensive Pivots</strong>: Hoopa-U greatly appreciates Pokemon that can switch into U-turn without losing too much momentum such as <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>.</p>\n<p><strong>Slow Pivots</strong>: Slower Pokemon that can get Hoopa-U on the battlefield safely, like <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/empoleon/draft/\" hreflang=\"en\">Empoleon</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, are important in making sure Hoopa-U is able to safely get attacks off. Pokemon that can punish U-turn with contact effects, like <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and Rocky Helmet users, are a bonus.</p>\n<p><strong>Setup Sweepers</strong>: Pokemon like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/salamence/draft/\" hreflang=\"en\">Salamence</a>, and <a href=\"/dex/sv/pokemon/annihilape/draft/\" hreflang=\"en\">Annihilape</a> that do not necessarily have as much of an immediate field presence as Hoopa-U appreciate it softening up the field for them.</p>\n<p><strong>Speed Control</strong>: Hoopa-U's middling Speed means that it needs a couple of fast Pokemon such as <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a> and <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a> to serve as revenge killers, and other speed control options like Thunder Wave <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> and Glare <a href=\"/dex/sv/pokemon/serperior/draft/\" hreflang=\"en\">Serperior</a> can also make its job much easier. Sticky Web users such as <a href=\"/dex/sv/pokemon/vikavolt/draft/\" hreflang=\"en\">Vikavolt</a> and <a href=\"/dex/sv/pokemon/ribombee/draft/\" hreflang=\"en\">Ribombee</a> are useful supplementary speed control options that may force opponents to slightly shift their attention away from Hoopa-U.</p>\n<h3>Checks and Counters</h3>\n<p><strong>U-turn</strong>: If it is not a Tera Captain, Hoopa-U's one true archenemy is U-turn, since foes can deal huge damage to it while maintaining positive momentum. It constantly has to be wary of being knocked out by stray U-turn users like <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, and Sneasler.</p>\n<p><strong>Faster Physical Threats</strong>: Physical attackers that naturally outspeed Hoopa-U, such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, and <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a>, have no problem taking advantage of its feeble physical defense to get a KO on it.</p>\n<p><strong>Fairy-types</strong>: Although they have to fear Hoopa-U's Gunk Shot, Fairy-types like <a href=\"/dex/sv/pokemon/clefable/draft/\" hreflang=\"en\">Clefable</a>, Iron Valiant, and <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a> can still switch into its Dark-type STAB moves and threaten it back, especially if it is Choice-locked.</p>\n<p><strong>Dark-types</strong>: Dark-types like <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> are not concerned with either of Hoopa-U's STAB options and can threaten it back, but they have to be wary of its Fighting-type coverage options.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 313217,
+            "username": "Thanos"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Mixed Life Orb (HP, Def, Spe)",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Hasty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Hyperspace Fury targets Psychic-types like <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a> and <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a> as well as Ghost-types such as <a href=\"/dex/sv/pokemon/skeledirge/1v1/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>.</li>\n<li>Gunk Shot deals with Fairy-types such as non-Kebia Berry <a href=\"/dex/sv/pokemon/azumarill/1v1/\" hreflang=\"en\">Azumarill</a>, non-Custap Berry <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a>.</li>\n<li>Hoopa-U's last two moveslots are highly customizable. Zen Headbutt can handle Poison-types like <a href=\"/dex/sv/pokemon/okidogi/1v1/\" hreflang=\"en\">Okidogi</a>. Drain Punch allows Hoopa-U to beat <a href=\"/dex/sv/pokemon/darkrai/1v1/\" hreflang=\"en\">Darkrai</a>. Fire Punch beats non-Occa Berry <a href=\"/dex/sv/pokemon/scizor/1v1/\" hreflang=\"en\">Scizor</a>, while Ice Punch is for non-Weakness Policy <a href=\"/dex/sv/pokemon/moltres-galar/1v1/\" hreflang=\"en\">Galarian Moltres</a> as well as <a href=\"/dex/sv/pokemon/landorus/1v1/\" hreflang=\"en\">Landorus</a>; however, it should be noted that both Landorus formes can run U-turn to beat Hoopa-U.</li>\n<li>Hoopa-U's HP and Special Defense EVs are to survive a Timid Choice Scarf <a href=\"/dex/sv/pokemon/porygon-z/1v1/\" hreflang=\"en\">Porygon-Z</a>'s Hyper Beam, with the rest put in Attack and Speed.</li>\n<li>Hoopa-U can utilize an alternative EV spread of 240 HP / 252 Def / 16 Spe with an Impish nature to survive strong physical attacks from <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a> while also outspeeding Adamant <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a> and <a href=\"/dex/sv/pokemon/iron-hands/1v1/\" hreflang=\"en\">Iron Hands</a>.</li>\n<li>Hoopa-U struggles against Fairy- and Bug-type foes such as <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a>, so Fire-type teammates such as Skeledirge and <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a> are appreciated. Fast Choice Band Hoopa-U also struggles against faster physical attackers such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> and Meowscarada; therefore, physical walls as partners like Pecharunt are helpful.</li>\n</ul>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Zen Headbutt",
+                "type": null
+              },
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 48,
+              "atk": 192,
+              "def": 0,
+              "spa": 0,
+              "spd": 16,
+              "spe": 252
+            },
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Impish"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Psychic Noise is used over Psychic, as it allows Hoopa-U to defeat <a href=\"/dex/sv/pokemon/serperior/1v1/\" hreflang=\"en\">Serperior</a>.</li>\n<li>Dark Pulse should be used against non-Disable <a href=\"/dex/sv/pokemon/spectrier/1v1/\" hreflang=\"en\">Spectrier</a> and <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a>.</li>\n<li>Thunderbolt allows Hoopa-U to beat <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>.</li>\n<li>Grass Knot is for <a href=\"/dex/sv/pokemon/rhyperior/1v1/\" hreflang=\"en\">Rhyperior</a>, while Focus Blast is strong into <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a>.</li>\n<li>Choice Specs Hoopa-U can use 52 HP EVs to survive Leaf Storm twice from non-Special Attack-invested Serperior. Additionally, 252 Speed EVs without a boosting nature allow Hoopa-U to outspeed Corviknight while also having the best odds against opposing Choice Specs Hoopa-U. The rest of the EVs and a Modest nature allow for maximum damage output.</li>\n<li>Choice Specs Hoopa-U can also use an EV spread of 228 HP / 252 Def / 12 SpA / 16 Spe to survive Giga Impact from Assault Vest <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a> while outspeeding Adamant <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a>. The remaining EVs and a Modest nature allow for the best damage output while running this spread.</li>\n</ul>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 52,
+              "atk": 0,
+              "def": 0,
+              "spa": 204,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 252,
+              "spa": 12,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Hyperspace Fury should be used against <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a>, <a href=\"/dex/sv/pokemon/dragapult/1v1/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/serperior/1v1/\" hreflang=\"en\">Serperior</a>, and <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>.</li>\n<li>Gunk Shot is for non-defensive <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a>.</li>\n<li>Focus Blast is for <a href=\"/dex/sv/pokemon/chien-pao/1v1/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/porygon-z/1v1/\" hreflang=\"en\">Porygon-Z</a>.</li>\n<li>Thunderbolt is for non-Maranga Berry <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>, while Rock Tomb is for non-bulky <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a>.</li>\n<li>The HP and Special Defense EVs let Hoopa-U survive Timid Choice Scarf Porygon-Z's Hyper Beam. Maximum Speed EVs and a Jolly nature allow Hoopa-U to outspeed Modest Choice Scarf Porygon-Z and Dragapult and Speed tie opposing Choice Scarf Hoopa-U. The remaining EVs are in Attack.</li>\n<li>Hoopa-U should use the strongest move it has in most cases. Other cases include trying to outplay a potential Custap Berry foe like Custap Berry Porygon-Z, picking a more accurate move in case two moves can KO, and using Hyperspace Fury to bypass Substitute and Protect.</li>\n</ul>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 48,
+              "atk": 192,
+              "def": 0,
+              "spa": 0,
+              "spd": 16,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Assault Vest Hoopa-U is a strong check to powerful special attackers like <a href=\"/dex/sv/pokemon/porygon-z/1v1/\" hreflang=\"en\">Porygon-Z</a> and <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a>.</li>\n<li>Psychic Noise deals strong damage to Fighting-types like <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a>, as well as threatening victories against Pokemon that make use of their recovery to win battles, such as stall <a href=\"/dex/sv/pokemon/azumarill/1v1/\" hreflang=\"en\">Azumarill</a> and <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>.</li>\n<li>Knock Off allows Hoopa-U to damage other Psychic-types like <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a> and <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a> while removing important items like Custap Berry from <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a> and Life Orb from Porygon-Z that could otherwise threaten Hoopa-U's ability to win the matchup.</li>\n<li>Gunk Shot threatens KOs against Fairy-type Pokemon like <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a> and Sylveon.</li>\n<li>Drain Punch is used to defeat various Pokemon that Hoopa-U may want to recover HP from, such as non-Chople Berry <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a> and Porygon-Z.</li>\n<li>The HP and Special Defense EVs are used to bulk +2 Life Orb Porygon-Z's Hyper Beam after Knock Off, and the Speed EVs outspeed neutral-natured maximum investment base 50 speed Pokemon like <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a>. The rest of the EVs are dumped into Attack.</li>\n<li>This set aims to act as a blanket check to many special attackers in the tier, such as Primarina and Porygon-Z. However, Assault Vest Hoopa-U may lack the immediate fire power to deal enough damage to Pokemon like <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a> or have enough Speed to defeat other Pokemon like faster Hoopa-U.</li>\n</ul>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 48,
+              "def": 0,
+              "spa": 0,
+              "spd": 196,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Custap Berry",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Psychic hits Poison-types like <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a> and Fighting-types like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/1v1/\" hreflang=\"en\">Urshifu-R</a>, while Hyperspace Fury hits foes like <a href=\"/dex/sv/pokemon/dragapult/1v1/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/skeledirge/1v1/\" hreflang=\"en\">Skeledirge</a>.</li>\n<li>Hyperspace Fury is useful because it ignores Spiky Shield from <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> and Protect from other Custap Berry Pokemon.</li>\n<li>Gunk Shot helps against Grass-types like Leech Seed Ogerpon-W and <a href=\"/dex/sv/pokemon/whimsicott/1v1/\" hreflang=\"en\">Whimsicott</a>. It can also reliably hit Dark-types like <a href=\"/dex/sv/pokemon/darkrai/1v1/\" hreflang=\"en\">Darkrai</a>.</li>\n<li>The HP and Defense investment helps Hoopa-U survive a Play Rough from Ogerpon-W, and the Speed EVs let it outspeed <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a>, but be careful because it has a chance to OHKO Hoopa-U with Earthquake. The remaining EVs are in Attack for maximum damage.</li>\n<li>Against SubSeed Ogerpon-W, always use Gunk Shot until it is in range of Hyperspace Fury.</li>\n<li>Pair Hoopa-U with something that can win against bulky Steel-types like <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/registeel/1v1/\" hreflang=\"en\">Registeel</a> because Hyperspace Fury doesn't do enough damage, and they can KO it in return or use Iron Defense. Some good Pokemon for role that are Smack Down <a href=\"/dex/sv/pokemon/landorus/1v1/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/1v1/\" hreflang=\"en\">Ursaluna-B</a>, and <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a>.</li>\n</ul>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Custap Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Endure",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 48,
+              "atk": 196,
+              "def": 248,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naughty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 149971,
+            "username": "Nuxl"
+          },
+          {
+            "user_id": 493772,
+            "username": "bellchime"
+          },
+          {
+            "user_id": 555423,
+            "username": "Akeras"
+          },
+          {
+            "user_id": 620268,
+            "username": "skip"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 493772,
+                "username": "bellchime"
+              },
+              {
+                "user_id": 517652,
+                "username": "DripLegend"
+              },
+              {
+                "user_id": 520168,
+                "username": "Murm"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 316445,
+                "username": "lost heros"
+              },
+              {
+                "user_id": 493772,
+                "username": "bellchime"
+              },
+              {
+                "user_id": 520168,
+                "username": "Murm"
+              },
+              {
+                "user_id": 563650,
+                "username": "bern"
+              },
+              {
+                "user_id": 579035,
+                "username": "glitched"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 569291,
+                "username": "zinnias"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hoopa-U finds itself a niche as a powerful wallbreaker that leverages its STAB moves and coverage to decimate defensive Pokemon like <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>. Hyperspace Fury is a spammable option with Choice Band that ensures Pokemon like Alomomola and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> cannot scout safely, as it bypasses Protect, leaving them unable to properly check Hoopa-U. Drain Punch targets foes like <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> while increasing Hoopa-U's longevity. Gunk Shot eviscerates <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/tapu-fini/national-dex/\" hreflang=\"en\">Tapu Fini</a>, which would otherwise check Hoopa-U. Knock Off is another option that can remove key items from foes like <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>. Hoopa-U can run an Adamant nature to get guaranteed OHKOs on Toxapex with Zen Headbutt and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a> with Hyperspace Fury. However, this means it gets outsped by foes like defensive Landorus-T, offensive Heatran, and Timid <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>.</p>\n<p>Hoopa-U is used on bulky offense and balance teams, as they value its ability to pressure common defensive cores including Pokemon such as Gliscor, Toxapex, and Heatran. However, Hoopa-U is very frail and provides little defensive value, so it appreciates teammates like Alomomola, Landorus-T, and <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a> that can help it safely pivot into Pokemon it does well against, such as Gholdengo and Gliscor. Hoopa-U is also vulnerable to faster threats with U-turn like Landorus-T and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a>; therefore, it appreciates defensive pieces that can take a hit such and provide slow pivoting such as Corviknight and Alomomola. Hoopa-U also has a very middling Speed tier, leaving it outsped by Pokemon like <a href=\"/dex/sv/pokemon/medicham-mega/national-dex/\" hreflang=\"en\">Mega Medicham</a>, <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>. Therefore, teammates like <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/scizor-mega/national-dex/\" hreflang=\"en\">Mega Scizor</a> are appreciated to help offensively pressure them. In return, Hoopa-U handles <a href=\"/dex/sv/pokemon/pecharunt/national-dex/\" hreflang=\"en\">Pecharunt</a>, Slowbro, and Clefable for them. Hoopa-U is vulnerable to Pursuit trapping from Pokemon like Kingambit and <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> that target its weaker Defense stat; thus, Pokemon that can check them such as <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, Corviknight, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> make for good partners. The latter two also provide crucial entry hazard removal to maintain Hoopa-U's longevity. <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> is another partner that can get Hoopa-U in safely via Chilly Reception and set Future Fight to assist with breaking through bulkier teams while also being a solid check to foes like Iron Valiant and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a>, which force out Hoopa-U.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Zen Headbutt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Hoopa-Unbound",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>252 HP EVs and 56 Special Defense EVs let Hoopa-U live a Never-Ending Nightmare from a boosted <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a> when at full HP, 64 Attack EVs let it OHKO <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> with Drain Punch after Stealth Rock, and 16 Speed EVs let it outspeed Adamant Kingambit.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Hyperspace Fury",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 64,
+              "def": 0,
+              "spa": 120,
+              "spd": 56,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Lonely"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542295,
+            "username": "Blaze"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 674261,
+                "username": "Interlinked"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Ally Switch",
+    "Astonish",
+    "Brick Break",
+    "Calm Mind",
+    "Confusion",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Drain Punch",
+    "Endure",
+    "Energy Ball",
+    "Expanding Force",
+    "Facade",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Foul Play",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Guard Split",
+    "Gunk Shot",
+    "Hyper Beam",
+    "Hyperspace Fury",
+    "Hyperspace Hole",
+    "Ice Punch",
+    "Knock Off",
+    "Lash Out",
+    "Light Screen",
+    "Nasty Plot",
+    "Phantom Force",
+    "Power Split",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Shadow Ball",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trick",
+    "Trick Room",
+    "Wonder Room",
+    "Zen Headbutt"
+  ]
+}

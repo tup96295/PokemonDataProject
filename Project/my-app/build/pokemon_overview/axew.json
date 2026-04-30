@@ -1,0 +1,155 @@
+{
+  "name": "Axew",
+  "alias": "axew",
+  "types": [
+    "Dragon"
+  ],
+  "stats": [
+    46,
+    87,
+    60,
+    30,
+    40,
+    57
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Axew",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Unnerve"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ground",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 220,
+              "def": 116,
+              "spa": 0,
+              "spd": 0,
+              "spe": 140
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Aqua Tail",
+    "Assurance",
+    "Bite",
+    "Breaking Swipe",
+    "Brick Break",
+    "Bulldoze",
+    "Counter",
+    "Crunch",
+    "Dig",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "First Impression",
+    "Fling",
+    "Focus Energy",
+    "Giga Impact",
+    "Guillotine",
+    "Iron Head",
+    "Iron Tail",
+    "Leer",
+    "Night Slash",
+    "Outrage",
+    "Poison Jab",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Rock Tomb",
+    "Scale Shot",
+    "Scary Face",
+    "Scratch",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Snarl",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Trailblaze",
+    "X-Scissor"
+  ]
+}

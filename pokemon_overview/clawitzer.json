@@ -1,0 +1,160 @@
+{
+  "name": "Clawitzer",
+  "alias": "clawitzer",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    71,
+    73,
+    88,
+    120,
+    89,
+    59
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Clawitzer",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Mega Launcher"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Flash Cannon",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aqua Jet",
+    "Aqua Tail",
+    "Aura Sphere",
+    "Blizzard",
+    "Body Slam",
+    "Bounce",
+    "Bubble Beam",
+    "Chilling Water",
+    "Crabhammer",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Endure",
+    "Entrainment",
+    "Facade",
+    "Flail",
+    "Flash Cannon",
+    "Flip Turn",
+    "Focus Blast",
+    "Giga Impact",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hone Claws",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Liquidation",
+    "Muddy Water",
+    "Mud Shot",
+    "Mud-Slap",
+    "Pounce",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Scary Face",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smack Down",
+    "Splash",
+    "Substitute",
+    "Surf",
+    "Swords Dance",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "U-turn",
+    "Venoshock",
+    "Vice Grip",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Weather Ball"
+  ]
+}

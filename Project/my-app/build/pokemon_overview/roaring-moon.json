@@ -1,0 +1,2398 @@
+{
+  "name": "Roaring Moon",
+  "alias": "roaring-moon",
+  "types": [
+    "Dragon",
+    "Dark"
+  ],
+  "stats": [
+    105,
+    139,
+    71,
+    55,
+    101,
+    119
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>With Dragon Dance and Acrobatics, Roaring Moon is a strong sweeper on offensive teams, with coverage to beat almost all Pokemon.</li>\n<li>Tera Flying allows Roaring Moon to set up on <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a> and Body Press <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> and boosts Acrobatics's power to achieve feats such as OHKOing <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> after two Dragon Dances and entry hazard or slight chip damage.</li>\n<li>Crunch is more reliable, having a chance to drop Defense with no potential drawback, while Jaw Lock has the potential to give Roaring Moon a free chance to set up when paired with Roost, assuming a favorable target is trapped. If an unfavorable target is trapped, however, it has a major downside, making it less consistent.</li>\n<li>Roost gives Roaring Moon more opportunities to use Dragon Dance, turning weaker Pokemon like Brave Bird Corviknight and Whirpool <a href=\"/dex/sv/pokemon/alomomola/uber/\" hreflang=\"en\">Alomomola</a> into setup fodder.</li>\n<li>Earthquake hits <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/garganacl/uber/\" hreflang=\"en\">Garganacl</a>, and <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a>, which can otherwise survive hits and wear down Roaring Moon.</li>\n<li>Taunt stops defensive Pokemon like Haze Toxapex, Will-O-Wisp <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a>, and Whirlwind Ting-Lu from dealing with Roaring Moon, making it devastating against bulkier teams if positioned right.</li>\n<li>Hyper offense leads such as <a href=\"/dex/sv/pokemon/glimmora/uber/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/froslass/uber/\" hreflang=\"en\">Froslass</a>, and <a href=\"/dex/sv/pokemon/grimmsnarl/uber/\" hreflang=\"en\">Grimmsnarl</a> all give Roaring Moon good support to break through a team more easily.</li>\n<li>Choice Scarf Great Tusk, Tera Fire <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>, and Tera Fairy <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a> can all be used to bait <a href=\"/dex/sv/pokemon/chien-pao/uber/\" hreflang=\"en\">Chien-Pao</a> and take it out, helping Roaring Moon greatly, as it is one of the most reliable revenge killers that can be used against it.</li>\n<li>On bulkier teams, Roaring Moon requires teammates that can switch into Ice-type moves from Chien-Pao and <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>, making Toxapex and specially defensive Corviknight great partners. The latter can also pivot with U-turn, giving Roaring Moon more chances to set up on defensive Pokemon.</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              },
+              {
+                "move": "Jaw Lock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Full Moon (Choice Band)",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Earthquake lets Roaring Moon break past Pokemon that would otherwise check it, like <a href=\"/dex/sv/pokemon/garganacl/uber/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a>, and especially <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a>.</li>\n<li>Iron Head lets Roaring Moon hit Fairy-types like <a href=\"/dex/sv/pokemon/iron-valiant/uber/\" hreflang=\"en\">Iron Valiant</a> and Tera Fairy Garganacl and <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a> super effectively.</li>\n<li>U-turn lets Roaring Moon generate offensive momentum for its team and is especially useful against targets Roaring Moon scares out, like Skeledirge without Tera Fairy and <a href=\"/dex/sv/pokemon/gholdengo/uber/\" hreflang=\"en\">Gholdengo</a>.</li>\n<li>The given EVs and a Jolly nature ensure Roaring Moon's Speed is boosted in sunlight, letting it get the jump on crucial threats like unboosted non-Choice Scarf <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a> and threaten them with its STAB Dragon Claw. The remaining 36 Special Defense EVs improve Roaring Moon's chances to survive <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>'s Ice Beam after Stealth Rock while giving it a chance to survive Overheat in sun from Modest Choice Specs <a href=\"/dex/sv/pokemon/chi-yu/uber/\" hreflang=\"en\">Chi-Yu</a>.</li>\n<li>Tera Dark strengthens Roaring Moon's Crunch to the point where it always 2HKOs physically defensive <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> and always 3HKOs <a href=\"/dex/sv/pokemon/dondozo/uber/\" hreflang=\"en\">Dondozo</a> while easing predictions with Earthquake against Garganacl.</li>\n<li>Tera Steel lets Roaring Moon resist otherwise super effective Ice-, Fairy-, and Dragon-type attacks from the likes of Iron Bundle, <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a>, Koraidon, and Miraidon. Tera Steel also powers up Roaring Moon's Iron Head.</li>\n<li>Tera Fairy allows Roaring Moon to resist Fighting-type attacks while becoming immune to Dragon-type attacks, letting it defeat Koraidon and Iron Valiant, both of which outspeed and threaten to OHKO Roaring Moon otherwise.</li>\n<li>Roaring Moon loves the support of Koraidon, as it activates Roaring Moon's Protosynthesis via Orichalcum Pulse and reliably threatens Pokemon such as Koraidon, Miraidon, and Ice-types like <a href=\"/dex/sv/pokemon/chien-pao/uber/\" hreflang=\"en\">Chien-Pao</a> and Iron Bundle. In return, Roaring Moon threatens non-Terastallized Skeledirge.</li>\n<li>Koraidon and Roaring Moon both struggle with defensive <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a>, so they can team up with Iron Bundle and Chien-Pao, which threaten all Great Tusk sets. Iron Bundle and Chien-Pao also threaten Koraidon and Miraidon, with Iron Bundle naturally outspeeding non-Choice Scarf variants and Chien-Pao threatening them with priority Ice Shard.</li>\n<li>Defensive Great Tusk and <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> also work well with Roaring Moon, as they can set up entry hazards for Roaring Moon's team and check Koraidon and Miraidon, respectively. Great Tusk in particular can use Rapid Spin, giving Roaring Moon more opportunities to switch in, while Ting-Lu can phaze threatening boosters like <a href=\"/dex/sv/pokemon/espathra/uber/\" hreflang=\"en\">Espathra</a> with Whirlwind and set up Spikes.</li>\n<li>Specially defensive Corviknight can check Flutter Mane and Iron Bundle, both of which outspeed and threaten Roaring Moon, and can Defog hazards away, giving Roaring Moon more opportunities to switch in.</li>\n<li>Roaring Moon can easily pivot into Chi-Yu, which takes advantage of the sun set by Koraidon and threatens walls like Great Tusk, Corviknight, Ting-Lu, and Terastallized Skeledirge.</li>\n<li>Gholdengo also makes for a decent partner, as not only does it have perfect defensive synergy with Roaring Moon, but it can also reliably block all common forms of hazard removal. This allows Roaring Moon’s team to keep up hazards, in particular Spikes, for it to eventually break down walls.</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Dark",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Claw",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 220,
+              "def": 0,
+              "spa": 0,
+              "spd": 36,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 511624,
+            "username": "Fc"
+          },
+          {
+            "user_id": 597293,
+            "username": "oreo guy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 273339,
+                "username": "Lasen"
+              },
+              {
+                "user_id": 249382,
+                "username": "Aberforth"
+              },
+              {
+                "user_id": 507268,
+                "username": "ox04"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 430518,
+                "username": "Lunaflare"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>A set with Dragon Dance, Jaw Lock, Taunt, and Roost, in tandem with Shed Shell and an alternate EV spread of 112 HP / 116 Atk / 96 Def / 184 Spe can also be used as more of a niche setup sweeper option. Jaw Lock is able to trap bulky Pokemon on switching in, such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, and then Roaring Moon can afflict them with Taunt in order to prevent them from using Haze or Toxic to stop it, thus making them ideal targets to set up on. Shed Shell is used because Jaw Lock traps the user as well, allowing Roaring Moon to freely switch out if it traps an unideal target. The given alternate EV spread allows Roaring Moon to outspeed <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and Choice Scarf <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> at +1 while also allowing it to beat Gliscor one-on-one. Iron Head can also be used over Roost and Taunt in order to defeat Pokemon that can easily deal with Knock Off and Earthquake such as <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>.</p>",
+      "movesets": [
+        {
+          "name": "Choice Scarf (Dragon)",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf allows Roaring Moon to outspeed and defeat threatening foes to Dragon-type teams such as Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Knock Off aids Roaring Moon in removing items from Pokemon that can reliably switch into it such as Heavy-Duty Boots from <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and Leftovers from <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> while also obliterating <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> as well as a prominent threat in Flutter Mane. Iron Head allows Roaring Moon to combat Fairy-type Pokemon that are able to switch into both of its STAB moves such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>. U-turn allows Roaring Moon to retain momentum in battles by pivoting out of common switch-ins such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, and the aforementioned Corviknight.</p>\n<p>Choice Specs <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> forms a great offensive core with Roaring Moon, as it can reliably take out Pokemon that switch into Roaring Moon easily, such as the aforementioned Steel- and Ground-type physical walls in Skarmory, Corviknight, Great Tusk, and Hippowdon. In return, Roaring Moon grants Kyurem safe entry against passive Pokemon with U-turn while also taking out faster Fairy-type threats such as Flutter Mane and Iron Valiant. <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> is a great defensive teammate for Roaring Moon, as it is able to sponge physical attacks from <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, while Roaring Moon is able to take out threatening special attackers that can take advantage of Archaludon like Gholdengo. Archaludon also provides entry hazard support in Stealth Rock while also threatening <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> and Meowscarada with Body Press. <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> is another offensive teammate capable of spreading status in Will-O-Wisp, neutering threats such as offensive Great Tusk and <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, which alleviates pressure on Roaring Moon's breaking capabilities. <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> is another defensive teammate that pairs well with Roaring Moon, as it can readily take special Ice- and Fairy-type attacks from speedier threats like Choice Scarf Greninja and Choice Scarf Flutter Mane while also being able to phaze setup sweepers such as Dragon Dance Dragapult with Dragon Tail.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Dragon Dance (Dark)",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Dragon Dance, Roaring Moon becomes an oppressive sweeper capable of taking on many threatening Pokemon at +1 such as Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and non-Choice Scarf <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>. Knock Off is Roaring Moon's strongest STAB move, which also helps remove items like Leftovers and Heavy-Duty Boots from their holders, such as <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, respectively, which allows Roaring Moon to muscle past and sweep them more easily. Earthquake allows Roaring Moon to hit defensive foes that can otherwise wall it even at +1, such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a>. Roost allows Roaring Moon to retain HP and set up further if needed, while Taunt can be used to stop foes such as <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a> and Toxapex from neutering Roaring Moon with status moves, such as Toxic and Haze.</p>\n<p><a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> also pairs nicely with Roaring Moon, as it is able to provide support in its colorful access to entry hazards, which aid in Roaring Moon's sweeping capabilities, while also being able to stomach Fairy-type attacks from Iron Valiant and the aforementioned Flutter Mane and hit them back with Heavy Slam. <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a>, in tandem with Knock Off and Will-O-Wisp, is able to help make progress against bulky Pokemon that generally shrug off Roaring Moon's attacks such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and Corviknight while also providing an invaluable Fighting immunity. Additionally, Prankster paired with Encore allows Sableye to deny setup sweepers such as Iron Defense + Body Press <a href=\"/dex/sv/pokemon/zamazenta/monotype/\" hreflang=\"en\">Zamazenta</a> and Dragon Dance <a href=\"/dex/sv/pokemon/gouging-fire/monotype/\" hreflang=\"en\">Gouging Fire</a>. Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> is able to outspeed the likes of <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and Choice Scarf <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and OHKO them with Knock Off to alleviate pressure on Roaring Moon. Choice Specs Greninja, with its plethora of coverage options, aids the Fighting-, Dragon-, Ground-, and Flying-type matchups, which Roaring Moon can struggle with immensely on its own. Mandibuzz is another defensive option that pairs well with Roaring Moon, as it is the only consistent hazard removal that Dark teams have access to, which prevents Roaring Moon from getting chipped down over time while also providing pivoting through U-turn to allow Roaring Moon's safe entry if need be. <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> can be paired with Roaring Moon to help deal with strong Fairy-types such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> and Choice Specs Iron Valiant. <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> is a necessary teammate, as it is able to handle Fairy-types that can neutralize Roaring Moon before a boost such as Flutter Mane and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, while Roaring Moon can deal with Fire-type Pokemon that threaten Bisharp such as non-Air Balloon <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and unboosted Gouging Fire. Lastly, <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a> can help weaken Ground-type foes that can wall Roaring Moon such as <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> while also revenge killing <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> and Meowscarada with Ice Shard, thus giving Roaring Moon more room to set up.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 510532,
+            "username": "hex"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 510430,
+                "username": "Arase"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Tailwind",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Booster Energy activates Roaring Moon's Protosynthesis ability, boosting its already high Speed stat and allowing it to outpace the entire metagame under neutral conditions, as well as many slower Pokemon like <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a>, and Modest <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a> even under opposing Tailwind. Roaring Moon leverages this Speed advantage to become a potent support option, setting Tailwind for its team as well as providing utility with options like Knock Off, Breaking Swipe, and Taunt. Roaring Moon is a bulkier Tailwind option that fits better on slower-paced Tailwind teams, as opposed to more hyper offensive team compositions that often opt to use <a href=\"/dex/sv/pokemon/tornadus/doubles/\" hreflang=\"en\">Tornadus</a> instead.</p>\n</li>\n<li>\n<p>Tailwind allows Roaring Moon to support strong attacking partners like <a href=\"/dex/sv/pokemon/landorus/doubles/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/glimmora/doubles/\" hreflang=\"en\">Glimmora</a>, and Gholdengo by letting them outspeed opposing targets they normally would not. Alternatively, Tailwind allows Roaring Moon's team to keep pace with opposing Tailwind teams.</p>\n</li>\n<li>\n<p>Breaking Swipe allows Roaring Moon to mitigate the damage of foes either before or after setting Tailwind. Breaking Swipe from such a fast Pokemon serves as a major obstacle to common physically attacking Pokemon like <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/ogerpon/doubles/\" hreflang=\"en\">Ogerpon</a>, Iron Hands, <a href=\"/dex/sv/pokemon/gouging-fire/doubles/\" hreflang=\"en\">Gouging Fire</a>, and <a href=\"/dex/sv/pokemon/okidogi/doubles/\" hreflang=\"en\">Okidogi</a>. While this helps Roaring Moon's teammates, it directly enables Roaring Moon to live powerful super effective attacks from these Pokemon as well. Acrobatics is an alternative move choice often used in combination with Tera Flying in order to threaten an OHKO on the Ogerpon formes as well as dealing strong neutral damage into most of the metagame. However, running Acrobatics comes at the cost of dropping Breaking Swipe and weakening Roaring Moon's longevity and value as a support piece.</p>\n</li>\n<li>\n<p>Knock Off, a powerful STAB move that comes off of Roaring Moon's high base Attack, serves as the primary damage-dealing option on Roaring Moon, capable of threatening massive damage on super effective targets like Gholdengo and <a href=\"/dex/sv/pokemon/sinistcha/doubles/\" hreflang=\"en\">Sinistcha</a>, as well as frail neutral targets like Tornadus. More importantly, Knock Off allows Roaring Moon to remove items from opposing targets, which is extremely situationally powerful. Knock Off can remove Assault Vests from Pokemon like Iron Hands, Rillaboom, and Okidogi, opening them up to being more easily knocked out from special attacking partners, and healing items like Leftovers and Sitrus Berry from boosting sweepers like <a href=\"/dex/sv/pokemon/raging-bolt/doubles/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/moltres-galar/doubles/\" hreflang=\"en\">Galarian Moltres</a>. In this way, Roaring Moon can provide extreme value even into Pokemon it can't sizeably damage on its own, enabling its partners to better do the work instead. Further, Knock Off can remove held items like Covert Cloak and Clear Amulet that normally prevent Breaking Swipe's Attack drops, allowing Breaking Swipe to get past this counterplay. Knock Off provides progress into most board positions, allowing Roaring Moon to still exert some form of pressure to basically any Pokemon even after setting Tailwind.</p>\n</li>\n<li>\n<p>Protect is most commonly run as the last move on Roaring Moon, a powerful defensive option that often enables Roaring Moon to survive long enough to set Tailwind a second time. Protect, already a great move in doubles, is particularly strong on a Pokemon like Roaring Moon, as it allows Roaring Moon to position more easily and increases its ability to actually set up Tailwind. However, Roaring Moon can dedicate this moveslot to Taunt, a disruptive tool that affords Roaring Moon a better matchup into Trick Room teams and prevents opposing setup sweepers from boosting out of control. Taunt is particularly strong on Roaring Moon thanks to its high Speed, which allows it to Taunt basically anything in the tier, besides Gholdengo and opposing Prankster Pokemon like Tornadus, before they move. Unlike Prankster Tornadus, it is able to Taunt Dark-types. While running Taunt does give up the defensive benefits of Protect, Taunt allows Roaring Moon to have better matchups into teams that are better prepared for the more standard set and helps patch up these matchups.</p>\n</li>\n<li>\n<p>Tera Ghost allows Roaring Moon to become immune to Fighting-type attacks as well as Fake Out. This is very strong defensively, as it keeps none of Roaring Moon's original weaknesses and gives Roaring Moon the option to dodge Fake Out on important turns, granting more ways to effectively set Tailwind and swing games in its favor. Tera Fairy provides many of the same defensive benefits as Tera Ghost while not being weak to Dark-type moves like Chien-Pao's Sucker Punch and becoming immune to Dragon-type damage from opposing threats such as <a href=\"/dex/sv/pokemon/regidrago/doubles/\" hreflang=\"en\">Regidrago</a>, a Pokemon that can be troublesome when paired with Tornadus, as well as an immunity to opposing Breaking Swipe users like Gouging Fire and opposing Roaring Moon. However, Tera Fairy gives up the ability to dodge Fake Out and gives Roaring Moon weaknesses to common attacks like Make it Rain from Gholdengo and Sludge Bomb from Landorus. Lastly, Tera Flying is generally reserved for sets running Acrobatics, as it grants a powerful boost to Acrobatics that allows Roaring Moon to pick up OHKOs on the Ogerpon formes. However, Tera Flying is not as great defensively; though it provides a Fighting resistance, it maintains Roaring Moon's Ice weakness.</p>\n</li>\n<li>\n<p>The given EV spread allows Roaring Moon to live common super effective physical hits after a Breaking Swipe, including Chien-Pao's Icicle Crash and Iron Hands's Close Combat, as well as living +0 Attack Iron Hands's Drain Punch, while maximizing its Speed. Generally, Roaring Moon gets more value out of defensive investment rather than Attack investment, as increasing its survivability better enables it to last longer and improve its chance at setting Tailwind more than once, whereas Roaring Moon is generally capable of dealing respectable damage with Knock Off into important targets even with minimal investment.</p>\n</li>\n<li>\n<p>Roaring Moon pairs well with most DOU-relevant Pokemon that like to be played under Tailwind, but in particular, Roaring Moon is commonly paired with special attackers like Landorus, Meteor Beam Glimmora, and Gholdengo that appreciate Tailwind support and the utility of Breaking Swipe and Knock Off, allowing them to more easily get into positions to take over games. Landorus in particular helps against opposing Okidogi and Iron Hands. Setup options like Nasty Plot Gholdengo, Nasty Plot Galarian Moltres, and even Quiver Dance <a href=\"/dex/sv/pokemon/volcarona/doubles/\" hreflang=\"en\">Volcarona</a> can be used effectively with Roaring Moon, as its Breaking Swipe generates many opportunities for them to set up. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/doubles/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/doubles/\" hreflang=\"en\">Ogerpon-H</a> also serve as good partners for Roaring Moon, being able to both support Roaring Moon and its partners with Follow Me support, which ensures in many positions that Tailwind gets set up, as well as their ability to assume a more offensive role after Tailwind is up. Fake Out users like Iron Hands and <a href=\"/dex/sv/pokemon/incineroar/doubles/\" hreflang=\"en\">Incineroar</a> also serve as solid partners for Roaring Moon, strengthening Roaring Moon's matchup into common Ice-type attackers like Chien-Pao and <a href=\"/dex/sv/pokemon/kyurem/doubles/\" hreflang=\"en\">Kyurem</a> that can normally be problematic. <a href=\"/dex/sv/pokemon/diancie/doubles/\" hreflang=\"en\">Diancie</a> also serves as a solid partner for semi-Trick Room compositions, adding a Trick Room component and powerful Rock-type damage that can also strengthen matchups into opposing physical offense teams.</p>\n</li>\n<li>\n<p>Roaring Moon can struggle to make progress into Tera Fairy Pokemon like Calm Mind Raging Bolt. Roaring Moon can also struggle after being forced out, as after it loses its Booster Energy, it becomes much slower and more susceptible to opposing speed control and threats like Chien-Pao. Common threats like Chien-Pao, Okidogi, and Iron Hands can still pose an issue for Roaring Moon in spite of Breaking Swipe. Covert Cloak Okidogi and Clear Amulet Iron Hands can be particularly annoying because they completely ignore Breaking Swipe's Attack drops. Finally, Pokemon like Diancie and <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a> take minimal damage from all of Roaring Moon's common attacks; the former is immune to Breaking Swipe, while the latter thoroughly punishes Breaking Swipe with its Defiant ability.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fairy",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Breaking Swipe",
+                "type": null
+              },
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 152,
+              "atk": 0,
+              "def": 104,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 587701,
+            "username": "eragon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 619632,
+                "username": "Schister"
+              },
+              {
+                "user_id": 553122,
+                "username": "gephicka"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This Pokemon was relevant in Regulation G, but has been banned in the current ruleset, Regulation H. However, Regulation G will be returning in January 2025, where this analysis will be relevant again. Additionally, the sets below have not been updated for Regulation G yet.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Dragon Dance",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With great special bulk, Speed, and Booster Energy juicing up one of its stats, Roaring Moon is a great choice for late-game sweeping!</p>\n</li>\n<li>\n<p><strong>Acrobatics</strong>: When powered-up by Tera Flying and Booster Energy, Acrobatics becomes a very powerful STAB that puts foes like <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a> in their places.</p>\n</li>\n<li>\n<p><strong>Iron Head</strong>: Iron Head is Roaring Moon's best shot of slicing up bulky <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>, and is an especially good fit with Tera Steel.</p>\n</li>\n<li>\n<p><strong>Earthquake</strong>: Earthquake lets Roaring Moon smack <a href=\"/dex/sv/pokemon/incineroar/battle-stadium-singles/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a> hard without resorting to Outrage lock-ins.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Scale Shot and Loaded Dice</strong>: This is an alternative way to give Roaring Moon a Dragon-type STAB and a way to boost its Speed, though it makes it even more vulnerable to priority than usual.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - High</strong>: Roaring Moon's great special bulk is offset by its awkward typing, meaning Terastallization is highly recommended to aid its set up.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Tera Flying has fantastic synergy with Roaring Moon, giving it a vital Fighting resistance and soaring the power of Acrobatics into the stratosphere!</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel's good match-up against Fairy- and Dragon-types makes it a prime choice, with Flutter Mane in particular being a huge target.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is an excellent way to set-up on fearsome Dragon-types such as <a href=\"/dex/sv/pokemon/gouging-fire/battle-stadium-singles/\" hreflang=\"en\">Gouging Fire</a> and Choice Scarf <a href=\"/dex/sv/pokemon/latios/battle-stadium-singles/\" hreflang=\"en\">Latios</a>, and it gives Roaring Moon a vital Fighting-type resistance against otherwise troublesome foes like <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu-S</a>. Speaking of Urshifu-S, Tera Blast with this typing also transforms Roaring Moon into a good check against it.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: With Tera Fire, Roaring Moon gains a useful resistance to Bullet Punch and Fairy-type attacks. The Will-O-Wisp immunity helps too, but the Stealth Rock weakness does makes this a more niche option overall.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>220 Atk / 36 Def / 252 Spe with Jolly</strong>: This spread gives Roaring Moon a Speed boost from Protosynthesis, making it a good revenge killer.</p>\n</li>\n<li>\n<p><strong>4 HP / 252 Atk / 252 Spe with Jolly</strong>: This simple spread makes Protosynthesis boost Attack, perfect for unleashing brutal Acrobatics right off the bat!</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 220,
+              "def": 36,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Attacker",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>It's great Speed and powerful STAB attacks make Roaring Moon a fearsome offensive pivot!</p>\n</li>\n<li>\n<p><strong>Outrage</strong>: Outrage is a risky move, but it excels at cleaning teams in the late game.</p>\n</li>\n<li>\n<p><strong>Iron Head</strong>: Iron Head is good coverage against bulky <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and common Tera Fairy types like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/gouging-fire/battle-stadium-singles/\" hreflang=\"en\">Gouging Fire</a>.</p>\n</li>\n<li>\n<p><strong><a href=\"/dex/sv/pokemon/torkoal/battle-stadium-singles/\" hreflang=\"en\">Torkoal</a> and Sun Teams</strong>: Roaring Moon functions perfectly fine on its own, but it also just so happens to be a fantastic option on Sun teams! If using this archetype, consider Torkoal, who can support Roaring Moon with Stealth Rock to make late-game cleaning even easier.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Choice Scarf</strong>: Choice Scarf gives Roaring Moon the chance to get some shocking revenge kills against threats like <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu-S</a>, though its quite a bit more vulnerable to strong priority attacks compared to popular alternatives like <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a> and Gouging Fire.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: This Roaring Moon goes for immediate all-out strength, so its defensive typing isn't as key as other sets. Still, Roaring Moon's nerve-wracking weakness to Fairy coverage makes Terastallization a good idea.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel gives Roaring Moon a good match-up against Fairy types like Flutter Mane with Iron Head, and the Stealth Rock resistances lets it pivot out with less consequences.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy not only absorbs Dragon-type attacks, but it also massively improves Roaring Moon's match-ups against strong Fighting-types such as Urshifu-S and <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a> via Tera Blast.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire's Stealth Rock weakness is a bit problematic with U-turn, but has great offensive and defensive synergy, letting Roaring Moon take Fairy-type attacks, and crisp foes if using it on a sun team.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric gives a handy Bullet Punch resistances and lets Roaring Moon zap <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a> with Tera Blast.</p>\n</li>\n</ul>\n<h5>Alternate EV Spreads</h5>\n<ul>\n<li><strong>220 Atk / 36 Def / 252 Spe</strong>: This spread gives Roaring Moon a Speed boost from Protosynthesis, which can be useful if running Choice Band on a sun team.</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fire",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Bulky Dragon Dance",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>EV Spread</strong>: This spread allows Roaring Moon to outspeed Jolly <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes, and the ability to avoid a 2HKO from <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a> if Roaring Moon Terastallizes. This spread also gains an Attack boost from Booster Energy. If outspeeding the less common <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a> is important, 244 Speed EVs will be required.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 28,
+              "def": 4,
+              "spa": 0,
+              "spd": 36,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>This exciting new Paradox Pokemon is likely to have an impact on Battle Stadium Singles Series 2! <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Acrobatics",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With Booster Energy juicing up Tera Flying Acrobatics and one of Roaring Moon's stats, it's an excellent choice for late-game sweeping!</p>\n</li>\n<li>\n<p><strong>Earthquake</strong>: Earthquake is Roaring Moon's best shot at beating <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a>.</p>\n</li>\n<li>\n<p><strong>Taunt</strong>: Taunt is the best way around troublesome defensive foes, such as <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a>, and Tera Fairy <a href=\"/dex/sv/pokemon/skeledirge/bss-series-2/\" hreflang=\"en\">Skeledirge</a>.</p>\n</li>\n<li>\n<p><strong>Throat Chop</strong>: Throat Chop is the preferred Dark-type STAB move over Crunch, since it can shut down important sound moves from Skeledirge, <a href=\"/dex/sv/pokemon/volcarona/bss-series-2/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/sylveon/bss-series-2/\" hreflang=\"en\">Sylveon</a>.</p>\n</li>\n<li>\n<p><strong>Roost</strong>: Recovery really allows Roaring Moon to take advantage of its good special bulk, especially if investing in it.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>220 Atk / 36 Def / 252 Spe with Jolly</strong>: This spread gives Roaring Moon a Speed boost from Protosynthesis, making it a good revenge killer.</p>\n</li>\n<li>\n<p><strong>4 HP / 252 Atk / 252 Spe with Jolly</strong>: This simple spread makes Protosynthesis boost Attack, potentially letting Roaring Moon 2HKO Skeledirge with Acrobatics.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 Atk / 20 Def / 204 SpD / 28 Spe with Careful</strong>: This spread takes a slower, bulkier approach to boosting, getting a Special Defense boost from Protosynthesis and outspeeding <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a> after one Dragon Dance. This spread is best used with Roost, and Taunt is also highly recommended to get past Skeledirge.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Throat Chop",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 220,
+              "def": 36,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Careful"
+          ]
+        },
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>While Roaring Moon is most known for using Booster Energy and Acrobatics, other Tera Types and moves can let it defeat a different set of threats and be used earlier in the game.</p>\n</li>\n<li>\n<p><strong>Throat Chop</strong>: Throat Chop shutting down important sound moves such as <a href=\"/dex/sv/pokemon/volcarona/bss-series-2/\" hreflang=\"en\">Volcarona</a>'s Bug Buzz makes it the better option over Crunch.</p>\n</li>\n<li>\n<p><strong>Iron Head</strong>: Iron Head is good at punishing Fairy Terastallization, especially when using Tera Steel Roaring Moon.</p>\n</li>\n<li>\n<p><strong>Roost</strong>: Even with the offensive nature of this set, Roost is good against Choice locked foes.</p>\n</li>\n<li>\n<p><strong>Scale Shot</strong>: While lowering Roaring Moon's Defense makes it even more vulnerable to priority, the Speed boost can lead to some surprising sweeps when picking off foes. It also has a shot of OHKOing offensive <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a> through Multiscale.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li><strong>Outrage</strong>: This is by far Roaring Moon's strongest attack, though being locked in can easily lead to counter play via Terastallization and Fairy-types.</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Steel</strong>: Tera Steel's good matchup against Fairy- and Dragon-types makes it a prime candidate.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: With Tera Fire, Roaring Moon gains a useful resistance to Bullet Punch and cooks <a href=\"/dex/sv/pokemon/scizor/bss-series-2/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/tinkaton/bss-series-2/\" hreflang=\"en\">Tinkaton</a>, and <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a> with Tera Blast.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is an excellent answer to faster Dragon-types such <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a> and Choice Scarf <a href=\"/dex/sv/pokemon/garchomp/bss-series-2/\" hreflang=\"en\">Garchomp</a> and gives Roaring Moon a vital Fighting-type resistance against otherwise troublesome foes like <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-hands/bss-series-2/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/annihilape/bss-series-2/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: Roaring Moon gains a useful Extreme Speed and Mach Punch immunity, making Dragonite and <a href=\"/dex/sv/pokemon/breloom/bss-series-2/\" hreflang=\"en\">Breloom</a> far less problematic. This is especially useful if using Scale Shot.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Life Orb</strong>: While making Roaring Moon more vulnerable to priority, the reliable damage output means Roaring Moon doesn't have to set up to deal massive damage.</p>\n</li>\n<li>\n<p><strong>Booster Energy</strong>: Beyond making Roaring Moon more suited for late-game sweeping, Booster Energy is perfect for making opponents think its the more common Acrobatics set.</p>\n</li>\n<li>\n<p><strong>Loaded Dice</strong>: When using Scale Shot, Loaded Dice is a strong consideration, letting +1 Roaring Moon always OHKO offensive Dragonite and almost always OHKO Breloom with Scale Shot.</p>\n</li>\n<li>\n<p><strong>Lum Berry</strong>: Lum Berry is perfect for taking advantage of Pokemon that are likely to inflict status on Roaring Moon, such as Tinkaton, <a href=\"/dex/sv/pokemon/rotom-wash/bss-series-2/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/umbreon/bss-series-2/\" hreflang=\"en\">Umbreon</a>.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>4 HP / 252 Atk / 252 Spe</strong>: This classic spread will give Roaring Moon an Attack boost from Protosynthesis.</p>\n</li>\n<li>\n<p><strong>220 Atk / 36 Def / 252 Spe</strong>: This is the spread to use if a Speed Boost from Protosynthesis is needed.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Life Orb",
+            "Booster Energy",
+            "Loaded Dice",
+            "Lum Berry"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fire",
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Throat Chop",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Scale Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Jaw Lock Trapper",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With Jaw Lock, Roost, and Taunt, Roaring Moon is capable of severely punishing defensive answers to it, which is worth the risk of trapping itself.</p>\n</li>\n<li>\n<p><strong>Dragon Dance</strong>: If trapping a very passive foe such as <a href=\"/dex/sv/pokemon/hippowdon/bss-series-2/\" hreflang=\"en\">Hippowdon</a>, Roaring Moon can threaten to get to +6, slicing through teams like a hot knife through butter!</p>\n</li>\n<li>\n<p><strong>Substitute</strong>: Substitute works great with Toxic Spikes support, giving Roaring Moon a means to rack up Toxic damage.</p>\n</li>\n<li>\n<p><strong>Earthquake</strong>: This prevents Roaring Moon from being walled by <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a>.</p>\n</li>\n<li>\n<p><strong>U-turn</strong>: U-turn gives Roaring Moon a way to switch out of bad Jaw Lock matchups, reducing its risk greatly without using up an item slot.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li><strong>Acrobatics</strong>: If using Booster Energy and Tera Flying, Acrobatics is far more powerful than Jaw Lock, punishing <a href=\"/dex/sv/pokemon/annihilape/bss-series-2/\" hreflang=\"en\">Annihilape</a> and <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a> in particular.</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Poison</strong>: In addition to providing a vital resistance to Fairy- and Fighting-type attacks, Tera Poison lets Roaring Moon freely switch into Toxic, which would ruin this set otherwise.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Taking on Dragon- and Fighting-type attacks makes Fairy a reliable Tera type.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Tera Flying grants Roaring Moon safety from <a href=\"/dex/sv/pokemon/garganacl/bss-series-2/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a>'s Fissure and pairs nicely with Acrobatics.</p>\n</li>\n<li>\n<p><strong>Don't Use Ghost</strong>: Tera Ghost is tempting to allow Roaring Moon to switch out of Jaw Lock, but be warned: you must Terastallize only on the turn after using Jaw Lock, because otherwise, the trapping effect will fail to activate if using Jaw Lock as a Ghost-type!</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Leftovers</strong>: If using Dragon Dance, the residual recovery makes setting up multiple Dragon Dances much easier.</p>\n</li>\n<li>\n<p><strong>Shed Shell</strong>: Shed Shell lets Roaring Moon switch out of Jaw Lock, massively reducing the risk.</p>\n</li>\n<li>\n<p><strong>Booster Energy</strong>: This turns Tera Flying Acrobatics into a powerful form of offense.</p>\n</li>\n<li>\n<p><strong>Heavy-Duty Boots</strong>: Making Roaring Moon immune to Toxic Spikes gives it much more flexibility against stall teams with Toxic Spike setters such as <a href=\"/dex/sv/pokemon/clodsire/bss-series-2/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/toxapex/bss-series-2/\" hreflang=\"en\">Toxapex</a>.</p>\n</li>\n<li>\n<p><strong>Protective Pads</strong>: Protective Pads will guard Roaring Moon against <a href=\"/dex/sv/pokemon/volcarona/bss-series-2/\" hreflang=\"en\">Volcarona</a>'s Flame Body and Rocky Helmet for otherwise good trapping targets such as Dondozo and Clodsire.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>244 HP / 4 Atk / 196 Def / 36 SpD / 28 Spe with Impish</strong>: This EV spread outspeeds <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a> after one Dragon Dance, avoids a 2HKO from <a href=\"/dex/sv/pokemon/iron-bundle/bss-series-2/\" hreflang=\"en\">Iron Bundle</a> if Roaring Moon is Terastallized, and avoids a 2HKO from an unboosted <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a> Tera Normal Extreme Speed.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 Atk / 20 Def / 204 SpD / 28 Spe with Careful</strong>: This spread gets a Special Defense boost from Protosynthesis while still outspeeding Dragapult after one Dragon Dance.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 Def / 252 Spe with Jolly</strong>: While much less bulky than the other spreads, maximum Speed ensures Roaring Moon outspeeds <a href=\"/dex/sv/pokemon/iron-valiant/bss-series-2/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/scream-tail/bss-series-2/\" hreflang=\"en\">Scream Tail</a>, and Dragon Dance <a href=\"/dex/sv/pokemon/tyranitar/bss-series-2/\" hreflang=\"en\">Tyranitar</a>. The former two can ruin Roaring Moon with Encore.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Leftovers",
+            "Shed Shell",
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Jaw Lock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 4,
+              "def": 196,
+              "spa": 0,
+              "spd": 36,
+              "spe": 28
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish",
+            "Careful"
+          ]
+        },
+        {
+          "name": "All-Out Attacker",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With great offenses and U-turn, Roaring Moon is a good and unexpected choice for pivoting.</p>\n</li>\n<li>\n<p><strong>Throat Chop versus Jaw Lock</strong>: Shutting down troublesome sound moves such as Torch Song and Bug Buzz make Throat Chop the superior choice over Crunch. If using Assault Vest, Jaw Lock's trapping capabilities come in handy, especially with U-turn reducing its risk.</p>\n</li>\n<li>\n<p><strong>Iron Head</strong>: Iron Head is good coverage against Tera Fairy-types with Levitate such as <a href=\"/dex/sv/pokemon/rotom-wash/bss-series-2/\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/sv/pokemon/hydreigon/bss-series-2/\" hreflang=\"en\">Hydreigon</a>.</p>\n</li>\n<li>\n<p><strong>Outrage</strong>: Outrage is a risky move, but it excels at cleaning teams in the late game.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Steel</strong>: Tera Steel gives Roaring Moon a good matchup against Fairy types with Iron Head, and the Stealth Rock resistances lets it pivot out with less consequences.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire's Stealth Rock weakness is a bit problematic with U-turn, but has great offensive and defensive synergy, letting Roaring Moon take Fairy-type attacks, and roast <a href=\"/dex/sv/pokemon/scizor/bss-series-2/\" hreflang=\"en\">Scizor</a> and Air Balloon <a href=\"/dex/sv/pokemon/tinkaton/bss-series-2/\" hreflang=\"en\">Tinkaton</a> with Tera Blast.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy not only absorbs Dragon-type attacks, but it also massively improves Roaring Moon's matchups against strong Fighting-types such as <a href=\"/dex/sv/pokemon/iron-hands/bss-series-2/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/annihilape/bss-series-2/\" hreflang=\"en\">Annihilape</a> via Tera Blast.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Choice Scarf</strong>: A Choice Scarf in wing will let Roaring Moon outpace some of its common revenge killers, such as <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/iron-bundle/bss-series-2/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a>.</p>\n</li>\n<li>\n<p><strong>Choice Band</strong>: Choice Band gives Roaring Moon incredible wallbreaking power, now being able to 2HKO <a href=\"/dex/sv/pokemon/skeledirge/bss-series-2/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a> with Outrage.</p>\n</li>\n<li>\n<p><strong>Assault Vest</strong>: Roaring Moon makes for a great bulky using of Assault Vest, being able to easily take on Iron Bundle and Flutter Mane when Terastallized into the correct type.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>4 HP / 252 Atk / 252 Spe</strong>: The old-school offensive spread gives Roaring Moon an Attack boost from Protosynthesis.</p>\n</li>\n<li>\n<p><strong>220 Atk / 36 Def / 252 Spe</strong>: This spread gives Roaring Moon a Speed boost from Protosynthesis, which can be useful if running Choice Band on a sun team.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Band",
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fire",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Throat Chop",
+                "type": null
+              },
+              {
+                "move": "Jaw Lock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Outrage",
+                "type": null
+              },
+              {
+                "move": "Scale Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Roaring Moon provides a niche as either a fast speed control option or setup sweeper thanks to the Prankster immunity provided by its Dark typing and access to Attack and Speed Booster Energy, further bolstered by its superb movepool. Roaring Moon's Dark-type STAB moves and excellent elemental resistances make it a great answer to <a href=\"/dex/sv/pokemon/iron-crown/vgc24-regulation-f/\" hreflang=\"en\">Iron Crown</a> and <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>, as well as the <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon</a> formes.</p>\n</li>\n<li>\n<p>Roaring Moon appreciates partners such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, which help it to set up Tailwind or Dragon Dance through free turns, the former two handle threats like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> exceptionally well. Ogerpon-W greatly benefits from Tailwind, while Amoonguss has superb defensive synergy with Roaring Moon; all partners enjoy Breaking Swipe as well. With Acrobatics, Dragon Dance Roaring Moon can help the former two by removing the powder-immune Grass-types and help Incineroar by threatening both <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes. Flutter Mane is also a great beneficiary of Roaring Moon, handling opposing Flutter Mane and both Urshifu formes with Tailwind support, and Breaking Swipe protecting it from the physical attackers it's weak to.</p>\n</li>\n<li>\n<p>Roaring Moon's typing, while welcoming fantastic resistances, also invites weaknesses to some of the metagame's most popular threats like the aforementioned Flutter Mane, both Urshifu formes, and <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>. Roaring Moon can notably mitigate the latter two's damage output if running Breaking Swipe and break Urshifu-S and Chien-Pao's Focus Sash in the process but requires support against them. Incineroar also poses an issue for Roaring Moon, as it resists Knock Off and weakens Roaring Moon with Intimidate. Incineroar's Fake Out can also be used to stall Tailwind turns.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance Sweeper",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Dragon Dance allows Roaring Moon to be an effective sweeper and helps reset Intimidate Attack drops, making it harder to slow down.</p>\n</li>\n<li>\n<p>Roaring Moon utilizes Attack Booster Energy to activate Acrobatics, allowing for an OHKO on many centralizing Fighting- and Grass-types, such as the various <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> and <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon</a> formes, as well as <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> after Terastalization.</p>\n</li>\n<li>\n<p>After Terastalization, the bulk investment allows Roaring Moon to always survive a Tera Water-boosted Surging Strikes from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and a Thunderclap from a Special Attack Booster Energy <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>. The Speed investment allows Roaring Moon to outspeed Adamant Urshifu formes.</p>\n</li>\n<li>\n<p>Roaring Moon uses Tera Flying to obtain a resistance to Fighting-type moves and to gain STAB on Acrobatics.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 148,
+              "atk": 164,
+              "def": 60,
+              "spa": 0,
+              "spd": 52,
+              "spe": 84
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Tailwind Support",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Roaring Moon utilizes Breaking Swipe to weaken the metagame's plethora of physical attackers such as the <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon</a> formes and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>.</p>\n</li>\n<li>\n<p>Roaring Moon uses Speed Booster Energy to outspeed the entire unboosted metagame and get off Tailwind and Breaking Swipe more consistently.</p>\n</li>\n<li>\n<p>The HP combined with the Defense EVs allow for Roaring Moon to take Adamant <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>'s Icicle Crash at -1. The Special Defense EVs allow Roaring Moon to almost always survive unboosted <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>'s Dazzling Gleam, as well as a Dragon Pulse from <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>. The Speed investment lets Roaring Moon outspeed Speed Booster Energy <a href=\"/dex/sv/pokemon/iron-crown/vgc24-regulation-f/\" hreflang=\"en\">Iron Crown</a>, as well as Adamant <a href=\"/dex/sv/pokemon/dragonite/vgc24-regulation-f/\" hreflang=\"en\">Dragonite</a> under Tailwind,</p>\n</li>\n<li>\n<p>Roaring Moon uses Tera Poison to obtain resistances to Fairy- and Fighting-type moves it was originally weak to, which is also a great neutral typing into the metagame.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Breaking Swipe",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 148,
+              "atk": 100,
+              "def": 44,
+              "spa": 0,
+              "spd": 44,
+              "spe": 172
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Support",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Roaring Moon is a fast Tailwind user that utilizes its Speed, access to Knock Off, and Tera Flying Acrobatics to spread damage and check some of the most defining threats in the metagame such as both <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a> formes, <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>. Its Speed with the Protosynthesis boost allows it to get the jump on Choice Scarf users such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-g/\" hreflang=\"en\">Landorus</a> and either remove their items with Knock Off or set up Tailwind so that its partners can outspeed and secure a KO. Its high special bulk allows it to function as a good check to special attacking Restricted Pokemon such as <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a>, <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>, and Calyrex-S, with it being able to remove Leftovers on Calm Mind Kyogre or Terapagos and threaten to OHKO Calyrex-S with knock off before it Terastallizes. With the Speed investment, Roaring Moon outspeeds Timid <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a> and Landorus as well as Modest <a href=\"/dex/sv/pokemon/regieleki/vgc24-regulation-g/\" hreflang=\"en\">Regieleki</a> with Protosynthesis activated, and the Attack EVs allow Tera Flying Acrobatics to almost always OHKO the Urshifu formes. Finally, the bulk investment allows Terastallized Roaring Moon to survive two Astral Barrages from Calyrex-S, two Heat Waves from Chi-Yu, or Tera Water Surging Strikes from Urshifu-R. Tera Flying allows it to threaten an OHKO on <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, Rillaboom, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-H</a> with STAB Acrobatics.</p>\n<p>Roaring Moon has seen numerous top placements alongside Calm Mind Kyogre, which appreciates its fast Tailwind and Knock Off support, ability to hit Grass-types super effectively with Acrobatics, and capability to check Calyrex-S. It has also been used on Calyrex-S and <a href=\"/dex/sv/pokemon/weezing-galar/vgc24-regulation-g/\" hreflang=\"en\">Galarian Weezing</a> compositions to help them work better against mirror matchups and as a fast Tailwind setter for Speed-invested <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>. Roaring Moon has a very hard time taking on <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a> structures, with Choice Specs Miraidon being able to OHKO Roaring Moon with Dazzling Gleam before it Terastallizes, Electro Drift or Volt Switch after it Terastallizes, and Draco Meteor regardless. Roaring Moon also struggles with <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-g/\" hreflang=\"en\">Iron Hands</a>, as Iron Hands is able to take a hit and OHKO it in return. Speed Booster Energy <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a> outspeeds Roaring Moon and threatens to OHKO it with Moonblast or reduce its Speed with Icy Wind and Thunder Wave. Roaring Moon also struggles defensively against <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a> and Calyrex-I, which are able to hit it super effectively even if it's Terastallized, and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a>, which OHKOs Roaring Moon with Body Press and does not take much damage from Tera Flying Acrobatics in return. Roaring Moon’s weakness to Zamazenta-C and Miraidon makes Landorus one of its premier partners for its ability to OHKO both Restricted Pokemon. Additionally, Roaring Moon appreciates strong offensive pieces such as Urshifu-R and Ogerpon-H that are able to handle Flutter Mane, Chien-Pao, and Calyrex-I when paired with its Tailwind or offensive support. Roaring Moon can also function alongside more defensive pieces such as Rillaboom, <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, and Amoonguss that provide support in Fake Out, Intimidate, or Rage Powder and Spore, helping Roaring Moon to more effectively set Tailwind and spread damage safely.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 76,
+              "def": 44,
+              "spa": 0,
+              "spd": 20,
+              "spe": 124
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 553122,
+            "username": "gephicka"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Support",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Booster Energy Roaring Moon is a fast Tailwind setter that supports its Restricted partners. With Prankster Tailwind users like <a href=\"/dex/sv/pokemon/tornadus/vgc25-regulation-i/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/whimsicott/vgc25-regulation-i/\" hreflang=\"en\">Whimsicott</a> offering more immediate speed control, Roaring Moon sets itself apart by providing meaningful offensive pressure and role compression. Roaring Moon outspeeds and threatens to OHKO <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a> with Knock Off while also comfortably taking Astral Barrage.</li>\n<li>Acrobatics lets Roaring Moon threaten Pokemon like <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>. Knock Off allows Roaring Moon to threaten <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a> and Calyrex-S while also disrupting foes by removing their items.</li>\n<li>Booster Energy lets Roaring Moon outspeed threats like Calyrex-S and even Modest Choice Scarf <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a>, allowing it to pressure them with Knock Off or set up Tailwind before they move.</li>\n<li>The Attack investment allows Roaring Moon to deal maximum damage and still receive a Speed boost from Protosynthesis, with the remaining EVs allocated to HP.</li>\n<li>Tera Flying is used to remove Roaring Moon's Fighting-, Dragon-, Bug-, and Fairy-type weaknesses, aiding it against Pokemon like <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a>, both <a href=\"/dex/sv/pokemon/urshifu/vgc25-regulation-i/\" hreflang=\"en\">Urshifu</a> formes, and <a href=\"/dex/sv/pokemon/flutter-mane/vgc25-regulation-i/\" hreflang=\"en\">Flutter Mane</a>. It also boosts the power of Acrobatics, allowing Roaring Moon to score OHKOs on Rillaboom and non-bulky Urshifu-R.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Tera Fairy Lunala and Miraidon are difficult for Roaring Moon to remove, and they can OHKO it with Moonblast and Dazzling Gleam, respectively. Flutter Mane is also problematic because it can outspeed Roaring Moon with its own Protosynthesis boost and OHKO it with Moonblast or slow it down with Icy Wind.</li>\n<li>Ice-types like <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> and <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a> threaten Roaring Moon before and after Terastallization. Calyrex-I can also punish Tailwind from Roaring Moon by setting Trick Room and threatening an OHKO with Glacial Lance.</li>\n<li>Zamazenta-C and <a href=\"/dex/sv/pokemon/zacian-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zacian-C</a> wall Roaring Moon and can OHKO it with Body Press and Play Rough, respectively.</li>\n<li><a href=\"/dex/sv/pokemon/incineroar/vgc25-regulation-i/\" hreflang=\"en\">Incineroar</a> is troublesome for Roaring Moon, weakening its damage output with Intimidate and Will-O-Wisp while taking little in return. <a href=\"/dex/sv/pokemon/grimmsnarl/vgc25-regulation-i/\" hreflang=\"en\">Grimmsnarl</a> limits Roaring Moon’s field impact with Reflect to reduce its damage and Spirit Break to threaten an OHKO.</li>\n<li>Roaring Moon is commonly paired with <a href=\"/dex/sv/pokemon/kyogre/vgc25-regulation-i/\" hreflang=\"en\">Kyogre</a>, providing Tailwind support to let Kyogre outspeed threats like Calyrex-S and Zamazenta-C and fire off full-power Water Spout. Roaring Moon threatens Grass-types like Rillaboom and Amoonguss that Kyogre struggles against.</li>\n<li>Roaring Moon pairs well with Zacian-C, helping it outspeed threats like Calyrex-S and Choice Scarf Miraidon with Tailwind. In return, Zacian-C covers for Roaring Moon's weakness to Fighting-, Dragon-, and Fairy-types like Flutter Mane and Miraidon with its STAB moves. Alternatively, it can be paired with Zamazenta-C, which also appreciates the speed control while handling Fairy-types as well as Incineroar, which Roaring Moon struggles against.</li>\n<li>Urshifu-R benefits from Roaring Moon’s Tailwind support, capitalizing on its unprotectable attacks. Roaring Moon checks Calyrex-S, Rillaboom, and Amoonguss for it, while Urshifu-R pressures Chien-Pao in return.</li>\n<li>Chien-Pao pressures threats like Miraidon, <a href=\"/dex/sv/pokemon/raging-bolt/vgc25-regulation-i/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a> for Roaring Moon, while Roaring Moon handles Urshifu-R and <a href=\"/dex/sv/pokemon/volcarona/vgc25-regulation-i/\" hreflang=\"en\">Volcarona</a>. Chien-Pao bolsters Roaring Moon's offensive pressure with Sword of Ruin, even allowing it to OHKO <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-H</a> with Acrobatics.</li>\n<li>Amoonguss can safely redirect Fighting- and Fairy-type attacks from Zamazenta-C and Zacian-C that would otherwise threaten Roaring Moon.</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 36,
+              "atk": 220,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 646416,
+            "username": "Code"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Dragon Dance sets can be run on dual screens hyper offense structures; Fluffy is a good option to aid in setup, and Weakness Policy takes advantage of slow pivots like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> aiming to pivot with U-turn. Acrobatics is an additional option with Weakness Policy or a Terrain Seed to nail <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a>. Lash Out is an option to punish Intimidate users like Corviknight and <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a>, while Fire Blast and Fire Fang can heavily threaten Fluffy users, but usually, Knock Off and U-turn threaten them enough with entry hazard support. Offensive sets can run Roost to provide longevity and offset chip damage, Taunt to shut down Corviknight, or Iron Head to nail <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Threats</strong>: Zamazenta, <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>, and <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a> outspeed non-Choice Scarf Roaring Moon variants and force it out.</p>\n<p><strong>Bulky Dark-resistant Foes</strong>: Great Tusk, <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a> all can take Roaring Moon's STAB attacks and threaten it back with their STAB moves.</p>\n<p><strong>Entry Hazards</strong>: Non-Magic Guard Roaring Moon variants struggle heavily with chip damage, as they frequently switch and typically lack recovery.</p>\n<p><strong>Burns</strong>: Roaring Moon is crippled by burn and must be exceedingly cautions of switching into Fire-types that may carry Will-O-Wisp such as <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a>, as well as fearing Scald from <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and Steam Eruption from <a href=\"/dex/sv/pokemon/volcanion/almost-any-ability/\" hreflang=\"en\">Volcanion</a>. It also fears the rare but punishing Flame Body.</p>\n<p><strong>Paralysis</strong>: Roaring Moon relies heavily on its Speed tier and can be punished by Thunder Wave from <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/electrode-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Electrode</a>, which it would otherwise switch in freely on. <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a> can also threaten it with paralysis from Thunder or Zap Cannon. Roaring Moon is also greatly punished by the rare Static.</p>",
+      "movesets": [
+        {
+          "name": "Choice Item",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Roaring Moon's excellent Attack, Speed, and STAB coverage along with U-turn make it the premiere Choice item attacker. With Choice Scarf, Roaring Moon outspeeds every unboosted Pokemon, even <a href=\"/dex/sv/pokemon/regieleki/almost-any-ability/\" hreflang=\"en\">Regieleki</a>, and dangerous threats such Choice Scarf <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>; only Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a> outspeeds it. Choice Band Roaring Moon, on the other hand, is a ferocious wallbreaker that still outspeeds the crowded base 110 Speed tier, forcing out common Pokemon like the <a href=\"/dex/sv/pokemon/ogerpon/almost-any-ability/\" hreflang=\"en\">Ogerpon</a> formes, <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a>, and <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a>. Knock Off threatens to KO most offensive Pokemon while punishing switch-ins like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> with item removal. Outrage is an excellent late-game sweeping tool once Steel- and Fairy-types like <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a> have been weakened or removed. U-turn allows Roaring Moon to pivot out of bad matchups like Corviknight, safely revenge kill weakened offensive threats without prediction, and force switches from the opponent, hopefully through entry hazards after removing their Heavy-Duty Boots. Earthquake hits <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> and Kingambit, while Stone Edge hits <a href=\"/dex/sv/pokemon/moltres/almost-any-ability/\" hreflang=\"en\">Moltres</a> and Zapdos and lets Choice Band sets do non-negligible damage to Fluffy Corviknight. Sword of Ruin provides the most damage and impacts all of Roaring Moon's moves, while Tough Claws retains its power against opposing Sword of Ruin users, namely <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a>, and does not reveal itself on the switch in.</p>\n<p>Roaring Moon fits best on balance and offensive teams that can take advantage of its power, Speed, and pivoting abilities and may also appreciate its defensive profile to help slow down certain key threats like <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/electrode-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Electrode</a>, and Gholdengo. Due to its frequent pivoting and lack of recovery, Roaring Moon abhors entry hazards, making Corviknight, <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>, or Great Tusk nearly required as a teammate. Special walls like <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> can switch into special attacks aimed at Roaring Moon and appreciate its resistances to Electric, Ghost, and Psychic taking some of the pressure off of them as well. On the flip side, Roaring Moon forces frequent switches and removes Heavy-Duty Boots with Knock Off, making hazard-stacking teammates like Sandy Shocks, Great Tusk, and <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a> excellent options. Fluffy walls, especially Corviknight, can give Roaring Moon a hard time, so strong Fire-type teammates like <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a> are excellent options. Roaring Moon does not appreciate bulky Fighting-types like Great Tusk, Iron Hands, and Zamazenta, so it appreciates teammates that threaten them like Scream Tail and Deoxys-S. Roaring Moon pairs extremely well with other offensive pivots; it can team with special pivots like Iron Moth and Latios to bring each other in in favorable matchups or with physical pivots like Meowscarada and Cinderace to wear down their shared checks.</p>",
+          "abilities": [
+            "Sword of Ruin",
+            "Tough Claws"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "RegenVest",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Roaring Moon leverages a solid defensive typing with plenty of resistances alongside great Speed, Attack, bulk, and access to U-turn to be a great offensive RegenVest pivot, gluing together balance and bulky offense teams while bringing extra utility in the form of Knock Off. Earthquake is a solid coverage option that threatens Steel-type foes like <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a> as well as <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>. Stone Edge is preferred as the final move for its ability to hit <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/moltres/almost-any-ability/\" hreflang=\"en\">Moltres</a> super effectively and <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> neutrally, but Dragon Tail gives Roaring Moon extra utility against setup sweepers like <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/iron-crown/almost-any-ability/\" hreflang=\"en\">Iron Crown</a>, and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/almost-any-ability/\" hreflang=\"en\">Ursaluna-B</a>, forcing them out. Throat Chop is an option as a secondary STAB move that notably disables Boomburst from Pixilate <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a> and Parting Shot from <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a>. 192 Speed EVs guarantee that Roaring Moon will outspeed <a href=\"/dex/sv/pokemon/thundurus/almost-any-ability/\" hreflang=\"en\">Thundurus</a> and non-Choice Scarf Scream Tail, with the rest put into Special Defense to increase Roaring Moon's bulk. Alternatively, a set with maximum Speed investment can be used to Speed tie with <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a> and opposing Roaring Moon.</p>\n<p>Roaring Moon fits best on pivot-heavy balance and offense teams that can take advantage of its typing and Speed to form potent VoltTurn cores while making its only decent bulk less of an issue. Roaring Moon struggles to check powerful Dragon- and Fairy-types like <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a>, and, if not running Throat Chop, Scream Tail, making a secondary specially defensive Pokemon like Iron Treads, <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a>, or Heatran a great partner; in return, Roaring Moon naturally walls foes like <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, Gholdengo, and <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a> that can give these Steel-types issues. Roaring Moon is also easily forced out by powerful physical attackers like <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and opposing offensive variants of Roaring Moon, making a physical wall like Pecharunt, Corviknight, or your own Great Tusk perfect partners. The last two are also notable for being the tier's best entry hazard removal options, helping to shore up Roaring Moon's relative weakness to entry hazards. Powerful offensive threats like Great Tusk, Latios, and Gholdengo all appreciate Roaring Moon's ability to aggressively scout the opponent's move and pivot them in safely, with the last two especially appreciating Roaring Moon's ability to remove Assault Vest from opposing <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> ​and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Dragon Tail",
+                "type": null
+              },
+              {
+                "move": "Throat Chop",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 68,
+              "spe": 192
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Magic Guard",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Magic Guard Roaring Moon is a fantastic pivot and item remover that has great offensive and defensive prowess alongside stellar longevity. Magic Guard allows Roaring Moon to augment its defensive profile by avoiding all indirect chip damage, such as from Rocky Helmet and entry hazards, which would otherwise hamper it. Magic Guard also has the added benefit of countering Prankster <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a>, with Roaring Moon's Dark typing blocking Parting Shot and Magic Guard preventing Toxic chip damage from Malignant Chain. Knock Off removes items like Heavy-Duty Boots, Rocky Helmet, and Leftovers from targets like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and Pecharunt to either make them more susceptible to entry hazards or enable teammates like <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a>. Earthquake pressures Pokemon like <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>, while Taunt is much more effective on hazard stacking teams to prevent Defog and Roost from the likes of Corviknight, <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>, and Zapdos. U-turn helps scout moves while further chipping answers to Roaring Moon like Corviknight, <a href=\"/dex/sv/pokemon/chesnaught/almost-any-ability/\" hreflang=\"en\">Chesnaught</a>, and Great Tusk, while Roost gives it longevity that is especially appreciated in matchups where special attackers like <a href=\"/dex/sv/pokemon/electrode-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Electrode</a>, <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a>, and <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> are present.</p>\n<p>Magic Guard Roaring Moon fits on playstyles ranging from bulky offense to stall thanks to it wearing down checks with Knock Off and U-turn while taking advantage of its entry hazard immunity alongside Roost recovery to outlast would-be answers; as a result, Roaring Moon has a wide array of synergetic partners. Entry hazard setters like <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a>, Sandy Shocks, and Great Tusk pair incredibly with Roaring Moon, since these hazards allow it to pressure would-be answers like Great Tusk, Corviknight, and Iron Hands in conjunction with U-turn. Since Roaring Moon excels at making progress with U-turn, wallbreakers like Zamazenta and <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a> as well as pivots like Sandy Shocks and <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a> can capitalize on the opportunities provided. Steel-types like Corviknight and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> appreciate Roaring Moon's ability to absorb Fire-, Electric-, and Ghost-type moves from Pokemon such as Heatran, Sandy Shocks, and opposing Gholdengo for them, and in return they can help patch up Roaring Moon's weakness to Fighting- and Fairy-type attacks. Likewise, Water-type RegenVest users such as <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a> make great partners, as Roaring Moon can switch into Grass- and Electric-type attacks from the likes of Hisuian Electrode and Sandy Shocks, while they can answer or switch into threats like <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, opposing Primarina, and Cinderace. Roaring Moon fears Great Tusk, which can easily absorb its hits and is a common hazard clearer, so teammates that can switch into or punish Great Tusk like Corviknight, Zapdos, and Meowscarada are necessary. Roaring Moon also dislikes Knock Off despite resisting the move, since its Life Orb carries a lot of its damage output, so Knock Off absorbers like Corviknight, <a href=\"/dex/sv/pokemon/ting-lu/almost-any-ability/\" hreflang=\"en\">Ting-Lu</a>, and Great Tusk are appreciated. Lastly, faster threats like Chien-Pao, Zamazenta, and Deoxys-Speed can threaten an OHKO on Roaring Moon, so Pokemon that counter or outspeed these foes like Regenerator Primarina, Bulletproof Iron Treads, and Choice Scarf <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a> are essential.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 523866,
+            "username": "UT"
+          },
+          {
+            "user_id": 540420,
+            "username": "April"
+          },
+          {
+            "user_id": 545372,
+            "username": "Clas"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 652656,
+                "username": "Gambit"
+              },
+              {
+                "user_id": 539679,
+                "username": "GlalieGoesBoom"
+              },
+              {
+                "user_id": 540420,
+                "username": "April"
+              },
+              {
+                "user_id": 580765,
+                "username": "cat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Late round 1 onwards</p>\n<p><strong>Price Range</strong>: 16-17 points</p>\n<p><strong>Overview</strong>: Roaring Moon is an excellent wallbreaker and setup sweeper, combining great Speed and Attack with solid bulk, good coverage, and Protosynthesis. As a wallbreaker, it can use Knock Off to remove foes' items, punch holes in teams with solid coverage, and pivot to teammates that can beat its incoming checks. Even with all of these great traits, Roaring Moon can struggle against faster revenge killers, and its common weaknesses mean it can get KOed before it can set up.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Combining Booster Energy, strong STAB attacks, and coverage moves allows Roaring Moon to threaten foes out and create opportunities for itself to set up. Thanks to its special bulk, Roost can also fit on these sets, allowing Roaring Moon to stay healthy and commit to a sweep.</p>\n<p><strong>Wallbreaker</strong>: Roaring Moon can use its high base Attack with a damage-boosting item to be an immediate threat to teams even without setup. Thanks to its easily spammable STAB moves, Roaring Moon can wear down opposing teams and force many switches. It can take advantage of the switches it forces by using U-turn to pivot teammates in for better matchups.</p>\n<p><strong>Revenge Killer</strong>: Because of its naturally high Speed, Roaring Moon can have good success as a revenge killer. Utilizing items like Choice Scarf and Booster Energy, Roaring Moon can be great speed control, forcing many foes out and regaining momentum.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Knock Off, Crunch, Outrage, Dragon Claw, Scale Shot</p>\n<p><strong>Setup Moves</strong>: Dragon Dance</p>\n<p><strong>Utility Moves</strong>: U-turn, Roost, Substitute, Taunt, Brick Break</p>\n<p><strong>Coverage</strong>: Acrobatics, Earthquake, Fire Fang, Iron Head, Rock Slide, Stone Edge, Zen Headbutt, X-Scissor</p>\n<h3>Niche Moves</h3>\n<p><strong>Jaw Lock</strong>: Jaw Lock lets Roaring Moon trap a passive Pokemon on the field, allowing it to set up freely.</p>\n<p><strong>Phazing Moves</strong>: Dragon Tail or Roar can be used to phaze foes, generally on bulkier sets that aim to take advantage of Roaring Moon's special bulk in order to check special threats.</p>\n<h3>Common Items</h3>\n<p><strong>Booster Energy</strong>: Booster Energy can viably boost Attack or Speed depending on what the matchup requires. This also enables Roaring Moon to effectively use Acrobatics, which can be a great coverage move, as well as turning it into a strong potential wincon.</p>\n<p><strong>Choice Band</strong>: Choice Band lets Roaring Moon be an amazing wallbreaker, spamming Knock Off and other powerful STAB moves to weaken opposing teams and using U-turn to pivot out on defensive switch-ins.</p>\n<p><strong>Choice Scarf</strong>: When speed control is needed more reliably than a single Booster Energy activation, Choice Scarf allows Roaring Moon to be a speedy threat for the duration of the game. It also enables Roaring Moon to function as a highly effective revenge killer.</p>\n<h3>Niche Items</h3>\n<p><strong>Other Damage-boosting Items</strong>: Damage-boosting items like Life Orb and Expert Belt are highly effective options for Roaring Moon. By boosting damage consistently throughout a match, these items can enable Roaring Moon to hit important damage thresholds without the one-time use drawback of Booster Energy or the Choice lock from Choice items.</p>\n<p><strong>Clear Amulet</strong>: When facing Intimidate or Parting Shot users, Clear Amulet can be useful to maintain a boosted Attack stat and prevent switches from Parting Shot.</p>\n<p><strong>Lum Berry</strong>: As a physical attacker, Lum Berry can allow Roaring Moon circumvent status that may hinder it throughout the match. Lum Berry can also enable Outrage by curing its confusion.</p>\n<p><strong>Assault Vest</strong>: Due to its naturally high special bulk, Roaring Moon can be an effective user of Assault Vest, allowing it to be a soft check to many special threats.</p>\n<p><strong>Loaded Dice</strong>: Scale Shot is a solid move in Roaring Moon's arsenal, and Loaded Dice allows for more consistent damage output when using it.</p>\n<h3>Tera</h3>\n<p>Roaring Moon is near universally banned as a Tera Captain, since the ability to change its type to a favorable matchup gives it near unparalleled setup ability. If you are able to make Roaring Moon your Tera Captain, using Tera Poison or Steel to create setup opportunities in front of a Fairy-type is one of the best ways for Roaring Moon to use Terastallization. It can also be used to boost the power of coverage moves, like combining Tera Flying with Acrobatics.</p>\n<h3>Draft Strategy</h3>\n<p>When drafting Roaring Moon, it is important to think about partners that enable Roaring Moon's ability to get in and deal damage. While it has amazing stats and access to great setup options, Roaring Moon struggles getting through an entire team on its own. Things like reliable entry hazard support and solid pivots to get Roaring Moon on the field in favorable matchups go a long way in helping Roaring Moon reach its maximum potential.</p>\n<p><strong>Bulky Pivots</strong>: Pokemon like <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> can take hits and pivot back into Roaring Moon, which make them great partners. By using these partners, Roaring Moon can safely avoid damage and get back on the field in a more advantageous position.</p>\n<p><strong>Fairy-type Answers</strong>: One of Roaring Moon's biggest weaknesses is Fairy-type Pokemon and attacks. Pokemon that can switch into Fairy-type moves and threaten Fairy-types like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> make great partners for Roaring Moon, especially since it can pivot into them easily.</p>\n<p><strong>Entry Hazard Support</strong>: Any extra damage helps in enabling Roaring Moon, which makes excellent hazard setters like <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/draft/\" hreflang=\"en\">Ogerpon-C</a> and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> great teammates. In addition, since Roaring Moon is one of the best Knock Off users in Draft, it can even help itself by removing pesky Heavy-Duty Boots from foes.</p>\n<p><strong>Special Attackers</strong>: Having a teammate that can force in specially defensive Pokemon and then pivot to Roaring Moon, such as <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a> or <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, or vice versa, helps to maximize each other's wallbreaking potential.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fairy-types</strong>: While individually Roaring Moon has the ability to hit Fairy-types super effectively, it has difficulty getting OHKOs and does not have the bulk to live a Fairy-type attack, meaning they are especially threatening to it. Opponents can also Terastallize their Pokemon into a Fairy-type to check Roaring Moon by resisting both of its STAB moves.</p>\n<p><strong>Priority Moves / Fast Revenge Killers</strong>: Roaring Moon has a good HP stat and solid Special Defense, but its Defense leaves much to be desired. Because of this, priority moves, such as Bullet Punch from <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> and Ice Shard from <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a>, can be one of the best ways to deal with Roaring Moon. Even Pokemon without priority moves that are naturally faster than Roaring Moon, like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, can threaten to revenge kill it despite a Speed boost.</p>\n<p><strong>Physically Defensive Pokemon</strong>: Strong walls like Alomomola, <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> can be difficult for Roaring Moon to take down. They are effective because they are able to survive a hit from Roaring Moon and either phaze it or hinder it with status or damage.</p>\n<p><strong>Status Effects</strong>: Roaring Moon is highly susceptible to both burns and paralysis, so foes that punish contact moves with Flame Body or Static and status moves like Will-O-Wisp and Thunder Wave both can be difficult to navigate with Roaring Moon.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 404799,
+            "username": "termnal"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 613460,
+                "username": "vmnunes"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying",
+            "Ground",
+            "Ghost",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 220,
+              "def": 0,
+              "spa": 0,
+              "spd": 36,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Fairy Blast Dragon Dance",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance (Def, Any)",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Dragon Dance Roaring Moon is an extremely powerful late-game cleaner, boasting wide-ranging coverage, good mixed bulk with a Defense donation, and the ability to outspeed the entire unboosted metagame after setting up. Roaring Moon fits best on offense teams with ample offensive pressure and momentum to wear down opposing defensive cores and set Roaring Moon up for a sweep. Knock Off is a consistent STAB move that can 2HKO common defensive pokemon after a Dragon Dance such as <a href=\"/dex/sv/pokemon/rotom-wash/godly-gift/\" hreflang=\"en\">Rotom-W</a> after Stealth Rock, <a href=\"/dex/sv/pokemon/corviknight/godly-gift/\" hreflang=\"en\">Corviknight</a>, and defensive <a href=\"/dex/sv/pokemon/zapdos/godly-gift/\" hreflang=\"en\">Zapdos</a> while also removing items such as Leftovers and Heavy-Duty Boots, making walls easier to wear down and remove later on. Acrobatics synergizes well with Booster Energy while also hitting Fighting-types like <a href=\"/dex/sv/pokemon/zamazenta/godly-gift/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/great-tusk/godly-gift/\" hreflang=\"en\">Great Tusk</a>, and both <a href=\"/dex/sv/pokemon/urshifu/godly-gift/\" hreflang=\"en\">Urshifu</a> formes. Earthquake can OHKO Steel-types such as <a href=\"/dex/sv/pokemon/zacian-crowned/godly-gift/\" hreflang=\"en\">Zacian-C</a>, <a href=\"/dex/sv/pokemon/heatran/godly-gift/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/iron-treads/godly-gift/\" hreflang=\"en\">Iron Treads</a>. Tera Flying boosts the power of Acrobatics, notably allowing Roaring Moon to OHKO uninvested Great Tusk before a Dragon Dance and Dauntless Shield Zamazenta after a Dragon Dance. Alternatively, Tera Ground boosts the power of Earthquake, allowing Roaring Moon to OHKO <a href=\"/dex/sv/pokemon/eternatus/godly-gift/\" hreflang=\"en\">Eternatus</a>. Roost can also be an option instead of Acrobatics on Tera Ground sets, as the longevity it provides pairs well with Roaring Moon's bulk and the defensive utility of the Ground typing. The Adamant nature maximizes Roaring Moon's Attack; however, Roaring Moon can instead run an EV spread of 36 HP / 220 Atk / 252 Spe with a Jolly nature to cause Protosynthesis to boost Speed instead, sacrificing power so that it can act as a revenge killer.</p>\n<p>Roaring Moon can receive the Defense of gods such as <a href=\"/dex/sv/pokemon/arceus-ghost/godly-gift/\" hreflang=\"en\">Arceus-Ghost</a>, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/godly-gift/\" hreflang=\"en\">Necrozma-DM</a>, and Eternatus, so it can use its great mixed bulk to reliably set up Dragon Dance. However, Roaring Moon's offensive stats are already great naturally, so it can function fine in any slot, allowing something else to use the Defense donation. Roaring Moon is vulnerable to priority users that can hit it super effectively, so it appreciates Pokemon like Heatran, Zamazenta, and <a href=\"/dex/sv/pokemon/iron-valiant/godly-gift/\" hreflang=\"en\">Iron Valiant</a>, which cover <a href=\"/dex/sv/pokemon/lokix/godly-gift/\" hreflang=\"en\">Lokix</a>, and others such as Zacian-C, <a href=\"/dex/sv/pokemon/excadrill/godly-gift/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/iron-crown/godly-gift/\" hreflang=\"en\">Iron Crown</a>, which cover <a href=\"/dex/sv/pokemon/comfey/godly-gift/\" hreflang=\"en\">Comfey</a>. Roaring Moon also struggles to beat Unaware users such as <a href=\"/dex/sv/pokemon/clefable/godly-gift/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/dondozo/godly-gift/\" hreflang=\"en\">Dondozo</a>, so it appreciates the presence of strong special attackers like <a href=\"/dex/sv/pokemon/electrode-hisui/godly-gift/\" hreflang=\"en\">Hisuian Electrode</a> and Choice Specs <a href=\"/dex/sv/pokemon/volcanion/godly-gift/\" hreflang=\"en\">Volcanion</a>, which can KO them or put them in range to be KOed by Roaring Moon. Roaring Moon has an easier time scoring KOs with entry hazard support, so it appreciates Stealth Rock setters like <a href=\"/dex/sv/pokemon/landorus-therian/godly-gift/\" hreflang=\"en\">Landorus-T</a>, Great Tusk, and <a href=\"/dex/sv/pokemon/skarmory/godly-gift/\" hreflang=\"en\">Skarmory</a>. Roaring Moon, in return, increases the effectiveness of hazards by removing Heavy-Duty Boots with Knock Off.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Flying",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 584907,
+            "username": "Wes8888"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              },
+              {
+                "user_id": 608218,
+                "username": "DragonPhoenix333"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Attack Booster",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Outrage is Roaring Moon's most powerful STAB move against neutral threats like <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a>, while also hitting other Dragon-types such as <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/walking-wake/1v1/\" hreflang=\"en\">Walking Wake</a> super effectively.</li>\n<li>Knock Off hits both Psychic-types, such as <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a>, and Ghost-types, such as <a href=\"/dex/sv/pokemon/skeledirge/1v1/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/spectrier/1v1/\" hreflang=\"en\">Spectrier</a>. Importantly, it removes the item from foes such as offensive <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a>, which would otherwise KO Roaring Moon.</li>\n<li>Acrobatics is a powerful move to hit foes such as non-physically defensive <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a>, bulkier <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a> sets, and Fighting-types such as both <a href=\"/dex/sv/pokemon/urshifu/1v1/\" hreflang=\"en\">Urshifu</a> formes.</li>\n<li>Substitute allows Roaring Moon to safely avoid a knockout from Draco Meteor users, such as Haban Berry Raging Bolt and non-Choice Band Hisuian Goodra. It further allows Roaring Moon to avoid stat dropping moves from foes such as <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>.</li>\n<li>Alternatively, Dragon Dance can be used to secure the knockout against bulkier foes, such as Weakness Policy <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a>, <a href=\"/dex/sv/pokemon/annihilape/1v1/\" hreflang=\"en\">Annihilape</a>, and bulkier Ogerpon-W sets.</li>\n<li>The EV spread lets it survive a Focus Blast from Modest Hoopa-U, allowing it to beat all Hoopa-U sets by using Knock Off. The Speed EVs outspeed maximum Speed Ogerpon-W.</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 8,
+              "atk": 156,
+              "def": 0,
+              "spa": 0,
+              "spd": 160,
+              "spe": 184
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 670315,
+            "username": "Mentality"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 503725,
+                "username": "clerica"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 149971,
+                "username": "Nuxl"
+              },
+              {
+                "user_id": 583189,
+                "username": "LongRat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf (Dragon)",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Roaring Moon is the fastest Choice Scarf user Dragon teams have access to, blitzing past opposing Choice Scarf threats like <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a> and <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a>, while also outspeeding <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a> under Electric Terrain. Iron Head targets <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Ninetales</a>; though it doesn't OHKO Iron Valiant, <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, and <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>, Iron Head deals enough damage to pick these Pokemon off late-game. U-turn lets Roaring Moon keep up the momentum against walls that usually switch into it, such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>. Knock Off, aside from dealing with Ghost-types like <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a> and <a href=\"/dex/sv/pokemon/gengar/national-dex-monotype/\" hreflang=\"en\">Gengar</a>, also strips switch-ins like <a href=\"/dex/sv/pokemon/staraptor/national-dex-monotype/\" hreflang=\"en\">Staraptor</a>, <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> of their items, making it easier for Dragon teams to overwhelm these defensive Pokemon late-game. Roaring Moon is unfortunately still outsped by even faster Choice Scarf users like <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>, or Swift Swim and Sand Rush Pokemon like <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, so switch-ins to these threats like <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a>, Archaludon, or <a href=\"/dex/sv/pokemon/latias-mega/national-dex-monotype/\" hreflang=\"en\">Mega Latias</a> are appreciated. Archaludon and Hisuian Goodra also help a lot against a plethora of threats, with Archaludon providing Stealth Rock while weathering physical assaults from Mega Altaria, <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a>, and opposing Roaring Moon. Whereas Hisuian Goodra takes minimal damage from Tapu Lele and SubRoost <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a> while also having the ability to phaze out threats Roaring Moon struggles to handle like Autotomize <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a> or <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>. Kyurem and Z-move <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a> wear down the defensive cores of Water, Flying, Poison, Steel, and Normal teams which can provide an opening for Roaring Moon to clean up these teams late-game. Mega Altaria and Mega Latias love Roaring Moon removing Mega Diancie and Iron Valiant, as this opens up an opportunity for them to overwhelm Fairy and Fighting teams late-game. <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> wears down Steel- and Poison-types like Skarmory and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> that Roaring Moon has trouble with, sets Spikes, and can phaze out threats like Volcarona and Unburden <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a> that take advantage of Roaring Moon.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Dragon Dance (Dragon)",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Roaring Moon capitalizes on opponents' overfamiliarity with its Choice Scarf set to set up Dragon Dance and overwhelm opposing teams. +1 Z-Crunch OHKOes <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex-monotype/\" hreflang=\"en\">Slowbro</a>, and physically defensive <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>, OHKOes Unaware <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a> normally, and OHKOes <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a> after some chip damage. Alternatively, Knock Off removes items from checks like <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> and Rotom-W before Roaring Moon sets up and sweeps later. Knock Off is also preferred on Heavy-Duty Boots sets, as it offers more utility and upfront damage. Earthquake complements its Roaring Moon's Dark-type STAB attack by dealing with Fairy- and Dark-types like <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> and <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>. Substitute gives Roaring Moon safety while setting up, turning Slowbro and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> into setup fodder, while Iron Head enables it to clean up Fairy teams at +1 if it finds time to set up; Iron Head also OHKOes <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> at +0. <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a> with Dragon Dance or Agility complements Roaring Moon, dealing with Fighting- and Dragon-types like <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, and opposing Mega Altaria that Roaring Moon struggles with. Mega Altaria can also use Will-O-Wisp to prevent Celesteela, <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a> from breaking Roaring Moon's Substitute in one hit. Choice Scarf <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a> handles Fighting-types like Iron Valiant and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>, and it provides Healing Wish to provide Roaring Moon with a second chance to sweep. <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a> provide crucial neutralities to Ice and Fairy, and they deal with <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>, respectively. Teammates that wear down Steel teams like <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/latios-mega/national-dex-monotype/\" hreflang=\"en\">Mega Latios</a>, <a href=\"/dex/sv/pokemon/walking-wake/national-dex-monotype/\" hreflang=\"en\">Walking Wake</a>, and Kommo-o are appreciated; in return, Roaring Moon tears through their checks in Celesteela, Alolan Muk, and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Slowking</a>.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Darkinium Z",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Dragon Dance (Dark)",
+          "pokemon": "Roaring Moon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Groundium Z",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Outrage",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              },
+              {
+                "user_id": 593863,
+                "username": "CrossHeart"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Air Slash",
+    "Bite",
+    "Body Press",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brick Break",
+    "Crunch",
+    "Dark Pulse",
+    "Dig",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Spin",
+    "Flamethrower",
+    "Fly",
+    "Focus Energy",
+    "Giga Impact",
+    "Headbutt",
+    "Heat Wave",
+    "Hurricane",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Incinerate",
+    "Iron Head",
+    "Jaw Lock",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Metal Claw",
+    "Night Slash",
+    "Outrage",
+    "Protect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Roost",
+    "Scale Shot",
+    "Scary Face",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Snarl",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Throat Chop",
+    "Thunder Fang",
+    "U-turn",
+    "X-Scissor",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "name": "Crobat",
+  "alias": "crobat",
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "stats": [
+    85,
+    90,
+    80,
+    70,
+    80,
+    130
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility (Poison)",
+          "pokemon": "Crobat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Crobat finds a solid role on Poison teams thanks to its Ground immunity, high Speed, and solid utility movepool. Brave Bird deals with threats such as <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>. Infiltrator + Toxic is used to spread status against targets such as Substitute <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>, while U-turn can be used to retain momentum against foes like <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>. Defog provides longevity to teammates including <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> by removing entry hazards so they can get the most out of their bulk. The EV spread allows Crobat to outspeed threats like <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a> while still providing reasonable bulk, allowing it to take hits such as Freeze-Dry from Substitute Kyurem and +2 Dark Pulse from Hydreigon. Crobat greatly appreciates bulky teammates such as <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and Mega Venusaur that can take Knock Off from the likes of Alolan Muk, <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, preventing it from losing its Heavy-Duty Boots. Mega Venusaur also complements Crobat by handling Ground-types such as <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>, <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>. Alolan Muk provides a complementary Psychic immunity and can handle Psychic- and Ghost-type threats like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/sv/pokemon/slowking-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>, and Gholdengo thanks to Knock Off and Pursuit. <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a> can handle Electric-, Rock-, and Steel-type threats including <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a>, <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, and Ferrothorn that can otherwise wall Crobat. Sneasler can similarly threaten Steel- and Rock-types threats like Hisuian Goodra, <a href=\"/dex/sv/pokemon/tyranitar/national-dex-monotype/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/national-dex-monotype/\" hreflang=\"en\">Ogerpon-C</a> thanks to Close Combat, and it appreciates Crobat's ability to switch into bulky Ground-types like <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>.</p>",
+          "abilities": [
+            "Infiltrator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 56,
+              "spe": 200
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Crobat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Speed outruns <a href=\"/dex/sv/pokemon/swellow/national-dex-ru/\" hreflang=\"en\">Swellow</a></p>\n<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Brave Bird",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Super Fang",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 40,
+              "spa": 0,
+              "spd": 0,
+              "spe": 216
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

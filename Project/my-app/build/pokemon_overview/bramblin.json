@@ -1,0 +1,138 @@
+{
+  "name": "Bramblin",
+  "alias": "bramblin",
+  "types": [
+    "Grass",
+    "Ghost"
+  ],
+  "stats": [
+    40,
+    65,
+    30,
+    45,
+    35,
+    60
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Spinner",
+          "pokemon": "Bramblin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Wind Rider"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Grass",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 236,
+              "def": 36,
+              "spa": 0,
+              "spd": 0,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Astonish",
+    "Beat Up",
+    "Block",
+    "Bullet Seed",
+    "Confuse Ray",
+    "Curse",
+    "Defense Curl",
+    "Disable",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Giga Drain",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Hex",
+    "Infestation",
+    "Leaf Storm",
+    "Leech Seed",
+    "Mega Drain",
+    "Night Shade",
+    "Pain Split",
+    "Phantom Force",
+    "Poltergeist",
+    "Pounce",
+    "Power Whip",
+    "Protect",
+    "Rapid Spin",
+    "Rest",
+    "Rollout",
+    "Scary Face",
+    "Seed Bomb",
+    "Shadow Ball",
+    "Shadow Sneak",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spikes",
+    "Spite",
+    "Strength Sap",
+    "Substitute",
+    "Tera Blast",
+    "Thief",
+    "Trailblaze"
+  ]
+}

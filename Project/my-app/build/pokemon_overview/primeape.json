@@ -1,0 +1,225 @@
+{
+  "name": "Primeape",
+  "alias": "primeape",
+  "types": [
+    "Fighting"
+  ],
+  "stats": [
+    65,
+    105,
+    60,
+    60,
+    70,
+    95
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Stealth Rock",
+          "pokemon": "Primeape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Primeape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 244,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Assurance",
+    "Beat Up",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Close Combat",
+    "Counter",
+    "Covet",
+    "Cross Chop",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Earthquake",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Final Gambit",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Energy",
+    "Focus Punch",
+    "Fury Swipes",
+    "Giga Impact",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Beam",
+    "Ice Punch",
+    "Lash Out",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Metronome",
+    "Night Slash",
+    "Outrage",
+    "Overheat",
+    "Poison Jab",
+    "Protect",
+    "Rage Fist",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Scratch",
+    "Screech",
+    "Seed Bomb",
+    "Seismic Toss",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Smack Down",
+    "Spite",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swagger",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Uproar",
+    "U-turn",
+    "Vacuum Wave"
+  ]
+}

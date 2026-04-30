@@ -1,0 +1,166 @@
+{
+  "name": "Kitsunoh",
+  "alias": "kitsunoh",
+  "types": [
+    "Ghost",
+    "Steel"
+  ],
+  "stats": [
+    80,
+    103,
+    85,
+    55,
+    80,
+    120
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Kitsunoh",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Trace"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Strike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 104,
+              "atk": 152,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Bulldoze",
+    "Bullet Punch",
+    "Close Combat",
+    "Confuse Ray",
+    "Copycat",
+    "Curse",
+    "Dark Pulse",
+    "Defog",
+    "Dig",
+    "Earthquake",
+    "Endeavor",
+    "Facade",
+    "Fake Out",
+    "False Swipe",
+    "Feather Dance",
+    "Flail",
+    "Flash Cannon",
+    "Fling",
+    "Foul Play",
+    "Giga Impact",
+    "Hex",
+    "Hone Claws",
+    "Hyper Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Knock Off",
+    "Lick",
+    "Low Kick",
+    "Memento",
+    "Metal Claw",
+    "Metal Sound",
+    "Meteor Mash",
+    "Metronome",
+    "Night Shade",
+    "Pain Split",
+    "Perish Song",
+    "Play Rough",
+    "Poltergeist",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Scratch",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Shadow Sneak",
+    "Shadow Strike",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Spite",
+    "Steel Beam",
+    "Strength Sap",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Super Fang",
+    "Tail Whip",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder Punch",
+    "Torment",
+    "Trick",
+    "Trick Room",
+    "Upper Hand",
+    "U-turn",
+    "Will-O-Wisp",
+    "Wish",
+    "Yawn"
+  ]
+}

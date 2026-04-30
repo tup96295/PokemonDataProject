@@ -1,0 +1,131 @@
+{
+  "name": "Impidimp",
+  "alias": "impidimp",
+  "types": [
+    "Dark",
+    "Fairy"
+  ],
+  "stats": [
+    45,
+    45,
+    30,
+    55,
+    40,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dual Screens",
+          "pokemon": "Impidimp",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Parting Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 156,
+              "atk": 0,
+              "def": 196,
+              "spa": 0,
+              "spd": 116,
+              "spe": 36
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Assurance",
+    "Bite",
+    "Burning Jealousy",
+    "Chilling Water",
+    "Confide",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Draining Kiss",
+    "Drain Punch",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Fake Tears",
+    "Flatter",
+    "Fling",
+    "Foul Play",
+    "Lash Out",
+    "Leech Life",
+    "Light Screen",
+    "Low Kick",
+    "Metronome",
+    "Misty Terrain",
+    "Nasty Plot",
+    "Parting Shot",
+    "Play Rough",
+    "Protect",
+    "Reflect",
+    "Rest",
+    "Scary Face",
+    "Sleep Talk",
+    "Substitute",
+    "Sucker Punch",
+    "Swagger",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder Wave",
+    "Torment",
+    "Trailblaze",
+    "Trick"
+  ]
+}

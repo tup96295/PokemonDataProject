@@ -1,0 +1,153 @@
+{
+  "name": "Finizen",
+  "alias": "finizen",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    70,
+    45,
+    40,
+    45,
+    40,
+    75
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Finizen",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Water Veil"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 36,
+              "atk": 0,
+              "def": 0,
+              "spa": 236,
+              "spd": 0,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 484613,
+                "username": "Lokifan"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Agility",
+    "Aqua Jet",
+    "Aqua Tail",
+    "Astonish",
+    "Blizzard",
+    "Body Slam",
+    "Boomburst",
+    "Bounce",
+    "Charm",
+    "Chilling Water",
+    "Counter",
+    "Disarming Voice",
+    "Dive",
+    "Double Hit",
+    "Draining Kiss",
+    "Encore",
+    "Endure",
+    "Facade",
+    "Fling",
+    "Focus Energy",
+    "Haze",
+    "Helping Hand",
+    "Hydro Pump",
+    "Ice Beam",
+    "Icy Wind",
+    "Liquidation",
+    "Mist",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Sleep Talk",
+    "Substitute",
+    "Supersonic",
+    "Surf",
+    "Swift",
+    "Take Down",
+    "Tera Blast",
+    "Tickle",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Zen Headbutt"
+  ]
+}

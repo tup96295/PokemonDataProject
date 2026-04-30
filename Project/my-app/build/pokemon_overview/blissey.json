@@ -1,0 +1,1629 @@
+{
+  "name": "Blissey",
+  "alias": "blissey",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    255,
+    10,
+    10,
+    75,
+    135,
+    55
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Healing Wish",
+                "type": null
+              },
+              {
+                "move": "Heal Bell",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Uber",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pink Blob (Specially Defensive)",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Blissey functions as an blanket check to special attackers on balance and stall teams, being especially useful against hard-to-check special threats such as Calm Mind <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>, <a href=\"/dex/sv/pokemon/chi-yu/uber/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/walking-wake/uber/\" hreflang=\"en\">Walking Wake</a>.</li>\n<li>Seismic Toss is Blissey's only way to reliably deal damage to most opposing Pokemon, while Shadow Ball is able to do decent damage to <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a>.</li>\n<li>Thunder Wave is extremely useful to cripple common switch-ins such as <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and can also find use against Flutter Mane and Terastallized Miraidon.</li>\n<li>Blissey is a reliable setter of Stealth Rock, which can free up moveslots on <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a>, but you should note that opposing Great Tusk and Iron Treads as well as <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> have little difficulty clearing entry hazards on Blissey.</li>\n<li>The Tera Type is quite flexible. Tera Ground is very useful against Calm Mind + Parabolic Charge Miraidon sets, as it completely negates their recovery and allows Blissey to force out them out.</li>\n<li>Tera Fire gives Blissey the ability to better take on Chi-Yu, with Heavy-Duty Boots negating the Stealth Rock weakness.</li>\n<li>Tera Ghost provides a Fighting-type immunity and allows Blissey to switch out of <a href=\"/dex/sv/pokemon/dugtrio/uber/\" hreflang=\"en\">Dugtrio</a> and <a href=\"/dex/sv/pokemon/gothitelle/uber/\" hreflang=\"en\">Gothitelle</a>.</li>\n<li>Solid defensive walls such as <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a>, Great Tusk, <a href=\"/dex/sv/pokemon/dondozo/uber/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/scream-tail/uber/\" hreflang=\"en\">Scream Tail</a>, and <a href=\"/dex/sv/pokemon/dachsbun/uber/\" hreflang=\"en\">Dachsbun</a> are good teammates to take on physical attackers like Koraidon that commonly come in on Blissey.</li>\n<li>Blissey is not capable of handling all Miraidon sets on its own, so <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a>, and Iron Treads are heavily recommended teammates. In turn, these Ground-types have less pressure on them to stay healthy and can focus more on setting entry hazards.</li>\n<li>Care should be taken against Miraidon and Iron Bundle, which often use pivoting moves or Taunt to gain momentum on Blissey. Proper prediction with Blissey's teammates may be required to handle this.</li>\n<li>As a result, Rocky Helmet is an option, as it does damage to U-turn, Flip Turn, and Electro Drift users, making Miraidon and Iron Bundle unable to pivot on Blissey for free. If running Rocky Helmet, make sure you have plenty of Pokemon that can deal with entry hazards, such as Corviknight, Great Tusk, Iron Treads, and <a href=\"/dex/sv/pokemon/hatterene/uber/\" hreflang=\"en\">Hatterene</a>.</li>\n<li>Flutter Mane is difficult for Blissey to reliably check due to Taunt and Psyshock sets, so Corviknight and <a href=\"/dex/sv/pokemon/garganacl/uber/\" hreflang=\"en\">Garganacl</a> can help pick up the slack. In return, both appreciate Blissey being a safe switch-in to Iron Bundle.</li>\n</ul>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Ground",
+            "Fire",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 50695,
+            "username": "Manaphy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 273339,
+                "username": "Lasen"
+              },
+              {
+                "user_id": 249382,
+                "username": "Aberforth"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its staggering special bulk, Blissey is the greatest wall to most special attackers in the tier. Thanks to Natural Cure, it also acts as a solid status absorber, preventing the likes of <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>'s Malignant Chain, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>'s Toxic, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>'s Will-O-Wisp from ruining it permanently. Calm Mind gives Blissey a way to check dangerous setup sweepers like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> more reliably, able to match their Special Attack boosts with its own Special Defense boosts, as well as boosting its coverage moves in case it runs them. Seismic Toss is Blissey's go-to damaging move, compensating for its lack of offensive stats and preventing it from being entirely passive. Blissey can also be used to compress roles as the team's Stealth Rock setter, giving it another way to wear down the opposing team, as its longevity and bulk allow Blissey to set Stealth Rock multiple times over the course of a game. If another Stealth Rock setter is present, it can run either Shadow Ball to hit problematic Ghost-types like Gholdengo and Dragapult as well as Tera Ghost users like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and Raging Bolt looking to exploit its Seismic Toss or Flamethrower to similarly hit Gholdengo hard and fish for burns in longer games, especially against phsyical attackers like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> attempting to switch in and threaten Blissey out. Protect is a niche option that allows Blissey to safely absorb Future Sight, scout Choice item users like Gholdengo and Darkrai, stall out weather turns, and waste the PP of powerful moves like Close Combat, Headlong Rush, and Pyro Ball. Heal Bell is also an option, allowing Blissey to take a cleric role for the team, particularly helpful to support Rest <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>.</p>\n<p>With such high HP, Blissey chooses to invest EVs in Defense and Special Defense instead, still bolstering its absurd special bulk while lessening the damage from physical moves that would otherwise chip it down, particularly improving its matchup against mixed attackers like Dragapult. The longevity from Leftovers is preferred the most; in particular, this improves the rolls of avoiding the 2HKO from Choice Specs Protosynthesis Tera Water Modest <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> on sun, which can otherwise be a difficult matchup for stall teams without expending Tera Water on Blissey. However, on teams lacking strong hazard removal then Heavy-Duty Boots can be used instead. Tera Dark gives Blissey a crucial Psychic immunity, allowing it to ignore the dangerous Psyshock, Stored Power, Psychic Noise, and Future Sight from the likes of <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, Primarina, and Gholdengo. Tera Water offers Blissey a resistance to Water and Fire, useful for checking threats like Choice Specs Walking Wake under sun and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>. Tera Fairy is a niche option that turns Blissey's Fighting weakness into a resistance as well as a better matchup against mixed attackers like Dragapult and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>.</p>\n<p>Blissey's titanic bulk makes it mandatory on stall teams, which can tolerate its passive nature. Dondozo pairs exceptionally well with Blissey, forming an excellent stalwart defensive core that can wall the vast majority of threats in the metagame. Blissey also enjoys teammates like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, which can switch into physical threats like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> that Blissey cannot wall, as well as absorb Knock Off that would otherwise cripple Blissey, while Blissey can handle special attackers like Raging Bolt and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> that would threaten Blissey's teammates. Another excellent partner is <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, which can check boosted special threats like Darkrai, Gholdengo, and Raging Bolt that can overwhelm Blissey throughout a game, with the pairing making stall team's sturdiest backbone against the metagame's special attackers. Furthermore, either Blissey or Clodsire can run Stealth Rock, freeing up the other to run moves like Heal Bell or Flamethrower for Blissey or Amnesia for Clodsire, and running Tera Dark on Clodsire gives Blissey more freedom to run Tera Water. <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> also works well with Blissey, serving as a Knock Off absorber, entry hazard remover, and a check against dangerous physical threats like Kingambit and Zamazenta. <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> is also an adept Defogger and a check to physical attackers like Zamazenta, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/lokix/ou/\" hreflang=\"en\">Lokix</a> that can threaten Blissey out.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 616497,
+            "username": "FayaWizard"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 177111,
+                "username": "Magcargo"
+              },
+              {
+                "user_id": 408271,
+                "username": "Dreadfury"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Tank",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Healing Wish enables Blissey to bring a teammate such as <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a> or <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a> back up to full HP in matchups where they are vastly preferred over Blissey. Shadow Ball, while a major decrease in pressure compared to Seismic Toss, prevents Blissey from being hard-walled by Ghost-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/froslass/monotype/\" hreflang=\"en\">Froslass</a>.</p>",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Blissey is an invaluable wall on Normal teams thanks to its gigantic HP and incredible Special Defense, making it the premier special wall for the type, easily handling threats like <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>. Seismic Toss acts as Blissey's main form of damage, providing a consistent form of pressure against bulky targets like <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. Stealth Rock wears down would-be problems for Normal teams like <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>. Finally, Thunder Wave can cripple offensive threats such as <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, making it far easier for teammates like <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a> and <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a> to outspeed and remove them. The main EV spread maximizes Blissey's Defense, enabling Blissey to handle weak physical attackers like <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> comfortably. The alternative EV spread still retains respectable physical bulk while increasing Blissey's capabilities to handle special attacks from foes such as <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>.</p>\n<p><a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a> serves as a wonderful physically bulky Pokemon to complement Blissey; it handles threats like physical <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> while appreciating Blissey checking threats like <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> for Porygon2. <a href=\"/dex/sv/pokemon/braviary/monotype/\" hreflang=\"en\">Braviary</a> can also work as a physically bulky support for Blissey, being capable of handling Ground- and Fighting-types like <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> along with providing Defog support should Blissey lose its Heavy-Duty Boots. Hisuian Zoroark checks Ghost-types such as <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a> that Blissey is unable to hit, along with checking Body Press from the likes of <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/avalugg/monotype/\" hreflang=\"en\">Avalugg</a>. <a href=\"/dex/sv/pokemon/terapagos/monotype/\" hreflang=\"en\">Terapagos</a> can provide Rapid Spin support for Blissey and has coverage options like Ice Beam and Flamethrower to handle foes like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, respectively. Ursaluna can eliminate bulky targets such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, and opposing Blissey quickly while appreciating its own Blissey's Thunder Wave, enabling Ursaluna to outspeed Choice Specs Greninja and <a href=\"/dex/sv/pokemon/iron-crown/monotype/\" hreflang=\"en\">Iron Crown</a>. Choice Scarf <a href=\"/dex/sv/pokemon/ditto/monotype/\" hreflang=\"en\">Ditto</a> can copy threats like Swords Dance <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, which attempt to use Blissey as setup fodder, and turn that power against them. Ditto also helps to stall out bulky walls like <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, which are not particularly bothered by Blissey. Choice Scarf <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> can outspeed and check problematic Fighting-types like Choice Specs <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>, Great Tusk, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and provides Healing Wish should Blissey need it.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            },
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 246753,
+                "username": "RoyalReloaded"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 315566,
+                "username": "AceTrainerOrange"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!</p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-f-dex-updates-and-suggestions.3734864/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind Support",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>The old reliable special wall is still viable, but it now takes a more active role through the use of Calm Mind.</p>\n</li>\n<li>\n<p><strong>Flamethrower</strong>: Flamethrower is great at hitting Tera Steel users like <a href=\"/dex/sv/pokemon/latios/battle-stadium-singles/\" hreflang=\"en\">Latios</a> that are commonly employed against stall teams.</p>\n</li>\n<li>\n<p><strong>Alluring Voice</strong>: Alluring Voice catches targets trying to set up alongside Blissey, confusing them if they boosted their stats in the same turn.</p>\n</li>\n<li>\n<p><strong>Fling with Poison Barb</strong>: Fling with Poison Barb gives Blissey a one-time opportunity to poison foes, and is preferred over Toxic Orb since it doesn't poison Blissey itself prior to being thrown. Fling also gets rid of Choice items from Trick users.</p>\n</li>\n<li>\n<p><strong>Stealth Rock</strong>: Stealth Rock remains a trusty support move for Blissey, punishing teams that are forced to switch around Blissey and its teammates.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Shadow Ball</strong>: Shadow Ball can deal good damage to special Ghost-type sweepers like <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>. However, Blissey will no longer be able to reliably hit <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a>, which is a matchup Blissey is normally expected to handle.</p>\n</li>\n<li>\n<p><strong>Fling with Flame Orb or Toxic Orb</strong>: This is as close as it gets to Blissey regaining Toxic, though getting burned or badly poisoned is devestating if Blissey is the last Pokemon around, making it a risky option.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Blissey is known for shrugging off big special hits with ease. However, its presence at team preview often attracts hard counters, and Tera is one way of dealing with that.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Steel Tera resists the STAB attacks of Latios and Archuladon while also granting a Fairy resistance for the Flutter Mane matchup. It also prevents poison, which can otherwise force Blissey to switch out.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: Dark Tera completely ruins Latios's attempts to break through Blissey with Stored Power or Psychic Noise, at least forcing a Calm Mind war. However, Blissey becomes much more vulnerable to Choice Specs Flutter Mane.</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: The Fighting-type immunity comes in handy for Blissey and prevents it from being trapped, though it does become more vulnerable to Gholdengo.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water puts the brakes on Choice Specs Tera Fire <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>’s wallbreaking parade, ruining its ability to reliably 2HKO Blissey.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Poison Barb</strong>: Poison Barb complements Fling, letting Blissey use poison to outlast targets that can't heal.</p>\n</li>\n<li>\n<p><strong>Covert Cloak</strong>: Covert Cloak grants a huge immunity to the healing block of Psychic Noise. Beyond that, it is also fantastic for blocking the passive damage from <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a>'s Salt Cure, flinches from Chi-Yu's Dark Pulse, and Special Defense drops from Latios's Luster Purge.</p>\n</li>\n<li>\n<p><strong>Leftovers</strong>: As is the case with most walls, Leftovers’ passive recovery is a great supplement to Softboiled and helps Blissey be less passive itself.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>4 HP / 252 Def / 252 SpD with Calm or Bold</strong>: Beyond making Tera Blissey that much harder to break by foes like Ursaluna-B and Chi-Yu, going all-in on Special Defense means less frequent Softboiled uses against special attackers, especially with Leftovers.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 Def / 4 Spd with Bold</strong>: Maximizing both HP and Defense gives Blissey a little extra boost in physical bulk.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Poison Barb",
+            "Covert Cloak",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Alluring Voice",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fling",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm",
+            "Bold"
+          ]
+        },
+        {
+          "name": "Bulky Offense",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-c-analysis-reservations.3719447/\">This set does not have a full write-up yet. If you'd like to finish this, feel free to reserve it here!</a></li>\n</ul>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Expert Belt"
+          ],
+          "teratypes": [
+            "Dark",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BH",
+      "outdated": "<p>This analysis was written before BH had a major shakeup. As such, the set(s) and comments may not be up-to-date.</p>",
+      "overview": "<p>Blissey is a solid special wall thanks to its gargantuan HP and good Special Defense, allowing it to tank almost any special attack. This special bulk allows Blissey to forgo Ice Scales for abilities like Magic Guard and Regenerator that give it extra survivability against all forms of chip damage. Its low Attack also lets it deny Strength Sap's healing from most special attackers like <a href=\"/dex/sv/pokemon/miraidon/bh/\" hreflang=\"en\">Miraidon</a> and <a href=\"/dex/sv/pokemon/arceus-fairy/bh/\" hreflang=\"en\">Arceus-Fairy</a>. Blissey has the fatal flaw of having nonexistent Defense, so it is forced out by physical attackers; however, this can also be used to your advantage to offensively Imposter-proof Blissey with said attackers. Blissey faces competition from <a href=\"/dex/sv/pokemon/chansey/bh/\" hreflang=\"en\">Chansey</a> as a Magic Guard user because of Chansey's increased bulk from Eviolite; however, Blissey has the advantage of not being deterred as much by Knock Off. Additionally, Blissey is quite passive, especially against Regenerator users, so it can struggle to progress the game apart from slow pivoting.</p>",
+      "comments": "<h4>Other Options</h4>\n<p>Status-inducing moves such as Glare and Toxic are potential options on the Magic Guard set, but they make Blissey far too passive without providing other utility to be worth it. Miscellaneous utility abilities like Drought and Pressure can be utilized on specific teams, but they are generally niche.</p>\n<h4>Checks and Counters</h4>\n<p><strong>Physical Attackers</strong>: Blissey's abysmal Defense means that virtually any physical attacker threatens it. They have to be careful of Burning Bulwark, however.</p>\n<p><strong>Attackers That Target Defense</strong>: In a similar vein, Blissey cannot check mixed attackers like High Jump Kick <a href=\"/dex/sv/pokemon/sceptile-mega/bh/\" hreflang=\"en\">Mega Sceptile</a> and Secret Sword or Psystrike users like <a href=\"/dex/sv/pokemon/arceus-ghost/bh/\" hreflang=\"en\">Arceus-Ghost</a> and <a href=\"/dex/sv/pokemon/gardevoir-mega/bh/\" hreflang=\"en\">Mega Gardevoir</a>, since they target Blissey's Defense stat.</p>\n<p><strong>Regenerator Users</strong>: Regenerator users like <a href=\"/dex/sv/pokemon/ting-lu/bh/\" hreflang=\"en\">Ting-Lu</a> can shrug off Ruinations from Blissey and use it as an entry point for their various utility.</p>\n<p><strong>Pain Split <a href=\"/dex/sv/pokemon/flutter-mane/bh/\" hreflang=\"en\">Flutter Mane</a></strong>: With Pain Split, Flutter Mane can heavily damage Blissey while healing itself to full HP every time, wasting Blissey's recovery PP and weakening it so other foes such as <a href=\"/dex/sv/pokemon/eternatus/bh/\" hreflang=\"en\">Eternatus</a> can break through it.</p>",
+      "movesets": [
+        {
+          "name": "Magic Guard",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>With Magic Guard, Blissey is immune to all kinds of passive damage like entry hazards, Thunder Cage chip damage, and poison. This lets Blissey very consistently check most special attackers without fear of said passive damage cutting into its longevity. Shore Up is the preferred move option thanks to its consistency, though Wish can also be used as an alternative for more PP and the ability to heal other teammates. Ruination, compared with the Strength Sap blocking potential of Blissey, will completely brick most Strength Sap reliant foes that aren't physical while efficiently wasting recovery PP from other foes that rely on it. It also prevents Blissey from being entirely passive, though it's still questionable against Regenerator users. Topsy-Turvy deters setup from various special attackers, like Torch Song <a href=\"/dex/sv/pokemon/sceptile-mega/bh/\" hreflang=\"en\">Mega Sceptile</a> and Take Heart <a href=\"/dex/sv/pokemon/arceus-fairy/bh/\" hreflang=\"en\">Arceus-Fairy</a>. Burning Bulwark scouts moves, especially from Choice Band users like <a href=\"/dex/sv/pokemon/garchomp-mega/bh/\" hreflang=\"en\">Mega Garchomp</a> thinking they can use Blissey as a free entry point to start wallbreaking only to get permanently crippled by a burn, while additionally letting Blissey use Wish safely. However, it can make Blissey hard to Imposter-proof offensively with your own physical attackers. Teleport is the preferred pivoting move thanks to its negative priority, but Parting Shot can also be used to annoy switch-ins with lowered offenses, and U-turn bypasses Taunt.</p>\n<p>Blissey's ability to block Strength Sap's healing means that virtually every single Choice Band user appreciates it, especially ones that are slower and thus more vulnerable to Strength Sap neutralizing them like <a href=\"/dex/sv/pokemon/blaziken-mega/bh/\" hreflang=\"en\">Mega Blaziken</a>. Additionally, they can also reverse Imposter-proof Blissey if it's not carrying Burning Bulwark. Other teammates like RegenVest <a href=\"/dex/sv/pokemon/celesteela/bh/\" hreflang=\"en\">Celesteela</a> and Ice Scales <a href=\"/dex/sv/pokemon/arceus-steel/bh/\" hreflang=\"en\">Arceus-Steel</a> appreciate Blissey checking threats they cannot, such as Encore <a href=\"/dex/sv/pokemon/miraidon/bh/\" hreflang=\"en\">Miraidon</a>, alongside the occasional Imposter-proofing that Blissey can provide. Blissey is vulnerable to foes that run coverage specifically for it like Shell Side Arm <a href=\"/dex/sv/pokemon/eternatus/bh/\" hreflang=\"en\">Eternatus</a> and Secret Sword <a href=\"/dex/sv/pokemon/arceus-ghost/bh/\" hreflang=\"en\">Arceus-Ghost</a>, strong physical attackers like <a href=\"/dex/sv/pokemon/greninja-ash/bh/\" hreflang=\"en\">Ash-Greninja</a> using it as an entry point, and mixed attackers like <a href=\"/dex/sv/pokemon/necrozma-ultra/bh/\" hreflang=\"en\">Ultra Necrozma</a>. Therefore solid checks to them like Fur Coat <a href=\"/dex/sv/pokemon/audino-mega/bh/\" hreflang=\"en\">Mega Audino</a>, Ice Scales <a href=\"/dex/sv/pokemon/arceus-ground/bh/\" hreflang=\"en\">Arceus-Ground</a>, and RegenVest <a href=\"/dex/sv/pokemon/ting-lu/bh/\" hreflang=\"en\">Ting-Lu</a> make for good partners. Fast offensive teammates like <a href=\"/dex/sv/pokemon/koraidon/bh/\" hreflang=\"en\">Koraidon</a> also synergize well with Wish variants of Blissey to revenge kill setup threats weakened by Ruination.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shore Up",
+                "type": null
+              },
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ruination",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Topsy-Turvy",
+                "type": null
+              },
+              {
+                "move": "Burning Bulwark",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              },
+              {
+                "move": "Parting Shot",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 0,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        },
+        {
+          "name": "Regenerator",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Blissey uses its enormous special bulk and minimal Attack to simultaneously wall special threats and disrupt their Strength Sap recovery while maintaining momentum from Regenerator. Knock Off is a staple move on RegenVest users, while Wish in conjunction with Blissey's HP helps keep teammates healthy. Ruination reduces Blissey's passivity, though Salt Cure is an alternative that can be more effective into Pokemon like <a href=\"/dex/sv/pokemon/celesteela/bh/\" hreflang=\"en\">Celesteela</a> and Flare Boost <a href=\"/dex/sv/pokemon/flutter-mane/bh/\" hreflang=\"en\">Flutter Mane</a>. Clear Smog, Topsy-Turvy, and Glare prevent Blissey from being setup fodder, with the latter being particularly useful against Magic Guard <a href=\"/dex/sv/pokemon/eternatus/bh/\" hreflang=\"en\">Eternatus</a> and Imposter users, while Stone Axe provides utility if setup control is not necessary. Assault Vest further amplifies Blissey's Special Defense against powerful wallbreakers like <a href=\"/dex/sv/pokemon/alakazam-mega/bh/\" hreflang=\"en\">Mega Alakazam</a> that could otherwise outdamage Regenerator healing, while Heavy-Duty Boots prevents entry hazard damage and allows Blissey to access the aforementioned status moves. Blissey pairs incredibly well with very fast offensive Pokemon like Mega Alakazam and <a href=\"/dex/sv/pokemon/sceptile-mega/bh/\" hreflang=\"en\">Mega Sceptile</a>, as it provides slow pivoting, Wish support to offset residual damage for Mega Alakazam and allow Mega Sceptile to forgo Strength Sap, and healing denial against special walls like Ice Scales <a href=\"/dex/sv/pokemon/arceus/bh/\" hreflang=\"en\">Arceus</a> formes, while they revenge-kill numerous threats that Blissey can pivot into, especially those that Blissey cannot beat by itself such as Eternatus and Flare Boost Flutter Mane. Strong physical attackers also work well, as they can offensively Imposter-proof Blissey without conceding momentum; particularly, <a href=\"/dex/sv/pokemon/greninja-ash/bh/\" hreflang=\"en\">Ash-Greninja</a> can pick off chipped Ice Scales Arceus formes. Blissey cannot handle certain special attackers like Psystrike Mega Alakazam, Shell Side Arm Eternatus, and various Secret Sword users, mandating a secondary special wall like Ice Scales users. Depending on the moveset, Blissey can be Imposter-proofed by other RegenVest users or Magic Guard users.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Teleport",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ruination",
+                "type": null
+              },
+              {
+                "move": "Salt Cure",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Clear Smog",
+                "type": null
+              },
+              {
+                "move": "Stone Axe",
+                "type": null
+              },
+              {
+                "move": "Topsy-Turvy",
+                "type": null
+              },
+              {
+                "move": "Glare",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 252,
+              "spd": 252,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 355040,
+            "username": "Chessking"
+          },
+          {
+            "user_id": 589755,
+            "username": "rightclicker"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 355040,
+                "username": "Chessking"
+              },
+              {
+                "user_id": 577920,
+                "username": "Tea Guzzler"
+              },
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "The Blob",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware",
+            "Magic Guard"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heal Bell",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special Wall",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Blissey is a decent, albeit niche, wall and utility Pokemon in AAA with its ability to check most special attackers and extremely diverse movepool. Seismic Toss allows Blissey to not be completely passive and gives it consistent damage. Blissey's last two moveslots are flexible. Calm Mind + Shadow Ball is enough to beat the few special attackers that can otherwise defeat Blissey one-on-one such as Sheer Force <a href=\"/dex/sv/pokemon/gengar/almost-any-ability/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>. Stealth Rock provides entry hazard support to free up a moveslot for a teammate, while Thunder Wave spreads status, crippling Pokemon like <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a> and <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, and Heal Bell allows Blissey to operate as a cleric. Unaware allows Blissey to check special attackers attempting to set up on it like Gholdengo, Tail Glow Manaphy, and <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, while Well-Baked Body allows it to check Iron Moth while also giving it a more favorable matchup into <a href=\"/dex/sv/pokemon/volcarona/almost-any-ability/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>. Magic Guard allows Blissey to avoid chip damage from entry hazards, letting it function as a better wall. Blissey most commonly runs Leftovers, as the extra healing can be extremely helpful, although on teams with more shaky hazard control, Heavy-Duty Boots can be opted for instead. A Calm nature is used to make Blissey function better as a special wall, notiably allowing it to always avoid the 2HKO from Sheer Force Gengar's Focus Blast. Blissey is most notably a special wall that does not require the use of Regenerator, which allows physical walls such as <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> to run it instead. Blissey is most commonly seen on stall and fat team structures. Physically defensive walls like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/deoxys-defense/almost-any-ability/\" hreflang=\"en\">Deoxys-D</a> are a must, as they help deal with Blissey's weakness to physical attackers and make a potent defensive core with it.</p>",
+          "abilities": [
+            "Unaware",
+            "Well-Baked Body",
+            "Magic Guard"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Heal Bell",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              },
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Glare",
+                "type": null
+              },
+              {
+                "move": "Court Change",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Transform",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-5 points</p>\n<p><strong>Overview</strong>: Despite being the bulkiest special wall available and a valuable stall piece in many singles tiers, Blissey's limited viable options and lack of offensive pressure make it relatively easy to prepare for in a given Draft matchup. With that being said, it does encourage specific counterplay like Substitute, disruption, and mixed sets, potentially weakening foes even if it doesn't find its way off the bench. It also has a solid utility movepool, and it's one of the very few Pokemon with access to Heal Bell.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Special Wall</strong>: Blissey's stat spread leaves little room for role creativity. It can tank special hits like none other while annoying foes with Seismic Toss and Thunder Wave. Stealth Rock allows it to deal damage after switching out, and its other support moves keep it and its teammates healthy.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: N/A</p>\n<p><strong>Setup Moves</strong>: N/A</p>\n<p><strong>Utility Moves</strong>: Seismic Toss, Stealth Rock, Thunder Wave, Soft-Boiled, Heal Bell, Healing Wish, Trick</p>\n<p><strong>Coverage</strong>: Shadow Ball, Ice Beam</p>\n<h3>Niche Moves</h3>\n<p><strong>Calm Mind</strong>: Calm Mind prevents specially offensive Ghost-types from setting up against Shadow Ball Blissey—particularly if they're also immune to Thunder Wave. It technically enables Blissey's other coverage options as well, but the abysmal Defense and Speed make this kind of setup very unreliable.</p>\n<p><strong>Charm</strong>: Charm hinders physical setup sweepers if it's too dangerous to switch out or use Thunder Wave.</p>\n<p><strong>Sing</strong>: Sleep is a dangerous tool against certain foes, mainly those with good bulk or immunities to Blissey's other moves. If Sing misses, Blissey's absurd bulk makes it relatively easy to find a second opportunity.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Blissey's natural bulk is plenty, so it appreciates an immunity to entry hazards that might prevent it from walling.</p>\n<p><strong>Leftovers</strong>: Passive HP recovery is great for Blissey, making Leftovers a solid go-to if entry hazards can be kept away.</p>\n<p><strong>Mental Herb</strong>: Mental Herb provides insurance against Taunt and Encore users that aim to take advantage of Blissey's passivity.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Scarf / Lagging Tail</strong>: Trick is one of Blissey's options to prevent setup. Choice Scarf is more devastating for foes, it but makes Blissey somewhat useless until it uses Trick. Lagging Tail lets Blissey function prior to a Trick, but it doesn't stop bulky setup sweepers as well as how Choice Scarf would.</p>\n<p><strong>Eject Button</strong>: Eject Button lets Blissey punish special attackers using pivoting moves by bringing in a wallbreaker teammate.</p>\n<p><strong>Red Card</strong>: Red Card can prevent special attackers from setting up too much by forcing them to switch after Blissey tanks a hit.</p>\n<h3>Tera</h3>\n<p>Blissey isn't a good Tera Captain; its lopsided stats stay that way regardless of type, and it doesn't usually need extra resistances. In a pinch, it could potentially use something like Tera Fairy to resist a Fighting-type attack or Tera Dark to become immune to Stored Power.</p>\n<h3>Draft Strategy</h3>\n<p>Blissey grants unrivaled special bulk and some valuable support, but unfortunately, it kills momentum too much for most Draft games.</p>\n<p><strong>Physical Defense</strong>: If Blissey is to function at all, it needs a partner with good Defense like <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> so it can avoid taking the physical attacks aimed at it.</p>\n<p><strong>Wallbreakers</strong>: Frail attackers like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> can hit the field more times if Blissey is around to tank hits for the team and slow games down.</p>\n<p><strong>Encore</strong>: Teammates with Encore like <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, the <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a> formes, and <a href=\"/dex/sv/pokemon/whimsicott/draft/\" hreflang=\"en\">Whimsicott</a> can punish foes attempting to use Blissey as setup fodder. Infiltrator has similar value, though it's more niche.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Disruption</strong>: Taunt, Encore, and Trick with a Choice item lock Blissey into undesirable moves, preventing it from healing itself or pressuring foes. Its Speed makes it unlikely to act before the disruptor as well.</p>\n<p><strong>Physical Attacks</strong>: Blissey's Defense is so low that it fears many physical attacks even after investing half of its EVs into Defense. Blissey users will have to constantly be wary of physical attacks even from primarily special attackers.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 599989,
+            "username": "scionicle"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Blissey is the best special wall in Ubers UU thanks to Calm Mind and reliable recovery. Shadow Ball hits <a href=\"/dex/sv/pokemon/mewtwo/ubers-uu/\" hreflang=\"en\">Mewtwo</a> and <a href=\"/dex/sv/pokemon/deoxys/ubers-uu/\" hreflang=\"en\">Deoxys</a> hard on the switch while also helping it beat <a href=\"/dex/sv/pokemon/solgaleo/ubers-uu/\" hreflang=\"en\">Solgaleo</a> and <a href=\"/dex/sv/pokemon/spectrier/ubers-uu/\" hreflang=\"en\">Spectrier</a>. Alternatively, Ice Beam 2HKOes <a href=\"/dex/sv/pokemon/landorus/ubers-uu/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a>. Calm Mind is important for Blissey to keep up with the few special attackers that are too strong for it to stall initially, like <a href=\"/dex/sv/pokemon/chi-yu/ubers-uu/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/palkia-origin/ubers-uu/\" hreflang=\"en\">Palkia-O</a> under rain, while also boosting alongside Pokemon like Calm Mind <a href=\"/dex/sv/pokemon/hatterene/ubers-uu/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/arceus-electric/ubers-uu/\" hreflang=\"en\">Arceus-Electric</a>. Seismic Toss provides consistent damage output that Blissey is usually devoid of. Tera Dark is needed for Blissey to resist <a href=\"/dex/sv/pokemon/arceus-dark/ubers-uu/\" hreflang=\"en\">Arceus-Dark</a>'s Judgment and be immune to Stored Power and Psyshock from Hatterene and Psystrike from Mewtwo. Blissey is incredibly specially bulky, which makes it a great teammate for Pokemon like Great Tusk and <a href=\"/dex/sv/pokemon/dondozo/ubers-uu/\" hreflang=\"en\">Dondozo</a>, which are very specially frail. In turn, physical walls like Great Tusk and <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a> help Blissey out immensely, as they can take care of the physical threats to Blissey, like <a href=\"/dex/sv/pokemon/palafin-hero/ubers-uu/\" hreflang=\"en\">Palafin-H</a>, Great Tusk, and <a href=\"/dex/sv/pokemon/landorus-therian/ubers-uu/\" hreflang=\"en\">Landorus-T</a>. Giratina is an especially good pairing with Blissey, as it can switch into the Fighting-type moves Blissey is weak to and burn the threat to neutralize it.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 626445,
+            "username": "Imperial"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 587908,
+                "username": "Leo Justice"
+              },
+              {
+                "user_id": 610920,
+                "username": "vesp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 297659,
+                "username": "deetah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pink Blob",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              },
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Teleport",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Blissey",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Blissey's high Special Defense stat is pivotal to its role as a wall. In addition to its great bulk, it gets access to great utility moves such as Teleport for momentum, Soft-Boiled for reliable recovery and longevity, Toxic to cripple foes, and Stealth Rock to put pressure on <a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex-monotype/\" hreflang=\"en\">Mega Charizard X</a> and Choice Scarf <a href=\"/dex/sv/pokemon/cinderace/national-dex-monotype/\" hreflang=\"en\">Cinderace</a>. Seismic Toss additionally provides a consistent damaging move to chip incoming Pokemon without the means to recover and deal with special attackers such as <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> by taking hits. Blissey runs Heavy-Duty Boots to prevent passive chip from entry hazards to help it create momentum for its teammates. <a href=\"/dex/sv/pokemon/staraptor/national-dex-monotype/\" hreflang=\"en\">Staraptor</a> pairs well with Blissey as part of Normal's defensive core with access to Intimidate and ability to take hits from threats such as <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> and physically offensive <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>. It can also use Defog to remove hazards if Blissey's Heavy-Duty Boots have been removed by Knock Off. Since Blissey is able to take hits from Pokemon such as <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>, it can freely switch into them and then use Teleport to bring in one of Normal's offensive threats such as <a href=\"/dex/sv/pokemon/ursaluna/national-dex-monotype/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/terapagos/national-dex-monotype/\" hreflang=\"en\">Terapagos</a>, or <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>. Ursaluna and Mega Lopunny provide Normal with physical wallbreaking capabilities, while Calm Mind Terapagos can be used as a special wallbreaker. Terapagos can also be used as a bulkier presence to remove hazards with Rapid Spin and poison foes with Toxic. <a href=\"/dex/sv/pokemon/zoroark-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Zoroark</a> allows for mind games to be played, as its secondary typing provides an immunity to Fighting. In addition, it is able to disguise itself as a more passive Pokemon such as Blissey to provide a false sense of security to the opponent. <a href=\"/dex/sv/pokemon/ditto/national-dex-monotype/\" hreflang=\"en\">Ditto</a> provides a counter to setup Pokemon like <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> and <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a>, being able to transform into them and outspeeding them while also potentially reverse sweeping the opponent's team. <a href=\"/dex/sv/pokemon/pidgeot-mega/national-dex-monotype/\" hreflang=\"en\">Mega Pidgeot</a> provides strong Flying-type coverage with Hurricane against Fighting-types such as Choice Specs Iron Valiant and <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Seismic Toss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Soft-Boiled",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 623713,
+            "username": "Don Bork"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 532439,
+                "username": "Bka Onon"
+              },
+              {
+                "user_id": 481576,
+                "username": "kiru"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Alluring Voice",
+    "Avalanche",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Calm Mind",
+    "Charm",
+    "Chilling Water",
+    "Copycat",
+    "Covet",
+    "Dazzling Gleam",
+    "Defense Curl",
+    "Disarming Voice",
+    "Double-Edge",
+    "Drain Punch",
+    "Earthquake",
+    "Echoed Voice",
+    "Electric Terrain",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Punch",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Heal Bell",
+    "Healing Wish",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Last Resort",
+    "Life Dew",
+    "Light Screen",
+    "Metronome",
+    "Pound",
+    "Present",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Seismic Toss",
+    "Shadow Ball",
+    "Sing",
+    "Skill Swap",
+    "Sleep Talk",
+    "Snowscape",
+    "Soft-Boiled",
+    "Solar Beam",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Kiss",
+    "Swift",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trailblaze",
+    "Trick",
+    "Water Pulse",
+    "Wild Charge",
+    "Zen Headbutt"
+  ]
+}

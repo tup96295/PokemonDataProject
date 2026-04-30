@@ -1,0 +1,165 @@
+{
+  "name": "Naviathan",
+  "alias": "naviathan",
+  "types": [
+    "Water",
+    "Steel"
+  ],
+  "stats": [
+    103,
+    110,
+    90,
+    95,
+    65,
+    97
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Naviathan",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Flame Orb"
+          ],
+          "teratypes": [
+            "Normal",
+            "Water",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Facade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              },
+              {
+                "move": "Wild Charge",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Bite",
+    "Blizzard",
+    "Body Press",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brine",
+    "Bubble Beam",
+    "Calm Mind",
+    "Chilling Water",
+    "Crunch",
+    "Dragon Breath",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Drill Peck",
+    "Endure",
+    "Facade",
+    "Feather Dance",
+    "Feint",
+    "Flash Cannon",
+    "Giga Impact",
+    "Gust",
+    "Hard Press",
+    "Haze",
+    "Heavy Slam",
+    "Hurricane",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Ice Punch",
+    "Icicle Crash",
+    "Icicle Spear",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Metal Claw",
+    "Metal Sound",
+    "Metronome",
+    "Muddy Water",
+    "Peck",
+    "Protect",
+    "Psychic Fangs",
+    "Rain Dance",
+    "Rest",
+    "Scald",
+    "Scale Shot",
+    "Scary Face",
+    "Slack Off",
+    "Sleep Talk",
+    "Snowscape",
+    "Splash",
+    "Steel Beam",
+    "Substitute",
+    "Surf",
+    "Taunt",
+    "Tera Blast",
+    "Thunder Fang",
+    "Thunder Punch",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Wave Crash",
+    "Whirlpool",
+    "Wide Guard",
+    "Wild Charge"
+  ]
+}

@@ -1,0 +1,2184 @@
+{
+  "name": "Amoonguss",
+  "alias": "amoonguss",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": [
+    114,
+    85,
+    70,
+    85,
+    80,
+    30
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive Pivot",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Amoonguss is a strong physically defensive pivot thanks to its solid defensive typing, which has many relevant resistances to STAB moves from Pokemon like <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a>, <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a>, and <a href=\"/dex/sv/pokemon/pawmot/pu/\" hreflang=\"en\">Pawmot</a> while also allowing it to function as a solid check to <a href=\"/dex/sv/pokemon/rhydon/pu/\" hreflang=\"en\">Rhydon</a> and <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a>. It also benefits from Regenerator as well as two great status moves in Toxic and Stun Spore to punish switch-ins and defensive Pokemon like the aforementioned. Toxic is useful for punishing common switch-ins like <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a> and <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-Heat</a>, while Stun Spore is more niche but useful for punishing Pokemon immune to Toxic like <a href=\"/dex/sv/pokemon/salazzle/pu/\" hreflang=\"en\">Salazzle</a> and <a href=\"/dex/sv/pokemon/toxicroak/pu/\" hreflang=\"en\">Toxicroak</a>. Foul Play hits Psychic-types like <a href=\"/dex/sv/pokemon/hoopa/pu/\" hreflang=\"en\">Hoopa</a> and <a href=\"/dex/sv/pokemon/delphox/pu/\" hreflang=\"en\">Delphox</a> as well as some physical attackers like <a href=\"/dex/sv/pokemon/ambipom/pu/\" hreflang=\"en\">Ambipom</a> harder than Giga Drain does. Hex also hits Hoopa but has a more limited pool of targets in exchange for synergizing well with Toxic or Stun Spore. Synthesis gives Amoonguss access to reliable recovery, letting it stay in longer, but it is not always needed thanks to Regenerator; however, Sludge Bomb's chance to poison threatens switch-ins like Rotom-Heat, which would otherwise be unafraid of switching into Stun Spore variants of Amoonguss. Stomping Tantrum is also an option to OHKO Salazzle, a Pokemon that Amoonguss is otherwise unable to do much against, and it is a better option in the Amoonguss mirror matchup than Giga Drain, Foul Play, or Hex. Heavy-Duty Boots allows Amoonguss to avoid entry hazard damage, which can rack up quickly and impact its Regenerator recovery. Rocky Helmet lets Amoonguss be less passive and rack up chip damage on physical attackers like <a href=\"/dex/sv/pokemon/grimmsnarl/pu/\" hreflang=\"en\">Grimmsnarl</a> and Triple Axel <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> while annoying U-turn users like <a href=\"/dex/sv/pokemon/zoroark/pu/\" hreflang=\"en\">Zoroark</a> and <a href=\"/dex/sv/pokemon/decidueye-hisui/pu/\" hreflang=\"en\">Hisuian Decidueye</a>. Eject Button synergizes well with Regenerator, giving Amoonguss's team a one-time pivot. Tera Water flips Amoonguss's matchups against threatening Fire-types like <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a> and <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a> on their head; however, Tera Steel is more useful to patch up its Psychic-type weakness versus Pokemon such as <a href=\"/dex/sv/pokemon/bruxish/pu/\" hreflang=\"en\">Bruxish</a> and <a href=\"/dex/sv/pokemon/uxie/pu/\" hreflang=\"en\">Uxie</a> while still keeping its stellar Florges matchup.</p>\n<p>Amoonguss's weakness to strong Fire-type Pokemon such as Salazzle, Arcanine, and Delphox needs to be managed by a partner. As such, it is recommended to run a Water-type like Milotic or <a href=\"/dex/sv/pokemon/cramorant/pu/\" hreflang=\"en\">Cramorant</a> to cover them. Milotic can bring Amoonguss in on its own checks like <a href=\"/dex/sv/pokemon/shaymin/pu/\" hreflang=\"en\">Shaymin</a> with Flip Turn, while Cramorant can remove entry hazards and allow more flexibility in Amoonguss's item slot. In return, Amoonguss can switch into Grass- and Electric-types such as Hisuian Decidueye and Pawmot. Amoonguss's Psychic-type weakness is also prevalent, leaving it weak to Pokemon such as Bruxish and Hoopa, so it is advised to use a Dark-type like Grimmsnarl or Bombirdier that can switch into these threatening Dark-types. These Dark-types appreciate Amoonguss covering Florges for them. Amoonguss fits best on bulky offense teams that appreciate a more reliable defensive option than offensive pivot, so bulky offense staples like <a href=\"/dex/sv/pokemon/avalugg-hisui/pu/\" hreflang=\"en\">Hisuian Avalugg</a> and <a href=\"/dex/sv/pokemon/lanturn/pu/\" hreflang=\"en\">Lanturn</a> are recommended as partners. Status from partners with Scald or Will-O-Wisp like Milotic and Rotom-Heat can boost Hex damage and prevent Amoonguss from taking as much damage from physical attackers.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Rocky Helmet",
+            "Eject Button"
+          ],
+          "teratypes": [
+            "Water",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Stun Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 414072,
+            "username": "Yunie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 355061,
+                "username": "UberSkitty"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 736762,
+                "username": "Ascension Evermore"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Making use of its good bulk, great defensive typing, and longevity from Regenerator, Amoonguss is a sturdy defensive piece tasked with checking imposing breakers like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>. Foul Play KOes Swords Dance Ogerpon-W at +2 after slight chip and threatens other setup sweepers like Swords Dance <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and it has the added benefit of popping <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>'s Air Balloon. Toxic puts opposing walls like <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> and switch-ins like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> on a swift timer and lets Amoonguss strongly pressure special sweepers like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>. Synthesis helps Amoonguss maintain its health, especially if it's forced to take entry hazard damage after losing its Heavy-Duty Boots. Clear Smog is Amoonguss's best option to reduce its passivity against setup sweepers it can't otherwise threaten like Iron Defense + Rest <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and Curse <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and stops it from being overwhelmed by Iron Valiant and Calm Mind <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>. Alternatively, Giga Drain provides Amoonguss with additional healing and threatens Water- and Ground-types like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>. Lastly, Sludge Bomb immediately threatens Fairy- and Grass-types like Iron Valiant, Clefable, and Ogerpon-W while punishing Taunt users like Raging Bolt with a chance to poison. 16 Special Defense EVs allow Amoonguss to survive a +1 Protosynthesis Dragon Pulse from Raging Bolt, with the rest of the EVs poured into physical bulk to ensure Amoonguss checks Ogerpon-W as well as possible. Tera Steel is a broadly useful defensive type that flips Amoonguss's weaknesses and lets it check Pokemon it otherwise couldn't like Kyurem and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> while giving it a stronger matchup against <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>'s Triple Axel. Alternatively, Tera Ghost lets Amoonguss spinblock Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> while granting an immunity to Gliscor's Facade, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed, and Zamazenta's Body Press.</p>\n<p>Amoonguss fits best on stall teams as their strongest check to Ogerpon-W while also serving as a useful Regenerator pivot that can absorb Toxic Spikes. Amoonguss has a suspect matchup into many of the metagame's strongest wallbreakers like Kyurem and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and struggles to make progress against poison-immune Pokemon, especially Gholdengo, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. Furthermore, Foul Play makes it susceptible to contact effects from Zapdos's Static and Moltres's Flame Body, which can impair its ability to answer Ogerpon-W. Bulky Water-types like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and Alomomola love Amoonguss for its ability to check strong Grass-types like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and Ogerpon-W. In return, they handle physical threats like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and Kingambit that threaten Amoonguss. Another strong teammate is <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, which blanket checks strong special attackers like Darkrai, Kyurem, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> that scare Amoonguss out, holds off Zapdos and Moltres, and is a strong response to Gholdengo, which easily walls and sets up on Amoonguss. Blissey appreciates Amoonguss's ability to badly poison sweepers like Raging Bolt and Primarina, while Amoonguss acts as a vent against certain mixed threats like Iron Valiant and <a href=\"/dex/sv/pokemon/keldeo/ou/\" hreflang=\"en\">Keldeo</a> and can help pivot around <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> in sun. Gliscor and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> are crewmates that shield against Pokemon like Iron Moth and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> that easily switch into Amoonguss. Gliscor additionally answers Zapdos and Moltres and strongly threatens them with Knock Off and Toxic, Ting-Lu responds to Pecharunt and absorbs <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>'s Future Sight, and both set entry hazards that help further pressure Ogerpon-W.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Clear Smog",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 16,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608211,
+            "username": "Demon Queen"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Amoonguss is a decent wall in the tier with a solid defensive typing that allows it to check Pokemon such as <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>, and <a href=\"/dex/sv/pokemon/rhyperior/ru/\" hreflang=\"en\">Rhyperior</a>. Amoonguss is more flexible and less prone to being passive than similar walls such as <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> due to its access to Regenerator. With a myriad of support moves such as Stun Spore and Toxic, Amoonguss can make progress against the opposing team by crippling them with status conditions, as well as being a good pivot to threats. However, Amoonguss matches up poorly against common threats in the tier such as <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>. It is also prone to being setup fodder against threats it's normally supposed to check, such as Taunt <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a> and Substitute + Calm Mind <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>. Finally, due to having poor offensive prowess, Amoonguss can easily be overwhelmed by VoltTurn cores despite having Regenerator.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Amoonguss can run Eject Button to act as a pivot, which is suitable on offensive teams because it allows Amoonguss to act as a blanket check to threats and give a safe switch in to a teammate. Alternatively, Amoonguss can also run Eject Pack + Leaf Storm to act as a pivot while dealing decent damage. Clear Smog can be used to stop setup sweepers such as <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a> and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>. Amoonguss can run Synthesis to have reliable recovery, but this restricts its utility, since it has to choose between removing Sludge Bomb, Toxic, or Foul Play.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Flying-types</strong>: <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> can threaten to beat Amoonguss with Flying-type STAB moves. Noivern is especially dangerous due to it commonly running Taunt, which denies Amoonguss from crippling Noivern with status conditions.</p>\n<p><strong>Fire-types</strong>: Fire-types such as <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>, <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>, and <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> can OHKO Amoonguss, while it cannot deal much damage in return. Volcanion in particular does not mind the paralysis, so it is particularly threatening.</p>\n<p><strong>Wallbreakers</strong>: Strong wallbreakers such as <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>, Armarouge, and <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> can break through Amoonguss's bulk with strong STAB moves, and they have an easy time setting up on it.</p>\n<p><strong>Psychic-types</strong>: Psychic-types such as <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> can deal great damage to Amoonguss with their Psychic-type STAB moves, and Amoonguss cannot do much damage in return. Jirachi and Slowbro get crippled significantly by Stun Spore and Toxic, respectively, but Reuniclus shrugs off the status conditions, making it particularly threatening.</p>",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Giga Drain allows Amoonguss to hit Water-types such as <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/politoed/ru/\" hreflang=\"en\">Politoed</a>, and <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a> while allowing it to recover its HP, which is especially useful, since it otherwise can only heal with Regenerator. Stun Spore is a great support move that allows Amoonguss to paralyze foes such as <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, providing good utility for the team and punishing aggressive players by paralyzing Pokemon such as <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. Sludge Bomb can be used to hit Flying-types such as Noivern and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> on the switch in, potentially crippling them with poison. Sludge Bomb deals decent damage to <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and is decent against <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, as they both do not want to get poisoned. Toxic is a great support move that can be used over Sludge Bomb to punish switches that would otherwise match up well against Amoonguss, such as <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a> and Noivern, and it also cripples <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, which otherwise can set up Spikes on Amoonguss. Foul Play lets Amoonguss punish offensive Pokemon trying to set up on it, such as <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a>, <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a>, and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>. Foul Play also prevents Pokemon like Jirachi and Gengar from switching into Amoonguss. Stomping Tantrum can be an option to punish Pokemon that are usually counters to Amoonguss such as <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and it is great when paired up with Toxic due to having double power against the aforementioned Pokemon after Toxic fails. Rocky Helmet allows Amoonguss to punish U-turn users such as Noivern and Jirachi and threatens to KO <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>. Heavy-Duty Boots is excellent on Amoonguss thanks to increasing its longevity. The EV spread ensures Amoonguss avoids being 2HKOed by Draco Meteor from non-Choice Specs Hisuian Goodra and Sludge Wave from unboosted Gengar. The rest of the EVs maximize Amoonguss's physical bulk to ensure it can tank common attacks such as Knock Off from Krookodile and Shadow Claw from Mimikyu better. Tera Steel is a solid defensive typing that allows Amoonguss to flip its Psychic weakness, allowing it to check <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and Jirachi while retaining its Toxic immunity. Tera Water allows Amoonguss to not get flinched down by Iron Head Jirachi and match up better against Volcanion and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>, which are common threats to Amoonguss, as well as allowing Amoonguss to retain the Water resistance. Tera Ghost allows Amoonguss to act as a spinblocker against Cyclizar and match up well versus Fighting-types.</p>\n<p>Amoonguss is a good teammate in bulky offense and balance teams, especially teams based on spreading paralysis. It enjoys teammates like Slowbro that can deal with its threats such as <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, Galarian Zapdos, and Mamoswine. Slowbro and Amoonguss make up a Regenerator core that can pivot into threats accordingly, and their types synergize well, since Amoonguss can deal with Pokemon that threaten Slowbro such as <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a>, Mimikyu, and <a href=\"/dex/sv/pokemon/golurk/ru/\" hreflang=\"en\">Golurk</a>. Pokemon that appreciate paralyzed foes are good teammates, such as Armarouge and Mamoswine, since they are strong but slower wallbreakers. Steel-types have an easier time dealing with Amoonguss, so Pokemon that can punish them are appreciated, such as Armarouge, Mamoswine, and Krookodile. Entry hazard removers like Noivern, Talonflame, and Cyclizar are useful, since Amoonguss is susceptible to being setup fodder for hazards. Offensive Pokemon such as Gardevoir, Choice Specs Hisuian Goodra, and Gengar enjoy Amoonguss's ability to blanket-check revenge killers like Basuclegion-F, Krookodile, and Mimikyu while still being able to keep the momentum thanks to Regenerator.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Water",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stun Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 188,
+              "spa": 0,
+              "spd": 68,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 231398,
+            "username": "feen"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 513635,
+                "username": "Rarelyme"
+              },
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "<p>Amoonguss is a premier physical wall in NU, taking advantage of its typing to check powerful wallbreakers like <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>, <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a>, and <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a>, and, with Regenerator, it can scout out many wallbreakers like <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>, and <a href=\"/dex/sv/pokemon/torterra/nu/\" hreflang=\"en\">Torterra</a>. Additionally, with access to Stun Spore and Toxic as well as with Sludge Bomb's high poison chance, Amoonguss spreads status quite easily, letting it even make progress against checks like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, and <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>. One of the main issues with Amoonguss, though, is that it lets in Poison-types like <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>, <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, and <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a> very freely, and its inability to do much back to them turns it into a liability at times, since they can easily use it as setup fodder. What's more, Amoonguss's weakness to top threats like <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a>, Chandelure, <a href=\"/dex/sv/pokemon/kilowattrel/nu/\" hreflang=\"en\">Kilowattrel</a>, and <a href=\"/dex/sv/pokemon/uxie/nu/\" hreflang=\"en\">Uxie</a> also holds it back quite a bit, and many of the Pokemon that it'd like to check, such as <a href=\"/dex/sv/pokemon/flamigo/nu/\" hreflang=\"en\">Flamigo</a>, <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>, <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/nu/\" hreflang=\"en\">Paldean Tauros-F</a>, and Toxicroak often carry a second typing and STAB attack that invalidates Amoonguss's ability to switch in against them at all.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Amoonguss can use Assault Vest to capitalize on its good resistances, letting it better handle attackers like <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>, <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a>, and <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>. However, in doing so, it won't be able to use Synthesis, making it entirely reliant on Regenerator for healing, and it can't spread status with Toxic and Stun Spore.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Poison-types</strong>: Amoonguss fails to do any meaningful damage to <a href=\"/dex/sv/pokemon/dragalge/nu/\" hreflang=\"en\">Dragalge</a>, <a href=\"/dex/sv/pokemon/overqwil/nu/\" hreflang=\"en\">Overqwil</a>, <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>, and <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a> with solely its STAB moves, leaving the first to use it as a free switch-in and the latter four free to treat it as setup fodder. However, if Amoonguss carries Stomping Tantrum, it can mitigate their ability to capitalize on it.</p>\n<p><strong>Fire-types</strong>: Amoonguss can't touch <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, and <a href=\"/dex/sv/pokemon/typhlosion-hisui/nu/\" hreflang=\"en\">Hisuian Typhlosion</a> too well, meaning they can switch in freely, though they must be cautious of being paralyzed or poisoned.</p>\n<p><strong>Flying-types</strong>: <a href=\"/dex/sv/pokemon/tornadus/nu/\" hreflang=\"en\">Tornadus</a>, <a href=\"/dex/sv/pokemon/kilowattrel/nu/\" hreflang=\"en\">Kilowattrel</a>, <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>, and <a href=\"/dex/sv/pokemon/articuno-galar/nu/\" hreflang=\"en\">Galarian Articuno</a> all can switch in on a Grass-type attack from Amoonguss and threaten it out with their powerful Flying-type attacks. However, they must be cautious of Amoonguss's Sludge Bomb, Stun Spore, and Toxic.</p>\n<p><strong>Ice-types</strong>: <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a>, <a href=\"/dex/sv/pokemon/beartic/nu/\" hreflang=\"en\">Beartic</a>, and <a href=\"/dex/sv/pokemon/sandslash-alola/nu/\" hreflang=\"en\">Alolan Sandslash</a> all threaten Amoonguss with their Ice-type STAB moves. However, the former three loathe switching into it for fear of Sludge Bomb, Toxic, and Stun Spore, while the last dislikes taking a Stomping Tantrum. On top of that, Amoonguss commonly carries Ice-resistant Tera types like Water and Steel, meaning it can take on these threats itself if necessary.</p>",
+      "movesets": [
+        {
+          "name": "The Impostor (Defensive)",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Sludge Bomb is preferred for its poison chance and higher Base Power than Clear Smog; however, Clear Smog can help Amoonguss against setup sweepers like <a href=\"/dex/sv/pokemon/overqwil/nu/\" hreflang=\"en\">Overqwil</a>, <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>, and <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>. Foul Play aids versus physical setup sweepers and wallbreakers like <a href=\"/dex/sv/pokemon/cinccino/nu/\" hreflang=\"en\">Cinccino</a>, Flygon, and <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>. On the other hand, Stomping Tantrum can ensure that Amoonguss isn't walled and taken advantage of by Poison-types like <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, and <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>. Toxic and Stun Spore let Amoonguss cripple setup sweepers like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/nu/\" hreflang=\"en\">Paldean Tauros-F</a>, <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>, and Overqwil, while Synthesis provides a reliable source of healing so that Amoonguss doesn't have to rely solely on Giga Drain and Regenerator. Additionally, due to Stomping Tantrum clearing the Poison- and Steel-types immune to poison, it has great synergy with Toxic. Heavy-Duty Boots guarantees that Amoonguss's Regenerator isn't just rendered moot by entry hazards, but Rocky Helmet punishes physical attackers like <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>, <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a>, and <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a>. Eject Button is also a useful item on Amoonguss, since Amoonguss can immediately recover health by switching out thanks to its Regenerator, and it can bring in a teammate safely on the field. This is largely appreciated by rain teams, which enjoy having their rain sweepers at high health. The given EV spread allows Amoonguss to survive a Bleakwind Storm from <a href=\"/dex/sv/pokemon/tornadus/nu/\" hreflang=\"en\">Tornadus</a>. Tera Water lets Amoonguss take Ice- and Fire-type attacks from <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a>, <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>, <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, and Paldean Tauros-F. Tera Steel, though, lets it take a myriad of special attacks, including Inteleon's Ice Beam, Tornadus's Hurricane, <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>'s Psychic, and <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a>'s Tri Attack. Alternatively, Tera Fairy is a great defensive typing that also maintains Amoonguss's Fighting resistance while making it better into Flygon, <a href=\"/dex/sv/pokemon/heracross/nu/\" hreflang=\"en\">Heracross</a>, and Scyther.</p>\n<p>Opposing Poison-types like Toxicroak, Munkidori, and Toxtricity can be quite problematic for Amoonguss, since they easily switch into it and can use it as setup fodder. Because of this, Pokemon like <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a> make for good teammates. Common Fighting-weak Pokemon like <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a>, Incineroar, and Avalugg pair well with Amoonguss, as it can check Breloom, Paldean Tauros-W, and Heracross. Partners like <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a>, <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a>, and <a href=\"/dex/sv/pokemon/goodra/nu/\" hreflang=\"en\">Goodra</a> pair well with Amoonguss, handling dangerous Fire-types like Paldean Tauros-F, Incineroar, and Chandelure. On the other hand, offensive Water- and Ground-types like Inteleon, Basculegion-M, and Flygon pair well with Amoonguss, since they can capitalize on how it draws in these Fire-types. Amoonguss's ability to spread status like poison and paralysis with Sludge Bomb, Toxic, and Stun Spore onto Pokemon like Incineroar, <a href=\"/dex/sv/pokemon/typhlosion-hisui/nu/\" hreflang=\"en\">Hisuian Typhlosion</a>, and Munkidori is highly appreciated by slower wallbreakers like Chandelure and Heracross. Additionally, Hisuian Typhlosion and Chandelure can take advantage of the status ailments that Amoonguss inflicts on the opposing team with their Infernal Parade and Hex, respectively. Partners like Paldean Tauros-F, Chandelure, and Inteleon enjoy Amoonguss's Water and Grass resistances, letting it be a switch-in to Vaporeon, Paldean Tauros-W, and Breloom, and in the case of the former two, it can also check Flygon for them. Amoonguss sets lacking Heavy-Duty Boots can be easily overwhelmed by having to take both strong attacks from wallbreakers like Flygon and chip damage from entry hazards. To patch this issue, Amoonguss should be paired with hazard removal options like Tidy Up Cinccino, Defog <a href=\"/dex/sv/pokemon/cramorant/nu/\" hreflang=\"en\">Cramorant</a> as well as <a href=\"/dex/sv/pokemon/altaria/nu/\" hreflang=\"en\">Altaria</a>, and Rapid Spin Avalugg.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Stun Spore",
+                "type": null
+              },
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 212,
+              "spa": 0,
+              "spd": 44,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 583607,
+            "username": "PowerOfMemes"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 336073,
+                "username": "Rabia"
+              },
+              {
+                "user_id": 641404,
+                "username": "hammer798"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Grass</h4>\n<p>Stun Spore can be run over Spore in order to slow down foes like <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> to a point where they can be picked off by <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> while keeping the ability to put foes to sleep through teammates' sleep-inducing moves, but the noticeable comparative lack of setup opportunities is usually not worth it. Red Card allows Amoonguss to phase out threatening sweepers like the ones mentioned above in order to deny them sweeping attempts.</p>\n<h4>Poison</h4>\n<p>Energy Ball can be used over Giga Drain for a solid power increase and enabling Amoonguss to always OHKO <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> after a Headlong Rush while also having a favorable roll to break defensive <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a> Substitutes. Rocky Helmet helps check foes such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> more reliably but does give up the safety of Heavy-Duty Boots, which can make Amoonguss less reliable against teams such as Ground and Dark that rely on entry hazard stacking to wear down walls.</p>",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Poison)",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Amoonguss stands as a strong defensive piece for Poison teams thanks to its Grass typing enabling it to check many of the dangerous Ground- and Water-types of the tier such as <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>. Giga Drain serves double duty, keeping Amoonguss healthy along with checking threats like <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>. Foul Play punishes setup attempts by the likes of Swords Dance <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> and Dragon Dance <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> along with pressuring Ghost- and Psychic-types like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>. Spore can allow for safe entry for Amoonguss's teammates.</p>\n<p><a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> can serve as an excellent defensive partner for Amoonguss by dealing with Fire- and Ice-types that stomp Amoonguss too like <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, while Amoonguss can threaten the Ground- and Electric-types that scare Toxapex such as <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, Sandy Shocks, and <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a>. <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> can support Amoonguss by checking problematic special attackers such as <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>. Assault Vest <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> is capable of checking powerful special attackers such as Iron Moth, <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a> with tools such as Earthquake and Ice Beam. <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> provides Defog support in case Amoonguss loses its Heavy-Duty Boots and can check Ground- and Dragon-types Amoonguss struggles against such as <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, Swords Dance <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>. Iron Moth can check Steel- and Ice-types for Amoonguss like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a> and greatly appreciates Amoonguss handling Choice Scarf Urshifu-R and Great Tusk. <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a> and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> can break through problematic special walls that sit on Amoonguss like <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> while also being able to beat down foes such as Heatran, <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, and <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>. Choice Scarf Sneasler can also handle targets such as Choice Scarf <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and Choice Specs Greninja for Amoonguss and greatly appreciates Spore giving it safe entry.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Mixed Wall (Grass)",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Amoonguss is a good defensive stopgap on Grass teams thanks to its good natural bulk, reliable recovery methods in Synthesis and Regenerator, and great typing allowing it to take Fairy- and Poison-type attacks from the likes of Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>. Foul Play is a great option in order to hit threats like Swords Dance <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and Dragon Dance <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, which may try to take advantage of Amoonguss's passive playstyle. Sludge Bomb hits the aforementioned Fairy-types, as well as threatening Grass-types like <a href=\"/dex/sv/pokemon/lilligant-hisui/monotype/\" hreflang=\"en\">Hisuian Lilligant</a> and <a href=\"/dex/sv/pokemon/hydrapple/monotype/\" hreflang=\"en\">Hydrapple</a>. Spore lets Amoonguss facilitate dangerous setup sweeper teammates, like Nasty Plot Hydrapple, Victory Dance Hisuian Lilligant, and Swords Dance <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>. The given EV spread lets Amoonguss survive one Ice Beam from Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> from full health and retaliate by putting it to sleep.</p>\n<p>Spore benefits all of Amoonguss's teammates in terms of giving them free turns to attack or set up. Hydrapple is a great teammate for Amoonguss thanks to its natural defensive synergy—it can take on Fire-type attacks from the likes of <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and retaliate with Earth Power, while Amoonguss can take problematic Fairy-type attacks from the likes of Iron Valiant and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> for Hydrapple. They also form a Regenerator core, allowing them to keep each other healthy by switching into threats that the other cannot deal with. Swords Dance Ogerpon-H crushes troublesome Ice- and Steel-types like <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> that can take advantage of Amoonguss. Hisuian Lilligant is another threatening setup sweeper that hits Ice- and Steel-types like <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, Heatran, and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> incredibly hard, as well as hitting <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, which Amoonguss struggles to make progress against, with Ice Spinner. <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a> is another Fighting-type that can use Swords Dance to break holes in the opposing team, with Mach Punch to hit Dark-types like Greninja and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. In exchange, Amoonguss removes Enamorus for both Breloom and Hisuian Lilligant while freeing both up to run more useful coverage moves, like Rock Tomb for Breloom and Ice Spinner for Hisuian Lilligant, over their respective sleep-inducing moves. Meowscarada can remove items, mainly Leftovers, in order to let Amoonguss more effectively outlast other bulky cores. It also punishes Psychic- and Ghost-type Pokemon that try to take advantage of Amoonguss, like <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a>, and Dragapult, with Knock Off and U-turn. <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a> does very well against passive Pokemon that can engage Amoonguss in a stalemate, like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> or <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>. <a href=\"/dex/sv/pokemon/brambleghast/monotype/\" hreflang=\"en\">Brambleghast</a> removes entry hazards with Rapid Spin while setting its own with Spikes. It also hits troubling Psychic- and Ghost-types like <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> and Flutter Mane with Poltergeist and Shadow Sneak. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a> is another dangerous Swords Dance sweeper that effectively threatens Flying- and Fire-types like Articuno, <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> at +2. <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> makes a great teammate checking Steel-types such as Gholdengo and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 164,
+              "spa": 0,
+              "spd": 104,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 571069,
+            "username": "Dead by Daylight"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 481576,
+                "username": "kiru"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Redirection Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Amoonguss is the tier’s premier redirector, neutralizing foes with Spore and sustaining its teammates with Pollen Puff. Its defensive prowess, coupled with Regenerator, provides the sustainability to soak up hits while supporting its team. Amoonguss pairs incredibly well with setup attackers such as Bulk Up <a href=\"/dex/sv/pokemon/palafin-hero/doubles/\" hreflang=\"en\">Palafin-H</a> and Swords Dance <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a>, which appreciate its redirection and healing capabilities and make up for its near-nonexistent offensive pressure. While Amoonguss is a great support Pokemon, it struggles against Fire-types like <a href=\"/dex/sv/pokemon/heatran/doubles/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/volcanion/doubles/\" hreflang=\"en\">Volcanion</a>, and its utility is diminished by <a href=\"/dex/sv/pokemon/cresselia/doubles/\" hreflang=\"en\">Cresselia</a>'s Lunar Blessing and Safety Goggles users.</p>\n</li>\n<li>\n<p>As the most consistent sleep user in the tier, Amoonguss's Spore forces switches to powder-immune foes. This is especially powerful in Trick Room, as Amoonguss can utilize its low Speed to render foes immobile before they can act.</p>\n</li>\n<li>\n<p>Rage Powder makes it easier for teammates to use setup moves like Swords Dance and Bulk Up or set field conditions such as Trick Room or Tailwind safely. In addition, it can draw attacks away from frail attackers like <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a>, generating space for them.</p>\n</li>\n<li>\n<p>Pollen Puff heals teammates and damages foes in a pinch, allowing Amoonguss to provide value even during the effects of Taunt.</p>\n</li>\n<li>\n<p>Clear Smog enables Amoonguss to check setup threats like Bulk Up Palafin-H and Belly Drum Iron Hands. Protect is helpful in scouting foes’ moves, blocking Fake Out, and improving overall survivability.</p>\n</li>\n<li>\n<p>244 HP and 136 Special Defense EVs ensure that Amoonguss can take two Shadow Balls from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/doubles/\" hreflang=\"en\">Flutter Mane</a> after Sitrus Berry recovery. The remaining EVs are dumped into Defense.</p>\n</li>\n<li>\n<p>28 Speed IVs let Amoonguss underspeed Iron Hands and <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a> under Trick Room.</p>\n</li>\n<li>\n<p>Sitrus Berry improves Amoonguss's survivability when redirecting multiple attacks. Rocky Helmet can be used to rack up damage upon redirecting contact attacks such as Palafin-H's Jet Punch and punish U-turn from <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/landorus-therian/doubles/\" hreflang=\"en\">Landorus-T</a>.</p>\n</li>\n<li>\n<p>Tera Water turns Amoonguss's weaknesses to Fire- and Ice-type moves from foes such as Volcanion and Chien-Pao into resistances. Tera Dark can be used to improve its matchup against <a href=\"/dex/sv/pokemon/indeedee-f/doubles/\" hreflang=\"en\">Indeedee-F</a> and <a href=\"/dex/sv/pokemon/armarouge/doubles/\" hreflang=\"en\">Armarouge</a> teams and gain immunity to Prankster Taunt from <a href=\"/dex/sv/pokemon/tornadus/doubles/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/grimmsnarl/doubles/\" hreflang=\"en\">Grimmsnarl</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Clear Smog",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 208,
+              "spa": 0,
+              "spd": 56,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 28
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 512635,
+            "username": "AIRedzone"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 192134,
+                "username": "ryo yamada2001"
+              },
+              {
+                "user_id": 501951,
+                "username": "zee"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 531334,
+                "username": "zoe"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023. <a href=\"/dex/sv/formats/battle-stadium-singles/\">For more information on this format and its current events, check out this page!</a></p>\n<p><a href=\"/forums/threads/battle-stadium-regulation-c-analyses.3719040/\">If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Amoonguss has a great defensive profile compared to most other Toxic Spikes absorbers, and this set can help it even further with a slow switch to another teammate once per game.</p>\n</li>\n<li>\n<p><strong>Pivoting with Leaf Storm</strong>: After using Leaf Storm, Eject Pack activates and Amoonguss is switched out; however, it can also be activated by other stat drops, such as Intimidate and Special Defense drops from Shadow Ball.</p>\n</li>\n<li>\n<p><strong>Sludge Bomb versus Clear Smog</strong>: Sludge Bomb is preferred for breaking Tera Fairy <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a>'s Substitutes and dealing good chip damage against <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>, but Clear Smog does a great job of clearing boosts from bulky sweepers such as <a href=\"/dex/sv/pokemon/palafin-hero/battle-stadium-singles/\" hreflang=\"en\">Palafin-H</a>.</p>\n</li>\n<li>\n<p><strong>Bold versus Relaxed</strong>: Using Relaxed with a Speed IV of 0 gives Amoonguss the slowest possible pivoting, mostly against mirror matches. However, if both are Terastallized, this means the slower Amoonguss could get hit by Spore, and Amoonguss is already slower than the vast majority of the metagame with Bold.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: While Amoonguss has a good defensive typing, it'll need Terastallization to deal with some top tier threats like <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water gives Amoonguss a key resistance to Ice- and Fire-type attacks, making the matchup against Chien-Pao, <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>, and Chi-Yu much more reasonable.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel makes the Iron Bundle match up tilt in Amoonguss's favor, with even Focus Sash Iron Bundle being unable to catch Amoonguss if Eject Pack is intact.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: A Dark Tera type grants a Psychic-type immunity, along with a STAB Foul Play.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: A Poison Tera type removes Amoonguss's Ice-, Fire-, and Flying-type weaknesses; and makes Clear Smog stronger due to its Base Power being increased to 60 along with the bonus STAB; however this increases its vulnerability to Ground-type attacks. Tera Poison also still retains Amoonguss's Toxic Spikes absorbing utility.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Fire isn't the best defensive typing, but it's a way to retain a Fairy resistance if dealing with Ice- and Fire-type attacks is needed.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Eject Pack"
+          ],
+          "teratypes": [
+            "Water",
+            "Steel",
+            "Dark",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Relaxed"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With good bulk, a solid defensive typing, the ability to absorb Toxic Spikes, and access to Spore and Regenerator, Amoonguss is a fantastic support and disruptor option.</p>\n</li>\n<li>\n<p><strong>Sludge Bomb versus Clear Smog</strong>: Sludge Bomb gives Amoonguss a decent STAB to use against <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>, and breaks <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a>'s Substitute when its weak to it. On the other hand, Clear Smog prevents Amoonguss from getting set up on unless the opponent is Steel-type or has a Substitute up.</p>\n</li>\n<li>\n<p><strong>Giga Drain</strong>: Unlike Sludge Bomb, Giga Drain OHKOs <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a> after Stealth Rock damage, and doesn't have to worry about Tera Water.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Toxic</strong>: Toxic's conflicts with Spore make it a lesser option, but it's a devastating option against some bulky Spore absorbers such as Wo-Chien and <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n<li>\n<p><strong>Hex</strong>: Hex both punishes foes put to sleep by Spore and hits Air Balloon <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>.</p>\n</li>\n<li>\n<p><strong>Stomping Tantrum</strong>: Stomping Tantrum deals decent damage to Gholdengo and <a href=\"/dex/sv/pokemon/magnezone/battle-stadium-singles/\" hreflang=\"en\">Magnezone</a>.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Despite Amoonguss's solid defensive typing, several major threats such as Chien-Pao and <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a> will require Terastallization to deal with.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water is Amoonguss's ticket for dealing with Chien-Pao and Baxcalibur.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: Tera Dark removes its weakness to Psychic-type attacks and makes Foul Play stronger.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison retains Amoonguss's ability to use Black Sludge and absorb Toxic Spikes, at the cost of being weak to the common Earthquake.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: While it makes Amoonguss weak to Ground- and Fighting-type attacks, it also grants Amoonguss a better matchup against Iron Bundle, especially if using Giga Drain.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Leftovers</strong>: The extra recovery from Leftovers pairs well with the free turns Spore often grants Amoonguss.</p>\n</li>\n<li>\n<p><strong>Black Sludge</strong>: Black Sludge is a great way to get around Item Clause if Leftovers is already in use. Note, if Amoonguss Terastallizes into a type that isn't Poison, it will take damage instead.</p>\n</li>\n<li>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet punishes contact moves with residual damage, potentially breaking Focus Sash from foes like <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/great-tusk/battle-stadium-singles/\" hreflang=\"en\">Great Tusk</a> in the process.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Leftovers",
+            "Black Sludge",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Poison",
+            "Steel",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 330577,
+            "username": "Thick Fat Azumarill"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Rocky Helmet",
+            "Mental Herb"
+          ],
+          "teratypes": [
+            "Water",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Leaf Storm",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 236,
+              "atk": 0,
+              "def": 180,
+              "spa": 0,
+              "spd": 92,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 27
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Amoonguss excels as a support Pokemon thanks to its great defensive typing and toolkit. Regenerator gives Amoonguss longevity and allows it to constantly answer <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-f/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> with Rage Powder throughout the game.</p>\n</li>\n<li>\n<p>Amoonguss appreciates <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> allowing it to pivot to activate Regenerator, as well as the Intimidate and Fake Out support Incineroar provides after pivoting in. Incineroar also helps Amoonguss by pressuring the powder-immune Grass-types and weakening threats like <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> and opposing Incineroar, while Amoonguss can keep it healthy through Pollen Puff and protect it from Pokemon like Urshifu-R and Flutter Mane in return.</p>\n</li>\n<li>\n<p>Amoonguss also pairs well with frail offensive Pokemon like Urshifu-R, which threatens problematic Fire-types like Incineroar and <a href=\"/dex/sv/pokemon/entei/vgc24-regulation-f/\" hreflang=\"en\">Entei</a>. Amoonguss can also protect Urshifu-R from Flutter Mane and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a> through Rage Powder.</p>\n</li>\n<li>\n<p>Amoonguss struggles against Pokemon like Entei and <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-f/\" hreflang=\"en\">Chi-Yu</a>, which threaten to OHKO it, as well as Grass-types like <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> or opposing Amoonguss who can ignore it. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> with Follow Me can be an issue because it restricts Amoonguss from putting foes to sleep.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Amoonguss can use Spore to disable the majority of the metagame and enable offensive partners in the process. It can also use Pollen Puff to keep its partners healthy as well as pressure <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> with super effective chip damage</p>\n</li>\n<li>\n<p>Amoonguss can utilize Sitrus Berry for burst healing and to survive the 2HKO from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>'s Shadow Ball. It can also opt for Rocky Helmet to punish physical attackers, especially <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>.</p>\n</li>\n<li>\n<p>The HP EVS optimize Sitrus Berry recovery, and in conjunction with the Defense and Special Defense EVs, it survives the OHKO from Adamant <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> Ice Spinner and the 2HKO from <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>'s Shadow Ball, respectively.</p>\n</li>\n<li>\n<p>Amoonguss makes use of Tera Water, as it synergizes with its original typing while keeping a resistance to Water. This enables it to take on <a href=\"/dex/sv/pokemon/entei/vgc24-regulation-f/\" hreflang=\"en\">Entei</a>, Chien-Pao, and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> while keeping its role as a consistent Urshifu-R answer. This is great for Amoonguss as many of these Pokemon like to partner together. Tera Fairy can be used instead to resist <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-S</a>'s STAB moves and not be vulnerable to Ogerpon-W after Terastallizing.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 180,
+              "spa": 0,
+              "spd": 84,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 27
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 518634,
+                "username": "Sole Survivor"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Amoonguss's great typing, access to Regenerator, and excellent toolkit allow it to function as a top-notch support Pokemon with the ability to check and, with Spore, shut down <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> throughout the game. Amoonguss uses Pollen Puff to heal its teammates, providing its team the upper hand in longer games. However, Sludge Bomb can be used instead of Pollen Puff or Protect to 2HKO the <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon</a> formes that can redirect Spore. Amoonguss uses Rocky Helmet to better answer Urshifu-R and break Focus Sash on <a href=\"/dex/sv/pokemon/mienshao/vgc24-regulation-g/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a>, and <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-S</a>. Amoonguss can opt for Covert Cloak to obtain a Fake Out immunity. Mental Herb can be used instead to protect against Taunt from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>. Sitrus Berry can also be used for burst healing, allowing Amoonguss to avoid the 2HKO from Tornadus's Bleakwind Storm. The EV spread with a Bold nature allows Amoonguss to survive Adamant Chien-Pao's Icicle Crash and, with Sitrus Berry, avoid the 2HKO from <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>'s Shadow Ball. A Calm nature lets Amoonguss avoid the 2HKO from <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>'s Astral Barrage and survive Chien-Pao's Ice Spinner. 27 Speed IVs make Amoonguss slower than <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>, so it can use Spore before Calyrex-I moves under Trick Room. Amoonguss prefers Tera Fairy to check <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a> and have a neutral matchup against the majority of the metagame. Tera Water is to answer <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> and Calyrex-I while keeping the resistance to Water. This is good because it allows Amoonguss to take on common duos like Chien-Pao + Urshifu-R. Tera Dark can be used to resist Calyrex-S's Astral Barrage and gain an immunity to Tornadus's Prankster Taunt.</p>\n<p>Amoonguss struggles against Pokemon that ignore Spore and Rage Powder such as <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-H</a>, Safety Goggles Incineroar, and Tera Grass Calyrex-I. This makes Incineroar a great partner, as it can threaten the Grass-types and use Knock Off to remove opposing Safety Goggles. <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> helps Amoonguss with rain and Wide Guard, protecting it from Calyrex-I's Glacial Lance. Pelipper can also use Hurricane and Weather Ball to pressure the aforementioned Amoonguss checks. Amoonguss can help Incineroar and Pelipper by redirecting Urshifu-R's and Raging Bolt's threatening STAB moves, respectively.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Covert Cloak",
+            "Mental Herb",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Water",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 188,
+              "spa": 0,
+              "spd": 76,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 27
+            }
+          ],
+          "natures": [
+            "Bold",
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              },
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Amoonguss is an excellent support Pokemon in Regulation I, primarily thanks to a great movepool and unique typing. Amoonguss can consistently protect its teammates from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/iron-hands/vgc25-regulation-i/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a> by walling them throughout a game because of Regenerator.</li>\n<li>Amoonguss uses Pollen Puff to heal its bulkier allies and threaten a 2HKO on <a href=\"/dex/sv/pokemon/brute-bonnet/vgc25-regulation-i/\" hreflang=\"en\">Brute Bonnet</a>​; however, it can use Sludge Bomb to better threaten <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a>. In niche situations, Amoonguss can also run Sludge Bomb or Clear Smog over Protect to maintain offensive pressure or deny opposing ​setup while healing its allies at the same time.</li>\n<li>Amoonguss prefers Rocky Helmet to cripple many physical threats it redirects towards itself, most notably Urshifu-R. Amoonguss can use Covert Cloak to gain an immunity to Fake Out, helping it apply more pressure with Spore and Rage Powder.</li>\n<li>The HP EVs give Amoonguss optimal health for Regenerator and, in conjunction with the Defense EVs, ensure Amoonguss survives Glacial Lance from <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> and Icicle Crash from <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a>, with the rest dumped into Special Defense. 27 Speed IVs allow Amoonguss to be slower than minimum Speed base 50s like <a href=\"/dex/sv/pokemon/ursaluna/vgc25-regulation-i/\" hreflang=\"en\">Ursaluna</a> and Calyrex-I.</li>\n<li>Amoonguss uses Tera Water thanks to its resistance to Fire- and Ice-type STAB attacks from the likes of <a href=\"/dex/sv/pokemon/incineroar/vgc25-regulation-i/\" hreflang=\"en\">Incineroar</a> and Chien-Pao. Amoonguss also appreciates maintaining its ​resistance to Water, ensuring it can still handle Urshifu-R. Tera Fire can also be used, as it grants Amoonguss the same crucial resistances​ but sacrifices its resistance to Water for a resistance to Grass-type moves, allowing it to adequately take on Ogerpon-H and still deal with Rillaboom.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Amoonguss struggles with its lack of presence once it is Taunted by Pokemon like <a href=\"/dex/sv/pokemon/tornadus/vgc25-regulation-i/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/flutter-mane/vgc25-regulation-i/\" hreflang=\"en\">Flutter Mane</a>. <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a> can threaten to OHKO it before it moves with Draco Meteor and deny Spore with its Electric Terrain. Other Pokemon that can OHKO Amoonguss are also troublesome, most notably Psychic <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a>, <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/chi-yu/vgc25-regulation-i/\" hreflang=\"en\">Chi-Yu</a>, and Ogerpon-H.</li>\n<li>Incineroar is easily Amoonguss's best partner, as it can check Calyrex-S, Chi-Yu, Chien-Pao, and Ogerpon-H, even weakening the last two with Intimidate. Incineroar can use Knock Off to remove Safety Goggles and threaten Grass-types with Flare Blitz, ensuring that Amoonguss is free to use Spore and Rage Powder. Incineroar appreciates Amoonguss's ability to redirect and switch into threatening Water- and Fighting-types like Urshifu-R, Iron Hands, and Zamazenta-C. They can also work as a pivot core thanks to their recyclable abilities and Incineroar's Fake Out.</li>\n<li>Amoonguss finds major success on Calyrex-S + <a href=\"/dex/sv/pokemon/terapagos/vgc25-regulation-i/\" hreflang=\"en\">Terapagos</a> compositions; with Spore and Rage Powder, it allows Terapagos to safely set up in the face of the Fighting-types. Amoonguss can also heal up Terapagos, enabling ​setup opportunities and potentially gaining back Tera Shell.</li>\n<li>Urshifu-R is another one of Amoonguss's preferred partners, as it quickly takes care of Incineroar, Chi-Yu, and Chien-Pao​ while appreciating how well Amoonguss can handle Rillaboom and <a href=\"/dex/sv/pokemon/raging-bolt/vgc25-regulation-i/\" hreflang=\"en\">Raging Bolt</a>.</li>\n</ul>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Water",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 236,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 36,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 27
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Amoonguss generally likes bulkier partners that can play long games with lots of switching because of its ability to find a time to sleep an important part of the opposing team in order to allow a partner like <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a> or <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> to set up and sweep.</li>\n<li><a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> is a great partner for Amoonguss, as it switches into the Fire- and Ice-type attacks that threaten Amoonguss, lowers opposing Pokemon's Attack with Intimidate, which makes Amoonguss even harder to KO, and can help Amoonguss find times to switch out in order to get healing from Regenerator with Fake Out and Parting Shot. <a href=\"/dex/sv/pokemon/porygon2/vgc/\" hreflang=\"en\">Porygon2</a> is another strong partner, setting Trick Room for Amoonguss while benefiting from Amoonguss redirecting Fighting-type attacks that threaten it and Taunt, which could prevent Porygon2 from setting Trick Room or healing with Recover.</li>\n<li>Amoonguss is very weak into Pokemon that it cannot put to sleep like Gholdengo, Safety Goggles Incineroar, and <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a>, as its attacks will not be doing very much damage while its foes can freely set up or attack into its teammates. Incineroar can help with this, since it can threaten Gholdengo and Rillaboom with Flare Blitz and remove opposing Safety Goggles with Knock Off.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>Amoonguss mainly works as a bulky support Pokemon. Ideally, it can find value at any point in the game, as healing from Sitrus Berry and Regenerator let it stay healthy.</li>\n<li>Amoonguss's presence on a team works to force the opponent to bring Pokemon that cannot be put to sleep. This can be taken advantage of by not bringing Amoonguss game one of a set but bringing it game two where the opponent could respect it less.</li>\n<li>Amoonguss's biggest checks are Pokemon that it cannot put to sleep with Spore, whether it's Gholdengo, Grass-types like Rillaboom and opposing Amoonguss, or Safety Goggles Pokemon like Incineroar and Kingambit. This can be played around by pivoting around Spore immunities with Amoonguss to try and find a time to put an important Pokemon to sleep.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Amoonguss's main purpose is to disrupt the opposing team with Spore while protecting teammates with Rage Powder and healing them through Pollen Puff.</li>\n<li>Protect is the best fourth move most of the time because it means that the opponent can not freely double target Amoonguss. Clear Smog can be used as an answer to <a href=\"/dex/sv/pokemon/dondozo/vgc/\" hreflang=\"en\">Dondozo</a> teams, but it is not required to beat Dondozo as Amoonguss's best friend <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> can cycle Intimidate and Parting Shot to weaken Dondozo while Amoonguss uses Spore to put it to sleep.</li>\n<li>Sitrus Berry lets Amoonguss avoid being KOed by a double up or being KOed by three hits of Dragon Darts from <a href=\"/dex/sv/pokemon/dragapult/vgc/\" hreflang=\"en\">Dragapult</a>. Rocky Helmet lets Amoonguss punish physical attackers like <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>, <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a>, and <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a> that want to use contact moves like Wave Crash, Rage Fist, and Population Bomb into Amoonguss's partners with Rage Powder.</li>\n<li>Tera Water lets Amoonguss resist attacks like Make It Rain from <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, Blizzard from <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a>, and Flare Blitz from Incineroar at the cost of becoming weak to Wood Hammer from <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a>. Tera Fairy is used on teams that have a rough <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> matchup, letting Amoonguss easily redirect its attacks and put it to sleep with Spore while being a typing not weak to most of the metagame's attacks; however, it means that Amoonguss can't resist Make It Rain from Gholdengo, a Pokemon that it struggles with already.</li>\n<li>The defensive investment lets Amoonguss survive Hurricane from <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a>, 150-Base Power Last Respects from Basculegion-M, Blood Moon from Life Orb <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a>, Guts-boosted Facade from <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a>, and Flare Blitz from Incineroar. 27 Speed IVs let it underspeed the Ursaluna formes in Trick Room.</li>\n</ul>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 156,
+              "spa": 0,
+              "spd": 108,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 27
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 645750,
+            "username": "iPetBigfoot"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 501951,
+                "username": "zee"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Spinner",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Black Sludge",
+            "Heavy-Duty Boots",
+            "Eject Button"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Apple Acid",
+                "type": null
+              },
+              {
+                "move": "Matcha Gotcha",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Relaxed"
+          ]
+        },
+        {
+          "name": "RegenVest",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Apple Acid",
+                "type": null
+              },
+              {
+                "move": "Matcha Gotcha",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              },
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 200,
+              "spa": 0,
+              "spd": 60,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Amoonguss serves as the tier's prime disruptor thanks to its various powerful support moves alongside Regenerator, which can also be used by its ally to regain HP upon switching out. With its bulk, it can redirect and absorb various hits by using Rage Powder, as well as threatening to debilitate foes with Spore. Pollen Puff heals Amoonguss's ally even under the effects of Taunt, and Clear Smog negates attempts to set up against Amoonguss. Protect can be used over Clear Smog if Amoonguss's team has ample ways of beating setup Pokemon or does not have enough protection moves to share. Sitrus Berry is best for aiding in Amoonguss's longevity, allowing it to take more hits while redirecting attacks or spreading sleep. The EV spread allows it to survive two uses of Bleakwind Storm from Timid <a href=\"/dex/sv/pokemon/tornadus/partners-in-crime/\" hreflang=\"en\">Tornadus</a> with Sitrus Berry, and 28 Speed IVs allow it to underspeed base 50 Speed Pokemon with minimum investment such as <a href=\"/dex/sv/pokemon/kingambit/partners-in-crime/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-hands/partners-in-crime/\" hreflang=\"en\">Iron Hands</a>. Unfortunately, Amoonguss struggles against opposing Grass-types and <a href=\"/dex/sv/pokemon/gholdengo/partners-in-crime/\" hreflang=\"en\">Gholdengo</a> because of their immunity to Spore, so teammates like <a href=\"/dex/sv/pokemon/heatran/partners-in-crime/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/landorus-therian/partners-in-crime/\" hreflang=\"en\">Landorus-T</a> are welcome to prevent Gholdengo from being on the battlefield. Amoonguss also struggles against Pokemon with Safety Goggles, so it appreciates Pokemon like <a href=\"/dex/sv/pokemon/incineroar/partners-in-crime/\" hreflang=\"en\">Incineroar</a> that can remove said item with Knock Off to help improve Spore's utility. Tera Water allows Amoonguss to resist Fire- and Ice-type attacks from <a href=\"/dex/sv/pokemon/chien-pao/partners-in-crime/\" hreflang=\"en\">Chien-Pao</a> and Incineroar while preserving its resistance against Water-type attacks, while Tera Dark gives it an immunity to Psychic-type attacks from Pokemon like <a href=\"/dex/sv/pokemon/hoopa-unbound/partners-in-crime/\" hreflang=\"en\">Hoopa-U</a> and provides an immunity to Prankster-boosted moves, most importantly Taunt from Tornadus.</p>\n<h4>Notable Partners</h4>\n<p><strong>Fast Pokemon or Pokemon With Prankster</strong>: While Amoonguss is very slow, Prankster Pokemon such as Tornadus and <a href=\"/dex/sv/pokemon/grimmsnarl/partners-in-crime/\" hreflang=\"en\">Grimmsnarl</a> solve this issue by allowing themselves and Amoonguss to have a Prankster-boosted Spore. Fast Pokemon such as Chien-Pao also appreciate being able to use Spore against slower Pokemon.</p>\n<p><strong>Other Defensive Utility Pokemon</strong>: Amoonguss is a good fit on bulkier teams thanks to giving its ally Regenerator and Clear Smog. Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/partners-in-crime/\" hreflang=\"en\">Ting-Lu</a> and Incineroar appreciate Amoonguss's ability to give them Regenerator, greatly increasing their longevity, and in return, they give Amoonguss more utility moves in order to be less passive.</p>\n<p><strong>Setup Attackers</strong>: Pokemon such as Iron Hands and Gholdengo appreciate Amoonguss's ability to redirect attacks so they can set up safely. Furthermore, Swords Dance <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/partners-in-crime/\" hreflang=\"en\">Ogerpon-H</a> has Mold Breaker, giving Amoonguss the ability to use Spore on Gholdengo.</p>\n<p><strong>Trick Room Setters</strong>: Trick Room setters like <a href=\"/dex/sv/pokemon/diancie/partners-in-crime/\" hreflang=\"en\">Diancie</a> or <a href=\"/dex/sv/pokemon/porygon2/partners-in-crime/\" hreflang=\"en\">Porygon2</a> allow Amoonguss's poor Speed stat to shine, giving themselves and Amoonguss the chance to use Spore on both of the opposing Pokemon. These Pokemon also appreciate Amoonguss being able to redirect certain attacks to ensure Trick Room is set.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Water",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Clear Smog",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 92,
+              "spa": 0,
+              "spd": 164,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 28
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 438997,
+            "username": "HiZo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 294287,
+                "username": "yuki"
+              },
+              {
+                "user_id": 550768,
+                "username": "Chromate"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 6-7 points</p>\n<p><strong>Overview</strong>: Amoonguss acts as a status-spreading wall, taking advantage of Regenerator, Spore, and Toxic. Its Poison typing grants it some valuable resistances, the ability to absorb Toxic Spikes, and an advantage against many Spore-immune Pokemon. It can also be rather difficult for many Pokemon to 2HKO thanks to its solid mixed defenses. Unfortunately, its suspect attacking stats and movepool leave it with very little offensive pressure and set diversity. It's for this reason that it becomes incredibly hard to fit onto drafts, as it struggles to keep up with the offensive, fast-paced nature of the metagame.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wall</strong>: Amoonguss nearly always attempts to wall a number of specific Pokemon on the opponent's draft and spread status as it does so. It can easily remain healthy throughout games thanks to Regenerator, Synthesis, and Giga Drain.</p>\n<p><strong>Eject Button Pivot</strong>: Eject Button allows Amoonguss to act as a one-time safe pivot into a teammate. After using its item, it can still function as a regular wall.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Sludge Bomb, Giga Drain, Leaf Storm, Grass Knot, Seed Bomb</p>\n<p><strong>Setup Moves</strong>: Don't be like me and run Growth</p>\n<p><strong>Utility Moves</strong>: Spore, Toxic, Stun Spore, Synthesis, Foul Play, Clear Smog</p>\n<p><strong>Coverage</strong>: Hex, Stomping Tantrum, Pollen Puff</p>\n<h3>Niche Moves</h3>\n<p><strong>Worry Seed</strong>: Worry Seed shuts down ability-reliant Pokemon such as Poison Heal <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> and Contrary <a href=\"/dex/sv/pokemon/serperior/draft/\" hreflang=\"en\">Serperior</a>.</p>\n<h3>Common Items</h3>\n<p><strong>Eject Button</strong>: Amoonguss can often take one hit from a foe without fear. Eject Button capitalizes on this by bringing in a more threatening teammate. Regenerator keeps Amoonguss healthy after this interaction, so it can remain a roadblock to foes.</p>\n<p><strong>Heavy-Duty Boots</strong>: Spikes can wear down Amoonguss quickly despite Regenerator unless it has Heavy-Duty Boots.</p>\n<p><strong>Black Sludge</strong>: Black Sludge keeps Amoonguss healthy, making it harder to KO. It tends to be interchangeable with Heavy-Duty Boots, but it can be less consistent against hazard-stacking teams.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet provides extra damage to chip down opposing physical attackers.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: Resistance Berries are used to let Amoonguss lure in wallbreakers that would normally be able to net a KO on it, then put them to sleep with Spore.</p>\n<p><strong>Assault Vest</strong>: Amoonguss can more consistently check some special attackers like <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/hydrapple/draft/\" hreflang=\"en\">Hydrapple</a> with the help of an Assault Vest. However, this comes at the cost of not letting it use Spore or other status moves.</p>\n<p><strong>Red Card</strong>: Clear Smog and status can stop opposing setup attempts, but some Pokemon are immune. Red Card is a similar option that works on all foes, provided Amoonguss can survive a hit.</p>\n<h3>Tera</h3>\n<p>Amoonguss should usually not be considered as a Tera Captain due to its lack of offensive presence. However, Tera types like Tera Water, Fairy, and Steel allow it to wall more foes than it would normally be able to. As such, it can be an acceptable secondary Tera Captain if paired with a threatening attacker that uses Tera most games.</p>\n<h3>Draft Strategy</h3>\n<p>Amoonguss is taken to complement a draft's earlier picks. The following roles can benefit from its support.</p>\n<p><strong>Offense</strong>: Amoonguss's pitiful offensive stats and typing mean that it needs powerful teammates to make progress. It can support Pokemon like <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-Therian</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> by taking hits from their checks and potentially wearing them down.</p>\n<p><strong>Blanket Checks</strong>: Other defensively-oriented Pokemon like <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a> are better at handling many attackers and cover some of Amoonguss's weaknesses to form a strong defensive core.</p>\n<p><strong>Entry Hazard Setters</strong>: Amoonguss can make use of Stealth Rock and Spikes to damage its checks repeatedly as they switch into it. It also enjoys walling foes that are poisoned by Toxic Spikes, though this prevents the use of Spore on those foes.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Safety Goggles</strong>: Safety Goggles can be used to nullify Amoonguss's most dangerous attack. This allows many Pokemon to safely switch in on it and take advantage of its passivity.</p>\n<p><strong>Steel- and Poison-types</strong>: Many Steel- and Poison-types such as <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> have very little to fear from Amoonguss if they're immune to Spore due to Sleep Clause or another effect.</p>\n<p><strong>Substitute</strong>: Most foes can outspeed Amoonguss and prevent status via Substitute, becoming even more effective due to its weak attacks.</p>\n<p><strong>Strong Wallbreakers</strong>: Wallbreakers like <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a> have no trouble shredding Amoonguss's defenses thanks to their strong super effective hits. Neutral hits from some wallbreakers like <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a> or <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> can also threaten 2HKOs, especially if Amoonguss is invested in the opposing defensive stat.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 599989,
+            "username": "scionicle"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive (Def, SpD)",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 8,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Specially defensive Amoonguss uses its great typing and servicable bulk alongside Regenerator to bolster its team against threats like <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>, <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>, mixed <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a>, <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>. Despite investing mainly in Special Defense, Amoonguss can still help teams play around certain physical attackers like <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>, Choice Band <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>, Zeraora, and <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>. Sludge Bomb hits targets like Enamorus and Clefable harder with the ability to cripple <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a> and <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-uu/\" hreflang=\"en\">Mega Gallade</a> as they switch in, but Clear Smog can be used to ease matchups against Calm Mind sweepers like Clefable, <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>, and <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-uu/\" hreflang=\"en\">Tapu Fini</a>. Foul Play hits Scizor and Aegislash hard, OHKOing the former at +2 after slight chip damage and the latter at +4 when in Shield Forme or at +2 when in Sword Forme. Spore allows Amoonguss to threaten <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a>, which would otherwise completely wall it, and significantly improves Amoonguss's threat level if they need to be preserved in a matchup. Stomping Tantrum is only run alongside both Assault Vest and 56 Attack EVs with a Sassy Nature, which allows Amoonguss to OHKO <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, complemented by the fact that Assault Vest allows Amoonguss to better take attacks like Iron Moth's Fiery Dance, Keldeo's Supersonic Skystrike, and <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a>'s Devastating Drake. However, Heavy-Duty Boots are preferred to allow Amoonguss to repeatedly switch into threats like Enamorus, Aegislash, and Rotom-W without being worn down by entry hazards. The given EV spread allows Amoonguss to survive +2 Shadow Claw from Aegislash and Triple Axel from Choice Scarf Mienshao after Stealth Rock, as Amoonguss is liable to having its Heavy-Duty Boots removed by Knock Off. Specially defensive Amoonguss is typically seen on balance and bulky teams looking for a reliable option to help deal with special attackers that can also reliably absorb status or Knock Off for teammates like Celesteela, <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>. While Amoonguss can deal with many special threats, its reliance on Regenerator for healing leaves it liable to being overwhelmed by strong special attackers like Hydrapple and repeated hits from <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> and Aegislash. Teammates such as Celesteela, <a href=\"/dex/sv/pokemon/blissey/national-dex-uu/\" hreflang=\"en\">Blissey</a>, and Scizor can pair together with Amoonguss to handle these attackers more reliably in shorter games while also handling threats like <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a> and Mega Latias that Amoonguss cannot. In return, Amoonguss can scout the movesets of these options and soak up residual damage long-term, allowing these partners to stay healthy and exert pressure on the opposing team more reliably. While Amoonguss can often scout the movesets of physical threats like Mienshao and Swords Dance Aegislash, reliable counters to these Pokemon such as Buzzwole are recommended to ensure that a team can deal with these Pokemon long-term. Amoonguss also appreciates partners that can set hazards, such as Hippowdon, Clefable, Skarmory, and Blissey, as they ensure that it can wear down the attackers it's tasked with handling while it remains healthy itself.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              },
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 72,
+              "spa": 0,
+              "spd": 184,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 589016,
+            "username": "Danbear02"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 546157,
+                "username": "Iride"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Redirection Support",
+          "pokemon": "Amoonguss",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>The given EV spread allows Amoonguss to survive a Heat Wave from <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-doubles/\" hreflang=\"en\">Mega Charizard Y</a>, allocating the remaining EVs into Defense.</li>\n<li>An alternative EV spread of 240 HP / 208 Def / 60 SpD allows Amoonguss to survive an Icicle Crash from <a href=\"/dex/sv/pokemon/chien-pao/national-dex-doubles/\" hreflang=\"en\">Chien-Pao</a>.</li>\n</ul>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Fire",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Pollen Puff",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 232,
+              "atk": 0,
+              "def": 96,
+              "spa": 0,
+              "spd": 180,
+              "spe": 0
+            },
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 208,
+              "spa": 0,
+              "spd": 60,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Astonish",
+    "Body Slam",
+    "Bullet Seed",
+    "Clear Smog",
+    "Defense Curl",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Foul Play",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Terrain",
+    "Growth",
+    "Hex",
+    "Hyper Beam",
+    "Ingrain",
+    "Leaf Storm",
+    "Magical Leaf",
+    "Mega Drain",
+    "Poison Powder",
+    "Pollen Puff",
+    "Protect",
+    "Rage Powder",
+    "Rain Dance",
+    "Rest",
+    "Rollout",
+    "Scary Face",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Solar Beam",
+    "Spore",
+    "Stomping Tantrum",
+    "Stun Spore",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Scent",
+    "Synthesis",
+    "Tera Blast",
+    "Toxic",
+    "Venoshock",
+    "Worry Seed"
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "name": "Chesnaught",
+  "alias": "chesnaught",
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "stats": [
+    88,
+    107,
+    122,
+    74,
+    75,
+    64
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Chesnaught is a premier physical wall and Spikes setter in RU. With its great bulk and typing that naturally checks threats like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, and <a href=\"/dex/sv/pokemon/rhyperior/ru/\" hreflang=\"en\">Rhyperior</a>, it can consistently find opportunities to set up entry hazards and chip away at the opposing team itself. With utility moves like Knock Off and Leech Seed, Chesnaught can support its team throughout the game while serving as a wall for many physical attackers. Chesnaught has a great matchup against the best spinner in the tier, <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, with the ability to OHKO it should it attempt to remove Spikes. Despite Chesnaught's great matchups against many Pokemon in the tier, its typing leaves it with plenty of poor ones; <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> for instance hit it for super effective damage. Chesnaught's Special Defense is also low, and it will struggle to take any special attacks it does not resist, making it vulnerable to Pokemon like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>. Chesnaught also suffers from a poor matchup against the Defog users of the tier, such as <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a>, that can easily prevent Spikes from staying active.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Chesnaught can use Seed Bomb or Wood Hammer to take advantage of its Grass typing to hit Ground- and Water-types like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. Iron Defense can boost Chesnaught's survivability and the damage of Body Press, allowing it to serve as a potential sweeper. Drain Punch is an alternative Fighting-type move that does less damage but doubles as a source of recovery. Close Combat is another option that does more damage than Body Press, enabling OHKOs on Pokemon like <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> with some Attack investment, although this hinders Chesnaught's role as a tank. Roar can be used to prevent foes like <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a> from setting up. Chesnaught also has access to the incredible setup move Belly Drum, which can make it a very potent setup sweeper should it manage to set up safely. While its Speed is too low to take full advantage of it, Chesnaught can use Trailblaze to boost its Speed or priority Grassy Glide when paired with Grassy Surge <a href=\"/dex/sv/pokemon/thwackey/ru/\" hreflang=\"en\">Thwackey</a>. Tera Fire grants an immunity to burn, a resistance to Fire, and access to Tera Blast Fire that hits <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> and opposing Chesnaught.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fairy-types</strong>: Fairy-types such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/ru/\" hreflang=\"en\">Alolan Ninetales</a> can threaten large damage against Chesnaught, while being able to easily take its attacks. However, both of these can struggle with Knock Off removing their items, and they can be walled by Tera Steel.</p>\n<p><strong>Flying-types</strong>: Chesnaught's 4x weakness to Flying makes it particularly vulnerable to Brave Bird from <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> and Hurricane from <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. While it can Terastallize out of this weakness, the best option to resist those attacks is Steel, which is still hit super effectively by Noivern's Flamethrower and still allows Talonflame to burn it with Will-O-Wisp.</p>\n<p><strong>Psychic-types</strong>: Gardevoir, <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and Slowbro all have attacks that Chesnaught is unable to take. While Knock Off helps, these foes will outspeed Chesnaught or have the bulk to tank it. <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> poses a particular threat, as Chesnaught's attacks will trigger Weak Armor, and Knock Off will activate Weakness Policy, creating danger for the entire team.</p>",
+      "movesets": [
+        {
+          "name": "Spikes",
+          "pokemon": "Chesnaught",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Chesnaught is one of the most reliable Spikes setters and provides a solid defensive backbone for its team. Knock Off hits the Ghost- and Psychic-types like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> that aren't afraid of Body Press while also making foes like <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> more susceptible to entry hazards by removing their Heavy-Duty Boots. Synthesis provides a reliable means for Chesnaught to heal itself, although <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>'s Sand Stream will neuter the effectiveness. Leech Seed is a more offensive form of recovery that provides chip damage to Chesnaught's checks and can also heal its allies. Bulletproof provides an immunity to <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>'s Shadow Ball and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a>'s Sludge Bomb. Rocky Helmet punishes U-turn attackers that want to pivot away from Chesnaught like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>. 52 Speed EVs allow Chesnaught to outspeed uninvested <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, and 204 Defense EVs guarantee that Body Press OHKOes <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> after Spikes. Tera Ghost prevents Cyclizar from using Rapid Spin while also providing Chesnaught an immunity to Fighting, improving its matchup against <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and Terrakion. Tera Water flips Chesnaught's Fire weakness, allowing it to stand up against <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> and <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>. Tera Steel turns the devastating Flying weakness into a resistance to aid against Noivern and Talonflame, in addition to new resistances to Dragon, Fairy, and Psychic which improve its matchup against Cyclizar, <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>, and Jirachi.</p>\n<p>Chesnaught can fit comfortably on any team style that needs a defensive presence like balance, bulky offense, or stall. Special walls like <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, Jirachi, and <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a> are also important due to Chesnaught's poor ability to check the various special attackers of the tier like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and Armarouge. Chesnaught's natural weakness to Flying-types like Noivern and Talonflame will often invite them in and allow it to use Knock Off to remove their Heavy-Duty Boots, making them vulnerable to Stealth Rock set by <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a>, <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>, and <a href=\"/dex/sv/pokemon/rhyperior/ru/\" hreflang=\"en\">Rhyperior</a>. Chesnaught is vulnerable to opposing Spikes, so it appreciates hazard removal from allies like Cyclizar, Noivern, and Talonflame.</p>",
+          "abilities": [
+            "Bulletproof"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Water",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              },
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 204,
+              "spa": 0,
+              "spd": 0,
+              "spe": 52
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 555741,
+            "username": "MachJacob"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 231398,
+                "username": "feen"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Chesnaught",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Bulletproof"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Chesnaught",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Bulletproof"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Flame Body",
+          "pokemon": "Chesnaught",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Chesnaught's bulk, recovery, and useful resistances let it frustrate several common physical attackers, most notably <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/almost-any-ability/\" hreflang=\"en\">Ogerpon-C</a>, and <a href=\"/dex/sv/pokemon/barraskewda/almost-any-ability/\" hreflang=\"en\">Barraskewda</a>, and Spikes provides utility in nearly every matchup. Flame Body has a 30% chance to end the usefulness of opposing offensive pivots, again, most notably Roaring Moon, and greatly frustrates Rapid Spin <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> attempting to clear Spikes. Iron Defense is the preferred fourth move to set up alongside Bulk Up Great Tusk and Swords Dance users like <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/garchomp/almost-any-ability/\" hreflang=\"en\">Garchomp</a>, while Knock Off can help remove Heavy-Duty Boots to further accentuate Spikes. The given EV spread lets Chesnaught outpace <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, giving it extra chances to fish for a burn, as Brave Bird will not 2HKO it after Iron Defense. Chesnaught mostly finds its home on stall teams, where it can find plenty of teammates to switch into its common weaknesses, especially Fire and Psychic, and can find multiple switch-in opportunities to try and activate Flame Body, which is one of the few ways for stall teams to punish pivoting. Chesnaught is especially horrified of Fire-types like <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a>, as they can obliterate it without fear of a burn, and it cannot touch Ghost-types like <a href=\"/dex/sv/pokemon/gengar/almost-any-ability/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/zoroark-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Zoroark</a> without Knock Off, so teammates like Well-Baked Body <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a> are strongly recommended.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 228,
+              "spa": 0,
+              "spd": 0,
+              "spe": 28
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 523866,
+            "username": "UT"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 539679,
+                "username": "GlalieGoesBoom"
+              },
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Body Press",
+          "pokemon": "Chesnaught",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Bulletproof"
+          ],
+          "items": [
+            "Covert Cloak"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Cotton Guard",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Grav Apple",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-7 points</p>\n<p><strong>Overview</strong>: Chesnaught finds itself a niche as a bulky Spikes setter for a relatively low price point. It is largely held back by its Grass / Fighting typing and lack of pivoting, which leaves it vulnerable to several common offensive typings, including a 4x weakness to Flying. However, Chesnaught's reliable recovery, useful utility movepool, key resistances to both Ground and Rock, and immunities to common moves provided by its Bulletproof ability help justify its place in some drafts.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Utility</strong>: With access to entry hazards in Spikes, disruption in Taunt and Roar, recovery in Synthesis and Pain Split, and item removal in Knock Off, Chesnaught can perform a support role for its team. Its typing allows it to act as a defensive switch-in to several common typings. However, it has to watch out for common coverage moves when attempting to switch in, even from physical threats that it should normally wall.</p>\n<p><strong>Bulky Wallbreaker</strong>: Chesnaught's typing matches well offensively against several Pokemon in the meta, allowing it to function as bulky wallbreaker. This ability is bolstered by access to a multitude of setup moves in Iron Defense, Curse, and Swords Dance, giving it different options to set up every game. It can combine this with healing moves like Synthesis and Leech Seed to become very difficult to remove. However, it is still largely held back by its typing and relatively low Special Defense.</p>\n<p><strong>Suicide Lead</strong>: Chesnaught can act as a decent sacrificial lead, as it has tools every lead Pokemon appreciates in Endure, Taunt, Endeavor, and Spikes. However, its middling Speed and lack of priority make it far from ideal for this role, and it is usually better off being used for other roles.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong> Body Press, Close Combat, Drain Punch, Hammer Arm, Low Kick, Seed Bomb, Wood Hammer</p>\n<p><strong>Setup Moves</strong>: Bulk Up, Curse, Iron Defense, Swords Dance, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Brick Break, Endeavor, Knock Off, Pain Split, Rest, Roar, Spikes, Spiky Shield, Super Fang, Synthesis, Taunt</p>\n<p><strong>Coverage</strong>: Crunch, Dragon Claw, Earthquake, High Horsepower, Gyro Ball, Iron Head, Poison Jab, Rock Slide, Shadow Claw, Stone Edge, Thunder Punch, Zen Headbutt</p>\n<h3>Niche Moves</h3>\n<p><strong>Facade</strong>: Chesnaught can fit Facade on some builds if it is expecting to get burned. This may throw off an opposing Pokemon trying to inflict status on it to neutralize it.</p>\n<p><strong>Endure</strong>: Endure allows Chesnaught to survive a hit and get off a final hurrah before fainting if used in conjunction with a Custap Berry. This allows it to overcome its middling Speed stat to get off an additional layer of Spikes, use Endeavor to neutralize an opposing threat, or even use Synthesis to reliably heal up. This combination particularly complements the suicide lead set.</p>\n<p><strong>Rock Tomb</strong>: Rock Tomb allows Chesnaught to achieve satisfactory speed control. Using Rock Tomb to make opposing switch-ins slower can allow it to stay in against Pokemon that would normally threaten it out.</p>\n<h3>Common Items</h3>\n<p><strong>Rocky Helmet</strong>: Chesnaught's high Defense pairs really well with Rocky Helmet. This allows it to rack up constant passive damage while being able to stay relatively healthy through the use of Synthesis.</p>\n<p><strong>Leftovers</strong>: Chesnaught is expected to stay on the field for multiple turns during a battle, making it appreciate constant passive recovery through Leftovers. The use of Leftovers boosts its longevity, making it possible for it to get multiple layers of Spikes and perform its defensive role better.</p>\n<p><strong>Sitrus Berry</strong> Sitrus Berry should be used over Leftovers when Chesnaught is expected to endure a devastating hit more than once in a battle. Getting out of KO range from a powerful move allows it to threaten an opposing Pokemon out or bolster its Defense using Iron Defense, Bulk Up, or Curse to tank more hits.</p>\n<p><strong>Resistance Berries</strong>: Chesnaught's bulk makes it a great candidate for using common resistance Berries. This allows it to overcome its typing-based defensive drawbacks and protects it against common coverage moves. This also eliminates the need to scout for random coverage moves.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage-boosting Items</strong>: Items like Choice Band, Expert Belt, and type-specific damage-boosting items can help Chesnaught reach required damage thresholds, boosting its offensive ability. It is important to note that Body Press is also boosted by Choice Band, meaning Chesnaught can make use of Choice Band without sacrificing bulk.</p>\n<p><strong>Heavy-Duty Boots</strong>: Though Chesnaught takes resisted damage from Stealth Rock, it appreciates a Heavy-Duty Boots allowing it to switch into the field multiple times. It can also be used if the user is expecting the opponent to stack Spikes or Toxic Spikes.</p>\n<p><strong>Custap Berry</strong>:Custap Berry can be used in conjunction with Endure to overcome its low Speed and fire off one last attack.</p>\n<p><strong>Weakness Policy</strong>: Chesnaught can use its weaknesses to its advantage by carrying Weakness Policy to win duels it usually would not. This can also work on surprise lead sets, catching foes off-guard. However, this is still difficult to pull of viably thanks to Chesnaught's middling Special Defense and low Speed, which causes it to be easily revenge killed, making it usually only good for one KO.</p>\n<p><strong>Eject Button</strong>: Chesnaught's high bulk means it can usually absorb a strong move for its team and keep up momentum by getting to switch out for free.</p>\n<p><strong>Mental Herb</strong>: Chesnaught's utility sets are very prone to disruption from opposing Taunt and Encore, making Mental Herb particularly useful for brushing it off once.</p>\n<h3>Tera</h3>\n<p>Though there are usually better Tera Captains available at Chesnaught's price point, it is a decent secondary Tera user, as most of its defensive drawbacks come from its typing. It greatly appreciates Terastallizing into common defensive typings like Tera Fairy, Water, Dragon, and Steel. Tera can also be used to boost the power of Chesnaught's coverage moves. Tera Ghost can be used to block opposing Rapid Spin after setting up Spikes. Iron Defense sets become significantly more potent through the use of Tera, as they can become very difficult to take down after a smart defensive Terastallization.</p>\n<h3>Draft Strategy</h3>\n<p>Chesnaught should never be a Pokemon that draft is built around. It should at best be drafted as a support Pokemon to round out drafts with its specific resistances and utility options. Useful teammates to include alongside Chesnaught include:</p>\n<p><strong>Setup Sweepers</strong>: Setup sweepers appreciate Chesnaught's ability to wear down opposing defensive Pokemon through the use of Spikes, allowing them to fulfil their role better. Pokemon like <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/salamence/draft/\" hreflang=\"en\">Salamence</a>, and <a href=\"/dex/sv/pokemon/necrozma/draft/\" hreflang=\"en\">Necrozma</a> greatly benefit from its support.</p>\n<p><strong>Fast Pivots</strong>: Fast pivots can escape out of opposing super effective moves to bring Chesnaught in safely to resist them. Pivots that are weak to moves that it resists like like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a> are good examples of this.</p>\n<p><strong>Water-types</strong>: Water-types cover most of Chesnaught's weaknesses by taking them at least neutrally. Bulky Water-types like <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a> and Rotom-W greatly complement it defensively. Offensive Water types like <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/manaphy/draft/\" hreflang=\"en\">Manaphy</a>, and <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a> all appreciate Chesnaught's ability to clear opposing bulky Water-types and to tank incoming super effective moves.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Special Wallbreakers</strong>: Chesnaught's low Special Defense makes it very vulnerable to neutral and super effective special moves. Special wallbreakers like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a> can all take advantage of its Special Defense and dish out massive damage. Usually, physical attackers like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> and Palafin can also make use of their Special Attack—and in some cases, special Flying-type coverage—to exploit Chesnaught, making it unable to check them reliably.</p>\n<p><strong>Opposing disruption</strong>: Most of Chesnaught's utility comes from Spikes and Synthesis. Taunt and Encore users like <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a>, <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> can shut it down, rendering it a very passive Pokemon.</p>\n<p><strong>Flying-types</strong>: Chesnaught can do very little against opposing Flying-types, as they resist both of its STAB types and hit it super effectively. Common Flying-type Pokemon like Tornadus-T, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/moltres/draft/\" hreflang=\"en\">Moltres</a> and can usually check it without any issues.</p>\n<p><strong>Entry Hazards</strong>: Chesnaught usually be absorbs Knock Off for its team, which means that opposing entry hazards can eventually wear it down after it loses its Heavy-Duty Boots. Entry hazards can also be used to punish non-Heavy-Duty Boots sets.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 560724,
+            "username": "amyayayy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 620359,
+                "username": "olivia"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Belly Drum",
+    "Bite",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Seed",
+    "Close Combat",
+    "Coaching",
+    "Crunch",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Dragon Claw",
+    "Drain Punch",
+    "Earthquake",
+    "Endeavor",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Feint",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Frenzy Plant",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growl",
+    "Gyro Ball",
+    "Hammer Arm",
+    "Helping Hand",
+    "High Horsepower",
+    "Hyper Beam",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Leaf Storm",
+    "Leech Seed",
+    "Low Kick",
+    "Low Sweep",
+    "Magical Leaf",
+    "Metal Claw",
+    "Mud Shot",
+    "Mud-Slap",
+    "Pain Split",
+    "Pin Missile",
+    "Poison Jab",
+    "Protect",
+    "Quick Guard",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Rollout",
+    "Scary Face",
+    "Seed Bomb",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Smack Down",
+    "Solar Beam",
+    "Spikes",
+    "Spiky Shield",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Super Fang",
+    "Swift",
+    "Swords Dance",
+    "Synthesis",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thunder Punch",
+    "Trailblaze",
+    "Vine Whip",
+    "Wide Guard",
+    "Wood Hammer",
+    "Zen Headbutt"
+  ]
+}

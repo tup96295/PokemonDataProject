@@ -1,0 +1,521 @@
+{
+  "name": "Electrode-Hisui",
+  "alias": "electrode-hisui",
+  "types": [
+    "Electric",
+    "Grass"
+  ],
+  "stats": [
+    60,
+    50,
+    70,
+    80,
+    80,
+    150
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "pokemon": "Electrode-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Electrode is an effective pivot in PU thanks to its incredible Speed stat that lets it outspeed the entire unboosted tier, great STAB combination, and useful utility options. It is so fast that it is not reliant on Choice Scarf, allowing Hisuian Electrode to find a niche over its most direct competitor, <a href=\"/dex/sv/pokemon/rotom-mow/pu/\" hreflang=\"en\">Rotom-C</a>. Leaf Storm is generally preferred as its Grass-type STAB move, allowing Hisuian Electrode to OHKO specially defensive <a href=\"/dex/sv/pokemon/palossand/pu/\" hreflang=\"en\">Palossand</a> and <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a> after slight chip damage, though Giga Drain can be opted for instead, sacrificing power for the lack of Special Attack drop and marginal amounts of recovery. Hisuian Electrode has a wide variety of options in its final moveslot; Taunt is most common to prevent setup attempts from Pokemon like <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a> and <a href=\"/dex/sv/pokemon/frosmoth/pu/\" hreflang=\"en\">Frosmoth</a> as well as preventing entry hazards from being set up from the likes of <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> and <a href=\"/dex/sv/pokemon/uxie/pu/\" hreflang=\"en\">Uxie</a>. Tera Blast is generally ran with Tera Fire and allows Hisuian Electrode to deal with Steel-types such as <a href=\"/dex/sv/pokemon/magneton/pu/\" hreflang=\"en\">Magneton</a> and Alolan Sandslash as well as Grass-types like <a href=\"/dex/sv/pokemon/decidueye-hisui/pu/\" hreflang=\"en\">Hisuian Decidueye</a>, <a href=\"/dex/sv/pokemon/venusaur/pu/\" hreflang=\"en\">Venusaur</a>, and <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a>. Tera Blast Fire also deals heavy damage to Frosmoth, which otherwise isn't afraid of Hisuian Electrode. Finally, Foul Play OHKOes <a href=\"/dex/sv/pokemon/hoopa/pu/\" hreflang=\"en\">Hoopa</a> and picks off weakened boosting sweepers like Tera Poison <a href=\"/dex/sv/pokemon/rhydon/pu/\" hreflang=\"en\">Rhydon</a>, but its usefulness is low otherwise. Tera Ghost is a valuable Tera type utility-wise, allowing Hisuian Electrode to emergency check Normal-type attacks such as <a href=\"/dex/sv/pokemon/ambipom/pu/\" hreflang=\"en\">Ambipom</a>'s Fake Out and <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a>'s Extreme Speed.</p>\n<p>Hisuian Electrode finds itself primarily on balance teams looking for a strong form of natural speed control. Hisuian Electrode's ability to directly threaten Pokemon like Mudsdale, <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a>, and <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a> and use them as pivoting potential enables partners like <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a>, Arcanine, and Rhydon to set up and break through teams. In return, these three can deal with Pokemon Hisuian Electrode can't handle on its own, like Alolan Sandslash and <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a>. Other offensive pivots like <a href=\"/dex/sv/pokemon/articuno-galar/pu/\" hreflang=\"en\">Galarian Articuno</a>, <a href=\"/dex/sv/pokemon/bruxish/pu/\" hreflang=\"en\">Bruxish</a>, and Ambipom can create a fast and strong VoltTurn core with Hisuian Electrode that can be difficult to stop. Even with Tera Fire, Hisuian Electrode can often struggle to break through Grass- and Steel-types like Venusaur, Wo-Chien, and Magneton; counters to these threats like <a href=\"/dex/sv/pokemon/goodra/pu/\" hreflang=\"en\">Goodra</a>, <a href=\"/dex/sv/pokemon/pawmot/pu/\" hreflang=\"en\">Pawmot</a>, and Paldean Tauros-F thus make great partners.</p>",
+          "abilities": [
+            "Aftermath"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 355061,
+                "username": "UberSkitty"
+              },
+              {
+                "user_id": 414072,
+                "username": "Yunie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Electrode-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magic Guard",
+            "Hadron Engine"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Chloroblast",
+                "type": null
+              },
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Worry Seed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Magic Guard",
+          "pokemon": "Electrode-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Electrode is a great offensive pivot thanks to its amazing Speed, access to Volt Switch, and powerful STAB Chloroblast for Ground-types like <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a>. Thunder Wave cripples switch-ins like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/almost-any-ability/\" hreflang=\"en\">Ogerpon-H</a>, potentially letting Hisuian Electrode's teammates outspeed and threaten them, while Leech Seed lets it chip down walls such as <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a> and Hisuian Goodra and heal. Worry Seed removes Volt Absorb from walls like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a> and Regenerator from Hisuian Goodra and <a href=\"/dex/sv/pokemon/meloetta/almost-any-ability/\" hreflang=\"en\">Meloetta</a>, letting it chip the latter two, especially with entry hazards on the field. Hisuian Electrode forms a great VoltTurn core with other offensive pivots like <a href=\"/dex/sv/pokemon/barraskewda/almost-any-ability/\" hreflang=\"en\">Barraskewda</a>, Roaring Moon, and <a href=\"/dex/sv/pokemon/slither-wing/almost-any-ability/\" hreflang=\"en\">Slither Wing</a>, as they can bring it in on physical walls like Corviknight and Great Tusk, and it can bring them in on special walls like Hisuian Goodra and Meloetta. Entry hazard setters like <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a>, and <a href=\"/dex/sv/pokemon/deoxys-defense/almost-any-ability/\" hreflang=\"en\">Deoxys-D</a> are great teammates thanks to hazards wearing down Hisuian Electrode's switch-ins like Roaring Moon, Hisuian Goodra, and Heatran; in return, it can threaten common hazard removers like Corviknight, Great Tusk, and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>. Hisuian Electrode struggles to break through specially defensive walls like Blissey, Hisuian Goodra, and Meloetta, so physical wallbreakers like <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/zapdos-galar/almost-any-ability/\" hreflang=\"en\">Galarian Zapdos</a> are appreciated. Hisuian Electrode is also frail and has a middling defensive typing, so slow, bulky pivots that can take a hit and safely pivot it in like Corviknight and Swampert make good partners.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Chloroblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Leech Seed",
+                "type": null
+              },
+              {
+                "move": "Worry Seed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 552227,
+            "username": "Kinetic"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 540420,
+                "username": "April"
+              },
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: Hisuian Electrode has the unique combination of two rare attributes in its typing and Speed that can change the dynamic of a draft team at a low cost. Its Electric / Grass typing allows it to offensively and independently pick off weakened Ground-type checks better than most Electric-type counterparts, while its Speed allows it to outpace nearly the entire metagame. As a result, Hisuian Electrode has viable uses in pivoting, wallbreaking, supporting teammates, and sweeping in a way no other low-tier Pokemon offers. That being said, its low Special Attack stat and frail bulk is what keeps it from becoming a more valuable Pokemon, as it relies on stronger and bulkier teammates to pivot to.</p>\n<h3>Common Roles</h3>\n<p><strong>Fast Pivot / Cleaner</strong>: Hisuian Electrode is primarily used to force damage and put foes in disadvantageous positions through Volt Switch and stronger STAB moves, which apply pressure for other teammates or secure KOs outright. It can then act as a useful sweeper once opposing Choice Scarf users are removed from play. Since it has similar movesets as a pivot and a sweeper, the role it has can change throughout a match.</p>\n<p><strong>Fast Utility</strong>: Hisuian Electrode can invest in its bulk while still outspeeding the entire opposing team, allowing it to reliably status opposing Pokemon and help its teammates wallbreak and clean. Thunder Wave can be used for speed control, while Taunt can be used to force switches. Reflect can also see viability, allowing teammates more potential to wallbreak, sweep, and support each other throughout a match.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Thunderbolt, Energy Ball, Volt Switch, Leaf Storm, Giga Drain</p>\n<p><strong>Setup Moves</strong>: Charge Beam</p>\n<p><strong>Utility Moves</strong>: Taunt, Thunder Wave</p>\n<p><strong>Coverage</strong>: Tera Blast, Foul Play</p>\n<h3>Niche Moves</h3>\n<p><strong>Leech Seed</strong>: Leech Seed has viable uses in matchups where Hisuian Electrode can invest EVs into its bulk in order to wear down bulkier Pokemon. Leech Seed pairs well with Volt Switch to force momentum in the user's favor while potentially keeping other pivots healthy.</p>\n<p><strong>Reflect</strong>: Reflect can be run on Hisuian Electrode to help teammates set up. It can be especially useful on lead sets to wear down foes for cleaning or support incoming teammates.</p>\n<p><strong>Chloroblast</strong>: Chloroblast can be used as a last resort option on certain wallbreaking sets where Hisuian Electrode needs to do as much damage as possible. It can also be used to knock itself out while dealing massive damage to bring in Pokemon that can exploit the matchup for setup.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots ensures Hisuian Electrode can remain healthy throughout the match in order to survive an attack from most Pokemon and retaliate to secure a KO or significant damage.</p>\n<p><strong>Choice Specs</strong>: In matchups against weaker Ground-types, Choice Specs can help Hisuian Electrode wallbreak, forcing the opponent to make significantly riskier decisions when selecting a pivot against it.</p>\n<p><strong>Miracle Seed / Magnet</strong>: Miracle Seed and Magnet can be used in matchups where entry hazards are less relevant and when Hisuian Electrode requires the ability to switch moves without leaving the field.</p>\n<h3>Niche Items</h3>\n<p><strong>Eject Pack</strong>: Eject Pack can be used with Leaf Storm for a stronger, single-use pivoting option. Eject Pack can be used to get damage on an Electric-immune Pokemon that is not weak to Grass-type moves such as <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet can prove to be a nuisance for foes in matchups with weaker or resisted physical attackers. Combined with Aftermath or Static, it can be used on Hisuian Electrode to quickly apply chip damage.</p>\n<p><strong>Choice Scarf</strong>: With a Choice Scarf, Hisuian Electrode outpaces the entire metagame, including opposing Choice Scarf users and a significant portion of the format with doubled speed. Choice Scarf can be a useful item to revenge kill opposing Choice Scarf, setup, or weather users.</p>\n<p><strong>Life Orb</strong>: Life Orb is viable when both Electric- and Grass-type moves need higher damage outputs, but it has diminishing returns when used against bulkier teams or in matchups where Hisuian Electrode needs to survive a strong attack to pivot.</p>\n<h3>Tera</h3>\n<p>Hisuian Electrode by no means requires Tera to be a key part of a successful team. However, it thrives as a Tera Captain, since it gains access to stronger STAB moves or new coverage entirely, allowing it to handle its checks and counters at a significantly greater capacity. Both Tera Electric and Grass are useful Tera types, as they provide increased pivoting damage or stronger damage against Ground-types, respectively. Tera Ice grants Hisuian Electrode BoltBeam coverage with Tera Blast, allowing it to take on Dragon- and Grass-types more effectively. If Tera Ice is not worth the increased entry hazard damage and frailer defensive typing in a particular matchup, Tera Fairy allows it to still take on Dragon- and Grass-type opposition.</p>\n<h3>Draft Strategy</h3>\n<p>Hisuian Electrode is not the centerpoint of a team, nor is it generally an early pick. However, it can complement a variety of draft teams, as the Speed and reliable pivoting it offers can benefit many different Pokemon and playstyles.</p>\n<p><strong>Strong Water-types</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/draft/\" hreflang=\"en\">Urshifu-R</a> benefit greatly from having a fast and purposeful pivot to weaken opposing Pokemon with Electric- and Grass-type coverage, allowing for more potential for them to sweep late-game. Once Hiusian <a href=\"/dex/sv/pokemon/electrode/draft/\" hreflang=\"en\">Electrode</a> pivots in, it can wear down opposing Pokemon with its STAB coverage and status moves or use Volt Switch on the opposing check to maintain momentum.</p>\n<p><strong>Bulky Offense</strong>: Hisuian Electrode synergizes with Pokemon that function in a bulky offense playstyle, as it can make use of its STAB moves combined with Volt Switch to create advantageous positions for teammates. Pokemon such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a> can pivot in from a Volt Switch and wear down teams with entry hazards and reliable coverage, while Pokemon like <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/azumarill/draft/\" hreflang=\"en\">Azumarill</a> can pivot in and start breaking teams immediately.</p>\n<p><strong>Entry Hazard Setters</strong>: Since Hisuian Electrode naturally outspeeds all Defog users and benefits greatly from entry hazards when using Volt Switch, it works well as a teammate alongside reliable hazard users. Pokemon like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/krookodile/draft/\" hreflang=\"en\">Krookodile</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a> not only can set up hazards, but also use Knock Off to eliminate opposing Heavy-Duty Boots, which can assist Hisuian Electrode in applying pressure. Taunt can also be used to prevent opposing Defog from removing hazards.</p>\n<p><strong>Priority</strong>: The pressure Hisuian Electrode provides throughout a match can effectively put Pokemon like <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a>, Dragonite, and <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a> in positions to pick up KOs throughout a match or sweep outright.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dragon- and Grass-types</strong>: If Hisuian Electrode is not a Tera Captain, Dragon- and Grass-type Pokemon such as <a href=\"/dex/sv/pokemon/hydrapple/draft/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/goodra/draft/\" hreflang=\"en\">Goodra</a>, and <a href=\"/dex/sv/pokemon/amoonguss/draft/\" hreflang=\"en\">Amoonguss</a> can prove to be challenging or impossible to break.</p>\n<p><strong>Special Walls</strong>: Pokemon with high special bulk such as <a href=\"/dex/sv/pokemon/clodsire/draft/\" hreflang=\"en\">Clodsire</a> and Galarian Slowking can prevent Hisuian Electrode from making significant progress without dramatically altering its sets from its conventional roles. In addition, many Pokemon with Assault Vest can also temper its ability to wear down the opposing team.</p>",
+      "comments": "",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 392645,
+            "username": "sqoiche"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 514695,
+                "username": "Addison"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot (SpA)",
+          "pokemon": "Electrode-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Electrode is a strong pivot that utilizes its high Speed and decent STAB combination to chip away at and eventually break through opposing teams. Thunderbolt provides a consistent source of damage, while Leaf Storm acts like a nuke against neutral targets and Ground-types looking to block Volt Switch such as <a href=\"/dex/sv/pokemon/landorus/godly-gift/\" hreflang=\"en\">Landorus</a>. Tera Blast Ice nails Grass- and Dragon-type Pokemon like <a href=\"/dex/sv/pokemon/hydrapple/godly-gift/\" hreflang=\"en\">Hydrapple</a> and <a href=\"/dex/sv/pokemon/eternatus/godly-gift/\" hreflang=\"en\">Eternatus</a> for super effective damage, while Tera Blast Fire hits <a href=\"/dex/sv/pokemon/zacian-crowned/godly-gift/\" hreflang=\"en\">Zacian-C</a>, <a href=\"/dex/sv/pokemon/iron-treads/godly-gift/\" hreflang=\"en\">Iron Treads</a>, and specially defensive <a href=\"/dex/sv/pokemon/excadrill/godly-gift/\" hreflang=\"en\">Excadrill</a>. Volt Switch is Hisuian Electrode's most spammable move, allowing it to pivot out and maintain momentum against checks such as <a href=\"/dex/sv/pokemon/kyurem-white/godly-gift/\" hreflang=\"en\">Kyurem-W</a> and <a href=\"/dex/sv/pokemon/slowking-galar/godly-gift/\" hreflang=\"en\">Galarian Slowking</a>. Heavy-Duty Boots allows Hisuian Electrode to safely pivot on and off the field throughout the game.</p>\n<p>Hisuian Electrode best fits on teams looking for a strong, special attacking pivot. However, a high Special Attack god like Kyurem-W or Eternatus is required to allow it to actually make progress. Hisuian Electrode pairs well with other offensive pivots such as <a href=\"/dex/sv/pokemon/landorus-therian/godly-gift/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/meowscarada/godly-gift/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/godly-gift/\" hreflang=\"en\">Hisuian Samurott</a>, as they can chip away at each other's checks. Meowscarada in particular is helpful, as Triple Axel nukes the aforementioned Grass- and Dragon-types that wall Hisuian Electrode, allowing it to comfortably run Tera Fire over Tera Ice. Alternatively, slower pivots such as <a href=\"/dex/sv/pokemon/pecharunt/godly-gift/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/corviknight/godly-gift/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/mandibuzz/godly-gift/\" hreflang=\"en\">Mandibuzz</a> are helpful in bringing Hisuian Electrode onto the field safely, circumventing its relative frailty. Hisuian Electrode also appreciates powerful physical attackers such as <a href=\"/dex/sv/pokemon/great-tusk/godly-gift/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/weavile/godly-gift/\" hreflang=\"en\">Weavile</a>, as they are able to break special walls such as Eternatus and Galarian Slowking. Lastly, entry hazard setters like <a href=\"/dex/sv/pokemon/skarmory/godly-gift/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/clefable/godly-gift/\" hreflang=\"en\">Clefable</a>, and Landorus-T are helpful, as they let Hisuian Electrode's constant pivoting force chip damage onto its checks, allowing it to beat them long-term.</p>",
+          "abilities": [
+            "Static"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ice",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608218,
+            "username": "DragonPhoenix333"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              },
+              {
+                "user_id": 604741,
+                "username": "kenn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Bullet Seed",
+    "Charge",
+    "Charge Beam",
+    "Chloroblast",
+    "Curse",
+    "Discharge",
+    "Double-Edge",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Energy Ball",
+    "Explosion",
+    "Facade",
+    "Foul Play",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Gyro Ball",
+    "Hyper Beam",
+    "Leaf Storm",
+    "Leech Seed",
+    "Protect",
+    "Rain Dance",
+    "Recycle",
+    "Reflect",
+    "Rest",
+    "Rollout",
+    "Scary Face",
+    "Screech",
+    "Seed Bomb",
+    "Self-Destruct",
+    "Sleep Talk",
+    "Solar Beam",
+    "Stun Spore",
+    "Substitute",
+    "Supercell Slam",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Volt Switch",
+    "Wild Charge",
+    "Worry Seed"
+  ]
+}

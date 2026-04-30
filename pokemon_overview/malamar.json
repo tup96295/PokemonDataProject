@@ -1,0 +1,306 @@
+{
+  "name": "Malamar",
+  "alias": "malamar",
+  "types": [
+    "Dark",
+    "Psychic"
+  ],
+  "stats": [
+    86,
+    92,
+    88,
+    68,
+    75,
+    73
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "RestTalk",
+          "pokemon": "Malamar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Contrary RestTalk",
+          "pokemon": "Malamar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>68 Spe allows Malamar to outspeed uninvested <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a>, but it can also fully invest in bulk.</p>",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fighting",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 188,
+              "spe": 68
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf (Atk, Spe)",
+          "pokemon": "Malamar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Contrary"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Cut",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acupressure",
+    "Aerial Ace",
+    "Baton Pass",
+    "Calm Mind",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Disable",
+    "Endure",
+    "Expanding Force",
+    "Facade",
+    "Fake Tears",
+    "Flamethrower",
+    "Fling",
+    "Foul Play",
+    "Future Sight",
+    "Giga Impact",
+    "Gravity",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hypnosis",
+    "Knock Off",
+    "Lash Out",
+    "Light Screen",
+    "Liquidation",
+    "Lunge",
+    "Nasty Plot",
+    "Night Slash",
+    "Payback",
+    "Peck",
+    "Pluck",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psycho Cut",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Scary Face",
+    "Skill Swap",
+    "Slash",
+    "Sleep Talk",
+    "Spite",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Superpower",
+    "Swagger",
+    "Swift",
+    "Switcheroo",
+    "Tackle",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunderbolt",
+    "Topsy-Turvy",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "Wrap"
+  ]
+}

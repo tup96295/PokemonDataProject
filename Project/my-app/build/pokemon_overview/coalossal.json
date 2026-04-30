@@ -1,0 +1,389 @@
+{
+  "name": "Coalossal",
+  "alias": "coalossal",
+  "types": [
+    "Rock",
+    "Fire"
+  ],
+  "stats": [
+    110,
+    80,
+    120,
+    80,
+    90,
+    30
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Coalossal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Earth Power OHKOes <a href=\"/dex/sv/pokemon/toxtricity/pu/\" hreflang=\"en\">Toxtricity</a> and deals solid damage to <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a>, <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a>, and opposing Coalossal.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm",
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Coalossal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Rock)",
+          "pokemon": "Coalossal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Coalossal is a decent defensive wall that fits well on Rock teams due to it being able to tank physical hits from <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, which greatly threaten Rock teams. Coalossal does well in the Steel matchup, as it threatens <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. Flame Body allows it to fish for burns to weaken physical threats like <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>, Scizor, <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, <a href=\"/dex/sv/pokemon/mimikyu/monotype/\" hreflang=\"en\">Mimikyu</a>, and Meowscarada. Body Press is a great move thanks to Coalossal's high Defense stat that allows it to deal incredible damage to Bisharp. Rapid Spin combined with Heavy-Duty Boots allows Coalossal to come in and remove hazards without taking any chip damage, so its teammates won't get worn down. Will-O-Wisp allows Coalossal to burn physical threats such as Kleavor, <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. Spikes is another option to run on Coalossal over Will-O-Wisp to help Rock teams stack hazards and wear down foes.</p>\n<p><a href=\"/dex/sv/pokemon/garganacl/monotype/\" hreflang=\"en\">Garganacl</a> helps Coalossal by dealing with defensive Pokemon like <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a>, <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> with Salt Cure. In return Garganacl appreciates Coalossal checking Meowscarada. Air Balloon Shell Smash <a href=\"/dex/sv/pokemon/drednaw/monotype/\" hreflang=\"en\">Drednaw</a> is another good teammate for Coalossal, providing a soft Ground-type immunity and dealing with Ground- and Steel- types like <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a>, <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, Heatran, and Hisuian-Goodra. Choice Scarf <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a> with its diverse moveset is another option to pair with Coalossal, as it can outspeed and threaten to OHKO non-Choice Scarf users like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>. Glimmora can also deal with Water-, Fighting-, Dark-, and Dragon- Types like Quagsire, Hisuian Liligant, <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> with its various coverage moves. Furthermore, Glimmora run Air Balloon to act as an alternative Ground-type immunity that can deal with threats like Quagsire and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>. <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a> sets sand for Coalossal to boosts its Special Defense, which can allow Coalossal to tank special attacks from Choice Scarf Gholdengo and Choice Specs <a href=\"/dex/sv/pokemon/magnezone/monotype/\" hreflang=\"en\">Magnezone</a> and threaten them in return. Choice Band <a href=\"/dex/sv/pokemon/lycanroc-dusk/monotype/\" hreflang=\"en\">Lycanroc-D</a> is a good revenge killer that can help out Coalossal by taking out threats such as <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/cloyster/monotype/\" hreflang=\"en\">Cloyster</a> with Accelerock and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> with Psychic Fangs. <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> is another good revenge killer with Extreme Speed and can act as a wallbreaker, taking out foes such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and Clodsire with Head Smash and Flare Blitz, respectively. Kleavor is a good lead for Rock teams, as it can deal damage while setting up Stealth Rock with Stone Axe, which helps with hazard stacking. In return, Coalossal complements Kleavor by dealing with Scizor. <a href=\"/dex/sv/pokemon/diancie/monotype/\" hreflang=\"en\">Diancie</a> can ease the Fighting match by dealing decent damage to <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> and Iron Valiant with Moonblast and by being able to take Fighting-type moves due to its Fairy-typing. In return, Coalossal helps Diancie by dealing with Scizor, Bisharp, and Meowscarada.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 637295,
+            "username": "boomp"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 8</p>\n<p><strong>Price Range</strong>: 2 points</p>\n<p><strong>Overview</strong>: Coalossal offers decent role compression with access to good utility moves such as Spikes and Rapid Spin and valuable abilities to disrupt foes or aid its teammates. It also has great physical bulk to check some physical attackers, although it has no reliable recovery, and it's forced to rely on burns or its weak offensive stats to pressure foes. Even with its bulk to fulfill a role as a defensive utility Pokemon, Coalossal is severely hampered by its horrible defensive typing and devastating 4x weaknesses to the Water- and Ground-type attacks, as well as a lack of an offensive presence, leaving it very passive.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Utility</strong>: Coalossal performs best when it provides support for its team by dipping into its pool of utility moves that's best suited for the matchup while leveraging its physical bulk. By doing so, Coalossal can set entry hazards and spread burns via Flame Body, Will-O-Wisp, or Scald. It can deal decent damage if its STAB attacks or Body Press are super effective, but its attacks should not be relied upon to weaken foes.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Fire Blast, Flamethrower, Overheat, Flare Blitz, Heat Crash, Stone Edge, Rock Slide, Power Gem, Rock Blast</p>\n<p><strong>Setup Moves</strong>: Curse, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Stealth Rock, Spikes, Will-O-Wisp, Rapid Spin, Endure, Fire Spin</p>\n<p><strong>Coverage</strong>: Body Press, Earthquake, Earth Power, Scorching Sands, Heavy Slam, Scald, Gyro Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Endure</strong>: With its multiple weaknesses, Coalossal can use Endure combined with Custap Berry to guarantee one more move.</p>\n<p><strong>Explosion</strong>: If Coalossal is no longer needed for the duration of the match, Explosion is a good way to gain some momentum and potentially take down a foe with it.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Coalossal prefers to be as healthy as possible to fulfill its role in setting up entry hazards or disrupting foes. Heavy-Duty Boots is its best item to bypass its weakness to Stealth Rock and make it more efficient at clearing hazards with Rapid Spin.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: The Passho, Chople, and Shuca Berries help Coalossal take major hits against common coverage, giving it opportunities to retaliate, burn the foe, or safely set an entry hazard.</p>\n<p><strong>Air Balloon</strong>: Coalossal can utilize Air Balloon to temporarily get around its 4x weakness to Ground-type attacks. This forces the foe to potentially use a weaker move that allows Coalossal to tank and guarantee it using an attack or supporting its team.</p>\n<p><strong>Custap Berry</strong>: On lead sets and combined with Endure, Coalossal can use Custap Berry to give it one more action to set up hazards or deal some chip damage to the foe before it goes down.</p>\n<p><strong>Mental Herb</strong>: Coalossal can utilize Mental Herb to guarantee getting up hazards should a foe try to take advantage of its low Speed using Taunt or Encore.</p>\n<p><strong>Leftovers / Sitrus Berry</strong>: In games where hazards are not a concern, Coalossal can use either Leftovers or Sitrus Berry for passive healing, especially as it has no access to reliable recovery and to maintain its presence on the field.</p>\n<h3>Tera</h3>\n<p>Coalossal makes for a decent low-cost Tera Captain should no others be a suitable option. It would often opt for defensive Tera types, such as Water and Fairy, to shed its common weaknesses and make it a better defensive piece. It can also utilize Tera Ghost to block foes from removing hazards set up on their field through Rapid Spin.</p>\n<h3>Draft Strategy</h3>\n<p>Coalossal fits best on teams that are seeking a secondary utility option to bring to some matches. It performs at its best when setting up or clearing away entry hazards that its team can take full advantage of, although Coalossal should not be your primary hazard setter. Teammates would also appreciate Coalossal checking physical threats with limited coverage against its common weaknesses, especially as it brings useful resistances to Fairy- and Flying-type attacks, and potentially punishing momentum-gaining attacks such as U-turn.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Water- and Ground-type coverage</strong>: Coalossal's major weaknesses to Water and Ground prevent it from doing too much when it's on the field, especially as many Pokemon can carry this coverage. This makes Coalossal an easy target to take down, potentially fainting from one of these attacks even with maximum physical bulk investment.</p>\n<p><strong>Disruption</strong>: Due to its low Speed, Coalossal becomes more susceptible to disruption such as Taunt and Encore, limiting its opportunities to set entry hazards and giving foes opportunities to take advantage of its passivity.</p>\n<p><strong>Opposing Setup</strong>: Coalossal brings little to no offensive pressure, as its primary goal is to support its team. This allows foes that do not care about getting burned or resist its STAB attacks to exploit its presence, either through setting up with a Substitute or via offense-boosting moves such as Calm Mind and Nasty Plot, and easily break through Coalossal.</p>\n<p><strong>Chip Damage</strong>: Due to having no reliable recovery, Coalossal can easily rack up damage on itself over time through hazards if it's not wearing Heavy-Duty Boots, limiting how often it can check foes during a match. Even with Heavy-Duty Boots, Coalossal still has to fear Knock Off, which will further hamper its capabilities.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 629845,
+            "username": "theuncultured"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 571123,
+                "username": "Patar136"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Block",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Curse",
+    "Dig",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Fire Blast",
+    "Fire Punch",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Giga Impact",
+    "Gyro Ball",
+    "Heat Crash",
+    "Heat Wave",
+    "Heavy Slam",
+    "High Horsepower",
+    "Hyper Beam",
+    "Incinerate",
+    "Iron Defense",
+    "Iron Head",
+    "Meteor Beam",
+    "Mud-Slap",
+    "Overheat",
+    "Power Gem",
+    "Protect",
+    "Rapid Spin",
+    "Reflect",
+    "Rest",
+    "Rock Blast",
+    "Rock Polish",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Sand Tomb",
+    "Scald",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Smack Down",
+    "Smokescreen",
+    "Solar Beam",
+    "Spikes",
+    "Stealth Rock",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Tackle",
+    "Take Down",
+    "Tar Shot",
+    "Temper Flare",
+    "Tera Blast",
+    "Will-O-Wisp"
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "name": "Floatzel",
+  "alias": "floatzel",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    85,
+    105,
+    55,
+    85,
+    50,
+    115
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Floatzel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Floatzel is a niche but threatening wallbreaker and pivot thanks to its good Attack, amazing Speed, and STAB Flip Turn, escaping its problematic matchups against <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a>, <a href=\"/dex/sv/pokemon/amoonguss/pu/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/goodra/pu/\" hreflang=\"en\">Goodra</a>, and <a href=\"/dex/sv/pokemon/qwilfish/pu/\" hreflang=\"en\">Qwilfish</a>; it finds use over the more common <a href=\"/dex/sv/pokemon/bruxish/pu/\" hreflang=\"en\">Bruxish</a> thanks to its higher Speed. Aqua Jet allows Floatzel to revenge kill faster threats like <a href=\"/dex/sv/pokemon/salazzle/pu/\" hreflang=\"en\">Salazzle</a>, +1 Speed <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a>, and +2 Speed <a href=\"/dex/sv/pokemon/rhydon/pu/\" hreflang=\"en\">Rhydon</a>. Ice Spinner targets Grass-types such as <a href=\"/dex/sv/pokemon/decidueye-hisui/pu/\" hreflang=\"en\">Hisuian Decidueye</a> and <a href=\"/dex/sv/pokemon/venusaur/pu/\" hreflang=\"en\">Venusaur</a>. Tera Water boosts Wave Crash to the point where it OHKOes bulky <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a> and 2HKOes <a href=\"/dex/sv/pokemon/dudunsparce/pu/\" hreflang=\"en\">Dudunsparce</a>, and it lets Aqua Jet reliably OHKO Salazzle.</p>\n<p>Floatzel generally is used on balance and offense teams needing good speed control and consistent offensive pressure. On these teams, it forms powerful VoltTurn cores with Pokemon like <a href=\"/dex/sv/pokemon/persian-alola/pu/\" hreflang=\"en\">Alolan Persian</a>, <a href=\"/dex/sv/pokemon/uxie/pu/\" hreflang=\"en\">Uxie</a>, and <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-H</a>. Floatzel is relatively frail and quickly worn down by residual damage and Wave Crash recoil, so it appreciates having entry hazard control from Pokemon such as Hisuian Decidueye, <a href=\"/dex/sv/pokemon/espeon/pu/\" hreflang=\"en\">Espeon</a>, and <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a>. Floatzel also appreciates having entry hazards of its own from partners like Rhydon, <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a>, and Qwilfish to help wear down Floatzel's few good switch-ins such as Milotic, Goodra, and <a href=\"/dex/sv/pokemon/lanturn/pu/\" hreflang=\"en\">Lanturn</a>. In return, Floatzel can help these partners pivot onto the battlefield safely with Flip Turn and deal with faster threats that threaten them such as Hisuian Decidueye, <a href=\"/dex/sv/pokemon/ninetales-alola/pu/\" hreflang=\"en\">Alolan Ninetales</a>, and Paldean Tauros-F.</p>",
+          "abilities": [
+            "Water Veil"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 452572,
+                "username": "missangelic"
+              },
+              {
+                "user_id": 355061,
+                "username": "UberSkitty"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "<p>Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.</p>\n<p>If you feel this analysis is not up to date, <a href=\"https://www.smogon.com/forums/threads/floatzel.3713835/\">feel free to check out the thread for this Pokemon and post suggestions</a>. For more resources on Series 1 in general, <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-1-a-land-free-of-ruins-and-paradoxes.3711710/\">check out this thread</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swift Weasel",
+          "pokemon": "Floatzel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Wave Crash is your main offensive option. When further boosted by rain, Tera Water, and Choice Band, it becomes one of the most powerful physical moves in the game, 2HKOing the likes of Bold <a href=\"/dex/sv/pokemon/amoonguss/bss-series-1/\" hreflang=\"en\">Amoonguss</a> and OHKOing maximum Defense <a href=\"/dex/sv/pokemon/corviknight/bss-series-1/\" hreflang=\"en\">Corviknight</a>. Mystic Water is an option for flexibility but sacrifices the listed KOs.</p>\n</li>\n<li>\n<p>Liquidation is a secondary option, and it's preferred when facing frailer offensive teams due to the significant recoil drawback of Wave Crash. However, Waterfall is worth considering for its possible flinch chance.</p>\n</li>\n<li>\n<p>Aqua Jet allows Floatzel to maintain offensive presence outside of rain, as well as being a great response to opposing priority moves, such as <a href=\"/dex/sv/pokemon/kingambit/bss-series-1/\" hreflang=\"en\">Kingambit</a>'s Sucker Punch.</p>\n</li>\n<li>\n<p>196 Speed EVs are used to outspeed the entire tier in rain, including Choice Scarf Dragpault. 252 Atk is used to maximize Floatzels damage output. Alternatively, one can opt for 252 speed Speed EVs to outspeed <a href=\"/dex/sv/pokemon/hydreigon/bss-series-1/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/mimikyu/bss-series-1/\" hreflang=\"en\">Mimikyu</a> outside of rain, in addition to tying with <a href=\"/dex/sv/pokemon/salamence/bss-series-1/\" hreflang=\"en\">Salamence</a>.</p>\n</li>\n<li>\n<p>Tera Water massively bolters Floatzel's damage output, and the weasel simply doesn't have the bulk needed for more defensive options.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/pelipper/bss-series-1/\" hreflang=\"en\">Pelipper</a>'s rain is mandatory for both Swift Swim and maximum damage output.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Swift Swim"
+          ],
+          "items": [
+            "Choice Band",
+            "Mystic Water"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              },
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 60,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 62165,
+            "username": "StarkGod"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 517429,
+                "username": "Adeleine"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swift Weasel",
+          "pokemon": "Floatzel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p><strong>Wave Crash</strong>: This is your main offensive option. When further boosted by rain, Tera Water, and Choice Band, it becomes one of the most powerful physical moves in the game, 2HKOing the likes of Bold <a href=\"/dex/sv/pokemon/amoonguss/bss-series-2/\" hreflang=\"en\">Amoonguss</a> and OHKOing maximum Defense <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a>. Mystic Water is an option for flexibility but sacrifices the listed KOs.</p>\n</li>\n<li>\n<p><strong>Liquidation versus Waterfall</strong>: Liquidation is a secondary option, and it's preferred when facing frailer offensive teams due to the significant recoil drawback of Wave Crash. However, Waterfall is worth considering for its possible flinch chance.</p>\n</li>\n<li>\n<p><strong>Aqua Jet</strong>: Aqua Jet allows Floatzel to maintain offensive presence outside of rain, as well as being a great response to opposing priority moves, such as <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a>'s Sucker Punch.</p>\n</li>\n<li>\n<p><strong>Rain Setter</strong>: <a href=\"/dex/sv/pokemon/pelipper/bss-series-2/\" hreflang=\"en\">Pelipper</a>'s rain is mandatory for both Swift Swim and maximum damage output.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li><strong>Water</strong>: Tera Water massively bolters Floatzel's damage output, and the weasel simply doesn't have the bulk needed for more defensive options.</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>60 HP / 252 Atk / 196 Spe</strong>:196 Speed EVs are used to outspeed the entire tier in rain, including Choice Scarf Dragpault.</p>\n</li>\n<li>\n<p><strong>4 HP / 252 Atk / 252 Spe</strong>: Maximum Speed investment outspeeds <a href=\"/dex/sv/pokemon/hydreigon/bss-series-2/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/mimikyu/bss-series-2/\" hreflang=\"en\">Mimikyu</a> outside of rain, in addition to tying with <a href=\"/dex/sv/pokemon/salamence/bss-series-2/\" hreflang=\"en\">Salamence</a>, at the cost of having less buffer HP for Wave Crash recoil.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Swift Swim"
+          ],
+          "items": [
+            "Choice Band",
+            "Mystic Water"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Liquidation",
+                "type": null
+              },
+              {
+                "move": "Waterfall",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 60,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 8</p>\n<p><strong>Price Range</strong>: 2-3 points</p>\n<p><strong>Overview</strong>: Floatzel's fantastic Speed and STAB options, ranging from the powerful Wave Crash to the pivoting of Flip Turn to the priority of Aqua Jet, make Floatzel look decent when it's paired with rain to take advantage of Swift Swim. However, Floatzel is prone to being worn down extremely quickly, is one-dimensional, and competes with other Water-types such as <a href=\"/dex/sv/pokemon/barraskewda/draft/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/qwilfish/draft/\" hreflang=\"en\">Qwilfish</a> that fill a similar role.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Rain Wallbreaker</strong>: Floatzel can break holes using its strong STAB moves and acceptable coverage in the rain while utilizing Flip Turn to reposition teammates.</p>\n<p><strong>Setup Sweeper</strong>: Floatzel can use Bulk Up and its Water Veil ability to set up on passive, status-heavy teams, though this set lacks immediate damage output.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Aqua Jet, Liquidation, Wave Crash, Flip Turn</p>\n<p><strong>Setup Moves</strong>: Bulk Up</p>\n<p><strong>Utility Moves</strong>: Substitute, Taunt, Brick Break</p>\n<p><strong>Coverage</strong>: Crunch, Ice Spinner, Low Kick</p>\n<h3>Niche Moves</h3>\n<p><strong>Rain Dance</strong>: Floatzel can activate its Swift Swim ability in a pinch if other setters are KOed or benched.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Band</strong>: Floatzel can equip a Choice Band for the most immediate power at the cost of being unable to swap attacks.</p>\n<p><strong>Damage-boosting Items</strong>: If Floatzel needs to change up moves to avoid becoming setup fodder, other damage-boosting items, such as Mystic Water and Life Orb, can be used instead.</p>\n<p><strong>Heavy-Duty Boots</strong>: Since Floatzel is easily worn down over time via entry hazards, Heavy-Duty Boots can help Floatzel's longevity.</p>\n<h3>Niche Items</h3>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry can assist Floatzel's overall longevity in a match and is often used with the Bulk Up variants.</p>\n<p><strong>Lum Berry</strong>: With this item, Floatzel can guard against status options that would otherwise hinder its wallbreaking ability.</p>\n<p><strong>Choice Scarf</strong>: Floatzel can hold a Choice Scarf for niche scenarios outside of rain, allowing it to revenge kill opposing Choice Scarf Pokemon and setup sweepers.</p>\n<p><strong>Protective Pads</strong>: Protective Pads shields Floatzel against Rocky Helmet and other contact-punishing effects.</p>\n<h3>Tera</h3>\n<p>Floatzel doesn't require Terastalization to be effective in its role. However, if elected to become a Tera Captain, it can power up its already strong STAB options with Tera Water. Other Tera types, such as Tera Grass, Electric, and Fairy, expand Floatzel's coverage to help it muscle through its checks.</p>\n<h3>Draft Strategy</h3>\n<p>Floatzel complements rosters that lean into the rain archetype and are looking for cheap, fast wallbreakers while overwhelming Water-resistant Pokemon.</p>\n<p><strong>Rain Setter</strong>: <a href=\"/dex/sv/pokemon/pelipper/draft/\" hreflang=\"en\">Pelipper</a> and support options like <a href=\"/dex/sv/pokemon/thundurus/draft/\" hreflang=\"en\">Thundurus</a> and <a href=\"/dex/sv/pokemon/klefki/draft/\" hreflang=\"en\">Klefki</a> that can set rain are ideal to enable Floatzel.</p>\n<p><strong>Pivots</strong>: Bulkier pokemon that can bring in Floatzel safely, such as <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, can position Floatzel effectively to break teams.</p>\n<p><strong>Setup Sweepers</strong>: Floatzel works to soften teams, allowing for Pokemon like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/iron-crown/draft/\" hreflang=\"en\">Iron Crown</a>, <a href=\"/dex/sv/pokemon/archaludon/draft/\" hreflang=\"en\">Archaludon</a>, and Thundurus to sweep.</p>\n<p><strong>Entry Hazard Control</strong>: Not only does Floatzel appreciate Spikes set by Pokemon like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a> to aid in its wallbreaking, but it also likes hazard removal from Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> to stay healthy itself.</p>\n<p><strong>Healing Wish</strong>: The support from Healing Wish users like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a> can give Floatzel more opportunities to come in and wallbreak safely after wearing itself down from a previous attempt.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Water-resistant Pokemon</strong>: Pokemon that resist or are immune to Water, such as <a href=\"/dex/sv/pokemon/hydrapple/draft/\" hreflang=\"en\">Hydrapple</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, can eat an attack from Floatzel and KO it back with a strong hit.</p>\n<p><strong>Chip Damage</strong>: Entry hazards, Rocky Helmet, and Wave Crash recoil can wear Floatzel down quickly over time, limiting its opportunities to break teams.</p>\n<p><strong>Priority</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> wield strong priority options that easily revenge kill or KO Floatzel without taking an attack.</p>\n<p><strong>Other Weather Setters</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/ninetales/draft/\" hreflang=\"en\">Ninetales</a>, <a href=\"/dex/sv/pokemon/torkoal/draft/\" hreflang=\"en\">Torkoal</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/draft/\" hreflang=\"en\">Alolan Ninetales</a> can change the weather and lessen Floatzel's offensive pressure.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 315566,
+            "username": "AceTrainerOrange"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Aqua Jet",
+    "Aqua Ring",
+    "Aqua Tail",
+    "Baton Pass",
+    "Bite",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Chilling Water",
+    "Crunch",
+    "Dig",
+    "Double-Edge",
+    "Double Hit",
+    "Endure",
+    "Facade",
+    "Fling",
+    "Flip Turn",
+    "Focus Blast",
+    "Focus Punch",
+    "Fury Cutter",
+    "Fury Swipes",
+    "Giga Impact",
+    "Growl",
+    "Headbutt",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Ice Punch",
+    "Ice Spinner",
+    "Icy Wind",
+    "Liquidation",
+    "Low Kick",
+    "Low Sweep",
+    "Metronome",
+    "Muddy Water",
+    "Mud-Slap",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Rock Tomb",
+    "Scary Face",
+    "Slash",
+    "Sleep Talk",
+    "Snarl",
+    "Soak",
+    "Substitute",
+    "Surf",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Wave Crash",
+    "Whirlpool"
+  ]
+}

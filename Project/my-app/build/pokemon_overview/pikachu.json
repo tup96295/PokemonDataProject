@@ -1,0 +1,232 @@
+{
+  "name": "Pikachu",
+  "alias": "pikachu",
+  "types": [
+    "Electric"
+  ],
+  "stats": [
+    35,
+    55,
+    40,
+    50,
+    50,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Glass Cannon (Atk)",
+          "pokemon": "Pikachu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Lightning Rod"
+          ],
+          "items": [
+            "Light Ball"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Tackle",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quick Attack",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special Attacker",
+          "pokemon": "Pikachu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Lightning Rod"
+          ],
+          "items": [
+            "Light Ball"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Alluring Voice",
+    "Body Slam",
+    "Brick Break",
+    "Celebrate",
+    "Charge",
+    "Charge Beam",
+    "Charm",
+    "Dig",
+    "Disarming Voice",
+    "Discharge",
+    "Double Team",
+    "Draining Kiss",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Fake Tears",
+    "Feint",
+    "Flail",
+    "Fling",
+    "Fly",
+    "Focus Punch",
+    "Grass Knot",
+    "Growl",
+    "Helping Hand",
+    "Iron Tail",
+    "Knock Off",
+    "Light Screen",
+    "Nasty Plot",
+    "Nuzzle",
+    "Play Nice",
+    "Play Rough",
+    "Present",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Reversal",
+    "Sleep Talk",
+    "Spark",
+    "Substitute",
+    "Surf",
+    "Sweet Kiss",
+    "Swift",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Tickle",
+    "Trailblaze",
+    "Upper Hand",
+    "Volt Switch",
+    "Volt Tackle",
+    "Wild Charge",
+    "Wish"
+  ]
+}

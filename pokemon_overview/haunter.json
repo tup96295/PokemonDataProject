@@ -1,0 +1,173 @@
+{
+  "name": "Haunter",
+  "alias": "haunter",
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "stats": [
+    45,
+    50,
+    45,
+    115,
+    55,
+    95
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choiced",
+          "pokemon": "Haunter",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Astonish",
+    "Clear Smog",
+    "Confuse Ray",
+    "Curse",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Destiny Bond",
+    "Disable",
+    "Dream Eater",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Foul Play",
+    "Giga Drain",
+    "Gunk Shot",
+    "Haze",
+    "Hex",
+    "Hypnosis",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Lick",
+    "Mean Look",
+    "Metronome",
+    "Nasty Plot",
+    "Night Shade",
+    "Pain Split",
+    "Payback",
+    "Perish Song",
+    "Phantom Force",
+    "Poison Jab",
+    "Poltergeist",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Rain Dance",
+    "Reflect Type",
+    "Rest",
+    "Scary Face",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Shadow Punch",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smog",
+    "Spite",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Toxic",
+    "Toxic Spikes",
+    "Trick",
+    "Trick Room",
+    "Venoshock",
+    "Will-O-Wisp"
+  ]
+}

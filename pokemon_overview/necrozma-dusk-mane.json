@@ -1,0 +1,798 @@
+{
+  "name": "Necrozma-Dusk Mane",
+  "alias": "necrozma-dusk-mane",
+  "types": [
+    "Psychic",
+    "Steel"
+  ],
+  "stats": [
+    97,
+    157,
+    127,
+    113,
+    109,
+    77
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": null,
+      "overview": "<p>With its great defensive typing, high Attack, and good bulk, Necrozma-DM makes for decent role compression as both a wall and a sweeper. Prism Armor allows Necrozma-DM to check threats such as <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a>, <a href=\"/dex/sv/pokemon/calyrex-ice/uber/\" hreflang=\"en\">Calyrex-I</a>, and Swords Dance Extreme Killer <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a>. It can also setup in front of Pokemon like defensive <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a> and Zacian-C with Dragon Dance.</p>\n<p>Necrozma-DM's below-average Speed tier leaves it vulnerable to revenge killers such as Choice Scarf <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a> even after multiple Dragon Dance boosts. While bulky, Necrozma-DM must maintain high HP to remain effective in its roles, as boosted Zacian-C can power through it with Tera-boosted Wild Charge or Close Combat after minimal chip damage. Extreme Killer Arceus can eventually break through Necrozma-DM if it has Recover, and offensive variants of Eternatus can threaten it with boosted Fire Blast. As a result, Necrozma-DM is often forced to Terastallize to take on common threats such as <a href=\"/dex/sv/pokemon/ho-oh/uber/\" hreflang=\"en\">Ho-Oh</a> and Koraidon.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>A Specially Defensive EV spread can make Necrozma-DM more effective at taking on Calm Mind <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> formes and <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a>, but it becomes more vulnerable to physical threats that it would have otherwise been able to deal with. Brick Break is a coverage option that could be used over Earthquake to hit <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a> harder, but it serves little to no other use outside of that.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Bulky Water-types</strong>: <a href=\"/dex/sv/pokemon/arceus-water/uber/\" hreflang=\"en\">Arceus-Water</a> can take both Sunsteel Strike and Photon Geyser without too much issue and cripple Necrozma-DM with Thunder Wave and Will-O-Wisp, while also punishing Tera Fire variants. <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a> can also take hits somewhat well while also heavily reducing the effectiveness of healing moves of Necrozma-DM with Drizzle, but it lacks the recovery to check Necrozma-DM long term.</p>\n<p><strong><a href=\"/dex/sv/pokemon/ho-oh/uber/\" hreflang=\"en\">Ho-Oh</a></strong>: Defensive Ho-Oh can stomach boosted attacks from defensive Necrozma-DM and phaze it out, but Knock Off can leave it vulnerable to Stealth Rock and offensive sets could take it out with Stone Edge or a boosted Photon Geyser.</p>\n<p><strong>Revenge Killers</strong>: Due to its lackluster Speed tier, Necrozma-DM fails to outpace common Choice Scarf users such as <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and Kyogre without multiple Speed boosts, and is often put into range of knockout from priority users such as Arceus and Kingambit.</p>\n<p><strong>Ghost-types</strong>: <a href=\"/dex/sv/pokemon/lunala/uber/\" hreflang=\"en\">Lunala</a> can easily beat both Dragon Dance and Stored Power variants of Necrozma-DM one-on-one at full health, but will take super effective damage from Knock Off. <a href=\"/dex/sv/pokemon/arceus-ghost/uber/\" hreflang=\"en\">Arceus-Ghost</a> could easily tank Knock Off, but Terastallized Necrozma-DM can outdamage it with Stored Power if it lacks Taunt.</p>\n<p><strong>Dark-types</strong>: Although not as commonly seen as the threats above, Dark-types such as <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and Air Balloon Kingambit can tank hits easily from Dragon Dance variants of Necrozma-DM and are immune to Stored Power.</p>",
+      "movesets": [
+        {
+          "name": "Defensive Dragon Dance",
+          "pokemon": "Necrozma-Dusk Mane",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to its bulk, Prism Armor, and access to reliable recovery in Morning Sun, Necrozma-DM can set up easily in front of many threats. Once checks like <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/ho-oh/uber/\" hreflang=\"en\">Ho-Oh</a> are removed, it becomes an effective late-game win condition. Sunsteel Strike is usually the main STAB move of choice, as it can hit targets such as Ting-Lu, <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a>, and <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a> well while also dealing high damage to Tera Fairy users such as <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a>. However, Photon Geyser is a good alternative, as it hits targets such as Kyogre and Ho-Oh while also having the advantage of picking up the OHKO on <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a> after a boost. It is also worth mentioning that Photon Geyser hits Unaware users such as <a href=\"/dex/sv/pokemon/dondozo/uber/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a> hard. Knock Off is the most useful coverage move alongside Sunsteel Strike, as it is highly spammable against switch-ins, reducing their longevity by removing items such as Heavy-Duty Boots and Leftovers from targets like Ho-Oh and Kyogre. Earthquake is an alternative coverage move that hits Steel-types such as <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a> and opposing Necrozma-DM for good damage while also being the strongest move Necrozma-DM has to hit Zacian-C. Earthquake should be run with Photon Geyser, as Earthquake and Sunsteel Strike would be unable to deal sufficient damage to Ho-Oh and Kyogre. 120 Speed EVs allow Necrozma-DM to outspeed Zacian-C and <a href=\"/dex/sv/pokemon/deoxys-attack/uber/\" hreflang=\"en\">Deoxys-A</a> after two Dragon Dances, with the rest of the EVs put into HP and Defense.</p>\n<p>Defensive Necrozma-DM provides good role compression for entry hazard stack teams with its ability to check Zacian-C and Eternatus while also providing invaluable support from Knock Off, allowing Necrozma-DM to remove Heavy-Duty Boots from common switch-ins such as Ho-Oh, Kyogre, and Ting-Lu. This helps to chip them down to enable teammates, such as Koraidon and <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a>, to potentially sweep later on. However, due to Necrozma-DM's low speed, it struggles to outpace Choice Scarf users such as Koraidon and Kyogre without multiple Dragon Dance boosts; therefore, checks to them such as Arceus-Fairy, <a href=\"/dex/sv/pokemon/landorus-therian/uber/\" hreflang=\"en\">Landorus-T</a>, and Eternatus are appreciated. Hazard setters such as Ting-Lu, <a href=\"/dex/sv/pokemon/groudon/uber/\" hreflang=\"en\">Groudon</a>, defensive Arceus formes, and Landorus-T also benefit from Necrozma-DM removing Heavy-Duty Boots with Knock Off. Choice Scarf Koraidon can help bolster the healing of Morning Sun while providing speed control for faster threats like opposing Koraidon, Choice Scarf Kyogre, and Dragon Dance <a href=\"/dex/sv/pokemon/arceus-ground/uber/\" hreflang=\"en\">Arceus-Ground</a>.</p>",
+          "abilities": [
+            "Prism Armor"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sunsteel Strike",
+                "type": null
+              },
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 136,
+              "spa": 0,
+              "spd": 0,
+              "spe": 120
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 651906,
+            "username": "Pigbeeef"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 595062,
+                "username": "Taka"
+              },
+              {
+                "user_id": 249382,
+                "username": "Aberforth"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "AG",
+      "outdated": null,
+      "overview": "<p>Necrozma-DM is a setup sweeper that finds its way on balance and bulky offense teams. Necrozma-DM's good defensive traits make it a consistent offensive check to Calm Mind <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>. They also allow it to take on <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a> and reliably heal with Moonlight. Regardless of all these traits, Necrozma-DM still has issues safely setting up Dragon Dance because of <a href=\"/dex/sv/pokemon/arceus-water/ag/\" hreflang=\"en\">Arceus-Water</a> and Arceus-Fairy preferring to run status moves like Will-O-Wisp and Thunder Wave to cripple it, often forcing Terastallization. <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a> and <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a> can stop Necrozma-DM from setting up thanks to Whirlwind, with Ho-Oh also running Sacred Fire to force Necrozma-DM out. Furthermore, Necrozma-DM cannot take heavy attacks from the likes of <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>, <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>, <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>, and <a href=\"/dex/sv/pokemon/kyogre/ag/\" hreflang=\"en\">Kyogre</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Necrozma-DM can opt to run Stone Edge as a surprise element to catch <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a> off guard and OHKOes it after one Dragon Dance boost. However, running Stone Edge means Necrozma-DM has to drop Photon Geyser, which makes it difficult to break through <a href=\"/dex/sv/pokemon/arceus-water/ag/\" hreflang=\"en\">Arceus-Water</a> and <a href=\"/dex/sv/pokemon/dondozo/ag/\" hreflang=\"en\">Dondozo</a>. Knock Off can surprise unsuspecting <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a> and significantly hinders the longevity of stall staples such as Dondozo and Ho-Oh —making it difficult for the former to switch in repeatedly because of Spikes and the latter when Stealth Rock is up. Earthquake is another option that can be preferred, allowing Necrozma-DM to take on opposing Necrozma-DM with more ease.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Calyrex-S</strong>: Calyrex-S deals massive amounts of damage to Necrozma-DM with Astral Barrage. Calyrex-S can also aggressively switch in on Necrozma-DM when it clicks Dragon Dance and lock it into the move via Encore to set up Nasty Plot. However, Calyrex-S must be careful of switching in on Necrozma-DM as Sunsteel Strike does massive damage, and it must scout Knock Off. More importantly, Heavy-Duty Boots Calyrex-S is still faster than +1 Necrozma-DM, and Choice Scarf Calyrex-S can even outspeed it after two Dragon Dance boosts and revenge kill.</p>\n<p><strong><a href=\"/dex/sv/pokemon/kyogre/ag/\" hreflang=\"en\">Kyogre</a></strong>: Kyogre resists Necrozma-DM's Sunsteel Strike and can do immense damage in return with rain-boosted Origin Pulse. However, Kyogre must be wary of Necrozma-DM carrying Photon Geyser. Kyogre's rain makes Moonlight heal less, reducing Necrozma-DM's longevity.</p>\n<p><strong>Ho-Oh</strong>: Ho-Oh deals with Necrozma-DM reliably thanks to its bulk and access to Regenerator. It threatens Necrozma-DM out with Sacred Fire and derails it from sweeping with Whirlwind. However, Knock Off, in conjunction with Stealth Rock, can heavily punish Ho-Oh. In addition, Stone Edge can catch Ho-Oh off guard and OHKO it.</p>\n<p><strong>Arceus-Water</strong>: Arceus-Water resists Sunsteel Strike and carries Will-O-Wisp to stop Necrozma-DM from going out of control. It also dissuades Necrozma-DM from Terastallizing into a Fire-type because of Water-type Judgment.</p>\n<p><strong><a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a></strong>: Although unable to threaten Necrozma-DM, Ting-Lu, when healthy, can switch in and phaze it with Whirlwind or damage it with Ruination.</p>\n<p><strong>Bulky Steel-types</strong>: Bulky Steel-types like <a href=\"/dex/sv/pokemon/skarmory/ag/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/corviknight/ag/\" hreflang=\"en\">Corviknight</a> on stall archetypes can wall Necrozma-DM thanks to Iron Defense coupled with Body Press. Opposing Necrozma-DM can take advantage in a Necrozma-DM mirror matchup. Furthermore, Tera Steel <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a> can use Substitute and set up on Dragon Dance Necrozma-DM.</p>",
+      "movesets": [
+        {
+          "name": "Bulky Dragon Dance",
+          "pokemon": "Necrozma-Dusk Mane",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Necrozma-DM is a good sweeper that leverages its bulk to set up on foes such as <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a>, Calm Mind <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>, and <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a>. Sunsteel Strike deals neutral damage to targets such as <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>, and Zacian-C, 2HKOing the latter two and hitting Arceus-Fairy super effectively. Photon Geyser 2HKOes <a href=\"/dex/sv/pokemon/kyogre/ag/\" hreflang=\"en\">Kyogre</a> and <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a> and, at +1, 2HKOes <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a> while dealing super effective damage to <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a> and Eternatus, OHKOing the former unboosted. Photon Geyser lets Necrozma-DM break past <a href=\"/dex/sv/pokemon/arceus-water/ag/\" hreflang=\"en\">Arceus-Water</a>, 2HKOing it at +1 after a layer of Spikes; hence, it is preferred over other moves like Knock Off and Earthquake. Additionally, Photon Geyser ignores Unaware, allowing Necrozma-DM to get the better of <a href=\"/dex/sv/pokemon/dondozo/ag/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/skeledirge/ag/\" hreflang=\"en\">Skeledirge</a>. Heavy-Duty Boots give Necrozma-DM the freedom to repeatedly switch in without repercussions, providing unparalleled longevity against Ting-Lu's omnipresent Spikes. Alternatively, Covert Cloak can be used, as it allows Necrozma-DM to set up on Ho-Oh and <a href=\"/dex/sv/pokemon/glimmora/ag/\" hreflang=\"en\">Glimmora</a> without worrying about burn via Sacred Fire or Speed drops from Mud Shot. However, this does derail its longevity by taking away the luxury of switching in on entry hazards repeatedly. Tera Fire stops Choice Scarf Koraidon from revenge killing it with sun-boosted Flare Blitz and turns Ho-Oh into setup fodder, as Sacred Fire is no longer able to force Necrozma-DM out. Moreover, Tera Fire blocks Will-O-Wisp from Arceus-Fairy and Arceus-Water, though Necrozma-DM must be careful of the latter because it gains a weakness to Judgment.</p>\n<p>On bulky offense teams, Necrozma-DM often shares the workload with other physical attackers such as Koraidon and <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a> to overwhelm defensive cores. Balance teams appreciate its defensive utility, which allows it to reliably take on Zacian-C and Calm Mind Arceus-Fairy. Ting-Lu is a great partner as it checks Calyrex-S and Miraidon, which otherwise could take advantage of Necrozma-DM. Ting-Lu's Spikes assist Necrozma-DM by wearing down its common checks such as opposing Ting-Lu and Arceus-Water. Necrozma-DM appreciates powerful wallbreakers such as Koraidon and Calyrex-S, as they can weaken opposing defensive cores to open up a sweep for Necrozma-DM. Koraidon constantly puts pressure on defensive Arceus formes and often forces Ho-Oh to Terastallize into a Fairy-type, making Ho-Oh weak to Necrozma-DM's Sunsteel Strike. Furthermore, Koraidon can switch in on Kyogre's rain-boosted moves, while its sun lets Moonlight heal more. Calyrex-S does good damage to Ho-Oh with either Choice Specs or Nasty Plot-boosted Astral Barrage, making it easier for Necrozma-DM to capitalize. Furthermore, +2 Grass Knot does massive damage to Ting-Lu, which, if it remains healthy, can stop Necrozma-DM from sweeping and phaze it with Whirlwind. <a href=\"/dex/sv/pokemon/hatterene/ag/\" hreflang=\"en\">Hatterene</a> is a good partner as it stops entry hazards with Magic Bounce, which allows Necrozma-DM to run Covert Cloak to set up on Ho-Oh without having to worry about Sacred Fire's burn. Necrozma-DM struggles with Arceus-Water, Kyogre, and Ho-Oh; hence, teammates like Eternatus and Miraidon are greatly appreciated. Eternatus can status the aforementioned with Toxic and put them on a timer, while Miraidon scares them out with Electro Drift. Eternatus also sets up Toxic Spikes —often forcing defensive staples such as Arceus-Fairy and Ting-Lu to Terastallize into Poison-types, turning Necrozma-DM's Photon Geyser super effective. Kyogre can deal massive damage to Necrozma-DM with its rain-boosted Water Spout and Origin Pulse, or cripple it with Thunder Wave. Additionally, Kyogre's rain reduces Moonlight's healing, making Miraidon's ability to switch in on Kyogre's Origin Pulse and Thunder Wave and force it out with Electro Drift valuable, though it must be wary of Ice Beam.</p>",
+          "abilities": [
+            "Prism Armor"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sunsteel Strike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 136,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 120
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 631210,
+            "username": "Adhi"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 487990,
+                "username": "Swas"
+              },
+              {
+                "user_id": 660324,
+                "username": "GigaBytes7"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trick Room",
+          "pokemon": "Necrozma-Dusk Mane",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With a better defensive typing that in particular allows for a more favorable matchup against <a href=\"/dex/sv/pokemon/zacian-crowned/battle-stadium-singles/\" hreflang=\"en\">Zacian-C</a> and the ability to bypass Unaware, Necrozma-DM is a viable alternative to <a href=\"/dex/sv/pokemon/calyrex-ice/battle-stadium-singles/\" hreflang=\"en\">Calyrex-I</a> as a Trick Room sweeper.</p>\n</li>\n<li>\n<p><strong>Photon Geyser</strong>: Photon Geyser is Necrozma-DM's most indispensable STAB move that offers the widest neutral coverage. Thanks to its Mold Breaker property, a boosted Necrozma-DM can cleave through Pokemon with Unaware like <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a> as well as ignore abilities like <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a>'s Disguise and <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>'s Multiscale.</p>\n</li>\n<li>\n<p><strong>Sunsteel Strike</strong>: Sunsteel Strike is another powerful ability-ignoring STAB move that does huge damage to Tera Fairy Pokemon especially. However, running both STAB moves has the downside of being resisted by Steel-types.</p>\n</li>\n<li>\n<p><strong>Earthquake</strong>: Earthquake is good complementary coverage that can be used to hit Steel-type foes like <a href=\"/dex/sv/pokemon/scizor/battle-stadium-singles/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a> that can take Necrozma-DM's STAB attacks.</p>\n</li>\n<li>\n<p><strong>Swords Dance</strong>: Swords Dance raises Necrozma-DM's already high Attack to extraordinary heights and allows it to rip through teams.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: With its naturally good bulk fortified even more by its ability Prism Armor, Necrozma-DM can survive many super effective hits, but there are times when Terastallization will be needed to survive especially powerful attacks.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water is the clear premium Tera type, as it is a generally solid defensive typing that critically affords Necrozma-DM a resistance to powerful Fire-type moves from threats like <a href=\"/dex/sv/pokemon/koraidon/battle-stadium-singles/\" hreflang=\"en\">Koraidon</a>.</p>\n</li>\n<li>\n<p><strong>Ground</strong>: Tera Ground should be used with Earthquake to give Necrozma-DM a STAB boost and also has the benefit of nullifying <a href=\"/dex/sv/pokemon/miraidon/battle-stadium-singles/\" hreflang=\"en\">Miraidon</a>'s devastating Electric-type attacks. Blocking paralysis from Thunder Wave is an additional benefit that potentially provides a free turn of setup.</p>\n</li>\n<li>\n<p><strong>Dragon</strong>: Tera Dragon is an alternative defensive Tera type to Water that grants Necrozma-DM a resistance to both Koraidon's Fire-type moves and Miraidon's Electric-type moves as well as both of <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a>'s STAB moves. However, it may leave Necrozma-DM vulnerable to <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a>'s Ice Shard.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry is a good choice that provides Necrozma-DM with pinch healing, keeping it healthy enough to set up or continue a sweep.</p>\n</li>\n<li>\n<p><strong>Lum Berry</strong>: Lum Berry helps protect Necrozma-DM against status conditions from moves like Yawn and Will-o-Wisp that foes may use to try to slow it down.</p>\n</li>\n<li>\n<p><strong>Weakness Policy</strong>: With its good defensive stats, Prism Armor, and common weaknesses, Necrozma-DM is one of the best users of Weakness Policy. If it is activated on the turn Necrozma-DM sets up Trick Room, then it can start sweeping immediately!</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>0 Speed IV with a Brave nature</strong>: This makes Necrozma-DM as slow as possible to function most optimally under Trick Room. However, even with minimum Speed, it will never be able to underspeed <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a> or anything slower than that.</p>\n</li>\n<li>\n<p><strong>31 Speed IV with an Adamant nature</strong>: In light of the awkward Speed tier mentioned above, Necrozma-DM can opt to forgo minimum Speed. With this adjustment, Necrozma-DM can outspeed defensive foes in the base 60-70 Speed range, such as Skeledirge, Scizor, and Corvinight, outside of Trick Room. If Necrozma-DM is not using minimum Speed, it is important to be mindful of the timing of Trick Room when facing foes in that Speed range!</p>\n</li>\n<li>\n<p><strong>244 HP / 228 Atk / 36 Def with Brave or Adamant</strong>: This spread maximizes Necrozma-DM's bulk and Attack while ensuring it is guaranteed to survive one unboosted Astral Barrage from Timid <a href=\"/dex/sv/pokemon/calyrex-shadow/battle-stadium-singles/\" hreflang=\"en\">Calyrex-S</a> as well as giving it a very high chance of surviving Adamant Tera Water Choice Band <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>'s Surging Strikes, without requiring a defensive Tera type in either case.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Prism Armor"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Water",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sunsteel Strike",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 228,
+              "def": 36,
+              "spa": 0,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Brave"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 703557,
+            "username": "Slovami"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 516307,
+                "username": "Photon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Dragon Dance",
+          "pokemon": "Necrozma-Dusk Mane",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Dragon Dance Necrozma-DM is a strong setup sweeper and great donor capable of sweeping through unprepared teams with relative ease. Sunsteel Strike is preferred, as nothing is immune to it, although Photon Geyser is better against <a href=\"/dex/sv/pokemon/dondozo/godly-gift/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/skeledirge/godly-gift/\" hreflang=\"en\">Skeledirge</a>, <a href=\"/dex/sv/pokemon/clodsire/godly-gift/\" hreflang=\"en\">Clodsire</a> lacking Tera Dark, <a href=\"/dex/sv/pokemon/eternatus/godly-gift/\" hreflang=\"en\">Eternatus</a>, and <a href=\"/dex/sv/pokemon/ho-oh/godly-gift/\" hreflang=\"en\">Ho-Oh</a>. Knock Off weakens answers like <a href=\"/dex/sv/pokemon/skarmory/godly-gift/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/slowking/godly-gift/\" hreflang=\"en\">Slowking</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/godly-gift/\" hreflang=\"en\">Rotom-W</a> long-term in conjunction with entry hazards, especially Spikes. Earthquake, on the other hand, targets grounded Steel-types like <a href=\"/dex/sv/pokemon/heatran/godly-gift/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/godly-gift/\" hreflang=\"en\">Zacian-C</a>, and opposing Necrozma-DM while being more consistent overall. Morning Sun provides Necrozma-DM with longevity that allows it to win against bulkier teams long-term, while Tera Blast Fire in conjunction with Knock Off and Sunsteel Strike or Photon Geyser is nearly uncontested, 2HKOing Skarmory and opposing Necrozma-DM while also OHKOing Zacian-C after minor chip damage. While Weakness Policy is the preferred item, Lum Berry is a more consistent option that reduces the need for Tera Fire to avoid burns. Tera Fire is the main Tera type used, enabling Tera Blast if chosen, letting Necrozma-DM avoid burns entirely, and providing it with a more exploitable type for Weakness Policy activation. Tera Ground, on the other hand, boosts Earthquake's damage significantly while also being a good neutrally defensive typing at the cost of noticeably worse synergy with Weakness Policy.</p>\n<p>Dragon Dance Necrozma-DM fits best on teams lacking a consistent setup sweeper and answer to bulky teams, ranging from hyper offense to bulky balance. Necrozma-DM is best played paired with a strong wallbreaker in the Attack slot like <a href=\"/dex/sv/pokemon/rillaboom/godly-gift/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/weavile/godly-gift/\" hreflang=\"en\">Weavile</a>, or <a href=\"/dex/sv/pokemon/maushold/godly-gift/\" hreflang=\"en\">Maushold</a>, as it can accentuate their damage to absurd levels. If a more defensive route is chosen, teammates like <a href=\"/dex/sv/pokemon/clefable/godly-gift/\" hreflang=\"en\">Clefable</a>, Slowking, and <a href=\"/dex/sv/pokemon/landorus-therian/godly-gift/\" hreflang=\"en\">Landorus-T</a> fit exceptionally well as Defense receivers, providing useful tools like Knock Off utility and pivoting, while Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/godly-gift/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/godly-gift/\" hreflang=\"en\">Tornadus-T</a>, and Skeledirge are great special walls thanks to their access to utility moves like Spikes and Knock Off or anti-setup options. If a more offensive route is chosen, teammates that enjoy extra bulk like <a href=\"/dex/sv/pokemon/roaring-moon/godly-gift/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/sneasler/godly-gift/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/primarina/godly-gift/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/great-tusk/godly-gift/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/hatterene/godly-gift/\" hreflang=\"en\">Hatterene</a> are great, as Necrozma-DM can give them more opportunities to switch in and set up. Leads like <a href=\"/dex/sv/pokemon/glimmora/godly-gift/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/grimmsnarl/godly-gift/\" hreflang=\"en\">Grimmsnarl</a> enjoy the offensive or defensive stat donations respectively gifted by Necrozma-DM to either deal more damage or set up entry hazards or dual screens more often and consistently. Entry hazard setters like <a href=\"/dex/sv/pokemon/sandy-shocks/godly-gift/\" hreflang=\"en\">Sandy Shocks</a>, Great Tusk, and Clefable all enable Necrozma-DM by allowing it to pressure counters like Skarmory, Rotom-W, and Ho-Oh. especially in conjunction with Knock Off for the latter; they also further support it with high-power STAB moves like Thunderbolt and Close Combat or via other utility moves like Knock Off. While Necrozma-DM is incredibly strong, it is incredibly slow and gifts a low Speed stat. Thus, it requires teammates that can fill the role of speed control like <a href=\"/dex/sv/pokemon/zamazenta/godly-gift/\" hreflang=\"en\">Zamazenta</a>, Rillaboom, Unburden Pokemon like Sneasler, Choice Scarf users like the <a href=\"/dex/sv/pokemon/urshifu/godly-gift/\" hreflang=\"en\">Urshifu</a> formes, and Booster Energy Speed users like Great Tusk and <a href=\"/dex/sv/pokemon/iron-valiant/godly-gift/\" hreflang=\"en\">Iron Valiant</a> to handle faster threats like <a href=\"/dex/sv/pokemon/electrode-hisui/godly-gift/\" hreflang=\"en\">Hisuian Electrode</a> and Eternatus. Necrozma-DM can also struggle against Pokemon like Ho-Oh, Foul Play <a href=\"/dex/sv/pokemon/mandibuzz/godly-gift/\" hreflang=\"en\">Mandibuzz</a>, Iron Defense Skarmory, and Tera Dark or Curse Dondozo, so teammates that can remove or cripple these threats like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/godly-gift/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/iron-boulder/godly-gift/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/zapdos/godly-gift/\" hreflang=\"en\">Zapdos</a> are greatly appreciated.</p>",
+          "abilities": [
+            "Prism Armor"
+          ],
+          "items": [
+            "Weakness Policy",
+            "Lum Berry"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sunsteel Strike",
+                "type": null
+              },
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              },
+              {
+                "move": "Photon Geyser",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Necrozma-Dusk Mane",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Prism Armor"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sunsteel Strike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 545372,
+            "username": "Clas"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 564614,
+                "username": "Fraise"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              },
+              {
+                "user_id": 608218,
+                "username": "DragonPhoenix333"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Necrozma-Dusk Mane",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Dragon Dance Necrozma-DM is a ferocious wallbreaker and cleaner that finds a home on bulky offense and balance teams. Necrozma-DM is able to leverage its bulk, typing, ability, and the possbility of bluffing the threat of <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a> to force a switch or absorb an incoming attack such as Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>'s Precipice Blades or <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a>'s Foul Play and then use Dragon Dance.</p>\n</li>\n<li>\n<p>If <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> is sufficiently covered, Stone Edge can be substituted for Photon Geyser. This move still hits Ho-Oh hard while enabling Necrozma-DM to beat <a href=\"/dex/sv/pokemon/dondozo/national-dex-ubers/\" hreflang=\"en\">Dondozo</a>, which would otherwise wall it. It has the added benefit of OHKOing <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> without the need to spend a turn stat boosting.</p>\n</li>\n<li>\n<p>Solganium Z allows Necrozma-DM to OHKO common switch-ins such as Arceus-Dark, <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>, and <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a> with +1 Searing Sunraze Smash mid-game, clearing the way for its teammates.</p>\n</li>\n<li>\n<p>The extra bulk provided by 132 HP EVs allows Necrozma-DM to avoid OHKOs from some hits it otherwise wouldn't while still hitting important Speed benchmarks. For example, Necrozma-DM will survive Life Orb <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>'s Poltergeist after Stealth Rock, defensive Primal Groudon's Precipice Blades after a single layer of Spikes, and defensive Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>'s +1 Scald. With 124 Speed EVs, Necrozma-DM has the ability to outspeed uninvested base 90s with a neutral nature such as defensive Primal Groudon and Ho-Oh. At +1 Necrozma-DM outspeeds fully invested Yveltal. At +2 Necrozma-DM outspeeds nearly the entire unboosted metagame, only fearing priority moves such as Marshadow's Shadow Sneak or Yveltal's Sucker Punch.</p>\n</li>\n<li>\n<p>Alternatively, investing in 236 Speed EVs allows Necrozma-DM to outspeed fully invested base 120s at +1 such as <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>. If Necrozma-DM uses Dragon Dance on the switch-in, it retains the ability to OHKO Mega Salamence with Searing Sunraze Smash with minimal chip after Intimidate removes Necrozma-DM's Attack boost.</p>\n</li>\n<li>\n<p>A third EV spread of 88 HP / 252 Atk / 16 Def / 4 SpD / 148 Spe with an Adamant nature outspeeds Zygarde, avoids a OHKO from +1 defensive Primal Kyogre's Scald, and after Stealth Rock a OHKO from Arceus-Dark's Foul Play.</p>\n</li>\n<li>\n<p>Due to a lack of recovery, Necrozma-DM needs to be cognisant of its HP, as any chip is permanent. Necrozma-DM frequently absorbs large hits while setting up or revenge killing certain threats, and taking chip may render it unable to do so. For example, Necrozma-DM always survives defensive Primal Groudon's Precipice Blades after a layer of Spikes but can be OHKOed if Stealth Rock is also on the field.</p>\n</li>\n<li>\n<p>Dragon Dance Necrozma-DM should not be used to fulfill the defensive duties typically associated with Necrozma-DM such as switching into an unscouted <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, though it can revenge kill them. It excels when used as a secondary check to them, with teammates such as Ho-Oh and Primal Groudon serving as primary checks.</p>\n</li>\n<li>\n<p>Necrozma-DM struggles heavily against offensive Primal Groudon, Marshadow, and physical Arceus-Ground. Offensive Primal Groudon is able to OHKO Necrozma-DM with its STAB moves. Marshadow is always able to revenge kill Necrozma-DM with Shadow Sneak and OHKO it with Poltergeist. Physical Arceus-Ground OHKOes Necrozma-DM with Tectonic Rage and can threaten to sweep if given the opportunity to use Dragon Dance. Zygarde is an excellent teammate on balance teams that can switch into all three of these Pokemon and provides valuable paralysis support, which allows Necrozma-DM to outspeed the entire unboosted metagame. <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a> is a good teammate on bulky offense teams that can switch into Primal Groudon and Arceus-Ground. Necrozma-DM also appreciates the Defog and status support provided by Giratina-O.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a> provides a Dark switch-in on balance teams, which helps mitigate the downside of misfiring Searing Sunraze Smash into the wrong target. It is a good check to Life Orb Yveltal, which is otherwise very threatening to balance teams and can revenge kill Necrozma-DM with Sucker Punch. Arceus-Fairy can also provide Stealth Rock and status support in the form of Will-O-Wisp and Toxic to chip opposing Pokemon into range of Necrozma-DM's attacks such as Primal Groudon, Zacian-C, and Arceus-Ground.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Prism Armor"
+          ],
+          "items": [
+            "Solganium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sunsteel Strike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Photon Geyser",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 132,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 124
+            },
+            {
+              "hp": 20,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Necrozma-Dusk Mane",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Necrozma-DM's excellent defensive typing, great stats, and movepool enable it to switch into many very powerful metagame threats, such as <a href=\"/dex/sv/pokemon/mewtwo-mega-y/national-dex-ubers/\" hreflang=\"en\">Mega Mewtwo Y</a>, <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a>, <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>, and <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, and fill utility roles to support its team, such as spreading status conditions and setting Stealth Rock.</p>\n</li>\n<li>\n<p>Sunsteel Strike is a decent STAB move that hits Zacian-C, <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a>, and the <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> formes. Earthquake hits foes that Necrozma-DM checks harder, like Zacian-C, Eternatus, and opposing Necrozma-DM, but it makes Necrozma-DM weaker in general and especially to foes that are immune to the move, such as <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>, Giratina-O, and <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>.</p>\n</li>\n<li>\n<p>Toxic allows Necrozma-DM to cripple checks such as Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, offensive <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a>, Giratina-O, and <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>. Thunder Wave is an alternative to cripple Pokemon that it checks such as Eternatus, Deoxys-A, and support Arceus formes lacking Refresh and provide speed control for its allies.</p>\n</li>\n<li>\n<p>Knock Off allows Necrozma-DM to cripple foes by removing their item; in particular, it punishes Ho-Oh switching in to remove entry hazards.</p>\n</li>\n<li>\n<p>As Necrozma-DM has multiple ways to punish hazard removal attempts from Ho-Oh and Giratina-O, it is a solid Stealth Rock setter.</p>\n</li>\n<li>\n<p>The given EV spread avoids a 2HKO from Zacian-C's Close Combat after Intrepid Sword, Life Orb Deoxys-A's Shadow Ball after Stealth Rock, and defensive Arceus-Ground's Judgment.</p>\n</li>\n<li>\n<p>Leftovers increases Necrozma-DM's longevity, notably cancelling out chip damage from Stealth Rock. Rocky Helmet is an alternative that prevents Zacian-C from trying to overwhelm Necrozma-DM's Morning Sun PP by wearing it down.</p>\n</li>\n<li>\n<p>Necrozma-DM is a Pokemon that does not Terastallize often, as its innate typing already lets it handle a good portion of the metagame. After Terastallizing, Necrozma-DM becomes unable to properly check foes it's meant to cover, and its allies often make better use of the mechanic. Tera Poison lets Necrozma-DM check Zacian-C more consistently even if it Terastallizes and absorb Toxic Spikes from Eternatus. Tera Water alternatively allows Necrozma-DM to remove its regular type weaknesses and gain Fire and Water resistances, allowing it to come into Arceus-Ground, Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, Ho-Oh, and Primal Groudon in a pinch.</p>\n</li>\n<li>\n<p>Necrozma-DM can be used early-game to wall foes such as Mega Mewtwo Y, Zacian-C, and Eternatus and then either cripple them or set Stealth Rock, but it shouldn't be heavily relied on, as it can get worn down and be left unable to check them consistently.</p>\n</li>\n<li>\n<p>As it's used to handle several metagame threats such as Zacian-C and Deoxys-A, Necrozma-DM can get easily overwhelmed; therefore, it appreciates allies that can be secondary checks to such foes like Primal Groudon and Ho-Oh.</p>\n</li>\n<li>\n<p>Multiple foes such as Primal Groudon, Ho-Oh, Yveltal, and <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a> can threaten Necrozma-DM, so it appreciates allies to check them, with defensive examples including <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a> and <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a> and offensive ones including <a href=\"/dex/sv/pokemon/palkia-origin/national-dex-ubers/\" hreflang=\"en\">Palkia-O</a>, Primal Kyogre, and Arceus-Ground; Necrozma-DM, in return, checks foes that would force them out such as Eternatus and Zacian-C.</p>\n</li>\n<li>\n<p>Being crippled by burn, paralysis, or Knock Off from foes such as Ho-Oh, Zygarde, and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a> can compromise Necrozma-DM's consistency at checking foes; therefore, it makes a good defensive core with support Arceus formes with Refresh and Primal Groudon.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Prism Armor"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sunsteel Strike",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 72,
+              "spa": 0,
+              "spd": 184,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 434487,
+            "username": "Bobsican"
+          },
+          {
+            "user_id": 523420,
+            "username": "bumboclaat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 535530,
+                "username": "Gangsta Spongebob"
+              },
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Calm Mind",
+    "Charge Beam",
+    "Confusion",
+    "Dark Pulse",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Expanding Force",
+    "Facade",
+    "Flash Cannon",
+    "Fling",
+    "Future Sight",
+    "Giga Impact",
+    "Gravity",
+    "Gyro Ball",
+    "Heat Wave",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Imprison",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Light Screen",
+    "Metal Claw",
+    "Meteor Beam",
+    "Moonlight",
+    "Morning Sun",
+    "Night Slash",
+    "Outrage",
+    "Photon Geyser",
+    "Power Gem",
+    "Prismatic Laser",
+    "Protect",
+    "Psychic",
+    "Psychic Fangs",
+    "Psycho Cut",
+    "Psyshock",
+    "Reflect",
+    "Rest",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Smart Strike",
+    "Solar Beam",
+    "Stealth Rock",
+    "Stone Edge",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Sunsteel Strike",
+    "Swift",
+    "Swords Dance",
+    "Tera Blast",
+    "Thief",
+    "Trick Room",
+    "X-Scissor"
+  ]
+}

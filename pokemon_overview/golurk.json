@@ -1,0 +1,717 @@
+{
+  "name": "Golurk",
+  "alias": "golurk",
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "stats": [
+    89,
+    124,
+    80,
+    55,
+    80,
+    55
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Golurk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Golurk is a potent wallbreaker with limited switch-ins thanks to its incredible STAB combination, which is resisted by only a few Pokemon in the tier. Golurk excels at dismantling common defensive cores thanks to its high Attack and great typing, which let it switch into and force out defensive staples like <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a> and <a href=\"/dex/sv/pokemon/bellibolt/pu/\" hreflang=\"en\">Bellibolt</a>. Dynamic Punch lets Golurk 2HKO <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a> while also hitting other Dark- and Normal-types like <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a> and <a href=\"/dex/sv/pokemon/dudunsparce/pu/\" hreflang=\"en\">Dudunsparce</a> and threatening confusion against everything else. Close Combat can be used as an alternative due to its higher Base Power, which lets it guarantee a 2HKO on Wo-Chien after Leech Seed recovery; however, Golurk misses out on the confusion, and the Defense and Special Defense drops make it more susceptible to being revenge killed. Ice Punch lets Golurk OHKO <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a> and <a href=\"/dex/sv/pokemon/altaria/pu/\" hreflang=\"en\">Altaria</a> while also serving as a good middle ground into foes like <a href=\"/dex/sv/pokemon/brute-bonnet/pu/\" hreflang=\"en\">Brute Bonnet</a>. Stone Edge can be used as an alternative that's stronger versus neutral targets and has a higher chance to land a critical hit. Tera Dark flips Golurk's Ghost and Dark weaknesses while also removing its Water and Ice weaknesses, allowing it to avoid revenge kill attempts from Pokemon like <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a>, <a href=\"/dex/sv/pokemon/espeon/pu/\" hreflang=\"en\">Espeon</a>, and opposing Golurk. Tera Ghost can be used instead to further boost Golurk's power, letting it 2HKO Pokemon like <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a> and guaranteeing OHKOs against Pokemon like <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-H</a> with Poltergeist while still removing its susceptibility to Water- and Ice-type moves to avoid revenge killing attempts from Pokemon like <a href=\"/dex/sv/pokemon/bruxish/pu/\" hreflang=\"en\">Bruxish</a> and Ice Punch <a href=\"/dex/sv/pokemon/pawmot/pu/\" hreflang=\"en\">Pawmot</a>.</p>\n<p>Golurk works best alongside Pokemon that benefit from its wallbreaking abilities such as Choice Scarf Bruxish and Curse <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a>, which struggle with Bellibolt and <a href=\"/dex/sv/pokemon/rhydon/pu/\" hreflang=\"en\">Rhydon</a>, respectively. While Golurk has the coverage to hit the likes of Bombirdier, Wo-Chien, and Brute Bonnet, their presence on the opposing team hurts its ability to freely use its STAB moves and forces it to make more predictions, so teammates that can handle these Pokemon like Bellibolt, which checks Bombirdier, and <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a>, which helps against Wo-Chien and Brute Bonnet, make excellent partners. Furthermore, Paldean Tauros-F offensively and defensively checks the Dark-types that threaten Golurk, and other Fighting-types like Pawmot and <a href=\"/dex/sv/pokemon/decidueye-hisui/pu/\" hreflang=\"en\">Hisuian Decidueye</a> are similarly good partners for this purpose. Golurk is also forced out by Water- and Grass-types, so teammates that can switch into these Pokemon, like <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a> for <a href=\"/dex/sv/pokemon/tatsugiri/pu/\" hreflang=\"en\">Tatsugiri</a> as well as Skuntank for Choice Scarf <a href=\"/dex/sv/pokemon/hoopa/pu/\" hreflang=\"en\">Hoopa</a>, are incredible partners for Golurk.</p>",
+          "abilities": [
+            "No Guard"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Dark",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dynamic Punch",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Stealth Rock",
+          "pokemon": "Golurk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Golurk can leverage its usable bulk, defensive and offensive typing, and more importantly, its great power to become one of few good offensive Stealth Rock users. This set is also good at bluffing Choice Band, which can be taken advantage of when setting up Stealth Rock. Ice Punch is optimal coverage for Golurk on this set, letting it hit Pokemon like <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a> and <a href=\"/dex/sv/pokemon/altaria/pu/\" hreflang=\"en\">Altaria</a>, which would otherwise be great checks to Golurk. Dynamic Punch is also an option for its higher Base Power, super effective damage against Fighting-weak Pokemon like <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a> and <a href=\"/dex/sv/pokemon/dudunsparce/pu/\" hreflang=\"en\">Dudunsparce</a>, and disruptive confusion spreading. Colbur Berry's main draw is reversing Golurk's matchup against Dark-types like <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a> and <a href=\"/dex/sv/pokemon/zoroark/pu/\" hreflang=\"en\">Zoroark</a>, always tanking a Knock Off from them while OHKOing back with Earthquake. The Speed EVs lets Golurk outspeed -1 <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a> and defensive <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a>, while the bulk investment lets it take two hits from defensive <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a>. Tera Dark sheds Golurk's many weaknesses and even turns some of them, like Dark and Ghost, into resistances; namely, it lets it check Ghost-types like <a href=\"/dex/sv/pokemon/hoopa/pu/\" hreflang=\"en\">Hoopa</a> and <a href=\"/dex/sv/pokemon/houndstone/pu/\" hreflang=\"en\">Houndstone</a> as well as Dark-types like <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a> and Zoroark after its Colbur Berry has been used up.</p>\n<p>As an offensive Stealth Rock user, Golurk should be used on more offensive teams that do not want to lose momentum from their entry hazard user and not hyper offense teams that rely on leads like <a href=\"/dex/sv/pokemon/lycanroc/pu/\" hreflang=\"en\">Lycanroc</a> and <a href=\"/dex/sv/pokemon/froslass/pu/\" hreflang=\"en\">Froslass</a> to get their entry hazards up. Offensive pivots that can bring Golurk in, like <a href=\"/dex/sv/pokemon/ambipom/pu/\" hreflang=\"en\">Ambipom</a> and <a href=\"/dex/sv/pokemon/electrode-hisui/pu/\" hreflang=\"en\">Hisuian Electrode</a> are great for this, bringing Golurk in on their switch-ins like <a href=\"/dex/sv/pokemon/bellibolt/pu/\" hreflang=\"en\">Bellibolt</a>, <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a>, and Alolan Sandslash; in return, Golurk provides a way to break past them as well as entry hazards to help wear these switch-ins down. Golurk also appreciates defensive partners that help it deal with Dark-types, such as <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a> and Choice Scarf Florges, which are great at forcing out Wo-Chien and Scrafty. Bulky Water- and Grass-types like <a href=\"/dex/sv/pokemon/cramorant/pu/\" hreflang=\"en\">Cramorant</a> and Wo-Chien to switch into opposing Water- and Grass-types that force Golurk out are also appreciated; Cramorant can also spread paralysis to help Golurk outspeed its offensive checks. Fire types like <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-H</a> and <a href=\"/dex/sv/pokemon/typhlosion-hisui/pu/\" hreflang=\"en\">Hisuian Typhlosion</a> are good partners, as they can easily pressure Grass-types that threaten Golurk, like Wo-Chien and <a href=\"/dex/sv/pokemon/venusaur/pu/\" hreflang=\"en\">Venusaur</a>. Being a slow bulky Pokemon with no recovery, Golurk naturally struggles against revenge killers like Hoopa and Tastugiri, so speed control that can offensively check these Pokemon like Choice Scarf Zoroark and Florges are greatly appreciated.</p>",
+          "abilities": [
+            "No Guard"
+          ],
+          "items": [
+            "Colbur Berry"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              },
+              {
+                "move": "Dynamic Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 172,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 84
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 414072,
+            "username": "Yunie"
+          },
+          {
+            "user_id": 626934,
+            "username": "Morge"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 414072,
+                "username": "Yunie"
+              },
+              {
+                "user_id": 452572,
+                "username": "missangelic"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Golurk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "No Guard"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dynamic Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heat Crash",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>An incredible Attack stat, offensive typing, and unique coverage options give Golurk a niche as a strong wallbreaker that can dismantle common defensive staples, such as <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>. Golurk bears the coveted combination of Dynamic Punch and No Guard, deterring Dark-types like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> from switching in. This, combined with Golurk's Ghost typing, helps it deter <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> from using Rapid Spin for fear of giving it a switch in opportunity, making it a solid option for entry hazard stacking teams as a spinblocker and Stealth Rock setter. Golurk's downfall comes in its terrible Speed and middling bulk, leaving it 2HKOed by a myriad of faster threats, such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. Golurk's strongest STAB attack, Poltergeist, cannot be used if the target's item is removed by Knock Off, making it somewhat difficult to build around. While its typing is excellent offensively, it also saddles Golurk with a number of common weaknesses, particularly to Water, Ghost, and Dark, with Knock Off being of particular concern. This leaves Golurk vulnerable to many of the tier's premier offensive threats, such as <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>, <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>. Golurk also struggles to 2HKO prominent walls like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> without the use of Choice Band or Life Orb; the former risks offering the opposing team free switches in by locking Golurk into one move, while the latter's chip damage leaves it even more vulnerable to being KOed by the aforementioned attackers.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Leftovers lets Golurk trade power or insurance against Dark-type attacks for sustainability, especially if it opts to run Substitute. A Choice Scarf set can be used to shore up Golurk's low Speed, letting it outspeed offensive checks like <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a> and non-Choice Scarf <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>. Close Combat is a stronger alternative to Dynamic Punch that lets Golurk guarantee an OHKO against Moxie <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and a 2HKO against <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a> without the use of a damage-boosting item, though its lack of a positive secondary effect makes Dynamic Punch more preferable otherwise. Golurk can forgo No Guard for Iron Fist in conjunction with Shadow Punch and Ice Punch; the former is a more reliable, if weaker, STAB move that makes it easier for Golurk's teammates to use Knock Off, whereas the latter guarantees an OHKO on <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> while also dealing extra damage to <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>. If running Choice Band, Golurk can opt to run Trick in order to lure in and cripple defensive checks, like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and Chesnaught. Trick can also be used with Klutz and a detrimental item, like Toxic Orb, Flame Orb, or Assault Vest, as an alternative method of crippling its defensive checks; however, Golurk becomes unable to run an item if it runs Klutz, making this option somewhat risky.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Water-types</strong>: Offensive Water-types like <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a>, Volcanion, and <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a> are able to comfortably outspeed Golurk before KOing it with their STAB moves. However, they all struggle to switch in on Golurk's powerful attacks, though Gyarados can take advantage of Choice Band Golurk if it is locked into Earthquake. If Golurk is running Colbur Berry, bulky Water-types like <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a> and <a href=\"/dex/sv/pokemon/vaporeon/ru/\" hreflang=\"en\">Vaporeon</a> are able to avoid being 2HKOed by its attacks and threaten it with Scald.</p>\n<p><strong>Ghost-types</strong>: Basculegion-F and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> are able to outrun Golurk and OHKO it with Shadow Ball, though they must be careful of switching in, especially Gengar due to its weakness to Earthquake. <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> is capable of taking a hit from Golurk thanks to Disguise, letting it set up with Swords Dance to guarantee an OHKO with Shadow Claw.</p>\n<p><strong>Physical Walls</strong>: Without Choice Band, Golurk is unable to 2HKO physical walls like Hippowdon and Chesnaught, both of whom are able to heal off the damage while wearing it down. Chesnaught, in particular, is able to threaten non-Colbur Berry variants with Knock Off, letting it take Golurk's attacks easier. <a href=\"/dex/sv/pokemon/gligar/ru/\" hreflang=\"en\">Gligar</a> is unable to be 2HKOed by even Choice Band Golurk's attacks, though it struggles to repeatedly switch in due to its lack of reliable recovery.</p>\n<p><strong>Strong Wallbreakers</strong>: Golurk's lacking Speed and bulk leave it vulnerable to being OHKOed or 2HKOed by many of the tier's prominent wallbreakers, such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, though its high power deters many of them from switching in freely.</p>",
+      "movesets": [
+        {
+          "name": "Wallbreaker",
+          "pokemon": "Golurk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Golurk is a niche but effective wallbreaker in the tier, using its powerful STAB moves and coverage options to blow holes through defensive cores with ease. Dynamic Punch, with the accuracy assurance granted by No Guard, allows Golurk to disrupt foes that otherwise wall it and hits Dark-types like <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> super effectively. Stone Edge can be used to hit Flying-types like <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> for massive damage. Substitute allows Golurk to scout, such as for a switch-in or status attempt from Talonflame and Umbreon, safely while also disrupting Sucker Punch from slower <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>. Stealth Rock sets are quite effective at establishing entry hazards, as Golurk can threaten common hazard removal options like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and Noivern. Choice Band allows Golurk to threaten 2HKOs on foes like <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a>, <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> with Stealth Rock chip damage. Life Orb can be used to still hit the Gastrodon 2HKO benchmark without needing to lock into an attack. With a Colbur Berry and the allocated HP investment, Golurk can take a Sucker Punch from +2 Bisharp and a Knock Off from Choice Band Krookodile. No Guard allows Golurk to use its most powerful moves without the risk of missing. The Speed investment allows Golurk to outpace <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a> and uninvested Bisharp. Tera Ground removes the weaknesses to Dark and Ghost while pushing the damage output of Earthquake to near unwallable levels, securing a 2HKO on Hippowdon with Life Orb and after Stealth Rock chip damage. Tera Fighting similarly flips the weakness to Dark, helping non-Colbur Berry sets more effectively take on Bisharp and Krookodile while also increasing the damage of Dynamic Punch enough for Life Orb sets to OHKO Umbreon.</p>\n<p>With a potent offensive STAB combination of Ghost / Ground, Golurk is an excellent wallbreaker on balance and offense teams. Choice Band sets work best when given safe entry points against walls like Hippowdon and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, making teammates like Cyclizar, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> important to lure them in and allow Golurk to fire off its powerful attacks. Hippowdon and Jirachi are notable teammates for Golurk for their ability to use Stealth Rock so Golurk can opt to run more offensive sets. Life Orb Golurk is susceptible to getting worn down by its own recoil and chip damage, making teammates like Healing Wish <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and Wish Umbreon especially valuable to maintain its health. Defensively, Golurk appreciates teammates like Cyclizar and Slowbro, as they can sponge the powerful Ghost- and Water-type attacks thrown at it from foes like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, and <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>. Offensive teams that rely on Sticky Web support from <a href=\"/dex/sv/pokemon/ribombee/ru/\" hreflang=\"en\">Ribombee</a> can slow foes like <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> down enough to let Golurk wallbreak more efficiently, though it does activate Defiant on Bisharp, meaning Sticky Web teams should opt for a Colbur Berry to ensure Golurk can survive the Sucker Punch to remove a powerful threat. Substitute Golurk can afford to use Life Orb, especially on Sticky Web teams where it can bait the Sucker Punch from Bisharp and then throw out powerful attacks uncontested, as well as on teams that can give it safe entry points against slower foes like <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> and Slowbro often.</p>",
+          "abilities": [
+            "No Guard"
+          ],
+          "items": [
+            "Choice Band",
+            "Life Orb",
+            "Colbur Berry"
+          ],
+          "teratypes": [
+            "Ground",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dynamic Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 132,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 124
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 236507,
+            "username": "Bice"
+          },
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 513635,
+                "username": "Rarelyme"
+              },
+              {
+                "user_id": 647728,
+                "username": "Heatranator"
+              },
+              {
+                "user_id": 555741,
+                "username": "MachJacob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Golurk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set(s).</p>",
+          "abilities": [
+            "No Guard"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fairy",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Heat Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Heat Crash",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Entry Hazard Lead (Ghost)",
+          "pokemon": "Golurk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "No Guard"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Dynamic Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 598658,
+                "username": "Ultraman1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "No Guard (Spe)",
+          "pokemon": "Golurk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "No Guard"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dynamic Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Astonish",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Charge Beam",
+    "Close Combat",
+    "Confuse Ray",
+    "Curse",
+    "Defense Curl",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fire Punch",
+    "Flash Cannon",
+    "Fling",
+    "Fly",
+    "Focus Blast",
+    "Focus Punch",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Gyro Ball",
+    "Hammer Arm",
+    "Hard Press",
+    "Heat Crash",
+    "Heavy Slam",
+    "Helping Hand",
+    "Hex",
+    "High Horsepower",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Iron Defense",
+    "Knock Off",
+    "Low Kick",
+    "Low Sweep",
+    "Mega Punch",
+    "Mud-Slap",
+    "Night Shade",
+    "Phantom Force",
+    "Poltergeist",
+    "Pound",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scorching Sands",
+    "Shadow Ball",
+    "Shadow Punch",
+    "Sleep Talk",
+    "Smack Down",
+    "Solar Beam",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Trick",
+    "Zen Headbutt"
+  ]
+}

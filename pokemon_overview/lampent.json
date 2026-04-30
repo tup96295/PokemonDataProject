@@ -1,0 +1,200 @@
+{
+  "name": "Lampent",
+  "alias": "lampent",
+  "types": [
+    "Ghost",
+    "Fire"
+  ],
+  "stats": [
+    60,
+    40,
+    60,
+    95,
+    60,
+    55
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Item",
+          "pokemon": "Lampent",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Lampent",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Armor",
+    "Astonish",
+    "Burning Jealousy",
+    "Calm Mind",
+    "Clear Smog",
+    "Confuse Ray",
+    "Curse",
+    "Dark Pulse",
+    "Ember",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fire Blast",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Haze",
+    "Heat Wave",
+    "Hex",
+    "Imprison",
+    "Inferno",
+    "Lash Out",
+    "Memento",
+    "Minimize",
+    "Night Shade",
+    "Overheat",
+    "Pain Split",
+    "Poltergeist",
+    "Power Split",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Rest",
+    "Shadow Ball",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Smog",
+    "Solar Beam",
+    "Spite",
+    "Substitute",
+    "Sunny Day",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Trick",
+    "Trick Room",
+    "Will-O-Wisp"
+  ]
+}

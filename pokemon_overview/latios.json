@@ -1,0 +1,2303 @@
+{
+  "name": "Latios",
+  "alias": "latios",
+  "types": [
+    "Dragon",
+    "Psychic"
+  ],
+  "stats": [
+    80,
+    90,
+    80,
+    130,
+    110,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>With its high Speed and Special Attack, Choice Specs Latios is a very deadly wallbreaker in UU, able to even break past checks such as <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a>, <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a>, and <a href=\"/dex/sv/pokemon/tyranitar/uu/\" hreflang=\"en\">Tyranitar</a> over time with its nuclear Draco Meteor. Surf nails <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> while having good neutral damage against <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a> and Metagross. Flip Turn allows Latios to preserve momentum off of checks like <a href=\"/dex/sv/pokemon/blissey/uu/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a> coming in. Trick hinders Pokemon like Slowking and Tyranitar with a useless item for them but should only be used when Latios's Choice Specs is no longer needed, is not useful in the current matchup, or is more valuable to weaken said checks to open up another teammate to win. Latios can run other coverage moves too; Thunderbolt threatens <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> and Slowking, Shadow Ball hits Metagross super effectively while retaining coverage for Slowking, while Aura Sphere slams Tyranitar and retains the ability to break Heatran and Excadrill, but they generally are difficult moves to lock into compared to more standard options. Tera Dragon boosts Latios's Draco Meteor to absurd levels, being able to OHKO Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> after Stealth Rock and Slowking after very little chip damage as well as 2HKO specially defensive walls like Tyranitar. Tera Steel is an alternative that gives Latios greater defensive utility, being able to avoid revenge killing attempts from Pokemon like <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>, <a href=\"/dex/sv/pokemon/mamoswine/uu/\" hreflang=\"en\">Mamoswine</a>, and opposing Latios.</p>\n<p>Choice Specs Latios is a powerful asset on bulky offense and balance builds for its powerful wallbreaking capabilities. Physical attackers such as Scizor, <a href=\"/dex/sv/pokemon/weavile/uu/\" hreflang=\"en\">Weavile</a>, Excadrill, and <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a> excel at pressuring checks to Latios such as Metagross, Slowking, Tinkaton, and Tyranitar. Excadrill also provides entry hazard removal to keep Stealth Rock from wearing down Latios and switches into Tinkaton reliably. Tornadus-T and Lokix act as pivots that can wear down shared checks like Tyranitar and Tinkaton and enable Latios to wallbreak by bringing it in on other foes like <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> and <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a>. Entry hazard support from Pokemon like Tinkaton, Heatran, and <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> does a great job at wearing down Metagross and Tyranitar into range of Latios's attacks. Defensive Pokemon like Slowking and the aforementioned Tornadus-T can defensively solidify Latios's team due to its need to predict correctly or otherwise risk losing momentum while the being additional checks to threats like <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a>. Slowking can also provide paralysis support to mess with revenge killers like Lokix, Tornadus-T, and Greninja.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Soul Dew 3a",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Soul Dew amplifying the power of its STAB moves, key defensive utility, and longevity, Latios is a formidable wallbreaker that can use its serviceable defensive utility in tandem with Recover to be an offensive threat that has longevity and key traits to bring to a team. Flip Turn allows Latios to gain momentum against and wear down threats like <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a>, and <a href=\"/dex/sv/pokemon/tyranitar/uu/\" hreflang=\"en\">Tyranitar</a>. Recover lets Latios pivot into the likes of <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a>, <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>, and <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> while not having to worry about being worn down. Soul Dew amplifies Latios's STAB moves while keeping its move flexibility. Tera Steel lets Latios avoid getting revenge killed by Pokemon like <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/weavile/uu/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>. It also lets Latios act as a reliable switch-in against <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/clodsire/uu/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/gastrodon/uu/\" hreflang=\"en\">Gastrodon</a> as well as giving it a Poison immunity, although it can no longer switch into Cobalion and Keldeo after Tera Steel.</p>\n<p>Latios largely fits on offense and bulky offense teams as a useful wallbreaker that provides much-needed defensive utility against foes like Keldeo and Cobalion. Pivots like Lokix and <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> can bring Latios in safely to wallbreak while helping it overwhelm shared checks such as <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a> and Tyranitar. Tornadus-T also checks Pokemon that threaten Latios such as Lokix and Excadrill, while Lokix revenge kills faster threats like Greninja and Choice Scarf <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a>. Tornadus-T can also bring Latios in safely while being a good source of defensive utility against the likes of Greninja and can wear down Pokemon like Slowking and <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a> for it. Tinkaton and Cobalion can provide Stealth Rock support to put threats like Slowking and Assault Vest Tornadus-T in range of KOs more easily. Sandy Shocks can set up Spikes, help wear down Tornadus-T, and bring Latios in against Hydrapple. <a href=\"/dex/sv/pokemon/araquanid/uu/\" hreflang=\"en\">Araquanid</a> is a good enabler for Latios on Sticky Web teams, slowing down faster threats like Greninja and Choice Scarf <a href=\"/dex/sv/pokemon/mienshao/uu/\" hreflang=\"en\">Mienshao</a>, as well as helping it avoid a Speed tie with <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Soul Dew",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to Terastallization, Latios utilizes Calm Mind in tandem with a STAB Thunderbolt to become an extremely powerful sweeper that plays a defining role in UU. Latios's natural bulk and high Speed allow it to gain setup chances with Calm Mind to snowball against common Pokemon like <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a> as well as others like <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> post Tera, working in tandem with Draco Meteor to offset the Special Attack drops. Dragon Pulse is a weaker alternative that offers the benefit of not dropping Latios's Special Attack. Thunderbolt complements Latios's Dragon-type STAB attack to be an unwallable combination outside of <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, targeting many Pokemon such as <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a>, and Heatrann. Recover allows Latios to maintain longevity throughout the game and gain multiple chances to sweep while simultaneously providing natural defensive utility to its team against foes like Rotom-W, <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a>, and <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a>. The passive recovery of Leftovers allows Latios to set up more easily without relying on Recover, but Ability Shield is an alternative to bypass Excadrill's Mold Breaker, allowing Latios to now set up on its biggest counter. However, this item relies on surprise factor and is vulnerable to being removed via Knock Off from Pokemon like Tornadus-T and <a href=\"/dex/sv/pokemon/weavile/uu/\" hreflang=\"en\">Weavile</a>. Maximum investment in Special Attack and Speed allows Latios to be a fast, hard-hitting natural threat that doesn't need to rely on boosts to be effective. Alternatively, 96 Speed EVs to outspeed <a href=\"/dex/sv/pokemon/arcanine-hisui/uu/\" hreflang=\"en\">Hisuian Arcanine</a>, maximum HP investment, and the remaining EVs in Defense let Latios act as a bulkier sweeper to better stand up to foes like <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a> and <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a> at the cost of immediate power. Tera Electric is the driving point of this set, boosting Thunderbolt to powerful levels to get past foes like Tinkaton and Metagross more easily while also making it safer into Lokix and Tornadus-T, not to mention giving Latios no weaknesses thanks to its synergy with Levitate. Latios also gains an immunity to Thunder Wave from foes like <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a> and Tinkaton.</p>\n<p>Calm Mind + Tera Electric Latios fits on a multitude of archetypes ranging from offense to semi-stall, but it finds itself most at home on bulky offense and balance teams thanks to its role as a reliable sweeper. Latios's biggest obstacle is Mold Breaker Excadrill, which handles its otherwise unresisted move combination, so Slowking and <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> are great teammates to keep Excadrill in line. Slowking also provides slow pivoting support with Chilly Reception to get Latios in safely as well as provide speed control with Thunder Wave or amplify wallbreaking with Future Sight. Pivots like Tornadus-T and Lokix can bring Latios in to set up for a sweep while wearing down shared checks like <a href=\"/dex/sv/pokemon/tyranitar/uu/\" hreflang=\"en\">Tyranitar</a> and Tinkaton. Tornadus-T checks dangerous threats to Latios like Lokix and <a href=\"/dex/sv/pokemon/ogerpon/uu/\" hreflang=\"en\">Ogerpon</a>, whereas Lokix exerts offensive pressure on the likes of Excadrill and Greninja for Latios. Stealth Rock support from Tinkaton and <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a> wears down foes like Toxapex and Assault Vest Tornadus-T into range of being KOed more easily. Tinkaton can also wear down Excadrill and Tera Fairy Hydrapple, while Cobalion can pressure foes like <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a> and <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a>. <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a> is another issue for this set, so Pokemon that handle it such as Excadrill, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>, and Greninja make great teammates. Latios is quite Tera reliant to function at its very best, so offensive threats that do not use Terastallization often like the aforementioned Excadrill and Weavile as well as others like Keldeo and <a href=\"/dex/sv/pokemon/quaquaval/uu/\" hreflang=\"en\">Quaquaval</a> form great offensive cores that can take out checks to Latios such as Tyranitar, <a href=\"/dex/sv/pokemon/clodsire/uu/\" hreflang=\"en\">Clodsire</a>, and Tinkaton.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Soul Dew",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Luster Purge",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 515132,
+            "username": "Monky25"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              },
+              {
+                "user_id": 617840,
+                "username": "eeriespell"
+              },
+              {
+                "user_id": 540289,
+                "username": "Tidal"
+              },
+              {
+                "user_id": 461329,
+                "username": "Estarossa"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Soul Dew",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>With Soul Dew equipped, Latios is a powerful offensive threat with a unique defensive profile that gives it a notable niche in the metagame, being one of the only offensive Pokemon with a complete immunity to Spikes. Psychic Noise allows Latios to shut down recovery attempts from defensive Pokemon, particularly <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. Calm Mind gives Latios enough power to easily pressure defensive walls, notably OHKOing specially defensive <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> with Draco Meteor after Stealth Rock; however, Aura Sphere can be considered as an alternative option that can hit Steel- and Dark-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> that would otherwise force it out. Shadow Ball, while less common, can be used to smack the likes of <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>. Recover gives Latios more opportunities to fire off powerful attacks over the course of a game, combining with its Spikes immunity to shrug off most forms of passive damage. Tera Steel is invaluable as a defensive Tera type, granting Latios a total immunity to Toxic and also allowing it to set up against the likes of <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, as well as alleviating pressure against Pokemon such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and Kingambit.</p>\n<p>Latios finds its niche on balance and bulky offense teams that enjoy its wallbreaking capabilities. <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> is a phenomenal partner for Latios, capable of switching into and forcing out Dark-types such as Kingambit, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and Weavile, and it appreciates Latios for being able to smash through physical walls like Gliscor and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Kingambit is another Pokemon that enjoys Latios smashing holes through defensive teams carrying defensive Pokemon like Alomomola and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and in turn, it can offensively check the likes of Gholdengo, Iron Crown, and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>; conversely, <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a> is a good alternative to Kingambit as a Steel-type, instead providing Latios with entry hazard support and being able to leverage its superior defensive profile to more reliably check threats like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Darkrai, and Weavile. Knock Off support from the likes of <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a>, Weavile, and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> is also greatly appreciated and enables Latios to put even more pressure on defensive teams, allowing for the aforementioned faster teammates to clean up late-game; all of these Pokemon also appreciate Latios for being able to lure in and remove Kingambit with Aura Sphere. <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> is another excellent partner, as it provides both Knock Off support and hazard pressure in Ceaseless Edge, and acts as an offensive check to Kingambit and Gholdengo which Latios greatly enjoys, while Latios can easily come in on and threaten massive damage on Pokemon like Alomomola and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> that can check Hisuian Samurott. Similarly, Ting-Lu is also appreciated as a teammate, providing Latios with a sturdy check to <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Darkrai, and Iron Crown while also being able to set hazards. <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> can offensively pressure many of the tier's Steel-types and can bring Latios in with U-turn against Pokemon such as Gliscor and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> that Cinderace struggles to break past; Moltres is another great teammate for Latios, as it can act as a stopgap to threats like Kingambit, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and Iron Valiant while also bringing Latios onto the field safely with its slow U-turn. Lastly, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> is another Pokemon that can remove items for Latios with Knock Off and provides Latios with a resilient offensive check to Kingambit; on the other hand, Great Tusk enjoys having Latios rip through its checks, particularly Alomomola, Zapdos, and Moltres.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Soul Dew"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its good Speed and great Special Attack compounded by Choice Specs, as well as an immunity to Spikes that makes it harder to wear down, Latios becomes a wallbreaker able to OHKO key metagame threats such as <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> as well as overwhelm would-be checks like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Luster Purge's high power and potential to drop foes's Special Defense allows Latios to break past Pokemon that might otherwise stand against it such as Assault Vest <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and Galarian Slowking. Aura Sphere lets Latios blow past <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and target <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a>. Trick grants Latios with the opportunity to cripple defensive Pokemon trying to switch into it such as <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> while also deterring slower setup Pokemon such as <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> from using Latios as setup fodder as well as revenge killing attempts from Kingambit without getting hit by Sucker Punch. Due to several Pokemon resisting or being immune to one of Latios's STAB moves, Flip Turn may be used as a way to preserve momentum and bring a teammate onto the field while easing the need for prediction. A Timid nature allows Latios to outspeed the likes of <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> as well as Speed tie with <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and opposing Latios; however, a Modest nature may instead be used to enhance Latios's wallbreaking prowess, threatening 2HKOs against the likes of offensive <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> after a round of Stealth Rock. Tera Dragon boosts Latios's Draco Meteor, letting it OHKO <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and 2HKO would-be checks like Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and Corviknight; Tera Dragon also removes Latios's weakness to moves such as Kingambit's Sucker Punch and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>'s Dark Pulse.</p>\n<p>Choice Specs Latios finds itself on bulky offense and balance teams; particularly on teams with either temporary or non-existent entry hazard removal. <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, particularly Heavy-Duty Boots variants, often finds itself on these teams, and it threatens Dark- and Steel-types that resist one or both of Latios's STAB moves such as Kingambit, Darkrai, Ting-Lu, and Iron Treads as well as being able to absorb a hit from faster physical foes such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and offensive <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>; in turn, Latios can threaten the physical walls that trouble Zamazenta such as <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, Zapdos, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. As Latios finds itself exposed after being locked into a move, defensive teammates that it can rely on to absorb incoming attacks are appreciated. Galarian Slowking can fill such a role, handling Fairy-types such as Primarina, Enamorus, and Hatterene. Pecharunt and Zapdos aid Latios against physical attackers such as Swords Dance <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and Cinderace, as well as against <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/lokix/ou/\" hreflang=\"en\">Lokix</a> in Zapdos's case. Furthermore, all of Galarian Slowking, Pecharunt, and Zapdos can act as pivots to safely bring Latios on the field. Ting-Lu is another teammate that can handle Steel-types such as Gholdengo, <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, and Heatran, as well as <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Darkrai, which outspeed and greatly threaten Latios. Furthermore, Ting-Lu, as well as other partners like Landorus-T, Gliscor, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, may provide entry hazard support, softening up foes for Latios to break through while assisting it at handling the likes of Gholdengo and Kingambit. Finally, Kingambit is able to deal with defensive Gholdengo, Assault Vest Hatterene, and Galarian Slowking that greatly annoy Latios, while in return, it appreciates Latios's ability to blow past Landorus-T and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and bring it in safely with Flip Turn.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Thanks to its superb stats and solid movepool, Latios proves to be an amazing speed control option with Choice Scarf, outspeeding fast foes like <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and +1 Speed <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> as well as Speed tying <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. Psychic Noise helps Latios break past fat teams in a better fashion by denying recovery like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>'s Poison Heal and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>'s Leftovers and Recover and hits foes like Iron Moth and Zamazenta behind a Substitute. However, Luster Purge's power can be preferred to revenge kill Enamorus and Zamazenta more reliably and, with the drops, potentially wallbreak bulky foes like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> at the cost of having very low PP. Aura Sphere is a great coverage option that allows Latios to destroy <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Trick cripples its would-be checks like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> while also shutting down Calm Mind users like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>. Tera Steel flips all of its Ice and Fairy weakness from foes like <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, Enamorus, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and provides a resistance to <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed; it works well with Levitate to ignore even the aforementioned Kyurem, Enamorus, and Dragonite's Ground-type coverage move.</p>\n<p>Latios works best on bulky offense and balance teams. It really appreciates entry hazard support to maximize its pressure against the opposing team. Therefore, Spikes setters such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and Gliscor are great teammates, as is Ting-Lu, which can also choose to run Stealth Rock. Garganacl is a great option for Stealth Rock support, and it racks up damage on the opposing team by spamming Salt Cure, opening up win paths for Latios and its teammates. These Pokemon also help Latios deal with its own threats like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and Iron Crown. Zamazenta pairs excellently with Latios, taking care of specially bulky foes that Latios struggles against such as Ting-Lu and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> as well as answering checks like Kingambit and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>. In addition, both of them do a great job in pressuring shared checks like Gholdengo and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>. Other physical wallbreakers such as Kingambit and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> also have great synergy with Latios. Kingambit handles Gholdengo for Latios, and together, they form a great late-game duo. In a similar vein, Ogerpon-W can deal with Pokemon like Ting-Lu and pressure opposing teams enough in the early- and mid-game for Latios to pick off chipped foes late-game. Other special attackers such as Darkrai, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Gholdengo, and Iron Crown also pair well with Latios because they can pressure shared checks like Dark-types, most notably Ting-Lu. Finally, Great Tusk is a stellar teammate that can help Latios deal with Gholdengo, <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, Dark-types, and special walls while also providing valuable Stealth Rock and hazard removal support.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 548068,
+            "username": "Setsu"
+          },
+          {
+            "user_id": 558636,
+            "username": "zastra"
+          },
+          {
+            "user_id": 584916,
+            "username": "viivian"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 612443,
+                "username": "ninth"
+              },
+              {
+                "user_id": 616497,
+                "username": "FayaWizard"
+              },
+              {
+                "user_id": 647728,
+                "username": "Heatranator"
+              },
+              {
+                "user_id": 177111,
+                "username": "Magcargo"
+              },
+              {
+                "user_id": 493260,
+                "username": "Marnie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Dragon (Expert Belt)</h4>\n<p>Earthquake catches and heavily damages typical switch-ins to Latios like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. However, losing out on Recover can make Latios have a harder time breaking bulky Flying teams. Life Orb paired with a Naive nature can also be used if using Earthquake, as it guarantees an OHKO on Heatran and a 2HKO on Hisuian Goodra and Alolan Muk after a layer of Spikes. Furthermore, a Life Orb-boosted Luster Purge followed by Thunderbolt eliminates <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a> if Luster Purge drops their Special Defense, which is something Expert Belt cannot achieve. However, Life Orb recoil limits the number of attempts Latios has to break down the opposing team and reveals its item.</p>\n<h4>Psychic (Choice Specs)</h4>\n<p>Latios can use Flip Turn to keep up momentum against the many switches it forces and bring in teammates to better answer the incoming threat. Psychic Noise is an option to better counter defensive walls such as specially defensive Articuno and RestTalk <a href=\"/dex/sv/pokemon/dondozo/monotype/\" hreflang=\"en\">Dondozo</a>, denying their recovery and decreasing their longevity overtime. Psychic Noise also has the added benefit of shutting down Draining Kiss <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> completely. Energy Ball can be used to more easily counter Water/Ground types such as <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>.</p>",
+      "movesets": [
+        {
+          "name": "Expert Belt (Dragon)",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Latios blasts through Flying, Ground, and balanced Water teams with less reliance on prediction when using an Expert Belt. Luster Purge's Special Defense drop complements its coverage, as it sets up KOs on <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, and Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. Ice Beam hits <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, completing its coverage against Flying teams. Recover lets Latios be less threatened by repeated Knock Offs from Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, allowing Latios to remain a threat throughout the match. Alternatively, Energy Ball OHKOes <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>, the best answers to Thunderbolt on a Water team, after minimal chip damage.</p>\n<p>While Expert Belt Latios excels in breaking Flying and balanced Water teams, it fails to be as threatening in matchups like Fighting and Poison because it is unable to deal significant damage to Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> without Choice Specs. Wallbreakers like Choice Specs <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> help, as Dragapult forces these checks to get worn down over time and also deals with faster threats like Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>. On the other hand, Garchomp deals with Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> that Latios struggles against, and it can run Spikes to wear down opposing teams or Swords Dance to clean up types like Flying after Corviknight has been dealt with. <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> deals with <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and Choice Scarf <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, slows down threats like <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and Roaring Moon with Thunder Wave, and sets Stealth Rock to wear down Latios's checks like Assault Vest Tornadus-T. In return, Latios purges Fighting- and Ground-types like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>. Hisuian Goodra tanks special attacks from faster threats like <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>, Dragapult, and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> and loves Latios's ability to remove annoying threats like Gliscor and Garchomp. Choice Scarf Roaring Moon helps Latios get more chances to break opposing defensive cores, as Roaring Moon lures in <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> that Latios can handle. <a href=\"/dex/sv/pokemon/kommo-o/monotype/\" hreflang=\"en\">Kommo-o</a> can also be considered, as it breaks down Steel teams and packs priority to remove Greninja and Meowscarada, which give Latios a hard time.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Expert Belt"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs (Dragon)",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Choice Specs Latios is a dangerous wallbreaker thanks to its good Speed tier, array of high-powered options, and solid coverage to hit potential checks. Luster Purge obliterates Fighting- and Poison-types like <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> for teammates like <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>. Its Special Defense drop chance also allows Latios to take on neutral targets like <a href=\"/dex/sv/pokemon/clefable/monotype/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>. Thunderbolt hits bulky Flying- and Water-types like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a>. Draco Meteor is Latios's strongest STAB move, most notably annihilating threats like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>. Ice Beam forms a deadly BoltBeam combination with Thunderbolt and allows Latios to hit Ground-types like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a> without the drawback of dropping its Special Attack. Aura Sphere can be run over Ice Beam to hit Steel-types like <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Trick allows Latios to majorly hinder defensive staples like Assault Vest <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> that can otherwise take it on.</p>\n<p>Archaludon functions as a wonderful teammate for Latios, as it can take on <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> and other Dark-types like <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> with Body Press and Stamina. It also provides entry hazard support in the form of Stealth Rock. In return, Latios can switch in on Ground-type attacks, like Earthquake from the likes of Choice Scarf Great Tusk and Choice Band <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, thanks to Levitate; this also allows it to find opportunities to fire off its strong attacks. Another good defensive partner for Latios is Hisuian Goodra, which can take special Fairy-type attacks from <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and remove them with Heavy Slam. Hisuian Goodra also removes important items like Articuno's Heavy-Duty Boots with Knock Off, allowing Latios to more easily break through it with the help of hazards. Utility <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> is another great teammate, as it can outspeed threatening foes that outspeed Latios, like Choice Specs Flutter Mane and mixed <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and ruin them with Thunder Wave. Alternatively, Choice Band Dragapult can take out faster threats like Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a> after Stealth Rock chip damage and bring Latios in safely with U-turn against its own checks like Toxapex and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> is yet another good teammate, as it sets up entry hazards to make Latios's wallbreaking job easier while scaring off Steel-types such as Heatran and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> lacking Air Balloon with its powerful Earthquake. <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> finds its place alongside Latios, removing threats like Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> and Choice Scarf Iron Valiant with Thunderclap at +1. Choice Scarf Roaring Moon provides speed control for Latios and takes care of troublesome threats like Choice Scarf Gholdengo, Choice Specs Flutter Mane, and Galarian Slowking.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind (Psychic)",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Calm Mind Latios is a strong sweeper on Psychic teams by virtue of its Speed, access to Soul Dew, and great movepool. In addition, it provides a Ground immunity thanks to Levitate. Draco Meteor is a powerful nuke that allows Latios to remove the likes of <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, and when boosted with Calm Mind, it can OHKO physically defensive <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. Luster Purge is a strong Psychic-type STAB move that, when boosted by Calm Mind, can power through <a href=\"/dex/sv/pokemon/clefable/monotype/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, especially with its high Special Defense drop chance. Thunderbolt gives Latios coverage that takes out Flying- and Water-types such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a>, 2HKOing the latter after a Calm Mind boost. Recover can be used over Thunderbolt to grant Latios longevity against certain walls like non-Whirlwind <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and Articuno, giving it more opportunities to set up then sweep. Ice Beam can be used as well, and it is especially effective against slower Dragon-types, such as <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, to remove Latios's need to switch out after using Draco Meteor. Ice Beam can also surprise the likes of both <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>.</p>\n<p><a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a> is a great sacrificial lead by virtue of its Speed, access to Stealth Rock, Spikes, and screens and the ability to prevent Defog with Taunt. Offensive variants of Deoxys-S, such as Choice Specs and Nasty Plot sets, can also clean late-game once Latios is finished wallbreaking. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> can prevent entry hazards being placed thanks to Magic Bounce, and with its Fairy typing, it can switch into a predicted Dragon-type attack that would threaten Latios. Latios needs help dealing with faster Pokemon such as <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>; hence, it appreciates speedy teammates that can deal with them like Choice Scarf <a href=\"/dex/sv/pokemon/latias/monotype/\" hreflang=\"en\">Latias</a> for Dragapult and Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> for Meowscarada and Greninja. Hatterene is also able to run Nuzzle to paralyze Pokemon that are faster than Latios like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, and it can support the team with Healing Wish. In return, Latios is able to threaten Corviknight and Empoleon with Thunderbolt. <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and opposing Hatterene easily hinder any sweeping attempts from Latios, so checks to them, such as <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and <a href=\"/dex/sv/pokemon/iron-crown/monotype/\" hreflang=\"en\">Iron Crown</a>, make for great teammates. Choice Scarf Hoopa-U is also able to outspeed and threaten the likes of <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, while Iron Crown appreciates Latios KOing Garchomp for it. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> is a great teammate that provides a Ghost immunity as well as support with Healing Wish. <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>'s Fighting typing helps Latios deal with Dark-types like <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a> and Greninja, as well as other threats like <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> are two great defensive partners for Latios, with the former tanking attacks from Choice Band <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> as well as spreading paralysis with Thunder Wave so that Latios outspeeds faster Pokemon. On the other hand, Galarian Slowking can wall out Iron Valiant and remove it with Sludge Bomb while acting as a slow pivot with Chilly Reception and a hazard setter with Toxic Spikes. Both Slowbro and Galarian Slowking can also wall <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> after they use their Eject Button.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Soul Dew"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs (Psychic)",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Boasting amazing offenses, Latios cements itself as a formidable threat on Psychic teams. With Choice Specs, Latios can drop powerful Draco Meteors and pulverize foes such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a> that may otherwise trouble Psychic teams. Luster Purge can punish any switch-ins to Draco Meteor and plow through the likes of defensive <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> after a Special Defense drop. Latios has a plethora of coverage options, Ice Beam lets it threaten common Ground- and Flying-type threats like specially defensive Gliscor, while Thunderbolt lets it threaten Water-types like <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a>. Latios can utilize Aura Sphere to counter Steel-types like <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> without help from teammates. Latios can also hamper the opposition with Trick, being able to cripple foes like <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>.</p>\n<p>Latios appreciates support from <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a>, being able to easily spread entry hazards and help Latios OHKO foes more easily. Alternatively, offensive Deoxys-S appreciates Latios punching holes in the opposition so that it can clean up later with its massive Speed tier. <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/jirachi/monotype/\" hreflang=\"en\">Jirachi</a> are great partners that can pivot Latios in with Chilly Reception and U-Turn, respectively, and take care of Fairy-types such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> that Latios is weak to. Specially defensive Jirachi can also set up Stealth Rock and pressure Ice-types such as <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a> as well as spread paralysis against the likes of Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> and Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, allowing Latios to outspeed them. Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> is a great partner that can clean up after Latios has been KOed and outspeed and threaten to OHKO other Choice Scarf users such as <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, Greninja, and Iron Valiant. Choice Scarf <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> is a good partner to beat Ghost-types such as Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, Gholdengo, and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. Assault Vest Hoopa-U can also deal with bulky Gholdengo and break apart defensive cores alongside Latios. <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> and Hatterene are good choices for countering Dark-types that are extremely threatening to Psychic teams such as <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a> and Bisharp. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> also notably provides a Ghost immunity alongside Healing Wish, giving Latios a second chance late-game. Eject Button <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a> can provide a safe switch-in against <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> and spread paralysis against or finish off weakened Weavile and Bisharp, easing the burden on Latios.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 353292,
+            "username": "Namranan"
+          },
+          {
+            "user_id": 532439,
+            "username": "Bka Onon"
+          },
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 246753,
+                "username": "RoyalReloaded"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 653095,
+                "username": "FavMon=Garchomp"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This Pokemon was relevant in Regulation G, but has been banned in the curernt ruleset, Regulation H. However, Regulation G will be returning in January 2025, where this analysis will be relevant again. Additionally, the sets below have not been updated for Regulation G yet.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Latios's useful array of resistances, fantastic use of Terastallization, and good offenses make it a strong choice for either a wallbreaker with Choice Specs or revenge killer with Choice Scarf!</p>\n</li>\n<li>\n<p><strong>Luster Purge</strong>: Despite its low PP and poor offensive coverage, Luster Purge's high chance of dropping Special Defense still makes it a great wallbreaking tool.</p>\n</li>\n<li>\n<p><strong>Flip Turn</strong>: While Flip Turn is weak, Latios forces enough switches to make it a reasonable offensive pivot.</p>\n</li>\n<li>\n<p><strong>Trick</strong>: Trick gives Choice Scarf Latios an option to nearly shut down defensive Pokemon like <a href=\"/dex/sv/pokemon/porygon2/battle-stadium-singles/\" hreflang=\"en\">Porygon2</a> and <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> and situationally lock offensive foes like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> into more manageable moves. Choice Specs Latios isn't quite as effective with this, but its it's still worth considering for crippling defensive foes.</p>\n</li>\n<li>\n<p><strong>Shadow Ball VS. Aura Sphere</strong>: Shadow Ball is Latios's best move against <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a> and will 2HKO most <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> sets as well. Aura Sphere leaves Latios reliant on Special Defense drops to deal with Gholdengo, but it is a more direct option against common Tera Steel foes like Dragonite and opposing Latios.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Calm Mind</strong>: While not a defensive set, Calm Mind is a reasonable option for boosting Draco Meteor and Luster Purge to dangerous power levels.</p>\n</li>\n<li>\n<p><strong>Ice Beam</strong>: Ice Beam is handy for letting Choice Specs Latios OHKO Assault Vest <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a> and deal massive damage to Ting-Lu, though Draco Meteor has more general utility in many cases.</p>\n</li>\n<li>\n<p><strong>Grass Knot</strong>: If using Choice Specs, Grass Knot pulls a 2HKO even on Sitrus Berry Ting-Lu, though it being resisted by so many popular Pokemon like Dragonite makes it a risky move to be locked into.</p>\n</li>\n<li>\n<p><strong>Surf</strong>: If using Tera Water, Surf is a reasonable coverage option against Steel-types.</p>\n</li>\n<li>\n<p><strong>Thunderbolt</strong>: Thunderbolt offers good coverage against most Steel-types, but it is a very risky move to be locked into due to Ground-types like Landorus-T and <a href=\"/dex/sv/pokemon/excadrill/battle-stadium-singles/\" hreflang=\"en\">Excadrill</a>.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Latios's typing isn't amazing defensively, but the very useful resistances to <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>'s and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a>'s STAB moves mean Terastallization isn't always an upgrade. Still, thanks to Levitate, Latios has some effective defensive options to consider.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel has superb synergy with Levitate, making Latios an effective offensive check against common foes like Landorus-T and Dragonite while giving Latios great counterplay against Fairy-types like Flutter Mane defensively and offensively with Tera Blast. This also lets Latios tank a Blood Moon from <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a>, though the Vacuum Wave weakness can be bothersome afterwards.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire also gives Latios a vital resistance to Fairy-types while maintaining the resistances against Ogerpon-H's STAB moves and providing a powerful Tera Blast against most Steel-types.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water covers Latios's issue with Ice-type attacks, which can save it in a pinch against Chien-Pao and <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>, while still retaining an important resistance to Urshifu-R's Surging Strikes.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric removes all of Latios's weaknesses except from Mold Breaker users with Earthquake like Excadrill and provides a useful paralysis immunity against common status spreaders like Porygon2, Flutter Mane, and <a href=\"/dex/sv/pokemon/serperior/battle-stadium-singles/\" hreflang=\"en\">Serperior</a>.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is a decent alternative to Tera Steel, giving Latios a good option against Dragon-types while still retaining a Fighting-type resistance.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Choice Specs VS. Choice Scarf</strong>: Choice Specs is preferred on Latios for the excellent wallbreaking potential. Choice Scarf Latios is a reasonable revenge killer, but it still doesn't deal well with Chien-Pao due to the Sucker Punch weakness, making it more reliant on unique qualities like Trick and Levitate to separate itself from other Choice Scarf revenge killers.</p>\n</li>\n<li>\n<p><strong>Soul Dew</strong>: While not as effective at breaking walls as Choice Specs, Soul Dew is a reasonable alternative to still take advantage of Luster Purge's Special Defense drops, and it is a great way of getting around Item Clause issues if Latios still needs a power boost.</p>\n</li>\n<li>\n<p><strong>Focus Sash</strong>: Latios isn't frail, but Focus Sash lets it threaten offensive threats it normally has no bussiness with, such as Chien-Pao and Iron Bundle.</p>\n</li>\n</ul>\n<h5>Minor Optimizations</h5>\n<ul>\n<li><strong>Neutral Nature</strong>: It's best to use a neutral nature with a Timid Mint to ensure that Latios can eat any berry without getting confused after using Trick.</li>\n</ul>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf",
+            "Soul Dew"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fire",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Bulky Stall Breaker",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>204 HP / 124 Def / 180 Spe</strong>: This outspeeds Timid <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> while avoiding a 2HKO from Adamant Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>'s Tera Water Surging Strikes</p>\n</li>\n<li>\n<p><strong>252 HP / 84 Def / 4 SpA / 4 SpD / 164 Spe</strong>: This slightly slower spread outspeeds Timid <a href=\"/dex/sv/pokemon/iron-crown/battle-stadium-singles/\" hreflang=\"en\">Iron Crown</a>, avoids a 2HKO from Adamant Choice Scarf Tera Water Surging Strikes from Urshifu-R, and survives Timid <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Choice Specs Moonblast after Latios has used Calm Mind.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Covert Cloak",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel",
+            "Poison",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 204,
+              "atk": 0,
+              "def": 124,
+              "spa": 0,
+              "spd": 0,
+              "spe": 180
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Latios is an offensive Pokemon with speed control that sets itself apart by being a check to <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a>, being able to OHKO them with Soul Dew-boosted Luster Purge and wall the latter two. Icy Wind is a really good last move on Latios because it provides speed control for Latios and its partners to take advantage of while also breaking opposing Focus Sash. The aforementioned Soul Dew helps Latios get the crucial KOs it needs to against foes such as Amoonguss and Koraidon with Luster Purge. Tera Steel is preferred on Latios because it lets it completely wall <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-g/\" hreflang=\"en\">Landorus</a> while providing resistances to <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>'s Moonblast, <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a> Ice STAB, and <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>'s Draco Meteor.</p>\n<p>Latios, even with Tera Steel, still struggles against Pokemon like <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a>, and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> due to their ability to threaten Latios before Terastallization with Astral Barrage, Dark Pulse, and Knock Off, respectively. In addition, these Pokemon also threaten Latios after Tera with another STAB move. Dark-types that have Sucker Punch, such as Chien-Pao, help Latios deal with Calyrex-S by KOing it before it can attack. Wide Guard users such as <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> and <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> can also help Latios in the Calyrex-S matchup by protecting Latios from Astral Barrage, forcing Calyrex-S to use Draining Kiss, Psyshock, or Psychic, all of which Tera Steel Latios resists. Both Pelipper and Zamazenta-C threaten to OHKO Chi-Yu and Incineroar, and, in Zamazenta-C's case, OHKO Flutter Mane with Heavy Slam. Latios also provides for its partners by countering Koraidon, which Zamazenta-C struggles against, and Urshifu-R, which Chien-Pao struggles against. The other way Latios helps its partners is by lowering the Speed of their foes with Icy Wind, which lets Chien-Pao outspeed Speed Booster Energy Flutter Mane and Zamazenta-C outspeed Miraidon.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Soul Dew"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Icy Wind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 640408,
+            "username": "Bolt-Beam Studios"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Dragon's Maw can be utilized in tandem with Dragon Pulse to have a strong, spammable STAB move versus neutral Pokemon like <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, <a href=\"/dex/sv/pokemon/ting-lu/almost-any-ability/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, but this makes Latios more easily checked by Fairy-type Pokemon like <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a>. Adaptability can also be used to give a similar amplifier to Latios's STAB Moves while bluffing Tinted Lens. Other coverage options like Aura Sphere can be used to hit <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>, but Aura Sphere is susceptible to Bulletproof.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fast Dark-types</strong>: Dark-types like <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a> can easily threaten Latios when pivoted in safely.</p>\n<p><strong>Fairy-types</strong>: Fairy-types such as Scream Tail, Primarina, and <a href=\"/dex/sv/pokemon/tinkaton/almost-any-ability/\" hreflang=\"en\">Tinkaton</a> are immune to Dragon-type moves, letting them easily come in and can threaten Latios with their Fairy-type attacks.</p>\n<p><strong>Assault Vest Ting-Lu</strong>: RegenVest Ting-Lu can take any hit from Latios and deal significant damage in return with Payback.</p>",
+      "movesets": [
+        {
+          "name": "Choice Item",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>With an excellent offensive dual STAB typing, high Special attack and Speed, and solid coverage options, Latios is a premier special wallbreaker and speed control option that can hit both defensive stats and break through many of its checks depending on the ability of choice. Choice Scarf allows Latios to act more as a speed control, enabling it to revenge kill <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>. Tinted Lens allows Latios to 2HKO <a href=\"/dex/sv/pokemon/tinkaton/almost-any-ability/\" hreflang=\"en\">Tinkaton</a> with Psyshock and apply more pressure to Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a> with Draco Meteor. With Choice Specs and Hadron Engine, Thunderbolt is used as a coverage option and enables Latios to OHKO common RegenVest pivots in <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a> after entry hazards. Luster Purge can be used in place of Psyshock or Thunderbolt on non-Hadron Engine sets as a spammable STAB move to clean up teams. Trick can be used on Choice Scarf sets to cripple walls Latios might otherwise have trouble breaking like <a href=\"/dex/sv/pokemon/ting-lu/almost-any-ability/\" hreflang=\"en\">Ting-Lu</a> and potentially allow it to switch moves, and Flip Turn provides momentum for the team.</p>\n<p>Latios is best utilized on balance and offensive team structures that appreciate its ability to break through specially defensive pivots or clean up opposing teams, depending on the item of choice. With Choice Specs, Latios pairs well with fast special attackers like Deoxys-S and Choice Scarf Gholdengo due to its ability to break through RegenVest users, allowing them to clean through the weakened teams. Choice Scarf Latios complements physical attackers like Zamazenta and Choice Band <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> as it invites in defensive pivots like Ting-Lu and Kingambit, which the aforementioned attackers can take advantage of. Latios is susceptible to fast Dark-types like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a> as well as priority from the likes of Kingambit; therefore, it appreciates Dark-resistance teammates like Great Tusk and Regenerator <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>. Latios enjoys entry hazards in order to obtain KOs it could otherwise fall short on, so hazard setters like Ting-Lu, <a href=\"/dex/sv/pokemon/garchomp/almost-any-ability/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/gliscor/almost-any-ability/\" hreflang=\"en\">Gliscor</a> pair well with it. Latios is also vulnerable to hazards, so it appreciates hazard removal from the likes of the aforementioned Great Tusk and <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>.</p>",
+          "abilities": [
+            "Hadron Engine",
+            "Tinted Lens"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 475288,
+            "username": "Tranquility"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 580765,
+                "username": "cat"
+              },
+              {
+                "user_id": 539679,
+                "username": "GlalieGoesBoom"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Latios leverages a good Speed tier, sky-high Special Attack, and Calm Mind to be one of the tier's most dangerous wallbreakers and sweepers. Psyshock greatly threatens common RegenVest users such as <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, and <a href=\"/dex/sv/pokemon/meloetta/almost-any-ability/\" hreflang=\"en\">Meloetta</a>. Recover provides additional longevity, allowing Latios to switch in against foes such as <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a> and threaten to wallbreak multiple times in a single game. Calm Mind allows Latios to set up against passive foes such as <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a>. Soul Dew notably makes Adaptability Draco Meteor a guaranteed 2HKO on Corviknight after a Calm Mind, but Leftovers is an option to give Latios more longevity. Adaptability is the preferred ability for consistent high damage, allowing Latios to reliably 2HKO <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a> and RegenVest Swampert with Psyshock, while Tinted Lens is an option to threaten an OHKO on Corviknight and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> with Draco Meteor after a Calm Mind and 2HKO Heatran and <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a> with Psyshock after a boost. Latios works fantastically with other powerful special attackers such as <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>, as they all appreciate RegenVest users and Blissey being weakened. Latios also appreciates slow, physically bulky pivots such as Corviknight, <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>, and physically defensive Manaphy, who which can both pivot it in safely and effectively check the offensive Dark-types that threaten Latios such as <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>. Latios also appreciates the aforementioned Corviknight and Mandibuzz, along with <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, for their consistent entry hazard removal, allowing it to enter the field and frequently threaten the foe.</p>",
+          "abilities": [
+            "Adaptability",
+            "Tinted Lens"
+          ],
+          "items": [
+            "Soul Dew",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 540420,
+            "username": "April"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Clanging Scales",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Clanging Scales",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psycho Boost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Lunar Dance",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Take Heart",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Expert Belt",
+            "Soul Dew",
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Dynamax Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Take Heart",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "All-Out Attacker",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Lumina Crash",
+                "type": null
+              },
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wallbreaker",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Soul Dew"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 3 onwards</p>\n<p><strong>Price Range</strong>: 14-15 points</p>\n<p><strong>Overview</strong>: With a great Special Attack stat, powerful STAB moves and coverage, and a good Speed stat, Latios can be a solid wallbreaker and cleaner. It also has access to utility options like Trick and Thunder Wave, which it can use to catch the opponent off guard and potentially hinder a foe. However, Latios gets threatened by the many faster foes that can easily deal lots of damage to it with moves such as Knock Off and U-turn. Additionally, it is often reliant on Choice items for additional damage or Speed, making it easy to take advantage of.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: With Choice Specs and powerful STAB moves in Draco Meteor, Luster Purge, and Psyshock, Latios can rip holes in teams. Aura Sphere allows it to break through most Steel-types that would otherwise resist its STAB combination.</p>\n<p><strong>Speed Control</strong>: Latios's good Speed stat lets it use a Choice Scarf to outspeed and threaten a plethora of offensive threats, making it a good revenge killer and late-game cleaner. It can also get around its checks by pivoting with Flip Turn or crippling them with Trick.</p>\n<p><strong>Setup Sweeper</strong>: Latios can use a setup set with Agility to outspeed the opponent's offensive threats. Calm Mind can also be useful against bulkier teams, with the Special Defense boost helping it survive attacks better. While unreliable, Weakness Policy can let Latios boost to deadly levels off of a single attack.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Draco Meteor, Dragon Pulse, Luster Purge, Psyshock, Psychic Noise, Stored Power</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Agility</p>\n<p><strong>Utility Moves</strong>: Flip Turn, Trick, Thunder Wave, Recover, Memento, Roar, Substitute, Tailwind</p>\n<p><strong>Coverage</strong>: Aura Sphere, Thunderbolt, Energy Ball, Ice Beam, Surf, Shadow Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Future Sight</strong>: Future Sight can be used with entry hazard support to force the foe to switch and accumulate extra chip damage or to help a teammate break through a check.</p>\n<p><strong>Reflect / Light Screen</strong>: In matchups where Latios struggles offensively, it can run a lead set with Light Clay, dual screens, and Memento to support its teammates.</p>\n<p><strong>Earthquake</strong>: Earthquake can hit <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a> and other specially defensive Ground-weak foes for significant amounts of damage.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Specs</strong>: Choice Specs is Latios's best item if it is acting as a wallbreaker, letting it do massive damage without the need to set up.</p>\n<p><strong>Choice Scarf</strong>: With Choice Scarf, Latios can outspeed and threaten many offensive Pokemon, including many setup sweepers at +1, making it a great revenge killer.</p>\n<p><strong>Life Orb</strong>: While not quite as strong as Choice Specs, Life Orb allows Latios to switch between its moves at the cost of recoil damage.</p>\n<p><strong>Resistance Berries</strong>: Calm Mind sets can use resistance Berries to grant Latios more setup opportunities; Colbur Berry is a great option for decreasing Knock Off's power.</p>\n<h3>Niche Items</h3>\n<p><strong>Soul Dew</strong>: Soul Dew can be used to increase the power of Latios's STAB moves at the cost of the additional damage Choice Specs and Life Orb provides.</p>\n<p><strong>Weakness Policy</strong>: Weakness Policy can be used on setup sets alongside Stored Power and Agility to boost Latios to deadly levels in a single turn.</p>\n<p><strong>Eject Pack</strong>: Latios can use an Eject Pack with Draco Meteor to pivot out while dealing significant damage to an incoming wall.</p>\n<p><strong>Mental Herb</strong>: Mental Herb allows Latios to freely set up against most Taunt and Encore users.</p>\n<p><strong>Lum Berry</strong>: Lum Berry can be used on Calm Mind sets as a one-time means to absorb status moves like Thunder Wave and Toxic.</p>\n<p><strong>Light Clay</strong>: If Latios is running dual screens, Light Clay can be used to further support its teammates.</p>\n<h3>Tera</h3>\n<p>Latios is usually banned from Terastallizing due to its versatile setup options, great defensive ability, and great offensive coverage. In instances where Latios is allowed to Terastallize, Tera Dragon and Psychic can increase the power of its STAB moves, but other Tera types can be used for necessary coverage moves. Defensively, Tera Fairy removes many of Latios's weaknesses, and Tera Steel, Electric, and Poison synergize well defensively with Levitate.</p>\n<h3>Draft Strategy</h3>\n<p>Latios is a solid fit for drafts looking for a strong special wallbreaker. It often struggles due to its outclassed Speed and reliance on Choice items, but it can often weaken foes so that its teammates can shine.</p>\n<p><strong>Faster Teammates</strong>: While Latios can be good speed control with Choice Scarf, doing so significantly reduces its wallbreaking power. Therefore, fast teammates like <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> are great partners, as they can let it act as a wallbreaker instead and benefit from Latios weakening special walls.</p>\n<p><strong>Physical Wallbreakers</strong>: Physical wallbreakers like <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> can weaken opposing walls for Latios, allowing it to easily clean late-game.</p>\n<p><strong>Entry Hazard Setters</strong>: Latios appreciates Stealth Rock support from the likes of <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> as well as Spikes support from teammates like <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/overqwil/draft/\" hreflang=\"en\">Overqwil</a>, as they help chip down special walls for Latios to break through.</p>\n<p><strong>Fairy- and Dark-type Checks</strong>: Latios struggles against many Fairy- and Dark-types, so teammates that can check them, like <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, are appreciated.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Pokemon</strong>: Foes like <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> and Meowscarada naturally outspeed Latios and can OHKO it; they can also use Choice Scarf to outspeed Latios even if it has a Choice Scarf of its own. It also gets threatened by Sucker Punch as well as weaker priority moves like Ice Shard.</p>\n<p><strong>Steel-types</strong>: Many Steel-types like Gholdengo, <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a>, and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> can reliably take hits from Latios and can threaten it back, especially if it is Choice locked or does not want to run Aura Sphere.</p>\n<p><strong>Fairy-types</strong>: While many Fairy-types dislike switching into Latios's Psychic-type moves, they can block its Dragon-type STAB moves and threaten significant damage back, especially if it is Choice locked.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 552227,
+            "username": "Kinetic"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 613399,
+                "username": "Celeste"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Item (HP, Def)",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wallbreaker",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a> uses its superb Special Attack, great typing and bulk, and amazing coverage to become a threatening special sweeper capable of switching into and threatening Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>. Aura Sphere takes out Pokemon that would normally switch into Luster Purge, like <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a>, and threatens Pursuit users like <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/weavile/national-dex/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> on the switch. Mystical Fire helps with Steel-types unfazed by Aura Sphere, such as <a href=\"/dex/sv/pokemon/scizor-mega/national-dex/\" hreflang=\"en\">Mega Scizor</a> and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and also hits <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> harder. Draco Meteor picks up KOs against Dragon-types like <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/roaring-moon/national-dex/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> and is Mega Latios's strongest option against Pokemon like <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> and Ogerpon-W. Ice Beam can deal with other Dragon-types without dropping Mega Latios's Special Attack while also hitting Flying-types like <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a>.</p>\n<p>While Mega Latios fits on a variety of teams from offense to balance, it fits best with teammates that appreciate Mega Latios breaking down Pokemon like <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, Toxapex, <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> for them to sweep later in the game. Examples of Pokemon that appreciate these defensive staples getting broken down are <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/cinderace/national-dex/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>. The latter two also stonewall Kingambit, Mega Tyranitar, and Weavile, each of which would normally come in and Pursuit trap Mega Latios. These same Pursuit trappers are also great teammates, as they can trap Pokemon like Gholdengo and opposing Mega Latios, while Mega Latios can weaken Mega Charizard Y and Ogerpon-W for them to wreak havoc. Even with Aura Sphere, Mega Latios can struggle with Steel-types like Assault Vest Melmetal, Heatran, Gholdengo, and Mega Scizor if not running Mystical Fire, so teammates like <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, Moltres, and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a> should be considered; Great Tusk and Ting-Lu in particular can set up hazards to chip down Pokemon like Melmetal and Heatran into range of Mega Latios's attacks. Since Mega Latios is a very good check to Pokemon like Mega Charizard Y, Ogerpon-W, and Great Tusk, Pokemon that appreciate these being chipped down, like Cinderace, Landorus-T, and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a>, make great teammates. In return, these teammates can easily bring in Pokemon such as Alomomola and Ferrothorn, allowing Mega Latios easy access to wreak havoc on the opposing team. Ferrothorn itself is a great partner for Mega Latios, as it can deal with faster threats such as <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a> as well as Choice Scarf Pokemon like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> and Hisuian Samurott.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Latiosite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mystical Fire",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 591294,
+            "username": "Lightniong"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 471780,
+                "username": "Solaros & Lunaris"
+              },
+              {
+                "user_id": 542295,
+                "username": "Blaze"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs (Dragon)",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Latios is one of the most powerful special wallbreakers Dragon has, with its strong STAB attacks that are complemented with a good Speed tier, Ground immunity, and vast movepool. Latios's strongest STAB move is its devastating Draco Meteor, destroying dangerous threats like <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>. Luster Purge covers bulky Fighting- and Poison-types such as <a href=\"/dex/sv/pokemon/buzzwole/national-dex-monotype/\" hreflang=\"en\">Buzzwole</a> and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> while the high Special Defense drop chance gives Latios the potential to break through special walls that take neutral damage from Psychic-type moves like <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>. Thunderbolt is an option for Water- and Flying-types like <a href=\"/dex/sv/pokemon/empoleon/national-dex-monotype/\" hreflang=\"en\">Empoleon</a> and <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, which is complemented by Ice Beam for threats like <a href=\"/dex/sv/pokemon/sinistcha/national-dex-monotype/\" hreflang=\"en\">Sinistcha</a>, <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>. Aura Sphere is an option on Latios for Steel-types like <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> that otherwise wall it. Trick cripples common switch-ins like <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Slowking</a> by locking them into one move. Flip Turn can be used to preserve momentum by allowing Latos to switch out of counters such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>. while also preventing it from being Pursuit trapped by Dark-types like Alolan Muk that can switch in on its STAB moves. For teammates, Latios appreciates both Steel-types Archaludon and <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a> switching into Bug-, Ice-, and Dragon-type attacks while providing Stealth Rock and Toxic support, respectively. Archaludon checks <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/mimikyu/national-dex-monotype/\" hreflang=\"en\">Mimikyu</a>, while Hisuian Goodra covers <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-monotype/\" hreflang=\"en\">Tapu Fini</a>. Latios in return removes Ground- and Fighting-types like <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a> that threaten them. <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a> provides a Dragon immunity and a Dark resistance, dealing with <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-monotype/\" hreflang=\"en\">Mandibuzz</a>. <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> removes Steel-types like Heatran and punishes physical attackers like <a href=\"/dex/sv/pokemon/scizor/national-dex-monotype/\" hreflang=\"en\">Scizor</a> with Rocky Helmet while providing Stealth Rock and Spikes. Garchomp and Mega Altaria also benefit from Latios defeating physical walls such as <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>. <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a> benefits from Latios's ability to break through Poison-types while covering Dark- and Steel-types like <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex-monotype/\" hreflang=\"en\">Mega Tyranitar</a>, Ferrothorn, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> for Latios. <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a> is a strong Choice Scarf user, outspeeding and removing threats like <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a>. Garchomp, Kommo-o, and Mega Altaria also crucially break through special walls like Blissey and Hisuian Goodra, benefiting Latios further.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              },
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Wallbreaker (Dragon)",
+          "pokemon": "Latios",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/latios-mega/national-dex-monotype/\" hreflang=\"en\">Mega Latios</a> proves to be an excellent wallbreaker for Dragon teams thanks to its high offensive stats, solid Speed tier, decent coverage, and valuable Ground immunity that allows it to dismantle common Poison, Fighting, Steel, Water, and Ground team structures. Luster Purge threatens Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a> while its potential to lower Special Defense allows Mega Latios to break through common switch-ins like <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>. Mystical Fire OHKOes <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>, while Ice Beam targets Dragon- and Ground-types like <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and the <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> formes. Earthquake lets Mega Latios muscle past special walls like <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a> that Choice Specs variants struggle against. Thunderbolt OHKOes Water-types like <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a> while also guaranteeing a 2HKO on <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>. BoltBeam coverage also allows Mega Latios to more effectively break down Flying cores. If running Earthquake, a Naive nature should be used on Mega Latios to ensure a 2HKO on Alolan Muk. <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a> partners well with Mega Latios, as it handles Dark-types like <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex-monotype/\" hreflang=\"en\">Mega Tyranitar</a> and can pick off faster ones like <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> with Vacuum Wave after minimal chip damage. In return, it appreciates Mega Latios's removal of Haze users like <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> and Toxapex as well as assistance against Flying teams. Kommo-o and <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> can threaten Steel-types like Heatran, <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>, and Ferrothorn as well as special walls like Alolan Muk when Mega Latios lacks Mystical Fire or Earthquake, with Garchomp also providing entry hazard support. <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a> and Hisuian Goodra form a strong defensive pairing for Mega Latios thanks to their Steel typing and bulk. Archaludon can take on physical attackers like <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a> while also setting Stealth Rock. Hisuian Goodra provides a safe switch-in against Greninja and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>. In return, both teammates benefit from Mega Latios's Ground immunity and ability to threaten Fighting- and Ground-types like <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>. Choice Scarf <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a> can remove common Choice Scarf users like <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a> and <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>, and with U-turn, it can gain momentum against would-be switch-ins like <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, and Ferrothorn, bringing Mega Latios in safely to threaten them.</p>",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Latiosite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Luster Purge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mystical Fire",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 594972,
+            "username": "Murphy Lawden"
+          },
+          {
+            "user_id": 664824,
+            "username": "Bows"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Air Cutter",
+    "Air Slash",
+    "Ally Switch",
+    "Aura Sphere",
+    "Baton Pass",
+    "Body Slam",
+    "Breaking Swipe",
+    "Bulldoze",
+    "Calm Mind",
+    "Charge Beam",
+    "Chilling Water",
+    "Confusion",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dual Wingbeat",
+    "Earthquake",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Flip Turn",
+    "Fly",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Light Screen",
+    "Liquidation",
+    "Luster Purge",
+    "Memento",
+    "Outrage",
+    "Power Split",
+    "Protect",
+    "Psychic",
+    "Psychic Noise",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Recover",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Sandstorm",
+    "Scale Shot",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Simple Beam",
+    "Sleep Talk",
+    "Solar Beam",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Swift",
+    "Tailwind",
+    "Take Down",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Trick",
+    "Waterfall",
+    "Water Pulse",
+    "Weather Ball",
+    "Zen Headbutt"
+  ]
+}

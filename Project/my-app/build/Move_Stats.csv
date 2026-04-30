@@ -1,0 +1,836 @@
+TM,Move,Type,Category,PP,Power,Accuracy,Range,Effect
+1,Attack Order,Bug,Physical,15,9,100%,Room,High critical hit ratio.
+2,Bug Bite,Bug,Physical,20,6,100%,1,Receives the effect from the opponent's held berry.
+3,Bug Buzz,Bug,Special,10,9,100%,Burst,May lower opponent's Special Defense.
+4,Defend Order,Bug,Status,10,N/A,—,Self,Raises user's Defense and Special Defense.
+5,Fell Stinger,Bug,Physical,25,5,100%,1,Drastically raises user's Attack if target is KO'd.
+6,First Impression,Bug,Physical,10,9,100%,1,"Although this move has great power, it only works the first turn the user is in battle."
+7,Fury Cutter,Bug,Physical,20,4,95%,1,Power increases each turn.
+8,Heal Order,Bug,Status,10,N/A,—,Self,User recovers half its max HP.
+9,Infestation,Bug,Special,20,2,100%,1,"Traps opponent, damaging them for 4-5 turns."
+10,Leech Life,Bug,Physical,10,8,100%,1,User recovers half the HP inflicted on opponent.
+11,Lunge,Bug,Physical,15,8,100%,2,"The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat."
+12,Megahorn,Bug,Physical,10,12,85%,1,—
+13,Pin Missile,Bug,Physical,20,3,95%,10,Hits 2-5 times in one turn.
+14,Pollen Puff,Bug,Special,15,9,100%,Burst,Deals damage to opponent or restores HP of teammate.
+15,Pounce,Bug,Physical,20,5,100%,2,Lowers opponent's Speed.
+16,Powder,Bug,Status,20,N/A,100%,Room,Damages Pokémon using Fire type moves.
+17,Quiver Dance,Bug,Status,20,N/A,—,Self,"Raises user's Special Attack, Special Defense and Speed."
+18,Rage Powder,Bug,Status,20,N/A,—,Self,"Forces attacks to hit user, not team-mates."
+19,Signal Beam,Bug,Special,15,8,100%,10,May confuse opponent.
+20,Silk Trap,Bug,Status,10,N/A,—,Self,Protects the user and lowers opponent's Speed on contact.
+21,Silver Wind,Bug,Special,5,6,100%,Room,May raise all stats of user at once.
+22,Skitter Smack,Bug,Physical,10,7,90%,1,Lowers opponent's Sp. Attack.
+23,Spider Web,Bug,Status,10,N/A,—,5A,Opponent cannot escape/switch.
+24,Steamroller,Bug,Physical,20,7,100%,1,May cause flinching.
+25,Sticky Web,Bug,Status,20,N/A,—,1,Lowers opponent's Speed when switching into battle.
+26,String Shot,Bug,Status,40,N/A,95%,10,Sharply lowers opponent's Speed.
+27,Struggle Bug,Bug,Special,20,5,100%,Burst,Lowers opponent's Special Attack.
+28,Tail Glow,Bug,Status,20,N/A,—,Self,Drastically raises user's Special Attack.
+29,Twineedle,Bug,Physical,20,3,100%,10,Hits twice in one turn. May poison opponent.
+30,U-turn,Bug,Physical,20,7,100%,1,User switches out immediately after attacking.
+31,X-Scissor,Bug,Physical,15,8,100%,1,—
+32,Assurance,Dark,Physical,10,6,100%,1,Power doubles if opponent already took damage in the same turn.
+33,Beat Up,Dark,Physical,10,N/A,100%,1,Each Pokémon in user's party attacks.
+34,Bite,Dark,Physical,25,6,100%,1,May cause flinching.
+35,Brutal Swing,Dark,Physical,20,6,100%,Burst,The user swings its body around violently to inflict damage on everything in its vicinity.
+36,Ceaseless Edge,Dark,Physical,15,7,90%,1,Sets up Spikes.
+37,Comeuppance,Dark,Physical,10,N/A,100%,1,Deals more damage to the opponent that last inflicted damage on it.
+38,Crunch,Dark,Physical,15,8,100%,1,May lower opponent's Defense.
+39,Dark Pulse,Dark,Special,15,8,100%,Burst,May cause flinching.
+40,Dark Void,Dark,Status,10,N/A,50%,Room,Puts all adjacent opponents to sleep.
+41,Darkest Lariat,Dark,Physical,10,9,100%,2D,Ignores opponent's stat changes.
+42,Embargo,Dark,Status,15,N/A,100%,1,Opponent cannot use items.
+43,Fake Tears,Dark,Status,20,N/A,100%,1,Sharply lowers opponent's Special Defense.
+44,False Surrender,Dark,Physical,10,8,—,1,Ignores Accuracy and Evasiveness.
+45,Feint Attack,Dark,Physical,20,6,—,1,Ignores Accuracy and Evasiveness.
+46,Fiery Wrath,Dark,Special,10,9,100%,1,May cause flinching.
+47,Flatter,Dark,Status,15,N/A,100%,1,"Confuses opponent, but raises its Special Attack."
+48,Fling,Dark,Physical,10,N/A,100%,1D,Power depends on held item.
+49,Foul Play,Dark,Physical,15,10,100%,1,Uses the opponent's Attack stat.
+50,Hone Claws,Dark,Status,15,N/A,—,Self,Raises user's Attack and Accuracy.
+51,Hyperspace Fury,Dark,Physical,5,10,—,10,Lowers user's Defense. Can strike through Protect/Detect.
+52,Jaw Lock,Dark,Physical,10,8,100%,1,Prevents user and opponent from switching out.
+53,Knock Off,Dark,Physical,20,7,100%,1,Removes opponent's held item for the rest of the battle.
+54,Kowtow Cleave,Dark,Physical,10,9,—,1,Always hits.
+55,Lash Out,Dark,Physical,5,8,100%,1,Double power if stats were lowered during the turn.
+56,Memento,Dark,Status,10,N/A,100%,Room,"User faints, sharply lowers opponent's Attack and Special Attack."
+57,Nasty Plot,Dark,Status,20,N/A,—,Self,Sharply raises user's Special Attack.
+58,Night Daze,Dark,Special,10,9,95%,Burst,May lower opponent's Accuracy.
+59,Night Slash,Dark,Physical,15,7,100%,1,High critical hit ratio.
+60,Obstruct,Dark,Status,10,N/A,100%,Self,Protects the user and sharply lowers Defence on contact.
+61,Parting Shot,Dark,Status,20,N/A,100%,1,Lowers opponent's Attack and Special Attack then switches out.
+62,Payback,Dark,Physical,10,5,100%,Self,Power doubles if the user was attacked first.
+63,Power Trip,Dark,Physical,10,2,100%,1,"The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power."
+64,Punishment,Dark,Physical,5,N/A,100%,1,Power increases when opponent's stats have been raised.
+65,Pursuit,Dark,Physical,20,4,100%,1,Double power if the opponent is switching out.
+66,Quash,Dark,Status,15,N/A,100%,1,Makes the target act last this turn.
+67,Ruination,Dark,Special,10,N/A,90%,1D,Halves the opponent's HP.
+68,Snarl,Dark,Special,15,6,95%,Burst,Lowers opponent's Special Attack.
+69,Snatch,Dark,Status,10,N/A,—,Self,Steals the effects of the opponent's next move.
+70,Sucker Punch,Dark,Physical,5,7,100%,2,"User attacks first, but only works if opponent is readying an attack."
+71,Switcheroo,Dark,Status,10,N/A,100%,1,Swaps held items with the opponent.
+72,Taunt,Dark,Status,20,N/A,100%,1,Opponent can only use moves that attack.
+73,Thief,Dark,Physical,25,6,100%,1,Also steals opponent's held item.
+74,Throat Chop,Dark,Physical,15,8,100%,1,Prevents use of sound moves for two turns.
+75,Topsy-Turvy,Dark,Status,20,N/A,—,1,Reverses stat changes of opponent.
+76,Torment,Dark,Status,15,N/A,100%,1,Opponent cannot use the same move in a row.
+77,Wicked Blow,Dark,Physical,5,8,100%,1,Always results in a critical hit and ignores stat changes.
+78,Wicked Torque,Dark,Physical,10,8,100%,1,May put opponent to sleep.
+79,Breaking Swipe,Dragon,Physical,15,6,100%,Burst,Hits multiple opponents and lowers their attack.
+80,Clanging Scales,Dragon,Special,5,11,100%,2,Lowers user's Defense.
+81,Clangorous Soul,Dragon,Status,5,N/A,100%,Self,Raises all user's stats but loses HP.
+82,Core Enforcer,Dragon,Special,10,10,100%,1D,Suppresses the target's ability if the target has already moved.
+83,Draco Meteor,Dragon,Special,5,13,90%,Room,Sharply lowers user's Special Attack.
+84,Dragon Breath,Dragon,Special,20,6,100%,10,May paralyze opponent.
+85,Dragon Cheer,Dragon,Status,15,N/A,—%,1,Raises critical hit rate by 1; raises critical hit rate by 2 is the target is a dragon type. This cannot be used on the same pokemon multiple times.
+86,Dragon Claw,Dragon,Physical,15,8,100%,1,—
+87,Dragon Dance,Dragon,Status,20,N/A,—,Self,Raises user's Attack and Speed.
+88,Dragon Darts,Dragon,Physical,10,5,100%,2D,User attacks twice.
+89,Dragon Energy,Dragon,Special,5,15,100%,1D,"The higher the user's HP, the higher the power."
+90,Dragon Hammer,Dragon,Physical,15,9,100%,1,The user uses its body like a hammer to attack the target and inflict damage.
+91,Dragon Pulse,Dragon,Special,10,9,100%,1D,—
+92,Dragon Rage,Dragon,Special,10,N/A,100%,1D,Always inflicts 4— HP.
+93,Dragon Rush,Dragon,Physical,10,10,75%,1,May cause flinching.
+94,Dragon Tail,Dragon,Physical,10,6,90%,1,"In battles, the opponent switches. In the wild, the Pokémon runs."
+95,Dual Chop,Dragon,Physical,15,4,90%,1,Hits twice in one turn.
+96,Dynamax Cannon,Dragon,Special,5,10,100%,10P,Damage doubles if opponent is Dynamaxed.
+97,Eternabeam,Dragon,Special,5,16,90%,10P,User can't move on the next turn.
+98,Fickle Beam,Dragon,Special,5,8,100%,10,May deal double damage.
+99,Glaive Rush,Dragon,Physical,5,12,100%,1,Attacks from opposing Pokémon during the next turn cannot miss and will inflict double damage.
+100,Order Up,Dragon,Physical,10,8,100%,1,Boosts Attack/Defense/Speed depending on ally Tatsugiri.
+101,Outrage,Dragon,Physical,10,12,100%,1,User attacks for 2-3 turns but then becomes confused.
+102,Roar of Time,Dragon,Special,5,15,90%,Room,User must recharge next turn.
+103,Scale Shot,Dragon,Physical,20,3,90%,2,Hits 2-5 times in one turn. Boosts user's Speed but lowers its Defense.
+104,Spacial Rend,Dragon,Special,5,10,95%,Room,High critical hit ratio.
+105,Twister,Dragon,Special,20,4,100%,1D,May cause flinching. Hits Pokémon using Fly/Bounce with double power.
+106,Aura Wheel,Electric,Physical,10,11,100%,1,Changes type based on Morpeko's Mode.
+107,Bolt Beak,Electric,Physical,10,9,100%,1,"If the user attacks before the target, the power of this move is doubled."
+108,Bolt Strike,Electric,Physical,5,13,85%,10P,May paralyze opponent.
+109,Charge,Electric,Status,20,N/A,—,Self,Raises user's Special Defense and next Electric move's power increases.
+110,Charge Beam,Electric,Special,10,5,90%,1D,May raise user's Special Attack.
+111,Discharge,Electric,Special,15,8,100%,Room,May paralyze opponent.
+112,Double Shock,Electric,Physical,5,12,100%,1,"After using this move, the user will no longer be Electric type."
+113,Eerie Impulse,Electric,Status,15,N/A,100%,1D,Sharply lowers opponent's Special Attack.
+114,Electric Terrain,Electric,Status,10,N/A,—,Floor,Prevents all Pokémon from falling asleep for 5 turns.
+115,Electrify,Electric,Status,20,N/A,—,1,Changes the target's move to Electric type.
+116,Electro Ball,Electric,Special,10,N/A,100%,1D,"The faster the user, the stronger the attack."
+117,Electro Drift,Electric,Special,5,10,100%,1,Boosted even more if it's super-effective.
+118,Electro Shot,Electric,Special,10,13,100%,10,"Charges on first turn, attacks on second."
+119,Electroweb,Electric,Special,15,6,95%,1D,Lowers opponent's Speed.
+120,Fusion Bolt,Electric,Physical,5,10,100%,5A,Power increases if Fusion Flare is used in the same turn.
+121,Ion Deluge,Electric,Status,25,N/A,—,Floor,Changes Normal-type moves to Electric-type.
+122,Magnet Rise,Electric,Status,10,N/A,—,Self,User becomes immune to Ground-type moves for 5 turns.
+123,Magnetic Flux,Electric,Status,20,N/A,—,Allies,Raises Defense and Sp. Defense of Plus/Minus Pokémon.
+124,Nuzzle,Electric,Physical,20,2,100%,1,Paralyzes opponent.
+125,Overdrive,Electric,Special,10,8,100%,Burst,Hits all adjacent opponents.
+126,Parabolic Charge,Electric,Special,20,7,100%,Burst,User recovers half the HP inflicted on opponent.
+127,Plasma Fists,Electric,Physical,15,10,100%,1,Changes Normal-type moves to Electric-type moves.
+128,Rising Voltage,Electric,Special,20,7,100%,1,Power doubles on Electric Terrain.
+129,Shock Wave,Electric,Special,20,6,—,Burst,Ignores Accuracy and Evasiveness.
+130,Spark,Electric,Physical,20,7,100%,1,May paralyze opponent.
+131,Supercell Slam,Electric,Physical,15,10,95%,1,"If the move misses, the user takes damage instead."
+132,Thunder,Electric,Special,10,11,70%,1,May paralyze opponent.
+133,Thunder Cage,Electric,Special,15,8,90%,1,"Deals damage and traps opponent, damaging them for 4-5 turns."
+134,Thunder Fang,Electric,Physical,15,7,95%,1,May cause flinching and/or paralyze opponent.
+135,Thunder Punch,Electric,Physical,15,8,100%,1,May paralyze opponent.
+136,Thunder Shock,Electric,Special,30,4,100%,1,May paralyze opponent.
+137,Thunder Wave,Electric,Status,20,N/A,90%,1,Paralyzes opponent.
+138,Thunderbolt,Electric,Special,15,9,100%,Burst,May paralyze opponent.
+139,Thunderclap,Electric,Special,5,7,100%,1,Strikes before a target's move.
+140,Volt Switch,Electric,Special,20,7,100%,1,User must switch out after attacking.
+141,Volt Tackle,Electric,Physical,15,12,100%,2,User receives recoil damage. May paralyze opponent.
+142,Wild Charge,Electric,Physical,15,9,100%,1,User receives recoil damage.
+143,Wildbolt Storm,Electric,Special,10,10,80%,1,May paralyze target.
+144,Zap Cannon,Electric,Special,5,12,50%,10,Paralyzes opponent.
+145,Zing Zap,Electric,Physical,10,8,100%,2,May cause flinching.
+146,Alluring Voice,Fairy,Special,10,8,100%,1,Confuses the target if they have any stat boosts.
+147,Aromatic Mist,Fairy,Status,20,N/A,—,Allies,Raises Special Defense of an ally.
+148,Baby-Doll Eyes,Fairy,Status,30,N/A,100%,1,Always goes first. Lowers the target's attack.
+149,Charm,Fairy,Status,20,N/A,100%,1,Sharply lowers opponent's Attack.
+150,Crafty Shield,Fairy,Status,10,N/A,—,Allies,Protects the Pokémon from status moves.
+151,Dazzling Gleam,Fairy,Special,10,8,100%,Burst,Hits all adjacent opponents.
+152,Decorate,Fairy,Status,15,N/A,—,1D,Sharply raises target's Attack and Special Attack.
+153,Disarming Voice,Fairy,Special,15,4,—,Burst,Ignores Accuracy and Evasiveness.
+154,Draining Kiss,Fairy,Special,10,5,100%,1,User recovers most the HP inflicted on opponent.
+155,Fairy Lock,Fairy,Status,10,N/A,—,Burst,Prevents fleeing in the next turn.
+156,Fairy Wind,Fairy,Special,30,4,100%,1,—
+157,Fleur Cannon,Fairy,Special,5,13,90%,10,Sharply lowers user's Special Attack.
+158,Floral Healing,Fairy,Status,10,N/A,—,1D,The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.
+159,Flower Shield,Fairy,Status,10,N/A,—,Allies,Sharply raises Defense of all Grass-type Pokémon on the field.
+160,Geomancy,Fairy,Status,10,N/A,—,Allies,"Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second."
+161,Light of Ruin,Fairy,Special,5,14,90%,1,User receives recoil damage.
+162,Magical Torque,Fairy,Physical,10,10,100%,1,May confuse the opponent.
+163,Misty Explosion,Fairy,Special,5,10,100%,Burst,Power increases on Misty Terrain.
+164,Misty Terrain,Fairy,Status,10,N/A,—,Floor,Protects the field from status conditions for 5 turns.
+165,Moonblast,Fairy,Special,15,10,100%,1,May lower opponent's Special Attack.
+166,Moonlight,Fairy,Status,5,N/A,—,Allies,User recovers HP. Amount varies with the weather.
+167,Nature's Madness,Fairy,Special,10,N/A,90%,1,Halves the foe's HP.
+168,Play Rough,Fairy,Physical,10,9,90%,1,May lower opponent's Attack.
+169,Spirit Break,Fairy,Physical,15,8,100%,1,Lowers opponent's Special Attack.
+170,Springtide Storm,Fairy,Special,5,10,80%,Room,"Boosts user's stats in Incarnate Forme, or lowers opponent's stats in Therian Forme."
+171,Strange Steam,Fairy,Special,10,9,95%,2D,May confuse opponent.
+172,Sweet Kiss,Fairy,Status,10,N/A,75%,1,Confuses opponent.
+173,Arm Thrust,Fighting,Physical,20,2,100%,1,Hits 2-5 times in one turn.
+174,Aura Sphere,Fighting,Special,20,8,—,10,Ignores Accuracy and Evasiveness.
+175,Axe Kick,Fighting,Physical,10,12,90%,1,"May confuse opponent. If it misses, the user loses HP."
+176,Body Press,Fighting,Physical,10,8,100%,1,"The higher the user's Defense, the stronger the attack."
+177,Brick Break,Fighting,Physical,15,8,100%,1,Breaks through Reflect and Light Screen barriers.
+178,Bulk Up,Fighting,Status,20,N/A,—,Self,Raises user's Attack and Defense.
+179,Circle Throw,Fighting,Physical,10,6,90%,1,"In battles, the opponent switches. In the wild, the Pokémon runs."
+180,Close Combat,Fighting,Physical,5,12,100%,1,Lowers user's Defense and Special Defense.
+181,Coaching,Fighting,Status,10,N/A,—,1,Boosts Attack and Defense of a teammate.
+182,Collision Course,Fighting,Physical,5,10,100%,1,Boosted even more if it's super-effective.
+183,Combat Torque,Fighting,Physical,10,10,100%,1,May paralyze the opponent.
+184,Counter,Fighting,Physical,20,N/A,100%,1,"When hit by a Physical Attack, user strikes back with 2x power."
+185,Cross Chop,Fighting,Physical,5,10,80%,1,High critical hit ratio.
+186,Detect,Fighting,Status,5,N/A,—,Self,"Protects the user, but may fail if used consecutively."
+187,Double Kick,Fighting,Physical,30,3,100%,1,Hits twice in one turn.
+188,Drain Punch,Fighting,Physical,10,8,100%,1,User recovers half the HP inflicted on opponent.
+189,Dynamic Punch,Fighting,Physical,5,10,50%,1,Confuses opponent.
+190,Final Gambit,Fighting,Special,5,N/A,100%,1,Inflicts damage equal to the user's remaining HP. User faints.
+191,Flying Press,Fighting,Physical,10,10,95%,1,Deals Fighting and Flying type damage.
+192,Focus Blast,Fighting,Special,5,12,70%,10,May lower opponent's Special Defense.
+193,Focus Punch,Fighting,Physical,20,15,100%,1,"If the user is hit before attacking, it flinches instead."
+194,Force Palm,Fighting,Physical,10,6,100%,1,May paralyze opponent.
+195,Hammer Arm,Fighting,Physical,10,10,90%,1,Lowers user's Speed.
+196,High Jump Kick,Fighting,Physical,10,13,90%,1,"If it misses, the user loses half their HP."
+197,Jump Kick,Fighting,Physical,10,10,95%,1,"If it misses, the user loses half their HP."
+198,Karate Chop,Fighting,Physical,25,5,100%,1,High critical hit ratio.
+199,Low Kick,Fighting,Physical,20,N/A,100%,1,"The heavier the opponent, the stronger the attack."
+200,Low Sweep,Fighting,Physical,20,7,100%,1,Lowers opponent's Speed.
+201,Mach Punch,Fighting,Physical,30,4,100%,2,User attacks first.
+202,Mat Block,Fighting,Status,10,N/A,—,Allies,Protects teammates from damaging moves.
+203,Meteor Assault,Fighting,Physical,5,15,100%,Room,User must recharge next turn.
+204,No Retreat,Fighting,Status,5,N/A,—,Self,Raises all stats but user cannot switch out.
+205,Octolock,Fighting,Status,15,N/A,100%,Burst,"Lowers opponent's Defense and Special Defense every turn, and they cannot flee or switch out."
+206,Power-Up Punch,Fighting,Physical,20,4,100%,1,Raises Attack.
+207,Quick Guard,Fighting,Status,15,N/A,—,Allies,Protects the user's team from high-priority moves.
+208,Revenge,Fighting,Physical,10,6,100%,1,Power increases if user was hit first.
+209,Reversal,Fighting,Physical,15,N/A,100%,1,"The lower the user's HP, the higher the power."
+210,Rock Smash,Fighting,Physical,15,4,100%,1,May lower opponent's Defense.
+211,Rolling Kick,Fighting,Physical,15,6,85%,1,May cause flinching.
+212,Sacred Sword,Fighting,Physical,15,9,100%,1,Ignores opponent's stat changes.
+213,Secret Sword,Fighting,Special,10,9,100%,1,"Inflicts damage based on the target's Defense, not Special Defense."
+214,Seismic Toss,Fighting,Physical,20,N/A,100%,1,Inflicts damage equal to user's level.
+215,Sky Uppercut,Fighting,Physical,15,9,90%,1,"Hits the opponent, even during Fly."
+216,Storm Throw,Fighting,Physical,10,6,100%,1,Always results in a critical hit.
+217,Submission,Fighting,Physical,20,8,80%,1,User receives recoil damage.
+218,Superpower,Fighting,Physical,5,12,100%,1,Lowers user's Attack and Defense.
+219,Thunderous Kick,Fighting,Physical,10,9,100%,1,Lowers opponent's Defense.
+220,Triple Arrows,Fighting,Physical,10,9,100%,10,High critical hit ratio. May lower opponent's Defense or cause them to flinch.
+221,Triple Kick,Fighting,Physical,10,1,90%,1,Hits thrice in one turn at increasing power.
+222,Upper Hand,Fighting,Physical,15,7,100%,1,Strikes before a target's priority move.
+223,Vacuum Wave,Fighting,Special,30,4,100%,2,User attacks first.
+224,Victory Dance,Fighting,Status,10,N/A,—,Self,Raises Attack and Defense.
+225,Vital Throw,Fighting,Physical,10,7,—,1,"User attacks last, but ignores Accuracy and Evasiveness."
+226,Wake-Up Slap,Fighting,Physical,10,7,100%,1,"Power doubles if opponent is asleep, but wakes it up."
+227,Armor Cannon,Fire,Special,5,12,100%,10,Lowers user's Defense and Special Defense.
+228,Bitter Blade,Fire,Physical,10,9,100%,1,User recovers half the HP inflicted on opponent.
+229,Blast Burn,Fire,Special,5,15,90%,Room,User must recharge next turn.
+230,Blaze Kick,Fire,Physical,10,9,90%,1,High critical hit ratio. May burn opponent.
+231,Blazing Torque,Fire,Physical,10,8,100%,1,May burn the opponent.
+232,Blue Flare,Fire,Special,5,13,85%,Room,May burn opponent.
+233,Burn Up,Fire,Special,5,13,100%,1D,"To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type."
+234,Burning Bulwark,Fire,Status,10,N/A,—%,Self,—
+235,Burning Jealousy,Fire,Special,5,7,100%,1,"Hits all opponents, and burns any that have had their stats boosted."
+236,Ember,Fire,Special,25,4,100%,2D,May burn opponent.
+237,Eruption,Fire,Special,5,15,100%,Burst,Stronger when the user's HP is higher.
+238,Fiery Dance,Fire,Special,10,8,100%,1,May raise user's Special Attack.
+239,Fire Blast,Fire,Special,5,11,85%,1D,May burn opponent.
+240,Fire Fang,Fire,Physical,15,7,95%,1,May cause flinching and/or burn opponent.
+241,Fire Lash,Fire,Physical,15,8,100%,2,The user strikes the target with a burning lash. This also lowers the target's Defense stat.
+242,Fire Pledge,Fire,Special,10,8,100%,1,Added effects appear if combined with Grass Pledge or Water Pledge.
+243,Fire Punch,Fire,Physical,15,8,100%,1,May burn opponent.
+244,Fire Spin,Fire,Special,15,4,85%,1,"Traps opponent, damaging them for 4-5 turns."
+245,Flame Burst,Fire,Special,15,7,100%,10,May also injure nearby Pokémon.
+246,Flame Charge,Fire,Physical,20,5,100%,1,Raises user's Speed.
+247,Flame Wheel,Fire,Physical,25,6,100%,1,May burn opponent.
+248,Flamethrower,Fire,Special,15,9,100%,10,May burn opponent.
+249,Flare Blitz,Fire,Physical,15,12,100%,1,User receives recoil damage. May burn opponent.
+250,Fusion Flare,Fire,Special,5,10,100%,5A,Power increases if Fusion Bolt is used in the same turn.
+251,Heat Crash,Fire,Physical,10,N/A,100%,1,"The heavier the user, the stronger the attack."
+252,Heat Wave,Fire,Special,10,10,90%,Room,May burn opponent.
+253,Incinerate,Fire,Special,15,6,100%,1D,Destroys the target's held berry.
+254,Inferno,Fire,Special,5,10,50%,1,Burns opponent.
+255,Lava Plume,Fire,Special,15,8,100%,Burst,May burn opponent.
+256,Magma Storm,Fire,Special,5,10,75%,1,"Traps opponent, damaging them for 4-5 turns."
+257,Mind Blown,Fire,Special,5,15,100%,2D,User receives recoil damage.
+258,Mystical Fire,Fire,Special,10,8,100%,1,Lowers opponent's Special Attack.
+259,Overheat,Fire,Special,5,13,90%,Burst,Sharply lowers user's Special Attack.
+260,Pyro Ball,Fire,Physical,5,12,90%,10,May burn opponent.
+261,Raging Fury,Fire,Physical,10,12,100%,1,User attacks for 2-3 turns but then becomes confused.
+262,Sacred Fire,Fire,Physical,5,10,95%,Room,May burn opponent.
+263,Searing Shot,Fire,Special,5,10,100%,Burst,May burn opponent.
+264,Shell Trap,Fire,Special,5,15,100%,1,Deals more damage to opponent if hit by a Physical move.
+265,Sunny Day,Fire,Status,5,N/A,—,Floor,Makes it sunny for 5 turns.
+266,Temper Flare,Fire,Physical,10,8,100%,1,Power doubles if the last move failed.
+267,Torch Song,Fire,Special,10,8,100%,1D,Raises user's Special Attack.
+268,V-create,Fire,Physical,5,18,95%,1,"Lowers user's Defense, Special Defense and Speed."
+269,Will-O-Wisp,Fire,Status,15,N/A,85%,1D,Burns opponent.
+270,Acrobatics,Flying,Physical,15,6,100%,1,Stronger when the user does not have a held item.
+271,Aerial Ace,Flying,Physical,20,6,—,1,Ignores Accuracy and Evasiveness.
+272,Aeroblast,Flying,Special,5,10,95%,10P,High critical hit ratio.
+273,Air Cutter,Flying,Special,25,6,95%,1,High critical hit ratio.
+274,Air Slash,Flying,Special,15,8,95%,1,May cause flinching.
+275,Beak Blast,Flying,Physical,15,10,100%,1,"The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn."
+276,Bleakwind Storm,Flying,Special,10,10,80%,1,May lower opponent's Speed.
+277,Bounce,Flying,Physical,5,9,85%,1,"Springs up on first turn, attacks on second. May paralyze opponent."
+278,Brave Bird,Flying,Physical,15,12,100%,1D,User receives recoil damage.
+279,Chatter,Flying,Special,20,7,100%,1,Confuses opponent.
+280,Defog,Flying,Status,15,N/A,—,Room,Lowers opponent's Evasiveness and clears fog.
+281,Dragon Ascent,Flying,Physical,5,12,100%,5A,Lowers user's Defense and Special Defense.
+282,Drill Peck,Flying,Physical,20,8,100%,1,—
+283,Dual Wingbeat,Flying,Physical,10,4,90%,1,The user slams the target with its wings. The target is hit twice in a row.
+284,Feather Dance,Flying,Status,15,N/A,100%,1,Sharply lowers opponent's Attack.
+285,Fly,Flying,Physical,15,9,95%,1,"Flies up on first turn, attacks on second turn."
+286,Gust,Flying,Special,35,4,100%,1,Hits Pokémon using Fly/Bounce/Sky Drop with double power.
+287,Hurricane,Flying,Special,10,11,70%,1,May confuse opponent.
+288,Mirror Move,Flying,Status,20,N/A,—,1,User performs the opponent's last move.
+289,Oblivion Wing,Flying,Special,10,8,100%,10P,User recovers most of the HP inflicted on opponent.
+290,Peck,Flying,Physical,35,4,100%,1,—
+291,Pluck,Flying,Physical,20,6,100%,1,"If the opponent is holding a berry, its effect is stolen by user."
+292,Roost,Flying,Status,5,N/A,—,Self,User recovers half of its max HP and loses the Flying type temporarily.
+293,Sky Attack,Flying,Physical,5,14,90%,10P,"Charges on first turn, attacks on second. May cause flinching. High critical hit ratio."
+294,Sky Drop,Flying,Physical,10,6,100%,1,"Takes opponent into the air on first turn, drops them on second turn."
+295,Tailwind,Flying,Status,15,N/A,—,Allies,Doubles Speed for 4 turns.
+296,Wing Attack,Flying,Physical,35,6,100%,1,—
+297,Astonish,Ghost,Physical,15,3,100%,1,May cause flinching.
+298,Astral Barrage,Ghost,Special,5,12,100%,10,The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+299,Bitter Malice,Ghost,Special,10,8,100%,1,Lowers opponent's Attack.
+300,Confuse Ray,Ghost,Status,10,N/A,100%,1,Confuses opponent.
+301,Curse,Ghost,Status,10,N/A,—,1/Self,"Ghosts lose 5—% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed."
+302,Destiny Bond,Ghost,Status,5,N/A,—,1,"If the user faints, the opponent also faints."
+303,Grudge,Ghost,Status,5,N/A,—,Self,"If the users faints after using this move, the PP for the opponent's last move is depleted."
+304,Hex,Ghost,Special,10,7,100%,1,Inflicts more damage if the target has a status condition.
+305,Infernal Parade,Ghost,Special,15,6,100%,2,Inflicts double damage if the target has a status condition.
+306,Last Respects,Ghost,Physical,10,5,100%,1,Damages increases the more party Pokémon have been defeated.
+307,Lick,Ghost,Physical,30,3,100%,1,May paralyze opponent.
+308,Moongeist Beam,Ghost,Special,5,10,100%,2,Ignores the target's ability.
+309,Night Shade,Ghost,Special,15,N/A,100%,Burst,Inflicts damage equal to user's level.
+310,Nightmare,Ghost,Status,15,N/A,100%,1,The sleeping opponent loses 25% of its max HP each turn.
+311,Ominous Wind,Ghost,Special,5,6,100%,Room,May raise all user's stats at once.
+312,Phantom Force,Ghost,Physical,10,9,100%,1,"Disappears on first turn, attacks on second. Can strike through Protect/Detect."
+313,Poltergeist,Ghost,Physical,5,11,90%,2,Fails if the target doesn’t have an item.
+314,Rage Fist,Ghost,Physical,10,5,100%,1,"The more times the user has been hit by attacks, the greater the move's power."
+315,Shadow Ball,Ghost,Special,15,8,100%,10,May lower opponent's Special Defense.
+316,Shadow Bone,Ghost,Physical,10,9,100%,2D,May lower opponent's Defense.
+317,Shadow Claw,Ghost,Physical,15,7,100%,1,High critical hit ratio.
+318,Shadow Force,Ghost,Physical,5,12,100%,10P,"Disappears on first turn, attacks on second. Can strike through Protect/Detect."
+319,Shadow Punch,Ghost,Physical,20,6,—,1,Ignores Accuracy and Evasiveness.
+320,Shadow Sneak,Ghost,Physical,30,4,100%,2,User attacks first.
+321,Spectral Thief,Ghost,Physical,10,9,100%,1D,"The user hides in the target's shadow, steals the target's stat boosts, and then attacks."
+322,Spirit Shackle,Ghost,Physical,10,8,100%,2D,Prevents the opponent from switching out.
+323,Spite,Ghost,Status,10,N/A,100%,1,The opponent's last move loses 2-5 PP.
+324,Trick-or-Treat,Ghost,Status,20,N/A,100%,1,Adds Ghost type to opponent.
+325,Absorb,Grass,Special,25,2,100%,1,User recovers half the HP inflicted on opponent.
+326,Apple Acid,Grass,Special,10,8,100%,10,Lowers target's Special Defense.
+327,Aromatherapy,Grass,Status,5,N/A,—,Allies,Cures all status problems in your party.
+328,Branch Poke,Grass,Physical,40,4,100%,2,—
+329,Bullet Seed,Grass,Physical,30,3,100%,10,Hits 2-5 times in one turn.
+330,Chloroblast,Grass,Special,5,15,95%,1,User receives recoil damage.
+331,Cotton Guard,Grass,Status,10,N/A,—,Self,Drastically raises user's Defense.
+332,Cotton Spore,Grass,Status,40,N/A,100%,1,Sharply lowers opponent's Speed.
+333,Drum Beating,Grass,Physical,10,8,100%,1,Lowers opponent's Speed.
+334,Energy Ball,Grass,Special,10,9,100%,10,May lower opponent's Special Defense.
+335,Flower Trick,Grass,Physical,10,7,—,1,Never misses; always results in a critical hit.
+336,Forest's Curse,Grass,Status,20,N/A,100%,1,Adds Grass type to opponent.
+337,Frenzy Plant,Grass,Special,5,15,90%,Room,User must recharge next turn.
+338,Giga Drain,Grass,Special,10,8,100%,1,User recovers half the HP inflicted on opponent.
+339,Grass Knot,Grass,Special,20,N/A,100%,1,"The heavier the opponent, the stronger the attack."
+340,Grass Pledge,Grass,Special,10,8,100%,1,Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+341,Grass Whistle,Grass,Status,15,N/A,55%,1D,Puts opponent to sleep.
+342,Grassy Glide,Grass,Physical,20,6,100%,1,High priority during Grassy Terrain.
+343,Grassy Terrain,Grass,Status,10,N/A,—,Floor,Restores a little HP of all Pokémon for 5 turns.
+344,Grav Apple,Grass,Physical,10,8,100%,1D,Lowers the opponent's Defense stat.
+345,Horn Leech,Grass,Physical,10,8,100%,1,User recovers half the HP inflicted on opponent.
+346,Ingrain,Grass,Status,20,N/A,—,Self,User restores HP each turn. User cannot escape/switch.
+347,Ivy Cudgel,Grass,Physical,10,10,100%,1,High critical hit ratio. Type changes based on form.
+348,Jungle Healing,Grass,Status,10,N/A,—,Allies,Restores team's HP and cures status conditions.
+349,Leaf Blade,Grass,Physical,15,9,100%,1,High critical hit ratio.
+350,Leaf Storm,Grass,Special,5,13,90%,10,Sharply lowers user's Special Attack.
+351,Leaf Tornado,Grass,Special,10,7,90%,1,May lower opponent's Accuracy.
+352,Leafage,Grass,Physical,40,4,100%,10,Strikes opponent with leaves.
+353,Leech Seed,Grass,Status,10,N/A,90%,1D,Drains HP from opponent each turn.
+354,Magical Leaf,Grass,Special,20,6,—,1D,Ignores Accuracy and Evasiveness.
+355,Matcha Gotcha,Grass,Special,15,8,90%,10,"Deals damage, restores HP, may burn opponent."
+356,Mega Drain,Grass,Special,15,4,100%,1,User recovers half the HP inflicted on opponent.
+357,Needle Arm,Grass,Physical,15,6,100%,1,May cause flinching.
+358,Petal Blizzard,Grass,Physical,15,9,100%,Room,Hits all adjacent Pokémon.
+359,Petal Dance,Grass,Special,10,12,100%,1,User attacks for 2-3 turns but then becomes confused.
+360,Power Whip,Grass,Physical,10,12,85%,1,—
+361,Razor Leaf,Grass,Physical,25,6,95%,10,High critical hit ratio.
+362,Seed Bomb,Grass,Physical,15,8,100%,1D,—
+363,Seed Flare,Grass,Special,5,12,85%,Room,May lower opponent's Special Defense.
+364,Sleep Powder,Grass,Status,15,N/A,75%,Burst,Puts opponent to sleep.
+365,Snap Trap,Grass,Physical,15,4,100%,1D,"Traps opponent, damaging them for 4-5 turns."
+366,Solar Beam,Grass,Special,10,12,100%,10,"Charges on first turn, attacks on second."
+367,Solar Blade,Grass,Physical,10,13,100%,1D,"Charges on first turn, attacks on second."
+368,Spicy Extract,Grass,Status,15,N/A,—,1,Harshly lowers the opponent's Defense and sharply raises their Attack.
+369,Spiky Shield,Grass,Status,10,N/A,—,Self,Protects the user and inflicts damage on contact.
+370,Spore,Grass,Status,15,N/A,100%,Room,Puts opponent to sleep.
+371,Strength Sap,Grass,Status,10,N/A,100%,2D,The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.
+372,Stun Spore,Grass,Status,30,N/A,75%,Burst,Paralyzes opponent.
+373,Synthesis,Grass,Status,5,N/A,—,Self,User recovers HP. Amount varies with the weather.
+374,Syrup Bomb,Grass,Special,10,6,85%,10,Lowers opponent's Speed each turn for 3 turns.
+375,Trailblaze,Grass,Physical,20,5,100%,1,Raises user's Speed.
+376,Trop Kick,Grass,Physical,15,7,100%,1,Lowers opponent's Attack.
+377,Vine Whip,Grass,Physical,25,5,100%,2D,—
+378,Wood Hammer,Grass,Physical,15,12,100%,1,User receives recoil damage.
+379,Worry Seed,Grass,Status,10,N/A,100%,10,Changes the opponent's Ability to Insomnia.
+380,Bone Club,Ground,Physical,20,7,85%,1,May cause flinching.
+381,Bone Rush,Ground,Physical,10,3,90%,1D,Hits 2-5 times in one turn.
+382,Bonemerang,Ground,Physical,10,5,90%,10P,Hits twice in one turn.
+383,Bulldoze,Ground,Physical,20,6,100%,Burst,Lowers opponent's Speed.
+384,Dig,Ground,Physical,10,8,100%,1,"Digs underground on first turn, attacks on second. Can also escape from caves."
+385,Drill Run,Ground,Physical,10,8,95%,2,High critical hit ratio.
+386,Earth Power,Ground,Special,10,9,100%,Room,May lower opponent's Special Defense.
+387,Earthquake,Ground,Physical,10,10,100%,All Room,Power is doubled if opponent is underground from using Dig.
+388,Fissure,Ground,Physical,5,N/A,30%,1,"One-Hit-KO, if it hits."
+389,Headlong Rush,Ground,Physical,5,12,100%,1,Lowers user's Defense.
+390,High Horsepower,Ground,Physical,10,10,95%,1,The user fiercely attacks the target using its entire body.
+391,Land's Wrath,Ground,Physical,10,9,100%,Room,—
+392,Magnitude,Ground,Physical,30,N/A,100%,All Room,Hits with random power.
+393,Mud Bomb,Ground,Special,10,7,85%,1D,May lower opponent's Accuracy.
+394,Mud Shot,Ground,Special,15,6,95%,1D,Lowers opponent's Speed.
+395,Mud Sport,Ground,Status,15,N/A,—,Floor,Weakens the power of Electric-type moves.
+396,Mud-Slap,Ground,Special,10,2,100%,1D,Lowers opponent's Accuracy.
+397,Precipice Blades,Ground,Physical,10,12,85%,10,Hits all adjacent opponents.
+398,Rototiller,Ground,Status,10,N/A,—,Allies,Raises Attack and Special Attack of Grass-types.
+399,Sand Attack,Ground,Status,15,N/A,100%,1D,Lowers opponent's Accuracy.
+400,Sand Tomb,Ground,Physical,15,4,85%,1,"Traps opponent, damaging them for 4-5 turns."
+401,Sandsear Storm,Ground,Special,10,10,80%,1,May burn target.
+402,Scorching Sands,Ground,Special,10,7,100%,1,May burn the target.
+403,Shore Up,Ground,Status,5,N/A,—,Self,The user regains up to half of its max HP. It restores more HP in a sandstorm.
+404,Spikes,Ground,Status,20,N/A,—,5A,Damages opponents switching into battle.
+405,Stomping Tantrum,Ground,Physical,10,8,100%,1,"Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles."
+406,Thousand Arrows,Ground,Physical,10,9,100%,1,Makes Flying-type Pokémon vulnerable to Ground moves.
+407,Thousand Waves,Ground,Physical,10,9,100%,1,Opponent cannot flee or switch.
+408,Aurora Beam,Ice,Special,20,7,100%,1,May lower opponent's Attack.
+409,Aurora Veil,Ice,Status,20,N/A,—,Allies,Halves damage from Physical and Special attacks for five turns.
+410,Avalanche,Ice,Physical,10,6,100%,1,Power doubles if user took damage first.
+411,Blizzard,Ice,Special,5,11,70%,Room,May freeze opponent.
+412,Chilly Reception,Ice,Status,10,N/A,—,Self,Switches out and summons a snowstorm lasting 5 turns.
+413,Freeze Shock,Ice,Physical,5,14,90%,10P,"Charges on first turn, attacks on second. May paralyze opponent."
+414,Freeze-Dry,Ice,Special,20,7,100%,1,May freeze opponent. Super-effective against Water types.
+415,Frost Breath,Ice,Special,10,6,90%,1D,Always results in a critical hit.
+416,Glacial Lance,Ice,Physical,5,12,100%,2,The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
+417,Glaciate,Ice,Special,10,7,95%,Room,Lowers opponent's Speed.
+418,Hail,Ice,Status,10,N/A,—,Floor,Non-Ice types are damaged for 5 turns.
+419,Haze,Ice,Status,30,N/A,—,Room,Resets all stat changes.
+420,Ice Ball,Ice,Physical,20,3,90%,1,Doubles in power each turn for 5 turns.
+421,Ice Beam,Ice,Special,10,9,100%,10,May freeze opponent.
+422,Ice Burn,Ice,Special,5,14,90%,Room,"Charges on first turn, attacks on second. May burn opponent."
+423,Ice Fang,Ice,Physical,15,7,95%,1,May cause flinching and/or freeze opponent.
+424,Ice Hammer,Ice,Physical,10,10,90%,1,"The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however."
+425,Ice Punch,Ice,Physical,15,8,100%,1,May freeze opponent.
+426,Ice Shard,Ice,Physical,30,4,100%,2D,User attacks first.
+427,Ice Spinner,Ice,Physical,15,8,100%,1,Removes effects of Terrain.
+428,Icicle Crash,Ice,Physical,10,9,90%,1,May cause flinching.
+429,Icicle Spear,Ice,Physical,30,3,100%,1D,Hits 2-5 times in one turn.
+430,Icy Wind,Ice,Special,15,6,95%,10,Lowers opponent's Speed.
+431,Mist,Ice,Status,30,N/A,—,Allies,User's stats cannot be changed for a period of time.
+432,Mountain Gale,Ice,Physical,10,10,85%,1D,Lowers user's Speed.
+433,Powder Snow,Ice,Special,25,4,100%,1D,May freeze opponent.
+434,Sheer Cold,Ice,Special,5,N/A,30%,1,"One-Hit-KO, if it hits."
+435,Snowscape,Ice,Status,10,N/A,—,Allies,Raises Defense of Ice types for 5 turns.
+436,Triple Axel,Ice,Physical,10,2,90%,1,Attacks thrice with more power each time.
+437,Acupressure,Normal,Status,30,N/A,—,Allies,Sharply raises a random stat.
+438,After You,Normal,Status,15,N/A,—,Self,Gives target priority in the next turn.
+439,Assist,Normal,Status,20,N/A,—,Self,User performs a move known by its allies at random.
+440,Attract,Normal,Status,15,N/A,100%,1,"If opponent is the opposite gender, it's less likely to attack."
+441,Barrage,Normal,Physical,20,2,85%,1D,Hits 2-5 times in one turn.
+442,Baton Pass,Normal,Status,40,N/A,—,Self,User switches out and gives stat changes to the incoming Pokémon.
+443,Belly Drum,Normal,Status,10,N/A,—,Self,"User loses 5—% of its max HP, but Attack raises to maximum."
+444,Bestow,Normal,Status,15,N/A,—,1,Gives the user's held item to the target.
+445,Bide,Normal,Physical,10,N/A,—,1,User takes damage for two turns then strikes back double.
+446,Bind,Normal,Physical,20,2,85%,1,"Traps opponent, damaging them for 4-5 turns."
+447,Block,Normal,Status,5,N/A,—,1,Opponent cannot flee or switch.
+448,Blood Moon,Normal,Special,5,14,100%,Room,Cannot be used twice in a row.
+449,Body Slam,Normal,Physical,15,9,100%,1,May paralyze opponent.
+450,Boomburst,Normal,Special,10,14,100%,All Room,Hits all adjacent Pokémon.
+451,Camouflage,Normal,Status,20,N/A,—,Self,Changes user's type according to the location.
+452,Captivate,Normal,Status,20,N/A,100%,1,Sharply lowers opponent's Special Attack if opposite gender.
+453,Celebrate,Normal,Status,40,N/A,—,1,The Pokémon congratulates you on your special day. No battle effect.
+454,Chip Away,Normal,Physical,20,7,100%,1,Ignores opponent's stat changes.
+455,Comet Punch,Normal,Physical,15,2,85%,1,Hits 2-5 times in one turn.
+456,Confide,Normal,Status,20,N/A,—,1,Lowers opponent's Special Attack.
+457,Constrict,Normal,Physical,35,1,100%,1,May lower opponent's Speed by one stage.
+458,Conversion,Normal,Status,30,N/A,—,1,Changes user's type to that of its first move.
+459,Conversion 2,Normal,Status,30,N/A,—,1,User changes type to become resistant to opponent's last move.
+460,Copycat,Normal,Status,20,N/A,—,1,Copies opponent's last move.
+461,Court Change,Normal,Status,10,N/A,100%,1,Swaps the effects on either side of the field.
+462,Covet,Normal,Physical,25,6,100%,1,Opponent's item is stolen by the user.
+463,Crush Claw,Normal,Physical,10,8,95%,1,May lower opponent's Defense.
+464,Crush Grip,Normal,Physical,5,N/A,100%,1,More powerful when opponent has higher HP.
+465,Cut,Normal,Physical,30,5,95%,Burst,—
+466,Defense Curl,Normal,Status,40,N/A,—,Self,Raises user's Defense.
+467,Disable,Normal,Status,20,N/A,100%,1,Opponent can't use its last attack for a few turns.
+468,Dizzy Punch,Normal,Physical,10,7,100%,1,May confuse opponent.
+469,Doodle,Normal,Status,10,N/A,100%,1,Changes the abilities of the user and its teammates to that of the target.
+470,Double Hit,Normal,Physical,10,4,90%,1,Hits twice in one turn.
+471,Double Slap,Normal,Physical,10,2,85%,1,Hits 2-5 times in one turn.
+472,Double Team,Normal,Status,15,N/A,—,Self,Raises user's Evasiveness.
+473,Double-Edge,Normal,Physical,15,12,100%,1,User receives recoil damage.
+474,Echoed Voice,Normal,Special,15,4,100%,Burst,Power increases each turn.
+475,Egg Bomb,Normal,Physical,10,10,75%,1D,—
+476,Encore,Normal,Status,5,N/A,100%,1,Forces opponent to keep using its last move for 3 turns.
+477,Endeavor,Normal,Physical,5,N/A,100%,1,Reduces opponent's HP to same as user's.
+478,Endure,Normal,Status,10,N/A,—,Self,"Always left with at least 1 HP, but may fail if used consecutively."
+479,Entrainment,Normal,Status,15,N/A,100%,1,Makes target's ability same as user's.
+480,Explosion,Normal,Physical,5,25,100%,Burst 2,User faints.
+481,Extreme Speed,Normal,Physical,5,8,100%,2,User attacks first.
+482,Facade,Normal,Physical,20,7,100%,1,"Power doubles if user is burned, poisoned, or paralyzed."
+483,Fake Out,Normal,Physical,10,4,100%,2,"User attacks first, foe flinches. Only usable on first turn."
+484,False Swipe,Normal,Physical,40,4,100%,1,Always leaves opponent with at least 1 HP.
+485,Feint,Normal,Physical,10,3,100%,2,Only hits if opponent uses Protect or Detect in the same turn.
+486,Fillet Away,Normal,Status,10,N/A,—,Self,"Lowers HP but sharply boosts Attack, Special Attack, and Speed."
+487,Flail,Normal,Physical,15,N/A,100%,1,"The lower the user's HP, the higher the power."
+488,Flash,Normal,Status,20,N/A,100%,1,Lowers opponent's Accuracy.
+489,Focus Energy,Normal,Status,30,N/A,—,Self,Increases critical hit ratio.
+490,Follow Me,Normal,Status,20,N/A,—,Self,"In Double Battle, the user takes all the attacks."
+491,Foresight,Normal,Status,40,N/A,—,1,"Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts."
+492,Frustration,Normal,Physical,20,N/A,100%,1,Power decreases with higher Friendship.
+493,Fury Attack,Normal,Physical,20,2,85%,1,Hits 2-5 times in one turn.
+494,Fury Swipes,Normal,Physical,15,2,80%,1,Hits 2-5 times in one turn.
+495,Giga Impact,Normal,Physical,5,15,90%,1,User must recharge next turn.
+496,Glare,Normal,Status,30,N/A,100%,1,Paralyzes opponent.
+497,Growl,Normal,Status,40,N/A,100%,Room,Lowers opponent's Attack.
+498,Growth,Normal,Status,20,N/A,—,Self,Raises user's Attack and Special Attack.
+499,Guillotine,Normal,Physical,5,N/A,30%,1,"One-Hit-KO, if it hits."
+500,Happy Hour,Normal,Status,30,N/A,—,1,Doubles prize money from trainer battles.
+501,Harden,Normal,Status,30,N/A,—,Self,Raises user's Defense.
+502,Head Charge,Normal,Physical,15,12,100%,1,User receives recoil damage.
+503,Headbutt,Normal,Physical,15,7,100%,1,May cause flinching.
+504,Heal Bell,Normal,Status,5,N/A,—,Allies,Heals the user's party's status conditions.
+505,Helping Hand,Normal,Status,20,N/A,—,Allies,"In Double Battles, boosts the power of the partner's move."
+506,Hidden Power,Normal,Special,15,6,100%,1,Type and power depends on user's IVs.
+507,Hold Back,Normal,Physical,40,4,100%,1,Always leaves opponent with at least 1 HP.
+508,Hold Hands,Normal,Status,40,N/A,—,1,Makes the user and an ally very happy.
+509,Horn Attack,Normal,Physical,25,7,100%,1,—
+510,Horn Drill,Normal,Physical,5,N/A,30%,1,"One-Hit-KO, if it hits."
+511,Howl,Normal,Status,40,N/A,—,Self,Raises Attack of allies.
+512,Hyper Beam,Normal,Special,5,15,90%,10,User must recharge next turn.
+513,Hyper Drill,Normal,Physical,5,10,100%,1D,Can strike through Protect/Detect.
+514,Hyper Fang,Normal,Physical,15,8,90%,1,May cause flinching.
+515,Hyper Voice,Normal,Special,10,9,100%,Burst,—
+516,Judgment,Normal,Special,10,10,100%,Room,Type depends on the Arceus Plate being held.
+517,Laser Focus,Normal,Status,30,N/A,—,Self,User's next attack is guaranteed to result in a critical hit.
+518,Last Resort,Normal,Physical,5,14,100%,1,Can only be used after all other moves are used.
+519,Leer,Normal,Status,30,N/A,100%,1,Lowers opponent's Defense.
+520,Lock-On,Normal,Status,5,N/A,—,Self,User's next attack is guaranteed to hit.
+521,Lovely Kiss,Normal,Status,10,N/A,75%,1,Puts opponent to sleep.
+522,Lucky Chant,Normal,Status,30,N/A,—,Allies,Opponent cannot land critical hits for 5 turns.
+523,Max Guard,Normal,Status,10,N/A,—,Self,Status category Dynamax move. Protects the user.
+524,Me First,Normal,Status,20,N/A,—,1,User copies the opponent's attack with 1.5× power.
+525,Mean Look,Normal,Status,5,N/A,—,1,Opponent cannot flee or switch.
+526,Mega Kick,Normal,Physical,5,12,75%,1,—
+527,Mega Punch,Normal,Physical,20,8,85%,1,—
+528,Metronome,Normal,Status,10,N/A,—,Self,User performs almost any move in the game at random.
+529,Milk Drink,Normal,Status,5,N/A,—,Allies,User recovers half its max HP.
+530,Mimic,Normal,Status,10,N/A,—,1,Copies the opponent's last move.
+531,Mind Reader,Normal,Status,5,N/A,—,Self,User's next attack is guaranteed to hit.
+532,Minimize,Normal,Status,10,N/A,—,Self,Sharply raises user's Evasiveness.
+533,Morning Sun,Normal,Status,5,N/A,—,Allies,User recovers HP. Amount varies with the weather.
+534,Multi-Attack,Normal,Physical,10,12,100%,1,Type matches Memory item held.
+535,Natural Gift,Normal,Physical,15,N/A,100%,1,Power and type depend on the user's held berry.
+536,Nature Power,Normal,Status,20,N/A,—,Self,Uses a certain move based on the current terrain.
+537,Noble Roar,Normal,Status,30,N/A,100%,1,Lowers opponent's Attack and Special Attack.
+538,Odor Sleuth,Normal,Status,40,N/A,—,Room,"Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts."
+539,Pain Split,Normal,Status,20,N/A,—,1,The user's and opponent's HP becomes the average of both.
+540,Pay Day,Normal,Physical,20,4,100%,1D,Money is earned after the battle.
+541,Perish Song,Normal,Status,5,N/A,—,Floor,Any Pokémon in play when this attack is used faints in 3 turns.
+542,Play Nice,Normal,Status,20,N/A,—,1,Lowers opponent's Attack. Always hits.
+543,Population Bomb,Normal,Physical,10,2,90%,1D,Hits 1-10 times in a row.
+544,Pound,Normal,Physical,35,4,100%,1,—
+545,Power Shift,Normal,Status,10,N/A,—,Self,Switches Attack and Defense stats.
+546,Present,Normal,Physical,15,N/A,90%,1D,Either deals damage or heals.
+547,Protect,Normal,Status,10,N/A,—,Self,"Protects the user, but may fail if used consecutively."
+548,Psych Up,Normal,Status,10,N/A,—,1,Copies the opponent's stat changes.
+549,Quick Attack,Normal,Physical,30,4,100%,2,User attacks first.
+550,Rage,Normal,Physical,20,2,100%,1,Raises user's Attack when hit.
+551,Raging Bull,Normal,Physical,10,9,100%,1,Type depends on the user’s form. Breaks through Reflect and Light Screen barriers.
+552,Rapid Spin,Normal,Physical,40,5,100%,1,Raises user's Speed and removes entry hazards and trap move effects.
+553,Razor Wind,Normal,Special,10,8,100%,Room,"Charges on first turn, attacks on second. High critical hit ratio."
+554,Recover,Normal,Status,5,N/A,—,Self,User recovers half its max HP.
+555,Recycle,Normal,Status,10,N/A,—,Self,User's used hold item is restored.
+556,Reflect Type,Normal,Status,15,N/A,—,1,User becomes the target's type.
+557,Refresh,Normal,Status,20,N/A,—,Allies,"Cures paralysis, poison, and burns."
+558,Relic Song,Normal,Special,10,8,100%,10,May put the target to sleep.
+559,Retaliate,Normal,Physical,5,7,100%,1,Inflicts double damage if a teammate fainted on the last turn.
+560,Return,Normal,Physical,20,N/A,100%,1,Power increases with higher Friendship.
+561,Revelation Dance,Normal,Special,15,9,100%,1,Type changes based on Oricorio's form.
+562,Revival Blessing,Normal,Status,1,N/A,—,1,Revives a fainted party Pokémon to half HP.
+563,Roar,Normal,Status,20,N/A,—,1,"In battles, the opponent switches. In the wild, the Pokémon runs."
+564,Rock Climb,Normal,Physical,20,9,85%,1,May confuse opponent.
+565,Round,Normal,Special,15,6,100%,1,Power increases if teammates use it in the same turn.
+566,Safeguard,Normal,Status,25,N/A,—,Allies,The user's party is protected from status conditions.
+567,Scary Face,Normal,Status,10,N/A,100%,1,Sharply lowers opponent's Speed.
+568,Scratch,Normal,Physical,35,4,100%,1,—
+569,Screech,Normal,Status,40,N/A,85%,1D,Sharply lowers opponent's Defense.
+570,Secret Power,Normal,Physical,20,7,100%,1,Effects of the attack vary with the location.
+571,Self-Destruct,Normal,Physical,5,20,100%,Burst,User faints.
+572,Sharpen,Normal,Status,30,N/A,—,Self,Raises user's Attack.
+573,Shed Tail,Normal,Status,10,N/A,—,Self,"Creates a substitute, then swaps places with a party Pokémon in waiting."
+574,Shell Smash,Normal,Status,15,N/A,—,Self,"Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense."
+575,Simple Beam,Normal,Status,15,N/A,100%,10,Changes target's ability to Simple.
+576,Sing,Normal,Status,15,N/A,55%,1D,Puts opponent to sleep.
+577,Sketch,Normal,Status,1,N/A,—,1,Permanently copies the opponent's last move.
+578,Skull Bash,Normal,Physical,10,13,100%,1,"Raises Defense on first turn, attacks on second."
+579,Slack Off,Normal,Status,5,N/A,—,Self,User recovers half its max HP.
+580,Slam,Normal,Physical,20,8,75%,1,—
+581,Slash,Normal,Physical,20,7,100%,1,High critical hit ratio.
+582,Sleep Talk,Normal,Status,10,N/A,—,Self,User performs one of its own moves while sleeping.
+583,Smelling Salts,Normal,Physical,10,7,100%,1,"Power doubles if opponent is paralyzed, but cures it."
+584,Smokescreen,Normal,Status,20,N/A,100%,1D,Lowers opponent's Accuracy.
+585,Snore,Normal,Special,15,5,100%,Burst,Can only be used if asleep. May cause flinching.
+586,Soft-Boiled,Normal,Status,5,N/A,—,Allies,User recovers half its max HP.
+587,Sonic Boom,Normal,Special,20,N/A,90%,1D,Always inflicts 2— HP.
+588,Spike Cannon,Normal,Physical,15,2,100%,10,Hits 2-5 times in one turn.
+589,Spit Up,Normal,Special,10,N/A,100%,1D,Power depends on how many times the user performed Stockpile.
+590,Splash,Normal,Status,40,N/A,—,Self,Doesn't do ANYTHING.
+591,Spotlight,Normal,Status,15,N/A,—,1,The user shines a spotlight on the target so that only the target will be attacked during the turn.
+592,Stockpile,Normal,Status,20,N/A,—,Self,Stores energy for use with Spit Up and Swallow.
+593,Stomp,Normal,Physical,20,7,100%,1,May cause flinching.
+594,Strength,Normal,Physical,15,8,100%,1,—
+595,Struggle,Normal,Physical,1,5,—,1,Only usable when all PP are gone. Hurts the user.
+596,Stuff Cheeks,Normal,Status,10,N/A,—,Self,"The user eats its held Berry, then sharply raises its Defense stat."
+597,Substitute,Normal,Status,10,N/A,—,Self,Uses HP to creates a decoy that takes hits.
+598,Super Fang,Normal,Physical,10,N/A,90%,1,Always takes off half of the opponent's HP.
+599,Supersonic,Normal,Status,20,N/A,55%,1D,Confuses opponent.
+600,Swagger,Normal,Status,15,N/A,85%,1,"Confuses opponent, but sharply raises its Attack."
+601,Swallow,Normal,Status,10,N/A,—,Self,"The more times the user has performed Stockpile, the more HP is recovered."
+602,Sweet Scent,Normal,Status,20,N/A,100%,Room,Lowers opponent's Evasiveness.
+603,Swift,Normal,Special,20,6,—,1D,Ignores Accuracy and Evasiveness.
+604,Swords Dance,Normal,Status,20,N/A,—,Self,Sharply raises user's Attack.
+605,Tackle,Normal,Physical,35,4,100%,1,—
+606,Tail Slap,Normal,Physical,10,3,85%,1,Hits 2-5 times in one turn.
+607,Tail Whip,Normal,Status,30,N/A,100%,1,Lowers opponent's Defense.
+608,Take Down,Normal,Physical,20,9,85%,1,User receives recoil damage.
+609,Tearful Look,Normal,Status,20,N/A,—,1,The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.
+610,Teatime,Normal,Status,10,N/A,—,Room,Forces all Pokémon on the field to eat their berries.
+611,Techno Blast,Normal,Special,5,12,100%,10,Type depends on the Drive being held.
+612,Teeter Dance,Normal,Status,20,N/A,100%,All Room,Confuses all Pokémon.
+613,Tera Blast,Normal,Special,10,8,100%,1,Changes type when the user has Terastallized.
+614,Tera Starstorm,Normal,Special,5,12,100%,Room,—
+615,Terrain Pulse,Normal,Special,10,5,100%,1,Type and power change depending on the Terrain in effect.
+616,Thrash,Normal,Physical,10,12,100%,1,User attacks for 2-3 turns but then becomes confused.
+617,Tickle,Normal,Status,20,N/A,100%,1,Lowers opponent's Attack and Defense.
+618,Tidy Up,Normal,Status,10,N/A,—,Room,"Removes the effects of entry hazards and Substitute, and boosts user’s Attack and Speed."
+619,Transform,Normal,Status,10,N/A,—,2,User takes on the form and attacks of the opponent.
+620,Tri Attack,Normal,Special,10,8,100%,1D,"May paralyze, burn or freeze opponent."
+621,Trump Card,Normal,Special,5,N/A,—,1,"The lower the PP, the higher the power."
+622,Uproar,Normal,Special,10,9,100%,Room,User attacks for 3 turns and prevents sleep.
+623,Vise Grip,Normal,Physical,30,6,100%,1,—
+624,Weather Ball,Normal,Special,10,5,100%,10,Move's power and type changes with the weather.
+625,Whirlwind,Normal,Status,20,N/A,—,1,"In battles, the opponent switches. In the wild, the Pokémon runs."
+626,Wish,Normal,Status,10,N/A,—,Self,The user recovers HP in the following turn.
+627,Work Up,Normal,Status,30,N/A,—,Self,Raises user's Attack and Special Attack.
+628,Wrap,Normal,Physical,20,2,90%,1,"Traps opponent, damaging them for 4-5 turns."
+629,Wring Out,Normal,Special,5,N/A,100%,1,"The higher the opponent's HP, the higher the damage."
+630,Yawn,Normal,Status,10,N/A,—,1,Puts opponent to sleep in the next turn.
+631,Acid,Poison,Special,30,4,100%,1D,May lower opponent's Special Defense.
+632,Acid Armor,Poison,Status,20,N/A,—,Self,Sharply raises user's Defense.
+633,Acid Spray,Poison,Special,20,4,100%,1D,Sharply lowers opponent's Special Defense.
+634,Baneful Bunker,Poison,Status,10,N/A,—,Self,Protects the user and poisons opponent on contact.
+635,Barb Barrage,Poison,Physical,10,6,100%,2D,May poison opponent; inflicts double damage if the target is already poisoned.
+636,Belch,Poison,Special,10,12,90%,1D,User must have consumed a Berry.
+637,Clear Smog,Poison,Special,15,5,—,1,Removes all of the target's stat changes.
+638,Coil,Poison,Status,20,N/A,—,Self,"Raises user's Attack, Defense and Accuracy."
+639,Corrosive Gas,Poison,Status,40,N/A,100%,1,Removes opponent's items.
+640,Cross Poison,Poison,Physical,20,7,100%,1,High critical hit ratio. May poison opponent.
+641,Dire Claw,Poison,Physical,15,8,100%,1,"May poison, paralyze or put the opponent to sleep."
+642,Gastro Acid,Poison,Status,10,N/A,100%,1D,Cancels out the effect of the opponent's Ability.
+643,Gunk Shot,Poison,Physical,5,12,80%,10,May poison opponent.
+644,Malignant Chain,Poison,Special,5,10,100%,1,May poison the opponent.
+645,Mortal Spin,Poison,Physical,15,3,100%,1,"Removes entry hazards and trap move effects, and poisons opposing Pokémon."
+646,Noxious Torque,Poison,Physical,10,10,100%,1,May poison the opponent.
+647,Poison Fang,Poison,Physical,15,5,100%,1,May badly poison opponent.
+648,Poison Gas,Poison,Status,40,N/A,90%,1,Poisons opponent.
+649,Poison Jab,Poison,Physical,20,8,100%,1,May poison the opponent.
+650,Poison Powder,Poison,Status,35,N/A,75%,1,Poisons opponent.
+651,Poison Sting,Poison,Physical,35,2,100%,1D,May poison the opponent.
+652,Poison Tail,Poison,Physical,25,5,100%,1,High critical hit ratio. May poison opponent.
+653,Purify,Poison,Status,20,N/A,—,Burst,"The user heals the target's status condition. If the move succeeds, it also restores the user's own HP."
+654,Shell Side Arm,Poison,Special,10,9,100%,10,"May poison opponent. Inflicts either Special or Physical damage, whichever is better."
+655,Sludge,Poison,Special,20,7,100%,1D,May poison opponent.
+656,Sludge Bomb,Poison,Special,10,9,100%,10,May poison opponent.
+657,Sludge Wave,Poison,Special,10,10,100%,Burst,May poison opponent.
+658,Smog,Poison,Special,20,3,70%,1,May poison opponent.
+659,Toxic,Poison,Status,10,N/A,90%,1,Badly poisons opponent.
+660,Toxic Spikes,Poison,Status,20,N/A,—,5A,Poisons opponents switching into battle.
+661,Toxic Thread,Poison,Status,20,N/A,100%,10,Poisons opponent and lowers its Speed.
+662,Venom Drench,Poison,Status,20,N/A,100%,10,Lowers poisoned opponent's Special Attack and Speed.
+663,Venoshock,Poison,Special,10,7,100%,1,Inflicts double damage if the target is poisoned.
+664,Agility,Psychic,Status,30,N/A,—,Allies,Sharply raises user's Speed.
+665,Ally Switch,Psychic,Status,15,N/A,—,Self,User switches with opposite teammate.
+666,Amnesia,Psychic,Status,20,N/A,—,Self,Sharply raises user's Special Defense.
+667,Barrier,Psychic,Status,20,N/A,—,Self,Sharply raises user's Defense.
+668,Calm Mind,Psychic,Status,20,N/A,—,Self,Raises user's Special Attack and Special Defense.
+669,Confusion,Psychic,Special,25,5,100%,1,May confuse opponent.
+670,Cosmic Power,Psychic,Status,20,N/A,—,1,Raises user's Defense and Special Defense.
+671,Dream Eater,Psychic,Special,15,10,100%,1,User recovers half the HP inflicted on a sleeping opponent.
+672,Eerie Spell,Psychic,Special,5,8,100%,1,Deals damage and reduces opponent's PP.
+673,Esper Wing,Psychic,Special,10,8,100%,1,High critical hit ratio. Raises user's Speed.
+674,Expanding Force,Psychic,Special,10,8,100%,Room,Increases power and hits all opponents on Psychic Terrain.
+675,Extrasensory,Psychic,Special,20,8,100%,1,May cause flinching.
+676,Freezing Glare,Psychic,Special,10,9,100%,1,May freeze opponent.
+677,Future Sight,Psychic,Special,10,12,100%,1,Damage occurs 2 turns later.
+678,Gravity,Psychic,Status,5,N/A,—,Floor,Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+679,Guard Split,Psychic,Status,10,N/A,—,1D,Averages Defense and Special Defense with the target.
+680,Guard Swap,Psychic,Status,10,N/A,—,1D,User and opponent swap Defense and Special Defense.
+681,Heal Block,Psychic,Status,15,N/A,100%,Room,Prevents the opponent from restoring HP for 5 turns.
+682,Heal Pulse,Psychic,Status,10,N/A,—,10,Restores half the target's max HP.
+683,Healing Wish,Psychic,Status,10,N/A,—,Allies,The user faints and the next Pokémon released is fully healed.
+684,Heart Stamp,Psychic,Physical,25,6,100%,1,May cause flinching.
+685,Heart Swap,Psychic,Status,10,N/A,—,1D,Stat changes are swapped with the opponent.
+686,Hyperspace Hole,Psychic,Special,5,8,—,10,Can strike through Protect/Detect.
+687,Hypnosis,Psychic,Status,20,N/A,60%,1,Puts opponent to sleep.
+688,Imprison,Psychic,Status,10,N/A,—,Floor,Opponent is unable to use moves that the user also knows.
+689,Instruct,Psychic,Status,15,N/A,—,Self,Allows an ally to use a move instead.
+690,Kinesis,Psychic,Status,15,N/A,80%,1,Lowers opponent's Accuracy.
+691,Light Screen,Psychic,Status,30,N/A,—,Allies,Halves damage from Special attacks for 5 turns.
+692,Lumina Crash,Psychic,Special,10,8,100%,1,Harshly lowers target’s Special Defense.
+693,Lunar Blessing,Psychic,Status,5,N/A,—,Self,Heals user's status conditions and recovers HP.
+694,Lunar Dance,Psychic,Status,10,N/A,—,Allies,The user faints but the next Pokémon released is fully healed.
+695,Luster Purge,Psychic,Special,5,7,100%,Burst,May lower opponent's Special Defense.
+696,Magic Coat,Psychic,Status,15,N/A,—,Allies,Reflects moves that cause status conditions back to the attacker.
+697,Magic Powder,Psychic,Status,20,N/A,100%,Burst,Changes target's type to Psychic.
+698,Magic Room,Psychic,Status,10,N/A,—,Floor,Suppresses the effects of held items for five turns.
+699,Meditate,Psychic,Status,40,N/A,—,Self,Raises user's Attack.
+700,Miracle Eye,Psychic,Status,40,N/A,—,1,"Resets opponent's Evasiveness, removes Dark's Psychic immunity."
+701,Mirror Coat,Psychic,Special,20,N/A,100%,Self,"When hit by a Special Attack, user strikes back with 2x power."
+702,Mist Ball,Psychic,Special,5,7,100%,10,May lower opponent's Special Attack.
+703,Mystical Power,Psychic,Special,10,7,90%,1,Raises user's Special Attack.
+704,Photon Geyser,Psychic,Special,5,10,100%,2,"Uses Attack or Special Attack stat, whichever is higher."
+705,Power Split,Psychic,Status,10,N/A,—,1D,Averages Attack and Special Attack with the target.
+706,Power Swap,Psychic,Status,10,N/A,—,1D,User and opponent swap Attack and Special Attack.
+707,Power Trick,Psychic,Status,10,N/A,—,Self,User's own Attack and Defense switch.
+708,Prismatic Laser,Psychic,Special,10,16,100%,10P,The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.
+709,Psybeam,Psychic,Special,20,7,100%,10,May confuse opponent.
+710,Psyblade,Psychic,Physical,15,8,100%,1,Power increases on Electric Terrain.
+711,Psychic,Psychic,Special,10,9,100%,1,May lower opponent's Special Defense.
+712,Psychic Fangs,Psychic,Physical,10,9,100%,1,The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.
+713,Psychic Noise,Psychic,Special,10,8,100%,1D,Deals damage and prevents target from healing.
+714,Psychic Terrain,Psychic,Status,10,N/A,—,Floor,Prevents priority moves from being used for 5 turns.
+715,Psycho Boost,Psychic,Special,5,14,90%,10,Sharply lowers user's Special Attack.
+716,Psycho Cut,Psychic,Physical,20,7,100%,1D,High critical hit ratio.
+717,Psycho Shift,Psychic,Status,10,N/A,100%,1,Transfers user's status condition to the opponent.
+718,Psyshield Bash,Psychic,Physical,10,7,90%,1,Raises user's Defense and Special Defense.
+719,Psyshock,Psychic,Special,10,8,100%,1,"Inflicts damage based on the target's Defense, not Special Defense."
+720,Psystrike,Psychic,Special,10,10,100%,1,"Inflicts damage based on the target's Defense, not Special Defense."
+721,Psywave,Psychic,Special,15,N/A,100%,1D,Inflicts damage 5—-15—% of user's level.
+722,Reflect,Psychic,Status,20,N/A,—,Allies,Halves damage from Physical attacks for 5 turns.
+723,Rest,Psychic,Status,5,N/A,—,Self,"User sleeps for 2 turns, but user is fully healed."
+724,Role Play,Psychic,Status,10,N/A,—,1,User copies the opponent's Ability.
+725,Skill Swap,Psychic,Status,10,N/A,—,1D,The user swaps Abilities with the opponent.
+726,Speed Swap,Psychic,Status,10,N/A,—,1,The user exchanges Speed stats with the target.
+727,Stored Power,Psychic,Special,10,2,100%,1,Power increases when user's stats have been raised.
+728,Synchronoise,Psychic,Special,10,12,100%,Burst,Hits any Pokémon that shares a type with the user.
+729,Take Heart,Psychic,Status,15,N/A,—,Self,Heals user's status conditions and raises its stats.
+730,Telekinesis,Psychic,Status,15,N/A,—,1,"Ignores opponent's Evasiveness for three turns, add Ground immunity."
+731,Teleport,Psychic,Status,20,N/A,—,Self,Allows user to flee wild battles; also warps player to last PokéCenter.
+732,Trick,Psychic,Status,10,N/A,100%,1,Swaps held items with the opponent.
+733,Trick Room,Psychic,Status,5,N/A,—,Floor,Slower Pokémon move first in the turn for 5 turns.
+734,Twin Beam,Psychic,Special,10,4,100%,10,Hits twice in one turn.
+735,Wonder Room,Psychic,Status,10,N/A,—,Floor,Swaps every Pokémon's Defense and Special Defense for 5 turns.
+736,Zen Headbutt,Psychic,Physical,15,8,90%,1,May cause flinching.
+737,Accelerock,Rock,Physical,20,4,100%,2,User attacks first.
+738,Ancient Power,Rock,Special,5,6,100%,1D,May raise all user's stats at once.
+739,Diamond Storm,Rock,Physical,5,10,95%,Burst,May sharply raise user's Defense.
+740,Head Smash,Rock,Physical,5,15,80%,1,User receives recoil damage.
+741,Meteor Beam,Rock,Special,10,12,90%,10,"User gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn."
+742,Mighty Cleave,Rock,Physical,5,10,100%,1,—
+743,Power Gem,Rock,Special,20,8,100%,1D,—
+744,Rock Blast,Rock,Physical,10,3,90%,1D,Hits 2-5 times in one turn.
+745,Rock Polish,Rock,Status,20,N/A,—,Self,Sharply raises user's Speed.
+746,Rock Slide,Rock,Physical,10,8,90%,1,May cause flinching.
+747,Rock Throw,Rock,Physical,15,5,90%,1,—
+748,Rock Tomb,Rock,Physical,15,6,95%,1,Lowers opponent's Speed.
+749,Rock Wrecker,Rock,Physical,5,15,90%,10,User must recharge next turn.
+750,Rollout,Rock,Physical,20,3,90%,1,Doubles in power each turn for 5 turns.
+751,Salt Cure,Rock,Physical,15,4,100%,1,Deals damage each turn; Steel and Water types are more affected.
+752,Sandstorm,Rock,Status,10,N/A,—,Floor,Creates a sandstorm for 5 turns.
+753,Smack Down,Rock,Physical,15,5,100%,1,Makes Flying-type Pokémon vulnerable to Ground moves.
+754,Stealth Rock,Rock,Status,20,N/A,—,5A,Damages opponents switching into battle.
+755,Stone Axe,Rock,Physical,15,7,90%,1,Sets up Stealth Rock.
+756,Stone Edge,Rock,Physical,5,10,80%,1,High critical hit ratio.
+757,Tar Shot,Rock,Status,15,N/A,100%,10,Lowers the opponent's Speed and makes them weaker to Fire-type moves.
+758,Wide Guard,Rock,Status,10,N/A,—,Allies,Protects the user's team from multi-target attacks.
+759,Anchor Shot,Steel,Physical,20,8,100%,2D,The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.
+760,Autotomize,Steel,Status,15,N/A,—,Self,Reduces weight and sharply raises Speed.
+761,Behemoth Bash,Steel,Physical,5,10,100%,1,Damage doubles if target is Dynamaxed.
+762,Behemoth Blade,Steel,Physical,5,10,100%,1,Damage doubles if target is Dynamaxed.
+763,Bullet Punch,Steel,Physical,30,4,100%,2,User attacks first.
+764,Doom Desire,Steel,Special,5,14,100%,Room,Damage occurs 2 turns later.
+765,Double Iron Bash,Steel,Physical,5,6,100%,1,Hits twice in one turn; may cause flinching.
+766,Flash Cannon,Steel,Special,10,8,100%,1,May lower opponent's Special Defense.
+767,Gear Grind,Steel,Physical,15,5,85%,1,Hits twice in one turn.
+768,Gear Up,Steel,Status,20,N/A,—,Self,The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.
+769,Gigaton Hammer,Steel,Physical,5,16,100%,1,Cannot be used twice in a row.
+770,Gyro Ball,Steel,Physical,5,N/A,100%,1,"The slower the user, the stronger the attack."
+771,Hard Press,Steel,Physical,10,N/A,100%,1,—
+772,Heavy Slam,Steel,Physical,10,N/A,100%,1,"The heavier the user, the stronger the attack."
+773,Iron Defense,Steel,Status,15,N/A,—,Self,Sharply raises user's Defense.
+774,Iron Head,Steel,Physical,15,8,100%,1,May cause flinching.
+775,Iron Tail,Steel,Physical,15,10,75%,1,May lower opponent's Defense.
+776,King's Shield,Steel,Status,10,N/A,—,Self,Protects the user and lowers opponent's Attack on contact.
+777,Magnet Bomb,Steel,Physical,20,6,—,1,Ignores Accuracy and Evasiveness.
+778,Make It Rain,Steel,Special,5,12,100%,1,Lowers user's Special Attack. Money is earned after the battle.
+779,Metal Burst,Steel,Physical,10,N/A,100%,Self,Deals damage equal to 1.5x opponent's attack.
+780,Metal Claw,Steel,Physical,35,5,95%,1,May raise user's Attack.
+781,Metal Sound,Steel,Status,40,N/A,85%,1D,Sharply lowers opponent's Special Defense.
+782,Meteor Mash,Steel,Physical,10,9,90%,1,May raise user's Attack.
+783,Mirror Shot,Steel,Special,10,7,85%,1D,May lower opponent's Accuracy.
+784,Shelter,Steel,Status,10,N/A,—,Self,Raises user's Defense.
+785,Shift Gear,Steel,Status,10,N/A,—,Self,Raises user's Attack and sharply raises Speed.
+786,Smart Strike,Steel,Physical,10,7,—,1D,The user stabs the target with a sharp horn. This attack never misses.
+787,Spin Out,Steel,Physical,5,10,100%,Burst,Harshly lowers user’s Speed.
+788,Steel Beam,Steel,Special,5,14,95%,10,User loses 50% of its HP.
+789,Steel Roller,Steel,Physical,5,13,100%,1,Fails if no Terrain in effect.
+790,Steel Wing,Steel,Physical,25,7,90%,1,May raise user's Defense.
+791,Sunsteel Strike,Steel,Physical,5,10,100%,2,Ignores the target's ability.
+792,Tachyon Cutter,Steel,Special,10,5,—%,1,Guaranteed to hit twice in a row.
+793,Aqua Cutter,Water,Physical,20,7,100%,10,High critical hit ratio.
+794,Aqua Jet,Water,Physical,20,4,100%,2,User attacks first.
+795,Aqua Ring,Water,Status,20,N/A,—,Self,Restores a little HP each turn.
+796,Aqua Step,Water,Physical,10,8,100%,1,Raises user's Speed.
+797,Aqua Tail,Water,Physical,10,9,90%,1,—
+798,Brine,Water,Special,10,7,100%,1,Power doubles if opponent's HP is less than 5—%.
+799,Bubble,Water,Special,30,4,100%,10,May lower opponent's Speed.
+800,Bubble Beam,Water,Special,20,7,100%,10,May lower opponent's Speed.
+801,Chilling Water,Water,Special,20,5,100%,1,Lowers opponent's Attack.
+802,Clamp,Water,Physical,15,4,85%,1,"Traps opponent, damaging them for 4-5 turns."
+803,Crabhammer,Water,Physical,10,10,90%,1,High critical hit ratio.
+804,Dive,Water,Physical,10,8,100%,1,"Dives underwater on first turn, attacks on second turn."
+805,Fishious Rend,Water,Physical,10,9,100%,1,"If the user attacks before the target, the power of this move is doubled."
+806,Flip Turn,Water,Physical,20,6,100%,2,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+807,Hydro Cannon,Water,Special,5,15,90%,10P,User must recharge next turn.
+808,Hydro Pump,Water,Special,5,11,80%,10P,—
+809,Hydro Steam,Water,Special,15,8,100%,1,Power increases in harsh sunlight.
+810,Jet Punch,Water,Physical,15,6,100%,2,Always goes first.
+811,Life Dew,Water,Status,10,N/A,—,Allies,User and teammates recover HP.
+812,Liquidation,Water,Physical,10,9,100%,10,May lower opponent's Defense.
+813,Muddy Water,Water,Special,10,9,85%,All Room,May lower opponent's Accuracy.
+814,Octazooka,Water,Special,10,7,85%,10,May lower opponent's Accuracy.
+815,Origin Pulse,Water,Special,10,11,85%,Burst,Hits all adjacent opponents.
+816,Rain Dance,Water,Status,5,N/A,—,Floor,Makes it rain for 5 turns.
+817,Razor Shell,Water,Physical,10,8,95%,1,May lower opponent's Defense.
+818,Scald,Water,Special,15,8,100%,1D,May burn opponent.
+819,Snipe Shot,Water,Special,15,8,100%,10,Ignores moves and abilities that draw in moves. High critical hit ratio.
+820,Soak,Water,Status,20,N/A,100%,1,Changes the target's type to water.
+821,Sparkling Aria,Water,Special,10,9,100%,2D,Heals the burns of its target.
+822,Steam Eruption,Water,Special,5,11,95%,1,May burn opponent.
+823,Surf,Water,Special,15,9,100%,All Room,Hits all adjacent Pokémon.
+824,Surging Strikes,Water,Physical,5,3,100%,1,Always results in a critical hit and ignores stat changes.
+825,Triple Dive,Water,Physical,10,3,95%,1,Hits 3 times in a row.
+826,Water Gun,Water,Special,25,4,100%,2D,—
+827,Water Pledge,Water,Special,10,8,100%,1,Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+828,Water Pulse,Water,Special,20,6,100%,10,May confuse opponent.
+829,Water Shuriken,Water,Special,20,2,100%,2D,Hits 2-5 times in one turn.
+830,Water Sport,Water,Status,15,N/A,—,Floor,Weakens the power of Fire-type moves.
+831,Water Spout,Water,Special,5,15,100%,Burst,"The higher the user's HP, the higher the damage caused."
+832,Waterfall,Water,Physical,15,8,100%,1,May cause flinching.
+833,Wave Crash,Water,Physical,10,12,100%,1D,User receives recoil damage.
+834,Whirlpool,Water,Special,15,4,85%,1,"Traps opponent, damaging them for 4-5 turns."
+835,Withdraw,Water,Status,40,N/A,—,Self,Raises user's Defense.

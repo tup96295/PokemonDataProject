@@ -1,0 +1,237 @@
+{
+  "name": "Shuckle",
+  "alias": "shuckle",
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "stats": [
+    20,
+    10,
+    230,
+    10,
+    230,
+    5
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sticky Web (Rock)",
+          "pokemon": "Shuckle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Shuckle is an essential member of any hyper offensive Rock team due to its access to Sticky Web, which allows teammates such as <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> and <a href=\"/dex/sv/pokemon/terrakion/national-dex-monotype/\" hreflang=\"en\">Terrakion</a> to dominate the Steel and Dark matchups. With Mental Herb, it isn't scared to set up entry hazards in front of common Taunt users such as <a href=\"/dex/sv/pokemon/deoxys-speed/national-dex-monotype/\" hreflang=\"en\">Deoxys-S</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a>. Encore shuts down setup sweepers such as <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> and bulky walls such as <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, locking them into their setup and recovery moves. Shuckle can generate momentum after setting up hazards by using Final Gambit, allowing teammates such as Shell Smash <a href=\"/dex/sv/pokemon/omastar/national-dex-monotype/\" hreflang=\"en\">Omastar</a>, Mega Diancie, and Choice Band <a href=\"/dex/sv/pokemon/tyranitar/national-dex-monotype/\" hreflang=\"en\">Tyranitar</a> to come in and start exerting pressure. Toxic can also be used to punish more passive Pokemon such as <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a> and Hippowdon. Mega Diancie can bounce back any hazards or status moves directed at Shuckle and provides amazing offensive pressure and coverage against Poison-, Steel-, and Dragon-types. Sticky Web allows Choice Band Tyranitar to outspeed Choice Specs <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a>, both of which are threats to Rock. Omastar and <a href=\"/dex/sv/pokemon/minior/national-dex-monotype/\" hreflang=\"en\">Minior</a> benefit from Stealth Rock breaking potential Focus Sashes and are great partners to have in the Grass and Fighting matchups. Thanks to Sticky Web, Omastar outspeeds Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a> after one shell smash and +1 Spe <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a> outspeeds <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a> in the rain. Power Herb Nihilego is able to sweep teams as well with Meteor Beam and amazing coverage. Thanks to Sticky Web, Choice Scarf Terrakion outspeeds Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, which are threats to Rock teams. <a href=\"/dex/sv/pokemon/arcanine-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Arcanine</a> is able to deal massive damage, OHKOing Pokemon such as Choice Scarf <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>, and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> after Stealth Rock.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Mental Herb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 623713,
+            "username": "Don Bork"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 547532,
+                "username": "Swiffix"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Suicide Lead",
+          "pokemon": "Shuckle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Shuckle is an extremely passive Pokemon with a poor typing, preventing it from contributing much mid-game. However, thanks to its decent bulk, great ability in Sturdy, and ways to maintain momentum in Final Gambit and Encore, it is an excellent suicide lead for hyper offense teams.</p>\n</li>\n<li>\n<p>Final Gambit allows Shuckle to safely bring in an ally such as <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a> or <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> after entry hazards are set.</p>\n</li>\n<li>\n<p>Encore prevents Shuckle from being easily set up on by threats such as Arceus-Ground, Zacian-C, and <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a> while additionally providing switch-in opportunities for teammates.</p>\n</li>\n<li>\n<p>The given EV spread allows Shuckle to avoid a 2HKO from Life Orb <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>'s Dark Pulse, preventing the latter from denying Sticky Web with flinches. The rest is dumped into Defense.</p>\n</li>\n<li>\n<p>Tera Steel blocks Mortal Spin attempts from <a href=\"/dex/sv/pokemon/glimmora/national-dex-ubers/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/smeargle/national-dex-ubers/\" hreflang=\"en\">Smeargle</a>. However, Terastallizing Shuckle should not be done in most cases unless the opponent has no other form of entry hazard removal. This means Tera Steel is only useful against opposing hyper offense teams with these Mortal Spin leads, as balance and stall teams usually have other hazard removal means like <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a> and <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> that Shuckle cannot block.</p>\n</li>\n<li>\n<p>Shuckle should prioritize getting Sticky Web up against opposing hyper offense, offense, and balance teams. Against slower teams such as stall and Trick Room teams, Stealth Rock is more useful. Though, setting entry hazards up against Trick Room teams is harder due to <a href=\"/dex/sv/pokemon/hatterene/national-dex-ubers/\" hreflang=\"en\">Hatterene</a>. The best play is to lead with <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a> instead, as it can burn Hatterene's Trick Room turns thanks to its resistance to <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a>'s and <a href=\"/dex/sv/pokemon/melmetal/national-dex-ubers/\" hreflang=\"en\">Melmetal</a>'s STAB moves. Shuckle should instead attempt to set Stealth Rock up against Calyrex-I, burning a turn of Trick Room in the process.</p>\n</li>\n<li>\n<p>If Shuckle survives the first few turns by letting a teammate in with Encore, it can continue to provide value by being sacrificed to safely switch in a teammate or to burn a turn of Trick Room from Hatterene or Psychic Terrain from <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-ubers/\" hreflang=\"en\">Tapu Lele</a>.</p>\n</li>\n<li>\n<p>Pokemon that appreciate Sticky Web support from Shuckle like Swords Dance <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> formes, Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, and <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> make excellent teammates.</p>\n</li>\n<li>\n<p>Shuckle cannot keep entry hazards up against common Defoggers such as Giratina-O, Yveltal, and Ho-Oh due to its passivity, so teammates that can threaten these Pokemon such as Zacian-C and Meteor Beam Eternatus are appreciated.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Mental Herb"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 136,
+              "spa": 0,
+              "spd": 124,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652323,
+            "username": "Anchor9"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

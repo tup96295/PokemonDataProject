@@ -1,0 +1,1491 @@
+{
+  "name": "Torkoal",
+  "alias": "torkoal",
+  "types": [
+    "Fire"
+  ],
+  "stats": [
+    70,
+    85,
+    140,
+    85,
+    70,
+    20
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Drought and a number of utility options, Torkoal is OU's best option for a sun setter. Rapid Spin and Stealth Rock grant Torkoal excellent role compression as both an entry hazard remover and setter that can threaten other common leads like <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> with Lava Plume while also being naturally slower than both <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/pelipper/ou/\" hreflang=\"en\">Pelipper</a>, ensuring that sun is the weather that stays up in the lead matchup. Will-O-Wisp can cripple physical attackers like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> looking to scare Torkoal out and use it as setup fodder without fully relying on Lava Plume's burn chance. A physically defensive EV spread lets Torkoal easily take hits from common threats like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, but a specially defensive EV spread can instead help bolster Torkoal's middling Special Defense against the likes of <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Though Torkoal is rarely the choice to be Terastallized, Tera Flying can be used to remove its Ground-type weakness versus Pokemon like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and Great Tusk, while Tera Grass is an all-around solid defensive typing that greatly improves its matchups against Pokemon like Ogerpon-W and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> while still maintaining a good matchup against the aforementioned Ground-types.</p>\n<p>Torkoal should only be used on sun teams, where wallbreakers like <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> take great advantage of the sun to activate Protosynthesis and power up their Fire-type moves and Hydro Steam. <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> is also an appreciated addition to sun teams to threaten Water-types like Ogerpon-W and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. <a href=\"/dex/sv/pokemon/lilligant-hisui/ou/\" hreflang=\"en\">Hisuian Lilligant</a> is also a strong late-game cleaner on sun teams, helping check Ground-types while significantly improving the often difficult matchup against <a href=\"/dex/sv/pokemon/iron-boulder/ou/\" hreflang=\"en\">Iron Boulder</a> thanks to outspeeding it with Chlorophyll active, and <a href=\"/dex/sv/pokemon/venusaur/ou/\" hreflang=\"en\">Venusaur</a> can also serve as a slower if slightly bulkier Chlorophyll sweeper. Because Torkoal's primary role is to set sun, it appreciates teammates like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and Eject Button <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> that can switch into Knock Off and allow it to keep its Heat Rock. Despite also serving as an entry hazard remover, Torkoal is weak to Stealth Rock and lacks any form of reliable recovery, so it benefits from secondary removal support from teammates like Great Tusk and Iron Treads. Hatterene is a great teammate that can serve as a tertiary form of hazard control with Magic Bounce, help keep its own threats healthy with Healing Wish, and check common Ground-types like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and Great Tusk with Calm Mind sets.</p>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heat Rock"
+          ],
+          "teratypes": [
+            "Flying",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold",
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 439018,
+            "username": "Maia"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 408271,
+                "username": "Dreadfury"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 493260,
+                "username": "Marnie"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Torkoal is a solid weather setter in the RU metagame, using its great physical bulk and utility to establish sun and provide entry hazard control for its typically frail teammates. While it competes directly with <a href=\"/dex/sv/pokemon/ninetales/ru/\" hreflang=\"en\">Ninetales</a> for the role of sun setter, Torkoal carves out a niche because of its access to both Stealth Rock and Rapid Spin, providing great role compression and allowing sun teams to stack more offensive options like <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a>, <a href=\"/dex/sv/pokemon/slither-wing/ru/\" hreflang=\"en\">Slither Wing</a>, and <a href=\"/dex/sv/pokemon/venusaur/ru/\" hreflang=\"en\">Venusaur</a>. It can also leverage its great Defense stat to use the powerful Fighting-type attack Body Press, which threatens the most common spinner in the metagame in <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>. While Torkoal is quite bulky physically, it does struggle to tank many special attacks, with common Choice Specs wallbreakers like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> all threatening OHKOs, which can make it difficult to reliably establish and maintain hazards.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Torkoal can use Solar Beam to nail Water-types like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. Earth Power lets Torkoal hit opposing Torkoal and <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a> super effectively. Will-O-Wisp can catch physical setup sweepers like <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a> and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> by surprise. Choice Specs Eruption sets can fit on Trick Room teams, blowing through would-be checks like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and Slowbro with Tera Fire, though Trick Room teams are not a reliable playstyle in this tier. Torkoal can opt to use Shell Smash in conjunction with an Eject Pack, allowing Copycat users like <a href=\"/dex/sv/pokemon/espeon/ru/\" hreflang=\"en\">Espeon</a> to secure an enormous boost.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Opposing Weather</strong>: <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> is inarguably the best weather setter in the tier and can effectively switch into and threaten Torkoal. <a href=\"/dex/sv/pokemon/politoed/ru/\" hreflang=\"en\">Politoed</a> rain can also outmuscle Torkoal with its strong team members like Basculegion-F and <a href=\"/dex/sv/pokemon/kilowattrel/ru/\" hreflang=\"en\">Kilowattrel</a>.</p>\n<p><strong>Special Wallbreakers</strong>: Despite sponging physical attacks comfortably, Torkoal is threatened by nearly every special wallbreaker in the tier, such as <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and Basculegion-F.</p>\n<p><strong>Water-types</strong>: Gyarados, Slowbro, and Volcanion can comfortably sponge non-Solar Beam attacks from Torkoal. <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a> can threaten Knock Off to remove Heat Rock and Surf that is still threatening under sun. Substitute + Calm Mind <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a> can use Torkoal as setup fodder with ease, burning sun turns in the process.</p>",
+      "movesets": [
+        {
+          "name": "Sun Support",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Torkoal can function as the primary Stealth Rock user on sun teams because of its immense physical bulk, allowing it to establish entry hazards while sponging attacks for its teammates. Lava Plume is used to potentially spread burns, which can help whittle specially defensive walls like <a href=\"/dex/sv/pokemon/fezandipiti/ru/\" hreflang=\"en\">Fezandipiti</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> down and cripple physical attackers like <a href=\"/dex/sv/pokemon/rhyperior/ru/\" hreflang=\"en\">Rhyperior</a> and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>. Body Press uses Torkoal's enormous Defense stat to nail <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, and Hisuian Goodra. Heat Rock is used to extend the duration of sun, though it does make Torkoal susceptible to hazard chip damage. Tera Ghost is used to spinblock against Cyclizar in an emergency and provide an immunity to Fighting-type attacks from Choice-locked <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>.</p>\n<p>While Torkoal is often found on sun teams, it can also fit on bulky offense teams that want to maximize the output of another great sun team member, <a href=\"/dex/sv/pokemon/slither-wing/ru/\" hreflang=\"en\">Slither Wing</a>. Slither Wing is an especially valuable teammate, using sun to active Protosynthesis and improve the recovery granted by Morning Sun, making offensive pivot sets quite effective at wallbreaking and pivoting. Offensive Chlorophyll Pokemon, like <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a> and <a href=\"/dex/sv/pokemon/venusaur/ru/\" hreflang=\"en\">Venusaur</a>, can enter the field and provide immediate wallbreaking power while also having the potential to snowball as setup sweepers. Other defensive partners like Eject Button <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> can be used to provide safe pivots into these offensive teammates, maximizing the amount of sun turns while using Regenerator to recover the damage taken. Bulky offense teammates that can use the sun to their advantage include <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> and <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>, which can threaten massive damage while sun is active, as both are comfortably able to 2HKO even Fire-resistant Pokemon like <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a>.</p>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heat Rock"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 8,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 231398,
+                "username": "feen"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Torkoal is an excellent choice for sun-based Fire teams thanks to its valuable role compression that consists of setting up sun and Stealth Rock, removing entry hazards, and tanking physical attacks. Lava Plume provides decent damage and a high chance to burn, which proves particularly useful against physical attackers like <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. Body Press allows Torkoal to make use of its high Defense to heavily damage the likes of <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a> as well as preventing <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> from setting up freely and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> from switching in freely. Heavy-Duty Boots greatly increases Torkoal's longevity, while Heat Rock provides more turns of sun for setup allies to benefit from, such as Morning Sun <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>. If using Heavy-Duty Boots, getting fewer turns of sun also allows Fire teams to better manage opposing Protosynthesis sweepers, such as <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> or <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>.</p>\n<p><a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> is an excellent wallbreaker under sun that greatly threatens Water. Thanks to its ability to wallbreak past <a href=\"/dex/sv/pokemon/dondozo/monotype/\" hreflang=\"en\">Dondozo</a> due to Mold Breaker, Ogerpon-H pairs well with other teammates naturally as it checks Dondozo with Mold Breaker. <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> provides valuable speed control with Shadow Sneak, allowing it to deal with troublesome threats to Fire teams such as Flutter Mane and Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>. These sweepers also greatly appreciate Torkoal’s Stealth Rock support. Volcarona benefits from Torkoal’s sun support, as the additional healing with sun-boosted Morning Sun and weakening of Water-type moves from <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a> greatly eases its ability to set up; in return, Volcarona deals with walls such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. Flame Body can also be useful to cripple threats like <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>. Choice Scarf <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> is an excellent check to Walking Wake and Great Tusk with a Speed boost from Protosynthesis; it can also be an excellent late-game cleaner against Steel and Fairy once checks such as Heatran and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> are removed. <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> can aid Torkoal in keeping off hazards with Court Change. Pyro Ball under sun also forces a lot of switches, which allows Cinderace to use U-turn to safely pivot in wallbreakers. Torkoal appreciates <a href=\"/dex/sv/pokemon/rotom-heat/monotype/\" hreflang=\"en\">Rotom-H</a>, as its Ground immunity combined with Volt Switch allows it to easily switch in for Torkoal and safely pivot in a sweeper.</p>\n<h4>Other Options</h4>\n<p>Yawn can be used over Body Press to force switches, allowing Torkoal to freely bring a teammate that can benefit from sun.</p>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Heat Rock"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 547532,
+            "username": "Swiffix"
+          },
+          {
+            "user_id": 652323,
+            "username": "Anchor9"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 305839,
+                "username": "Rio Vidal"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 517429,
+                "username": "Adeleine"
+              },
+              {
+                "user_id": 652656,
+                "username": "Gambit"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "TR Attacker",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set as we work on proper analyses. Stay tuned!</p>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Charcoal",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!</p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-f-dex-updates-and-suggestions.3734864/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Support",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Torkoal's Drought and disruption support helps set up heavy-hitting Protosynthesis users like <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/gouging-fire/battle-stadium-singles/\" hreflang=\"en\">Gouging Fire</a>.</p>\n</li>\n<li>\n<p><strong>Overheat versus Lava Plume</strong>: Overheat with Eject Pack lets Torkoal act as a one-use pivot to safely let good sun teammates in. If running Heat Rock as Torkoal's item instead, Lava Plume is used for the consistent damage and decent burn chance.</p>\n</li>\n<li>\n<p><strong>Solar Beam</strong>: Solar Beam takes advantage of Drought to let Torkoal pressure offensive Water-types like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>.</p>\n</li>\n<li>\n<p><strong>Gyro Ball</strong>: Torkoal makes excellent use of a slow Gyro Ball and can surprise semi-bulky Flutter Mane that try to use Taunt against it with a potential OHKO.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Clear Smog</strong>: Clear Smog allows Torkoal to disrupt opposing setup while still attacking. However, its weak Base Power usually means it does not fix Yawn's problem of being weak against Substitute.</p>\n</li>\n<li>\n<p><strong>Fissure</strong>: Torkoal's great defensive profile complements Fissure well, sometimes allowing it to bail itself and its team out of a bad matchup.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Torkoal's high bulk and support focus means that it normally saves Terastallization for its teammates.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass flips Torkoal's Water and Ground weaknesses into resistances and is Torkoal's best option for cushioning Hydro Steam from <a href=\"/dex/sv/pokemon/walking-wake/battle-stadium-singles/\" hreflang=\"en\">Walking Wake</a>.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire can be used in a pinch to give Torkoal more offensive presence with Overheat or Lava Plume.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Tera Flying's Ground immunity is an alternative to Tera Grass that doesn't make it weak to opposing Flying-type moves, making it situationally better against Tera Flying sweepers like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a>.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Eject Pack</strong>: Eject Pack with Overheat is the preferred choice for pivoting in teammates safely.</p>\n</li>\n<li>\n<p><strong>Heat Rock</strong>: Heat Rock gives some extra flexibility with managing sun turns, which can be particularly useful if running multiple sun teammates.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>Negative Speed nature and 0 Speed IV</strong>: This is the standard for the slowest Eject Pack pivot possible, as well as maximizing Gyro Ball's power.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 Def / 252 SpD with Sassy</strong>: This avoids an OHKO from Choice Specs <a href=\"/dex/sv/pokemon/latios/battle-stadium-singles/\" hreflang=\"en\">Latios</a> from all but the highest damage roll. It also gives Torkoal a decent chance of surviving Modest <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a>'s Earth Power as well as Choice Specs Flutter Mane's Tera Stellar Power Gem.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpD with Relaxed</strong>: Maximizing physical bulk doesn't help in nearly as much places as special bulk, but one place it does is avoiding a 2HKO from Adamant Dragonite's Earthquake.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Eject Pack",
+            "Heat Rock"
+          ],
+          "teratypes": [
+            "Grass",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              },
+              {
+                "move": "Gyro Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 516307,
+            "username": "Photon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Torkoal is a premier offensive Pokemon seen on Trick Room teams thanks to its great STAB moves, fantastic ability, and good defenses. Its low Speed also makes it faster than most of the tier when in Trick Room, and it has great matchups into Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a></p>\n</li>\n<li>\n<p>Some of Torkoal's strongest partners are Trick Room setters like <a href=\"/dex/sv/pokemon/cresselia/vgc24-regulation-f/\" hreflang=\"en\">Cresselia</a> and <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-f/\" hreflang=\"en\">Farigiraf</a>, which can help set up Trick Room and protect it from damage with Ally Switch and Armor Tail, respectively. Torkoal also pairs well with other Pokemon that benefit from Trick Room like <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-f/\" hreflang=\"en\">Ursaluna-B</a> and <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-f/\" hreflang=\"en\">Iron Hands</a>, which can threaten neutral damage onto most of the tier, notably threatening Pokemon like <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a> and Tera Water <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, respectively.</p>\n</li>\n<li>\n<p>Torkoal struggles against bulky Pokemon that resist Fire like Raging Bolt, <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, as well as Tera Water Ogerpon-W, and Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>, as they can withstand its boosted Eruptions and burn Trick Room turns, making partners like Ursaluna-B, Amoonguss, and Rillaboom appreciated.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trick Room Sweeper",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Earth Power hits foes that resist Fire like <a href=\"/dex/sv/pokemon/entei/vgc24-regulation-f/\" hreflang=\"en\">Entei</a>, <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/arcanine-hisui/vgc24-regulation-f/\" hreflang=\"en\">Arcanine-Hisui</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>.</p>\n</li>\n<li>\n<p>Charcoal boosts the damage of Torkoal's Fire-type moves, letting it OHKO Assault Vest <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>.</p>\n</li>\n<li>\n<p>Tera Fire further bolsters Torkoal's Fire-type moves, letting it even 2HKO foes that resist Fire like Raging Bolt, <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-f/\" hreflang=\"en\">Chi-Yu</a>, and Tera Water <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Charcoal"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Torkoal performs best at supporting a variety of Pokemon thanks to its sun-setting capabilities. Torkoal additionally functions well as a powerful sweeper when its partners set up Trick Room.</li>\n<li>When used as a supportive sun setter, Torkoal is often paired with <a href=\"/dex/sv/pokemon/jumpluff/vgc/\" hreflang=\"en\">Jumpluff</a>, which takes advantage of the sun via Chlorophyll, allowing it to set Tailwind or put foes to sleep with Sleep Powder before they can move. Torkoal boosts the power of its partners' Fire-type attacks like Heat Wave and Eruption with the sun, making it a great pairing alongside <a href=\"/dex/sv/pokemon/charizard/vgc/\" hreflang=\"en\">Charizard</a> and <a href=\"/dex/sv/pokemon/typhlosion-hisui/vgc/\" hreflang=\"en\">Hisuian Typhlosion</a>. Charizard gains an additional damage boost from the sun thanks to Solar Power.</li>\n<li>Offensive Torkoal pairs well with reliable bulky Trick Room setters like <a href=\"/dex/sv/pokemon/hatterene/vgc/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/indeedee-f/vgc/\" hreflang=\"en\">Indeedee-F</a>. Hatterene is capable of providing additional special offense with its powerful Dazzling Gleam as well as Expanding Force when paired with Indeedee-F. Indeedee-F on the other hand provides redirection and can boost Torkoal's damage with Helping Hand as well as using Heal Pulse to provide healing, mitigating the damage reduction of Eruption and increasing Torkoal's longevity. Indeedee-F's Psychic Terrain protects Torkoal from priority attacks, ensuring Torkoal can deal maximum damage with Eruption. Other offensive Trick Room-reliant partners like <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> and <a href=\"/dex/sv/pokemon/gallade/vgc/\" hreflang=\"en\">Gallade</a> pair well with Torkoal by threatening devastating physical damage. Ursaluna threatens specially defensive foes like <a href=\"/dex/sv/pokemon/tyranitar/vgc/\" hreflang=\"en\">Tyranitar</a>. Meanwhile, Gallade deals with bulky foes Torkoal struggles to damage like <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a>. Gallade additionally protects Torkoal from threatening spread attacks like Earthquake with Wide Guard.</li>\n<li>Supportive Torkoal can be very passive with Overheat as its primary offensive attack. It is very reliant on enabling its partners to take the KOs it can't achieve alone. Offensive Torkoal struggles to sufficiently damage Water-types like <a href=\"/dex/sv/pokemon/primarina/vgc/\" hreflang=\"en\">Primarina</a>, so it relies on partners like Hatterene and Ursaluna to defeat them. Torkoal is easily threatened by powerful sweepers that move before Torkoal and threaten super effective damage like <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> and Tyranitar. Hatterene can set up Trick Room to ensure they do not attack before Torkoal moves and threatens both of them with its Fairy-type attacks.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>Supportive Torkoal is best positioned when it can easily enable sun and provide support for its partners. Offensive Torkoal, on the other hand, is best used to sweep once Trick Room is active.</li>\n<li>As a supportive sun setter, Torkoal should be lead to set sun immediately for its partners. When it is lead, this set can potentially switch out immediately after Intimidate from Incineroar is triggered, allowing an offensive partner like Hisuian Typhlosion to switch in safely before you and the opponent can select their attacks for the turn. When using an offensive set, Torkoal is best kept in the back and should only be switched in while Trick Room is active.</li>\n<li>Foes capable of KOing Torkoal and its Trick Room-setting partners before Trick Room is set up are huge threats. To mitigate this, Indeedee-F can redirect attacks to protect Torkoal or the Trick Room setter from damage. Rain setters like <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a> override the sun set by Torkoal, weakening and disrupting its partners; to prevent this, the rain setters should be KOed as soon as possible.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Supportive Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>This Torkoal set is used for setting up sun and providing additional support for its partners.</li>\n<li>Overheat is a powerful nuke that allows Torkoal to switch out immediately after use thanks to Eject Pack. Eruption deals strong spread damage if Torkoal stays on the field. Clear Smog clears foes' stat boosts, most notably from <a href=\"/dex/sv/pokemon/dondozo/vgc/\" hreflang=\"en\">Dondozo</a>.</li>\n<li>Eject Pack allows Torkoal to switch out on lead when it has its Attack dropped by Intimidate from <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>, allowing its partners to take advantage of the sun immediately, as well as using Overheat to allow a partner to switch in safely and at the end of the turn.</li>\n<li>Tera Fire allows Torkoal to OHKO <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> with Overheat.</li>\n</ul>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Eject Pack"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        },
+        {
+          "name": "Trick Room Sweeper",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Torkoal is a threatening sweeper under Trick Room that sets up sun, providing support for its partners.</li>\n<li>Eruption deals powerful Fire-type spread damage; meanwhile, Heat Wave provides consistent spread damage regardless of Torkoal's remaining HP. Weather Ball deals strong, consistent damage while sun is active, and Overheat is often used as a single-use nuke attack. Earth Power allows Torkoal to threaten Fire-types like <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>. Protect is used on Charcoal sets, while Clear Smog is used on Choice Specs sets to disrupt <a href=\"/dex/sv/pokemon/dondozo/vgc/\" hreflang=\"en\">Dondozo</a> and setup sweepers like <a href=\"/dex/sv/pokemon/volcarona/vgc/\" hreflang=\"en\">Volcarona</a>.</li>\n<li>Charcoal and Choice Specs are used to increase Torkoal's damage, with Charcoal guaranteeing Eruption OHKOes Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> and Choice Specs Weather Ball 2HKOing Assault Vest <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>.</li>\n<li>Tera Fire boosts Torkoal's damage, allowing it to OHKO <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> with Eruption.</li>\n</ul>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Charcoal",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              },
+              {
+                "move": "Weather Ball",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Clear Smog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 589964,
+            "username": "RauSakura"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heat Rock"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Burning Bulwark",
+                "type": null
+              },
+              {
+                "move": "Sunny Day",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>9 Defense IVs allow for Torkoal to get a Special Attack boost from Protosynthesis.</li>\n</ul>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Charcoal"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 9,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 8-9 points</p>\n<p><strong>Overview</strong>: Torkoal stands out as being one of the go-to sun setters in the format, and it is drafted exclusively to do such and enable teammates that can benefit from sun. It has great Defense, entry hazard control, and useful move options to support its teammates or, in rare cases, allow it to go on the offensive. However, Torkoal suffers from poor longevity, being weak to hazards and preferring to run Heat Rock to maximize sun turns. Torkoal's modest damage output and poor Speed makes it highly passive. Compared to <a href=\"/dex/sv/pokemon/ninetales/draft/\" hreflang=\"en\">Ninetales</a>, it's slower and lacks the highly useful Healing Wish that sun teams may seek after instead.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Sun Setter</strong>: Torkoal's main selling point is to set sun. This set looks to leverage Torkoal's wealth of utility moves and entry hazard control options to maximize its usefulness despite its mediocre damage output. The risk of burn from Lava Plume and Will-O-Wisp as well as the threat of Yawn dissuades physical attackers from setting up on it.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Lava Plume, Flamethrower, Overheat, Weather Ball</p>\n<p><strong>Setup Moves</strong>: Iron Defense, Amnesia</p>\n<p><strong>Utility Moves</strong>: Clear Smog, Rapid Spin, Stealth Rock, Will-O-Wisp, Yawn</p>\n<p><strong>Coverage</strong>: Ancient Power, Body Press, Earth Power, Earthquake, Gyro Ball, Heavy Slam, Rock Slide, Scorching Sands, Sludge Bomb, Solar Beam, Stone Edge, Zen Headbutt</p>\n<h3>Niche Moves</h3>\n<p><strong>Fire Spin</strong>: Torkoal can trap physically weak foes with Fire Spin and whittle them down with relative ease.</p>\n<p><strong>Curse</strong>: Curse synergizes nicely with Gyro Ball and Body Press, providing Torkoal with a niche as a slow wallbreaker.</p>\n<p><strong>Bulldoze</strong>: Bulldoze should only ever be used with a predetermined plan of preventing an opposing Pokemon from setting up on Torkoal and sweeping.</p>\n<p><strong>Endure</strong>: When paired with a Custap Berry, Endure can be used as a last-ditch attempt to remove entry hazards with Rapid Spin against faster foes or surprise them with a strong STAB attack.</p>\n<h3>Common Items</h3>\n<p><strong>Heat Rock</strong>: It provides more sun for the sun god. Torkoal trades longevity in exchange for longer sun duration.</p>\n<h3>Niche Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: At the cost of more turns of sun, Heavy-Duty Boots lets Torkoal be a stronger long-term sun setter, as it removes its crippling weakness to entry hazards and allows it to be a more effective hazard remover.</p>\n<p><strong>Eject Pack</strong>: Torkoal can use Eject Pack in combination with Overheat to allow it to function as a powerful one-time pivot.</p>\n<p><strong>Healing Items</strong>: Though outclassed by Heavy-Duty Boots most of the time, healing items like Leftovers and Sitrus Berry can have a use in matchups where opponents have poor hazard control options.</p>\n<p><strong>Damage-boosting Items</strong>: Choice Specs and Charcoal can capitalize on opponents who might be expecting a more passive Torkoal or against teams with limited defenses against Fire-types.</p>\n<p><strong>Air Balloon</strong>: Air Balloon allows Torkoal to switch in on Ground-type attacks with more safety, giving it a window to burn a foe with Will-O-Wisp or fire back with an attack.</p>\n<h3>Tera</h3>\n<p>Torkoal is a Pokemon that excels at enabling other Pokemon and as such should never be made a Tera Captain over teammates that benefit more from it. If you have somehow ended up with Torkoal as your Tera Captain, then Tera Fire is a good choice to increase the damage output of its STAB moves considerably. Tera Grass can remove weaknesses to Water and Ground, allowing it to survive longer and set sun more times throughout the battle.</p>\n<h3>Draft Strategy</h3>\n<p>Torkoal is a centerpiece on sun teams and therefore should only be drafted with strong sun users.</p>\n<p><strong>Sun Beneficiaries</strong>: Torkoal enables Protosynthesis users like <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> to forgo Booster Energy, freeing up another item slot while also dramatically raising a stat of your choice, making them significantly harder for a foe to deal with. In addition Torkoal enables Chlorophyll users such as <a href=\"/dex/sv/pokemon/venusaur/draft/\" hreflang=\"en\">Venusaur</a> and <a href=\"/dex/sv/pokemon/lilligant-hisui/draft/\" hreflang=\"en\">Hisuian Lilligant</a> to outspeed nearly all Choice Scarf users and potentially sweep an opposing team. Other strong Fire-type Pokemon such as <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a> appreciate the boost from Torkoal's sun-setting abilities to become nuclear wallbreakers and weaken opposing Water-type moves.</p>\n<p><strong>Entry Hazard Control</strong>: As it is weak to Stealth Rock, Torkoal appreciates having another Pokemon capable of hazard control like Great Tusk or <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, enabling it to hold Heat Rock more freely without the need to consistently switch in to remove hazards itself.</p>\n<p><strong>Ground-resistant Pokemon</strong>: As Torkoal is typically drafted with other Fire-types that benefit from its sun, Ground-resistant or immune Pokemon, such as <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a>, and <a href=\"/dex/sv/pokemon/azelf/draft/\" hreflang=\"en\">Azelf</a>, are equally important to draft alongside it.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Chip Damage</strong>: Torkoal's limited access to healing and reliance on Heat Rock or Heavy-Duty Boots mean it is very susceptible to chip damage, especially if it finds itself without Heavy-Duty Boots.</p>\n<p><strong>Opposing Weather</strong>: Opposing weather setters like <a href=\"/dex/sv/pokemon/tyranitar/draft/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/draft/\" hreflang=\"en\">Alolan Ninetales</a>, as well as manual setters like <a href=\"/dex/sv/pokemon/klefki/draft/\" hreflang=\"en\">Klefki</a>, can highly disrupt the momentum of sun teams, forcing Torkoal to switch back in to set sun again, leaving it exposed to chip damage or inviting in opposing setup sweepers. Heavy-Duty Boots is valuable on these sets, as Torkoal will be forced to pivot into battle more consistently than desired. Opposing weather setters also make it rare that Torkoal's sun will stay up for the full Heat Rock-extended duration.</p>\n<p><strong>Special Attackers</strong>: Torkoal's below average special bulk means it can be preyed upon by strong special attackers like Latias, <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/necrozma/draft/\" hreflang=\"en\">Necrozma</a>, all of which Torkoal has difficulty threatening in return.</p>\n<p><strong>Taunt</strong>: Foes using Taunt can prevent Torkoal from setting up entry hazards, making it even more passive when it's on the field.</p>\n<p><strong>Knock Off</strong>: Torkoal is particularly reliant on its item. Getting hit by Knock Off severely hampers Torkoal's sun-setting abilities for its teammates should it lose its Heat Rock.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 620359,
+            "username": "olivia"
+          },
+          {
+            "user_id": 629845,
+            "username": "theuncultured"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 613399,
+                "username": "Celeste"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Torkoal is the only viable sun setter in Ubers UU, and this combined with its great bulk and deep expansive utility movepool makes it one of the tier's most powerful weather setters. Rapid Spin and Stealth Rock allow Torkoal to operate as both an entry hazard setter and remover for its team, freeing up moveslots on its partners. Yawn gives Torkoal the ability to force switches, help bring in teammates safely, and potentially sleep Pokemon attempting to take advantage of its relatively passivity, but Will-O-Wisp is an option to particularly cripple physical attackers like <a href=\"/dex/sv/pokemon/zacian/ubers-uu/\" hreflang=\"en\">Zacian</a> and <a href=\"/dex/sv/pokemon/kingambit/ubers-uu/\" hreflang=\"en\">Kingambit</a>. Although Torkoal does not Terastallize much, Tera Ghost gives it the ability to spinblock and potentially spread status to Pokemon like <a href=\"/dex/sv/pokemon/arceus/ubers-uu/\" hreflang=\"en\">Arceus</a> formes and <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a>. Torkoal is the backbone of sun teams, and as a result, it should only be used on them. Sun wallbreakers like <a href=\"/dex/sv/pokemon/chi-yu/ubers-uu/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/walking-wake/ubers-uu/\" hreflang=\"en\">Walking Wake</a>, <a href=\"/dex/sv/pokemon/roaring-moon/ubers-uu/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/gouging-fire/ubers-uu/\" hreflang=\"en\">Gouging Fire</a> are appreciated partners, as they get their STAB moves boosted and Protosynthesis enabled under sun. Hazard control from Pokemon like Great Tusk can allow Torkoal to not operate as the primary form of hazard control for its team and give it more opportunities to switch in to set up sun multiple times in a game.</p>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heat Rock"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 626445,
+                "username": "Imperial"
+              },
+              {
+                "user_id": 587908,
+                "username": "Leo Justice"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter (HP, SpD)",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heat Rock"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 8,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its access to Drought and good utility options, Torkoal acts as an enabler for dedicated sun teams while also functioning as an entry hazard setter and remover. Lava Plume's relatively high burn chance lets Torkoal cripple foes that could set up on it, such as <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a>. Body Press enables Torkoal to hit <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, with it otherwise being able to switch in reliably on Torkoal's Fire-type moves; it also hits <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> that could otherwise come in and remove Torkoal's sun. Stealth Rock's chip damage allows its sun-boosted teammates to sweep more easily, while Toxic is also an option in order to punish Water-types such as <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a> that could otherwise come in relatively risk-free; however, it should only be used if your team has another Stealth Rock setter. Rapid Spin's hazard removal helps its team greatly due to the fact that Torkoal runs Heat Rock over Heavy-Duty Boots, but it is advised to run other hazard removal options as well due to Torkoal's vulnerability to hazards. Maximum Defense investment is used in order to boost the power of Torkoal's Body Press, letting it hit Mega Tyranitar and Heatran harder while also letting it function as an emergency check to foes such as <a href=\"/dex/sv/pokemon/cinderace/national-dex/\" hreflang=\"en\">Cinderace</a>.</p>\n<p>Torkoal only fits on designated sun teams, where its ability to set sun while also setting and removing entry hazards is greatly appreciated. A Pokemon that benefits greatly from this sun is <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, with its activated Protosynthesis letting it do increased damage to foes such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> and Alomomola. In return, Great Tusk can set and remove Stealth Rock and other hazards, letting Torkoal come in to set sun more time; it is also a much-needed Rock-resistant teammate and Knock Off absorber against foes such as Mega Tyranitar and <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, which could otherwise threaten to remove Torkoal's Heat Rock. Other teammates that benefit from Torkoal's sun include Raging Bolt and <a href=\"/dex/sv/pokemon/venusaur/national-dex/\" hreflang=\"en\">Venusaur</a>. Protosynthesis boosts the former's Special Attack, allowing it to do greater damage to would-be switch-ins such as Ting Lu; in addition, sun making its Weather Ball a Fire-type move lets it hit foes such as Ferrothorn. Sun doubles Venusaur's Speed stat, courtesy of Chlorophyll, and boosts the effects of Growth, allowing it to become a dangerous setup sweeper. In return, Raging Bolt can threaten <a href=\"/dex/sv/pokemon/pelipper/national-dex/\" hreflang=\"en\">Pelipper</a>, which would otherwise be able to remove Torkoal's sun via Drizzle. Torkoal finds itself vulnerable to Ground-type attacks from foes such as opposing Great Tusk and <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, meaning Flying-types such as <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a> are appreciated. In exchange, Torkoal can, to some extent, sponge physical hits from foes such as Cinderace that could otherwise be threatening underneath sun. Torkoal especially struggles with Mega-Tyranitar, meaning that teammates such as the aforementioned Great Tusk and Landorus-T are enjoyed. Pivots to bring in Torkoal and its sun-enjoying teammates are also appreciated, with Eject Button <a href=\"/dex/sv/pokemon/hatterene/national-dex/\" hreflang=\"en\">Hatterene</a> and Landorus-T being excellent choices due to their ability to deny hazards via Magic Bounce and Defog, respectively.</p>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heat Rock"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 632421,
+            "username": "Medasus"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 475916,
+                "username": "Sputnik"
+              },
+              {
+                "user_id": 542295,
+                "username": "Blaze"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Setter",
+          "pokemon": "Torkoal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Torkoal provides great support for Fire teams thanks to its ability to set sun and Stealth Rock as well as remove entry hazards with Rapid Spin. Lava Plume can potentially burn offensive threats like <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>. Body Press allows Torkoal to use its great physical bulk to its advantage by threatening Dark-types such as <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/tyranitar/national-dex-monotype/\" hreflang=\"en\">Tyranitar</a>. Heat Rock allows Torkoal's sun to support teammates for longer, but Heavy-Duty Boots can also be used so that Torkoal can switch in more freely without fearing entry hazards and have an easier time removing them. Yawn is an option that pairs well with Stealth Rock because it forces switches. <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> makes for a great partner, as it appreciates the sun Torkoal sets so that its Flamethrower can hit new benchmarks, notably OHKOing <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> and 2HKOing <a href=\"/dex/sv/pokemon/empoleon/national-dex-monotype/\" hreflang=\"en\">Empoleon</a> and <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> after a boost, as well as now being able to survive a Hydro Pump from Choice Specs <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> to set up one Quiver Dance. In return, Volcarona is able to deal with Fighting- and Ground-types such as <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> thanks to its coverage. <a href=\"/dex/sv/pokemon/cinderace/national-dex-monotype/\" hreflang=\"en\">Cinderace</a> threatens Normal- and Rock-type foes such as <a href=\"/dex/sv/pokemon/porygon2/national-dex-monotype/\" hreflang=\"en\">Porygon2</a>, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/national-dex-monotype/\" hreflang=\"en\">Ogerpon-C</a>, and <a href=\"/dex/sv/pokemon/arcanine-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Arcanine</a> and can don a Choice Scarf to dispatch speedy threats such as Choice Scarf <a href=\"/dex/sv/pokemon/iron-treads/national-dex-monotype/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>. <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> deals with problematic walls such as <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a> by trapping them with Magma Storm and removing them with Earth Power as well as <a href=\"/dex/sv/pokemon/diancie/national-dex-monotype/\" hreflang=\"en\">Diancie</a> with Flash Cannon. Heatran also runs Stealth Rock so that Torkoal can opt to use another option such as Yawn. Late-game sweepers and cleaners such as <a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex-monotype/\" hreflang=\"en\">Mega Charizard X</a>, <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a> appreciate the sun Torkoal provides so that they can mop up more efficiently.</p>",
+          "abilities": [
+            "Drought"
+          ],
+          "items": [
+            "Heat Rock",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Amnesia",
+    "Ancient Power",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Burning Jealousy",
+    "Clear Smog",
+    "Curse",
+    "Double-Edge",
+    "Earth Power",
+    "Earthquake",
+    "Ember",
+    "Endure",
+    "Eruption",
+    "Facade",
+    "Fire Blast",
+    "Fire Spin",
+    "Fissure",
+    "Flail",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Giga Impact",
+    "Gyro Ball",
+    "Heat Crash",
+    "Heat Wave",
+    "Heavy Slam",
+    "Helping Hand",
+    "Hyper Beam",
+    "Inferno",
+    "Iron Defense",
+    "Lava Plume",
+    "Overheat",
+    "Protect",
+    "Rapid Spin",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scorching Sands",
+    "Shell Smash",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Smog",
+    "Smokescreen",
+    "Solar Beam",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Weather Ball",
+    "Will-O-Wisp",
+    "Withdraw",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

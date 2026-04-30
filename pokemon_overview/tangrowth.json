@@ -1,0 +1,300 @@
+{
+  "name": "Tangrowth",
+  "alias": "tangrowth",
+  "types": [
+    "Grass"
+  ],
+  "stats": [
+    100,
+    100,
+    125,
+    110,
+    50,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Tangrowth",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sporting good physical bulk and Regenerator, Tangrowth can act as a great check to a lot of physical attackers like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, which struggle to deal significant damage to it and get chipped via Rocky Helmet. Giga Drain helps Tangrowth stay healthy and lets it win one-on-one against Pokemon like Landorus-T. Tangrowth can be a great utility Pokemon with moves such as Knock Off, which cripples foes by removing their items like Heavy-Duty Boots from <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>. Focus Blast can aid against <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, as well as maiming <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> in a pinch. Sleep Powder can be a great emergency option to momentarily shut down Pokemon. The ability to put Pokemon to sleep is rare in National Dex, and having this trait is valuable. It can also be used to predict an incoming Tangrowth counter such as <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, Heatran, or <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a>. Stun Spore is also a viable choice, as it can completely hamper the offensive capabilities of foes by crippling their Speed. The designated EV spread is designed to let Tangrowth perform its role as a tank, making it a great physical wall while still letting it take an emergency special hit if healthy.</p>\n<p>Tangrowth can be a crucial piece in on balance and even bulky offense teams. It takes on common Ground-types like <a href=\"/dex/sv/pokemon/iron-treads/national-dex/\" hreflang=\"en\">Iron Treads</a> and Great Tusk, paving the way for teammates like <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>, which resists Fire-type moves from Mega Chairzard Y, Moltres, and Heatran. Tangrowth forces out bulky Water-types like <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a> and threatens to put the incoming Pokemon to sleep, which is great for teammates like Swords Dance Landorus-T. It also has a distinctive role in checking <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a> due to its typing and bulk. This benefits a variety of Pokemon such as <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>, and Alomomola. Ting-Lu and Gliscor are also able to take on Zapdos for Tangrowth. Additionally, Tangrowth's special bulk is very lacking, and it can barely survive special attacks from the likes of Raging Bolt, Heatran, and Galarian Slowking. Special walls like Galarian Slowking and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> can form great defensive cores alongside it, with Tangrowth helping them out against Ground-types like Landorus-T, Iron Treads, and Great Tusk. <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> and Moltres are also great teammates, as they can deal with Pokemon that annoy Tangrowth like <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>, Mega Charizard Y, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>. Pokemon like Kingambit appreciate Tangrowth chipping down common Fighting-types like <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, Urshifu-R, and Great Tusk.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Powder",
+                "type": null
+              },
+              {
+                "move": "Stun Spore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 12,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574893,
+            "username": "Dahness"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 632421,
+                "username": "Medasus"
+              },
+              {
+                "user_id": 475916,
+                "username": "Sputnik"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Tangrowth",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tangrowth's excellent natural physical bulk, crucial resistances, and variety of utility options at its disposal come together to make it a solid physical wall, being an effective stop to the likes of <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>. Regenerator only serves to further complement the aforementioned defensive traits, blessing it with the longevity needed to repeatedly switch into and answer these Pokemon. Knock Off allows Tangrowth to cripple incoming switch-ins by removing important held items, such as Heavy-Duty Boots from <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a> and Leftovers from <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, making them far easier to wear down long term. Hidden Power Fire allows Tangrowth to deal high amounts of damage to Steel- and Grass-type Pokemon in a pinch, most notably 2HKOing <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>. Alternatively, Focus Blast greatly improves Tangrowth's matchup against Excadrill and <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a>, being able to OHKO the latter, although its lack of accuracy can be somewhat irritating. Sleep Powder allows Tangrowth to neutralize incoming targets it would otherwise be unable to threaten, such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, offensive Celesteela, and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a>, while also shutting down setup sweepers like Calm Mind Clefable and <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>. However, Toxic can be used instead to permanently cripple Pokemon such as <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, and <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a>, limiting their ability to pivot into Tangrowth throughout the game. Rocky Helmet allows Tangrowth to punish contact moves from the likes of U-turn, whereas Heavy-Duty Boots can be used to provide Tangrowth with greater longevity against entry hazards, allowing it to take advantage of Regenerator more effectively; it also helps keep Tangrowth out of KO range of wallbreakers it may try to switch in against, such as <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a> and Excadrill when entry hazards have been set. Tangrowth fits best on balance teams that appreciate its longevity and diversity in crippling opposing teams via its utility options. Entry hazard setters such as <a href=\"/dex/sv/pokemon/chansey/national-dex-uu/\" hreflang=\"en\">Chansey</a>, Clefable, and Toxic Spikes Iron Moth appreciate Tangrowth's ability to deter opposing hazard removal options such as <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-uu/\" hreflang=\"en\">Tapu Fini</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> while further capitalizing on Tangrowth's tendency to remove various items from targets, such as Thundurus and <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, with Knock Off. Specially defensive teammates such as Slowking, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, and Celesteela have excellent defensive synergies with Tangrowth, compensating for its low Special Defense by providing a solid backbone against threats such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a>; Slowking and Gastrodon also help Tangrowth play around with the likes of <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>, utility Clefable, and <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a>, which can overwhelm it easily. In return, Tangrowth can help check the likes of Bisharp, which may threaten them. Besides the aforementioned Pokemon, offensive teammates such as Victini, Choice Specs Enamorus, and Thundurus appreciate Tangrowth's ability to sponge Knock Off from Pokemon that they may be forced out by, such as Tyranitar, Clefable, and Scizor.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Powder",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Relaxed"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Tangrowth",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tangrowth is a solid special wall that can check threats like <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>, and <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a> thanks to Assault Vest and Regenerator, allowing it to pivot against these threats reliably throughout the game. Tangrowth's great movepool also allows it to punish specific targets to help its team; for example, Knock Off can remove items like Heavy-Duty Boots from <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a> and Leftovers from <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, the latter of which makes wallbreakers like Alakazam much more threatening. Power Whip is used to beat Calm Mind Keldeo, but Giga Drain is a fine alternative that can provide reliable recovery. Focus Blast threatens Hydreigon, <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a>, and <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> trying to use Tangrowth as setup fodder, while Sludge Bomb is used to fish for poison against targets like <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a> and hit Enamorus super effectively. Hidden Power Fire is Tangrowth's best way to hit <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> and can be useful to chip targets like <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> and Excadrill into Focus Blast range. Finally, Earthquake hits Excadrill, <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a>, and most importantly Iron Moth super effectively. Assault Vest is the item of choice so Tangrowth can offset its terrible Special Defense and check special attackers more reliably. Tangrowth fits best on balance teams as a good pivot capable of checking special attackers like Keldeo and scouting coverage moves like Mystical Fire from Pokemon like Enamorus for teammates like <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a> and Aegislash. <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>, Excadrill, and Skarmory are all great teammates that enjoy Tangrowth checking Water-types like Keldeo and removing Heavy-Duty Boots from <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> and Enamorus to make their entry hazards much more effective. In return, Hippowdon and Skarmory can deal with threatening wallbreakers like Swords Dance Excadrill and Bisharp. Powerful special attackers like Choice Specs Enamorus and Nasty Plot Hydreigon can pressure Tangrowth with their STAB moves or super effective coverage, making additional defensive answers like Celesteela and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> good options. Bulky Water-types like Slowking are good partners that can check threats like Iron Moth, Victini, and <a href=\"/dex/sv/pokemon/volcanion/national-dex-uu/\" hreflang=\"en\">Volcanion</a> for it; in return, Tangrowth can check <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>. Clefable can scout Knock Off from opposing Clefable and opposing Tangrowth, preventing Tangrowth from losing its much-needed item. Finally, <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> can Pursuit trap Iron Moth and Victini while enjoying Tangrowth removing Leftovers from Defoggers like Rotom-W.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535121,
+            "username": "gu"
+          },
+          {
+            "user_id": 546157,
+            "username": "Iride"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 514772,
+                "username": "sealoo"
+              },
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              },
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

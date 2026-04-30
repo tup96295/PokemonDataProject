@@ -1,0 +1,2559 @@
+{
+  "name": "Volcarona",
+  "alias": "volcarona",
+  "types": [
+    "Bug",
+    "Fire"
+  ],
+  "stats": [
+    85,
+    60,
+    65,
+    135,
+    105,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set while we work on the full analysis!</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 80,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 176
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Bug (Bulky Quiver Dance)</h4>\n<p>Fiery Dance can be more beneficial over Flamethrower, being able to potentially provide a Special Attack boost while on the offensive against bulky targets like <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a>. Will-O-Wisp can be used over Psychic to hinder physical attackers that threaten Volcarona such as <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>.</p>",
+      "movesets": [
+        {
+          "name": "Original Moth (Bug)",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>The moth is back to terrorize the opposing team with its impeccable offensive stat line and access to Quiver Dance. After a single boost, Volcarona outspeeds the whole unboosted metagame bar <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a>. Fiery Dance gives it another way to boost its Special Attack while also dealing with <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. Psychic synergizes well by targeting Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>. Morning Sun provides reliable recovery to ease setup against special attackers such as Choice Specs <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and non-Rock Slide <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>. Alternatively, Giga Drain hit Ground-types like <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, substantially improving both the Water and Ground matchups.</p>\n<p>With a glaring Rock weakness, Volcarona appreciates being paired with <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a>, which can tank Rock-type moves, set entry hazards to weaken the opposing team, and slow pivot into Volcarona with Volt Switch. In a similar vein, <a href=\"/dex/sv/pokemon/araquanid/monotype/\" hreflang=\"en\">Araquanid</a> patches up the Water weakness and can set Sticky Web to give Volcarona the upper hand. Alternatively, <a href=\"/dex/sv/pokemon/galvantula/monotype/\" hreflang=\"en\">Galvantula</a> and <a href=\"/dex/sv/pokemon/ribombee/monotype/\" hreflang=\"en\">Ribombee</a> both offer distinctive advantages over Araquanid; Galvantula can pressure Water teams with its access to Grass-, Electric-, and Bug-type moves to deal with Swampert, <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, potentially letting Volcarona drop Giga Drain in favor of Morning Sun, while Ribombee can paralyze <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> to ensure Volcarona outspeeds both and helps address Dragon and Fighting matchups by targeting <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>. Offensively, Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> takes on troublesome foes such as Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, non-Dragon Dance Dragapult, and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>; it can also set Stealth Rock through Stone Axe to aid Volcarona's sweep. <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a> and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> are both solid offensive options. Lokix eases Dark, Ghost, and Psychic matchups by removing Choice Scarf <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, Dragapult, and Gallade. Scizor, on the other hand, substantially improves Fairy, Rock, and Dragon matchups by removing Flutter Mane, <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, Kleavor, and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Bulky Setup (Bug)",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Deciding to forgo an offensive EV spread on Volcarona and instead opting for investment into its Defenses can comfortably let it take hits from the likes of <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> while it sets up with Quiver Dance. Flamethrower provides easy removal of problematic Steel-types like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>. Psychic provides solid coverage, hitting troublesome Poison- and Fighting-types like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> along with allowing Volcarona to hit Fire- and Water-types that resist Flamethrower. Morning Sun provides Volcarona a form of healing, making its setup far easier against targets that cannot threaten it out like <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> and Iron Hands. The EV spread maximizes Volcarona's bulk while still allowing it to outspeed <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> after a Quiver Dance and land an OHKO on <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> with Psychic.</p>\n<p>Volcarona greatly appreciates <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> removing problematic Rock-types like <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, which all threaten Volcarona immensely. Kleavor helps Volcarona by providing Stealth Rock with Stone Axe, along with removing Fire-types like opposing Volcarona, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, and <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a>. Scizor and Kleavor, in return, benefit from Volcarona removing the physically bulky threats that wall them such as Toxapex and Skarmory. <a href=\"/dex/sv/pokemon/slither-wing/monotype/\" hreflang=\"en\">Slither Wing</a> aids Volcarona in removing bulky special walls like <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> thanks to its Fighting-type STAB move. <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a> provides a form of entry hazard removal, being able to remove Stealth Rock should Volcarona lose its Heavy-Duty Boots, and it can also set up Spikes to chip switch-ins like Heatran, <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a>, and Galarian Slowking. Forretress also provides Volcarona a safe entry thanks to Volt Switch. <a href=\"/dex/sv/pokemon/galvantula/monotype/\" hreflang=\"en\">Galvantula</a> threatens Water-types that can take on Volcarona, including <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. <a href=\"/dex/sv/pokemon/ribombee/monotype/\" hreflang=\"en\">Ribombee</a> can threaten Dragon-types like <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a> that could handle Volcarona. <a href=\"/dex/sv/pokemon/araquanid/monotype/\" hreflang=\"en\">Araquanid</a> can threaten Fire-types that would otherwise wall Volcarona's Fire-type attacks like Heatran, <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>. Galvantula, Ribombee, and Araquanid also provide support by laying Sticky Web, allowing Volcarona to outspeed otherwise faster threats such as Choice Scarf Glimmora and Sand Rush Excadril after a single Quiver Dance. <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a> can remove dangerous Choice Scarf threats like Iron Boulder and <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> thanks to its powerful priority, preventing them from revenge killing Volcarona.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 140,
+              "atk": 0,
+              "def": 132,
+              "spa": 96,
+              "spd": 0,
+              "spe": 140
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Quiver Dance (Fire)",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>By virtue of its access to Quiver Dance and its colorful coverage, Volcarona serves as a great setup sweeper on Fire teams. Giga Drain can be used over Flamethrower, as it grants Volcarona a recovery option and allows it to threaten Water- and Ground-types such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>. Alternatively, Morning Sun provides larger recovery for Volcarona than Giga Drain, giving it more opportunities to set up. Flame Body allows Volcarona to potentially punish revenge killers such as <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> with burns.</p>\n<p><a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a> are great partners for Volcarona, as their sun boosts Volcarona's Flamethrower. Additionally, Torkoal can set up Stealth Rock to aid Volcarona in its sweeping, while Ninetales provides Will-O-Wisp support so that Volcarona can run Swarm and punish physical attackers and Healing Wish support to grant Volcarona another opportunity at sweeping. <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> can clear entry hazards with Court Change and potentially gain screens set by users like <a href=\"/dex/sv/pokemon/klefki/monotype/\" hreflang=\"en\">Klefki</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a> to make Volcarona harder to take down. Choice Scarf variants can also deal with speedy threats such as <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> thanks to its colorful movepool combined with Libero boosts. <a href=\"/dex/sv/pokemon/talonflame/monotype/\" hreflang=\"en\">Talonflame</a>'s immunity to Ground allows it to ease that matchup, and Brave Bird in tandem with Gale Wings allows it to deal with threats such as the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes and Choice Scarf <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>. <a href=\"/dex/sv/pokemon/volcanion/monotype/\" hreflang=\"en\">Volcanion</a> is great in the Water matchup thanks to its decent physical bulk and access to Water Absorb, and with its great attacking options, it can handle Fire-, Fairy-, and Poison-types such as opposing Volcarona, <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. Volcarona appreciates the presence of wallbreakers such as <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, Choice Band <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a>, and Choice Specs <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> to break through bulky threats so it can sweep more easily. Ogerpon-H deals with Water-types such as Primarina, Swampert, and <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a> when Volcarona chooses to forego Giga Drain. Hisuian Arcanine deals with Flying-types such as <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a>, and it appreciates Volcarona taking on Fighting-types such as Iron Valiant and <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a> in return. Iron Moth has access to a wide range of coverage tools to deal with a myriad of threats like Toxapex, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a>.</p>",
+          "abilities": [
+            "Swarm",
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Bulkarona (Bulky Quiver Dance) (Fire)",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With a defensive spread, Volcarona can address the lack of good defensive options available to Fire teams while remaining dangerous offensively with Quiver Dance, threatening physical foes such as Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. Fiery Dance brings a spammable STAB move that can easily allow Volcarona to snowball. Psychic offers valuable coverage, hitting Water- and Dragon-types that resist Fiery Dance like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, on top of dealing with Fighting-type foes such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> and Iron Hands. Alternatively, Will-O-Wisp provides a consistent way of spreading burns to attackers such as <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, further enhancing Volcarona's defensive capabilities. Morning Sun improves Volcarona's durability, helping it set up on Fighting- and Dragon-types such as Assault Vest Iron Hands, and Dragapult. The EV spread allows Volcarona to outspeed <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> after a Quiver Dance.</p>\n<p>More so than its offensive counterpart, sun lets defensive Volcarona shine by increasing Morning Sun's healing rate, reducing the damage received from Water-type moves, and boosting Fiery Dance, allowing Volcarona to set up on Water-type foes such as Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>. Therefore, it is highly recommended to pair Volcarona with a Drought user. <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a> comes with utility options in the form of Healing Wish and Encore, helping Volcarona stay healthy and come safely on the field, and it can also use Solar Beam to punish <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>. <a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a> offers utility in a different way by setting Stealth Rock, removing entry hazards with Rapid Spin, and putting foes to sleep with Yawn. <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> provides support with Court Change and can get rid of foes weak to Dark-type moves such as <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and Dragapult with Sucker Punch. With its defensive role, Volcarona has many synergies with the powerful wallbreakers of the type. <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> deals with Flash Fire <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> as well as Water- and Ground-types foes such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, Swampert, and <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> while appreciating Volcarona's ability to check <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>. Lastly, Air Balloon Heatran is a great partner for Volcarona, nullifying Poison-type moves, absorbing Dragon-type moves, and dealing with both Flutter Mane and select Ground-types like choice-locked Excadrill and Clodsire.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 212,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 44
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 518038,
+            "username": "Ashbala"
+          },
+          {
+            "user_id": 552160,
+            "username": "Showl"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 468541,
+            "username": "Azick"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 593863,
+                "username": "CrossHeart"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 305839,
+                "username": "Rio Vidal"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              },
+              {
+                "user_id": 537035,
+                "username": "rahul_3301"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set as we work on proper analyses. Stay tuned!</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Grass",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": null,
+      "overview": "<p>This Pokemon has been updated to reflect Regulation H, that lasts until January 5h, 2025. After this, Regulation G will return.</p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-f-dex-updates-and-suggestions.3734864/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulkarona",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With recovery and massive investments in bulk, Volcarona is capable of setting up multiple Quiver Dances, making it a potent sweeper.</p>\n</li>\n<li>\n<p><strong>Tera Blast</strong>: Even before Terastallization, Tera Blast can come in handy for dealing decent damage to <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n<li>\n<p><strong>Giga Drain</strong>: Giga Drain is Volcarona's best shot at beating Water-types such as <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/basculegion/battle-stadium-singles/\" hreflang=\"en\">Basculegion</a>; note that <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a> is not 2HKOed.</p>\n</li>\n<li>\n<p><strong>Will-O-Wisp</strong>: Burning foes is great for letting Volcarona set up against powerful foes like Garchomp, and punishing the common Dragonite switch-in.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li>\n<p><strong>Substitute</strong>: Though it can be difficult to fit in, Substitute allows Volcarona to punish users of status moves, such as sleep moves from <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>'s Thunder Wave.</p>\n</li>\n<li>\n<p><strong>Bug Buzz</strong>: This is Volcarona's best tool against foes behind a Substitute like <a href=\"/dex/sv/pokemon/hydreigon/battle-stadium-singles/\" hreflang=\"en\">Hydreigon</a> and Tera Water <a href=\"/dex/sv/pokemon/gliscor/battle-stadium-singles/\" hreflang=\"en\">Gliscor</a>, but the coverage isn't that great otherwise.</p>\n</li>\n<li>\n<p><strong>Psychic</strong>: Psychic 2HKOes <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a>, which can otherwise be problematic with Haze, but offers little other coverage.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: While the massive Rock-type weakness often pressures Volcarona to Terastallize, Volcarona's useful resistances to Fighting and Fairy mean this isn't always the right play.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: A Fairy Tera type lets Volcarona take on powerful Dragon-types that try to boost their Speed with Scale Shot, such as <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>, Dragonite, and Garchomp, and gives it powerful coverage against them with Tera Blast. Just note that Tera Fairy compromises Volcarona's ability to check Gholdengo effectively.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: With a Grass Tera type, Volcarona can now 2HKO most Dondozo with Giga Drain and is better insulated against revenge kills from Water-types like Primarina and Basculegion, at the cost of being vulnerable against opposing Volcarona.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Besides removing all of Volcarona's old weaknesses, a Water Tera type also massively improves the match up against Primarina and Basculeigon, and gives a powerful Tera Blast to use against <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a>.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Heavy-Duty Boots</strong>: Stealth Rock is common enough that this is the safest item for Volcarona to hold.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry gives Volcarona more durability against teams that lack entry hazards, and with an even HP stat, it'll eat Sitrus Berry right away after switching into Sealth Rock.</p>\n</li>\n<li>\n<p><strong>Lum Berry</strong>: This allows Volcarona to recover from status once against threats like Spore Breloom, Yawn Dondozo, and Thunder Wave Dragonite.</p>\n</li>\n<li>\n<p><strong>Covert Cloak</strong>: If using Tera Water against <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a>, Covert Cloak stops it from beating Volcarona with Salt Cure.</p>\n</li>\n<li>\n<p><strong>Kee Berry</strong>: Kee Berry's activated Defense boost makes Volcarona even more difficult to revenge kill, though it can only be used once per match.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>Odd HP versus Even HP</strong>: Volcarona will usually prefer an odd HP stat to take less residual damage, with Stealth Rock no longer 2HKOing it being the most important if Volcarona loses Heavy-Duty Boots from Knock Off. However, if using Sitrus Berry, move 8 Defense EVs to HP so that one switch into Stealth Rock activates it.</p>\n</li>\n<li>\n<p><strong>244 HP / 188 Def / 76 Spe with Timid</strong>: This EV spread lets Volcarona outspeed <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a> after one Quiver Dance.</p>\n</li>\n<li>\n<p><strong>244 HP / 188 Def / 4 SpA / 4 SpD / 68 Spe with Bold</strong>: This EV spread lets Volcarona outspeed <a href=\"/dex/sv/pokemon/meowscarada/battle-stadium-singles/\" hreflang=\"en\">Meowscarada</a> after one Quiver Dance.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 188,
+              "spa": 0,
+              "spd": 0,
+              "spe": 76
+            },
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 188,
+              "spa": 4,
+              "spd": 4,
+              "spe": 68
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Bold"
+          ]
+        },
+        {
+          "name": "Offensive Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This far speedier approach to sweeping with Volcarona is more risky, but can catch more passive teams by surprise with its greater coverage.</p>\n</li>\n<li>\n<p><strong>Giga Drain</strong>: Giga Drain is the best coverage option for Volcarona, as it helps it deal with Water-type Pokémon like <a href=\"/dex/sv/pokemon/basculegion/battle-stadium-singles/\" hreflang=\"en\">Basculegion</a>, as well as recover a good amount of HP.</p>\n</li>\n<li>\n<p><strong>Bug Buzz</strong>: Bug Buzz's coverage isn't that great, but its ability to ignore Substitute and hit <a href=\"/dex/sv/pokemon/hydreigon/battle-stadium-singles/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/tyranitar/battle-stadium-singles/\" hreflang=\"en\">Tyranitar</a> hard makes it a reasonable coverage move if using Tera Grass.</p>\n</li>\n<li>\n<p><strong>Timid versus Modest</strong>: Timid is preferred for outpseeding Jolly <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>, Timid Hydreigon, and Jolly <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>, but Modest is fully acceptable if these aren't issues for your team.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - High</strong>: This Volcarona is heavily pressured to start sweeping after it sets up, so Terastallization can widen the opportunities to do so.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is a big help against powerful Dragon-type attacks such as Choice Band <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>'s Outrage and Baxcalibur's Scale Shot, and it gives Volcarona good coverage against them too with Tera Blast.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Terastallizing into the Water typing nullifies Volcarona's most common weakness in Rock-type, and Water-type Tera Blast is also the best option Volcarona has to hit <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a> and opposing Volcarona.</p>\n</li>\n<li>\n<p><strong>Rock</strong>: Tera Rock lets Volcarona cover Dragonite, Skeledirge, and opposing Volcarona with Tera Blast, and provides a very useful Extreme Speed resistance. When used with Sand Stream from <a href=\"/dex/sv/pokemon/hippowdon/battle-stadium-singles/\" hreflang=\"en\">Hippowdon</a> or Tyranitar, it also makes Volcarona quite specially bulky.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: The Grass typing strengthens Giga Drain and nullifies Volcarona's weakness to Water-types, most notably helping against <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a>, and Basculegion. Note that this does leave Volcarona walled by Dragonite and opposing Volcarona.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Heavy-Duty Boots</strong>: It is the best option on Volcarona, as it circumvents its crippling Stealth Rock weakness.</p>\n</li>\n<li>\n<p><strong>Lum Berry</strong>: This Volcarona's more offensive nature makes it especially vulnerable to status moves from the likes of Dragonite and Focus Sash <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>, so Lum Berry is a reasonable way around this.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: If used with an even HP stat, Sitrus Berry will restore Volcarona's health the moment it switches into Stealth Rock.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Lum Berry",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Water",
+            "Rock"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "SOLAR FLARE (Choiced Attacker)",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With its high Speed and immediate power, Volcarona is a good candidate for a choice item that can surprise its usual switch-ins.</p>\n</li>\n<li>\n<p><strong>Fiery Dance</strong>: Fiery Dance is a potent cleaning tool thanks to its high chance of boosting Volcarona’s Special Attack.</p>\n</li>\n<li>\n<p><strong>Overheat</strong>: Overheat deals good immediate damage, which can allow Volcarona to wear down otherwise annoying walls without much prediction, such as defensive <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a>.</p>\n</li>\n<li>\n<p><strong>Bug Buzz</strong>: Bug Buzz is a good secondary STAB move that allows Volcarona to hit foes hiding behind a substitute, with <a href=\"/dex/sv/pokemon/hydreigon/battle-stadium-singles/\" hreflang=\"en\">Hydreigon</a> and Tera Water <a href=\"/dex/sv/pokemon/gliscor/battle-stadium-singles/\" hreflang=\"en\">Gliscor</a> being particularly juicy targets.</p>\n</li>\n<li>\n<p><strong>Giga Drain</strong>: Giga Drain is Volcarona’s best option to hit troublesome Water-types like Primarina, Dondozo, and <a href=\"/dex/sv/pokemon/basculegion/battle-stadium-singles/\" hreflang=\"en\">Basculegion</a>.</p>\n</li>\n<li>\n<p><strong>Choice Specs versus Choice Scarf</strong>: With the extra power offered by Choice Specs, Volcarona becomes even more difficult to wall, with even resistances like <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a> taking over 50% from it! Choice Scarf on the other hand, allow sVolcarona to outspeed the entire unboosted metagame, allowing it to revenge kill surprising targets such as <a href=\"/dex/sv/pokemon/meowscarada/battle-stadium-singles/\" hreflang=\"en\">Meowscarada</a>.</p>\n</li>\n<li>\n<p><strong>Timid versus Modest</strong>: Modest's extra damage output is appealing, but it does lead to a speed tie against Jolly <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>, and being outsped by Jolly <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li><strong>U-turn</strong>: Volcarona can make for a decent pivot with U-turn, but this move becomes far more risky to use against teams with Stealth Rock support.</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - High</strong>: This Volcarona takes a more hit-and-run approach compared to other sets, making it especially vulnerable to Stealth Rock damage. Terastallization can solve this issue without needing extra support!</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire transforms Choice Specs Volcarona into a horrifically powerful wallbreaker, with even physically defensive Dondozo and Primarina that lack Assault Vest taking over 50% from Overheat!</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: When paired with Tera Blast, a Fairy Tera type allows Volcarona to better handle the many Dragon-types in the metagame, with the major targets including <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, Garchomp, and Hydreigon.</p>\n</li>\n<li>\n<p><strong>Rock</strong>: Tera Rock covers Dragonite, <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a>, and opposing Volcarona with Tera Blast, and provides a wonderful resistance to Dragonite's Extreme Speed, at the cost of potentially being revenge killed by <a href=\"/dex/sv/pokemon/scizor/battle-stadium-singles/\" hreflang=\"en\">Scizor</a>.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: A Grass Tera type allows Volcarona to resist the many Water-type attacks aimed at it and gives it a better chance at breaking past Dondozo.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fire",
+            "Fairy",
+            "Rock"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 469498,
+            "username": "luisin"
+          },
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          },
+          {
+            "user_id": 528485,
+            "username": "DerpySuX"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Volcarona is a great setup Pokemon thanks to the superb Quiver Dance and great stats across the board. Volcarona can consistently set up in front of <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>, and, to an extent, <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>, thanks to its typing and a relatively fast Quiver Dance.</p>\n</li>\n<li>\n<p>Volcarona appreciates redirection from <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>, Intimidate Pokemon such as <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/landorus-therian/vgc24-regulation-f/\" hreflang=\"en\">Landorus-T</a>, and Fake Out Pokemon like Rillaboom. All of these generate free turns for Volcarona to set up for a sweep. Rillaboom also provides it with Grassy Terrain recovery, which can make Volcarona extremely hard to bring down.</p>\n</li>\n<li>\n<p>Volcarona struggles against Fire-type physical attackers like Incineroar, <a href=\"/dex/sv/pokemon/entei/vgc24-regulation-f/\" hreflang=\"en\">Entei</a>, and Terastallized <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-H</a>, which wall it and threaten it for massive damage without the fear of being burned. <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and Ogerpon-W also force a Terastallization, though they can be handled if Volcarona sets up enough Quiver Dances.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Volcarona prefers Flamethrower as its Fire-type STAB move for the OHKO on <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> at +1 and the OHKOs on Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a> when at +2. Volcarona uses Tera Blast to threaten <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a> and the <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes. Giga Drain can be used instead for longevity and a better way to threaten Tera <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>.</p>\n</li>\n<li>\n<p>Leftovers' recovery is most effective, as Volcarona is intended to stay on the field from start to finish, Giga Drain and common support enables this.</p>\n</li>\n<li>\n<p>The EVs allow Volcarona to survive Ogerpon-W's Ivy Cudgel, and, when Terastallized and at +1 Special Defense, two Special Attack Booster Energy <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> Dazzling Gleams. The Speed investment allows for Volcarona to outspeed unboosted <a href=\"/dex/sv/pokemon/iron-bundle/vgc24-regulation-f/\" hreflang=\"en\">Iron Bundle</a> after a Quiver Dance, and the remaining EVs are used to maximize damage.</p>\n</li>\n<li>\n<p>Even when boosted, Volcarona will struggle against the aforementioned Fire-types, so <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> make great teammates. Volcarona is a great answer to Flutter Mane and Rillaboom in return.</p>\n</li>\n<li>\n<p>Volcarona prefers Tera Fairy to resist Urshifu-S's STAB moves, while Tera Dragon is another option to resist Urshifu-R's Surging Strikes and Ogerpon-W's STAB moves. Both Tera types synergise with Volcarona's original typing, thanks providing Steel-, Ice-, and Fairy-type resistances.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 68,
+              "spa": 36,
+              "spd": 12,
+              "spe": 140
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 294287,
+                "username": "yuki"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Quiver Dance Volcarona is a very interesting Pokemon in Regulation G because of its amazing setup potential, good bulk, and respectable damage after Quiver Dance. Volcarona does well against <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> and <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>, since it can 2HKO both of them with Flamethrower. The Special Defense investment allows Volcarona to almost always survive a Life Orb Blood Moon from <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna-B</a> and three non-Terastallized Choice Specs Moonblasts from <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>. The Speed investment allows it to outspeed Pokemon with base 135 Speed after a Quiver Dance, and a Timid nature lets Volcarona outspeed <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> after one Quiver Dance as well. 92 Defense EVs allow it to survive 2 Icicle Crashes from <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a> and two Behemoth Blades from <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a> after Leftovers recovery. Flame Body is a great ability, as being able to burn an opposing Pokemon is very valuable in case you are facing down Pokemon such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> and Zamazenta-C. Volcarona loves to run Tera Dragon to give it helpful resistances to Water- and Electric-type moves such as Surging Strikes from Urshifu-R and Electro Drift from <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>.</p>\n<p>Volcarona can, however, have some tough matchups. <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a> specifically is a horrible matchup for it, as Water Spout is a guaranteed OHKO against a Volcarona that is not Terastallized. Both Kyogre and <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> can dampen Volcarona's damage output as well, forcing it to rely on Bug Buzz, which does not threaten Kyogre or Pelipper in the slightest. <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> and the <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon</a> formes can all do massive damage to it as well. The aforementioned Urshifu-R is also a check to Volcarona, since it can OHKO Volcarona that is not Terastallized with Surging Strikes. Pelipper and <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> are also threats since they can hit Volcarona for super effective damage with their STAB moves. A lot of these bad matchups are why it is so important to run Miraidon next to Volcarona, as Miraidon can OHKO the aforementioned checks. <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, and <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-g/\" hreflang=\"en\">Iron Hands</a> can all help with setting up Quiver Dance with Fake Out, and <a href=\"/dex/sv/pokemon/whimsicott/vgc24-regulation-g/\" hreflang=\"en\">Whimsicott</a> can help set up Quiver Dance with Encore or provide speed control with Tailwind in case Quiver Dance isn’t the best option in the current game state.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 92,
+              "spa": 12,
+              "spd": 12,
+              "spe": 140
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Bulky Support",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Volcarona can be used as an effective support Pokemon that is capable of redirecting attacks for its partners and weakening opponents. Volcarona matches up well into powerful special attackers such as <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>, <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna-B</a>, as it can lower their Special Attack with Struggle Bug. Volcarona also has great matchups into physical threats such as <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a>, and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a>, as it is capable of surviving their attacks and crippling them with a burn with Flame Body or Will-O-Wisp. Overheat is used to deal significant damage to Calyrex-I and Zacian-C, while Flamethrower is used for more consistent damage. Bug Buzz can be a great alternative when Volcarona is paired with <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a> to deal consistent, unhindered damage to Grass-types threatening Kyogre such as <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, as well as allowing it to damage <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-g/\" hreflang=\"en\">Farigiraf</a>, and Raging Bolt sufficiently. Safety Goggles provides Volcarona with immunity to opposing Rage Powder and Spore, while Covert Cloak is used to gain immunity from Fake Out flinching, allowing it to continue supporting its teammates unhindered. Rocky Helmet synergizes with Volcarona's redirection by dealing chip damage, allowing it to break Focus Sash or KO Pokemon brought down to 1 HP with Focus Sash. This is especially effective against <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> after Volcarona Terastallizes, with Rocky Helmet and Flame Body working in tandem to deal significant damage and burn Urshifu-R, punishing Surging Strikes. The defensive investment allows Volcarona to frequently survive Flare Blitz from <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> and makes High Horsepower from Calyrex-I and Behemoth Blade from Zacian-C only 3HKO, while the Speed investment allows Volcarona to outrun <a href=\"/dex/sv/pokemon/smeargle/vgc24-regulation-g/\" hreflang=\"en\">Smeargle</a>. Tera Water offers resistance to Surging Strikes from Urshifu-R and Water Spout from Kyogre as well as a resistance to Flare Blitz from Koraidon, while Tera Grass provides an immunity to Spore and Rage Powder while also resisting the aforementioned Water-type attacks.</p>\n<p>Volcarona pairs well with Terapagos, as Volcarona can burn the Fighting-types that threaten Terapagos such as Urshifu-R, <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-g/\" hreflang=\"en\">Iron Hands</a>, and Zamazenta-C and redirect attacks, allowing Terapagos to set up with Calm Mind. Volcarona struggles against Water-types like Urshifu-R and Kyogre as well as Flying-types like <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a>, as it cannot damage them sufficiently and is threatened by their STAB attacks. As a result, Rillaboom is a great partner, as it can threaten these Water-types as well as provide Grassy Terrain recovery, boosting Volcarona's longevity. Volcarona also struggles against Fire-types and Pokemon that usually utilize Tera Fire such as Incineroar and Koraidon, as it can neither burn nor deal significant damage to them. Urshifu-R and Kyogre therefore pair well with Volcarona, both of which threaten Incineroar and Koraidon with their STAB Water-type attacks; Kyogre also overrides Koraidon's sun with its own rain, further hindering Koraidon. In return, Volcarona threatens checks to the aforementioned Water-types such as Rillaboom and Raging Bolt, as it can burn Rillaboom with Will-O-Wisp or through Flame Body and redirect Raging Bolt's Electric STABs with Rage Powder.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Safety Goggles",
+            "Covert Cloak",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Struggle Bug",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 196,
+              "spa": 0,
+              "spd": 0,
+              "spe": 60
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 589964,
+            "username": "RauSakura"
+          },
+          {
+            "user_id": 646005,
+            "username": "flutterfan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 239881,
+                "username": "Mr.GX"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 572981,
+                "username": "Aera"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Redirector",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Volcarona has a solid place in Regulation I due to its ability to function as a support piece for its team, using redirection to protect its teammates and punish physical attackers, most notably <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a>, and <a href=\"/dex/sv/pokemon/iron-hands/vgc25-regulation-i/\" hreflang=\"en\">Iron Hands</a>, with Rocky Helmet and potential Flame Body burns. It can utilize Struggle Bug and other moves such as Will-O-Wisp to further support its team while outputting strong damage using its Fire-type STAB move.</li>\n<li>Fiery Dance is the Fire-type STAB option for Volcarona, being able to boost its damage output while dealing sizeable damage, with the damage boost allowing for it to potentially pick up a 2HKO on <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a>. Will-O-Wisp can be used to neuter physical threats such as Calyrex-I and Zamazenta-C without relying on Flame Body, while Tailwind can allow Volcarona to support its team through speed control. Struggle Bug allows Volcarona to hamper the opponent's special offense while dealing decent damage and breaking Focus Sashes, which is particularly problematic for opposing <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a>; it also can break <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a>'s Shadow Shield while crippling its offense.</li>\n<li>Rocky Helmet in tandem with Flame Body punishes contact moves greatly, especially those that come from Urshifu-R, while Electric Seed can be used on <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a> teams to further bolster Volcarona's physical bulk and afford it more survivability, most importantly allowing it to live a Life Orb Flare Blitz from <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a>.</li>\n<li>The first EV spread allows Volcarona to take a +1 Life Orb Calyrex-S Astral Barrage and a Choice Specs Miraidon Volt Switch the majority of the time, three Glacial Lances from Calyrex-I and a Tera Fire Flame Charge from Life Orb Koraidon while allowing Volcarona to outspeed Adamant Urshifu-R. The second EV spread allows Volcarona to take two Sword of Ruin-boosted Body Presses from Zamazenta-C, two Sucker Punches from <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a>, and a +2 Astral Barrage from Calyrex-S without a boosting item.</li>\n<li>Tera Dragon allows Volcarona to resist Water-, Fire- and Electric-type attacks from the likes of Urshifu-R, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-H</a>, and Miraidon, respectively, allowing Volcarona to maintain a strong defensive presence. Tera Water provides a resistance to the aforementioned Water- and Fire-type attacks while crucially maintaining a resistance to Glacial Lance from Calyrex-I after Terastallizing.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li><a href=\"/dex/sv/pokemon/ogerpon-cornerstone/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-C</a> is very problematic for Volcarona, as it is able to threaten to OHKO it with Ivy Cudgel, which also avoids Rocky Helmet and Flame Body due to it not making contact, while ignoring Rage Powder due to its Grass typing and still dealing large damage after Volcarona Terastallizes. Similarly, Miraidon can threaten Volcarona with massive damage before and after Terastallization while not being threatened by it in return.</li>\n<li>Foes that have powerful spread options, namely Calyrex-S and <a href=\"/dex/sv/pokemon/kyogre/vgc25-regulation-i/\" hreflang=\"en\">Kyogre</a>, can also be problematic, as they can deal massive damage to Volcarona and its partner while ignoring Volcarona's redirection.</li>\n<li>Miraidon pairs amazingly with Volcarona, as Volcarona can protect Miraidon from powerful attacks, notably Ice Spinner from Chien-Pao and Play Rough from <a href=\"/dex/sv/pokemon/zacian-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zacian-C</a>, while threatening Rillaboom, which can be problematic for Miraidon. In return, Miraidon can hit Water- and Flying-types like Urshifu-R, Kyogre, and <a href=\"/dex/sv/pokemon/tornadus/vgc25-regulation-i/\" hreflang=\"en\">Tornadus</a> with massive damage from its Electric-type STAB moves.</li>\n<li>Calyrex-I also pairs very effectively with Volcarona, with Calyrex-I greatly appreciating redirection to allow it to safely set Trick Room and sweep; it also hits Dragon-types that can threaten Volcarona such as Miraidon and Koraidon with Glacial Lance.</li>\n<li>Zamazenta-C partners well with Volcarona, with Volcarona's redirection allowing Zamazenta-C to stay safe, notably from Koraidon. Zamazenta-C's Wide Guard alleviates Volcarona's weakness to spread and its Body Press threatens Ogerpon-C.</li>\n<li><a href=\"/dex/sv/pokemon/grimmsnarl/vgc25-regulation-i/\" hreflang=\"en\">Grimmsnarl</a> can set up dual screens to assist Volcarona in supporting the team, while Volcarona's redirection can assist Grimmsnarl to in safely setting the screens up, and they both form a strong utility core for a team. Iron Hands threatens many common counters to Volcarona, notably Ogerpon-C and Kyogre, while Iron Hands greatly appreciates Volcarona's redirection and ability to threaten <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a> and Rillaboom.</li>\n<li>Rillaboom itself pairs well with Volcarona, with Rillaboom threatening Water-types like Urshifu-R and Kyogre, and Volcarona in return hits Amoonguss and other Grass-types that can wall Rillaboom.</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Electric Seed"
+          ],
+          "teratypes": [
+            "Dragon",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Struggle Bug",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 116,
+              "spa": 4,
+              "spd": 4,
+              "spe": 132
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 196,
+              "spa": 0,
+              "spd": 60,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Bold"
+          ]
+        },
+        {
+          "name": "Bulky Setup Sweeper",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Volcarona relies on Quiver Dance to sustain itself and make it a threat on the field that deals massive damage with immense special bulk and high speed. Volcarona has a good matchup into both <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a> and <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> as well as <a href=\"/dex/sv/pokemon/zacian-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zacian-C</a> and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a> thanks to its typing, STAB Fire-type moves, and ability to boost its bulk with Quiver Dance to survive more hits and outspeed Calyrex-S.</li>\n<li>Struggle Bug is a good choice for breaking the Focus Sash of Calyrex-S, Shadow Shield of <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a>, or Tera Shell of <a href=\"/dex/sv/pokemon/terapagos/vgc25-regulation-i/\" hreflang=\"en\">Terapagos</a> while lowering their Special Attack. Giga Drain provides a potential healing option for Volcarona and hits Water-type Pokemon like <a href=\"/dex/sv/pokemon/kyogre/vgc25-regulation-i/\" hreflang=\"en\">Kyogre</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>, which Volcarona can otherwise struggle to handle. Fiery Dance is a weaker option than Flamethrower but offers a chance to boost Volcarona's Special Attack, further boosting the sweeping potential of Volcarona.</li>\n<li>Leftovers provides recovery for Volcarona every turn to sustain itself on the field longer. Volcarona uses Electric Seed when paired next to <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a>, allowing it to survive a Flare Blitz from <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a>.</li>\n<li>The Speed investment allows Volcarona to outspeed Calyrex-S after a single use of Quiver Dance as well as Choice Scarf Urshifu-R. The bulk allows Volcarona to live two Astral Barrages from Calyrex-S after a Quiver Dance and survive Behemoth Blade from bulky Zacian-C even after a Swords Dance. The Special Attack investment lets it OKHO <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a> with Flamethrower at +1 Special Attack and OHKO Zacian-C with Flamethrower at +2.</li>\n<li>Volcarona is threatened by Water- and Fire-type attacks like Surging Strikes from Urshifu-R and Flare Blitz from Koraidon, so Tera Dragon is optimal to resist both types. Tera Grass provides a way to ignore Spore and other powder moves like Rage Powder from Amoonguss while providing a resistance to Water-type attacks. Tera Grass also boosts the damage of Giga Drain, making it more effective against Water-type Pokemon like Urshifu-R.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Volcarona struggles to break through Lunala even after setting up due to its ability Shadow Shield and access to Meteor Beam, which can OHKO Volcarona.</li>\n<li>Kyogre can OHKO Volcarona with Water-type moves like Water Spout and decrease the damage of Flamethrower and Fiery Dance with Drizzle. Kyogre can also threaten Terastallized Volcarona with Ice Beam.</li>\n<li>Koraidon can resist attacks from Volcarona, making it hard for Volcarona to break through. Koraidon can also OHKO Tera Grass Volcarona with a sun-boosted Fire-type move like Flare Blitz.</li>\n<li><a href=\"/dex/sv/pokemon/ogerpon-cornerstone/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-C</a> threatens to OHKO Volcarona with Ivy Cudgel. Follow Me can redirect Flamethrower and Fiery Dance away from threats like Terapagos and Calyrex-S.</li>\n<li>Zamazenta-C is a great partner for Volcarona, as it can take many attacks while hitting physically against threats like Kyogre and Ogerpon-C with Body Press or breaking through Lunala with Behemoth Bash. Volcarona handles Amoonguss with Flamethrower, which Zamazenta-C tends to struggle against.</li>\n<li>Miraidon can set up Electric Terrain to active Electric Seed and make it so that Volcarona can't be put to sleep by Amoonguss using Spore. Miraidon also can handle Water-types like Kyogre and Urshifu-R. Miraidon threatens Koraidon with Draco Meteor, and Volcarona's Fire-type moves can handle Calyrex-I and Zacian-C that threaten Miraidon.</li>\n<li><a href=\"/dex/sv/pokemon/grimmsnarl/vgc25-regulation-i/\" hreflang=\"en\">Grimmsnarl</a> can provide extra support to Volcarona with Light Screen and Reflect so that Volcarona can more safely set up Quiver Dance. In Return, Volcarona threatens Zacian-C, which threatens to OHKO Grimmsnarl.</li>\n<li><a href=\"/dex/sv/pokemon/iron-hands/vgc25-regulation-i/\" hreflang=\"en\">Iron Hands</a> is a great slow partner for Volcarona to handle Trick Room threats like <a href=\"/dex/sv/pokemon/ursaluna/vgc25-regulation-i/\" hreflang=\"en\">Ursaluna</a> and Calyrex-I with Low Kick. Iron Hands can also break through Water-type Pokemon like Urshifu-R and has access to Fake Out to flinch an opposing Pokemon, which assists Volcarona in setting up Quiver Dance.</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Leftovers",
+            "Electric Seed"
+          ],
+          "teratypes": [
+            "Dragon",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Struggle Bug",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 92,
+              "spa": 12,
+              "spd": 28,
+              "spe": 132
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 634750,
+            "username": "Yueku"
+          },
+          {
+            "user_id": 695310,
+            "username": "sheepie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Quiver Dance Volcarona is a staple of balance teams, as it can utilize the support given by redirectors such as <a href=\"/dex/sv/pokemon/electabuzz/vgc/\" hreflang=\"en\">Electabuzz</a> and Fake Out users such as <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> to set up safely and launch huge damage against a majority of the format.</li>\n<li>Support Volcarona is a staple of offense teams, as it can protect the frail offensive teammates that it's paired with such as <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/indeedee/vgc/\" hreflang=\"en\">Indeedee-M</a>, and <a href=\"/dex/sv/pokemon/excadrill/vgc/\" hreflang=\"en\">Excadrill</a> through redirection, provide damage reduction through Flame Body burns and Struggle Bug, and provide speed control through Tailwind. In return, Volcarona's teammates can deal high damage to make up for its low offensive output.</li>\n<li>Quiver Dance Volcarona pairs excellently with Rillaboom, as it provides Fake Out to help Volcarona set up and uses its Grass-type STAB moves to pressure the Water- and Rock-types that threaten Volcarona such as <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>. Rillaboom can also check both <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> formes, whose high-powered moves hit Volcarona very hard.</li>\n<li>Another great partner is Incineroar, which can provide damage reduction in the form of Intimidate and Parting Shot. Incineroar's access to Taunt prevents Spore, opposing Taunt, and Trick Room, all of which would hinder Volcarona. Incineroar also has Fake Out to allow Volcarona to set up safely.</li>\n<li><a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a> provides coverage to hit Dragon-types such as <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> in Blizzard, speed control in the form of Icy Wind, and damage reduction in Aurora Veil. It also helps Volcarona against rain teams by overriding rain and can hit Basculegion-M and <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a> with Freeze Dry.</li>\n<li>Electabuzz provides redirection to help Volcarona set up and has a resistance to Flying-type attacks and an immunity to sleep to redirect Spore from <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a> and Sleep Powder from <a href=\"/dex/sv/pokemon/jumpluff/vgc/\" hreflang=\"en\">Jumpluff</a>. Electabuzz also has access to Taunt and speed control in the form of Electroweb to allow Volcarona to go first.</li>\n<li>Basculegion-M is a great partner Pokemon for Quiver Dance Volcarona, as it can hit the Fire-types that resist Volcarona's STAB moves and coverage. It particularly threatens Incineroar, which could otherwise disrupt Volcarona through Fake Out and Parting Shot. Basculegion-M also hits the Ursaluna formes that could otherwise threaten Volcarona. In return, Volcarona can hit Grass-types such as Rillaboom that threaten Basculegion-M.</li>\n<li>Dragonite is a useful ally for Volcarona, as it can hit opposing Dragon-types like Garchomp hard with Scale Shot and switch into powerful Water-type attacks like Wave Crash from <a href=\"/dex/sv/pokemon/dondozo/vgc/\" hreflang=\"en\">Dondozo</a> and Basculegion-M thanks to Multiscale and its Dragon typing.</li>\n<li>Quiver Dance Volcarona can be outsped and KOed by faster Pokemon such as <a href=\"/dex/sv/pokemon/charizard/vgc/\" hreflang=\"en\">Charizard</a> in the sun before it can set up, and its frailty on the physical side can be exploited by strong physical attackers such as Sneasler and Dragonite. Volcarona often needs to Terastallize to avoid being KOed, which can be exploited through pinning it or forcing it to switch out. Volcarona is vulnerable to Encore from Alolan Ninetales and <a href=\"/dex/sv/pokemon/whimsicott/vgc/\" hreflang=\"en\">Whimsicott</a>, forcing it to use Quiver Dance and risk being easily KOed. This can be dealt with through redirection from Pokemon such as Electabuzz to prevent Volcarona from being Encored or Taunt from Incineroar to prevent Encore.</li>\n<li>Support Volcarona pairs well with Pokemon such as <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> that appreciate Volcarona's ability to redirect Fighting-type moves that threaten them. Additionally, Volcarona both resists and can threaten the Grass- and Ice-types that Ursaluna-B is weak to. Archaludon's and Ursaluna-B's poor Special Defense stats can be mitigated through Volcarona's Struggle Bug. In return, Ursaluna-B, Kingambit, and Archaludon can threaten the Rock-, Water-, and Flying-types for Volcarona through Earth Power, Iron Head, and Electro Shot, respectively.</li>\n<li>Sneasler is a great partner for support Volcarona, as its frailty means it likes to have a supporting partner that can provide damage reduction and redirection. Sneasler in return can threaten Rock-types such as <a href=\"/dex/sv/pokemon/arcanine-hisui/vgc/\" hreflang=\"en\">Hisuian Arcanine</a> that threaten Volcarona.</li>\n<li>Dragonite and Archaludon can take Water-type attacks that threaten Volcarona. Ursaluna poses a problem for Volcarona, as it OHKOes Volcarona with Facade and doesn't care about being burned thanks to its Guts ability. Sneasler helps with this because its Fighting-type STAB moves threaten Ursaluna. Volcarona can struggle against Taunt users such as Incineroar and Electabuzz that prevent redirection and Tailwind while not taking much from Volcarona in return. Sneasler threatens Incineroar, while Ursaluna-B counters Electabuzz. Additionally, Kingambit discourages Incineroar from switching in and Taunting Volcarona through Defiant.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>Quiver Dance Volcarona's role is to set up Quiver Dance and snowball or punch holes in the opposing team for late in the game. Volcarona shines when paired with Fake Out, Intimidate, and redirection support, which can be used alongside Volcarona in the lead to ensure it can set up and sweep.</li>\n<li>Support Volcarona's role is to provide redirection, speed control, and damage reduction through Rage Powder, Tailwind, Flame Body, and Struggle Bug to allow high-powered offensive threats such as Ursaluna-B, Sneasler, and Kingambit to hit foes hard, move first, and survive for longer.</li>\n<li>Quiver Dance Volcarona is either led alongside Incineroar, Rillaboom, or other support Pokemon to set up Quiver Dance early-game and then sweep mid- or late-game or kept in the back, where it comes out late-game to set up and sweep through a weakened team. Trick Room is a problematic matchup for Quiver Dance Volcarona, as Ursaluna and <a href=\"/dex/sv/pokemon/torkoal/vgc/\" hreflang=\"en\">Torkoal</a> threaten to OHKO Volcarona before it can move. Volcarona isn't brought against these teams. Balance teams are a favorable matchup for Quiver Dance Volcarona, as they often can't threaten to KO Volcarona immediately, allowing Volcarona to set up and break through them with boosted attacks.</li>\n<li>Without Terastallization, Quiver Dance Volcarona is checked by Dragon-types such as Garchomp and Dragonite that resist its Fire-type STAB moves, with the latter being able to remove its boosts with Haze. This can be mitigated through Terastallization, specifically Tera Blast Fairy, or an Ice-type such as Alolan Ninetales. Without Giga Drain, Volcarona is checked by <a href=\"/dex/sv/pokemon/primarina/vgc/\" hreflang=\"en\">Primarina</a>, which resists Volcarona's Heat Wave, threatens it with Hyper Voice, and is specially bulky enough to take a Tera Blast Fairy and use Haze to remove Volcarona's boosts. This can be mitigated with Rillaboom, which threatens Primarina for super effective damage on its much weaker Defense. Rock-types such as <a href=\"/dex/sv/pokemon/tyranitar/vgc/\" hreflang=\"en\">Tyranitar</a> and Hisuian Arcanine resist Volcarona's Fire-type STAB move and threaten Volcarona with 4x super effective damage, forcing Volcarona to Terastallize or switch out. Tyranitar in particular can take multiple boosted attacks thanks to the Special Defense boost provided by both sand and its Assault Vest. Fighting- and Ground-types such as Sneasler and Ursaluna-B mitigate this by threatening these Rock-types for super effective damage.</li>\n<li>Support Volcarona shines when it's supporting powerful attackers that enjoy redirection and damage reduction to stay alive while providing high offensive output, such as Archaludon, Sneasler, and Ursaluna-B. Support Volcarona excels at being able to discourage contact moves from opposing Sneasler and Kingambit by threatening to burn them with Flame Body, permanently weakening them. Burning the former is great for Archaludon and Ursaluna-B.</li>\n<li>Support Volcarona can be led with in order to set up Tailwind for its teammates to utilize throughout the battle. It can also be kept in the back and switch into many of the common attacks it resists, such as Close Combat from Sneasler and Matcha Gotcha from <a href=\"/dex/sv/pokemon/sinistcha/vgc/\" hreflang=\"en\">Sinistcha</a>, to support its team through the battle.</li>\n<li>Super effective attacks such as Rock Slide and Weather Ball from Hisuian Arcanine and Pelipper, respectively, can threaten to OHKO support Volcarona and limit its supporting ability. Ursaluna doesn't care about burns and OHKOes Volcarona with Facade. To counteract this, Pokemon such as Sneasler and Rillaboom can threaten the Rock- and Water-types as well as Ursaluna that threaten Volcarona. Taunt Pokemon such as <a href=\"/dex/sv/pokemon/magmar/vgc/\" hreflang=\"en\">Magmar</a> and <a href=\"/dex/sv/pokemon/talonflame/vgc/\" hreflang=\"en\">Talonflame</a> can limit support Volcarona's ability to support its team while not taking much from its Fire-type STAB moves in return. The aforementioned Taunt Pokemon can be threatened by Excadrill and Tyranitar.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Quiver Dance Sweeper",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Volcarona acts as a dangerous setup sweeper through Quiver Dance, allowing it to sweep games. Through Terastallization, Volcarona can improve its survivability to prevent itself from being KOed by attacks it would normally be threatened by, allowing it to keep its boosts and retaliate. Volcarona provides invaluable Fire-type offense through Heat Wave, which threatens popular Grass-, Steel-, and Ice-types in the format such as <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a>.</li>\n<li>Heat Wave bypasses redirection from the likes of <a href=\"/dex/sv/pokemon/electabuzz/vgc/\" hreflang=\"en\">Electabuzz</a>, <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a>, and <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a>. Tera Blast Fairy allows Volcarona to damage Dragon-types such as <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>. Giga Drain on Tera Grass sets hits Water- and Ground-types, such as <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a> and both <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> formes.</li>\n<li>Covert Cloak allows Volcarona to ignore Fake Out, Speed drops from Icy Wind, and Special Attack drops from Snarl that would otherwise hinder its ability to set up and sweep. Grassy Seed helps Volcarona tank physical hits; however, this leaves Volcarona vulnerable to the aforementioned moves and is reliant on Grassy Terrain from Rillaboom to improve Volcarona's poor Defense. Leftovers provides passive healing, which, in combination with Grassy Terrain and Giga Drain recovery, extends Volcarona's longevity throughout a match and gives it more opportunities to dish out damage.</li>\n<li>Tera Fairy allows Volcarona to gain an immunity to Dragon-type attacks such as Scale Shot from Dragonite while providing a good defensive typing that importantly maintains its resistance to Fighting-type attacks from <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a>. However, it introduces new weaknesses to Poison- and Steel-type moves such as Sneasler's Dire Claw and Gholdengo's Make It Rain. Tera Grass gives Volcarona a resistance to Water- and Electric-type attacks such as Wave Crash from Basculegion-M and Electro Shot from <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>, allows Giga Drain to OHKO Basculegion-M at +1, and grants an immunity to powder moves from Pokemon such as Amoonguss and <a href=\"/dex/sv/pokemon/jumpluff/vgc/\" hreflang=\"en\">Jumpluff</a>. However, it retains Volcarona's weakness to Flying-type attacks such as <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a>'s Hurricane and <a href=\"/dex/sv/pokemon/kilowattrel/vgc/\" hreflang=\"en\">Kilowattrel</a>'s Air Slash. Tera Grass also introduces a new weakness to Fire-type attacks from <a href=\"/dex/sv/pokemon/torkoal/vgc/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/typhlosion-hisui/vgc/\" hreflang=\"en\">Hisuian Typhlosion</a>.</li>\n<li>The first EV spread is used on Covert Cloak and Leftovers sets, with the allocated bulk allowing Volcarona to always survive five hits of Scale Shot from Adamant Dragonite and almost always live two Dire Claws from Jolly Sneasler. With minimal Special Defense investment, Volcarona always survives a Blood Moon from Modest Tera Normal Life Orb <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> after a Quiver Dance boost. With a Modest nature, Volcarona can outspeed Adamant Dragonite, but with a Timid nature, Volcarona can outspeed unboosted Jolly Basculegion-M. The second EV spread is used on Grassy Seed sets. With the HP and Defense EVs, Volcarona can always survive an Adamant Guts-boosted Facade from Ursaluna with both Intimidate and the Grassy Seed boost. With the Speed EVs and a Timid nature, Volcarona can always outspeed Gholdengo and Archaludon, while a Modest nature lets Volcarona outspeed Adamant Dragonite and, after a Quiver Dance, outspeed Modest Ursaluna-B under Tailwind. The Special Attack investment with a Modest nature almost always ensures an OHKO on <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> with Heat Wave at +1 Special Attack.</li>\n<li>Quiver Dance Volcarona can sweep entire teams but requires multiple turns of setup, leaving it vulnerable to moves such as Spore, Taunt, and Encore that can prevent it from sweeping. Volcarona can often be forced to Terastallize or switch out due to its poor defensive typing that can be utilized by opponents to create pins against it or gain momentum by forcing Volcarona to switch out. Quiver Dance Volcarona prefers to stay on the field for a long time and is often led alongside supportive Pokemon such as <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> to set up early or kept in the back to set up and sweep a weakened team.</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Covert Cloak",
+            "Grassy Seed",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 140,
+              "spa": 4,
+              "spd": 4,
+              "spe": 108
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 60,
+              "spa": 36,
+              "spd": 4,
+              "spe": 156
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Bulky Redirector",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Volcarona acts as a great support Pokemon thanks to its access to redirection, speed control, damage reduction, its ability in Flame Body that discourages foes from hitting it with contact moves, and a STAB move that threatens many common Steel-, Grass-, and Ice-type Pokemon in the format such as <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a>.</li>\n<li>Overheat allows Volcarona to deal a big burst of damage, notably allowing it to always OHKO standard <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, Kingambit, and <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> while having a good chance to KO less specially defensive Amoonguss sets. Heat Wave hits both foes, ignoring redirection. Struggle Bug helps Volcarona's teammates survive longer against foes such as <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> and opposing Volcarona by lowering their Special Attack. Rage Powder allows Volcarona to redirect attacks to protect its partner and can potentially burn Pokemon whose contact moves are redirected to it through its ability, Flame Body. Tailwind provides speed control for Volcarona and its partners to ensure they always go first.</li>\n<li>Sitrus Berry improves Volcarona's survivability through its healing, while Safety Goggles allows Volcarona to become immune to powder moves from the likes of Amoonguss and <a href=\"/dex/sv/pokemon/jumpluff/vgc/\" hreflang=\"en\">Jumpluff</a>.</li>\n<li>Tera Water allows Volcarona to safely redirect Water-type moves from <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a> and <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a> such as Wave Crash and Weather Ball, respectively, while maintaining its resistance to Gholdengo's Make It Rain. However, Tera Water makes Volcarona weak to common Grass- and Electric-type moves such as Rillaboom's Wood Hammer and <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>'s Electro Shot. Tera Grass allows Volcarona to become immune to powder moves from Amoonguss and Jumpluff without Safety Goggles. However, it makes Volcarona weak to common Fire-type attacks such as opposing Volcarona's Heat Wave and <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>'s Flare Blitz. Additionally, Volcarona retains its weakness to Flying-type attacks such as <a href=\"/dex/sv/pokemon/flamigo/vgc/\" hreflang=\"en\">Flamigo</a>'s Brave Bird and <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>'s Acrobatics.\n-The EV spread allows Volcarona to survive a Black Glasses Kowtow Cleave from Adamant Kingambit and nearly always live five hits of Scale Shot from Adamant <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>. Additionally, Volcarona can always live <a href=\"/dex/sv/pokemon/kilowattrel/vgc/\" hreflang=\"en\">Kilowattrel</a>'s Air Slash, a +2 Special Attack Volcarona's Heat Wave, and a -1 Special Attack Tera Normal Life Orb Blood Moon from Ursaluna-B. Maximum Speed EVs and a Timid nature allow Volcarona to outrun <a href=\"/dex/sv/pokemon/typhlosion-hisui/vgc/\" hreflang=\"en\">Hisuian Typhlosion</a> and, under Tailwind, faster Pokemon such as Sneasler and +1 Speed Dragonite.</li>\n<li>Support Volcarona is a good option able to lower the opponent's offensive prowess through burn from Flame Body and Special Attack drops from Struggle Bug, provide speed control, and threaten the format's Grass-, Steel- and Ice-types. However, its typing leaves it with many weaknesses compared to other redirectors such as <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a> and Amoonguss, meaning it can go down quickly to super effective attacks such as Rock Slide, Wave Crash, and Hurricane from <a href=\"/dex/sv/pokemon/arcanine-hisui/vgc/\" hreflang=\"en\">Hisuian Arcanine</a>, Basculegion-M and Pelipper, respectively. Support Volcarona isn't concerned about having to switch out and isn't as vulnerable to Encore since it does not need to set up. However, support Volcarona doesn't have the ability to sweep games or punch holes in opposing teams compared to Quiver Dance Volcarona.</li>\n</ul>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Safety Goggles"
+          ],
+          "teratypes": [
+            "Water",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Struggle Bug",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 156,
+              "atk": 0,
+              "def": 84,
+              "spa": 12,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 716969,
+            "username": "A Regu1ar Guy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              },
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Blue Flare",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tail Glow",
+                "type": null
+              },
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance Sweeper",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Powder",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 68,
+              "spa": 36,
+              "spd": 12,
+              "spe": 140
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 8-9 points</p>\n<p><strong>Overview</strong>: Volcarona greatly suffers from the metagame dynamics present in Draft, becoming highly matchup-dependent and requiring the proper support to be effective. On the right teams, it can be a formidable setup sweeper with Quiver Dance, tearing through weakened teams with its powerful STAB moves and running either bulky or fast sets as necessary. However, Volcarona struggles against many special walls, is normally forced to run Heavy-Duty Boots, and has four-moveslot syndrome between STAB moves, coverage moves, Will-O-Wisp, and Morning Sun all fighting for space alongside Quiver Dance. It also has a hard time setting up against even foes it normally exploits, as the advance warning and preparation the format gives them means that they can run coverage to deal with it.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Volcarona can use Quiver Dance to quickly snowball into a threatening sweeper, especially with Fiery Dance to allow it to set up further while attacking. It can go in a bulkier direction, taking advantage of Flame Body, Will-O-Wisp, and Morning Sun to set up on physical attackers, or in a more purely offensive direction, maximizing its Speed and Special Attack to outrun and KO the opposing team.</p>\n<p><strong>Bulky Pivot</strong>: Alternatively, Volcarona can sometimes forsake Quiver Dance entirely to take advantage of its solid defenses and utility moves and ambush foes expecting its setup set. It can burn physical attackers with Will-O-Wisp and Flame Body, provide pivoting with U-turn, maintain its longevity with Morning Sun, or phaze setup sweepers with Whirlwind while still being specially threatening with Fiery Dance. It does this most often in matchups against teams with too many checks to it, where its setup sweeper set cannot function.</p>\n<p><strong>Wallbreaker</strong>: Rarely, Volcarona can use Choice Specs or another damage-boosting item over Heavy-Duty Boots to increase its damage output to the point where it can wallbreak. This is only viable when the opposing team has weak entry hazard setters and its team is particularly consistent at removing hazards.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Fiery Dance, Fire Blast, Flamethrower, Bug Buzz, Overheat</p>\n<p><strong>Setup Moves</strong>: Quiver Dance</p>\n<p><strong>Utility Moves</strong>: Morning Sun, Will-O-Wisp, Substitute, U-turn, Whirlwind</p>\n<p><strong>Coverage</strong>: Giga Drain, Psychic, Hurricane, Air Slash</p>\n<h3>Niche Moves</h3>\n<p><strong>Fire Spin</strong>: With Fire Spin, Volcarona can trap and set up on overly passive foes or keep a switch-in on the field while it switches out to a check.</p>\n<p><strong>Light Screen</strong>: Although it cannot set dual screens, as it lacks Reflect, Volcarona can provide Light Screen support to its team. However, it's somewhat unreliable at doing this, since it cannot safely hold Light Clay over Heavy-Duty Boots.</p>\n<p><strong>Solar Beam</strong>: On sun teams or if it can afford to run Power Herb, Volcarona can run Solar Beam to hit Ground-, Rock-, and Water-types harder than with Giga Drain.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots is practically mandatory for Volcarona, given its severe weakness to Stealth Rock. It can only afford to run other items in a matchup if the opposing team has poor access to Stealth Rock and its team can consistently remove entry hazards.</p>\n<h3>Niche Items</h3>\n<p><strong>Leftovers</strong>: Leftovers can increase Volcarona's longevity when setting up and is particularly effective on bulky sets.</p>\n<p><strong>Damage-boosting Items</strong>: More offensive sets can use damage-boosting items like Life Orb and Choice Specs to more easily KO foes.</p>\n<p><strong>Resistance Berries</strong>: Opposing preparation for Volcarona often involves foes running super effective coverage moves to stop it from setting up. The right resistance Berry can give it the turn it needs to set up a crucial Quiver Dance.</p>\n<p><strong>Lum Berry</strong>: Similarly, many of Volcarona's checks attempt to deal with it with status-inflicting moves like Toxic and Thunder Wave. Lum Berry can cure its status and let it break past these checks.</p>\n<p><strong>Mental Herb</strong>: Against Taunt and Encore users, Volcarona can hold Mental Herb to set up despite a disruption attempt.</p>\n<h3>Tera</h3>\n<p>Volcarona is normally Tera banned, but it should always be used as a Tera Captain if possible. Terastallizing gives it the flexibility in coverage it needs and takes away the benefit of opposing preparation. Some excellent Tera types for it are Tera Grass, Fire, Water, Fairy, and Ground, but it can viably run any Tera type that gives it necessary coverage or room to set up. Tera Volcarona is extremely difficult to prepare for, as it can easily turn the tables on its checks with its variety of viable Tera types.</p>\n<h3>Draft Strategy</h3>\n<p>Volcarona may look tempting to build around, but it's unreliable as a main setup sweeper. It works best when it's accompanied by other offensive Pokemon that can wear down its checks while presenting more threats for the opponent to prepare for, diluting the opponent's ability to deal with it.</p>\n<p><strong>Offensive Pokemon</strong>: Volcarona shines alongside physical wallbreakers that deal with the special walls that beat it and special wallbreakers that can wear down the checks they share. It also prefers not to be the main setup sweeper on a draft due to its many weaknesses and the ease of opposing preparation to deal with it. Offensive Pokemon that work well with Volcarona include <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/serperior/draft/\" hreflang=\"en\">Serperior</a>, and <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a>.</p>\n<p><strong>Knock Off Absorbers</strong>: Losing its Heavy-Duty Boots is devastating to Volcarona. Dark-resistant teammates that don't mind losing their item, such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/clefable/draft/\" hreflang=\"en\">Clefable</a>, can switch into Knock Off for it.</p>\n<p><strong>Entry Hazard Control</strong>: Although Volcarona normally runs Heavy-Duty Boots, entry hazard control can be useful in case its item is removed by means such as Knock Off and Trick or another item is particularly good in a matchup. Hazard removers that pair well with Volcarona include <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/draft/\" hreflang=\"en\">Galarian Weezing</a>.</p>\n<p><strong>Status Absorbers</strong>: Teammates like <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and Clefable that can ignore Toxic and paralysis, which greatly hinder Volcarona, are highly useful.</p>\n<p><strong>Dual Screens</strong>: Dual screens can increase Volcarona's bulk for the turn or two it needs to set up, protecting it against dangerous coverage moves and potent offensive foes. Setters like <a href=\"/dex/sv/pokemon/ninetales-alola/draft/\" hreflang=\"en\">Alolan Ninetales</a> and <a href=\"/dex/sv/pokemon/grimmsnarl/draft/\" hreflang=\"en\">Grimmsnarl</a> work well with Volcarona.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Specially Defensive Pokemon</strong>: Special walls, common on Draft rosters, are the bane of Volcarona's existence. It often can't break specially defensive Pokemon that can deal with its setup in some way and aren't weak to its few coverage moves. These include <a href=\"/dex/sv/pokemon/volcanion/draft/\" hreflang=\"en\">Volcanion</a>, <a href=\"/dex/sv/pokemon/skeledirge/draft/\" hreflang=\"en\">Skeledirge</a>, Galarian Slowking, and especially <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a>. It also struggles with bulky foes that can equip an Assault Vest to deal with it, such as <a href=\"/dex/sv/pokemon/muk-alola/draft/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>.</p>\n<p><strong>Rock-type Coverage</strong>: A large variety of Pokemon learn Rock-type coverage moves like Rock Slide, Stone Edge, Power Gem, and even Rock Tomb and can run them to force out or ambush Volcarona. This includes a wide variety of foes it could otherwise check or set up on.</p>\n<p><strong>Status</strong>: As a setup sweeper dependent on staying on the battlefield and boosting its Speed, Toxic and paralysis are devastating to Volcarona. Foes such as <a href=\"/dex/sv/pokemon/thundurus/draft/\" hreflang=\"en\">Thundurus</a> and <a href=\"/dex/sv/pokemon/blissey/draft/\" hreflang=\"en\">Blissey</a> can safely status it and stop it in its tracks.</p>\n<p><strong>Entry Hazards</strong>: Volcarona is reliant on Heavy-Duty Boots, since it is extremely weak to Stealth Rock. It can often be forced in early and get its item removed with Knock Off from users such as Iron Valiant, <a href=\"/dex/sv/pokemon/mandibuzz/draft/\" hreflang=\"en\">Mandibuzz</a>, and <a href=\"/dex/sv/pokemon/empoleon/draft/\" hreflang=\"en\">Empoleon</a>, leaving it unable to re-enter the field later on. As such, it must be careful setting up against these foes.</p>\n<p><strong>Disruption</strong>: Since most of Volcarona's appeal lies in setting up with Quiver Dance, phazers can check it by taking away its boosts and leaving it too damaged to set up again, and disruption move users can check it as well by preventing it from setting up with Taunt, locking it into Quiver Dance with Encore, or giving it a Choice item with Trick to Choice-lock it. This is especially effective if Volcarona's item has already been removed by Knock Off. Some examples of threatening phazers and disruptors are both <a href=\"/dex/sv/pokemon/goodra/draft/\" hreflang=\"en\">Goodra</a> formes, Assault Vest <a href=\"/dex/sv/pokemon/archaludon/draft/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a>, and Grimmsnarl.</p>\n<p><strong>Mirror Herb</strong>: Quiver Dance is extremely predictable on Volcarona; as such, opponents can prepare for it by bringing a Mirror Herb user to switch in on an anticipated Quiver Dance, copy the boosts, and countersweep.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 470115,
+            "username": "SolarBeam"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>124 Speed is to outspeed <a href=\"/dex/sv/pokemon/deoxys/ubers-uu/\" hreflang=\"en\">Deoxys</a> at +1</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Grass",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 132,
+              "spa": 0,
+              "spd": 0,
+              "spe": 124
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Volcarona is one of the stronger Pokemon in 1v1 thanks to its powerful STAB moves and access to one of the strongest setup moves in the game in Quiver Dance, which allows it to break past several important Pokemon such as <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/porygon-z/1v1/\" hreflang=\"en\">Porygon-Z</a>, and <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a>.</li>\n<li>Bug Buzz threatens <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a> and <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a>. Bug Buzz also goes through Substitute to threaten the likes of <a href=\"/dex/sv/pokemon/serperior/1v1/\" hreflang=\"en\">Serperior</a> and <a href=\"/dex/sv/pokemon/whimsicott/1v1/\" hreflang=\"en\">Whimsicott</a>.</li>\n<li>Overheat can threaten <a href=\"/dex/sv/pokemon/scizor/1v1/\" hreflang=\"en\">Scizor</a>, Iron Crown, and <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a>.</li>\n<li>Substitute is generally helpful against Pokemon that utilize low-accuracy moves to hit Volcarona, like <a href=\"/dex/sv/pokemon/moltres-galar/1v1/\" hreflang=\"en\">Galarian Moltres</a> and <a href=\"/dex/sv/pokemon/zapdos/1v1/\" hreflang=\"en\">Zapdos</a>, or for letting Volcarona get into Swarm range.</li>\n<li>The EV spread lets Volcarona outspeed Hoopa-U while surviving the strongest Choice Scarf attacks from it; more specifically, the bulk allows it to survive an Adamant Hoopa-U's Hyperspace Fury after Life Orb recoil, with the rest of the EVs going into Special Attack.</li>\n<li>Volcarona tends to struggle against Pokemon that threaten to OHKO it, such as <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/landorus-therian/1v1/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a>, so Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/kyurem/1v1/\" hreflang=\"en\">Kyurem</a> make for good partners.</li>\n</ul>",
+          "abilities": [
+            "Swarm"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 32,
+              "spa": 12,
+              "spd": 16,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Passho Berry",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Quiver Dance allows Volcarona to defeat <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> in tandem with its Passho Berry. Quiver Dance should also be used against <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a>.</li>\n<li>Bug Buzz allows Volcarona to defeat <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a>, <a href=\"/dex/sv/pokemon/darkrai/1v1/\" hreflang=\"en\">Darkrai</a>, and non-Choice Scarf + Rock Tomb <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a>.</li>\n<li>Overheat gives Volcarona a winning matchup against Iron Crown, <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>, and non-Choice Scarf + Rock Slide <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a>.</li>\n<li>Giga Drain, in conjunction with its Passho Berry, allows Volcarona to beat Primarina reliably by using Quiver Dance on the first turn.</li>\n<li>The HP EVs, alongside its Passho Berry, allow Volcarona to take Ivy Cudgel from Adamant Ogerpon-W. The Special Defense EVs allow Volcarona to survive Psychic Noise twice from Choice Specs Liquid Voice Primarina. The Speed EVs allow Volcarona to outspeed non-Choice Scarf Hoopa-U. The remaining EVs are invested in Special Attack to bolster Volcarona's damage output.</li>\n<li>Volcarona cannot use Overheat to reliably OHKO specially defensive Weakness Policy Iron Crown. In this matchup, it is important to use Quiver Dance on the first turn, Bug Buzz on the second turn, and Overheat on the third turn to avoid giving Iron Crown the potential of OHKOing Volcarona with its Psyshock.</li>\n<li>Since Passho Berry Volcarona tries to beat certain Water-types, it loses out on the immediate firepower that a set like Life Orb Volcarona would have. This is notably seen against Booster Energy <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a>, for example. Volcarona also struggles against Ground-types, like <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/garchomp/1v1/\" hreflang=\"en\">Garchomp</a>, and both <a href=\"/dex/sv/pokemon/landorus/1v1/\" hreflang=\"en\">Landorus</a> formes. It also notably loses to <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a>, which is a blind spot in Volcarona's Steel-type coverage. For these reasons, it is a good idea to pair Passho Berry Volcarona with a Pokemon like Ursaluna, as it often handles Raging Bolt, Garchomp, Landorus, and most Hisuian Goodra sets.</li>\n</ul>",
+          "abilities": [
+            "Swarm"
+          ],
+          "items": [
+            "Passho Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 124,
+              "atk": 0,
+              "def": 0,
+              "spa": 76,
+              "spd": 112,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 493772,
+            "username": "bellchime"
+          },
+          {
+            "user_id": 563650,
+            "username": "bern"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563650,
+                "username": "bern"
+              },
+              {
+                "user_id": 632691,
+                "username": "happysh"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 149971,
+                "username": "Nuxl"
+              },
+              {
+                "user_id": 520168,
+                "username": "Murm"
+              },
+              {
+                "user_id": 670315,
+                "username": "Mentality"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Quiver Dance Volcarona is a powerful wincon for many teams that are able to remove its few checks. This is thanks to Quiver Dance, which can allow it to outspeed and KO a worn-down team. At base 100 Speed, one Quiver Dance boost allows Volcarona to outspeed fast Pokemon like <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a> and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> while also outspeeding common Choice Scarf Pokemon like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, meaning offensive counterplay against a boosted Volcarona is quite limited. Flamethrower is a strong, consistent STAB option; however, Fiery Dance gives Volcarona a chance to gain Special Attack boosts while still dealing respectable damage. Bug Buzz is a reliable move that notably lands the most damage on <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>. Hidden Power Ground can be used to hit common checks like <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, as they resist Volcarona’s STAB moves and can threaten it with either Toxic or their STAB moves, with Toxapex being able to beat Volcarona by itself with Haze. Physical priority moves, like Mega Lopunny’s Fake Out and <a href=\"/dex/sv/pokemon/scizor-mega/national-dex/\" hreflang=\"en\">Mega Scizor</a>’s Bullet Punch, are commonly used to bypass Volcarona’s Speed boosts and hinder a sweep, and Flame Body is an opportunity to punish them for it. Heavy-Duty Boots is largely used to ignore the effects of Stealth Rock, as it can instantly deplete half of Volcarona’s health; however, negating the effects of Toxic Spikes and Sticky Web are also beneficial to a Volcarona sweep.</p>\n<p>Volcarona fits on offensive teams that can wear down or remove specific Pokemon that can prevent its sweep. For example, Pokemon like <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, Toxapex, and defensive <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> are clear roadblocks to a Volcarona sweep due to their advantageous typing, with the latter two using Toxic to wear Volcarona down. As a result, strong wallbreakers with complementary STABs of Ground or Fairy such as <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, and Tapu Lele allow such Pokemon to be removed to facilitate a Volcarona sweep. Volcarona also struggles against priority, namely, Sucker Punch from <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a> and Fake Out from Mega Lopunny. Tapu Lele acts as a great deterrent to such priority, also shutting down weaker attempts to end Volcarona’s sweep like Urshifu-R's Aqua Jet. Volcarona may have certain matchups where it may struggle to sweep, especially against bulkier teams. However, it can still leverage its potential threat level along with Quiver Dance to remove physical walls, like defensive Great Tusk. This can be taken advantage of by physical sweepers like <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> and your own Great Tusk, which both appreciate not needing to spend their Z-Move on it. Entry hazard support from teammates allows Volcarona to muscle through checks like the aforementioned Toxapex as well as offensive checks like <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a> and Mega Tyranitar; Pokemon that can do this include <a href=\"/dex/sv/pokemon/glimmora/national-dex/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, and Landorus-T. Volcarona’s teammates can also take advantage of Toxapex’s passivity. In particular, sweepers that threaten Toxapex like <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a>, Tapu Lele, and Garchomp can force it to switch out, allowing them to grab a free setup turn.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ground"
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Bulky Quiver Dance",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Volcarona's unique typing allows it to check Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, and <a href=\"/dex/sv/pokemon/rillaboom/national-dex/\" hreflang=\"en\">Rillaboom</a> as well as be a good pivot into Pokemon such as <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a> lacking Stone Edge, <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a>, and <a href=\"/dex/sv/pokemon/kartana/national-dex/\" hreflang=\"en\">Kartana</a>, potentially weakening them with a burn from Flame Body. At the same time, it retains its setup sweeping potential with Quiver Dance. Hidden Power Ground allows Volcarona to hit opposing Fire-types, most notably <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/iron-moth/national-dex/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/cinderace/national-dex/\" hreflang=\"en\">Cinderace</a>, as well as <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> super effectively. However, Bug Buzz is more consistent into other Fire-resists such as <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>. Roost gives Volcarona much needed longevity, allowing it to pivot into strong attacks more reliably, such as Choice Specs Iron Valiant's Moonblast while also letting it set up on Pokemon such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex/\" hreflang=\"en\">Mega Venusaur</a>, and <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a>. The given EV spread allows Volcarona to outspeed Zamazenta after a Quiver Dance; the rest is dumped into physical defense, notably letting it avoid the OHKO from +2 Iron Valiant's Knock Off.</p>\n<p>While fitting well on balance and bulky offense builds, Volcarona trades power and coverage for longevity, worsening its weakness against bulky Dragon-types such as Raging Bolt, <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a>, and Garchomp. Thus, Fairy-type teammates such as <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> are strong partners; the former additionally breaks through bulky Water-types like Toxapex and Alomomola for Volcarona, while the latter protects it from strong priority moves such as <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>'s Sucker Punch and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>'s Aqua Jet. Dragon-type teammates, such as the aforementioned Garchomp, also appreciate Volcarona, since they need it to soft-check Fairy- and Steel-types they don't like dealing with, such as Iron Valiant, <a href=\"/dex/sv/pokemon/scizor-mega/national-dex/\" hreflang=\"en\">Mega Scizor</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, both offensively and defensively; Volcarona also takes care of <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> for the former. In return, they are able to break through the bulky Fire-types that Volcarona struggles with, most notably <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, since they're immune to Hidden Power Ground. Garchomp is also able to provide Stealth Rock support, which helps Volcarona dismantle defensive cores including <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a> and <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> quicker, making up for the drop in power this set has; other Stealth Rock setters such as <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> are also good options. On the defensive side, Volcarona appreciates bulky Water- and Grass-types such as <a href=\"/dex/sv/pokemon/tapu-fini/national-dex/\" hreflang=\"en\">Tapu Fini</a>, Toxapex, Ferrothorn, and <a href=\"/dex/sv/pokemon/tangrowth/national-dex/\" hreflang=\"en\">Tangrowth</a> that can pivot into strong Water-type attacks from <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a>, Urshifu-R, and <a href=\"/dex/sv/pokemon/barraskewda/national-dex/\" hreflang=\"en\">Barraskewda</a> on Rain teams, with Tapu Fini in particular protecting Volcarona from harmful status conditions such as poison from Alomomola and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, as well as checking Dragon-types such as Garchomp and Dragonite.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Ground"
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 200,
+              "spa": 0,
+              "spd": 0,
+              "spe": 60
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Substitute + Swarm",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Volcarona is a premier sweeper on hyper offensive structures, with Quiver Dance pushing its already intimidating STAB combination to nigh unstoppable heights. Traditional counters to Volcarona like <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and defensive <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> can reliably deal with standard variants, but with Substitute and Swarm, Volcarona allows Volcarona to muscle through these foes after repeated boosts while blocking crippling status moves like Toxic from Heatran and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> as well as Thunder Wave from <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a>. Buginium Z enables Volcarona to immediately muscle through these aforementioned checks and secure important OHKOs on threatening stopgaps like defensive <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>, Assault Vest Alolomola, and <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> with Multiscale is broken at +1, as well as specially defensive <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> at +2. The Z-Move enables Volcarona to punch through even hard counters like <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, Heatran, and Toxapex, as Quiver Dance's Special Defense boosts make moves like Heatran's Magma Storm quickly become unable to break Substitute, subsequently enabling further boosts. Leftovers lets Volcarona play a longer game and make better use of Substitute, but Buginium Z offers absurd power that is sometimes necessary to enable a sweep.</p>\n<p>As opposed to the sometimes more straightforward Heavy-Duty Boots set, this Volcarona set aims to activate Swarm by setting up Substitute repeatedly in tandem with one or two boosts. The Z-Crystal activation is important to time as well; otherwise, walls with recovery or disruption like Moltres and Toxapex can either get out of KO range or wipe away important boosts with Haze. Due to the lack of Heavy-Duty Boots, Volcarona heavily requires entry hazard removal and denial from its teammates to ensure it can safely use Substitute. As such, great partners for Volcarona include Magic Bounce users like <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a> and <a href=\"/dex/sv/pokemon/hatterene/national-dex/\" hreflang=\"en\">Hatterene</a>, as well as <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> for its guaranteed Rapid Spin with Tera Shell. In terms of wallbreaking partners, Volcarona benefits from Pokemon that help overwhelm its checks like Toxapex, Moltres, and Dragonite, so <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a> make for excellent partners. Ogerpon-W, in particular, trivializes the Assault Vest Alolomola matchup, freeing up Volcarona to save the Z-Crystal for a more important target if needed. Fairy-types like Mega Diancie and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> pair similarly well, muscling through potential counters in Moltres and Toxapex. <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> is a great partner as well, since even if Volcarona's sweep is interrupted, Kingambit greatly appreciates a wounded enemy team and a Supreme Overlord boost to boot. Leads such as Taunt Landorus-T and Mega Diancie are also great allies, as they serve to deny hazards off the bat and set them themselves, making Volcarona's wallbreaking much easier.</p>",
+          "abilities": [
+            "Swarm"
+          ],
+          "items": [
+            "Buginium Z",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 576909,
+            "username": "BananaBro_Chaos"
+          },
+          {
+            "user_id": 604820,
+            "username": "Sami"
+          },
+          {
+            "user_id": 661238,
+            "username": "slopcat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 475916,
+                "username": "Sputnik"
+              },
+              {
+                "user_id": 542295,
+                "username": "Blaze"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 591294,
+                "username": "Lightniong"
+              },
+              {
+                "user_id": 632421,
+                "username": "Medasus"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Quiver Dance (Bug)",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Volcarona is one of Bug's strongest setup sweepers, with a respectable Speed stat, high Special Attack, and great coverage. In addition to being one of very few special attacking options on Bug, Volcarona helps apply pressure in a variety of matchups thanks to its strong STAB moves and coverage. Fire Blast can be used over Fiery Dance for more immediate damage output. Giga Drain deals with Water- and Ground-types, most notably <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-Wash</a>. Bug Buzz can be used instead for Volcarona to overwhelm types like Dragon, Dark, and Psychic with Quiver Dance-boosted STAB attacks. Hidden Power Ground hits <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, allowing Volcarona to break Steel's immunity-based defensive core that can otherwise give Bug teams problems. Alternatively, Psychic can be used to damage bulky Poison-types, like <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a>, that can wall physical attackers like <a href=\"/dex/sv/pokemon/heracross/national-dex-monotype/\" hreflang=\"en\">Heracross</a> and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-monotype/\" hreflang=\"en\">Buzzwole</a>. These physical attackers, in addition to <a href=\"/dex/sv/pokemon/lokix/national-dex-monotype/\" hreflang=\"en\">Lokix</a> and <a href=\"/dex/sv/pokemon/scizor/national-dex-monotype/\" hreflang=\"en\">Scizor</a>, are able to break through specially defensive walls, like <a href=\"/dex/sv/pokemon/chansey/national-dex-monotype/\" hreflang=\"en\">Chansey</a> and <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a>, that Volcarona struggles against. <a href=\"/dex/sv/pokemon/araquanid/national-dex-monotype/\" hreflang=\"en\">Araquanid</a> and <a href=\"/dex/sv/pokemon/armaldo/national-dex-monotype/\" hreflang=\"en\">Armaldo</a> provide helpful entry hazards in Sticky Web and Stealth Rock, respectively, to make sweeping mid- or late-game much easier.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fiery Dance",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ground"
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Offensive Quiver Dance (Fire)",
+          "pokemon": "Volcarona",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Volcarona is one of the top setup sweepers that Fire has access to, with Quiver Dance allowing it to become a dangerous threat to teams unequipped to deal with it defensively. Psychic allows Volcarona to pressure Fighting and Poison teams, especially after one Quiver Dance, which lets Volcarona outspeed and beat <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/glimmora/national-dex-monotype/\" hreflang=\"en\">Glimmora</a>, and <a href=\"/dex/sv/pokemon/crobat/national-dex-monotype/\" hreflang=\"en\">Crobat</a>. Similarly, Giga Drain does the same to Water and Ground teams after one Quiver Dance, threatening <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-monotype/\" hreflang=\"en\">Tapu Fini</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>. Bug Buzz covers the Psychic and Dark matchups very well and allows it to hit <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a>, which would otherwise be a challenge to deal with. Heavy-Duty Boots prevents Volcarona from being worn down by entry hazards, most notably Stealth Rock, which would otherwise stop Volcarona from being able to set up safely. Psychium Z lets Volcarona OHKO <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> with a +1 Shattered Psyche and beat otherwise troublesome threats like +1 <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a>. <a href=\"/dex/sv/pokemon/cinderace/national-dex-monotype/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex-monotype/\" hreflang=\"en\">Mega Charizard X</a> are especially good partners due to their ability to break through special walls such as <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a>, Clodsire, and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Slowking</a> with relative ease. Entry hazard removers such as <a href=\"/dex/sv/pokemon/torkoal/national-dex-monotype/\" hreflang=\"en\">Torkoal</a>, <a href=\"/dex/sv/pokemon/rotom-heat/national-dex-monotype/\" hreflang=\"en\">Rotom-H</a>, and Court Change Cinderace are near necessities if Volcarona is running Psychium Z. Torkoal and Rotom-H can also provide excellent utility in the form of Stealth Rock and dual screens, respectively, to help Volcarona sweep more easily. <a href=\"/dex/sv/pokemon/volcanion/national-dex-monotype/\" hreflang=\"en\">Volcanion</a> is also an excellent partner for Volcarona that, thanks to its Water immunity, can act as a strong pivot into Pokemon like <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a> and <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a>, which could revenge kill it or clear Quiver Dance boosts with Haze.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Psychium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Quiver Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 537941,
+            "username": "style.css"
+          },
+          {
+            "user_id": 610704,
+            "username": "Captainbruh1008"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 532439,
+                "username": "Bka Onon"
+              },
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 593863,
+                "username": "CrossHeart"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 461329,
+                "username": "Estarossa"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acrobatics",
+    "Air Cutter",
+    "Air Slash",
+    "Amnesia",
+    "Body Slam",
+    "Bug Bite",
+    "Bug Buzz",
+    "Calm Mind",
+    "Double-Edge",
+    "Dual Wingbeat",
+    "Ember",
+    "Endure",
+    "Facade",
+    "Fiery Dance",
+    "Fire Blast",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Fly",
+    "Giga Drain",
+    "Giga Impact",
+    "Gust",
+    "Harden",
+    "Heat Wave",
+    "Hurricane",
+    "Hyper Beam",
+    "Leech Life",
+    "Light Screen",
+    "Lunge",
+    "Morning Sun",
+    "Overheat",
+    "Poison Jab",
+    "Pounce",
+    "Protect",
+    "Psychic",
+    "Quiver Dance",
+    "Rage Powder",
+    "Rain Dance",
+    "Rest",
+    "Screech",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Solar Beam",
+    "String Shot",
+    "Struggle Bug",
+    "Substitute",
+    "Sunny Day",
+    "Tailwind",
+    "Take Down",
+    "Tera Blast",
+    "Thrash",
+    "Trailblaze",
+    "U-turn",
+    "Whirlwind",
+    "Wild Charge",
+    "Will-O-Wisp",
+    "Zen Headbutt"
+  ]
+}

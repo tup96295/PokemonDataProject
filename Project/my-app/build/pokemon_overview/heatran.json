@@ -1,0 +1,2272 @@
+{
+  "name": "Heatran",
+  "alias": "heatran",
+  "types": [
+    "Fire",
+    "Steel"
+  ],
+  "stats": [
+    91,
+    90,
+    106,
+    130,
+    106,
+    77
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Heatran is a fearsome wallbreaker capable of easily shutting down defensive teams, leveraging its defensive profile to find multiple opportunities to switch in and wreak havoc. Magma Storm is a powerful Fire-type STAB move that can trap Pokemon like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>. Earth Power allows Heatran to hit Fire-types that would otherwise resist Magma Storm such as <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a>, and opposing Leftovers Heatran. Taunt completely shuts down recovery from defensive Pokemon that would otherwise withstand its offensive assault such as <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and Blissey, and it allows Heatran to beat each of these Pokemon 1-on-1 in tandem with Magma Storm. Stealth Rock can be considered in the last slot, as Heatran's consistency in forcing switches can give it a free turn to set up Stealth Rock; however, Will-O-Wisp can be used to hinder switch-ins such as <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> that would otherwise freely switch in against Heatran. A Timid nature lets Heatran outspeed and threaten Choice Band <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, in addition to quickly burning Adamant Dragonite with Will-O-Wisp, though a Modest nature could be considered to guarantee an OHKO on bulky <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> variants. Tera Grass flips Heatran's matchup against Water- and Ground-types such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and synergizes very well with Flash Fire; Tera Ghost grants Heatran a crucial Fighting immunity that can help against <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, in addition to blocking Rapid Spin from the likes of <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Leftovers provides Heatran with passive recovery and allows it to stick around over the course of the match; Air Balloon could also be used to provide Heatran with a temporary Ground immunity, letting it safely switch into Landorus-T and opposing Heatran.</p>\n<p>Heatran fits primarily on offense and bulky offense teams where it excels in ripping apart defensive cores for its teammates to exploit. Special sweepers such as <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> greatly enjoy Heatran trapping and removing their checks, particularly Blissey. In return, Primarina discourages Ground-type switch-ins such as Landorus-T and Ting-Lu, while Raging Bolt can force out Water-types like <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> and Hisuian Samurott. Rillaboom is another fantastic teammate for Heatran that not only provides it with extra passive recovery and more resistance against Earthquake but can form a formidable offensive core with it, with Rillaboom capable of handling Ground- and Water-types such as Great Tusk and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Heatran taking advantage of Rillaboom's switch-ins like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Skeledirge, alongside setting Stealth Rock to spread chip damage for both itself and Rillaboom. Additionally, some of Rillaboom's teammates like <a href=\"/dex/sv/pokemon/hawlucha/ou/\" hreflang=\"en\">Hawlucha</a> and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> appreciate Heatran removing their checks via Magma Storm, allowing them to more easily sweep late-game, while both Pokemon can force out Ground- and Fighting-types like Great Tusk and Zamazenta. Lastly, Heatran enjoys Rapid Spin support from Great Tusk removing entry hazards that cut into its longevity, and it also enjoys having a check to Dragonite. In exchange, Heatran can easily switch in on and threaten Pokemon such as <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and Calm Mind <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> that Great Tusk struggles against.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Specially defensive Heatran is a useful glue Pokemon that can stallbreak, set entry hazards, spread status, and check notable special attackers like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Magma Storm in conjunction with Taunt lets Heatran one-on-one walls like Galarian Slowking, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, trapping and preventing them from pivoting and healing in the process. Lava Plume gives it a more reliable STAB move that can cripple checks and would-be switchins like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>. Earth Power is a much-needed coverage move to hit Pokemon like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Toxapex, and opposing Heatran super effectively. Taunt has the added benefit of preventing setup from both slower hazard setters like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and Ting-Lu and slower setup sweepers like Terastallized <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>. Stealth Rock is an extremely good fit since Heatran threatens common forms of hazard removal like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and prevents <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> from switching. It is also able to punish Hatterene from switching in to deflect Stealth Rock back with Magic Bounce since it is unable to hit Heatran back for any notable damage. If there's another Stealth Rock setter on the team, Will-O-Wisp can be used as a way to spread burns, particularly on sets that forgo Lava Plume, and it most notably lets Heatran neutralize Kingambit safely by bypassing its Sucker Punch. Will-O-Wisp also pairs with Magma Storm quite nicely by stacking up further chip damage. 40 Speed EVs allow Heatran to outspeed Adamant Kingambit so it can secure a Magma Storm or Will-O-Wisp on it before it can retaliate. 4 Defense EVs guarantees Heatran will live an Earthquake from <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. Leftovers gives Heatran much-needed longevity, but Air Balloon is also a good choice to allow Heatran to come in on Ground-types such as <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and Clodsire, especially as they might not have the move to pop the item; makes Heatran immune to Spikes, allowing it to come in much more safely against hazard stacking teams; lets Heatran emergency check Dragonite, non-Close Combat Great Tusk, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Flash Fire gives Heatran a Fire-type immunity to check Iron Moth and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and letting it better handle even the occasional Fire coverage from Dragonite, Kyurem, and, with Air Balloon, Enamorus and its Earth Power. Flame Body threatens burns against contact attackers such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>. Tera Grass allows Heatran to remove its weaknesses to Water- and Ground-type attacks so it can wall Water-types like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and Ogerpon-W and Ground-types like Clodsire, Ting-Lu, and Gliscor. Tera Grass also works well with Flash Fire to mitigate its newfound Fire weakness. Tera Ghost is used to remove its weakness to Fighting-type attacks so it can wall <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, particulary punshing if it runs Flame Body. Tera Ghost also gives it a Normal immunity, preventing Great Tusk from using Rapid Spin on it to remove its Stealth Rock and, if paired with Air Balloon, outright walling Dragonite if its only attacks are Extreme Speed and Earthquake or Fire Punch. Tera Fairy is also worth mentioning as a niche option to check physical attackers like Zamazenta without the Dark weakness from foes like Meowscarada and Hisuian Samurott.</p>\n<p>Heatran is best used on Grassy Terrain bulky offense teams that appreciate its ability to check Fire-types while also being a great progress maker itself. Rillaboom is by far its best teammate, as they both have near-perfect synergy with each other; Rillaboom's Grassy Terrain not only provides additional recovery for it on top of Leftovers, it also weakens Earthquake from common Ground-types like Gliscor and Landorus-T. Rillaboom itself also threatens the Water- and Ground-types that constantly give Heatran trouble, like Gliscor, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and Ogerpon-W, and brings in Heatran safely on its checks like <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> and Corviknight with U-turn. In return, Heatran is able to check Fire-types Rillaboom doesn't want to face, like <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> and opposing Heatran. Great Tusk is another stellar teammate since Heatran is extremely weak to entry hazards, so its hazard removal support is much appreciated. Hatterene is a teammate that can prevent hazards from being set up altogether thanks to Magic Bounce and wall Gliscor in Grassy Terrain, which is super useful since Heatran often struggles to check numerous threats consistently when Spikes are on the field. Grassy Terrain sweepers like <a href=\"/dex/sv/pokemon/hawlucha/ou/\" hreflang=\"en\">Hawlucha</a>, Ogerpon-W, and Raging Bolt love Heatran's ability to wear down bulkier Pokemon like Skeledirge, Galarian Slowking, Dondozo, and Ting-Lu so they can clean up late-game. On bulkier teams, Alomomola is a fitting teammate for it since its Wish support allows Heatran to stay alive for a prolonged period of time, and its typing checks common physical Water-types like <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> and Hisuian Samurott. Spikers like Hisuian Samurott, Gliscor, and Ting-Lu all work well with Heatran since they have good synergy typing-wise and their Spikes increases the potency of Magma Storm + Will-O-Wisp pressure. They can also form a hazard stacking core together with Stealth Rock Heatran.</p>",
+          "abilities": [
+            "Flash Fire",
+            "Flame Body"
+          ],
+          "items": [
+            "Leftovers",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              },
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 212,
+              "spe": 40
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 518682,
+            "username": "alkazoth"
+          },
+          {
+            "user_id": 584916,
+            "username": "viivian"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 177111,
+                "username": "Magcargo"
+              },
+              {
+                "user_id": 487308,
+                "username": "BT89"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 493260,
+                "username": "Marnie"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Fire</h4>\n<p>Leftovers can be used over Air Balloon if <a href=\"/dex/sv/pokemon/talonflame/monotype/\" hreflang=\"en\">Talonflame</a> or Air Balloon <a href=\"/dex/sv/pokemon/volcanion/monotype/\" hreflang=\"en\">Volcanion</a> are already on the team and feel sufficient as Ground-immune Pokemon, and if the user would prefer longevity on Heatran. Stealth Rock can be changed to Taunt if the user feels uncomfortable running a Stealth Rock setter along with Court Change <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> or has opted for <a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a> or <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> as their Stealth Rock user. Flame Body is a possible option instead of Flash Fire on Heatran varients that opt to drop Air Balloon, as checking <a href=\"/dex/sv/pokemon/gouging-fire/monotype/\" hreflang=\"en\">Gouging Fire</a> is no longer possible. It can be used to burn and punish threats like <a href=\"/dex/sv/pokemon/kingambit/monotype/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> in a pinch.</p>\n<h4>Steel</h4>\n<p>Heavy Slam can be used to handily deal with <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/clefable/monotype/\" hreflang=\"en\">Clefable</a>. Running Ability Shield can be an option to check <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, but it gives up Heatran's passive recovery. Substitute can be used over Heatran's other utility option, making the mirror much rougher for opposing Steel teams, along with enabling it to more reliably fish for Lava Plume burns.</p>\n<h4>Steel (Choice Scarf)</h4>\n<p>Heavy Slam is an alternative option to target Flutter Mane's lower Defense stat.</p>",
+      "movesets": [
+        {
+          "name": "Choice Scarf (Steel)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf Heatran is a solid option for Steel teams, as it is able to provide offensive pressure while still having a minor defensive role thanks to Flash Fire. Fire Blast torches <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, while 2HKOing physically defensive <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> even after Poison Heal recovery. Flamethrower is an option for more PP and better accuracy but with a bit of a power tradeoff. Flash Cannon is an excellent move to hit Fairy-types such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, non-Choice Scarf <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and Flutter mane, which has a 50% chance to get OHKO'd after Stealth Rock. Dragon Pulse is an alternative option for teams that already have an abundance of Steel-type coverage and is useful for 2HKOing <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. Earth Power is a great option for hitting Pokemon such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>. Power Gem is a fantastic way to punish opposing Fire-types that would hope to switch in on a Fire-type move, such as <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> and opposing Air Balloon Heatran, and it is a Steel team's best way of dealing with <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>.</p>\n<p><a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> are both superb teammates, forming a great defensive core with Heatran that is hard to break through. Archaludon can support Heatran by using Stealth Rock to chip Pokemon that might want to switch in on Heatran, such as <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a> and Gliscor, and slow down foes that outspeed Heatran, such as Dragapult and Choice Scarf <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> with Thunder Wave. Hisuian Goodra is a fantastic special wall with excellent longevity, allowing Heatran to opt for a more offensive role. Hisuian Goodra can use Knock Off to remove items from defensive Pokemon that would like to switch in on Heatran, such as recovery items from Toxapex, <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>. <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> is another great teammate, as it can switch into Ground- and Fighting-type moves and punish foes that use contact moves, such as Close Combat from <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>. Skarmory can also use Spikes to weaken foes, making it so that Heatran has an easier time cleaning up at the end of games, and use Body Press to weaken opposing special walls such as <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, that Heatran may struggle with. Air Balloon Iron Treads has a temporary to Ground, as well as providing Knock Off support and clearing entry hazards so that Heatran can come in safely. Iron Treads is also able to beat non-Choice Scarf <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> with Ice Spinner. <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> is another teammate capable of providing Thunder Wave support,and it blocks Defog, ensuring opponents can't remove hazards. Corviknight is also immune to Ground and a great slow pivot option to help Heatran get in easier.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              },
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Bulky Heatran (Steel)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With a bulkier spread, Heatran can hold the line reliably against attempts to break Steel teams from threats such as Choice Specs <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>. Magma Storm eliminates Steel-types such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> while also enabling Heatran to trap and deal chip damage to threats like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Alternatively, Lava Plume can be used to fish for burns, and for its superior accuracy. Earth Power handles Steel-types capable of handling Heatran's Fire-type moves such as opposing Heatran and Hisuian Goodra along with dealing with Poison- and Electric-types like <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. Power Gem nails <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a> and Air Balloon Heatran on the switch along with hitting Flying-types such as <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a>. Protect can allow Heatran to scout against Choice-locked threats like <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and Iron Moth. Alternatively, Stealth Rock can be used to set entry hazards, freeing up moveslots from teammates like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, while Will-O-Wisp can punish physical attackers attempting to switch into Heatran such as <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>. The given EV Spread enables Heatran to outspeed Modest <a href=\"/dex/sv/pokemon/magnezone/monotype/\" hreflang=\"en\">Magnezone</a> and survive a +2 <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> Poltergeist from full HP while putting the rest into its Special Defense. The alternative EV Spread maximizes Heatran's special bulk, preventing Choice Specs <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> from 2HKOing it.</p>\n<p>Heatran can form an immunity core for Steel teams when paired with Skarmory and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, with Heatran providing a Fire immunity that both appreciate. In return, Skarmory provides a Ground immunity and physical wall capable of handling threats like <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> and Hisuian Samurott, while Gholdengo provides a Fighting immunity, allowing it to easily check Fighting-types such as <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>. Together they also make a strong entry hazard-stacking core with Heatran providing Stealth Rock, Skarmory providing Spikes, and Gholdengo being able to block removal attempts from <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>. Archaludon can handle Water-types like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> along with physical Fire-types such as <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> that can handle Heatran, while Choice Scarf sets are able to outspeed and check foes like <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a> with Draco Meteor and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> with Thunderbolt. Air Balloon <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a> can handle Electric-types like <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a> and Raging Bolt while also being able to use Ice Spinner to check <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>. Hisuian Goodra provides a sturdier special wall capable of handling special threats that can threaten to overwhelm Heatran like Choice Specs Greninja, <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>, and Walking Wake while appreciating Heatran checking Iron Moth and Volcarona. Swords Dance Scizor is capable of handling threats like Iron Valiant and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> for Heatran with Bullet Punch along with using Trailblaze to pressure Water-types such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              },
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 24,
+              "spa": 0,
+              "spd": 116,
+              "spe": 120
+            },
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 24,
+              "spa": 0,
+              "spd": 236,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        },
+        {
+          "name": "Special Defensive Wall (Fire)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Possessing a great typing and a high Special Defense stat, Heatran finds itself as both an amazing utility Pokemon and specially defensive wall for Fire teams, utilizing its bulk and Steel typing to sponge attacks from prominent special-attacking threats that otherwise rip apart most Fire-types, such as <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>. Heatran's Steel typing also allows it to take neutral damage from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>'s Power Gem, avoiding up to a 3HKO after Stealth Rock damage. Heavy Slam OHKOes Flutter Mane while also hitting the aforementioned Dragapult and Latios. Magma Storm is a strong STAB move that does immense damage and allows Heatran to trap and 1v1 foes such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. However, Magma Storm lacks accuracy in comparison to Lava Plume, the weaker-yet-safer option that trades trapping and residual damage in favor of more PP and a chance to burn prominent physical attackers such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Earth Power pairs nicely to hit opposing Fire-, Rock-, and Poison-types such as opposing Heatran, <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a>, and Toxapex. Stealth Rock provides entry hazards to Fire teams, allowing them to rack up further chip damage and break Focus Sash or Sturdy on Pokemon like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>, and <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>. 28 Speed EVs with a Sassy nature allows Heatran to outspeed Skarmory, <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>, and <a href=\"/dex/sv/pokemon/volcanion/monotype/\" hreflang=\"en\">Volcanion</a> with no Speed investment, with the rest of its EVs maximizing its special bulk. Air Balloon allows Heatran to turn its 4x weakness to Ground-type attacks into an immunity, allowing it to temporarily check certain Ground types such as <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> if it is locked into Earth Power.</p>\n<p>Heatran primarily serves to provide a defensive backbone to Fire teams' usually offensively focused cores. <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> helps in wallbreaking Water and Ground teams, and Heatran helps cover Ogerpon-H by switching into potential revenge killers, such as Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and Choice Scarf Landorus's Sludge Wave. Focus Sash Ceruledge is also a commonly used Swords Dance sweeper that can help clean through types such as Ghost and Psychic. Heatran's Stealth Rock can help Ceruledge get past opposing Focus Sash Ceruledge and turn the +2 Shadow Sneak roll on <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> into a guaranteed OHKO. <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a> is a strong option, as its ability to set sun enables every Fire-type Pokemon to deal increased Fire-type damage and absorb Water-type moves much easier, notably letting Heatran switch into Choice Specs Greninja Hydro Pump and perfectly avoid a 2HKO. <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/talonflame/monotype/\" hreflang=\"en\">Talonflame</a> are both options on Fre-teams for hazard control with Court Change and Defog respectively.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              },
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 228,
+              "spe": 28
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Sassy"
+          ]
+        },
+        {
+          "name": "Air Balloon (Steel)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Heatran's Flash Fire ability is an invaluable asset to Steel teams, as they are otherwise completely mowed down by powerful Fire-types like <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>. Heatran is a very reliable Stealth Rock setter, capable of threatening most entry hazard removers like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> with its powerful Fire- and Ground-type coverage moves. Magma Storm lets Heatran effectively trap and KO bulky pivots, like <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, with a combination of Magma Storm's passive damage and Earth Power as coverage. Power Gem allows Heatran to effectively hit the Fire-types it's meant to wall, easily OHKOing <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> and Volcarona, both of which can easily take an Earth Power from Heatran.</p>\n<p>Heatran appreciates Corviknight as a teammate, as it offers an immunity to Ground and a neutrality to Fighting while also granting Heatran a safe entry onto the field with its slow U-turn. Other Ground-immune teammates, like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, and Air Balloon users, like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, find themselves alongside Heatran to pivot into Ground-type attacks for Heatran in the event that Heatran's Air Balloon gets popped. Skarmory and Gholdengo also create a great entry hazard-stacking core with Heatran, as Skarmory provides Spikes and Gholdengo blocks Defog and Rapid Spin. <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> offer a Water resistance for Heatran, the former of which appreciates Heatran using Stealth Rock to free up a moveslot of its own. Choice Scarf <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a> offers much-needed speed control and an immunity to Electric-type attacks from the likes of <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/thundurus-therian/monotype/\" hreflang=\"en\">Thundurus-T</a>. Furthermore, Iron Treads takes out threats to Heatran like <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and Choice Band <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> with Ice Spinner and Earthquake, respectively. Setup sweepers like <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> appreciate Heatran weakening bulky walls like Haze Toxapex and Unaware <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a> to facilitate a sweep.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Stallbreaker (Fire)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Heavy Slam OHKOs Flutter Mane.</p>\n<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 246753,
+            "username": "RoyalReloaded"
+          },
+          {
+            "user_id": 400664,
+            "username": "Stories"
+          },
+          {
+            "user_id": 472328,
+            "username": "Scarfire"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 246753,
+                "username": "RoyalReloaded"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              },
+              {
+                "user_id": 652656,
+                "username": "Gambit"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Flash Cannon",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Assault Vest Heatran uses its unique typing and defensive stats to match up well against common special attackers such as <a href=\"/dex/sv/pokemon/flutter-mane/doubles/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a> and threaten them back with its great offensive stats and wide coverage. While Heatran boasts an innately good defensive typing, Tera Grass allows it to turn its common weaknesses to Ground and Water into resistances, letting it match up better against the likes of <a href=\"/dex/sv/pokemon/landorus-therian/doubles/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/palafin-hero/doubles/\" hreflang=\"en\">Palafin-H</a>.\nHeat Wave is a spread STAB attack that chips away at foes, notably 2HKOing <a href=\"/dex/sv/pokemon/amoonguss/doubles/\" hreflang=\"en\">Amoonguss</a>.\nFlash Cannon is Heatran's best way of hitting Fairy-types, as it OHKOes <a href=\"/dex/sv/pokemon/diancie/doubles/\" hreflang=\"en\">Diancie</a> and 2HKOes Flutter Mane. Heavy Slam OHKOes Flutter Mane but is generally less reliable because it can be weakened by Intimidate and does less damage to Diancie and opposing Tera Grass Heatran mirror.\nTera Blast hits Water- and Ground-types super effectively once Heatran has Terastallized, notably OHKOing <a href=\"/dex/sv/pokemon/great-tusk/doubles/\" hreflang=\"en\">Great Tusk</a> and 2HKOing Bulk Up Palafin-H.\nEarth Power hits the Fire-types such as <a href=\"/dex/sv/pokemon/volcanion/doubles/\" hreflang=\"en\">Volcanion</a>, <a href=\"/dex/sv/pokemon/chi-yu/doubles/\" hreflang=\"en\">Chi-Yu</a>, and opposing Heatran that otherwise resists all of Heatran's attacks.\nHeatran's base resistances let it take common Fairy-, Ice-, and Steel-type attacks such as Flutter Mane's Moonblast, <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a>'s Ice Spinner, and Gholdengo's Make It Rain much better. After Terastallization, Heatran matches up better against Palafin-H, Volcanion, and <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a> at the cost of receiving more damage from the aforementioned attacks. Heatran has a lot of defensive responsibilities on most teams, so Terastallization should not be used too frivolously.\nHeatran commonly finds itself in Fire / Water / Grass cores with <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/palafin/doubles/\" hreflang=\"en\">Palafin</a>, as they complement each other offensively and defensively, with Rillaboom eradicating Water-types and Palafin punching through Fire-types. Iron Hands is a common Heatran partner that can pressure Palafin and Volcanion with Wild Charge and Chi-Yu and Tera Dark <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a> with Drain Punch. Heatran has no form of recovery, so it appreciates teammates that can extend its longevity, such as <a href=\"/dex/sv/pokemon/cresselia/doubles/\" hreflang=\"en\">Cresselia</a> with Lunar Blessing and Amoonguss with Pollen Puff.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              },
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 192134,
+            "username": "ryo yamada2001"
+          },
+          {
+            "user_id": 554572,
+            "username": "Lemurro"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 230771,
+                "username": "qsns"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This Pokemon was relevant in Regulation G, but has been banned in the current ruleset, Regulation H. However, Regulation G will be returning in January 2025, where this analysis will be relevant again. Additionally, the sets below have not been updated for Regulation G yet.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Grass",
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Grass",
+            "Bug",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Attacker",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 188,
+              "atk": 0,
+              "def": 4,
+              "spa": 236,
+              "spd": 4,
+              "spe": 76
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 180,
+              "atk": 0,
+              "def": 4,
+              "spa": 236,
+              "spd": 12,
+              "spe": 76
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Heatran is a niche bulky offensive threat thanks to its solid stats and great typing, bolstered by Flash Fire. This makes Heatran have an incredible matchup against most of the metagame, such as <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>.</p>\n</li>\n<li>\n<p><a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> is a great partner for Heatran, as it resists Heatran's prominent weaknesses, while also hitting Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> for huge damage. Heatran also pairs well with Ogerpon-W, which supports Heatran with Follow Me, as well as threatening Urshifu-R and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a>.</p>\n</li>\n<li>\n<p>Although Heatran resists a lot of attacks with its typing, it's weak to both of the <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes, Ogerpon-W, Landorus, and <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-f/\" hreflang=\"en\">Iron Hands</a>. Heatran also faces tough Fire- and Steel- competition, especially with <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Attacker",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>The combination of Heatran's STAB moves, Heat Wave and Flash Cannon, can hit a lot of Pokemon in the metagame super-effectively, while Earth Power is a good coverage move that can hit Pokemon that resist Heatran's STAB combination, like <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>. Magma Storm is also another option as a Fire-type attack, as it traps the opponent, which works well with Leftovers.</p>\n</li>\n<li>\n<p>Leftovers is a good item choice for Heatran, as it can live two Shadow Balls from <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> with a Special Attack-Booster Energy, and with <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>'s Grassy Surge, Heatran can constantly restore HP. Life Orb can increase Heatran's damage output, making it more of a threat.</p>\n</li>\n<li>\n<p>228 HP, 84 Defense EVs, and 20 Special Defense EVs allow Heatran to take an Ivy Cudgel from <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, almost always survives a Sludge Bomb from <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a> after Heatran Terastallizes and Life Orb recoil, and finally, with 20 Speed EVs, Heatran outspeeds both <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes after a Speed drop.</p>\n</li>\n<li>\n<p>Tera Grass is an excellent Tera type for Heatran, allowing it to resist Water- and Ground-type moves from the likes of Pokemon like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and Landorus. Tera Fairy can allow Heatran to resist Urshifu-S's STAB moves and be a neutral type against the metagame.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Grass",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              },
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 84,
+              "spa": 156,
+              "spd": 20,
+              "spe": 20
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 651372,
+            "username": "4Kuser"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Heatran can be used with the abilities Earth Eater or Levitate to turn its 4x Ground weakness into an immunity and improve its matchups against the likes of <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/landorus-therian/almost-any-ability/\" hreflang=\"en\">Landorus-T</a>. Offensive sets that utilize Heatran's strong base 130 Special Attack are rare due to its exploitable typing and stat distribution, but include Choice Scarf Desolate Land sets and Magic Guard with a held Life Orb to fire off strong STAB-boosted Steel Beam and Flare Blitz off of its respectable Attack Stat.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fighting-types</strong>: Heatran has no real means of mitigating its weakness to Fighting-type attacks and is OHKOed by Close Combat from <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> as well as Superpower from Protean <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>. It also struggles to switch in against Focus Blast <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/iron-crown/almost-any-ability/\" hreflang=\"en\">Iron Crown</a>, and Deoxys-S, all of which can cleanly 2HKO it.</p>\n<p><strong>Primordial Sea Users</strong>: The likes of <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/almost-any-ability/\" hreflang=\"en\">Ogerpon-W</a> can switch in on Fire moves and immediately threaten Heatran. Zapdos in particular can even chip Heatran in the strong sunlight with Fire-type Weather Ball, leaving it in a precarious position.</p>\n<p><strong>Bulky Water-types</strong>: RegenVest <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> are not threatened if Heatran foregoes Solar Beam, taking hits comfortably. The former completely walls any Heatran not carrying Solar Beam, threatening OHKOs with Earthquake, and Manaphy is able to remove Heatran's Leftovers with Knock Off and chip it down over the course of a match.</p>",
+      "movesets": [
+        {
+          "name": "Desolate Land Heatran",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>A strong offensive typing in Fire / Steel and a high base Special Attack stat enable Heatran to function as a Stealth Rock setter that deters the tier's premier entry hazard removal Pokemon, <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, from switching in freely. Desolate Land effectively grants Heatran a Water immunity on activation, helping it check Water-types such as <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and <a href=\"/dex/sv/pokemon/primarina/almost-any-ability/\" hreflang=\"en\">Primarina</a>, especially blocking the latter's Flip Turn, as well as act as a switch-in to common Primordial Sea users like <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/almost-any-ability/\" hreflang=\"en\">Ogerpon-W</a>. Solar Beam is essential for Heatran to deal with RegenVest <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, allowing Heatran to 2HKO it. Will-O-Wisp can cripple physical attackers like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, and it is a generally useful move for racking up chip damage alongside Stealth Rock and Magma Storm. Earth Power is a strong alternative that OHKOes <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> and deals strong damage to Well-Baked Body Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a> as well as opposing Heatran. Power Gem may be used to hit <a href=\"/dex/sv/pokemon/moltres/almost-any-ability/\" hreflang=\"en\">Moltres</a>, cleanly OHKOing physically defensive sets, while also being useful against the aforementioned Zapdos and Iron Moth. 60 EVs in Speed allow Heatran to outspeed uninvested Gholdengo, with the rest of its EVs being utilized to maximize its special bulk to live hits from the likes of <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/iron-crown/almost-any-ability/\" hreflang=\"en\">Iron Crown</a>, and Gholdengo.</p>\n<p>Heatran is a strong piece that can fit on slower paced teams and bulky offensive structures. It appreciates offensive support from physical threats like Roaring Moon and <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> that threaten specially bulky Pokemon it cannot muscle through such as RegenVest Manaphy and Swampert. These teammates, in turn, benefit from Heatran threatening Corviknight and Great Tusk, which would otherwise trouble these physical attackers. Heatran's 4x Ground weakness also requires a teammate such as Zapdos or Corviknight to cover for it as well as an answer to common Primordial Sea users like Zapdos and Ogerpon-W that can threaten it by switching in to reset the weather. RegenVest Roaring Moon is a potent teammate for Heatran, with a synergistic defensive typing and strong Knock Off. Heatran is almost always forced to run Leftovers due to its lack of access to natural recovery, so it appreciates teammates that can absorb Knock Off as well as consistent entry hazard removal. Great Tusk is an example of such a teammate, as it is able to come in on Knock Off and keep hazards off the field for Heatran to switch in repeatedly.</p>",
+          "abilities": [
+            "Desolate Land"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              },
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 196,
+              "spe": 60
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 483565,
+            "username": "porcupine21"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 539679,
+                "username": "GlalieGoesBoom"
+              },
+              {
+                "user_id": 475288,
+                "username": "Tranquility"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers",
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Burning Bulwark",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Doom Desire",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Burning Bulwark",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Doom Desire",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 64,
+              "spd": 148,
+              "spe": 40
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Ability Shield"
+          ],
+          "teratypes": [
+            "Grass",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 196,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 60
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 4 onwards</p>\n<p><strong>Price Range</strong>: 10-12 points</p>\n<p><strong>Overview</strong>: Heatran is a solid glue Pokemon in Draft, boasting great defensive stats that allow it to check many opposing threats and respectable offensive stats that threaten opposing teams. It is a very difficult Pokemon to safely switch into, and its defensive profile helps it find many opportunities to come in and fire off attacks. These factors make Heatran a very difficult Pokemon to handle for many teams. Heatran also functions as a useful stallbreaker thanks to its ability to trap foes with Magma Storm. Unfortunately, a Pokemon with this many upsides also has some pretty notable downsides, the most notable of which is Heatran's weakness to Ground- and Fighting-type moves, which many Pokemon have access to.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Offensive</strong>: Heatran's strong STAB moves and high Special Attack allow it to be a highly effective offensive threat. Because it's very hard to switch into and has enough coverage to at least weaken Pokemon that resist its STAB moves, Heatran finds ways to make an impact whenever it's on the field. The combination of Magma Storm and almost any super effective coverage move can KO many opposing Pokemon.</p>\n<p><strong>Tank</strong>: Heatran's great typing, Special Attack, and utility movepool make it a great tank. Its naturally high defenses and HP make it difficult to KO, and Magma Storm keeps Heatran from becoming too passive. It can also repeatedly find opportunities to set Stealth Rock throughout a game to help weaken foes even more.</p>\n<p><strong>Stallbreaker</strong>: When using Magma Storm in combination with Taunt, Heatran can trap and eliminate almost any opposing Pokemon without a pivoting move. After using Taunt to deny recovery, Heatran is free to throw off attacks while the foe is unable to escape. By eliminating specific Pokemon from the opponent's team, you allow your sweepers and cleaners to have a much easier time finishing games.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Magma Storm, Flash Cannon, Lava Plume, Flamethrower, Overheat, Fire Blast, Heavy Slam, Heat Crash</p>\n<p><strong>Setup Moves</strong>: Flame Charge, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Stealth Rock, Taunt, Will-O-Wisp, Protect, Substitute</p>\n<p><strong>Coverage</strong>: Dark Pulse, Dragon Pulse, Earth Power, Power Gem, Scorching Sands, Rock Slide, Stone Edge, Earthquake, Body Press</p>\n<h3>Niche Moves</h3>\n<p><strong>Solar Beam</strong>: The combination of Power Herb and Solar Beam can be used to pick off pesky Ground- and Water-types that often cause Heatran problems. Use with caution, however, as this strategy is popular enough that many players will scout for this, and once Heatran has used its Power Herb, it has a dead moveslot.</p>\n<p><strong>Steel Beam</strong>: Steel Beam can be used on Choice item sets to pick up KOs it cannot with its weaker Steel-type moves.</p>\n<h3>Common Items</h3>\n<p><strong>Leftovers</strong>: Heatran will likely be on the field for many turns, making Leftovers slightly superior to Heavy-Duty Boots in many cases. Protect can also be utilized to maximize the recovery gained from Leftovers; however, if your opponent catches on, you could give them free turns, so repeatedly using Protect is not a sound strategy.</p>\n<p><strong>Resistance Berry</strong>: Resistance Berries can be a great surprise factor, allowing Heatran to live a hit and KO something it otherwise wouldn't be able to or scout important moveset information.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots should be used when you plan on dealing with many entry hazards or are going to be switching Heatran in and out frequently, not giving it time to recover with Leftovers.</p>\n<p><strong>Air Balloon</strong>: Negating its biggest weakness, Ground-type moves, Air Balloon allows Heatran to wall other Heatran in a mirror match as well as switch in more safely to Pokemon likely to carry Earthquake.</p>\n<p><strong>Choice Specs</strong>: While holding Choice Specs, Heatran is very difficult to switch into. Choice Specs also allows Heatran to make better use of its coverage and pick up KOs where other sets would not.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage-boosting Items</strong>: Items like Charcoal and Metal Coat can be useful when you need Heatran to hit certain damage thresholds but also value the ability to change moves. However, these items don't afford Heatran the longevity or immediate breaking power that other items do.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet and Flame Body pair nicely together and can especially punish teams that are repeatedly using Knock Off, providing extra damage on foes while also making them risk being burned each time they make contact with Heatran.</p>\n<p><strong>Choice Scarf</strong>: Using Choice Scarf allows Heatran to escape some of the shortcomings of its awkward Speed tier and decently clean late-game. It can also be a solid revenge killer, catching opponents by surprise.</p>\n<h3>Tera</h3>\n<p>Heatran is a solid Tera user that is capable of turning matchups around with a well-timed Tera to resist a super effective hit; however, as the main Tera user in your draft, Heatran can feel a bit lackluster. Many times, Heatran gets value out of Tera by flipping specific type matchups, such as using Tera Grass to beat Water- and Ground-types both offensively or defensively. It can also use Tera Flying to escape damage from Ground-type moves entirely. You can also use a number of offensive Tera types like Tera Fairy and Ghost to gain access to coverage that it does not normally have. Heatran likes to make use of Terastallization in many matchups, so when considering a Tera partner to pair with Heatran, look for something that can function well—even when not using Terastallization.</p>\n<h3>Draft Strategy</h3>\n<p>Heatran can do many things for a draft despite having an awkward Speed tier and annoying weaknesses. The best thing for Heatran in a draft is having solid role compression so it is not forced into specific roles but can instead fit into the role it performs best against an opponent's team. If you are planning on drafting Heatran, make sure you are thinking about how it will help the Pokemon you draft before it as well as whether the Pokemon you draft before it help Heatran.</p>\n<p><strong>Flying- and Grass-types</strong>: Heatran only has 3 weaknesses—Ground, Water, and Fighting. This makes Grass- and Flying-types like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a> great partners, as they both resist two of the three types Heatran is weak to. This helps Heatran come in and out more throughout a game, and they can also KO Pokemon that Heatran can have a hard time dealing with by itself.</p>\n<p><strong>Strong Cleaners</strong>: Heatran's ability to trap and eliminate very bulky foes means it pairs well with strong late-game cleaners that may not have the raw stats to wallbreak but can excel when an opposing team has been weakened or the bulkier walls have been eliminated. Pokemon like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, which can have trouble breaking through bulkier Pokemon and Steel-types, are especially appreciative of Heatran's ability to trap and eliminate foes.</p>\n<p><strong>Pokemon that threaten Water-types</strong>: Water-types are some of the few Pokemon that can reliably switch into Heatran's attacks, so Pokemon like <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>, which can effectively eliminate those threats, are effective partners for Heatran.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Ground-type Moves</strong>: Having a 4x weakness is never fun for a Pokemon, but Heatran gets a particularly short end of the stick by being 4x weak to Ground. Because Earthquake is such a widely distributed move, almost any Pokemon can find coverage for Heatran—even Pokemon that usually are invested in Special Attack like <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> can run Earthquake just to beat Heatran.</p>\n<p><strong>Bulky Water-types</strong>: Bulky Water-types can effectively pivot into Heatran, and they can be even more annoying if they have a way to escape Magma Storm. Having Pokemon that can both effectively switch into these Pokemon as well as threaten them out is vital for supporting Heatran.</p>\n<p><strong>Fast Wallbreakers</strong>: While Heatran can effectively survive a lot of attacks from stronger Pokemon that outspeed it, it can be difficult to safely switch into their attacks over the course of the game because of its lack of reliable recovery.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 404799,
+            "username": "termnal"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 551115,
+                "username": "JCMShadow"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Stealth Rock (HP, Spe)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Heatran's well-rounded stats, great typing, and unique ability allow it to be one of the best specially defensive Pokemon in the tier, capable of sponging hits from <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a>. Earth Power hits Fire-resistant foes such as opposing Heatran, <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>. Toxic is useful to wear down Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, preventing them from reliably switching in. Heatran also functions as a consistent Stealth Rock user, threatening foes with entry hazard removal such as <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> lacking Earth Power and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a>. If Stealth Rock is already being used by another teammate, Taunt can be used to shut down defensive Pokemon like Toxapex and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> allowing Heatran to trap them more effectively. Taunt also prevents Substitute Volcarona and Calm Mind Raging Bolt from spiraling out of control. Protect both enables more passive damage from Magma Storm and Toxic to build up and grants Heatran additional healing from Leftovers, as well as allowing Heatran to scout common Choice item users such as Tapu Lele and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>. 40 Speed EVs allow Heatran to outspeed Adamant <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/mawile-mega/national-dex/\" hreflang=\"en\">Mega Mawile</a>.</p>\n<p>Heatran is easily removed by Ground- and Water-type Pokemon such as <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, meaning teammates that can handle these threats, such as <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a>, <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/rillaboom/national-dex/\" hreflang=\"en\">Rillaboom</a>, are greatly appreciated. Rillaboom in particular is good, since the Grassy Terrain it sets provides Heatran with another source of passive healing, which can greatly assist in Heatran's longevity to check foes like Raging Bolt and Mega Latios for teammates like Toxapex and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>. Heatran's offensive pressure is helpful for wearing down threats like Raging Bolt and Toxapex for teammates like Tapu Koko and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a>. In return, Tapu Koko can handle Water-types like <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex/\" hreflang=\"en\">Hisuian Samurott</a> and Alomomola.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 220,
+              "spe": 40
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Offensive Heatran serves as an effective wallbreaker with its powerful Magma Storm and Z-Moves while also functioning as a reliable Stealth Rock setter, pressuring common entry hazard control like <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a>. Earth Power grants key coverage against opposing Fire-resistant foes like <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, and opposing Heatran. Grassium Z with Solar Beam is the main combination, as it allows Heatran to lure and OHKO Water-types such as <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/swampert-mega/national-dex/\" hreflang=\"en\">Mega Swampert</a> while also dealing a good amount of damage to <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> and <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>. Alternatively, Toxic cripples threats like <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a>, and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, while Hidden Power Ice threatens <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, and Garchomp. Taunt stops walls such as <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> and Toxapex from pivoting out or using a recovery move, letting Heatran overwhelm them with Magma Storm's chip damage. Heatran can also use Firium Z to hit foes with a powerful Inferno Overdrive, which OHKOes most Landorus-T sets. However, without the combination of Solar Beam + Grassium Z, Heatran won't break past the Water-types mentioned above. Air Balloon is another option, granting Heatran an immunity to Ground-type attacks like Landorus-T's Earthquake, Mega Charizard Y's Scorching Sands, and Mega Diancie's Earth Power, letting it beat or force out Ground-types 1-on-1 when paired with Hidden Power Ice. Air Balloon also helps Heatran against opposing Heatran by avoiding Earth Power and threatening it back with its own Earth Power. Modest nature allows Heatran to OHKO defensive Landorus-T with Inferno Overdrive, while Timid nature helps Heatran outrun <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>.</p>\n<p>Heatran fits best on bulky offense and balance teams, where its ability to trap and remove problematic walls shines the most. <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a> and Raging Bolt are teammates that appreciate this ability, as they both benefit from Heatran trapping and removing walls like Toxapex and Galarian Slowking. Offensive Pokemon like <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, and Mega Diancie benefit from Heatran's ability to pressure opposing Steel-types like <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and they also appreciate its access to Stealth Rock. Due to its weakness to Ground-type attacks, teammates like Landorus-T, <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, and Tornadus-T are appreciated. Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/rillaboom/national-dex/\" hreflang=\"en\">Rillaboom</a> are great partners thanks to their ability to threaten opposing Ground-type Pokemon, such as Ting-Lu and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, for Heatran. Rillaboom, in particular, provides Grassy Terrain support that offers passive healing, something Z sets lack, for improved longevity. Despite the combination of Grassium Z and Solar Beam, Heatran is generally weak against Water-type foes like Slowbro, Alomomola, and Ogerpon-W; therefore, Pokemon that can handle them, such as <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a>, Raging Bolt, and Ferrothorn, are great partners. Heatran also likes partners that can switch into Fighting-types, like <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a>, that threaten Heatran with an OHKO; these include Pokemon like Landorus-T, Gholdengo, and Zapdos. Teammates that carry entry hazards removal, like Gliscor and Terapagos, are solid teammates for Heatran due to its vulnerability to entry hazards and complete lack of recovery without Leftovers. Although Heatran is a solid check to offensive Pokemon like Volcarona and Tapu Lele, its lack of recovery doesn't allow it to repeatedly switch into their attacks. Therefore, defensive Pokemon that check these threats, such as Toxapex and Gholdengo, are solid partners.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Grassium Z",
+            "Firium Z",
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 564420,
+            "username": "Lialiabeast"
+          },
+          {
+            "user_id": 613028,
+            "username": "Illouri"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542295,
+                "username": "Blaze"
+              },
+              {
+                "user_id": 662575,
+                "username": "boppy"
+              },
+              {
+                "user_id": 475916,
+                "username": "Sputnik"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 658067,
+                "username": "ElectraineHeart"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Stallbreaker (Fire)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Heatran is a great addition to Fire teams, serving as a stallbreaker with its access to Magma Storm and Taunt, and with Air Balloon, it answers <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>, <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, and the <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> formes while also providing excellent utility in Stealth Rock and Flame Body. Magma Storm is a powerful trapping tool against walls like <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a>. Earth Power targets Fire- and Poison-types like opposing Heatran and Toxapex, which are immune to or resist Magma Storm. Flash Cannon allows Heatran to OHKO Fairy-types like Mega Diancie and <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a>, which threaten Fire teams. On the other hand, Hidden Power Ice threatens Ground-types like <a href=\"/dex/sv/pokemon/landorus-therian/national-dex-monotype/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>. With Taunt, Heatran can stop recovery for foes like Toxapex and Clodsire while also denying entry hazards from these foes as well as others like Gliscor. Alternatively, Stealth Rock allows it to support itself and its teammates like <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> by wearing down the opposing team. Air Balloon provides Heatran with a Ground immunity, allowing it to deal with the aforementioned threats safely as long as its Air Balloon is intact. <a href=\"/dex/sv/pokemon/torkoal/national-dex-monotype/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/ninetales/national-dex-monotype/\" hreflang=\"en\">Ninetales</a> serve as sun setters, boosting the power of Heatran's Magma Storm and softening Water-type moves. Torkoal also provides entry hazard removal with Rapid Spin and acts as an alternate Stealth Rock setter. Dragon Dance <a href=\"/dex/sv/pokemon/charizard-mega-x/national-dex-monotype/\" hreflang=\"en\">Mega Charizard X</a> handles Dragon-types like <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a>. In return, Heatran can sponge attacks from Choice Scarf <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a>. <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a> is another sun setter that also provides a Ground immunity in case Heatran's Air Balloon has already been popped and offensively threatens Sand Rush Excadrill and <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>, which pose an immense threat to Fire teams, by resetting the weather and threatening them back with Fire Blast and Solar Beam, respectively. Z-Celebrate <a href=\"/dex/sv/pokemon/victini/national-dex-monotype/\" hreflang=\"en\">Victini</a> deals with Fighting-types like <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>. Teammates like Volcarona, <a href=\"/dex/sv/pokemon/iron-moth/national-dex-monotype/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a> appreciate Heatran's ability to trap and eliminate foes like Toxapex and Clodsire. Volcarona can threaten Dark-types like <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a> and Hydreigon that pose problems for Heatran. Choice Scarf Iron Moth and Blacephalon serve as revenge killers; Iron Moth deals with <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, while Blacephalon threatens <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a> and can eliminate the Landorus formes for Heatran if running Hidden Power Ice, allowing Heatran to run a different move. Focus Sash Ceruledge can use its Fighting immunity to switch into Fighting-types like <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a>, threatening them back with its STAB moves. It also serves as a wallbreaker, removing special walls like <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a> and Rock-types like <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex-monotype/\" hreflang=\"en\">Mega Tyranitar</a> and <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a>. In return, Heatran can deny entry hazards with Taunt to keep Ceruledge's Focus Sash intact, allowing it to reliably take on the aforementioned foes. <a href=\"/dex/sv/pokemon/volcanion/national-dex-monotype/\" hreflang=\"en\">Volcanion</a> boasts a Water immunity, which allows it switch in against Water-type attacks from Choice Specs <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a>, and Choice Band <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a>; it can also eliminate bulky Ground-types like Hippowdon and Ting-Lu with Steam Eruption, which can potentially burn other foes.</p>",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Specially Defensive (Steel)",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Heatran is a mainstay on Steel teams due to its ability, Flash Fire, letting it switch into threats like <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>, <a href=\"/dex/sv/pokemon/victini/national-dex-monotype/\" hreflang=\"en\">Victini</a>, and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-monotype/\" hreflang=\"en\">Iron Moth</a>. Lava Plume makes Heatran annoying to switch into thanks to its burn chance, while Magma Storm softens walls like <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a> by trapping them. Earth Power threatens Poison- and Fire-types and makes Heatran an important asset against opposing Steel teams by hitting opposing Heatran. Roar lets Heatran phaze the likes of Nasty Plot <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and Z-Celebrate Victini and synergizes well with Stealth Rock to deal extra damage. Alternatively, Toxic cripples walls like <a href=\"/dex/sv/pokemon/mantine/national-dex-monotype/\" hreflang=\"en\">Mantine</a> and Rotom-W, as well as Pokemon that fancy switching into Heatran such as <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>. Substitute pairs well with Toxic and allows Heatran to be massively annoying against types like Steel, Electric, and Psychic by capitalizing on the many switches it forces in these matchups. Thanks to their typing and bulk, <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a> are excellent teammates to check Ground- and Fighting-types like <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a> and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> for Heatran. Setup sweepers like <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> and Z-Happy Hour <a href=\"/dex/sv/pokemon/jirachi/national-dex-monotype/\" hreflang=\"en\">Jirachi</a> appreciate Heatran wearing down teams with burn and Toxic. <a href=\"/dex/sv/pokemon/iron-treads/national-dex-monotype/\" hreflang=\"en\">Iron Treads</a> removes entry hazards with Rapid Spin and deals with Mega Charizard Y, <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a>, and <a href=\"/dex/sv/pokemon/cinderace/national-dex-monotype/\" hreflang=\"en\">Cinderace</a> with its Choice Scarf set. <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> checks Water-types like <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex-monotype/\" hreflang=\"en\">Urshifu-R</a> and aids Heatran with Spikes and Leech Seed.</p>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              },
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          },
+          {
+            "user_id": 594972,
+            "username": "Murphy Lawden"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 493772,
+                "username": "bellchime"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Heatran",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>The given EV spread allows Heatran to outspeed <a href=\"/dex/sv/pokemon/chien-pao/national-dex-doubles/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/flutter-mane/national-dex-doubles/\" hreflang=\"en\">Flutter Mane</a> during Tailwind while maximizing its Special Attack, allocating the remaining EVs into HP.</li>\n</ul>",
+          "abilities": [
+            "Flash Fire"
+          ],
+          "items": [
+            "Charcoal",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Fire",
+            "Flying",
+            "Grass",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              },
+              {
+                "move": "Eruption",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 204,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 52
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Burning Jealousy",
+    "Crunch",
+    "Dark Pulse",
+    "Dig",
+    "Dragon Pulse",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Flash Cannon",
+    "Giga Impact",
+    "Hard Press",
+    "Heat Crash",
+    "Heat Wave",
+    "Heavy Slam",
+    "Hyper Beam",
+    "Iron Defense",
+    "Iron Head",
+    "Lava Plume",
+    "Leer",
+    "Lunge",
+    "Magma Storm",
+    "Metal Claw",
+    "Metal Sound",
+    "Overheat",
+    "Pounce",
+    "Power Gem",
+    "Protect",
+    "Rest",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Solar Beam",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Will-O-Wisp"
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "name": "Tauros",
+  "alias": "tauros",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    75,
+    100,
+    95,
+    40,
+    70,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "All-Out Attacker",
+          "pokemon": "Tauros",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Dark",
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Throat Chop",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "All-Out-Attacker",
+          "pokemon": "Tauros",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Throat Chop",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Tauros is a one-dimensional but capable offensive wallbreaker, utilizing its ability Sheer Force to fire off strong attacks. Its solid Speed and good coverage allow for it to be an effective wallbreaker on teams looking for a budget offensive option. Despite this, Tauros still struggles to break through the more premier defensive Pokemon in the format. Its mediocre defenses also leave it vulnerable to Choice Scarf users, common priority attacks, and fast revenge killers. Overall, its lack of utility and role flexibility make it difficult to slot on most drafts.</p>\n<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Tauros takes advantage of Sheer Force to punch holes through teams. It relies on STAB Body Slam to hit most Pokemon hard while supplementing in coverage moves against foes that resist it.</p>\n<p><strong>Cleaner</strong>: Tauros can function as a cleaner when paired with other offensive Pokemon. It can utilize a Choice Scarf in certain matchups to threaten faster offensive Pokemon.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Body Slam, Double-Edge</p>\n<p><strong>Setup Moves</strong>: Work Up</p>\n<p><strong>Utility Moves</strong>: Substitute</p>\n<p><strong>Coverage</strong>: Close Combat, High Horsepower, Earthquake, Iron Head, Rock Slide, Stone Edge, Tera Blast, Throat Chop, Trailblaze, Wild Charge, Zen Headbutt</p>\n<h3>Niche Moves</h3>\n<p><strong>Special Attacks</strong>: Despite its weak Special Attack, Tauros can occasionally run Sheer Force-boosted special attacks such as Fire Blast and Ice Beam in order to target Pokemon with 4x weaknesses that can typically take on its physical attacks, such as <a href=\"/dex/sv/pokemon/forretress/draft/\" hreflang=\"en\">Forretress</a> and <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>.</p>\n<p><strong>Raging Bull</strong>: Raging Bull, although weaker than a Sheer Force-boosted Body Slam, can be useful in matchups where Tauros may need to break dual screens.</p>\n<p><strong>Facade</strong>: Tauros can take advantage of status, especially in the case of burn from Will-O-Wisp or Flame Body, by punishing opponents with a powerful STAB Facade.</p>\n<h3>Common Items</h3>\n<p><strong>Life Orb</strong>: Tauros should almost always use Life Orb, as it maximizes damage output when combined with Sheer Force. This pairs well with STAB Body Slam along with Tauros's other coverage moves, allowing it to fire off most attacks without taking recoil.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Scarf</strong>: In more offensive matchups, Tauros can afford to run a Choice Scarf and function as a revenge killer to Pokemon that typically outspeed it.</p>\n<p><strong>Assault Vest</strong>: With an Assault Vest, Tauros can more comfortably switch into special Pokemon, especially Ghost-types. On pure defensive sets, this can be paired with Intimidate to give it solid mixed bulk.</p>\n<h3>Tera</h3>\n<p>While there are typically better options, Tauros is a good low-tier Tera Captain. In most cases, Tera Normal and Ghost are its best options, either powering up its STAB attacks to greater heights or providing a better option to hit Ghost-types while also gaining an immunity to its only weakness in Fighting. It can also opt to use Tera Electric to threaten bulky Water- and Flying-types or Tera Fire to hit Steel-types and provide an immunity to burn.</p>\n<h3>Draft Strategy</h3>\n<p>As a low-tier Pokemon, Tauros is eclipsed by many other offensive options. It doesn't provide much outside of its wallbreaking capabilities, and it should only be drafted by teams that need a more offensive punch and can cover its lack of defensive and support utility. It should not be one's primary offensive option, and it should not be used on hyper offensive teams where multiple Pokemon perform its role better.</p>\n<p><strong>Bulky Pivots</strong>: Due to its poor defenses, Tauros appreciates teammates that can take hits for it while also reliably giving it free switches, such as <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a>, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>. Without effective pivots, Tauros struggles to enter the field.</p>\n<p><strong>Special Attackers</strong>: Tauros works well with special attackers such as <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> that can threaten and take advantage of its physically defensive switch-ins.</p>\n<p><strong>Entry Hazard Control</strong>: Tauros can almost never afford to run Heavy-Duty Boots, making entry hazard removers like <a href=\"/dex/sv/pokemon/weezing-galar/draft/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/tsareena/draft/\" hreflang=\"en\">Tsareena</a> essential for its longevity. It also appreciates teammates that can set up hazards, such as <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a>, to help wear down its defensive counters.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Physical Walls</strong>: Despite being its selling point, Tauros still lacks the physical power to break through physically defensive walls. Pokemon like <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a> can comfortably switch into Tauros and threaten it with Rocky Helmet or even take advantage of it by pivoting out and bringing in an offensive threat.</p>\n<p><strong>Entry Hazards</strong>: Entry hazards severely limit the amount of opportunities Tauros can get to switch in. It relies on offensive pressure and pivoting in order to break through its defensive checks, making this the easiest way to hamper its effectiveness.</p>\n<p><strong>Faster Offensive Pokemon</strong>: Due to Tauros's mediocre defenses and lack of resistances, Pokemon that outspeed it can deal massive damage to it. Considering how easy it is for Tauros to accumulate chip damage, it is easily revenge killed by faster Pokemon.</p>",
+      "comments": "",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 356584,
+            "username": "aaga"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 514695,
+                "username": "Addison"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Assurance",
+    "Blizzard",
+    "Body Slam",
+    "Bulldoze",
+    "Close Combat",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Earthquake",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Flamethrower",
+    "Giga Impact",
+    "Helping Hand",
+    "High Horsepower",
+    "Horn Attack",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Iron Head",
+    "Lash Out",
+    "Outrage",
+    "Payback",
+    "Protect",
+    "Raging Bull",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Smart Strike",
+    "Solar Beam",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Swagger",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Trailblaze",
+    "Wild Charge",
+    "Work Up",
+    "Zen Headbutt"
+  ]
+}

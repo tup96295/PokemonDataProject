@@ -1,0 +1,280 @@
+{
+  "name": "Eelektross",
+  "alias": "eelektross",
+  "types": [
+    "Electric"
+  ],
+  "stats": [
+    85,
+    115,
+    80,
+    105,
+    80,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot",
+          "pokemon": "Eelektross",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Discharge",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Tail",
+                "type": null
+              },
+              {
+                "move": "Acid Spray",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        },
+        {
+          "name": "Coil",
+          "pokemon": "Eelektross",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Levitate"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Coil",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Supercell Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Dragon Tail",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: Eelektross is a solid pivot defined by its lack of weaknesses, balanced stats, and excellent coverage options. Despite being a pure Electric-type, it doesn't fear most Ground-types, making its Volt Switch more potent. It can also become a more direct problem if it's able to set up with Coil. Its lack of natural bulk and recovery can hold it back, but it can do well to support a draft's offense as a pivot.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Utility Pivot</strong>: Low Speed and access to both U-turn and STAB Volt Switch make Eelektross an expert at bringing in its teammates. An immunity to most entry hazards and neutrality to Stealth Rock allow it to use items like Assault Vest and Leftovers to increase its effective bulk and switch in multiple times. Beyond its pivoting, it can also remove items with Knock Off, spread paralysis, phaze with Dragon Tail, or leave the opponent guessing which coverage move it has.</p>\n<p><strong>Bulky Setup</strong>: Eelektross can use Coil to get a bit more out of its nice Attack stat and physical coverage. It'll usually have Drain Punch on these sets to keep it healthy against faster foes.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Volt Switch, Discharge, Thunderbolt, Thunder Punch, Supercell Slam</p>\n<p><strong>Setup Moves</strong>: Coil</p>\n<p><strong>Utility Moves</strong>: U-turn, Knock Off, Thunder Wave, Dragon Tail, Super Fang, Light Screen, Brick Break</p>\n<p><strong>Coverage</strong>: Liquidation, Giga Drain, Grass Knot, Drain Punch, Close Combat, Fire Punch, Flamethrower, Hex, Rock Slide, Stomping Tantrum, Zen Headbutt, Lunge, Flash Cannon, Dragon Claw, Dragon Pulse</p>\n<h3>Niche Moves</h3>\n<p><strong>Acid Spray</strong>: Assault Vest sets can use Acid Spray to pressure bulky foes more effectively with its other attacks.</p>\n<p><strong>Acrobatics</strong>: Acrobatics is Eelektross's only Flying-type attack, and it can sometimes find a place on Coil sets with a consumable item like a Sitrus Berry.</p>\n<p><strong>Endure</strong>: Endure can enable Custap Berry strategies or grant an extra turn of Rocky Helmet damage.</p>\n<h3>Common Items</h3>\n<p><strong>Assault Vest</strong>: Most of Eelektross's best tools are direct attacks, so pivot sets aren't losing much by running an Assault Vest to give them better special bulk.</p>\n<p><strong>Rocky Helmet</strong>: Physically defensive sets appreciate Rocky Helmet's ability to punish U-turn, Knock Off, and other contact moves.</p>\n<p><strong>Leftovers</strong>: Leftovers is a safe option for most Eelektross sets, helping it switch around more often or set up more safely.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry can be used on many sets like Leftovers, but it's mainly used to help it avoid being 2HKO'd by wallbreakers.</p>\n<h3>Niche Items</h3>\n<p><strong>Custap Berry</strong>: Custap Berry gives Eelektross a chance to go first, hopefully letting it land a big hit against a sweeper.</p>\n<p><strong>Mental Herb</strong>: Mental Herb guarantees a turn of Coil setup against Encore users.</p>\n<p><strong>Lum Berry</strong>: Coil sets are seriously hindered by burn and Toxic, which Lum Berry provides protection from.</p>\n<p><strong>Ability Shield</strong>: Ability Shield keeps Eelektross safe against Mold Breaker Earthquakes from <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/haxorus/draft/\" hreflang=\"en\">Haxorus</a>.</p>\n<p><strong>Heavy-Duty Boots</strong>: Although Eelektross is fairly comfortable switching into entry hazards, an immunity to Stealth Rock can keep it healthier than other items if its sole purpose is to pivot.</p>\n<h3>Tera</h3>\n<p>Eelektross is generally not a great choice for a Tera Captain. It already has no weaknesses and plenty of coverage options. If it wants to Terastallize, defensively strong Tera types like Fairy and Steel can work well, making it a stronger pivot or setup threat in certain matchups. Tera types can also be chosen to resist coverage moves from Ground-types.</p>\n<h3>Draft Strategy</h3>\n<p>Drafts that want pivoting and are weak to Ground- and Flying-type attacks gain the most from an Eelektross pick.</p>\n<p><strong>Offense</strong>: Eelektross can easily bring in its frailer teammates like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> with U-turn or Volt Switch, giving them a chance to dish out damage or set up.</p>\n<p><strong>Wincons</strong>: Dedicated sweepers like <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> can find win paths more easily with an Eelektross providing chip damage, item removal, and pivoting into wallbreakers.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Wallbreakers</strong>: Despite the lack of weaknesses or other glaring flaws, Eelektross doesn't have the best defensive stats. It will often need to focus its EVs on a single defensive stat, which leaves it vulnerable to the other category of attacks. Stronger wallbreakers with boosting items can deal major damage to it without much issue, preventing it from being useful.</p>\n<p><strong>Chip Damage</strong>: Damage from Stealth Rock, weak hits, and other sources can add up quickly due to Eelektross's lack of recovery options. Knock Off also significantly cuts into its longevity if running Leftovers or Sitrus Berry.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 599989,
+            "username": "scionicle"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acid",
+    "Acid Spray",
+    "Acrobatics",
+    "Bind",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Charge",
+    "Charge Beam",
+    "Close Combat",
+    "Coil",
+    "Confuse Ray",
+    "Crunch",
+    "Crush Claw",
+    "Discharge",
+    "Dragon Claw",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Drain Punch",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Facade",
+    "Fire Punch",
+    "Flamethrower",
+    "Flash Cannon",
+    "Focus Punch",
+    "Gastro Acid",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Headbutt",
+    "Heavy Slam",
+    "Hex",
+    "Hyper Beam",
+    "Knock Off",
+    "Light Screen",
+    "Liquidation",
+    "Lunge",
+    "Outrage",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Sleep Talk",
+    "Spark",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Super Fang",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thrash",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Fang",
+    "Thunder Punch",
+    "Thunder Wave",
+    "U-turn",
+    "Volt Switch",
+    "Wild Charge",
+    "Zap Cannon",
+    "Zen Headbutt"
+  ]
+}

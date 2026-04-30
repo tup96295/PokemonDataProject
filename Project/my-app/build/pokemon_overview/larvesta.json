@@ -1,0 +1,136 @@
+{
+  "name": "Larvesta",
+  "alias": "larvesta",
+  "types": [
+    "Bug",
+    "Fire"
+  ],
+  "stats": [
+    55,
+    85,
+    55,
+    50,
+    55,
+    60
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Larvesta",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Flame Body"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 76,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 156,
+              "spe": 36
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acrobatics",
+    "Amnesia",
+    "Body Slam",
+    "Bug Bite",
+    "Bug Buzz",
+    "Calm Mind",
+    "Double-Edge",
+    "Ember",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Giga Drain",
+    "Harden",
+    "Heat Wave",
+    "Leech Life",
+    "Light Screen",
+    "Lunge",
+    "Morning Sun",
+    "Overheat",
+    "Pounce",
+    "Protect",
+    "Psychic",
+    "Rest",
+    "Screech",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Solar Beam",
+    "String Shot",
+    "Struggle Bug",
+    "Substitute",
+    "Sunny Day",
+    "Take Down",
+    "Tera Blast",
+    "Thrash",
+    "Trailblaze",
+    "U-turn",
+    "Wild Charge",
+    "Will-O-Wisp",
+    "Zen Headbutt"
+  ]
+}

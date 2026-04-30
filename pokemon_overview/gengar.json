@@ -1,0 +1,1593 @@
+{
+  "name": "Gengar",
+  "alias": "gengar",
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "stats": [
+    60,
+    65,
+    60,
+    130,
+    75,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>A solid choice for both speed control and wallbreaking, Gengar is a dynamic option for teams, as it can provide immense upside due to its versatility and offensive prowess. Gengar is most often seen sporting a Choice Scarf, comfortably outpacing other Choice Scarf users in the metagame like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>. Nasty Plot Gengar is a fast, potent setup sweeper that can decimate teams after just one boost. Gengar, using status-spreading moves such as Thunder Wave, Toxic Spikes, and Will-O-Wisp and disruption moves in Encore and Taunt, can disrupt its primary checks like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>. Despite this tremendous upside, Gengar is incredibly frail and susceptible to getting OHKOed by much of the metagame, including notable checks like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, Cyclizar, and <a href=\"/dex/sv/pokemon/muk-alola/ru/\" hreflang=\"en\">Alolan Muk</a>, so getting it on the field can be difficult. Gengar also directly competes with other great Ghost-type Pokemon in the tier, such as Basculegion-F, <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>, especially on more bulky team structures.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Thunder Wave, Toxic, and Toxic Spikes can provide great value for Hex Gengar. Destiny Bond is always a nice option to trade against something slower than Gengar, such as <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, which can be otherwise tricky to take down. Knock Off gives Gengar its own item removal option, which can help on entry hazard-stacking teams at the cost of not being offensively threatening due to its low Attack. Pain Split is Gengar's only form of recovery, which it can use against foes like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and Hisuian Goodra well. Taunt similarly shuts down slower setup sweepers like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and can pair well with Destiny Bond to ensure it trades effectively. Choice Specs can be used to threaten OHKOs on Pokemon like Assault Vest Cyclizar and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dark-types</strong>: Although Gengar can use Focus Blast to hit Dark-types like Bisharp and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> for massive damage, it struggles to effectively take down either of them, as Sucker Punch from Bisharp threatens an immediate OHKO while Krookodile often uses Choice Scarf, outpacing and taking Gengar down with ease. Umbreon is susceptible to Encore and Trick as well as being used as setup fodder, but it can reliably tank attacks and threaten to take Gengar out with Foul Play. <a href=\"/dex/sv/pokemon/muk-alola/ru/\" hreflang=\"en\">Alolan Muk</a>, while more niche, can comfortably take hits from Gengar before KOing it with Knock Off, though it must be wary of Will-O-Wisp.</p>\n<p><strong>Faster Pokemon</strong>: Non-Choice Scarf Gengar is outpaced and immediately threatened by a majority of the Choice Scarf users in the metagame, including <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, and even opposing Gengar. Similarly, Gengar is in a pretty comfortable Speed tier naturally, but it is still outsped by plenty of Pokemon that threaten to OHKO it with slight chip damage, such as <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>.</p>\n<p><strong>Cyclizar</strong>: Assault Vest Cyclizar is a common Gengar check and can disrupt it significantly, switching in and threatening big damage with Knock Off while also being able to pivot out into Ghost-type teammates on an expected Focus Blast.</p>",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Nasty Plot Gengar is a potentially devastating setup sweeper thanks to its great Speed tier, outpacing base 100 Speed Pokemon like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>, and strong STAB combination. Focus Blast gives Gengar the coverage to hit bulky Steel-types like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> and Gengar's primary check in <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> for massive damage, though it comes at the cost of accuracy issues. Encore can be really disruptive to lock slower walls into unfavorable positions, such as forcing <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a> to use Calm Mind and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> to use Wish, giving Gengar free setup opportunities. Air Balloon is quite powerful on Gengar, affording it safe entry and setup chances against <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a> as well as Choice-locked <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> if it locks into Earthquake. Colbur Berry similarly gives Gengar great defensive value, allowing it to comfortably survive Knock Off from Pokemon like Cyclizar, Krookodile, and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> to threaten them back safely. Tera Ghost allows Shadow Ball to OHKO Jirachi after Spikes damage and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>, while Tera Fighting can be used to flip the weakness to Dark and boost the power of Focus Blast to annihilate Hisuian Goodra after taking Spikes damage and Assault Vest Cyclizar.</p>\n<p>Nasty Plot Gengar fits best on balance and bulky offense teams that can provide it entry points where it can set up and clean late-game. Choice Scarf users like Mienshao and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> pair well with Gengar, fulfilling the speed control role over Gengar to help against Cyclizar and Krookodile, and they grant it safe entry opportunities against their checks like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and Jirachi with U-turn and Healing Wish respectively. Defensive pivot support options like Cyclizar and Jirachi are key teammates; Cyclizar provides entry hazard and item removal to wear down Gengar's checks like Hisuian Goodra and Registeel, Jirachi can help enable Gengar by spreading paralysis and providing Wish passing, and they serve as Ghost- and Psychic-type switch-ins against Pokemon like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> and Gardevoir, respectively. Hazard setters like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, Hippowdon, and Jirachi are valuable to accrue chip damage on the opposition, which improves Gengar's ability to clean; the first two also help to absorb Knock Off attempts from Cyclizar and Krookodile. Other offensive setup options like Bisharp, <a href=\"/dex/sv/pokemon/flygon/ru/\" hreflang=\"en\">Flygon</a>, and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> can help enable Gengar to sweep late-game, as they can wallbreak effectively against its checks like Hisuian Goodra and Umbreon early- to mid-game or can swap roles with Gengar and clean late-game themselves.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Air Balloon",
+            "Colbur Berry"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Hex",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Hex takes advantage of status spread by Gengar and its teammates, notably Thunder Wave from users like <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, to bolster its damage to seemingly unwallable range. Sludge Bomb is used over Sludge Wave because of the increased odds to poison, which can similarly help to enable Hex damage. Dazzling Gleam gives Gengar a reliable attack for its most common check, <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, along with <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>. Will-O-Wisp is used to disrupt Cyclizar and offensive Pokemon like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a> that may try to switch into Gengar and force it out. Heavy-Duty Boots helps Gengar hit the field more often to spread status and use its strong attacks. Leftovers can be run to similarly maintain health on Gengar, though it requires entry hazard removal support to maximize its effectiveness. Colbur Berry is a nice item for Gengar to have against the aforementioned Cyclizar and other Knock Off users like Krookodile, allowing it to comfortably survive an attack and ensure an attempt at burning and hindering the opposition. Tera Fairy can provide a boost to Dazzling Gleam and flips the weakness to Dark, which can allow Gengar to take down Dark-types, like Choice Scarf Krookodile, while also helping absorb strong Dragon-type attacks from threats like <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. Tera Dark similarly flips the weakness to Dark while providing a key immunity to Psychic, which is useful to help against the bulky Psychic-types that can stomach a hit like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and Reuniclus.</p>\n<p>Hex Gengar fits best on balance and bulky offense teams that aim to spread status to enable a late-game sweep for Gengar. Teammates that can help spread status, like Body Slam Jirachi, Thunder Wave Slowbro and Reuniclus, and Toxic Umbreon can help wear down Gengar checks like Hisuian Goodra and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> while also helping bolster the damage from Hex. Offensive partners that can also take advantage of this type of status spam are slower wallbreakers like <a href=\"/dex/sv/pokemon/breloom/ru/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>, which can outspeed a lot of threats after they are paralyzed to consistently dish out strong attacks. Defensive partners that can help absorb Knock Off and other Dark- and Ghost-type attacks from threats like Bisharp, Krookodile, and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>—like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, Cyclizar, and Umbreon—are important for Gengar, as they allow Gengar to fall back on them to wear down foes before threatening to sweep late-game. Leftovers Gengar also appreciates Cyclizar for its entry hazard removal abilities, with other teammates like Noivern and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> offering similar hazard removal and pivot support. Gengar does struggle to break through some of the special walls in the tier, especially Hisuian Goodra, Registeel, and Umbreon, so hazard support from teammates like Chesnaught and Jirachi can go a long way. Physical attackers like <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a>, Krookodile, and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> also help Gengar break through Dark- and Steel-types like Bisharp and Umbreon.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Colbur Berry"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Choice Scarf Gengar is one of the fastest Pokemon in RU, leaving speed demons like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a> as well as Choice Scarf users like <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> in the dust. Ghost / Poison is an excellent offensive typing that can hit most of the metagame for at least neutral damage, only resisted by <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, <a href=\"/dex/sv/pokemon/overqwil/ru/\" hreflang=\"en\">Overqwil</a>, and <a href=\"/dex/sv/pokemon/muk-alola/ru/\" hreflang=\"en\">Alolan Muk</a>. Choice Scarf Gengar functions as a revenge killer against Pokemon without priority like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, and slower Choice Scarf users such as <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and Krookodile. Trick gives Gengar a way to incapacitate setup sweepers like <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a> and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a> that it doesn't have the power to reliably OHKO and walls like <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> that can easily switch into one of Gengar's attacks. Gengar can lean into its utility options, setting Toxic Spikes for more entry hazard-focused teams. Focus Blast allows Gengar to threaten Steel-types like Bisharp, <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, and non-Assault Vest Hisuian Goodra. It can use Thunder Wave as speed control to allow a slower sweeper like Armarouge or Weakness Policy Basculegion-F to outspeed foes. Destiny Bond can be used as a last resort to stop sweepers or when Gengar is weakened and simply needs to trade one-for-one. Tera Ghost boosts Gengar's Shadow Ball and lets it function as a cleaner against teams that are chipped down, notably OHKOing physically defensive <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and having a chance to OHKO maximum HP Jirachi after Stealth Rock damage. Additionally, it removes Gengar's weaknesses to Ground and Psychic, allowing it to survive Psychic-type attacks from <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> or Earthquake from <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>. Tera Dark allows Gengar to live a Sucker Punch from even a +2 Bisharp and OHKO it with Focus Blast and turns Gengar's weaknesses to Psychic, Dark, and Ghost into resistances. This lets it switch into Choice-locked Psychic-type attacks from Gardevoir and Armarouge and the strong Psychic-type STAB attacks of Reuniclus, Slowbro, and <a href=\"/dex/sv/pokemon/necrozma/ru/\" hreflang=\"en\">Necrozma</a> without worry. Tera Dark also allows Gengar to win the mirror match by resisting Shadow Ball and OHKOing back with its own Shadow Ball.</p>\n<p>Gengar can fit on a wide variety of team structures, from offense to balance, due to its ability to revenge kill, shut down walls like Hisuian Goodra and Empoleon with Trick, use Toxic Spikes to spread hazards, and leverage Thunder Wave to slow down opposing revenge killers like Mienshao and <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>. Gengar is a great addition to hazard stack teams with its ability to leverage hazard chip damage to meet damage thresholds like OHKOing Hisuian Goodra with Focus Blast after three layers of Spikes and shutting down Defog users like <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> with Trick. Teammates like Suicune and Armarouge love Gengar's ability to use Trick on special walls and give them its Choice Scarf, letting them set up for late-game sweeps. Cyclizar makes an excellent teammate for Gengar, as it is able to keep the field clear of hazards for it while pivoting into Gengar to absorb pesky Fighting- and Fairy-type moves that threaten the little bike lizard. <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> can threaten the Steel-types that switch in when Gengar locks into Sludge Wave or punish Bisharp trying to revenge kill it with Sucker Punch. Defensively, Gengar loves having a Dark-type that can resist the Dark-, Ghost-, and Psychic-type moves that threaten it, making Pokemon like Krookodile and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> enticing choices. Krookodile can set up Stealth Rock for Gengar to take advantage of, while Umbreon can keep it healthy with Wish and cripple walls with Toxic. Knock Off absorbers like Rocky Helmet <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and Hippowdon can switch in to prevent Gengar from being heavily damaged and losing its item. <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> can lure in Pokemon looking to hit it with a strong Moonblast, then U-turn into Gengar, which resists the move. It can also threaten their common checks, Steel-types, with Flamethrower.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574067,
+            "username": "Freya"
+          },
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 231398,
+                "username": "feen"
+              },
+              {
+                "user_id": 513635,
+                "username": "Rarelyme"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<h3>Poison</h3>\n<p>Gengar's amazing Special Attack and Speed along with its solid Ghost typing give it a solid offensive role. However, it has major competition in <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, which has overall superior utility thanks to its higher bulk and Special Attack, usually performing better against most types.</p>",
+      "comments": "<h3>Other Options</h3>\n<h4>Poison</h4>\n<p>Energy Ball provides solid coverage, allowing Gengar to remove Ground-types like <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>.</p>",
+      "movesets": [
+        {
+          "name": "Choice Specs (Poison)",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Gengar finds a niche on Poison teams thanks to its secondary Ghost typing and unique coverage, allowing it to serve as a solid alternative to <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>. Shadow Ball threatens Ghost- and Psychic-type Pokemon like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>. Thunderbolt provides solid coverage by hitting dangerous Flying- and Water-types like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. Focus Blast allows Gengar to deal with Dark-, Normal-, and Steel-type threats in <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, while Dazzling Gleam provides a less risky option to hit Dark-types along with Dragon-types like <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>. Finally, Trick allows Gengar to disrupt special walls like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> by granting them a useless Choice Specs, along with Choice locking <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, which can prove problematic for Poison teams. Icy Wind, however, has the solid role of removing <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, which pose significant threats to Poison teams.</p>\n<p><a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> can take hits from Water- and Ground-types that Gengar cannot handle such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, along with using Spore to grant Gengar safe entry. Amoonguss can also use Foul Play to remove threats to Gengar such as <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/mimikyu/monotype/\" hreflang=\"en\">Mimikyu</a>. <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> threatens potent Dark-types like <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, Ting-Lu, and <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> thanks to its Fairy-type STAB move and Will-O-Wisp. Galarian Weezing can also use Defog to remove entry hazards, ensuring Gengar stays healthy. <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> can handle priority from threats like <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, Mimikyu, and <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a> attempting to remove Gengar, along with being able to handle threats like <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>. <a href=\"/dex/sv/pokemon/overqwil/monotype/\" hreflang=\"en\">Overqwil</a> pairs nicely with Gengar with its immense physical bulk, being able to take hits from fast physical Ghost- and Psychic-types such as <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>. Overqwil's entry hazards also provide utility in chipping down special walls such as <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and Ting-Lu, which can both prove problematic to Gengar. In return, Overqwil appreciates Gengar's Ghost typing allowing it to block Rapid Spin from the likes of <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a> and <a href=\"/dex/sv/pokemon/tentacruel/monotype/\" hreflang=\"en\">Tentacruel</a>. Alolan Muk can handle special attacking Ghost- and Dark-type threats like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>. <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> can switch into revenge killers Gengar can struggle with, such as Choice Scarf <a href=\"/dex/sv/pokemon/latias/monotype/\" hreflang=\"en\">Latias</a> and Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, and threaten them back with its strong coverage moves. Both <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a> can handle Dark-types like Alolan Muk, <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, and Bisharp while appreciating Gengar removing Ghost- and Psychic-types like Gholdengo, Hatterene, and <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a>. Choice Scarf Sneasler can also blitz past problematic foes such as <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, Hisuian Goodra, and non-Choice Scarf Darkrai without worry. Okidogi, meanwhile, appreciates Gengar weakening physical walls like Galarian Weezing, Toxapex, and <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> that prevent it from setting up safely. In response, Okidogi can handle Dark-type menaces like Bisharp, Meowscarada, and Roaring Moon without any issues.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Icy Wind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Toxic Spikes Lead (Ghost)",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Gengar's solid Speed tier and its access to Toxic Spikes, Taunt, and Destiny Bond allow it to have a niche as a lead on Ghost teams. Setting up Toxic Spikes is Gengar's main objective, as the extra chip damage helps wear down Pokemon that would otherwise give Ghost teams lots of trouble, such as <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a>. Taunt is used to prevent opposing leads from setting up their own entry hazards, such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/tinkaton/monotype/\" hreflang=\"en\">Tinkaton</a>. Destiny Bond can be used in tandem with Taunt to force foes to attack and secure a trade. Sludge Bomb allows Gengar to not be completely passive, as well as having a 50% chance to OHKO <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, dissuading it from trying to block Toxic Spikes.</p>\n<p>Toxic Spikes greatly helps offensive teammates muscle through bulkier foes. <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> appreciates its would-be checks getting worn down by poison damage, such as Porygon2 and <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>. Additionally, Spectrier can utilize Hex's double-damage effect immediately rather than having to spend a turn using Will-O-Wisp. The same goes for <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> which notably secures an OHKO on poisoned Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> appreciates Gengar preventing foes from setting entry hazards with taunt, thus keeping its Focus Sash intact. In turn, Ceruledge can handle the Steel-type Pokemon that Gengar is useless against. <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>'s ability, Good as Gold, blocks Defog from the likes of <a href=\"/dex/sv/pokemon/braviary/monotype/\" hreflang=\"en\">Braviary</a> and <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a>. It is also yet another Pokemon that can use Hex to its fullest potential without having to spend a turn using Thunder Wave. Both <a href=\"/dex/sv/pokemon/froslass/monotype/\" hreflang=\"en\">Froslass</a> and <a href=\"/dex/sv/pokemon/brambleghast/monotype/\" hreflang=\"en\">Brambleghast</a> can stack additional hazards in spikes, ensuring that even foes unaffected by Toxic Spikes will still take some hazard damage.</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 246753,
+            "username": "RoyalReloaded"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 510430,
+                "username": "Arase"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "<p>Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.</p>\n<p>If you feel this analysis is not up to date, <a href=\"https://www.smogon.com/forums/threads/gengar.3713197/\">feel free to check out the thread for this Pokemon and post suggestions</a>. For more discussion and resources on Series 1 in general, <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-1-a-land-free-of-ruins-and-paradoxes.3711710/\">check out this thread</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Disruptor",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Gengar's useful immunities and fast Encore give it a niche as an incredibly disruptive Pokemon, especially if taking the correct predictive risks.</p>\n</li>\n<li>\n<p>Destiny Bond is excellent at making foes second-guess attacking Gengar. When slower foes don't take the bait and use a setup move, Gengar can punish them with Encore.</p>\n</li>\n<li>\n<p>Thunder Wave is great at crippling faster sweepers if Gengar's Focus Sash is intact, and punishing fast, common switch-ins such as <a href=\"/dex/sv/pokemon/hydreigon/bss-series-1/\" hreflang=\"en\">Hydreigon</a>.</p>\n</li>\n<li>\n<p>Sludge Bomb covers <a href=\"/dex/sv/pokemon/meowscarada/bss-series-1/\" hreflang=\"en\">Meowscarada</a> and Fairy-types, in addition to being Gengar's most powerful attack.</p>\n</li>\n<li>\n<p>Dazzling Gleam OHKOes Hydreigon after Stealth Rock damage and is an appealing secondary STAB move when using Tera Fairy.</p>\n</li>\n<li>\n<p>Focus Blast is Gengar's best shot at beating <a href=\"/dex/sv/pokemon/kingambit/bss-series-1/\" hreflang=\"en\">Kingambit</a> outside of Destiny Bond.</p>\n</li>\n<li>\n<p>Will-O-Wisp does a great job of crippling bulky sweepers that Gengar can be forced to Destiny Bond against, such as <a href=\"/dex/sv/pokemon/dragonite/bss-series-1/\" hreflang=\"en\">Dragonite</a> and Tera <a href=\"/dex/sv/pokemon/annihilape/bss-series-1/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Normal</strong>: Tera Normal Gengar can turn slower Ghost-types such as <a href=\"/dex/sv/pokemon/mimikyu/bss-series-1/\" hreflang=\"en\">Mimikyu</a> and Annihilape into easy Encore targets.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: A Dragon-type immunity gives Gengar new Encore targets and better threatens Dragon-types.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Earthquake is a common attack against Gengar, so Tera Flying can turn the tables effectively. It also takes advantage of common Fissure users such as <a href=\"/dex/sv/pokemon/dondozo/bss-series-1/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/garganacl/bss-series-1/\" hreflang=\"en\">Garganacl</a>.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: A Dark Tera type lets Gengar surprise <a href=\"/dex/sv/pokemon/espathra/bss-series-1/\" hreflang=\"en\">Espathra</a>, letting it Encore Stored Power and potentially ruin its sweep.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Normal",
+            "Fairy",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Destiny Bond",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Disruptor",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Gengar's useful immunities and great support movepool give it a niche as an incredibly disruptive Pokemon, especially if taking the correct predictive risks.</p>\n</li>\n<li>\n<p><strong>Destiny Bond</strong>: Destiny Bond is excellent at making foes second-guess attacking Gengar. When slower foes don't take the bait and use a setup move, Gengar can punish them with Encore.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Gengar's excellent speed makes it an especially disruptive user of Encore, being able to disrupt key threats such as <a href=\"/dex/sv/pokemon/garchomp/bss-series-2/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p><strong>Icy Wind</strong>: Icy Wind's Speed control can give Gengar the upper hand against fast Focus Sash leads such as <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a>, and lets Gengar outspeed faster threats that it may want to Destiny Bond, such as <a href=\"/dex/sv/pokemon/meowscarada/bss-series-2/\" hreflang=\"en\">Meowscarada</a>.</p>\n</li>\n<li>\n<p><strong>Thunder Wave</strong>: Thunder Wave is great at crippling faster sweepers if Gengar's Focus Sash is intact, and punishing fast, common switch-ins such as <a href=\"/dex/sv/pokemon/roaring-moon/bss-series-2/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Sludge Bomb</strong>: This covers Meowscarada and Fairy-types, in addition to being Gengar's most powerful attack.</p>\n</li>\n<li>\n<p><strong>Dazzling Gleam</strong> In addition to OHKOing <a href=\"/dex/sv/pokemon/hydreigon/bss-series-2/\" hreflang=\"en\">Hydreigon</a> after Stealth Rock damage, Dazzling Gleam is an appealing secondary STAB move when using Tera Fairy.</p>\n</li>\n<li>\n<p><strong>Focus Blast</strong>: Focus Blast is Gengar's best shot at beating <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a> outside of Destiny Bond.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li><strong>Will-O-Wisp</strong> Gengar does a great job of burning bulky sweepers that Gengar can be forced to Destiny Bond against, such as Dragonite, <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/bss-series-2/\" hreflang=\"en\">Iron Treads</a>, and Tera <a href=\"/dex/sv/pokemon/annihilape/bss-series-2/\" hreflang=\"en\">Annihilape</a>.</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Normal</strong>: Tera Normal Gengar can turn slower Ghost-types such as <a href=\"/dex/sv/pokemon/mimikyu/bss-series-2/\" hreflang=\"en\">Mimikyu</a>, Flutter Mane, and Annihilape into easy Encore targets.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: A Dragon-type immunity gives Gengar new Encore targets and better threatens Dragon-types.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Earthquake is a common attack against Gengar, so Tera Flying can turn the tables effectively. It also takes advantage of common Fissure users such as <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/garganacl/bss-series-2/\" hreflang=\"en\">Garganacl</a>.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: A Dark Tera type lets Gengar surprise <a href=\"/dex/sv/pokemon/espathra/bss-series-2/\" hreflang=\"en\">Espathra</a>, letting it Encore Stored Power and potentially ruin its sweep.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Normal",
+            "Fairy",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Icy Wind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Icy Wind",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special Wallbreaker",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sheer Force",
+            "Hadron Engine"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "NormGar",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Normalize"
+          ],
+          "items": [
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Skill Swap",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mean Look",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sheer Force",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Gengar makes for an amazing wallbreaker, breaking through offensive threats like <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/enamorus-therian/almost-any-ability/\" hreflang=\"en\">Enamorus-T</a>, as well as having a decent Speed tier. Focus Blast hits Dark-types that try to switch in such as <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a> as well as Steel-types such as <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a>. Nasty Plot turns Gengar into a threatening wallbreaker, allowing it to 2HKO RegenVest Hisuian Goodra and <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> with its coverage options. Sludge Wave hits Fairy- and Grass-types like Enamorus-T, <a href=\"/dex/sv/pokemon/electrode-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Electrode</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/almost-any-ability/\" hreflang=\"en\">Ogerpon-W</a>. Energy Ball hits Ground-types like <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> and Great Tusk, while Thunderbolt hits non-Volt Absorb <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>. Gengar is great at threatening physical walls like Corviknight and <a href=\"/dex/sv/pokemon/deoxys-defense/almost-any-ability/\" hreflang=\"en\">Deoxys-D</a>, so it partners well with physical wallbreakers like <a href=\"/dex/sv/pokemon/zapdos-galar/almost-any-ability/\" hreflang=\"en\">Galarian Zapdos</a> and Chien-Pao; in return, they can pressure special walls that Gengar struggles to break through like Hisuian Goodra and <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a>. Due to Gengar's frailty, it struggles against faster threats such as <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>, Roaring Moon, and Chien-Pao, so defensive switch-ins to them like Mandibuzz, Great Tusk, and Intimidate Corviknight make for good partners. Gengar greatly appreciates Knock Off support from Pokemon like Swampert, Manaphy, and Deoxys-D to remove Assault Vest from RegenVest Pokemon such as Swampert, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/meloetta/almost-any-ability/\" hreflang=\"en\">Meloetta</a>, allowing it to have an easier time breaking past the opposing team.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Normalize",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Normalize Gengar not only threatens to remove opposing RegenVest pivots, often the best check to more conventional Gengar sets, but also reliably sets Toxic Spikes and wins one-on-one against slower setup threats like Swords Dance <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a> and Calm Mind <a href=\"/dex/sv/pokemon/cresselia/almost-any-ability/\" hreflang=\"en\">Cresselia</a>. Mean Look in conjunction with Skill Swap traps and removes opposing specially defensive walls like <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, and <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a> that are aiming to check it. Skill Swap also reliably forces out and generates a free turn against any Pokemon slower than Gengar such as <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a> and Beads of Ruin <a href=\"/dex/sv/pokemon/walking-wake/almost-any-ability/\" hreflang=\"en\">Walking Wake</a>, as they will be unable to hit it through Normalize. This makes Gengar one of the most reliable Toxic Spikes setters, as it threatens most common removal options like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>. Gengar is an excellent teammate for fast special cleaners like <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>, and <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>, as they benefit tremendously from opposing special walls being removed or weakened with Toxic Spikes. Gengar struggles against teams with fast Dark-types like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/meowscarada/almost-any-ability/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, as it cannot meaningfully damage them and is immensely threatened by them, making Pokemon like Fluffy Corviknight and physically defensive Manaphy great partners; they can also provide a slow pivot to get Gengar in safely. Weather Ball from Pokemon with Primordial Sea or Desolate Land bypasses Normalize, meaning Gengar cannot reliably force out common users like Walking Wake and <a href=\"/dex/sv/pokemon/volcanion/almost-any-ability/\" hreflang=\"en\">Volcanion</a>, so sturdy checks to them like RegenVest Swampert and <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a> make solid teammates.</p>",
+          "abilities": [
+            "Normalize"
+          ],
+          "items": [
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Skill Swap",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mean Look",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 523866,
+            "username": "UT"
+          },
+          {
+            "user_id": 620268,
+            "username": "skip"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 611238,
+                "username": "LordBox"
+              },
+              {
+                "user_id": 540420,
+                "username": "April"
+              },
+              {
+                "user_id": 580765,
+                "username": "cat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Utility",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Spell Tag",
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Moongeist Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Moongeist Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Malignant Chain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Moongeist Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Malignant Chain",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Destiny Bond",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 8-9 points</p>\n<p><strong>Overview</strong>: Gengar is a mid-tier special attacker; it can be a solid wallbreaker, reliable revenge killing option, or late-game setup sweeper with Nasty Plot. Its vast coverage is valuable, as it can tailor its moveset to hit most drafts. Gengar works best when paired with Pokemon that can bring it in safely, as it is unlikely to survive a super-effective hit upon switching in; it can leverage its Normal and Fighting immunities to find a chance to come in, however. That being said, Gengar is held back by its underwhelming bulk, common weaknesses, and having to choose between outspeeding foes or reaching the KO thresholds it needs to.</p>\n<h3>Common Roles</h3>\n<p><strong>Utility</strong>: Albeit not a bulky Pokemon, Gengar has access to Toxic Spikes, Thunder Wave, Will-O-Wisp, and Toxic, which means it can hinder threats with the appropriate status and threaten big damage with Hex. These sets can also attempt to trade with a foe via Destiny Bond and be disruptive with Encore.</p>\n<p><strong>Wallbreaker</strong>: Nasty Plot can boost Gengar's Special Attack to let it KO most Pokemon with its STAB moves or coverage, and its Speed enables it to break slower threats. Choice Specs can make it easier for Gengar to wallbreak, as it gives it the immediate power to force switches.</p>\n<p><strong>Revenge Killer</strong>: Gengar can reliably run Choice Specs to finish off bulkier walls when chipped or Choice Scarf to revenge kill faster threats. It can run Trick on these movesets to potentially neutralize a defensive wall and threaten to clean entire teams when it is no longer Choice-locked.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Sludge Bomb, Sludge Wave, Shadow Ball, Hex</p>\n<p><strong>Setup Moves</strong>: Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Toxic Spikes, Trick, Will-O-Wisp, Destiny Bond, Encore, Pain Split, Taunt, Thunder Wave, Toxic, Hypnosis, Substitute</p>\n<p><strong>Coverage</strong>: Dazzling Gleam, Energy Ball, Focus Blast, Giga Drain, Psychic, Psychic Noise, Thunder, Thunderbolt, Dark Pulse, Icy Wind</p>\n<h3>Niche Moves</h3>\n<p><strong>Knock Off</strong>: The boon of removing a foe's item cannot be understated. Knock Off has a hard time fitting onto Gengar's movesets, but utility variations of Gengar may be able to use this to force plenty of progress.</p>\n<p><strong>Haze / Clear Smog</strong>: Though Gengar is not bulky enough to utilize Haze consistently, its Speed may allow it to remove its foe's boosts in a pinch. Clear Smog is the preferred option, as it still deals damage when removing stat boosts, though it comes at the cost of Steel-types being immune.</p>\n<p><strong>Endure</strong>: Endure allows Gengar to survive any hit coming its way, and it could use a Salac Berry alongside this to become a deadly late-game wincon. Custap Berry can also allow Gengar to set an extra layer of Toxic Spikes or act before it would be KOed.</p>\n<p><strong>Foul Play</strong>: Gengar may be able to use Foul Play to hit threats with very high Attack that aren't threatened by its coverage or STAB moves; this also includes setup sweepers attempting to boost their Attack.</p>\n<p><strong>Curse</strong>: Curse has limited applications, but it can be a great way to quickly whittle down foes and force switches.</p>\n<p><strong>Disable</strong>: Disable can possibly shut down a super effective move in a pinch and allow Gengar to apply pressure for extra turns.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Specs</strong>: Choice Specs allows Gengar to break down plenty of special walls without the need to set up. Punching holes using a combination of Shadow Ball, Sludge Wave, and Focus Blast means very few Pokémon can switch-in safely. Choice Specs can also be given to defensive Pokemon with Trick to disrupt them.</p>\n<p><strong>Choice Scarf</strong>: If it instead chooses Choice Scarf, Gengar becomes a great revenge killer and can take out unboosted threats using its STAB moves, working as a late-game cleaning option. Choice Scarf may also be given to defensive Pokemon with Trick to disrupt them.</p>\n<p><strong>Damage-boosting Items</strong>: Gengar may run Life Orb, which is a risky option, as the chip damage hurts its longevity and ability to switch in repeatedly, or it may run Expert Belt to circumvent the recoil. Other damage-boosting items include Spell Tag and Poison Barb, which boost either of Gengar's STAB moves without requiring the attack to be super-effective or making Gengar take recoil.</p>\n<p><strong>Heavy-Duty Boots</strong>: Entry hazards, except Toxic Spikes, limit Gengar's opportunities to switch in safely; Heavy-Duty Boots can guarantee that it maintains offensive pressure, making it not so easily revenge killed, as it becomes immune to being hurt by Stealth Rock and Spikes or slowed down by Sticky Web.</p>\n<h3>Niche Items</h3>\n<p><strong>Air Balloon</strong>: Giving Gengar an extra, albeit temporary, immunity to Ground allows for more setup or damage opportunities.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries can be useful to overcome Gengar's poor natural bulk and let it serve as a lure, surviving one hit and trading with a threatening foe or statusing it.</p>\n<p><strong>Leftovers / Black Sludge</strong>: Extra health on Gengar can allow for one extra opportunity to switch in safely; Substitute sets also benefit from the extra health and ability to set up Substitute multiple times over a game. Black Sludge in particular can be useful to give to foes with Trick.</p>\n<p><strong>Focus Sash</strong>: Surviving a single hit in a pinch allows Gengar one extra turn to set up a layer of Toxic Spikes, spread status, or get vital chip damage on a threatening foe.</p>\n<p><strong>Custap Berry</strong>: Custap Berry enables Gengar to get in some vital chip damage or use one of its solid utility options to get ahead in battle after using Endure.</p>\n<p><strong>Weakness Policy</strong>: Though generally not bulky enough to take most strong neutral hits, let alone super effective ones, Gengar may be able to find a scenario where it can trigger Weakness Policy for an immediate boost to its wallbreaking and cleaning power. This is best used in conjunction with Will-O-Wisp or Reflect and Light Screen, which have value in reducing damage from incoming attacks.</p>\n<h3>Tera</h3>\n<p>Although generally outclassed, Gengar is worth considering as a Tera Captain to circumvent some of its checks. Tera Fighting is the most potent, as it allows Gengar to flip matchups on Steel- and Dark-types with a reliable Tera Blast Fighting. Tera Flying for Ground-type moves and Tera Dark for Psychic-type moves also work rather well, as they give Gengar a turn to set-up with Nasty Plot. Other Tera types involve Tera Ghost and Poison to provide a small boost to Gengar's STAB moves, or you could choose another Tera type to strengthen its coverage options.</p>\n<h3>Draft Strategy</h3>\n<p>Gengar is a frail, offensive Pokemon that you draft as a wallbreaker or cleaner with solid utility options. Solid support is needed for it to truly excel.</p>\n<p><strong>Slow Pivots</strong>: Anything that may circumvent Gengar's frailty is a boon to your draft. Pokemon such as <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/mandibuzz/draft/\" hreflang=\"en\">Mandibuzz</a>, and <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> are bulky enough to take the attacks that threaten Gengar and then proceed to get it in safely via U-turn.</p>\n<p><strong>Entry Hazards</strong>: Allowing Gengar to hit KO ranges without boosting gives it an easier time cleaning and wallbreaking, as it pressures out far more Pokemon if entry hazards are used. This also opens up Nasty Plot to let Gengar hit extra KO ranges that it would not normally reach. <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> can use Ceaseless Edge to set up hazards whilst maintaining offensive pressure, or <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> can set Stealth Rock and Spikes to give Gengar plenty of chances to rack up chip damage on foes as it forces out possible checks to its teammates or even itself.</p>\n<p><strong>Alternate Attackers</strong>: While powerful on its own, Gengar usually doesn't have enough space to fit everything it needs onto its moveset and is typically an asset to a better wallbreaker or sweeper. High-tier wallbreakers and sweepers that Gengar supports include, but are not limited to, <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/keldeo/draft/\" hreflang=\"en\">Keldeo</a>, and <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>. Fighting- and Dark-types in particular really appreciate Gengar's ability to remove Fairy-types or threaten them out consistently.</p>\n<p><strong>Dual Screens Support</strong>: Reflect and Light Screen can enable Gengar to take hits and sweep with Nasty Plot sets or clean more easily using Choice Specs or Choice Scarf. <a href=\"/dex/sv/pokemon/grimmsnarl/draft/\" hreflang=\"en\">Grimmsnarl</a> pairs very well with Gengar, with no shared weaknesses across their types, so they can pivot around each other reliably; <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a> may also use Reflect and Light Screen in a matchup alongside other support moves that may help Gengar. <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a> and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a> get Reflect and Light Screen too while keeping the Ground-types that threaten Gengar at bay.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Steel- and Dark-types</strong>: Gengar can only hit Steel- and Dark-types super-effectively with Focus Blast, which is very unreliable in most scenarios, and considering the bulk of such Pokemon, it cannot deal with them effectively. Pokemon such as Ting-Lu, Mandibuzz, and Tinkaton can be difficult for Gengar to break.</p>\n<p><strong>Faster Attackers</strong>: Due to its low natural bulk and good, albeit not elite, Speed, there are a multitude of attackers that can outspeed and revenge kill Gengar. Pokemon such as <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, Weavile, and Roaring Moon can all outspeed Gengar to revenge kill.</p>\n<p><strong>Priority Attacks</strong>: Its frailty means strong priority attacks can KO Gengar; its weakness to Sucker Punch makes it a prime target for the move, which is seen across a plethora of Dark types. Gengar also struggles with other priority attackers such as <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, Scizor, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> which can often KO it.</p>\n<p><strong>Resistance Berry Lures</strong>: Gengar can hit hard, but being unboosted makes it easy to be put on the receiving end of a resistance Berry lure and be removed with a strong, super effective attack.</p>\n<p><strong>Special Walls</strong>: Gengar must respect special walls, as most are naturally bulky enough to take it on and return reliable damage to force it out, even when boosted with Nasty Plot or damage-boosting items.</p>",
+      "comments": "",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652897,
+            "username": "VeeeKay"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs (Any)",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choiced Attacker (Ghost)",
+          "pokemon": "Gengar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Cursed Body"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Destiny Bond",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Astonish",
+    "Body Slam",
+    "Brick Break",
+    "Clear Smog",
+    "Confuse Ray",
+    "Curse",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Destiny Bond",
+    "Disable",
+    "Drain Punch",
+    "Dream Eater",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Foul Play",
+    "Giga Drain",
+    "Giga Impact",
+    "Gunk Shot",
+    "Haze",
+    "Hex",
+    "Hyper Beam",
+    "Hypnosis",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Knock Off",
+    "Lick",
+    "Mean Look",
+    "Metronome",
+    "Nasty Plot",
+    "Night Shade",
+    "Pain Split",
+    "Payback",
+    "Perish Song",
+    "Phantom Force",
+    "Poison Jab",
+    "Poltergeist",
+    "Protect",
+    "Psychic",
+    "Psychic Noise",
+    "Psych Up",
+    "Rain Dance",
+    "Reflect Type",
+    "Rest",
+    "Scary Face",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Shadow Punch",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smog",
+    "Spite",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Toxic",
+    "Toxic Spikes",
+    "Trick",
+    "Trick Room",
+    "Venoshock",
+    "Will-O-Wisp"
+  ]
+}

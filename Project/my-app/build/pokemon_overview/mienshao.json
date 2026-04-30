@@ -1,0 +1,562 @@
+{
+  "name": "Mienshao",
+  "alias": "mienshao",
+  "types": [
+    "Fighting"
+  ],
+  "stats": [
+    65,
+    125,
+    60,
+    95,
+    60,
+    105
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Mienshao's access to Knock Off, U-turn, a great ability in Regenerator, and strong coverage solidifies its place as one of the tier's best offensive pivots. Knock Off and U-turn are a tried-and-true combo at making progress by allowing Mienshao to remove items and pivot out on potential switch-ins to keep up momentum. Mienshao's coverage options in Ice Spinner, Triple Axel, and Stone Edge complement its STAB Close Combat by allowing it to hit <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. Mienshao's top-tier ability in Regenerator allows it to shrug off many forms of chip damage like entry hazards, Life Orb, and Rocky Helmet, and it can power through weaker attacks from Pokemon like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and threaten them with a strong attack at a low cost to itself. Despite all of that, Mienshao's frailty means that even physical walls with no Attack investment like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> can threaten with significant damage, and running Life Orb makes Mienshao easier to revenge kill by faster Pokemon like Cyclizar due to the recoil damage. This makes pivot support from Pokemon like <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a> very valuable to allow Mienshao to safely enter the field. Furthermore, defensive Fighting-resistant Pokemon like Talonflame and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> can switch into Mienshao, punish it with Flame Body and Rocky Helmet, respectively, and threaten super effective attacks to knock it out.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Double-Edge can be slotted for coverage as means to hit <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> for good neutral damage, while Regenerator heals off any recoil taken, but it misses out on coverage to deal with either Grass-types like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> or Pokemon like <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a>. This can be combined with Tera Normal to achieve a 2HKO on Gastrdon with Life Orb. Triple Axel can be used on Choice Scarf sets, trading accuracy for power and hitting certain foes like Chesnaught and Amoonguss for more damage. Choice Band allows Mienshao to 2HKO Chesnaught and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> with entry hazard support, but the downside of being Choice-locked might not be worth the small boost over Life Orb, and it still leaves Mienshao vulnerable to faster revenge killers. Swords Dance can strengthen Mienshao's role as a wallbreaker by allowing it to get past annoying switch-ins such as Hippowdon and Slowbro when combined with Life Orb, but it completely takes away Mienshao's role as a pivot.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Poison-types</strong>: Amoonguss and <a href=\"/dex/sv/pokemon/slowbro-galar/ru/\" hreflang=\"en\">Galarian Slowbro</a> resist most of Mienshao's moves and are bulky enough to freely switch into it, recovering any damage and threatening it back with super effective attacks or crippling status.</p>\n<p><strong>Psychic-types</strong>: Slowbro and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> can switch into Mienshao's main STAB attack or take advantage of the move its locked into if it's holding a Choice item. Slowbro and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> are both tanky enough to survive any attack from Mienshao and threaten back with super effective damage, while Choice Scarf Gardevoir can outspeed non-Choice Scarf Mienshao, copy Regenerator with Trace, and threaten an OHKO on Mienshao.</p>\n<p><strong>Physical Walls</strong>: Both Hippowdon and Chesnaught sport incredible physical bulk and are able to freely switch into Mienshao, recover any damage taken, and threaten back significant damage due to Mienshao's frail bulk. Hippowdon and Chesnaught being common Rocky Helmet users means Mienshao can get punished for using Triple Axel, and it fails to 2HKO them without any damage-boosting items.</p>\n<p><strong>Burn</strong>: Burns from Flame Body and Will-O-Wisp from Talonflame and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> can truly cripple Mienshao's damage output and make it way less threatening to most Pokemon.</p>",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Mienshao",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Choice Scarf allows Mienshao to outspeed the entirety of the unboosted metagame and common Choice Scarf users like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, making Mienshao a premier revenge killer. Knock Off punishes Close Combat switch-ins like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>. Ice Spinner hits Flying- and Grass-types like Galarian Zapdos, <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> for super effective damage. Stone Edge also hits Flying-types for super effective damage and guarantees an OHKO on <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> while not risking getting burnt by Flame Body. U-turn keeps up momentum by pivoting on predicted switches such as <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>. Regenerator helps increase Mienshao's longevity, letting it pivot around while healing off entry hazard damage and even switching in on weaker attacks. Tera Fighting allows Close Combat to 2HKO <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, Noivern, and <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a>. Tera Dark defensively helps Mienshao against Psychic-types such as <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> and Psychic Noise Jirachi and boosts Knock Off's damage to guarantee an OHKO on <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> and Basculegion-F.</p>\n<p>Choice Scarf Mienshao fits best on offensive teams, acting as a great form of speed control, a late-game cleaner, and a premier revenge killer by outspeeding other common Choice Scarf users like Gardevoir and Krookodile. Mienshao can find itself easily taken advantage of by Ghost-, Psychic-, and Fairy-types like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, Armarouge, and Gardevoir due to it being Choice-locked, so defensive partners that can switch into attacks from the aforementioned Pokemon like Krookodile, <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, and Jirachi are appreciated. They, as well as bulkier options like Hippowdon and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, can further support Mienshao by setting up entry hazards or spreading Toxic poison to soften up the opposing team and make it easier for Mienshao to clean up, while Mienshao's Knock Off can remove potential Heavy-Duty Boots to rack up residual damage with hazards set up by its aforementioned teammates. Mienshao can form strong offensive VoltTurn cores with Pokemon such as <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>, Baculegion-F, and <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, keeping up momentum and racking up damage on switch-ins like Slowbro, Noivern, and <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, while Pokemon like Noivern and Jirachi lure in Steel-types such as opposing Jirachi and Empoleon before pivoting in Mienshao to threaten them. Slow wallbreakers like Choice Specs Basculegion-F and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> appreciate pivoting in safely with Mienshao's U-turn and can force out and wear down Pokemon that would otherwise check Mienshao like Slowbro and Talonflame; they can also soften the walls on the opposing team to make it easier for Mienshao to sweep. Mienshao is able to form sturdy Regenerator cores with other Pokemon like Slowbro, Reuniclus, and Cyclizar to help increase the longevity of the team. Slowbro and Reuniclus are especially appreciated, as they can provide Future Sight support to punish any Poison-types switching in on Mienshao's STAB attack like Amoonguss.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Life Orb",
+          "pokemon": "Mienshao",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Life Orb Mienshao is a menacing threat in the metagame, capitalizing on Regenerator to mitigate the Life Orb recoil while hammering foes with hard-hitting attacks. Knock Off allows Mienshao to hit Ghost- and Psychic-types that attempt to switch in on Close Combat like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>. U-turn helps it keep up momentum by pivoting on switch-ins like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> while also hitting Psychic-types such as Slowbro for super effective damage. Triple Axel hits Flying- and Grass-types like <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> for super effective damage. Ice Spinner trades power for accuracy, making Mienshao more reliable in exchange for missing out on important 2HKOs on Chesnaught and Hippowdon. Regenerator is an exceptional ability that synergizes well with Life Orb, boosting Mienshao's damage while offsetting any recoil and entry hazard damage on the switch. Tera Steel flips Mienshao's weaknesses to Fairy-, Flying-, and Psychic-type attacks into resistances, giving it great defensive utility against Fairy- and Flying-types like Choice Scarf <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and Galarian Zapdos. Tera Steel also gives it a useful Dragon resistance that helps Mienshao against Noivern and <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>. Tera Dark provides similar defensive utility, making Flying-type attacks neutral and providing a STAB boost to Knock Off to OHKO Armarouge and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>.</p>\n<p>Mienshao is an excellent pivot that can double as a wallbreaker thanks to its damage output being boosted by Life Orb and can function on bulky offense and offense teams. Mienshao appreciates entry hazard support that can help it pick up KOs on Pokemon it otherwise would not be able to like Amoonguss, so entry hazard setters such as <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, Chesnaught, and Jirachi make for great teammates. This synergy goes both ways, as Mienshao's Knock Off can remove Heavy-Duty Boots from Pokemon like Slowbro and Amoongus to rack up residual damage with hazards. Empoleon and Jirachi are notable teammates for their ability to take on Fairy- and Psychic-type attacks from Pokemon like <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>, Gardevoir, and Slowbro. Slowbro and Reuniclus can provide Future Sight support that punishes Poison-types and physical walls attempting to wall Mienshao like Amoonguss, Chesnaught, and Hippowdon; in return, Mienshao threatens Dark- and Steel-types like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, Empoleon, and Jirachi that try to absorb Future Sight, all while forming strong Regenerator cores with Slowbro and Reuniclus. Mienshao can also form strong VoltTurn cores with a plethora of Pokemon such as <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, <a href=\"/dex/sv/pokemon/raikou/ru/\" hreflang=\"en\">Raikou</a>, and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, keeping up momentum and pressuring more passive teams by forcing constant chip damage with their strong pivoting attacks. Despite possessing a great Speed tier, Mienshao is still very easy to revenge kill with faster Pokemon like Gengar, Noivern, and various Choice Scarf users like Gardevoir and Galarian Zapdos, making defensive partners that can switch into these revenge killers very valuable. Steel-types such as <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and Empoleon resist all of Mienshao's weaknesses, while Poison-types like Amoonguss can take on Fairy-type attacks from Gardevoir. Faster Pokemon such as Choice Scarf Gardevoir and Gengar make for great teammates that support Mienshao by providing speed control.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Triple Axel",
+                "type": null
+              },
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 654208,
+            "username": "Tsuki"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 555741,
+                "username": "MachJacob"
+              },
+              {
+                "user_id": 614438,
+                "username": "fluff!!"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Utility",
+          "pokemon": "Mienshao",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Mienshao is a fast Pokemon with a good support movepool that matches up well into <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, since it is immune to Fake Out and Intimidate. Mienshao can use Fake Out on or OHKO Incineroar with Close Combat before it moves. Feint breaks opposing Wide Guard and Protect, enabling its partner to attack freely while breaking Focus Sashes or KOing opponents brought down to their Focus Sash. Wide Guard protects Mienshao and its partner from common powerful spread moves such as Astral Barrage, Glacial Lance, and Tera Starstorm and spread stat-reducing attacks such as Snarl and Icy Wind. Mienshao uses Focus Sash for extra longevity, allowing it to continue to support its partners. A Jolly nature lets Mienshao outrun <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a>, while an Adamant nature gives Mienshao a high chance to OHKO uninvested <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna-B</a>. Tera Fighting allows Mienshao to guarantee an OHKO onto Ursaluna-B and Choice Specs Terapagos-S and a 2HKO on <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> before it Terastallizes.</p>\n<p>Mienshao struggles into Ghost-types such as <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>, and <a href=\"/dex/sv/pokemon/lunala/vgc24-regulation-g/\" hreflang=\"en\">Lunala</a>, since it is unable to damage them. This makes Calyrex-S and Chi-Yu great partners, as they can threaten them with their STAB Astral Barrage and Dark Pulse, respectively, with Calyrex-S outspeeding them and Chi-Yu withstanding their attacks. Calyrex-S and Chi-Yu, in return, appreciate Mienshao's support, with Fake Out allowing Calyrex-S to set up Nasty Plot and Feint breaking opposing Wide Guard and Protect, allowing both to freely attack. Mienshao's Wide Guard protects Calyrex-S from opposing Astral Barrage and Tera Starstorm and protects Chi-Yu from Water Spout, Origin Pulse, and Precipice Blades. Mienshao further supports Calyrex-S and Chi-Yu by matching up well against threats such as Incineroar and <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>. This, in turn, lets Calyrex-S's other common partners like <a href=\"/dex/sv/pokemon/clefairy/vgc24-regulation-g/\" hreflang=\"en\">Clefairy</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a> support Calyrex-S more effectively.</p>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Feint",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wide Guard",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 589964,
+            "username": "RauSakura"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 239881,
+                "username": "Mr.GX"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 7-8 points</p>\n<p><strong>Overview</strong>: Mienshao's high Attack, good Speed, and strong coverage make it a solid offensive pivot. Access to Knock Off and U-turn allows it to soften up walls for its teammates, while good complementary coverage in Stone Edge, Poison Jab, and Triple Axel allows it to hit typical Fighting-type switch-ins. Its access to Regenerator additionally makes it relatively undeterred by the presence of entry hazards, allowing it to more easily pivot throughout the course of a game without relying on Heavy-Duty Boots to stay healthy. However, despite Regenerator, Mienshao's paltry bulk means it offers no defensive value to a team and almost always requires a free switch to safely enter the field. Further, it faces stiff competition from the sheer number of strong Fighting-types available, which are stronger, faster, or offer more utility, making it sometimes difficult to justify Mienshao's place on a team.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Offensive Pivot</strong>: When equipped with a Choice Scarf, Mienshao outspeeds the entire unboosted metagame and slower boosted sweepers. With access to Knock Off and U-turn to force progress against bulkier teams and a strong Close Combat plus coverage to deal with opposing offensive threats, it thus makes for a strong offensive pivot.</p>\n<p><strong>Wallbreaker</strong>: Mienshao can equip a Life Orb with little drawback thanks to Regenerator, and the power boost combined with setup from Swords Dance can turn it into a terrifying wallbreaker. It can become even stronger with the combination of Choice Band, Reckless, and High Jump Kick.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Close Combat, High Jump Kick</p>\n<p><strong>Setup Moves</strong>: Swords Dance, Bulk Up, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Brick Break, Taunt, Knock Off, U-turn</p>\n<p><strong>Coverage</strong>: Stone Edge, Triple Axel, Ice Spinner, Poison Jab, Grass Knot, Aerial Ace</p>\n<h3>Niche Moves</h3>\n<p><strong>Dig</strong>: Mienshao is typically unable to hit Poison-types effectively, so Dig can be used to surprise these Pokemon when they're hoping to switch in safely.</p>\n<p><strong>Vacuum Wave</strong>: Mienshao has a usable Special Attack stat, and Vacuum Wave is its strongest form of priority.</p>\n<p><strong>Fake Out</strong>: Like Vacuum Wave, Fake Out can be used for a priority attack, chipping away at and potentially picking off very weakened, faster foes.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Scarf</strong>: Mienshao appreciates the Speed boost from Choice Scarf to outrun all opposing unboosted Pokemon, allowing it to more effectively pivot around opposing teams.</p>\n<p><strong>Life Orb</strong>: Mienshao is able to heal off the recoil damage from Life Orb with Regenerator, making it an effective choice on more power-focused sets.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Band</strong>: If a stronger damage boost than Life Orb is required for specific damage rolls, Mienshao can use Choice Band.</p>\n<p><strong>Assault Vest</strong>: Although Mienshao's bulk is poor, its access to Regenerator alongside its resistances to Rock and Dark makes Assault Vest useful against some special attackers.</p>\n<p><strong>Focus Sash</strong>: Focus Sash allows Mienshao to gain safer setup opportunities with its poor bulk.</p>\n<p><strong>Heavy-Duty Boots</strong>: While Regenerator makes Heavy-Duty Boots hardly necessary, it can still be useful against particular entry hazard-stacking teams or if Mienshao opts to use Reckless.</p>\n<h3>Tera</h3>\n<p>Mienshao is typically not the best choice for a Tera Captain. Its movepool allows it to naturally hit most opposing Pokemon strongly enough, and its poor bulk means it gains very little from defensively Terastallizing. Mienshao's price also presents the opportunity cost of preventing one from choosing a higher-tier Tera Captain with it. If chosen as a Tera Captain, Tera types such as Tera Fighting, Dark, and Poison can be chosen to boost its existing moves, while Tera types such as Tera Ground, Psychic, and Fairy can patch holes in its movepool with Tera Blast.</p>\n<h3>Draft Strategy</h3>\n<p>Mienshao is a strong Pokemon, but it can struggle to fit onto teams in part due to competition from many other Fighting-types and offensive pivots. It is best used on teams that appreciate its ability to keep up momentum throughout the course of a game better than other Fighting-types.</p>\n<p><strong>Ground-types</strong>: Ground-types like <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> can deal with the Poison- and Fairy-types Mienshao struggles with while also providing entry hazard support that it can take advantage of.</p>\n<p><strong>Bulky Pivots</strong>: Mienshao provides nearly no defensive value thanks to its awful bulk, and it requires support from bulky teammates that don't mind taking hits to enter the field safely. Both formes of <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a> and <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a> are particularly valuable support, as they provide a slow pivot combined with Future Sight support for Mienshao.</p>\n<p><strong>Fast Pokemon</strong>: While Mienshao is quick when given a Choice Scarf, the presence of many other fast Pokemon capable of running Choice Scarf or Booster Energy makes it best to have additional speedy partners such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a>, or and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>.</p>\n<p><strong>Cleaners</strong>: Mienshao can effectively weaken walls and pivot to get cleaners like <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/thundurus/draft/\" hreflang=\"en\">Thundurus</a> set up to win games.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Pokemon</strong>: Mienshao's paper-thin bulk means it cannot take a hit from faster Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, Ogerpon, and <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, particularly when Pokemon like these are further equipped with a Choice Scarf or Booster Energy.</p>\n<p><strong>Physical Walls</strong>: Mienshao can struggle to get past general physical walls such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a>, and <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, limiting its ability to break through bulkier teams.</p>\n<p><strong>Poison-types</strong>: Mienshao is unable to hit Poison-types super effectively, which means bulky Poison-types such as <a href=\"/dex/sv/pokemon/weezing-galar/draft/\" hreflang=\"en\">Galarian Weezing</a>, <a href=\"/dex/sv/pokemon/fezandipiti/draft/\" hreflang=\"en\">Fezandipiti</a>, and <a href=\"/dex/sv/pokemon/muk/draft/\" hreflang=\"en\">Muk</a> can stonewall it.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 473082,
+            "username": "abriel"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Life Orb",
+          "pokemon": "Mienshao",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mienshao functions as an elite offensive pivot that can fire off its high-powered moves while being hard to chip down thanks to Regenerator offsetting Life Orb recoil. It brings value in threatening key Pokemon such as <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>. Knock Off in conjunction with U-turn wears down checks such as <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, which is amplified with entry hazards. It also discourages the likes of <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a> from coming in comfortably because they fear losing their item, ensuring that they are not long-term answers. U-turn lets Mienshao pivot out of unfavorable matchups such as <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> and Buzzwole and bring in strong wallbreakers like <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>, <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>, and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>. Triple Axel grants Mienshao the opportunity to KO switch-ins like <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a>, and <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>. Poison Jab is another option that Mienshao can use to punish Fairy-type switch-ins like Clefable, preventing it from coming in safely and 2HKOing it after losing Leftovers to Knock Off. Fake Out lets Mienshao rack up chip damage on faster foes like <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a> and Iron Moth while also preventing revenge killing attempts from <a href=\"/dex/sv/pokemon/lokix/national-dex-uu/\" hreflang=\"en\">Lokix</a>'s First Impression. Mienshao also has the phenomenal ability to outlast its checks courtesy of Regenerator; Mienshao can run Life Orb freely, as Regenerator offsets the item's recoil damage.</p>\n<p>Mienshao fits on both offensive and balance team styles, which appreciate its ability to force progress against targets such as Clefable and Slowbro. Rotom-W values Mienshao's ability to dent checks like <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-uu/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a>. In return, Rotom-W brings Mienshao in versus its aforementioned checks while also using Will-O-Wisp to chip down Mega Venusaur. Mienshao can have a hard time muscling through checks such as Buzzwole and Slowbro; therefore, it appreciates strong teammates such as Hydrapple, <a href=\"/dex/sv/pokemon/gardevoir-mega/national-dex-uu/\" hreflang=\"en\">Mega Gardevoir</a>, and Iron Moth to help break through these foes. Mienshao is also quite frail, so it struggles to enter the field safely; therefore, it values pivot support from allies like Slowbro, Rotom-W, and <a href=\"/dex/sv/pokemon/jirachi/national-dex-uu/\" hreflang=\"en\">Jirachi</a>. Slowbro can provide Future Sight support, discouraging checks like Buzzwole and Mega Venusaur from coming in. Entry hazard support from Pokemon such as Jirachi and Skarmory is mandatory in order to wear down Mienshao's checks like the aforementioned Buzzwole and Amoonguss. Mienshao is still outsped by faster Pokemon such as <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>, and Mega Aerodactyl. Thus, teammates such as Slowbro, Rotom-W, and Jirachi are valued, as they can defensively answer these foes. Offensive allies like <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> and Lokix are appreciated due to their ability to revenge kill the aforementioned faster foes with their priority moves.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Triple Axel",
+                "type": null
+              },
+              {
+                "move": "Poison Jab",
+                "type": null
+              },
+              {
+                "move": "Fake Out",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Mienshao",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf Mienshao trades some power for speed, expanding its revenge killing capabilities because it is now able to threaten much faster Pokemon like <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>, <a href=\"/dex/sv/pokemon/serperior/national-dex-uu/\" hreflang=\"en\">Serperior</a>, and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>. Knock Off punishes switch-ins like <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a>, leaving them more vulnerable to entry hazards from teammates like <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/jirachi/national-dex-uu/\" hreflang=\"en\">Jirachi</a>. Mienshao can force switches against offensive Pokemon like <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a> and then pivot out of unfavorable matchups such as <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, Skarmory, <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> with U-turn. In addition, it brings in strong wallbreakers like <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> and Mega Aerodactyl. Triple Axel threatens Pokemon like Mega Aerodactyl and Serperior, while Poison Jab allows Mienshao to hit Fairy-type Pokemon like <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>.</p>\n<p>Mienshao particularly fits on bulky offense and balance playstyles where its ability to revenge kill faster Pokemon that they might not have many defensive answers to, like Iron Boulder, is appreciated. These teams value Mienshao because it provides speed control, doesn't mind entry hazards, and is an effective late-game cleaner that can maintain momentum mid-game. Since Choice Scarf Mienshao lacks significant power, hazards from teammates like Jirachi, Hippowdon, and Skarmory are much appreciated to help wear down its checks like Mega Venusaur and Buzzwole. It is also quite frail, so it needs pivot support from Pokemon like Slowbro and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>. While Mienshao functions as an effective revenge killer, it’s still vulnerable to priority users like <a href=\"/dex/sv/pokemon/rillaboom/national-dex-uu/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/lokix/national-dex-uu/\" hreflang=\"en\">Lokix</a>; therefore, it appreciates defensive Pokemon that can respond to these foes like Skarmory and Mega Venusaur.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Triple Axel",
+                "type": null
+              },
+              {
+                "move": "Poison Jab",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542295,
+            "username": "Blaze"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Aura Sphere",
+    "Baton Pass",
+    "Bounce",
+    "Brick Break",
+    "Bulk Up",
+    "Calm Mind",
+    "Close Combat",
+    "Coaching",
+    "Detect",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Feint",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Force Palm",
+    "Fury Swipes",
+    "Giga Impact",
+    "Grass Knot",
+    "Helping Hand",
+    "High Jump Kick",
+    "Hone Claws",
+    "Hyper Beam",
+    "Ice Spinner",
+    "Knock Off",
+    "Low Kick",
+    "Low Sweep",
+    "Poison Jab",
+    "Pound",
+    "Protect",
+    "Psych Up",
+    "Quick Guard",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Tomb",
+    "Sleep Talk",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Trailblaze",
+    "Triple Axel",
+    "Upper Hand",
+    "U-turn",
+    "Vacuum Wave",
+    "Wide Guard"
+  ]
+}

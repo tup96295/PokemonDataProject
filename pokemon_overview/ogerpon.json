@@ -1,0 +1,850 @@
+{
+  "name": "Ogerpon",
+  "alias": "ogerpon",
+  "types": [
+    "Grass"
+  ],
+  "stats": [
+    80,
+    120,
+    84,
+    60,
+    96,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Boots Attacker",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Ogerpon's high Attack and Speed, particularly after Terastallizing, along with its bevy of utility moves make it a reliable pivot and speed control that can disrupt the opposition. Knock Off gives Ogerpon a complementary coverage option to Ivy Cudgel and hits would-be checks like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>; it also allows Ogerpon to support its team by permanently crippling its foes, particularly Stealth Rock-weak Pokemon like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> that rely on Heavy-Duty Boots. U-turn is a fantastic option that can maintain momentum and chip down checks like <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a> while safely bringing in one of Ogerpon's teammates safely. Encore shuts down walls like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and Terastallized <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> as well as setup sweepers like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>; after Terastallizing, its fast Encore is also helpful to shut down faster setup sweepers like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>.</p>\n<p>Ogerpon should feel right at home on bulkier teams in need of a fast pivot. It struggles to make progress against Fire-types such as Moltres and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, often requiring them to be weakened or removed in order to start threatening teams. Thus, Garganacl and Gliscor make great teammates, as they manage to consistently switch into and threaten these Pokemon, set entry hazards for Ogerpon to take advantage of, and easily spread chip damage to wear down the opposing team. Ogerpon's ability to threaten Water-types like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> is also greatly appreciated by both Pokemon. <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> is another valuable teammate thanks to its high bulk, low Speed, and access to Flip Turn allowing it to safely and consistently bring Ogerpon onto the field, as well as being able to check the likes of Zamazenta and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Additionally, Ogerpon with another fast wallbreaker can make for an efficient and potent wallbreaking core; therefore, Pokemon such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> that help overwhelm Ogerpon's checks like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Moltres make excellent teammates. It also enjoys having these Pokemon as naturally faster teammates as opposed to relying on Terastallization for speed control, and it likewise appreciates them for being able to threaten bulkier Dragon-types like Dragonite and Raging Bolt. Lastly, special tanks such as Galarian Slowking and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> can safely switch in on powerful special wallbreakers like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and they also appreciate Ogerpon's reliability in punishing switch-ins like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>.</p>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Choice Band Ogerpon whacks its way into the OU metagame with its nuclear Ivy Cudgel alongside the valuable Speed boost from Embody Aspect and great coverage options, letting it wallbreak while also revenge kill threats and potentially clean late-game as well. After Terastallization, Ogerpon can outrun and revenge kill Choice Scarf users like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> and foes like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> that outspeed it naturally as well as boosting Ivy Cudgel to 2HKO checks like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Knock Off allows Ogerpon to annoy many of its checks, such as <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, while taking out Grass-resistant foes like Gholdengo, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and Dragapult. U-turn allows Ogerpon to chip its checks and bring a teammate in safely on its switchins while providing super effective coverage against Grass-types like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>, as well as opposing Ogerpon formes. Low Kick allows Ogerpon to break through foes that can shrug off Ivy Cudgel fairly well such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, while Rock Tomb drops Moltres, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and Zapdos, even doing so without risking an adverse contact effect like a Flame Body burn or Static paralysis.</p>\n<p>Ogerpon's main use is on balance and bulky offense teams as a wallbreaker and revenge killer, though it sees some play on offensive teams as a cleaner. Ogerpon is susceptible to entry hazard damage over the course of the game, so teammates like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> that can remove said hazards from Ogerpon's side of the field are especially valued. Cinderace and Great Tusk in particular pair well with Ogerpon, as both appreciate roadblocks like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> being taken down by Ogerpon, while they are able to deal with Gholdengo, Kingambit, and Heatran. Teammates that set hazards, such as Great Tusk, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, synergize very well with Ogerpon and its ability to remove Heavy-Duty Boots from foes like Moltres and Corviknight. Offensive teammates like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, Gholdengo, and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> that threaten Ogerpon's checks like Galarian Weezing and Pecharunt are highly appreciated as well, while Ogerpon can bring them in on the aforementioned Poison-types with U-turn. Another great offensive teammate is Choice Specs <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, as it obliterates the likes of Moltres, Zapdos, and Corviknight, while Ogerpon smashes Ground-types like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Finally, slow pivots like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and Galarian Slowking work well with Ogerpon, as they give it free entry points to throw off its dangerous attacks without having to withstand powerful responses while checking threatening answers like Zamazenta.</p>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 571069,
+            "username": "Dead by Daylight"
+          },
+          {
+            "user_id": 584916,
+            "username": "viivian"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 487308,
+                "username": "BT89"
+              },
+              {
+                "user_id": 548068,
+                "username": "Setsu"
+              },
+              {
+                "user_id": 110504,
+                "username": "Stads"
+              },
+              {
+                "user_id": 616497,
+                "username": "FayaWizard"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Ogerpon functions as a solid pivot within the tier thanks to an array of excellent utility moves, a powerful STAB move in Ivy Cudgel, and great offensive stats. Knock Off allows Ogerpon to punish many of the Pokemon attempting to switch into it such as <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a>. U-turn allows Ogerpon to pivot out of matchups that are unfavorable for it such as <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a>, <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>, and Skeledirge while doing solid damage to <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> that may want to switch in, and thanks to Heavy-Duty Boots, it is able to remain healthy throughout the match and easily pivot in and out of the field. Encore gives it the ability to take advantage of slower Pokemon that have locked themselves into an awkward move so it can go for a free move the turn after, such as <a href=\"/dex/sv/pokemon/skarmory/uu/\" hreflang=\"en\">Skarmory</a> using Roost or <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> clicking Defog, which, when paired with Defiant, gives Ogerpon a free Attack boost. On the other hand, Ogerpon is able to use the pressure it creates as opportunities to set up Spikes for its team, helping its teammates and itself by slowly chipping down the opposing team's checks. Ogerpon's Tera type is locked into Grass, but with Embody Aspect, it is given a boost to its Speed on top of the additional boost to its STAB moves, letting it OHKO <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a> and have a chance to 2HKO Tornadus-T after Stealth Rock. This means that Ogerpon can act not only as a powerful breaker with Tera, but also as an emergency speed control option that can outrun every unboosted Pokemon in the metagame, as well as a number of boosted Pokemon such as <a href=\"/dex/sv/pokemon/quaquaval/uu/\" hreflang=\"en\">Quaquaval</a> after Aqua Step, Choice Scarf <a href=\"/dex/sv/pokemon/mienshao/uu/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> after Rapid Spin. Ogerpon's Speed boost also allows it to have unique interactions with Encore, switching in on faster Pokemon to lock them into set up moves such as Calm Mind <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a> or Nasty Plot Tornadus-T.</p>\n<p>Ogerpon's pivoting and utility options are best suited on bulky offense teams that appreciate its ability to disrupt foes while bringing in their own threats. Wallbreakers such as <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/sv/pokemon/arcanine-hisui/uu/\" hreflang=\"en\">Hisuian Arcanine</a>, and <a href=\"/dex/sv/pokemon/mamoswine/uu/\" hreflang=\"en\">Mamoswine</a> love Ogerpon's ability to pivot them in safely, weaken their checks, and potentially set up Spikes for them to break more easily; In return, they are able to deal with some of Ogerpon's checks such as Heatran, Tornadus-T, and Hydrapple. Pivots that are able to synergize well with Ogerpon such as Slowking, Tornadus-T, and <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a> make for excellent partners, being able to form a strong core while relieving Ogerpon of the pressure of taking on threats like Latios, Excadrill, and Quaquaval. Stealth Rock setters such as Tinkaton and Cobalion mesh well with Ogerpon that opt for Spikes by maximizing the entry hazard stacking potential, with Tinkaton able to fit Encore instead while taking on <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/weavile/uu/\" hreflang=\"en\">Weavile</a>, while Cobalion can effectively deal with Excadrill and <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a> for it. <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> is an excellent teammate for Ogerpon, being able to take on the Flying-types that it's afraid of, creating a VoltTurn core with it, and being able to set up Stealth Rock for it while Ogerpon handles the Water- and Grass-type attacks aimed at Sandy Shocks well while beating its key checks like Azumarill and Rotom-Wash.</p>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              },
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 540289,
+            "username": "Tidal"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              },
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This Pokemon was relevant in Regulation G, but has been banned in the curernt ruleset, Regulation H. However, Regulation G will be returning in January 2025, where this analysis will be relevant again. Additionally, the sets below have not been updated for Regulation G yet.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Band",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Stomping Tantrum",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Ogerpon is a strong offensive Pokemon that is unique in being able to check many top Pokemon such as <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> thanks to its ability Defiant and Speed-boosting Embody Aspect after Terastallization. Combined with access to Follow Me and natural immunity to Spore, Ogerpon is capable of being a constant threat while still providing good supportive value.</p>\n</li>\n<li>\n<p>Ogerpon is almost exclusively used on teams built around <a href=\"/dex/sv/pokemon/dondozo/vgc24-regulation-f/\" hreflang=\"en\">Dondozo</a>. With its ability Defiant, Ogerpon can be used to punish Incineroar and <a href=\"/dex/sv/pokemon/gouging-fire/vgc24-regulation-f/\" hreflang=\"en\">Gouging Fire</a>, disincentivizing them from weakening both Dondozo and <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> and even picking up a clean OHKO on Incineroar with Superpower. Once Terastallized, It can outspeed and OHKO Flutter Mane and both <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes, which are difficult for Dondozo and Chien-pao or <a href=\"/dex/sv/pokemon/dragonite/vgc24-regulation-f/\" hreflang=\"en\">Dragonite</a> to handle.</p>\n</li>\n<li>\n<p>Ogerpon struggles against Pokemon that resist Grass STAB as <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a> as well as foes that outspeed it, either forcing Ogerpon to Terastallize or be unable to attack before fainting, such as Chien-Pao, which outspeeds and can survive one hit thanks to it usually holding a Focus Sash. Ogerpon's Grass typing means it's weak to common threats such as Chien-Pao and Gouging Fire, and its middling bulk makes it unable to take more than two attacks most of the time.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Redirector",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Superpower is used as coverage to hit Steel- and the plethora of Dark-types that resist Ivy Cudgel, such as <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a> or Chi-yu. Follow Me can be used to redirect attention from the frailer <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/glimmora/vgc24-regulation-f/\" hreflang=\"en\">Glimmora</a>, making both exponentially harder to deal with, especially so considering Ogerpon resists <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> Surging Strike's, one of the best counters to Chien-Pao and Glimmora</p>\n</li>\n<li>\n<p>Covert Cloak is used to prevent a flinch from Fake Out, allowing Ogerpon to pressure <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> and its partner turn one. Additionally, blocking certain secondary effects such as Icy Wind's Speed drops from opposing Flutter Manes is useful.</p>\n</li>\n<li>\n<p>The Attack investment is necessary to guarantee an OHKO on Incineroar with Superpower, on <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> once Ogerpon Terastallizes, and to have the highest chance of an OHKO on Urshifu-R. The Speed investment allows Ogerpon to outspeed Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/vgc24-regulation-f/\" hreflang=\"en\">Landorus-T</a> after Terastallization. The rest of the EVs are used to round out Ogerpon's bulk.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Follow Me",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spiky Shield",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 44,
+              "atk": 236,
+              "def": 4,
+              "spa": 0,
+              "spd": 4,
+              "spe": 220
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 646006,
+            "username": "Choruto"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Diamond Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Pyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Swords Dance",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Leftovers",
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Diamond Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pyro Ball",
+                "type": null
+              },
+              {
+                "move": "Bitter Blade",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 3 onwards</p>\n<p><strong>Price Range</strong>: 8-9 points</p>\n<p><strong>Tera Price Range</strong>: 15-16 points</p>\n<p><strong>Overview</strong>: Ogerpon operates as a reliable cleaner and wallbreaker. Tera Ogerpon provides free speed control—no matter what set it runs—thanks to Embody Aspect, allowing it to freely attack naturally faster Pokemon and many Choice Scarf users. It can also run a plethora of utility options like Encore, Knock Off, and U-turn to avoid becoming passive in bad matchups. While Ogerpon does not boast a dual typing unlike its other formes, it can be flexible with its item. Its main downside is its unideal offensive typing, leaving it vulnerable to many Fire-, Flying-, and Poison-types and forcing it to run coverage or utility moves that it otherwise might not want to use.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Ogerpon can Terastallize and use its highly spammable Tera-boosted Ivy Cudgel against Grass-weak teams, dealing heavy damage. Wallbreaker sets are usually complemented with an Attack-boosting item to maximize damage output such as Choice Band.</p>\n<p><strong>Setup Sweeper</strong>: After a Swords Dance and with Terastallization, Ogerpon can sweep teams with the accumulated boosts and use its movepool to disadvantage or sweep an opponent's team. Sets can run Horn Leech to increase longevity or even Trailblaze to outpace faster Choice Scarf users.</p>\n<p><strong>Utility Pivot</strong>: Ogerpon has access to a very strong movepool utility-wise, including Encore, Leech Seed, U-turn, and Knock Off. Combined with its elite speed control and offensive presence due to Tera, it can successfully run these to force progress against any team.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Ivy Cudgel, Horn Leech, Wood Hammer, Power Whip</p>\n<p><strong>Setup Moves</strong>: Swords Dance, Trailblaze</p>\n<p><strong>Utility Moves</strong>: U-turn, Taunt, Knock Off, Leech Seed, Spikes, Synthesis, Encore, Substitute</p>\n<p><strong>Coverage</strong>: Play Rough, Superpower, Low Kick, Stomping Tantrum, Zen Headbutt, Rock Tomb</p>\n<h3>Niche Moves</h3>\n<p><strong>Spiky Shield</strong>: Spiky Shield allows Ogerpon to get free damage against physical attackers while possibly scouting for potential Choice Scarf users. Its chip damage can also potentially put said physical attacker into 2HKO range of Ogerpon's attacks.</p>\n<p><strong>Quick Attack</strong>: After a Swords Dance, Quick Attack can be used to pick off weakened Pokemon that are faster than Tera Ogerpon when it is unable to use Trailblaze to outspeed them.</p>\n<p><strong>Focus Energy</strong>: Focus Energy is used in conjunction with Ivy Cudgel so that Ogerpon can muscle its way past foes that boost their Defense thanks to the increased critical hit ratio.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots is used to increase Ogerpon's longevity for as long as possible, especially if it doesn't need a different item to carry out its given role. This can allow Ogerpon to be much more aggressive in plays against entry hazard-reliant teams.</p>\n<p><strong>Choice Band</strong>: Choice Band allows Ogerpon to maximize its damage output, becoming a potent wallbreaker. It can be used mainly against teams that lack solid Grass resists resistances.</p>\n<h3>Niche Items</h3>\n<p><strong>Other Damage-boosting Items</strong>: Items like Life Orb, Miracle Seed, and Expert Belt allow Ogerpon to maximize its damage output while having the freedom of not being Choice-locked, allowing it to possibly run Swords Dance or any utility options. Life Orb also synergizes well with Horn Leech or Synthesis sets, as they increase its longevity while dealing large amounts of damage.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf can be used in combination with Terastallization to prevent the need to use Trailblaze to outspeed Speed-boosted Pokemon. It allows Ogerpon to become a strong revenge killer while also still functioning as a wallbreaker.</p>\n<p><strong>Lum Berry</strong>: Lum Berry can be used on Swords Dance sets against foes that may try to inflict it with status effects while it sets up.</p>\n<p><strong>Razor Claw</strong>: Using Razor Claw can further increase Ivy Cudgel's high critical hit ratio while not needing to waste a turn to click use Focus Energy.</p>\n<p><strong>Protective Pads</strong>: Protective Pads is less popular due to Ivy Cudgel not making contact, but it can be useful on sets that want to use Power Whip, Knock Off, and U-turn against a team that may carry Rocky Helmet or have contact-punishing abilities.</p>\n<h3>Tera</h3>\n<p>When drafting Ogerpon, it should always be made a Tera Captain so that it can maximize its potential damage with wallbreaking and sweeping sets. Without the Speed boost from Embody Aspect, many other Grass-types outrank Ogerpon as an offensive Grass-type. It's usually in your best interest to Terastallize Ogerpon as soon as possible unless the opponent has access to Intimidate, which Ogerpon can take advantage of with Defiant beforehand.</p>\n<h3>Draft Strategy</h3>\n<p>Ogerpon should be drafted as a Tera Captain to utilize its full potential. With this in mind, it pairs well with many other top-tier picks, especially ones that are banned from Terastallizing.</p>\n<p><strong>Entry Hazard Setters</strong>: Ogerpon is very susceptible to losing to Flying-types. It can slightly hinder these Pokemon with Knock Off, but pairing it with good hazard setters that can reliably set up Stealth Rock is ideal to force progress against them. Examples of these include <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>.</p>\n<p><strong>Special Wallbreakers</strong>: Drafting a special wallbreaker can help complement an offensive core with Ogerpon to force pressure against teams. Examples of this include <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>.</p>\n<p><strong>Speed Control</strong>: Drafting a Pokemon faster than Ogerpon is beneficial, as it can prevent faster foes from using Attack-boosting natures rather than Speed-boosting natures. Examples include <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>.</p>\n<p><strong>Pivots</strong>: Ogerpon's access to U-turn allows it to be a great pivot, and if paired with other pivot users, it can set up a strong VoltTurn playstyle that can utilize entry hazards to slowly weaken Ogerpon checks into the range of being KOed by Ivy Cudgel. Examples of this include <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Flying-types</strong>: Bulky Flying-types resist Ogerpon's STAB moves and can freely switch in and resist most of its coverage moves. Ogerpon can remove their Heavy-Duty Boots with Knock Off and pivot with U-turn, but they can still hard check Ogerpon, preventing it from ever wallbreaking instantly.</p>\n<p><strong>Resistance Berry Lures</strong>: Ogerpon's attacks come off as very telegraphed; if it is not using a STAB move to attack, it uses a coverage move, which are very limited. This makes it extremely easy to run a resistance Berry to lure Ogerpon into attacking.</p>\n<p><strong>Speed Control / Priority Move Users</strong>: Even if Ogerpon has Terastallized, it can still be susceptible to faster Speed-boosting users if it is does not boost its Speed further with a Choice Scarf or Trailblaze. Examples of this include Unburden <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, Battle Bond Greninja, and Booster Energy <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>. On the other hand, strong priority users can revenge kill Ogerpon or force it out after it has used Swords Dance, preventing it from ever sweeping. Examples of this include Sucker Punch <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a>, Ice Shard <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a>, and Extreme Speed <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a>.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 546554,
+            "username": "blittius"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot (HP, Atk, Def, SpD)",
+          "pokemon": "Ogerpon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Brick Break",
+    "Bullet Seed",
+    "Charm",
+    "Counter",
+    "Double Kick",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "False Swipe",
+    "Fling",
+    "Focus Energy",
+    "Follow Me",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Helping Hand",
+    "Horn Leech",
+    "Ivy Cudgel",
+    "Knock Off",
+    "Lash Out",
+    "Leaf Storm",
+    "Leech Seed",
+    "Low Kick",
+    "Low Sweep",
+    "Magical Leaf",
+    "Play Rough",
+    "Power Whip",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Rest",
+    "Retaliate",
+    "Reversal",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Seed Bomb",
+    "Slam",
+    "Sleep Talk",
+    "Solar Beam",
+    "Solar Blade",
+    "Spikes",
+    "Spiky Shield",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Superpower",
+    "Swords Dance",
+    "Synthesis",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Throat Chop",
+    "Trailblaze",
+    "U-turn",
+    "Vine Whip",
+    "Wood Hammer",
+    "Zen Headbutt"
+  ]
+}

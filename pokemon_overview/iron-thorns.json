@@ -1,0 +1,417 @@
+{
+  "name": "Iron Thorns",
+  "alias": "iron-thorns",
+  "types": [
+    "Rock",
+    "Electric"
+  ],
+  "stats": [
+    100,
+    134,
+    110,
+    70,
+    84,
+    72
+  ],
+  "strategies": [
+    {
+      "format": "Monotype",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance (Electric)",
+          "pokemon": "Iron Thorns",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Loaded Dice"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pin Missile",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>This new Paradox Pokemon might have a niche in Battle Stadium Singles Series 2, though their viability is uncertain. While we wait for the metagame to settle, here id s sample set that may be viable. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Iron Thorns",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Loaded Dice",
+            "Booster Energy",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Flying",
+            "Electric",
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wild Charge",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              },
+              {
+                "move": "Pin Missile",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Iron Thorns is a potential budget setup sweeper and wallbreaker, greatly heightened by Tera. Along with its solid base stats and access to both Stealth Rock and Spikes, it can be a serviceable utility Pokemon in a pinch. On paper, it looks like a steal for its price, but its awful defensive typing and middling Speed mean Iron Thorns is prone to fainting before it has a chance to actually do anything. It is also heavily Tera-reliant, so when it comes to matches, it often prevents higher-tiered Tera Captains from Terastallizing.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: Despite needing two Speed boosts to outspeed some top-tier threats and most Choice Scarf users, the combination of Dragon Dance and Booster Energy means Iron Thorns can dish out great damage. Its defensive profile, while not great, also allows it to usually tank a non-super effective hit in order to set up or break through an opposing wall.</p>\n<p><strong>Wallbreaker</strong>: With its great Attack and Booster Energy or another damage-boosting item, Iron Thorns can break most walls that don't resist its STAB attacks. However, Ground-types in particular are still very difficult for it to break through, since they resist both of its STAB types, and it lacks strong coverage moves.</p>\n<p><strong>Entry Hazard Stacker</strong>: Despite not having a great typing, Iron Thorns's solid base stats along with its access to Volt Switch and entry hazards allow it to provide value in a supportive role by setting hazards while still remaining a strong attacker if need be.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Supercell Slam, Wild Charge, Thunder Punch, Rock Slide, Stone Edge, Rock Blast</p>\n<p><strong>Setup Moves</strong>: Dragon Dance, Swords Dance, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Stealth Rock, Spikes, Volt Switch, Substitute, Taunt, Thunder Wave</p>\n<p><strong>Coverage</strong>: Earthquake, Body Press, Dragon Claw, Fire Punch, Ice Punch, Low Kick, Heavy Slam, Iron Head, Crunch, Tera Blast, Pin Missile</p>\n<h3>Niche Moves</h3>\n<p><strong>Stomping Tantrum</strong>: Ground-types are a pain for Iron Thorns, and while it doesn't hit them super effectively, Stomping Tantrum doubles in power after an Electric-type move fails, which makes for a nice surprise attack.</p>\n<p><strong>Dragon Tail</strong>: Dragon Tail can be useful on utility sets to phaze foes. On setup sets, it can also be used to force foes out when they are using a phazing move, which can buy a necessary extra turn to set up.</p>\n<h3>Common Items</h3>\n<p><strong>Booster Energy</strong>: Booster Energy allows Iron Thorns to sweep and break effectively. Very rarely are other damage-boosting items worth using over Booster Energy, since setup sets usually only enter the field once.</p>\n<p><strong>Air Balloon</strong>: One of the biggest drawbacks Iron Thorns faces is Ground-type moves, and Air Balloon allows it to negate that weakness, making it a reasonable alternative on many sets.</p>\n<p><strong>Heavy-Duty Boots</strong>: If Iron Thorns is entering the battle multiple times, Heavy-Duty Boots is a solid option, allowing it to avoid entry hazard chip throughout the match.</p>\n<p><strong>Resistance Berries</strong>: Because of the danger Iron Thorns can pose to teams after a single Dragon Dance, resistance Berries can allow it to set up on foes that would otherwise KO it.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage-boosting Items</strong>: If Booster Energy feels too committal for a certain matchup, items like Life Orb, Expert Belt, and Magnet can be options to boost Iron Thorn's damage output without the single-use commitment of Booster Energy.</p>\n<p><strong>Loaded Dice</strong>: With Loaded Dice, Rock Blast becomes the most consistent Rock-type move Iron Thorns can use. It can also utilize Pin Missile, which can help deal with Grass-types that can usually switch into it comfortably.</p>\n<p><strong>Choice Band</strong>: Boosting Iron Thorns's Attack with a Choice Band turns it into a terrifying wallbreaker, but its low Speed combined with being locked into a single move makes it easy for foes to revenge kill or pivot around.</p>\n<h3>Tera</h3>\n<p>Iron Thorns is a very good secondary Tera Captain. Sweeping sets appreciate the defensive utility of types like Tera Grass, Bug, and Flying. Bulkier sets enjoy losing the awkward Rock / Electric typing for Tera Dragon or Fairy, allowing it to be much more reliable defensively. Without Terastallization, Iron Thorns is lackluster as an option, since it rarely wants to come to games without the intent of Terastallizing, meaning a higher-tier Tera Captain cannot Terastallize. Even when it is Terastallized, changing its type can't fix all of its problems, and those other shortcomings mean that it should only ever fill a secondary role on teams.</p>\n<h3>Draft Strategy</h3>\n<p>Iron Thorns can leverage its upsides best when on drafts that allow it to get on the field easily and have backup for when it is KOed. While it is not a Pokemon that wants to come to every game, as it is very Tera reliant, teams can appreciate its STAB combination along with its sweeping and wallbreaking power, which can make it a solid late-round pickup.</p>\n<p><strong>Slow Pivots</strong>: Iron Thorns usually needs to take a hit or two to set up, so getting it on the field without taking damage with Pokemon like <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a> is ideal.</p>\n<p><strong>Cleaners</strong>: Iron Thorns rarely KOes every opposing Pokemon, so Pokemon like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a> make great partners, as they excel at cleaning up weakened teams.</p>\n<p><strong>Ground-immune Pokemon</strong>: It is nearly impossible for Iron Thorns to survive Ground-type attacks, so having Pokemon like <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a> that can switch into those attacks can help mitigate the issues cause by its massive weakness.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Ground-types</strong>: Since Ground-types resist both of Iron Thorns's STAB types, they can very easily switch into it. It also lacks strong coverage moves that can hit Ground-types, so it can rarely deal with them on its own.</p>\n<p><strong>Ground-type Coverage</strong>: Since Ground-type moves are widely distributed, it is very easy for foes to fit Ground-type moves to check Iron Thorns, as it can rarely take a single hit from them.</p>\n<p><strong>Faster Pokemon</strong>: Because of Iron Thorns's relatively slow Speed, many foes can still outspeed it after it has used Dragon Dance by holding a Choice Scarf. While its defenses are decent, it can be KOed by even neutral attacks, especially without EV investment.</p>\n<p><strong>Phazing</strong>: Because Iron Thorns lacks recovery and usually uses Booster Energy to attempt to set up, getting phazed can make it very difficult for it to be as effective the second or third time on the battlefield as it would have been the first time.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 404799,
+            "username": "termnal"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Iron Thorns",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wild Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Iron Thorns",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets, stay tuned for future updates!</p>",
+          "abilities": [
+            "Quark Drive"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wild Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Bite",
+    "Blizzard",
+    "Body Press",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brick Break",
+    "Bulldoze",
+    "Charge",
+    "Charge Beam",
+    "Crunch",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Tail",
+    "Earth Power",
+    "Earthquake",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Punch",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Heavy Slam",
+    "High Horsepower",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Ice Punch",
+    "Iron Defense",
+    "Iron Head",
+    "Low Kick",
+    "Metal Claw",
+    "Meteor Beam",
+    "Pin Missile",
+    "Power Gem",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Throw",
+    "Rock Tomb",
+    "Sandstorm",
+    "Sand Tomb",
+    "Scary Face",
+    "Screech",
+    "Sleep Talk",
+    "Smack Down",
+    "Snarl",
+    "Spikes",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Fang",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Volt Switch",
+    "Wild Charge"
+  ]
+}
