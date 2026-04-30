@@ -1,0 +1,700 @@
+{
+  "name": "Sableye",
+  "alias": "sableye",
+  "types": [
+    "Dark",
+    "Ghost"
+  ],
+  "stats": [
+    50,
+    75,
+    75,
+    65,
+    65,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Foul Play can be run over Knock Off to further punish setup, especially against Dark-types that would otherwise freely set up on Sableye such as <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a> and Tera Dark <a href=\"/dex/sv/pokemon/toxicroak/zu/\" hreflang=\"en\">Toxicroak</a>. Taunt can ruin opposing defensive Pokemon like <a href=\"/dex/sv/pokemon/lanturn/zu/\" hreflang=\"en\">Lanturn</a> and <a href=\"/dex/sv/pokemon/venusaur/zu/\" hreflang=\"en\">Venusaur</a>, as well as deny entry hazards from being set, but Encore is better at handling offensive threats. Calm Mind sets may seem tempting with priority recovery, but Sableye's poor overall stats leaves it outclassed in this role by <a href=\"/dex/sv/pokemon/spiritomb/zu/\" hreflang=\"en\">Spiritomb</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dark-types</strong>: Dark-types are immune to Prankster and resist Sableye's attacks, meaning they can easily switch into it. Spiritomb, Skunktank and Sneasel turns Sableye into setup fodder, <a href=\"/dex/sv/pokemon/brute-bonnet/zu/\" hreflang=\"en\">Brute Bonnet</a> with Booster Energy doesn't care about Knock Off, and <a href=\"/dex/sv/pokemon/houndoom/zu/\" hreflang=\"en\">Houndoom</a> can grab a Flash Fire boost from Will-O-Wisp. <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a> and Toxicroak can flip around their poor matchup to Sableye with Terastallization.</p>\n<p><strong>Special Attackers</strong>: Special wallbreakers like <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a>, <a href=\"/dex/sv/pokemon/arboliva/zu/\" hreflang=\"en\">Arboliva</a>, and <a href=\"/dex/sv/pokemon/clawitzer/zu/\" hreflang=\"en\">Clawitzer</a> don't mind Will-O-Wisp and can capitalize on Sableye's poor special bulk. <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a> in particular can OHKO Sableye with its STAB Moonblast.</p>\n<p><strong>Priority Blocking</strong>: While rare, priority blocking from <a href=\"/dex/sv/pokemon/indeedee-f/zu/\" hreflang=\"en\">Indeedee-F</a>'s Psychic Surge and Farigaraf's Armor Tail completely shut down Sableye's status moves.</p>",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Sableye",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Prankster-boosted status moves and an excellent matchup into top tiers like <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> make Sableye well-suited to be a physical wall in ZU. Encore allows Sableye to shut down opposing offensive Pokemon, stifling setup attempts from <a href=\"/dex/sv/pokemon/minior/zu/\" hreflang=\"en\">Minior</a>, <a href=\"/dex/sv/pokemon/toxicroak/zu/\" hreflang=\"en\">Toxicroak</a>, and more. Will-O-Wisp neuters physical attackers, while Thunder Wave slows down foes and deters special attackers like <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a> from switching into Sableye. Knock Off removes crucial items like Leftovers and Heavy-Duty Boots, giving Sableye an easily spammable move that ensures progress. Heavy-Duty Boots lets Sableye switch in and out of battle without fearing entry hazard chip damage, while Rocky Helmet further punishes physical attackers and deters U-turn from the likes of <a href=\"/dex/sv/pokemon/perrserker/zu/\" hreflang=\"en\">Perrserker</a> and Mesprit. Tera Poison gives Sableye a Fairy resistance while retaining a good matchup into opposing Fighting-types and giving it a Toxic immunity.</p>\n<p>Sableye's ability to deny opposing setup paired with its excellent defensive typing makes it a great glue piece to round out a balance or bulky offense team. Its myriad immunities deter Fighting-types like <a href=\"/dex/sv/pokemon/hitmontop/zu/\" hreflang=\"en\">Hitmontop</a> and Psychic-types like Mesprit from using their STAB attacks. Special walls like <a href=\"/dex/sv/pokemon/lanturn/zu/\" hreflang=\"en\">Lanturn</a> and <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> enjoy having Sableye to fall back on against physical threats, while Sableye appreciates their ability to handle special wallbreakers like <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a> and Whimsicott. Dark-types like <a href=\"/dex/sv/pokemon/spiritomb/zu/\" hreflang=\"en\">Spiritomb</a>, <a href=\"/dex/sv/pokemon/brute-bonnet/zu/\" hreflang=\"en\">Brute Bonnet</a>, and Skunktank, as well as Tera Dark users like <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a> and Toxicroak are immune to Sableye's Prankster moves, easily using it as an entry point. As such, checks to these special threats like Whimsicott and Hitmontop are crucial teammates for Sableye. Entry hazard setters like <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a>, <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a>, and <a href=\"/dex/sv/pokemon/whiscash/zu/\" hreflang=\"en\">Whiscash</a> have great synergy with Sableye, as it naturally blocks Rapid Spin and can remove Heavy-Duty Boots with Knock Off. Sableye is also a good Knock Off absorber itself, which helps these Leftovers-reliant Pokemon.</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 626095,
+            "username": "sinnabyss"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 601970,
+                "username": "sleid"
+              },
+              {
+                "user_id": 543866,
+                "username": "5Dots"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Stallbreaker (Dark)",
+          "pokemon": "Sableye",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sableye is a good pick for Dark teams thanks to its Fighting immunity, spinblocking prowess, and ability to pester opposing teams with a wide array of status moves. Night Shade provides a consistent form of damage, preventing Sableye from being too passive, as well as letting it deal with <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> one-on-one. Prankster Will-O-Wisp shuts down Physical attackers, such as <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, regardless of their Speed. Encore locks foes into passive moves, such as Recover and Roost, as well as setup moves such as Dragon Dance and Iron Defense, usually forcing a switch thereafter. Thunder Wave is an alternative option that can be used to slow down opposing Pokemon in order to make Dark's threatening breakers, such as Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, outspeed faster foes, such as <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>.</p>\n<p><a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> is a great teammate for Sableye, as it can supply a multitude of entry hazards in the form of Spikes and Stealth Rock. Coupled with Sableye's Rapid Spin immunity, some teams will have a very difficult time removing entry hazards as long as Sableye is around. <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> is another fantastic teammate for Sableye, as its Poison typing is key when it comes to dealing with Fairy-types, such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> can utilize Swords Dance to help deal with bulkier Pokemon, such as <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, and pick off <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> via Sucker Punch. Bisharp can prevent hazard removal as well, as its Defiant ability will make foes think twice about using Defog. Strong wallbreakers such as Choice Specs Greninja, <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> are good teammates, as are Choice Scarf <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>; the pressure applied by entry hazards makes it incredibly difficult for defensive Pokemon, such as <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, to switch in repeatedly. Furthermore, they can deal with Pokemon that Sableye is largely ineffective against, such as Hatterene, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and opposing Dark-types. In return, Sableye can switch in on threatening Fighting-type attacks from Pokemon such as Iron Hands, Skarmory, and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>.</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Night Shade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 246753,
+            "username": "RoyalReloaded"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 4-5 points</p>\n<p><strong>Overview</strong>: Thanks to Prankster, Sableye is one of the best disruptors of offensive Pokemon, since it can cripple setup sweepers with Will-O-Wisp and Thunder Wave or force them into non-desirable moves with Encore. An excellent defensive typing, a sole weakness to Fairy, and access to priority Recover makes up for its mediocre bulk. However, the inability to make significant progress against Dark-types and a weakness to one of the best offensive types in Fairy often makes it a tough fit on teams.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Utility</strong>: Sableye is spoiled for choice when it comes to offering support to its teammates. Encore and Recover are pretty much a lock on all defensive sets along with a status move in Will-O-Wisp or Thunder Wave. The combination of these moves allows Sableye to reliably check certain opposing Pokemon without being passive like other bulky walls. It can further support teammates with Knock Off, although Night Shade is often preferred for consistent damage. Foul Play is also an option to punish physical attackers.</p>\n<p><strong>Dual Screens Support</strong>: On more offensive builds, Sableye can provide support with Prankster + Light Screen and Reflect in conjunction with Light Clay to allow ample setup opportunities for its teammates. This set often forgoes Recover for Encore and uses a status move to ensure opposing Pokemon cannot take advantage of it.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Knock Off, Shadow Sneak, Hex, Foul Play, Sucker Punch, Poltergeist</p>\n<p><strong>Setup Moves</strong>: Bulk Up, Calm Mind</p>\n<p><strong>Utility Moves</strong>: Will-O-Wisp, Thunder Wave, Encore, Taunt, Recover, Light Screen, Reflect, Trick, Substitute, Night Shade, Brick Break, Disable</p>\n<p><strong>Coverage</strong>: Dazzling Gleam, Drain Punch, Low Kick, Power Gem, Energy Ball, Fire Punch, Ice Punch, Icy Wind, Thunder Punch, Psychic, X-Scissor, Gyro Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Special STAB moves</strong>: Shadow Ball and Dark Pulse are the primary special STAB moves of choice on Calm Mind sets. Hex can be run along with Will-O-Wisp or Thunder Wave for a stronger Ghost-type STAB move.</p>\n<p><strong>Sunny Day / Rain Dance</strong>: Prankster Sunny Day and Rain Dance allow Sableye to support weather sweepers. They can also be used to counter opposing weather.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: As Sableye is vulnerable to all forms of entry hazards, Heavy-Duty Boots allows it to not take any damage from them, enabling it to pivot in more easily.</p>\n<p><strong>Rocky Helmet</strong>: Sableye makes use of it excellent defensive typing to punish physical attackers and gain chip damage on them with Rocky Helmet.</p>\n<p><strong>Leftovers</strong>: Leftovers allows Sableye to gain passive recovery, which helps it survive hits more easily.</p>\n<p><strong>Light Clay</strong>: Light Clay is used on the dual screens set to ensure maximum turns of Reflect and Light Screen.</p>\n<p><strong>Air Balloon</strong>: Air Balloon allows Sableye to safely pivot into Pokemon like <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/donphan/draft/\" hreflang=\"en\">Donphan</a> to spinblock and threaten them with an Encore or Will-O-Wisp.</p>\n<h3>Niche Items</h3>\n<p><strong>Lagging Tail / Sticky Barb</strong>: Lagging Tail, Sticky Barb, and other similar hindering items can be run in conjunction with Trick to cripple opposing Pokemon.</p>\n<p><strong>Eject Button</strong>: As Sableye has no momentum-generating moves of its own, it can utilize Eject Button to gain momentum and bring in a teammate safely.</p>\n<h3>Tera</h3>\n<p>Sableye already has an excellent typing that is immune to three types and weak to only one type. Changing the typing with Tera would severely hinder its defensive profile. Sableye is also not very strong offensively, and thus it is not recommended to make it a Tera Captain at all, as there are much better candidates for both primary and secondary Tera Captains. If it is chosen as a Tera Captain, it can utilize Tera Poison to gain a resistance to Fairy while keeping its resistance to Fighting.</p>\n<h3>Draft Strategy</h3>\n<p>Sableye is a good fit on offensive and balance teams that need a way of dealing with opposing setup threats. While it is not passive, it does not do significant damage to the opposing team. Thus, it is strongly recommended to have strong offensive teammates that are able to prosper off the support it provides.</p>\n<p><strong>Offensive Threats</strong>: Strong offensive Pokemon like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> are recommended to partner with Sableye. Their offensive profiles are further bolstered by the support it provides.</p>\n<p><strong>Ghost-resistant Pokemon</strong>: As Sableye is a Dark-type that does not resist Ghost, it is recommended to pair it with another bulky Dark-type like <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> or a bulky Normal-type like <a href=\"/dex/sv/pokemon/dudunsparce/draft/\" hreflang=\"en\">Dudunsparce</a> to reliably handle Ghost-types.</p>\n<p><strong>Solid Fairy- and Dark-Resistant Pokemon</strong>: Sableye invites in both Fairy- and Dark-types, as it is not able to do meaningful damage to them. Thus, having Fairy-resistant Pokemon like <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a> and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> and Dark-resistant Pokemon like <a href=\"/dex/sv/pokemon/diancie/draft/\" hreflang=\"en\">Diancie</a> is recommended.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dark-types</strong>: As Dark-types are immune to Prankster, they are able to safely pivot in on Sableye and proceed to set up or set entry hazards. Setup sweepers can also utilize Tera Dark to be immune to Prankster shenanigans.</p>\n<p><strong>Fairy-types</strong>: Fairy-types like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> and Diancie are able to pivot into Sableye and threaten it out with their STAB moves. They have to be wary of Thunder Wave and Will-O-Wisp, however.</p>\n<p><strong>Special Attackers</strong>: Sableye's Special bulk is lackluster, making it vulnerable to strong special attackers like <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>. They are also able to pivot in relatively safely, as they do not fear Foul Play or Will-O-Wisp.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 530941,
+            "username": "Professor Shuckle"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              },
+              {
+                "user_id": 472700,
+                "username": "PZZ"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Sableye",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Sablenite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind (Dark)",
+          "pokemon": "Sableye",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>On offensive Dark teams, Calm Mind <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> can serve as a sturdy setup sweeper that brings some defensive utility to the table and ignores common anti-setup moves such as Taunt, Encore, and Whirlwind. Additionally, its ability to spread status with Will-O-Wisp enables the team to handle threatening physical attackers like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex-monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>. Prankster can be used before Mega Evolving to cripple faster attackers like <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a> that threaten Mega Sableye and its teammates. For its attacking move, Sableye can choose between Hex or Dark Pulse; Hex does more damage to statused targets, but Dark Pulse has greater base power and nothing is immune to it. Most offensive Dark teams do not run entry hazard removal, so they appreciate Mega Sableye's ability to make opponents think twice before attempting to set hazards. <a href=\"/dex/sv/pokemon/grimmsnarl/national-dex-monotype/\" hreflang=\"en\">Grimmsnarl</a> is Mega Sableye's best teammate, setting dual screens to provide Mega Sableye with the initial durability increase it needs to start stacking Calm Mind boosts. With screens active, Mega Sableye always dodges being 2HKOed by Mega Lopunny's Close Combat and <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a>'s Play Rough, and it can use Calm Mind to dodge 2HKOs from threatening special attackers such as Choice Specs <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> and Choice Scarf <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, effectively turning them into setup fodder. In return, Grimmsnarl appreciates Mega Sableye's ability to prevent opposing hazard setters like <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a> from stacking hazards in front of it. Hazard-weak teammates such as Flyinium Z <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Moltres</a>, <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a>, and Focus Sash <a href=\"/dex/sv/pokemon/samurott-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Samurott</a> hugely appreciate Mega Sableye's ability to prevent Stealth Rocks from being set easily. In return, Galarian Moltres helps handle troublesome Fighting-types like Mega Lopunny and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, while Hisuian Samurott's Ceaseless Edge limits foes from repeatedly switching into Mega Sableye. Revenge killers like Meowscarada, <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, and Weavile can help threaten opposing setup sweepers that would overwhelm Mega Sableye like Calm Mind <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a> and Swords Dance <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a>.</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Sablenite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hex",
+                "type": null
+              },
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Mixed Wall (Dark)",
+          "pokemon": "Sableye",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> is a relevant defensive backbone for Dark teams because it serves as a switch-in to Fighting-type moves and is a good punisher of entry hazard setters such as <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/klefki/national-dex-monotype/\" hreflang=\"en\">Klefki</a>, and <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> thanks to its solid mixed bulk and Magic Bounce. Metal Burst lets Mega Sableye reduce its passivity by damaging foes more than Knock Off, notably OHKOing <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a> after withstanding Clangorous Soulblaze and <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>. Protect is an alternative that lets it safely Mega Evolve when it's threatened by foes such as Mega Diancie and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>, ensuring that it can block entry hazards mid-game with Magic Bounce and easing its prediction against Choice-locked foes such as <a href=\"/dex/sv/pokemon/darmanitan-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Darmanitan</a> and <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a>. The given EV spread allows Mega Sableye to avoid an OHKO from Mega Diancie's Moonblast and a 2HKO from <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>'s Earthquake. Mega Sableye is forced out by Fairy-types such as <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, so <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a> are good partners to mitigate this weakness; the latter also sets hazards up, which Mega Sableye can maintain by blocking Rapid Spin from Excadrill, <a href=\"/dex/sv/pokemon/iron-treads/national-dex-monotype/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/terapagos/national-dex-monotype/\" hreflang=\"en\">Terapagos</a>. <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-monotype/\" hreflang=\"en\">Mandibuzz</a> complements Mega Sableye by checking Fighting-types it can't consistently handle such as Mega Lopunny and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> and providing hazard control as further backup if Mega Sableye is unable to keep entry hazards off of its side of the field. As Mega Sableye cripples foes throughout a battle, setup sweepers such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a> and cleaners like Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> find easier setup opportunities to KO foes on the other team.</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Sablenite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Metal Burst",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 104,
+              "spa": 0,
+              "spd": 156,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Mixed Wall (Ghost)",
+          "pokemon": "Sableye",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> is a staple on bulkier Ghost teams due to its Dark typing, great abilities before and after Mega Evolution, and great defensive stats. Knock Off hinders <a href=\"/dex/sv/pokemon/chansey/national-dex-monotype/\" hreflang=\"en\">Chansey</a> and <a href=\"/dex/sv/pokemon/porygon2/national-dex-monotype/\" hreflang=\"en\">Porygon2</a> for Mega Sableye's wallbreaking teammates and eases the matchup against <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a>. Due to Sableye's meager HP and need for longevity, Recover's a must-have utility option, further enabling Metal Burst. Protect allows Sableye to Mega Evolve safely, ensuring it can utilize Magic Bounce later into the game. Metal Burst retaliates against Fairy-types such as <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>, while Dazzling Gleam eliminates Mega Sableye's passivity in front of <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a>. Will-O-Wisp in conjunction with Prankster renders physical attackers like <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>, <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a> less threatening. The given EV spread avoids a 2HKO from Life Orb Nidoking's Earth Power, assuming Mega Sableye uses Knock Off after the first Earth Power. <a href=\"/dex/sv/pokemon/mimikyu/national-dex-monotype/\" hreflang=\"en\">Mimikyu</a> threatens Dark-types such as <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-monotype/\" hreflang=\"en\">Mandibuzz</a>, <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Moltres</a>, and opposing Mega Sableye. <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> checks Fairy-types such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, Mega Diancie, and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a> as well as preventing foes from removing entry hazards set by <a href=\"/dex/sv/pokemon/froslass/national-dex-monotype/\" hreflang=\"en\">Froslass</a> and <a href=\"/dex/sv/pokemon/corsola-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Corsola</a>. <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a> handles opposing Gholdengo and utilizes Choice Scarf to clean through Steel, Ghost, and Psychic teams once <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, Mega Sableye, and <a href=\"/dex/sv/pokemon/slowking-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Slowking</a>, respectively, are removed. <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a> has great synergy with Mega Sableye, appreciating the prevention of opposing Stealth Rock and in return walling <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Ninetales</a>.</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Sablenite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Metal Burst",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 100,
+              "spa": 0,
+              "spd": 156,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 196007,
+            "username": "Wafflecopter2000"
+          },
+          {
+            "user_id": 434487,
+            "username": "Bobsican"
+          },
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 196007,
+                "username": "Wafflecopter2000"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 593863,
+                "username": "CrossHeart"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 547532,
+                "username": "Swiffix"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Astonish",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Calm Mind",
+    "Confuse Ray",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Detect",
+    "Dig",
+    "Disable",
+    "Drain Punch",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fake Out",
+    "Feint",
+    "Fire Punch",
+    "Flatter",
+    "Fling",
+    "Focus Punch",
+    "Foul Play",
+    "Fury Swipes",
+    "Giga Drain",
+    "Giga Impact",
+    "Gravity",
+    "Gyro Ball",
+    "Helping Hand",
+    "Hex",
+    "Hyper Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Light Screen",
+    "Low Kick",
+    "Low Sweep",
+    "Mean Look",
+    "Metal Burst",
+    "Metal Claw",
+    "Metronome",
+    "Mud Shot",
+    "Mud-Slap",
+    "Nasty Plot",
+    "Night Shade",
+    "Pain Split",
+    "Phantom Force",
+    "Poison Jab",
+    "Poltergeist",
+    "Power Gem",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psych Up",
+    "Quash",
+    "Rain Dance",
+    "Recover",
+    "Reflect",
+    "Rest",
+    "Rock Tomb",
+    "Scratch",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Snarl",
+    "Spite",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Torment",
+    "Trick",
+    "Will-O-Wisp",
+    "X-Scissor",
+    "Zen Headbutt"
+  ]
+}

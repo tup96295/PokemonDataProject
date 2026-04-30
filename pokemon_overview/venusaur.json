@@ -1,0 +1,1442 @@
+{
+  "name": "Venusaur",
+  "alias": "venusaur",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": [
+    80,
+    82,
+    83,
+    100,
+    100,
+    80
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Venusaur can opt for a more offensive set with Sunny Day + Chlorophyll, allowing it to outrun most of the metagame and hit like a truck with its colorful coverage in Solar Beam, Sludge Bomb, and Weather Ball. Unfortuntately, this set can struggle if it can't set up Sunny Day or runs into special walls like <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> or Fire-types. Other offensive sets like Life Orb are more reliable as breakers, while Eject Pack with Leaf Storm are more reliable as a one-time pivot; both are good against teams that don't have sturdy Venusaur checks. Earth Power is a solid option over Knock Off or Giga Drain to hit <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a> and Poison-types like Muk, <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a>, and <a href=\"/dex/sv/pokemon/toxicroak/zu/\" hreflang=\"en\">Toxicroak</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Poison-types</strong>: Muk, Hisuian Sneasel, and Toxicroak can all take advantage of Venusaur's inability to hit them for significant damage. Muk can pressure Venusaur with Knock Off + Zen Headbutt, while the latter two can set up on Venusaur with Swords Dance to muscle past it.</p>\n<p><strong>Steel-types</strong>: <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a>, Magneton, and <a href=\"/dex/sv/pokemon/perrserker/zu/\" hreflang=\"en\">Perrserker</a> can easily tank anything Venusaur throws at them. Orthworm can set up entry hazards or Coil on it, while the other two can outdamage and wear it down with their STAB moves.</p>\n<p><strong>Fire-types</strong>: <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a>, <a href=\"/dex/sv/pokemon/typhlosion/zu/\" hreflang=\"en\">Typhlosion</a>, <a href=\"/dex/sv/pokemon/pyroar/zu/\" hreflang=\"en\">Pyroar</a>, and <a href=\"/dex/sv/pokemon/houndoom/zu/\" hreflang=\"en\">Houndoom</a> can all switch in at least once and threaten Venusaur with their Fire-type attacks. However, they all fear losing their item to Knock Off or getting poisoned by Sludge Bomb.</p>\n<p><strong>Ice-types</strong>: <a href=\"/dex/sv/pokemon/beartic/zu/\" hreflang=\"en\">Beartic</a>, <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a>, <a href=\"/dex/sv/pokemon/abomasnow/zu/\" hreflang=\"en\">Abomasnow</a>, and <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a> force Venusaur to switch out or Terastallize in order to avoid getting OHKOed, but they can't switch in safely without fear of losing their item or getting poisoned.</p>\n<p><strong>Special Walls</strong>: <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a>, <a href=\"/dex/sv/pokemon/articuno/zu/\" hreflang=\"en\">Articuno</a>, and <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a> can all stomach multiple hits and threaten it back with super effective attacks. They all dislike losing their item.</p>",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Venusaur is a phenomenal wall in ZU with its great bulk, defensive typing, and utility movepool. Leech Seed is an option over Giga Drain to help Venusaur's teammates deal with its typical switch-ins like <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a>, <a href=\"/dex/sv/pokemon/toxicroak/zu/\" hreflang=\"en\">Toxicroak</a>, and <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a>. Knock Off cripples walls that rely on Leftovers for healing like <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a> and <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a>, offensive Pokemon that need Heavy-Duty Boots like <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a> and <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a>, and Eviolite users like Magneton and <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a>. Synthesis helps Venusaur's longevity, allowing it to take on pivots like <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a>, <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a>, and <a href=\"/dex/sv/pokemon/basculin/zu/\" hreflang=\"en\">Basculin</a> over the course of the game. Leftovers is great for extra healing on teams with entry hazard removers such as <a href=\"/dex/sv/pokemon/hitmontop/zu/\" hreflang=\"en\">Hitmontop</a> and <a href=\"/dex/sv/pokemon/sandslash/zu/\" hreflang=\"en\">Sandslash</a>, which help Heavy-Duty Boots Venusaur switch in safely over the course of a game. Heavy-Duty Boots helps Venusaur take on hazard stacking teams and is used when it doesn't have any removal support. Rocky Helmet is also an option to punish pivots like Basculin, Primeape, and <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a>, which Venusaur switches into. Tera Water helps Venusaur take on Fire-types like Charizard and <a href=\"/dex/sv/pokemon/typhlosion/zu/\" hreflang=\"en\">Typhlosion</a>, Ice-types like <a href=\"/dex/sv/pokemon/beartic/zu/\" hreflang=\"en\">Beartic</a> and Glastrier, and Ice-type coverage users like Hitmontop in a pinch. Tera Steel is also a great option that helps Venusaur beat Mesprit while still maintaining a good matchup against Grass-, Poison-, and Fairy-types. 88 Speed EVs allow Venusaur to outspeed Modest <a href=\"/dex/sv/pokemon/clawitzer/zu/\" hreflang=\"en\">Clawitzer</a>.</p>\n<p>Balance teams appreciate Venusaur's ability to check a myriad of top Pokemon such as Jolteon and Basculin, as well as providing utility in Knock Off and Leech Seed. Poison- and Steel-types like Hisuian Sneasel and Orthworm can easily set up on Venusaur, making teammates like Weezing and <a href=\"/dex/sv/pokemon/sableye/zu/\" hreflang=\"en\">Sableye</a> great for deterring them. Venusaur helps fend off fast offensive threats like Jolteon, Primeape, and Basculin, which frail teammates like <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a>, <a href=\"/dex/sv/pokemon/houndoom/zu/\" hreflang=\"en\">Houndoom</a>, and <a href=\"/dex/sv/pokemon/lycanroc/zu/\" hreflang=\"en\">Lycanroc</a> appreciate. Venusaur forces in walls such as walls such as <a href=\"/dex/sv/pokemon/articuno/zu/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a>, crippling them with Knock Off; this helps special attackers like Jolteon, Houndoom, and <a href=\"/dex/sv/pokemon/spiritomb/zu/\" hreflang=\"en\">Spiritomb</a> sweep. Opposing Grass-types hate seeing Venusaur, since it can defend Water- and Ground-type teammates like Basculin and Sandslash.</p>",
+          "abilities": [
+            "Overgrow"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 168,
+              "spa": 0,
+              "spd": 0,
+              "spe": 88
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 601970,
+            "username": "sleid"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 634210,
+                "username": "kriegueur"
+              },
+              {
+                "user_id": 435539,
+                "username": "BloodAce"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Venusaur uses Chlorophyll and Growth to become a deadly sun sweeper, capable of outspeeding even boosted foes like +1 <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. Venusaur is capable of sustaining itself long-term with Giga Drain, while Weather Ball vaporizes Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Grass-types like <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>. Its last move can be Sludge Bomb to give a neutral coverage move against Dragon-types like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/latios/ou/\" hreflang=\"en\">Latios</a> as well as <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and Assault Vest <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, or Earth Power to hit <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and Fire-types like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and Iron Moth. Earthquake is also an option to highly threaten specially defensive Galarian Slowking, an otherwise decent check and tough matchup for sun, with an OHKO at +2 without relying on Tera. The move also hits foes like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and Calm Mind Raging Bolt much harder. Its Tera type can be Fire to boost the power of Weather Ball even higher; a +2 Tera Fire Weather Ball 2HKOes Terastallized <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> while having a high chance to 2HKO Blissey as well. Tera Ground, on the other hand, boosts Venusaur's Earth Power, OHKOing Raging Bolt unboosted and Galarian Slowking after a Growth. If Venusaur runs Earthquake, a Naive nature should be used instead, and is chosen over Hasty to let it take on <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>'s Sucker Punch and <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a>'s Bullet Punch more comfortably.</p>\n<p>Since Venusaur requires sun to work, pair it with either <a href=\"/dex/sv/pokemon/torkoal/ou/\" hreflang=\"en\">Torkoal</a> or <a href=\"/dex/sv/pokemon/ninetales/ou/\" hreflang=\"en\">Ninetales</a> as sun setters. Torkoal has better bulk, Stealth Rock, and Rapid Spin, which can help in both softening the enemies and preventing Venusaur from taking unnecessary chip damage. In contrast, Ninetales has higher Speed, is stronger, has Encore, meaning it can both lock users into setup moves, entry hazards, or healing moves, allowing Venusaur to get a free entry, and can use Healing Wish to give it a second chance at sweeping. Venusaur can struggle against special walls like Blissey, Tera Poison Ting-Lu, and Galarian Slowking depending on its choice of coverage, and as such pairs incredibly well with <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>. Its power lets it pressure these aforementioned walls and break through most defensive teams with ease, which can be used by Venusaur later on to clean, while Venusaur's greater Speed helps against offensive teams, switching into targets like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Iron Valiant that would otherwise threaten Walking Wake. <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> also helps against Venusaur's aforementioned bad matchups while also both setting Stealth Rock and using Rapid Spin to help in the hazard control department. In return, Venusaur can come in on threats like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, Iron Valiant, and Ogerpon-W. Hatterene can also block hazards thanks to Magic Bounce, cripple fast Pokemon with Nuzzle, letting Venusaur outspeed them even when sun is over, and heal Venusaur thanks to Healing Wish.</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 517709,
+            "username": "1LDK"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 616497,
+                "username": "FayaWizard"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set(s).</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Life Orb makes Venusaur harder to switch around, guaranteeing that it can 2HKO foes like <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> and, after Stealth Rock, Assault Vest <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a>. That said, this power boost isn't often necessary, and Heavy-Duty Boots is usually better for improving Venusaur's longevity.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Overgrow"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>The bulk investment prevents Choice Band <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/pu/\" hreflang=\"en\">Paldean Tauros-W</a> from 2HKOing Venusaur with Tera Water Wave Crash or Tera Fighting Close Combat. With 56 Speed EVs, Venusaur outspeeds Adamant <a href=\"/dex/sv/pokemon/golurk/pu/\" hreflang=\"en\">Golurk</a>.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Overgrow"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 168,
+              "spa": 0,
+              "spd": 32,
+              "spe": 56
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Chlorophyll Sweeper",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>A Modest nature maximizes Venusaur's wallbreaking potential and makes up for Giga Drain's relatively low Base Power, but opting for a Timid nature improves its matchup against opposing sun teams.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 7-9 points</p>\n<p><strong>Overview</strong>: Venusaur is primarily drafted on sun teams as one of the best Chlorophyll sweepers in the format. It has relatively average stats, giving it just enough Speed and offenses to threaten foes in sun and enough bulk to pivot in and set up. It can also function as a defensive Pokemon with some nice utility, but given its stats at its comparatively high price point, Venusaur's real value comes from taking advantage of Chlorophyll in sun.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Chlorophyll Sweeper</strong>: Venusaur is most often used as a sweeper on sun teams. Its stats make it one of the better Pokemon in this role, outpacing many Choice Scarf users in sun with usable Special Attack and type coverage to capitalize on it. Venusaur can also set up Growth effectively due to its natural bulk, allowing it to OHKO a lot of Pokemon in sun.</p>\n<p><strong>Defensive Utility</strong>: Venusaur's typing allows it to check certain Pokemon, such as <a href=\"/dex/sv/pokemon/keldeo/draft/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/serperior/draft/\" hreflang=\"en\">Serperior</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, and utility moves such as Sleep Powder, Knock Off, and Leech Seed help it make progress. However, its bulk is just shy of letting it deal with many offensive Water-types and other common threats. This role is more matchup-dependent and less common than Chlorophyll sweeper Venusaur.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Sludge Bomb, Giga Drain, Leaf Storm, Solar Beam, Poison Jab, Petal Blizzard</p>\n<p><strong>Setup Moves</strong>: Growth, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Sleep Powder, Leech Seed, Synthesis, Knock Off, Toxic, Substitute</p>\n<p><strong>Coverage</strong>: Weather Ball, Earth Power, Tera Blast, Earthquake</p>\n<h3>Niche Moves</h3>\n<p><strong>Roar</strong>: Roar is an option on a defensive set to stop Calm Mind Pokemon and other setup sweepers that Venusaur cannot otherwise disrupt.</p>\n<p><strong>Sunny Day</strong>: Having the option to overwrite the weather can be quite useful, particularly in matchups against opposing weather setters.</p>\n<h3>Common Items</h3>\n<p><strong>Life Orb</strong>: Life Orb is the most common item on Chlorophyll sets, giving Venusaur the extra damage it often needs to KO certain Pokemon. It is often wise to run Giga Drain with Life Orb to mitigate the recoil damage.</p>\n<p><strong>Black Sludge</strong>: Black Sludge is good on offensive and defensive sets, and the passive HP recovery pairs well with Venusaur's natural bulk.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots also goes well with Venusaur's defensive sets to ensure that it survives certain hits regardless of entry hazards. Heavy-Duty Boots can occasionally also work on an offensive set if removing hazards is tricky, but it's more niche on those sets.</p>\n<h3>Niche Items</h3>\n<p><strong>Other Damage-boosting Items</strong>: Items such as Poison Barb, Miracle Seed, and Expert Belt can be useful on offensive sets, but generally, Life Orb is more worthwhile.</p>\n<p><strong>Lum Berry</strong>: Lum Berry can be useful on Growth Venusaur to enable its setup or against Prankster users that are expected to use priority Thunder Wave.</p>\n<p><strong>Eject Pack</strong>: Eject Pack, when paired with Leaf Storm, allows Venusaur to pivot safely into a teammate. This is most useful if an opponent has a good defensive response to Venusaur, but it is generally not that good because Venusaur wants to take advantage of its limited turns in sun.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet is a decent option for some extra chip damage on defensive sets, especially if the foe is expected to use U-turn or weak physical attacks frequently.</p>\n<h3>Tera</h3>\n<p>Venusaur is often a great Tera user on sun teams. The extra STAB type allows it to hit a lot harder as a Chlorophyll sweeper, notably with Tera Fire in sun. It can also just use Tera Grass or Poison to boost its STAB moves. Defensive Tera types such as Tera Water, Fairy, and Dark can complement any of its sets well in the right matchup. Given Venusaur's relatively low price point, it can also be drafted alongside other Tera users, making it even easier for it to be a Tera Captain. If a team demands different Tera Captains, Venusaur can still function without Tera, but it gets a lot of mileage out of it for a relatively low cost, so making it a Tera Captain is often worthwhile.</p>\n<h3>Draft Strategy</h3>\n<p>Venusaur is primarily drafted on sun teams. Its middling stats make it generally worse than other Grass / Poison Pokemon in a purely defensive role, and its price point more so reflects its ability to function on sun teams. On these teams, however, it can occasionally fill a defensive role, and its versatility helps a lot of sun teams function well.</p>\n<p><strong>Sun Setters</strong>: Venusaur should always be drafted alongside <a href=\"/dex/sv/pokemon/torkoal/draft/\" hreflang=\"en\">Torkoal</a> or <a href=\"/dex/sv/pokemon/ninetales/draft/\" hreflang=\"en\">Ninetales</a>. Its ability to utilize Chlorophyll with an automatic sun setter is essential to its viability. Without these Pokemon, Venusaur is generally worse than other options at its price point.</p>\n<p><strong>Pivots</strong>: Venusaur needs to enter the field safely, so drafting good pivots is very useful. Pokemon such as <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>, and <a href=\"/dex/sv/pokemon/slowbro/draft/\" hreflang=\"en\">Slowbro</a> are very effective in this role.</p>\n<p><strong>Strong Entry Hazard Control</strong>: Venusaur benefits a lot from winning the entry hazard war. Having extra chip damage on foes can help net a lot of KOs, and having hazards cleared from its side can keep Venusaur out of range of being KOed by priority moves and Life Orb recoil. Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, and <a href=\"/dex/sv/pokemon/donphan/draft/\" hreflang=\"en\">Donphan</a> fill this role well.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Opposing Weather</strong>: Opposing weather immediately shuts down Venusaur by removing its Speed boost and weakening moves such as Growth and Solar Beam. Pokemon with weather-setting abilities or Prankster can change the weather reliably.</p>\n<p><strong>Special Walls</strong>: Pokemon with high Special Defense can often tank hits from Venusaur well given its average offensive stats, especially those that resist its STAB moves or are not weak to its coverage. Pokemon such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/skeledirge/draft/\" hreflang=\"en\">Skeledirge</a>, and <a href=\"/dex/sv/pokemon/muk/draft/\" hreflang=\"en\">Muk</a> can be difficult to break past. Venusaur often needs to rely on a utility move like Sleep Powder, Leech Seed, or Knock Off to disrupt them, with support from teammates.</p>\n<p><strong>Strong Priority</strong>: Any Pokemon with strong priority moves that Venusaur doesn't resist, such as <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>, can revenge kill Venusaur reliably given enough chip damage.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 304744,
+            "username": "StreetCredCookie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper (SpA)",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Custap Berry",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Overgrow"
+          ],
+          "items": [
+            "Custap Berry"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Frenzy Plant",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Endure",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Tank",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Boasting decent bulk boosted further by its great defensive typing and ability, <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex/\" hreflang=\"en\">Mega Venusaur</a> is a good tank capable of answering Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>. Earth Power lets Mega Venusaur get consistent damage against crucial targets like <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> that could otherwise switch in on Mega Venusaur's STAB moves. Synthesis allows it to reliably answer Pokemon such as <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a> throughout the course of a game. It helps patch up Mega Venusaur's weakness to entry hazards, and it also pairs well with Sludge Bomb's chance of poison, allowing it to stall turns as the poison chips away at the foe's HP. The granted EV spread helps Mega Venusaur in the bulk department while also allowing it to deal significant damage to important targets. 100 Speed EVs allow Mega Venusaur to outrun uninvested <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and Jolly Kingambit.</p>\n<p>Mega Venusaur fits best on bulky balance and bulky offense teams where its role as an answer with good damage-dealing potential to common Pokemon such as Urshifu-R, Tapu Koko, and Zamazenta is appreciated. Mega Venusaur is one of the best Ogerpon-W answers in the tier, being able to tank its hits no matter the set. This is a crucial role to fulfill for bulkier teams, as Ogerpon-W often proves problematic for these structures. Mega Venusaur's ability to take on Water- and Fairy-types like <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, Ogerpon-W, and Iron Valiant can be useful for Ground-and Dark-types like <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, Landorus-T, and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>. In return, they can help against <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a>, and the former three can also remove entry hazards. Mega Venusaur is quite weak to Spikes, and as such, having a hazard remover is crucial. Mega Venusaur can also be good support for Kingambit, <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/national-dex/\" hreflang=\"en\">Roaring Moon</a> by switching into common Fighting-types like Zamazenta, Great Tusk, and Urshifu-R. Terapagos can remove hazards for Mega Venusaur, and Roaring Moon can take care of <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>. Psychic-types like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a> give Mega Venusaur trouble. Steel-types like Gholdengo, <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, and <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> can help with this issue. Mega Venusaur also has a poor matchup into Flying-types such as <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>; in this regard, Tapu Koko and Raging Bolt make for great partners.</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Venusaurite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 156,
+              "spd": 0,
+              "spe": 100
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Chlorophyll Sweeper",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Venusaur is a dangerous sun sweeper that utilizes its good coverage and high power when boosted by Growth to seriously threaten offensive and bulky teams alike. Giga Drain is the preferred Grass-type STAB move, as its healing capacity allows Venusaur to somewhat offset Life Orb recoil and potentially give Venusaur more opportunities to wallbreak or sweep. Weather Ball gives Venusaur a powerful Fire-type move under sun that smashes through <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>. Sludge Bomb is preferred in the final moveslot to hit Dragon-types like <a href=\"/dex/sv/pokemon/latios-mega/national-dex/\" hreflang=\"en\">Mega Latios</a> and <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> while also hitting <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a> hard. However, Earth Power can be used instead to hit <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and deal more damage to <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>. A Modest nature and a Life Orb are required to overcome Venusaur's underwhelming Special Attack while still letting it outrun common Choice Scarf users like <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and Gholdengo.</p>\n<p>Venusaur only fits on dedicated full sun teams. <a href=\"/dex/sv/pokemon/torkoal/national-dex/\" hreflang=\"en\">Torkoal</a> is a mandatory partner, as it is a Drought user that can hold Heat Rock and supports Venusaur by setting up Stealth Rock, giving Venusaur an easier time breaking through threats such as <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, Landorus-T, and Mega Latios. Mega Charizard Y may seem like an appealing teammate, but this proves to be an awkward fit due to the limited sun duration Mega Charizard Y provides. Venusaur is not bulky and can struggle to get on the field safely, so a pivoting teammate such as <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a>, Eject Button <a href=\"/dex/sv/pokemon/hatterene/national-dex/\" hreflang=\"en\">Hatterene</a>, or Raging Bolt makes for a good partner. <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> and the aforementioned Raging Bolt form a devastating offensive core with Venusaur, since they all break past each others' checks such as <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, Gliscor, and Dragonite, respectively; Great Tusk also improves the longevity of Torkoal and Venusaur by removing entry hazards. Great Tusk and Raging Bolt can also check Heatran, which completely walls Venusaur lacking Earth Power. Venusaur will often struggle to break past Dragon-types like defensive <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> and Dragonite without team support even when boosted, so Pokemon that can deal with them, such as Hatterene, <a href=\"/dex/sv/pokemon/kartana/national-dex/\" hreflang=\"en\">Kartana</a>, and <a href=\"/dex/sv/pokemon/tinkaton/national-dex/\" hreflang=\"en\">Tinkaton</a>, make for good teammates; the last of these can also set Stealth Rock to give Venusaur an easier time sweeping.</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 475916,
+            "username": "Sputnik"
+          },
+          {
+            "user_id": 574893,
+            "username": "Dahness"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 632421,
+                "username": "Medasus"
+              },
+              {
+                "user_id": 475916,
+                "username": "Sputnik"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              },
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Tank",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>'s great overall stats and ability make it a powerful tank in the metagame, capable of checking staples like <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a> while providing excellent offensive pressure, since Sludge Bomb, Knock Off, and Earth Power can cripple or threaten the majority of its checks, like <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a>, and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>. Giga Drain can be used to threaten <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> immediately, but Leech Seed is also an option to annoy and force out checks like Celesteela and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> while providing another source of recovery for itself and teammates. Earth Power allows it to hit Fire-types like <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/skeledirge/national-dex-uu/\" hreflang=\"en\">Skeledirge</a> and Steel-types like Aegislash and <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>. Hidden Power Fire prevents Skarmory from setting up Spikes and <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> from using Mega Venusaur as setup fodder while still hitting most Steel-types super effectively, even if it's less effective than Earth Power. The given EV spread allows it to outspeed Modest Celesteela and Adamant Tyranitar. Mega Venusaur fits on several archetypes, from offense to balance. Partners like Clefable, Scizor, and Excadrill enjoy Leftovers from Celesteela and Skarmory being removed; Scizor provides priority and a check against faster threats like <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a>, <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/gardevoir-mega/national-dex-uu/\" hreflang=\"en\">Mega Gardevoir</a>, and Clefable can use Thunder Wave to cripple Iron Moth or Alakazam. Skarmory can set up Spikes against Mega Venusaur when the latter is not running Hidden Power Fire, so entry hazard removal from Rotom-W and Excadrill or dedicated counters like <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a> are great partners. Mega Venusaur's vulnerability to entry hazards also make Rotom-W or other entry hazard control options really useful; Rotom-W can also pivot Mega Venusaur in against Clefable, <a href=\"/dex/sv/pokemon/hydrapple/national-dex-uu/\" hreflang=\"en\">Hydrapple</a>, and <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>.</p>",
+          "abilities": [
+            "Thick Fat"
+          ],
+          "items": [
+            "Venusaurite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 152,
+              "spd": 0,
+              "spe": 104
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535121,
+            "username": "gu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Grass)",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> excels as a wall on Grass teams, effectively tanking Fire- and Ice-type hits with its Thick Fat ability. It relies on Sludge Bomb as its main attack, dealing with Grass- and Fairy-types—such as <a href=\"/dex/sv/pokemon/rillaboom/national-dex-monotype/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>—while also poisoning walls like <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a>, <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/porygon2/national-dex-monotype/\" hreflang=\"en\">Porygon2</a>. Synthesis provides reliable healing, which, combined with Leech Seed and Sludge Bomb's poison, allows Mega Venusaur to wear down foes such as <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>. Hidden Power Fire handles Steel-types like <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>, <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>, although Earth Power can also be used to answer Steel-, Poison- and Fire-types such as <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-monotype/\" hreflang=\"en\">Iron Moth</a>. The Speed EVs allow Mega Venusaur to outpace Adamant <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a>. Mega Venusaur's teammates greatly appreciate its ability to handle threats like <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> and Mega Scizor and clear Toxic Spikes. Ferrothorn and <a href=\"/dex/sv/pokemon/cradily/national-dex-monotype/\" hreflang=\"en\">Cradily</a> form a solid defensive core, absorbing hits from Flying- and Psychic-types such as <a href=\"/dex/sv/pokemon/moltres-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Moltres</a> and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, while Mega Venusaur tanks Fire-, Ice-, and Fighting-type attacks. <a href=\"/dex/sv/pokemon/whimsicott/national-dex-monotype/\" hreflang=\"en\">Whimsicott</a> and <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a> help with the Dragon matchup, and <a href=\"/dex/sv/pokemon/celebi/national-dex-monotype/\" hreflang=\"en\">Celebi</a> handles the problematic Poison-types like <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a>. Rillaboom and <a href=\"/dex/sv/pokemon/breloom/national-dex-monotype/\" hreflang=\"en\">Breloom</a> provide strong priority, allowing them to threaten faster threats such as <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a>. Rillaboom also sets up Grassy Terrain to supply additional passive recovery along with Mega Venusaur's Leech Seed, boosting longevity. <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/zarude/national-dex-monotype/\" hreflang=\"en\">Zarude</a> serve as speedy wallbreakers that are capable of breaking through walls such as <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a>. Both also benefit from pivoting into Mega Venusaur to tank attacks from the aforementioned Fighting-, Fire-, and Ice-types.</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Venusaurite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ],
+            [
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Physically Defensive (Poison)",
+          "pokemon": "Venusaur",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> finds a solid position on Poison teams thanks to its secondary Grass typing, good natural bulk, and helpful set of tools. Giga Drain threatens Water- and Ground-types like <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>. Hidden Power Fire is used to deal with Steel-type Pokemon such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>. Leech Seed provides recovery and forces out bulky targets such as <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a>. Earth Power threatens Fire- and Poison-type targets like non-Air Balloon <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>. Sludge Bomb handles Fairy- and Grass-types like <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>, <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a> along with being able to spread poison, thus chipping foes down. The given EV spread is used to maximize Mega Venusaur's bulk while still allowing it to outspeed Adamant <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a>. <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> serves as a solid partner for Mega Venusaur, being a specially defensive wall capable of threatening Psychic- and Ghost-types like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/sv/pokemon/slowking-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>. Galarian Slowking can handle threats such as <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>, which easily blast through Mega Venusaur. <a href=\"/dex/sv/pokemon/crobat/national-dex-monotype/\" hreflang=\"en\">Crobat</a> provides Defog support, granting Mega Venusaur safe entry, and it can also deal with threats such as <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a> with Brave Bird and Substitute <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> with Infiltrator Toxic. Toxapex complements Mega Venusaur as a physically defensive wall, capable of taking on foes like Mega Scizor, <a href=\"/dex/sv/pokemon/zapdos-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Zapdos</a>, and <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a> along with providing Z-Haze for boosted threats like <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>. Offensive threats like <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a>, and <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a> appreciate Mega Venusaur being able to take hits from bulky Ground-types like <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>. In response, Sneasler can remove specially defensive threats like <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a> and Blissey thanks to its powerful Close Combat, Nidoking can remove threats like <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>, and Gholdengo thanks to its diverse and offensive movepool, and Nihilego can handle Fire- and Flying-type threats like Volcarona, <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a>.</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Venusaurite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ],
+            [
+              {
+                "move": "Leech Seed",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 547532,
+            "username": "Swiffix"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 305839,
+                "username": "Rio Vidal"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Amnesia",
+    "Body Slam",
+    "Bulldoze",
+    "Bullet Seed",
+    "Charm",
+    "Curse",
+    "Double-Edge",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "False Swipe",
+    "Frenzy Plant",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growl",
+    "Growth",
+    "Helping Hand",
+    "Hyper Beam",
+    "Ingrain",
+    "Knock Off",
+    "Leaf Storm",
+    "Leech Seed",
+    "Magical Leaf",
+    "Petal Blizzard",
+    "Petal Dance",
+    "Poison Jab",
+    "Poison Powder",
+    "Power Whip",
+    "Protect",
+    "Razor Leaf",
+    "Rest",
+    "Roar",
+    "Scary Face",
+    "Seed Bomb",
+    "Sleep Powder",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Solar Beam",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Scent",
+    "Swords Dance",
+    "Synthesis",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Toxic",
+    "Trailblaze",
+    "Venoshock",
+    "Vine Whip",
+    "Weather Ball",
+    "Worry Seed"
+  ]
+}

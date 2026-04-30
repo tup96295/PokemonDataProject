@@ -1,0 +1,519 @@
+{
+  "name": "Melmetal",
+  "alias": "melmetal",
+  "types": [
+    "Steel"
+  ],
+  "stats": [
+    135,
+    143,
+    143,
+    80,
+    65,
+    34
+  ],
+  "strategies": [
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Toxic + Protect",
+          "pokemon": "Melmetal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>The combination of Toxic and Protect allows Melmetal to force chip damage onto foes by inflicting them with debilitating status while keeping itself healthy. This makes Melmetal hard to wear down over the course of a game. Earthquake smacks many Toxic-immune Steel-resistant Pokemon, such as <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>. Protect lets Melmetal force even more Toxic damage onto foes, therefore allowing it to consistently chip them down. It also allows Melmetal to scout for dangerous coverage moves, such as Fighting-type coverage from <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> and Gholdengo and Fire-type coverage from <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, as well as ease prediction against common Choice item users like <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a>, and Tapu Lele. Leftovers combined with Protect makes it quite hard to wear down Melmetal over time. The given EV spread allows Melmetal to take a +2 Supreme Overlord-boosted Knock Off from <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> at full health and outspeed Toxapex.</p>\n<p>Melmetal fits well onto balance and bulky offense teams. These teams appreciate Melmetal's bulk allowing them to stave off threats such as Tapu Lele, <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a> while forcing progress against defensive cores consisting of common Pokemon such as <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, Zapdos, <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, and Landorus-T. Melmetal struggles to pressure certain Steel-types, most notably <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/skarmory/national-dex/\" hreflang=\"en\">Skarmory</a>, and it is forced out by other common Pokemon like Heatran, <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, and Air Balloon Gholdengo. Fire-types like <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>, <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/iron-moth/national-dex/\" hreflang=\"en\">Iron Moth</a> are choices that can pressure Ferrothorn, Skarmory, and Gholdengo, while Ground- and Fighting-types like Landorus-T and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a> threaten Heatran. Late-game cleaners, such as Iron Valiant, Kingambit, and Zamazenta, appreciate Melmetal chipping down standard defensive cores consisting of Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>, Zapdos, and Alomomola, therefore giving them an easier time cleaning up late-game. Swords Dance Iron Valiant is notable for its ability to break through Gliscor, another obstacle in Melmetal's goal to make progress. Alomomola is another great partner, using Wish to keep Melmetal healthy while checking several foes that are problematic for it, such as Landorus-T, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>. Other specially bulky partners such as Toxapex, Ting-Lu, and specially defensive <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> can shore up Melmetal's rather mediocre special bulk while also checking Mega Charizard Y, Volcarona, and Heatran.</p>",
+          "abilities": [
+            "Iron Fist"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Double Iron Bash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 220,
+              "atk": 96,
+              "def": 0,
+              "spa": 0,
+              "spd": 180,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Melmetal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Melmetal gains impressive mixed bulk when equipped with an Assault Vest, allowing it to check threats such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, and <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> while dishing out significant damage in return. Ice Punch slams <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> on the switch. It is also Melmetal's best way to hit <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, but it needs to be careful due to the risk of getting paralyzed by Static. Thunder Punch hits <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, although Flame Body from Moltres makes pressuring it this way risky; it is also the best way to pressure <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> if not running Earthquake. Earthquake allows Melmetal to hit <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a> hard. Superpower can be used instead in order to threaten <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/kartana/national-dex/\" hreflang=\"en\">Kartana</a> while still hitting Heatran and Kingambit, but the stat drops are detrimental, and Melmetal loses its best way to hit Gholdengo. The given EV spread gives Melmetal enough bulk to take two Focus Blasts from Tapu Lele and enough speed to outrun Toxapex.</p>\n<p>Assault Vest Melmetal works best on bulky offense and offense teams, as they appreciate its combination of bulk and wallbreaking power while being able to work around its limited longevity. Melmetal's lack of recovery leaves it very vulnerable to chip damage, especially from Spikes. Entry hazard removal from the likes of Landorus-T, <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, and Terapagos is therefore very important. Great Tusk is notable, as it appreciates Melmetal checking dangerous Psychic- and Grass-types, like Tapu Lele and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, and it can use Ice Spinner to threaten dangerous Ground-types like Landorus-T and Gliscor. Alomomola is another notable partner, as it can get Melmetal into battle safely with Flip Turn while also passing it Wishes to keep it healthy. Alomomola also helps to check Fire-types like Heatran and Ground-types like Landorus-T and Great Tusk. Fast, frail offensive threats like <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a> love Melmetal taking hits from revenge killers like Choice Scarf Tapu Lele, <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>, and Kingambit while also breaking down the opposing team with its powerful attacks, therefore letting them clean up later.</p>",
+          "abilities": [
+            "Iron Fist"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Double Iron Bash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Superpower",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 72,
+              "atk": 172,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Thunder Wave",
+          "pokemon": "Melmetal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Melmetal's ability to reliably spread Thunder Wave while remaining quite dangerous offensively makes it a great support Pokemon. It can also become deadly in mid- to late-game scenarios thanks to its tendency to paraflinch its way through otherwise decent checks like <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a> with Double Iron Bash. Thunder Wave allows Melmetal to spread paralysis onto potential switch-ins such as <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a> and <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>. Thunder Punch pressures <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a>, Toxapex, and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>. Superpower is the preferred coverage move, as it hits threats like Ferrothorn, <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/kartana/national-dex/\" hreflang=\"en\">Kartana</a> hard. Earthquake can be considered instead, however, as it hits <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a> while also hitting Heatran harder than Superpower. Protective Pads prevents Melmetal from being threatened by contact-punishing traits like Rocky Helmet on <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and Alomomola, Iron Barbs on Ferrothorn, Static on <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, and Flame Body on Moltres and Volcarona. Punching Glove should be used instead if running Earthquake, as it prevents Double Iron Bash and Thunder Punch from making contact while slightly boosting their power. 92 Speed EVs allow Melmetal to outrun a paralyzed Heatran and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>.</p>\n<p>Melmetal fits on team styles ranging from offense to balance thanks to its unique blend of support combined with strong offensive pressure. Thunder Wave Melmetal does well with teammates centered around benefitting from paralysis. Strong, slow wallbreakers like <a href=\"/dex/sv/pokemon/medicham-mega/national-dex/\" hreflang=\"en\">Mega Medicham</a>, <a href=\"/dex/sv/pokemon/ursaluna/national-dex/\" hreflang=\"en\">Ursaluna</a>, and <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> love having fast threats slowed down. They can form a deadly double wallbreaking core with Melmetal, which remains dangerous in its own right and can check revenge killers such as Kartana, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>. Hex Gholdengo is also a great partner, as it can unleash a fully powered up Hex onto paralyzed foes; Teammates that deal with threatening Ground-types such as Landorus-T, <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> are also good to have, as Melmetal cannot paralyze them and is forced out by them. Water- and Grass-types, such as Ogerpon-W, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/rillaboom/national-dex/\" hreflang=\"en\">Rillaboom</a>, can threaten them offensively, while defensive checks like Zapdos and Alomomola work as well.</p>",
+          "abilities": [
+            "Iron Fist"
+          ],
+          "items": [
+            "Protective Pads",
+            "Punching Glove"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Double Iron Bash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 164,
+              "spe": 92
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 475916,
+            "username": "Sputnik"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BH",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "RegenVest",
+          "pokemon": "Melmetal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gigaton Hammer",
+                "type": null
+              },
+              {
+                "move": "Stone Axe",
+                "type": null
+              },
+              {
+                "move": "Nuzzle",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Salt Cure",
+                "type": null
+              },
+              {
+                "move": "Stone Axe",
+                "type": null
+              },
+              {
+                "move": "Nuzzle",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 252,
+              "def": 252,
+              "spa": 0,
+              "spd": 252,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Substitute",
+          "pokemon": "Melmetal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>12 Speed EVs let Melmetal outspeed and utilize Substitute against walls such as Toxapex and Galarian Corsola, while the given bulk investment ensures its Substitute survives Amoonguss's Foul Play or Slowbro's Scald.</p>\n<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Iron Fist"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Double Iron Bash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Punch",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 88,
+              "def": 0,
+              "spa": 0,
+              "spd": 156,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Melmetal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Melmetal is an extremely strong wallbreaker that depends on Trick Room due to its low Speed stat. It also doubles as an excellent Extreme Killer <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> check, which can give teammates like Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a> trouble. However, Melmetal relies on Tera in order to beat its checks and can have PP issues with Double Iron Bash.</li>\n<li>Ice Punch provides valuable coverage that OHKOs <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a> and <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>. Thunder Punch allows Melmetal to wallbreak past bulky Water types such as <a href=\"/dex/sv/pokemon/dondozo/national-dex-ubers/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/arceus-water/national-dex-ubers/\" hreflang=\"en\">Arceus-Water</a>, Primal Kyogre, and <a href=\"/dex/sv/pokemon/alomomola/national-dex-ubers/\" hreflang=\"en\">Alomomola</a> while also threatening to 2HKO <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>.</li>\n<li>Superpower allows Melmetal to OHKO specially defensive <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a>. Ferrothorn sets with Protect can be harder to KO, though, as it will scout with Protect and switch into an appropriate answer. Earthquake allows Melmetal to 2HKO <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a> and Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>.</li>\n<li>The given EV spread avoids an OHKO from Life Orb <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>'s Low Kick, defensive Primal Kyogre's +1 Scald, and Tera Dark <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>'s Dark Pulse after Stealth Rock. The rest is invested in Attack to maximize damage output.</li>\n<li>Tera Steel skyrockets Melmetal’s wallbreaking power and invalidates previous switch-ins such as Ho-Oh, Primal Kyogre, and Necrozma-DM by turning previous 3HKOs to 2HKOs.</li>\n<li>Melmetal usually only wants to use Double Iron Bash, as its coverage moves can easily be maneuvered around, so it is best to use Melmetal as a late-game sweeper once checks such as Ferrothorn, Necrozma-DM, and Zygarde have been severely chipped or removed. If used too early, Melmetal’s checks will easily stall Trick Room turns and Double Iron Bash PP. Teammates such as Primal Kyogre and Primal Groudon should use the initial Trick Room instead to wear down checks such as Alomomola and Ferrothorn for Melmetal.</li>\n<li>Once Trick Room ends, it is important to switch Melmetal out to a bulky Trick Room setter such as <a href=\"/dex/sv/pokemon/cresselia/national-dex-ubers/\" hreflang=\"en\">Cresselia</a> and Arceus, as Melmetal is easily revenge killed outside of Trick Room. In certain situations, though, it may be best to sacrifice Melmetal once Trick Room ends, such as when another sweeper is in an excellent position to sweep and a setter like Arceus needs all of its HP to set Trick Room up safely against a threat like Primal Groudon.</li>\n<li>Cresselia, <a href=\"/dex/sv/pokemon/hatterene/national-dex-ubers/\" hreflang=\"en\">Hatterene</a>, and Arceus are extremely valuable teammates that set Trick Room and provide Lunar Dance and Healing Wish support. Cresselia can switch into Ground-type attacks from <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and Primal Groudon for Melmetal thanks to Levitate. In addition, Cresselia provides a way to restore Double Iron Bash’s PP thanks to Lunar Dance, which Healing Wish is unable to do. This allows Melmetal to be used mid-game to weaken its checks without worrying about Double Iron Bash PP. Hatterene is an excellent lead Trick Room setter that denies entry hazards with Magic Bounce. Arceus is an extremely consistent late-game Trick Room setter due to its bulk and can revenge kill weakened opponents with Extreme Speed.</li>\n<li>Melmetal can struggle to break past bulky Steel-types such as Ferrothorn and Necrozma-DM, so Primal Groudon is an excellent teammate. Primal Kyogre is also very helpful, as it helps break past bulky Water-types such as Dondozo, Tera Water Zygarde, and Alomomola, which Melmetal and other Trick Room staples cannot break past. <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a> also does well with Melmetal, as the two have similar checks such as Necrozma-DM, Alomomola, Dondozo, and Tera Water Zygarde. Both Calyrex-I and Melmetal can wear down their shared checks and position the other to sweep. However, there is an opportunity cost of running Calyrex-I over Primal Groudon or Primal Kyogre. Without Primal Groudon, Ferrothorn can waste Trick Room turns and spam Leech Seed without much risk, while without Primal Kyogre, Tera Water Zygarde can easily wall the entire team after a Coil.</li>\n</ul>",
+          "abilities": [
+            "Iron Fist"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Double Iron Bash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Superpower",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 56,
+              "atk": 248,
+              "def": 16,
+              "spa": 0,
+              "spd": 188,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Brave"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652323,
+            "username": "Anchor9"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

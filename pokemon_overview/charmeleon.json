@@ -1,0 +1,155 @@
+{
+  "name": "Charmeleon",
+  "alias": "charmeleon",
+  "types": [
+    "Fire"
+  ],
+  "stats": [
+    58,
+    64,
+    58,
+    80,
+    65,
+    80
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Attacker",
+          "pokemon": "Charmeleon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Solar Power"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Belly Drum",
+    "Bite",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brick Break",
+    "Counter",
+    "Crunch",
+    "Dig",
+    "Dragon Breath",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Ember",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Pledge",
+    "Fire Punch",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Growl",
+    "Heat Wave",
+    "Helping Hand",
+    "Inferno",
+    "Iron Tail",
+    "Metal Claw",
+    "Outrage",
+    "Overheat",
+    "Protect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Scratch",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Smokescreen",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Thunder Punch",
+    "Weather Ball",
+    "Will-O-Wisp"
+  ]
+}

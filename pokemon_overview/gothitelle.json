@@ -1,0 +1,610 @@
+{
+  "name": "Gothitelle",
+  "alias": "gothitelle",
+  "types": [
+    "Psychic"
+  ],
+  "stats": [
+    70,
+    55,
+    95,
+    95,
+    110,
+    65
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Item",
+          "pokemon": "Gothitelle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Shadow Tag Gothitelle can trap most defensive Pokemon, paving the way for its teammates to sweep.</li>\n<li>Trick facilitates trapping defensive walls like <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a> by locking them into an unfavorable move. Psychic targets Great Tusk and <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a>, while Psyshock helps Gothitelle trap <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a> better. Thunderbolt allows Gothitelle to trap <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> if it's not running U-turn or has a Choice item. Grass Knot KOes Great Tusk, <a href=\"/dex/sv/pokemon/dondozo/uber/\" hreflang=\"en\">Dondozo</a> and hits Ting-Lu hard. Taunt is used to limit phazing attempts and Choice locked status moves, forcing the trapped Pokemon to use Struggle.</li>\n<li>Rest allows Gothitelle to more effectively PP stall foes and remain healthy.</li>\n<li>Choice Specs Gothitelle plays a more offensive role, aiming to rack up KOs. On the other hand, Choice Scarf variants are more likely to use Trick to beat opposing walls.</li>\n<li>32 HP and 4 Defense EVs allow Gothitelle to avoid being 2HKOed and 3HKOed from Ting-Lu's and Clodsire's Earthquake, respectively. 220 Speed EVs allow Choice Specs variants to outspeed defensive Great Tusk and <a href=\"/dex/sv/pokemon/annihilape/uber/\" hreflang=\"en\">Annihilape</a> and Choice Scarf variants to outspeed offensive Great Tusk.</li>\n<li>Gothitelle usually uses its Tera type to trap and beat Choice locked foes it otherwise would not trap; Tera Fairy beats <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a> and <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> Choice locked into Dragon-type moves, Tera Water tanks Koraidon's Flare Blitz and <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>'s Ice Beam, and Tera Flying avoids Earthquake from Ting-Lu and Great Tusk.</li>\n<li>Gothitelle's favorite partners are powerful sweepers and cleaners such as Miraidon, Koraidon, <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a>, Iron Bundle, <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/chien-pao/uber/\" hreflang=\"en\">Chien-Pao</a>, all of which appreciate Gothitelle removing one or more of their checks.</li>\n</ul>",
+          "abilities": [
+            "Shadow Tag"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Water",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 32,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 220
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Delay Goth (Trapper)",
+          "pokemon": "Gothitelle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>This Gothitelle set aims to trap and PP stall weak walls so that its offensive teammates can take over mid- to late-game. This Gothitelle set can come in on weak walls like <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a>, <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/alomomola/uber/\" hreflang=\"en\">Alomomola</a>, and defensive <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a> and beat them by PP stalling them.</li>\n<li>Charm and Calm Mind are use to boost Gothitelle's survivability while PP stalling its foe.</li>\n<li>Taunt is used to stop phazing attempts and make the trapped Pokemon use their attacking PP, thus depleting their PP faster. Stored Power is an alternative for teams that benefit from having more wallbreaking potential or that have a good matchup against the Dark-types of the tier like <a href=\"/dex/sv/pokemon/chien-pao/uber/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a>.</li>\n<li>The 24 Speed EVs allow Gothitelle to be faster than uninvested <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a>, trapping it if it's not running U-turn. The Defense investment is used to tank hits well for PP stalling purposes, with attacks such as Ting-Lu's Earthquake being only a 4HKO.</li>\n<li>Tera Fairy is used for its solid defensive typing and ability to trap Choice-locked Dragon-types like <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a> and <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>, Tera Water is an option for its overall great defensive typing, granting resistances to Chien-Pao's Icicle Crash, Koraidon's Flare Blitz, and <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>'s Hydro Pump or Ice Beam. Lastly, Tera Ground is used to allow Gothitelle to trap Miraidon locked into an Electric move or defeat Double Dance sets one-on-one.</li>\n<li>Gothitelle's favorite partners are powerful sweepers and cleaners, especially setup sweepers that take advantage of defensive Pokemon having their PP drained to set up easily and without risk. Common examples include Swords Dance Koraidon, Swords Dance Chien-Pao, Double Dance Miraidon, and Calm Mind <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a>.</li>\n</ul>",
+          "abilities": [
+            "Shadow Tag"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Water",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Charm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 232,
+              "spa": 0,
+              "spd": 0,
+              "spe": 24
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 537354,
+            "username": "Mashing"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 306317,
+                "username": "katerina"
+              },
+              {
+                "user_id": 273339,
+                "username": "Lasen"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              },
+              {
+                "user_id": 467437,
+                "username": "Dawn of Ares"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Supportive Trapper",
+          "pokemon": "Gothitelle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Gothitelle's Shadow Tag and vast supportive movepool provide it with a unique niche in Regulation G, allowing its partners to take full advantage of lead matchups. Gothitelle utilizes Foul Play as its offensive move to threaten the <a href=\"/dex/sv/pokemon/calyrex/vgc24-regulation-g/\" hreflang=\"en\">Calyrex</a> formes. Taunt helps Gothitelle trap and shut down support Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/clefairy/vgc24-regulation-g/\" hreflang=\"en\">Clefairy</a>. Helping Hand can make up for Gothitelle's lack of offensive pressure; however, Protect can be used instead on Safety Goggles sets to protect against Fake Out. Covert Cloak protects Gothitelle from Fake Out, while Safety Goggles allows Gothitelle to ignore Spore and Rage Power from Amoonguss. The EV spread lets Gothitelle survive <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>'s Choice Specs Shadow Ball and Adamant <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a>'s Flare Blitz, as well as avoid the 2HKO from Choice Specs Tera Starstorm from Terapagos-S. Tera Dark is used to grant Gothitelle a resistance to <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>'s Astral Barrage, <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>'s Knock Off, and <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a>'s Dark Pulse, as well as an immunity to Prankster Taunt from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a>. Tera Dark also boosts Foul Play, allowing Gothitelle to threaten an OHKO on Calyrex-S and +1 Attack <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>.</p>\n<p>Gothitelle partners especially well with hyper offensive teams, as Shadow Tag makes it easier to remove crucial pieces from the opponent's team. This is especially prevalent with Koraidon, as Gothitelle prevents <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> from switching in and significantly weakening Koraidon. Gothitelle trapping Pokemon that struggle to threaten Koraidon like the <a href=\"/dex/sv/pokemon/ogerpon/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon</a> formes also allows Koraidon to set up for a sweep through Flame Charge. Choice Specs <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a> also appreciates Gothitelle, as Gothitelle can trap the opponent's Fake Out user and Taunt Amoonguss, minimizing issues for Terapagos throughout the game. Gothitelle can also utilize its own Fake Out to help Terapagos remove <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>, which is otherwise problematic. <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a> can pick off Pokemon with Thunderclap and shut down special attackers with Snarl significantly easier thanks to Gothitelle's trapping. Gothitelle struggles with Flutter Mane and Pokemon that can pivot like <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a> and Incineroar, as it can't trap them and does minimal damage with Foul Play. The aforementioned Koraidon can remove all of these checks reliably.</p>",
+          "abilities": [
+            "Shadow Tag"
+          ],
+          "items": [
+            "Covert Cloak",
+            "Safety Goggles"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Helping Hand",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 100,
+              "spa": 0,
+              "spd": 156,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 9-11 points</p>\n<p><strong>Overview</strong>: Gothitelle has average bulk and mediocre offensive stats, making it seem underwhelming at first glance, but thanks to Shadow Tag, it can be a major threat. Gothitelle can trap its foes, allowing it to either remove them to enable teammates or set up on them itself, becoming an annoying late-game sweeper. However, Gothitelle is relatively easy for opponents to prepare against. Since they know to anticipate it, they will often bring Shed Shell or pivoting moves on Pokemon that are likely to be trapped. Gothitelle also struggles against foes that resist Psychic, often having to rely on Focus Blast to hit them.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Choice Scarf</strong>: Gothitelle paired with a Choice Scarf can easily outrun and revenge kill faster Pokemon, especially if they would normally rely on faster pivoting to switch out. It can also use Trick to shut down a foe, making it easier for it or its teammates to take advantage of.</p>\n<p><strong>Setup Sweeper</strong>: Gothitelle can easily set up on trapped Pokemon that deal little damage to it. With access to Nasty Plot and Calm Mind along with Stored Power, it can easily become a strong setup sweeper despite its average stats.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Psychic, Psyshock, Psychic Noise, Stored Power, Future Sight</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Trick, Thunder Wave, Light Screen, Reflect, Taunt, Rest, Sleep Talk, Foul Play</p>\n<p><strong>Coverage</strong>: Energy Ball, Grass Knot, Dark Pulse, Shadow Ball, Focus Blast, Thunderbolt</p>\n<h3>Niche Moves</h3>\n<p><strong>Fake Tears</strong>: Fake Tears can be used against a trapped specially defensive wall, letting Gothitelle break through it more easily.</p>\n<p><strong>Charm</strong>: Charm can weaken trapped physical attackers, allowing Gothitelle to easily set up on or KO them.</p>\n<p><strong>Mirror Coat</strong>: Mirror Coat is an effective way of removing trapped specially offensive Pokemon, especially if they are Choice locked.</p>\n<p><strong>Trick Room</strong>: Gothitelle is relatively slow, making Trick Room a viable option against teams that are much faster. This is typically used to catch the opponent off guard.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Scarf</strong>: Choice Scarf allows Gothitelle to outrun trapped foes or cripple them with Trick.</p>\n<p><strong>Leftovers</strong>: Since Gothitelle does not have reliable recovery outside of Rest, Leftovers gives it some extra longevity, making it harder for weaker foes to eventually break through it.</p>\n<h3>Niche Items</h3>\n<p><strong>Chesto Berry</strong>: Chesto Berry along with Rest gives Gothitelle longevity, especially on setup sets where it needs to stay as healthy as possible to beat a specific foe.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries allow Gothitelle to take hits and KO typical checks in return. Colbur Berry is the most common choice, allowing Gothitelle to take much less damage from Knock Off.</p>\n<p><strong>Light Clay</strong>: Gothitelle can be an effective dual screens setter, making Light Clay a good option if other moves and items are unnecessary.</p>\n<p><strong>Weakness Policy</strong>: Weakness Policy combined with Stored Power can make Gothitelle very threatening, especially if hit with a special move after Calm Mind boosts.</p>\n<p><strong>Kee Berry</strong>: Kee Berry lets Gothitelle check physically offensive Pokemon more effectively, especially on setup sets.</p>\n<p><strong>Red Card</strong>: Red Card can be used to potentially bring in foes that do not want to be in against Gothitelle. It is most effective being activated against foes holding a Shed Shell or using pivoting moves.</p>\n<p><strong>Assault Vest</strong>: On offensive sets, Assault Vest lets Gothitelle run more Special Attack investment while still checking specially offensive Pokemon effectively.</p>\n<h3>Tera</h3>\n<p>Gothitelle can be a threatening Tera Captain, and it is often reliant on being one, since Tera lets it check Pokemon it normally could not, which makes it even more difficult for opponents to prepare against it. It often uses defensive Tera types, like Tera Water, Steel, and Fairy, to effectively trap and quickly turn the tables on foes that would normally check it, allowing it to set up on or KO them. It can also use offensive Tera types to gain stronger or more reliable coverage, such as Tera Fighting and Fairy.</p>\n<h3>Draft Strategy</h3>\n<p>Gothitelle is typically seen as a gimmick, and it can be very difficult to use effectively. However, if used well, it does a great job trapping foes to enable its teammates, and it can also force a ton of opposing preparation, which can potentially allow its teammates to have an easier time in the matchup, even in cases where Gothitelle itself does not come to a match.</p>\n<p><strong>Fast Wallbreakers</strong>: Fast Pokemon, such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, can outspeed many foes that Gothitelle cannot. They can also make the opponent want to bring Choice Scarf on a foe, which allows Gothitelle to effectively trap and revenge kill that foe.</p>\n<p><strong>Pivots</strong>: Pivots can effectively and safely bring in Gothitelle, and they can be very difficult for foes to deal with when a pivot move is pressuring an opposing switch. Some effective pivots include <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>.</p>\n<p><strong>Knock Off Users</strong>: Many foes will hold Shed Shell to avoid being trapped when facing Gothitelle. Knock Off users, such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a>, and <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, can effectively remove Shed Shell as well as other items, such as damage-boosting items, that would be used to check Gothitelle.</p>\n<p><strong>Fighting- and Fairy-types</strong>: Dark-types effectively check Gothitelle, especially since it only has Focus Blast to hit them. Pairing it with strong Fighting- and Fairy-types, such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, and <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, adds pressure onto these Dark-types.</p>\n<p><strong>Physically Defensive Pokemon</strong>: Gothitelle's low Defense makes opponents want to bring strong physical wallbreakers, so it is a good idea to pair it with Pokemon that can switch in on those wallbreakers, such as <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, and <a href=\"/dex/sv/pokemon/overqwil/draft/\" hreflang=\"en\">Overqwil</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Shed Shell</strong>: Shed Shell is very commonly used on Pokemon that would typically get trapped by Gothitelle, such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a>, and Iron Valiant.</p>\n<p><strong>Pivoting Moves</strong>: Pivoting moves allow Pokemon to easily switch out against Gothitelle while also dealing some damage to it, especially U-turn.</p>\n<p><strong>Physical Wallbreakers</strong>: Gothitelle has average physical bulk and cannot reliably heal, making physical wallbreakers like Gouging Fire, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a> effective checks.</p>\n<p><strong>Steel- and Dark-types</strong>: Gothitelle struggles against Steel- and Dark-types, especially when using setup sets with Stored Power, since it relies on Focus Blast or much weaker coverage to beat them. These Pokemon include <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, Overqwil, and Scizor.</p>\n<p><strong>Ghost-types</strong>: Although Gothitelle struggles less with Ghost-types due to having Shadow Ball and neutral STAB attacks, they can switch out without the need of Shed Shell and hit it super effectively. Ghost-types such as <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/ceruledge/draft/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/sinistcha/draft/\" hreflang=\"en\">Sinistcha</a> can be very difficult for Gothitelle to handle.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 527276,
+            "username": "Techno"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 613460,
+                "username": "vmnunes"
+              },
+              {
+                "user_id": 620359,
+                "username": "olivia"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Gothitelle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Shadow Tag"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Charm",
+                "type": null
+              },
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trapper",
+          "pokemon": "Gothitelle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Gothitelle's access to Shadow Tag and Taunt gives it a unique niche in the National Dex Ubers landscape. It lets Gothitelle trap common walls, such as defensive <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> and Coil <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, forcing them to use Struggle, and it can deny setup from certain sweepers such as <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>. The ability for it to trap many key defensive Pokemon lets it aid offensive threats such as <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, Calm Mind <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>, and <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a> and lets them forgo coverage for stronger move options. While Gothitelle needs a lot of support from allies, since it cannot trap most offensive Pokemon, its unique toolkit gives it a useful niche on specific bulky offense and balance structures</p>\n</li>\n<li>\n<p>Taunt stops attempts to status, such as Ho-Oh and Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>'s Toxic, from cutting into Gothitelle's longevity. It also blocks phazing attempts such as Primal Groudon's Roar and Ho-Oh's Whirlwind, and it denies attempts to recover health, like Zygarde's Rest.</p>\n</li>\n<li>\n<p>Rest lets Gothitelle stay healthy throughout the trap, decreasing the reliance on Leftovers recovery. It also lets Gothitelle recover from status conditions, like Sacred Fire burns from Ho-Oh and Primal Groudon's Toxic.</p>\n</li>\n<li>\n<p>Charm is Gothitelle's most reliable way to decrease the damage dealt by foes, since most of the Pokemon Gothitelle aims to trap, like Ho-Oh, Zygarde, and Ultra Necrozma, are primarily physical attackers.</p>\n</li>\n<li>\n<p>Cosmic Power is a source of extra physical bulk, boosting Gothitelle's Defense after dropping the foe's attack to -6, and, when fully boosted up, Gothitelle can outheal the foe's damage with Leftovers. Cosmic Power also gives Gothitelle a boost to Special Defense, which can come in handy when trapping defensive <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> and Primal Groudon. After forcing a foe to Struggle, very few Pokemon can reliably break through a fully set-up Gothitelle, meaning it can trap foes it normally can't, such as Mega Salamence and Zacian-C.</p>\n</li>\n<li>\n<p>Substitute gives Gothitelle a temporary immunity to the phazing effect of Dragon Tail from Zygarde and Primal Groudon and various status conditions, such as Toxic and Sacred Fire burns from Ho-Oh and Salt Cure from <a href=\"/dex/sv/pokemon/garganacl/national-dex-ubers/\" hreflang=\"en\">Garganacl</a>. It also blocks Overheat from Primal Groudon and forces it to drop its Special Attack without Gothitelle taking the full-power Overheat. It also keeps Gothitelle safe from critical hits that can deal too much damage for it to comfortably tank. Substitute does have the downside of having less PP than Cosmic Power, which can give Gothitelle trouble when trapping multiple targets in certain matchups, such as against stall or when facing both Rock Tomb Primal Groudon and Brave Bird Ho-Oh, and when forced to run the faster EV spread, since otherwise, it can't outspeed Primal Groudon and block its Overheat.</p>\n</li>\n<li>\n<p>The first EV spread is fully focused on Defense to grant Gothitelle the most consistency when trapping the mainly physical foes, like Zygarde, Ho-Oh, and Ultra Necrozma, giving it an easier time when switching in. The second EV spread invests in enough Speed to outspeed base 90s, like Primal Groudon, Ho-Oh and <a href=\"/dex/sv/pokemon/zygarde-complete/national-dex-ubers/\" hreflang=\"en\">Zygarde-C</a>. This lets Gothitelle use Charm to lower their Attack before they can use an offensive move, or Gothitelle can use Taunt to block an attempt to status. An alternative set with Choice Scarf, Trick, and enough speed to outpace <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a> can also be used to bait and trap Yveltal and offensive Eternatus and set up on them with Calm Mind and deal a ton of damage with a boosted Stored Power. This set can struggle when trapping other foes, however, as many Pokemon such as the Calm Mind <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> formes and Primal Groudon cannot be tricked. It also sacrifices the good matchup it has against Pokemon it usually traps, such as Ho-Oh and Zygarde, as Gothitelle cannot afford to run Charm on Trick variants.</p>\n</li>\n<li>\n<p>Tera Ghost grants Gothitelle an incredible matchup against stall, letting it trap common stall Pokemon <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a>, which only runs Seismic Toss as a damaging move. With the immunity to Seismic Toss, Gothitelle can fully trap Chansey. This, alongside the ability to trap <a href=\"/dex/sv/pokemon/dondozo/national-dex-ubers/\" hreflang=\"en\">Dondozo</a> and Ho-Oh, means Gothitelle allows both physical and special setup sweepers to break through the stall matchup more easily. It also grants a nice bonus benefit in letting Gothitelle escape trapper Zygarde's Thousand Waves after draining all the PP of its offensive moves in case Gothitelle's trapping is needed at another point in the game. Tera Water gives Gothitelle a resistance to Fire and Steel, letting it trap Overheat Primal Groudon, Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, and defensive Ho-Oh with higher consistency. It also lets Gothitelle trap Choice-locked Pokemon such as <a href=\"/dex/sv/pokemon/chien-pao/national-dex-ubers/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a>, and <a href=\"/dex/sv/pokemon/melmetal/national-dex-ubers/\" hreflang=\"en\">Melmetal</a>. Tera Fairy gives Gothitelle an immunity to Dragon Tail phazing from Coil Zygarde, letting it trap it. It also lets Gothitelle trap Chien-Pao locked into Crunch and Choice Scarf Yveltal.</p>\n</li>\n<li>\n<p>Taunt should be used first when facing foes that can give Gothitelle a status condition or phaze it, like defensive Ho-Oh. Charm should be used first when facing a foe that has a high immediate damage output, such as Primal Groudon, or when facing a foe that can boost up, such as Coil Zygarde or Dragon Dance Ultra Necrozma, immediately decreasing their damage output before using Taunt on them to prevent further setup. Charm should also be used when facing a Pokemon that only has offensive moves, such as a Choice item foe like Calyrex-I. If using Rest is needed, using Taunt the turn before Rest is important, as it ensures Gothitelle grants the foe as few turns as possible, being able to use Taunt again right after waking up and only giving one free turn, and when facing a Whirlwind Ho-Oh, this prevents phazing completely.</p>\n</li>\n<li>\n<p>Scouting the moveset of the foe is important when using Gothitelle, since almost all foes that Gothitelle aims to trap have sets that can break through it. Dragon Dance Zygarde has Substitute, which means it doesn't fear Gothitelle's Charm. Primal Groudon and Ho-Oh can also run offensive sets, and Gothitelle does not have the bulk to take their hits comfortably; in Primal Groudon's case, it can OHKO Gothitelle outright with a Heat Crash from its Double Dance set. Rare coverage options can also take Gothitelle by surprise and KO it. Dragon Dance Ultra Necrozma can run Outrage or X-Scissor, which OHKO Gothitelle at +1 after Stealth Rock. Z-Moves also need to be accounted for, as at +1, <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and Necrozma-DM can OHKO Gothitelle with their respective Z-Moves, Tectonic Rage and Searing Sunraze Smash.</p>\n</li>\n<li>\n<p>Playing around critical-hit ranges is crucial when using Gothitelle, as since the PP stall can take a long time, it is likely Gothitelle will take a critical hit at least once. Keeping it at high HP with Rest or consistently maintaining a Substitute, even when the foe is dealing little damage, means Gothitelle has to worry less about fainting to a random critical hit, further boosting its consistency. Foes with a faster Taunt, like Yveltal and Arceus formes, can completely shut down Gothitelle, since it only runs status moves. A Substitute from an opposing <a href=\"/dex/sv/pokemon/kyurem-black/national-dex-ubers/\" hreflang=\"en\">Kyurem-B</a> or <a href=\"/dex/sv/pokemon/zekrom/national-dex-ubers/\" hreflang=\"en\">Zekrom</a> can also block Charm, but Taunt still bypasses their Substitute and can still block their attempts to use a boosting move.</p>\n</li>\n<li>\n<p>Gothitelle pairs incredibly well with strong offensive threats that can take advantage of its ability to trap common defensive checks and counters. Zacian-C and Mega Salamence appreciate Gothitelle trapping Coil Zygarde, defensive Primal Groudon, and Dondozo; Zacian-C also benefits from it trapping Ho-Oh. Calm Mind Arceus formes value Gothitelle trapping Ho-Oh, and Eternatus values it trapping defensive Primal Groudon and both appreciate it trapping Chansey. Gothitelle often only needs to take out one or two of these foes to enable a sweep from one of its allies. These offensive allies can in turn handle the matchups Gothitelle struggles in, like the hyper offense matchup. Zacian-C can reliably come in on Calm Mind <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a> and -Fairy that counter Gothitelle with a faster Taunt, Mega Salamence can boost its Speed and then punch holes through a usually defensively weak hyper offense team and provides utility with Intimidate, and Calm Mind Arceus formes can aid Gothitelle versus Meteor Beam Eternatus and <a href=\"/dex/sv/pokemon/chi-yu/national-dex-ubers/\" hreflang=\"en\">Chi-Yu</a>. Gothitelle doesn't even need to fully take out one of its foes, as fainting after using Charm once or twice can mean a free turn of setup for an ally to turn into a sweep. For example, at -2, a defensive Primal Groudon deals no meaningful damage to Calm Mind Arceus formes, which means Arceus can get a free Calm Mind off as Primal Groudon is forced out.</p>\n</li>\n<li>\n<p>Preparing for hyper offense is very important, as aside from countering Dragon Dance Ultra Necrozma, Gothitelle is almost useless, since many common hyper offense Pokemon, like Zacian-C and Double Dance Primal Groudon, have too much immediate damage output for Gothitelle to be able to trap or switch into them. Pairing Gothitelle with allies that have a good matchup against hyper offense, like <a href=\"/dex/sv/pokemon/ditto/national-dex-ubers/\" hreflang=\"en\">Ditto</a>, Coil Zygarde, and Choice Scarf Yveltal, can help in this matchup. Ditto also has the added bonus of easily being able to scout sets. In turn, Gothitelle helps Coil Zygarde and Choice Scarf Yveltal in the stall matchup.</p>\n</li>\n<li>\n<p>Toxic and Toxic Spikes support from allies like offensive Ho-Oh and Eternatus, respectively, allows Gothitelle to speed up the trapping process, risking less critical hits versus foes like Primal Groudon and saving crucial PP in the stall matchup, since Taunt has limited PP. A badly poisoned foe also means that Gothitelle can trap foes it normally can't, such as support non-Taunt Arceus-Dark, which usually deals too much damage for Gothitelle to reliably trap without fainting, or Dragon Dance Zygarde when running Tera Fairy. Offensive Ho-Oh also has a good matchup against Calm Mind Arceus formes, since Ho-Oh is not reliant on status moves to deal with them. Choice Scarf Yveltal the fastest Defogger in the tier, and it is the most reliable way to clear Sticky Web from the field. This enables Zacian-C and other setup allies to break through hyper offense teams.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Shadow Tag"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Charm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Cosmic Power",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            },
+            {
+              "hp": 112,
+              "atk": 0,
+              "def": 192,
+              "spa": 0,
+              "spd": 0,
+              "spe": 204
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 538620,
+            "username": "unfuuny"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              },
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Body Slam",
+    "Brick Break",
+    "Calm Mind",
+    "Charm",
+    "Confusion",
+    "Dark Pulse",
+    "Endure",
+    "Energy Ball",
+    "Expanding Force",
+    "Facade",
+    "Fake Out",
+    "Fake Tears",
+    "Flatter",
+    "Fling",
+    "Focus Blast",
+    "Foul Play",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hypnosis",
+    "Imprison",
+    "Light Screen",
+    "Low Sweep",
+    "Magic Room",
+    "Mean Look",
+    "Metronome",
+    "Mirror Coat",
+    "Nasty Plot",
+    "Play Nice",
+    "Pound",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Stored Power",
+    "Substitute",
+    "Swift",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Tickle",
+    "Torment",
+    "Trick",
+    "Trick Room",
+    "Zen Headbutt"
+  ]
+}

@@ -1,0 +1,1831 @@
+{
+  "name": "Annihilape",
+  "alias": "annihilape",
+  "types": [
+    "Fighting",
+    "Ghost"
+  ],
+  "stats": [
+    110,
+    115,
+    80,
+    50,
+    90,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulk Up",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Annihilape is a solid setup sweeper due to its good Attack stat, decent bulk, and unresisted STAB combination. It can take advantage of Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/blissey/uber/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a>.</li>\n<li>Bulk Up gives Annihilape the potential to sweep while also making it progressively harder to KO.</li>\n<li>Taunt allows Annihilape to stay healthy and also stops bulkier Pokemon such as Corviknight, Clodsire, and <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a> from recovering their health. Rest can alternatively be used with Chesto Berry to get rid of status and recover health, but it fails when Electric Terrain is up.</li>\n<li>Drain Punch allows Annihilape to recover health and damage foes such as <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a>.</li>\n<li>Rage Fist, along with Taunt, makes Annihilape incredibly threatening for slow walls such as <a href=\"/dex/sv/pokemon/dondozo/uber/\" hreflang=\"en\">Dondozo</a> and Ting-Lu, as their attacks do little damage to Annilhilape while also boosting Rage Fist's power.</li>\n<li>Tera Water allows Annihilape to take hits from special attackers such as <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>, <a href=\"/dex/sv/pokemon/chi-yu/uber/\" hreflang=\"en\">Chi-Yu</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a> while also letting it resist Flare Blitz from <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>.</li>\n<li>Tera Fairy gives Annihilape an immunity against Dragon-type moves from Koraidon and <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a> while also letting Annihilape take neutral damage from Ghost-type moves from <a href=\"/dex/sv/pokemon/gholdengo/uber/\" hreflang=\"en\">Gholdengo</a> and Flutter Mane, OHKOing them in return with boosted Rage Fist.</li>\n<li>Annihilape reaches its full potential on dual screens hyper offense teams, where it can easily take hits while setting up.</li>\n<li>Special walls such as Ting-Lu and Corviknight are good teammates on balance teams, as Pokemon such as Miraidon, Flutter Mane, and Iron Bundle threaten Annihilape. Corviknight is also able to remove entry hazards for Annihilape. <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a> as a teammate overwhelms <a href=\"/dex/sv/pokemon/alomomola/uber/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a>, which are common checks to it and Annihilape.</li>\n<li>Entry hazard setters such as <a href=\"/dex/sv/pokemon/glimmora/uber/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/froslass/uber/\" hreflang=\"en\">Froslass</a>, Toxapex, and Clodsire can lure in Corviknight, presenting Annhilape with a great setup opportunity by forcing Corviknight to either use Defog and activate Annihilape's Defiant or give Rage Fist a boost by attacking.</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Leftovers",
+            "Chesto Berry"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 532881,
+            "username": "Frozoid"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 415367,
+                "username": "Eledyr"
+              },
+              {
+                "user_id": 306317,
+                "username": "katerina"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!</p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-regulation-f-dex-updates-and-suggestions.3734864/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Support",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Annihilape's great bulk, fearsome offensive presence with Rage Fist, and wide support movepool make it an unpredictable and dangerous foe early-game!</p>\n</li>\n<li>\n<p><strong>Stealth Rock</strong>: Annihilape is among the most reliable offensive setters of Stealth Rock in the metagame, though it isn't required for Annihilape to be an effective early-game Pokemon for every team.</p>\n</li>\n<li>\n<p><strong>Final Gambit</strong>: Annihilape's impressive HP stat makes Final Gambit into a powerful KO trading tool, being able to take out bulky foes like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/hippowdon/battle-stadium-singles/\" hreflang=\"en\">Hippowdon</a>, and Stamina <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a>. Make sure to run at least 236 HP EVs when using Final Gambit to OHKO Hippowdon.</p>\n</li>\n<li>\n<p><strong>Rock Tomb</strong>: Rock Tomb is an excellent Speed control option for its ability to punish Dragonite, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a>, and <a href=\"/dex/sv/pokemon/gouging-fire/battle-stadium-singles/\" hreflang=\"en\">Gouging Fire</a>.</p>\n</li>\n<li>\n<p><strong>Taunt</strong>: Taunt gives Annihilape a strong matchup into bulky support Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> and Archaludon.</p>\n</li>\n<li>\n<p><strong>Fling and Light Ball</strong>: This gives Annihilape a chance to paralyze a foe, including <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a> that lack Covert Cloak, and turn the tables on fast Focus Sash foes like <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Close Combat</strong>: If using Focus Sash, Close Combat's Defense drop isn't as devastating, though it leaves more offensive Annihilape vulnerable to getting revenge killed by multi-hit users like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a> and Loaded Dice Scale Shot foes like Dragonite, Gouging Fire, and <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Encore is an incredibly powerful move that can lock the opponent into an attacking move to boost Rage Fist's power. Alternatively, it can lock the opponent into a status move.</p>\n</li>\n<li>\n<p><strong>Curse</strong>: This is an excellent way for Annihilape to retire itself from the battle while putting significant pressure on the opponent to switch out and shutting down gimmicks such as Baton Pass.</p>\n</li>\n<li>\n<p><strong>Endeavor</strong>: When paired with Focus Sash, Endeavor lets Annihilape massive amounts of damage before going down, though Annihilape's own bulk can lessen its effectiveness.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: This Annihilape is often used quite early in the game so Terastallization is often not needed unless it must check a specific threat.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Beyond offering a valuable Fairy resistance, the Ice and Fire resistances make <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a>, Ogerpon-H, and <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> easier to deal with.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel has excellent defensive synergy with Annihilape thanks to the Fairy resistance and doing particularly well on spreads that are faster than -1 Chien-Pao to move before Sacred Sword lands.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water lets Annihilape withstand Urshifu-R's Tera Water Surging Strike with any item on either Pokemon.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison has a good matchup against Flutter Mane, and lets Annihilape deal with Toxic and Toxic Spikes without needing to Taunt or worry about <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a>'s Mental Herb.</p>\n</li>\n</ul>\n<h5>Abilities</h5>\n<ul>\n<li>\n<p><strong>Defiant</strong>: Defiant gives Annihilape the widest variety of winning match-ups, doing great against Intimidate Pokemon such as <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/incineroar/battle-stadium-singles/\" hreflang=\"en\">Incineroar</a>, punishing common Speed control foes like Rock Tomb Ogerpon-H, and ensuring that Charm Flutter Mane will not set up on Annihilape.</p>\n</li>\n<li>\n<p><strong>Vital Spirit</strong>: Vital Spirit adds to Annihilape’s flexibility against dangerous sleep inducers such as Yawn <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a> and Spore <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>.</p>\n</li>\n<li>\n<p><strong>Inner Focus</strong>: This niche ability prevents flinches from Chien-Pao and Dragonite from happening, as well as stopping an Attack drop from Intimidate.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry can be used with specialized spreads to avoid certain 2HKOs and protect Annihilape from Urshifu-R's Tera-boosted Surging Strikes. Try to make sure to have an even HP stat, to ensure that Sitrus Berry activates after getting hit by Ruination.</p>\n</li>\n<li>\n<p><strong>Focus Sash</strong>: Even when using bulky EV spreads, Focus Sash is useful for surviving an attack from foes that can be difficult to EV for, such as Flutter Mane and Chi-Yu.</p>\n</li>\n<li>\n<p><strong>Coba Berry</strong>: Coba Berry stops Tera Flying foes like Dragonite and Landorus-T from getting a surprise KO on Annihilape.</p>\n</li>\n<li>\n<p><strong>Roseli Berry</strong>: Roseli Berry works well on specially defensive EV spreads designed defeat Flutter Mane leads that lack Focus Sash.</p>\n</li>\n</ul>\n<h5>Sitrus Berry EV Spread Examples</h5>\n<ul>\n<li>\n<p><strong>244 HP / 4 Atk / 4 Def / 36 SpD / 220 Spe with Jolly</strong>: This spread outspeeds Adamant Urshifu formes plus Timid Archaludon and Gholdengo, survives Jolly Choice Band Urshifu-R's Surging Strikes on all but the highest roll, and has a 87.5% chance of surviving Modest Choice Specs Archaludon's Draco Meteor.</p>\n</li>\n<li>\n<p><strong>244 HP / 140 Def / 124 Spe with Jolly</strong>: Thanks to Sitrus Berry, not even Adamant Choice Band Urshifu-R can OHKO Annihilape with Tera Water Surging Strikes! The Speed investment aims for Modest Gholdengo and Modest Archaludon, and also outspeeds up to <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a> after a Speed drop from Rock Tomb.</p>\n</li>\n<li>\n<p><strong>244 HP / 4 Atk / 4 Def / 220 SpD / 36 Spe with Careful</strong>: This Sitrus Berry optimized EV usually avoids a OHKO from Choice Specs Gholdengo's Shadow Ball, while outspeeding Adamant Breloom. It also survives Timid Tera-boosted Moonblast from Flutter Mane, meaning any Flutter Mane that gets a Speed boost from Booster Energy will be unable to OHKO Annihilape normally.</p>\n</li>\n<li>\n<p><strong>244 HP / 196 Def / 68 Spe with Impish</strong>: This defensive spread avoids a 2HKO from Adamant Tera Fire Ogerpon-H and usually does the same for Adamant Life Orb Chien-Pao, while having enough Speed to outspeed Jolly <a href=\"/dex/sv/pokemon/ogerpon/battle-stadium-singles/\" hreflang=\"en\">Ogerpon</a> formes after Rock Tomb.</p>\n</li>\n<li>\n<p><strong>100 HP / 252 Atk / 140 Def / 12 SpD / 4 Spe with Adamant</strong> This is the most offensive option for Sitrus Berry, surviving all but the highest roll from Adamant Choice Band Urshifu-R's Tera Water Surging Strikes, and having an astonishing 87.5% chance of OHKOing it with the now 200 BP Rage Fist!</p>\n</li>\n</ul>\n<h5>Other EV Spread Examples</h5>\n<ul>\n<li>\n<p><strong>236 HP / 76 Attack / 4 Def / 12 SpD / 180 Spe with Jolly</strong>: This spread OHKOes up to Hippowdon with Final Gambit, while outspeeding Jolly Dragonite, and outspeeding Flutter Mane and Iron Bundle after a Speed drop from Rock Tomb. The Special Defense EVs dodge a OHKO from Timid Flutter Mane's Moonblast.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 SpD / 252 Spe with Jolly</strong>: Beyond at least reaching a speedtie with opposing Annihilape, this spread avoids a OHKO from Timid Flutter Mane's unboosted Moonblast and even outspeeds paralyzed Speed boosted Flutter Mane. It also outspeeds paralyzed Iron Bundle after Booster Energy, but note that it often uses Substitute to block Fling.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Defiant",
+            "Vital Spirit"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Focus Sash",
+            "Light Ball"
+          ],
+          "teratypes": [
+            "Fire",
+            "Steel",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              },
+              {
+                "move": "Fling",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              },
+              {
+                "move": "Fling",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 4,
+              "def": 4,
+              "spa": 0,
+              "spd": 36,
+              "spe": 220
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant",
+            "Impish",
+            "Careful"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Thanks to great bulk and the dangerous Rage Fist, Annihilape is a powerful bulky setup sweeper of Battle Stadium Singles.</p>\n</li>\n<li>\n<p><strong>Taunt</strong>: Taunt helps you deal with annoying support Pokemon like Whirlwind <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a>, Thunder Wave <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/hippowdon/battle-stadium-singles/\" hreflang=\"en\">Hippowdon</a> to mention a few, forcing them to attack and boost Rage Fist. This can work on <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a>, but be warned that Toxapex commonly carries Mental Herb, which could get Annihilape poisoned if it doesn't Terastallize.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Encore is an interesting alternative to Taunt, not able to directly shut down defensive answers to Annihilape, but it severely punishes them when Annihilape switches into a support move.</p>\n</li>\n<li>\n<p><strong>Defiant versus Vital Spirit</strong>: Defiant is the best option for this set, stopping Charm <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> from eeking out a win, and punishing common ways of dropping Annihilape's Attack such as Intimidate <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a> and Breaking Swipe <a href=\"/dex/sv/pokemon/gouging-fire/battle-stadium-singles/\" hreflang=\"en\">Gouging Fire</a>. Vital Spirit is easier to stop, but, it lets Annihilape can absorb sleep moves from foes like Yawn <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a>, Yawn Hippowdon, and Spore <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a> without needing Taunt.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Terastallization is quite helpful at saving Annihilape from certain extremely powerful wallbreakers such as <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>, and Flutter Mane, but Annihilape is perfectly functional without it.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison offers a better matchup against Flutter Mane, does well against <a href=\"/dex/sv/pokemon/meowscarada/battle-stadium-singles/\" hreflang=\"en\">Meowscarada</a>'s Flower Trick, and lets Annihilape freely switch into Toxic and Toxic Spikes later in the match. This also drastically reduces the risk of Taunting Toxapex, which makes this Tera type a menace against stall teams!</p>\n</li>\n<li>\n<p><strong>Fire</strong>: In addition to giving a useful resistance to Fairy-, Fire-, and Ice-type attacks from dangerous foes like Flutter Mane, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a>, and Chien-Pao, Tera Fire also protects Annihilape from burns.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water is a fantastic response to <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>, who otherwise can use Tera Water Surging Strikes to break through Annihilape regardless of Bulk Up boosts. It also works great against Chien-Pao and Chi-Yu, two powerful wallbreakers.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Steel turns Annihilape's Psychic , Flying,and Fairy weakness into resistances, as well as being an excellent defensive type overall. It lets Annihilape deal with foes like Flutter Mane, <a href=\"/dex/sv/pokemon/latios/battle-stadium-singles/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/iron-crown/battle-stadium-singles/\" hreflang=\"en\">Iron Crown</a> far more effectively at the cost of having issues with Ogerpon-H and <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Flying is an effective Tera against stall teams for avoiding Fissure from <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a> , forcing it to attack with moves that boost Rage Fist.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Leftovers</strong>: Leftovers's residual recovery eases the long-game of setting up.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry and 244 HP EVs</strong>: Reducing the HP EVs to 244 gives Annihilape an even HP stat, which lets Annihilape recover its health with Sitrus Berry the moment it gets hit by Ruination. This makes dealing with Ting-Lu and <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a> an easier task.</p>\n</li>\n<li>\n<p><strong>Covert Cloak</strong>: Covert Cloak makes Annihilape immune to being Salt Cured, making it a great check against <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a> if using Taunt to prevent the deadly Tera Ghost Curse. It also gives peace of mind, avoiding potential flinches from Chien-Pao and Chi-Yu, or Special Defense drops from Flutter Mane's Shadow Ball.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>252 HP / 4 SpD / 252 Spe with Jolly</strong>: Maximum Speed mainly helps Annihilape outspeed Timid Archaludon, Timid <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>, Adamant Urshifu formes, and Modest Chi-Yu. The 4 Special Defense EVs are just enough to avoid being OHKOed by Timid Flutter Mane's Moonblast.</p>\n</li>\n<li>\n<p><strong>252 HP / 244 SpD / 12 Spe with Careful</strong>: More special bulk can make it much more difficult for special attackers such as Flutter Mane and Chi-Yu to revenge kill Annihilape. This spread in particular has a 62.5% chance of surviving Timid Choice Specs Flutter Mane's Moonblast.</p>\n</li>\n<li>\n<p><strong>244 HP / 164 Def / 100 SpD with Careful</strong>: This EV spread avoids an OHKO from +2 Chien-Pao, which can be especially helpful with Covert Cloak blocking the flinch chance.</p>\n</li>\n<li>\n<p><strong>252 HP / 156 SpD / 100 Spe with Careful</strong>: This EV spread outspeeds Adamant Breloom while still giving Annihilape good special bulk.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Defiant",
+            "Vital Spirit"
+          ],
+          "items": [
+            "Leftovers",
+            "Sitrus Berry",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fire",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Careful"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Thanks to Final Gambit and a decent Speed stat, Choice Scarf Annihilape can cause shocking upsets by revenge killing even bulky sweepers, such as <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/gouging-fire/battle-stadium-singles/\" hreflang=\"en\">Gouging Fire</a>!</p>\n</li>\n<li>\n<p><strong>Shadow Claw versus Rage Fist</strong>: Shadow Claw is weak, but it's a reliable Ghost-type STAB move that can reliably OHKO offensive <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> even when using minimum Attack investment. Rage Fist is still preferred for being the more flexible option though, letting Annihilape potentially clean a weakened team if Final Gambit doesn't work out.</p>\n</li>\n<li>\n<p><strong>Defiant</strong>: While Vital Spirit's Sleep immunity increases Annihilape's switch-in potential, Defiant is the better ability for protecting it from being set up on by Charm Flutter Mane.</p>\n</li>\n<li>\n<p><strong>U-turn</strong> U-turn turns Annihilape into a reasonable pivot and gets it out of unpredictable lead situations against unpredictable early-game offensive foes like <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and Dragonite, though this will often lead your opponent to assume Annihilape is holding Choice Scarf even against naturally slower Pokemon.</p>\n</li>\n<li>\n<p><strong>Stealth Rock</strong>: Stealth Rock is risky on a Choice Scarf Pokemon, but it can be useful early-game if Annihilape leads against foes it commonly scares out like <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a>.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Encore is an emergency way to punish set-up Pokemon Annihilape can switch into, such as Dragonite and <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu-S</a>.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Since Annihilape often sacrifices itself with Final Gambit, Terastallization should only be done if Final Gambit isn't the path to winning the match, and is usually better with Rage Fist's increased late-game potential.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water stops Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a> from OHKOing Annihilape with Tera Water Surging Strikes, potentially turning a check into a sweeping vector with the now 200 BP Rage Fist!</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel covers Annihilape's weakness to Fairy, Psychic, and Flying, all weaknesses that some potentially faster Speed boosted threats like Booster Energy Flutter Mane, Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/latios/battle-stadium-singles/\" hreflang=\"en\">Latios</a> seek to exploit.</p>\n</li>\n<li>\n<p><strong>Normal</strong>: Tera Normal gives Annihilape an immunity to Ghost-type attacks, potentially getting it a revenge kill against a bulky Flutter Mane it wouldn't otherwise.</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: While not very useful defensively, Tera Ghost seriously juices up Rage Fist's late-game sweeping potential, while still maintaining an important Normal-type priority immunity against Dragonite, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a>, and <a href=\"/dex/sv/pokemon/entei/battle-stadium-singles/\" hreflang=\"en\">Entei</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Water",
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              },
+              {
+                "move": "Shadow Claw",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>This set's write-up has not started yet, but here's some basic info to get you started!</p>\n</li>\n<li>\n<p><strong>252 HP / 76 Atk / 180 Spe with Jolly</strong>: This spread outspeeds Jolly <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and survives Timid Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Moonblast.</p>\n</li>\n<li>\n<p><strong>244 HP / 196 SpD / 68 Spe with Careful</strong>: This survives Timid Choice Specs Flutter Mane's Tera-boosted Moonblast on all but the highest damage roll, while outspeeding Jolly <a href=\"/dex/sv/pokemon/ogerpon/battle-stadium-singles/\" hreflang=\"en\">Ogerpon</a> formes after a Speed drop from Rock Tomb.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Defiant",
+            "Vital Spirit"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Water",
+            "Fire",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Tomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 76,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 180
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 469498,
+            "username": "luisin"
+          },
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          },
+          {
+            "user_id": 613881,
+            "username": "Tachipoyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              },
+              {
+                "user_id": 336524,
+                "username": "greilmercenary9"
+              },
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 517429,
+                "username": "Adeleine"
+              },
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Annihilape finds a good niche in the metagame, as it fares well against Pokemon such as <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a>. Final Gambit deals immense damage if Annihilape cannot pick up an OHKO. Shadow Claw deals decent damage without needing to be hit like Rage Fist. Coaching has the ability to boost the power of allies like <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a>, while U-turn helps with positioning, chipping <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a> in the process. Choice Scarf allows Annihilape to outspeed and deal damage to faster foes such as <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, which faints to a Shadow Claw. Tera Grass allows it to ignore Spore and Rage Powder from <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, which can survive a Final Gambit and support its allies.</p>\n<p>Choice Scarf Annihilape struggles against strong priority moves like <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>'s Thunderclap and Rillaboom's Grassy Glide, which weaken Final Gambit. <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-g/\" hreflang=\"en\">Farigiraf</a> is also an issue, as it is a bulky Pokemon that is immune to Shadow Claw, deals great damage to Annihilape with Psychic, and has enough HP to survive a Final Gambit. Calyrex-I is a great partner for Annihilape, as Annihilape is able to either give it a Coaching boost or remove an annoying or powerful foe to Calyrex-I like Zamazenta-C or Calyrex-S with Final Gambit or Shadow Claw, respectively. In return, Calyrex-I is able to threaten Raging Bolt and Rillaboom for great damage. <a href=\"/dex/sv/pokemon/smeargle/vgc24-regulation-g/\" hreflang=\"en\">Smeargle</a> is also a favorable partner, as it can redirect attacks away from Annihilape with Follow Me, allowing for a full-HP Final Gambit.</p>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Claw",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Coaching",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 650323,
+            "username": "pengu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641757,
+                "username": "fyfyy"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Annihilape is primarily used in Regulation I to use Final Gambit to trade with an opposing Restricted Pokemon, including tanky metagame staples such as <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a>, <a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a>, and <a href=\"/dex/sv/pokemon/terapagos/vgc25-regulation-i/\" hreflang=\"en\">Terapagos</a>, and threaten <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a> and <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a> with an OHKO or heavy damage with its Ghost-type coverage attacks.</li>\n<li>Shadow Claw immediately pressures an OHKO onto Calyrex-S, whereas Rage Fist will be stronger after Annihilape is hit once; 100-Base Power Rage Fist can KO a Lunala that doesn't have Shadow Shield active. Close Combat is less committal than Final Gambit and can punish <a href=\"/dex/sv/pokemon/incineroar/vgc25-regulation-i/\" hreflang=\"en\">Incineroar</a>'s Intimidate by dealing huge damage to it after Defiant is activated. Coaching can bolster the offense of teammates such as Calyrex-I and Zamazenta-C while also making them harder to remove; thanks to its boosts, Zamazenta-C with Dauntless Shield active can OHKO Terapagos-S with Body Press the vast majority of the time, while offensive Calyrex-I can OHKO Calyrex-S with Glacial Lance. It also has the added benefit of letting Annihilape avoid Sucker Punch from <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a>. U-turn can let Annihilape bait out Terastallization such as Tera Dark from Calyrex-S and retreat to safety, preserving its health for late in the game.</li>\n<li>Choice Scarf allows Annihilape to outspeed the majority of the metagame, including Calyrex-S and <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a>, possibly OHKOing them before they move. It also enables Annihilape to quickly grant Coaching's Attack boost to teammates such as Zamazenta-C and the <a href=\"/dex/sv/pokemon/urshifu/vgc25-regulation-i/\" hreflang=\"en\">Urshifu</a> formes before they move.</li>\n<li>220 HP EVs are used to guarantee an OHKO on maximum HP Calyrex-I with a full-health Final Gambit. The extra EVs are placed into Attack to improve the chances to OHKO physically defensive Incineroar with +1 Close Combat and Lunala without Shadow Shield active with Shadow Claw. The Speed investment guarantees that Annihilape outspeeds Calyrex-S, Modest Choice Scarf <a href=\"/dex/sv/pokemon/chi-yu/vgc25-regulation-i/\" hreflang=\"en\">Chi-Yu</a>, and Adamant Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>.</li>\n<li>Tera Dark is helpful against STAB attacks from both Calyrex-S and Lunala, letting Annihilape tank their Ghost-type attacks to boost Rage Fist and threaten to return with an OHKO, while also resisting Sucker Punch from Chien-Pao and granting an immunity to Thunder Wave from Prankster <a href=\"/dex/sv/pokemon/grimmsnarl/vgc25-regulation-i/\" hreflang=\"en\">Grimmsnarl</a>. Tera Grass grants an immunity to Spore and ignores Rage Powder, preventing <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a> from saving its teammate. It also resists common priority moves such as Grassy Glide from <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a> and Thunderclap from <a href=\"/dex/sv/pokemon/raging-bolt/vgc25-regulation-i/\" hreflang=\"en\">Raging Bolt</a>, thus allowing Annihilape to bait attacks into it to boost Rage Fist or keep Final Gambit's damage output higher.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Faster threats such as Choice Scarf Miraidon, Speed Booster Energy <a href=\"/dex/sv/pokemon/flutter-mane/vgc25-regulation-i/\" hreflang=\"en\">Flutter Mane</a>, and Speed Booster Energy <a href=\"/dex/sv/pokemon/roaring-moon/vgc25-regulation-i/\" hreflang=\"en\">Roaring Moon</a> can outspeed and OHKO Annihilape before it accomplishes anything or remove enough of its health such that Final Gambit is no longer threatening. The aforementioned priority attacks from Rillaboom and Raging Bolt are likely to cut down Final Gambit's power if Annihilape is not in a position to Terastallize.</li>\n<li>Follow Me and Rage Powder from the <a href=\"/dex/sv/pokemon/ogerpon/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon</a> formes and Amoonguss generally will prevent Annihilape from targeting the Restricted Pokemon it would ideally want to trade with. Follow Me from Tera Ghost <a href=\"/dex/sv/pokemon/smeargle/vgc25-regulation-i/\" hreflang=\"en\">Smeargle</a> can make Annihilape waste its turns after locking into Final Gambit or Close Combat, forcing it to switch out and lose momentum.</li>\n<li>Final Gambit does not OHKO <a href=\"/dex/sv/pokemon/farigiraf/vgc25-regulation-i/\" hreflang=\"en\">Farigiraf</a> or Amoonguss; thus, Annihilape cannot stop them from getting off a Trick Room or Spore on its own.</li>\n<li>Calyrex-I appreciates Annihilape's Coaching boosts and ability to pressure opposing Calyrex-I and Calyrex-S with an OHKO. In turn, Calyrex-I threatens Rillaboom, Raging Bolt, Roaring Moon, and Amoonguss. Additionally, Calyrex-I provides a Trick Room mode for the team, so Annihilape can round out a faster mode.</li>\n<li>Miraidon can remove Rillaboom's Grassy Terrain, preventing it from hitting Annihilape with priority-boosted Grassy Glide, while Annihilape can OHKO Rillaboom with Final Gambit to keep Electric Terrain on the field for the game. Annihilape can also OHKO opposing Miraidon, which prevents Miraidon from fainting to their Draco Meteor and allows it to continue using Electric-type attacks. Miraidon can OHKO Farigiraf and dissuade the opponent from bringing Amoonguss due to Electric Terrain hampering Spore.</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Dark",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Claw",
+                "type": null
+              },
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Coaching",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 220,
+              "atk": 36,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 528197,
+            "username": "ProssettiVGC"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Glass cannon Annihilape is typically paired with other strong physical attackers like <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> that struggle against <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> and appreciate Coaching support. It also fits well on balance and hyper offence teams that struggle against Trick Room. Setup Annihilape is usually found on dedicated setup teams and paired with <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a>, Rillaboom, and Incineroar, which allow it to reach its maximum potential.</li>\n<li>Maushold's Beat Up immediately boosts Annihilape's Rage Fist up to 250 Base Power. Maushold also provides important support with Friend Guard, which makes Annihilape almost unassailable, and can use Follow Me to redirect attacks, especially <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>'s Shadow Ball and <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>'s Last Respects. Rillaboom gives Annihilape valuable healing via Grassy Surge and Fake Out support while also threatening Basculegion-M and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> with its powerful Grass-type STAB moves. Tailwind from Dragonite or <a href=\"/dex/sv/pokemon/whimsicott/vgc/\" hreflang=\"en\">Whimsicott</a> allows Annihilape to outspeed and OHKO key threats like <a href=\"/dex/sv/pokemon/dragapult/vgc/\" hreflang=\"en\">Dragapult</a> and Swift Swim Basculegion-M.</li>\n<li>Setup Annihilape struggles a lot against redirection from Pokemon like <a href=\"/dex/sv/pokemon/magmar/vgc/\" hreflang=\"en\">Magmar</a>, Ammonguss, and <a href=\"/dex/sv/pokemon/indeedee-f/vgc/\" hreflang=\"en\">Indeedee-F</a>, so it is often paired with Taunt users like Maushold, as well as strong spread attackers like Gholdengo and Ursaluna-B. The setup set also has problems with Grassy Seed <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>, which can survive its 250-Base Power Rage Fist and threaten it and its partners with the combination of Acrobatics and Close Combat. Gholdengo uses its defensive typing to completely counter Sneasler, while Incineroar can slow it down with Fake Out and Intimidate. Because glass cannon sets are so frail, they often lose to fast Pokemon like Choice Scarf <a href=\"/dex/sv/pokemon/indeedee/vgc/\" hreflang=\"en\">Indeedee-M</a> and Basculegion-M. Rillaboom helps with these matchups, as it removes Indeedee-M's Psychic Terrain and walls it with its Assault Vest, and it threatens Basculegion-M with Grassy Glide.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>Annihilape can function as either a supportive glass cannon or a powerful setup sweeper. Glass cannon sets are able to quickly remove key threats that pressure its teammates while also being able to boost allies' stats and stop annoying disruptive Pokemon like Incineroar. Setup sweeper sets are reliant on its team to help it boost its power to absurd levels; otherwise, it just won't be able to do enough damage.</li>\n<li>A setup Annihilape should almost always be led with Maushold, and the primary focus should be setting it up with a few uses of Bulk Up and hitting it with Maushold's Beat Up. From there, the support of Follow Me from Maushold and Fake Out from Incineroar and Rillaboom allow Annihilape to sweep through teams with its powerful Rage Fist. The glass cannon set can be used more flexibly when you want to stop opposing Trick Room users, shut down <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a>, or remove a key threat to your team. It works well as both a lead and backup option and is able to provide value in most matchups.</li>\n<li>Fast attackers heavily threaten Annihilape, especially the glass cannon variant. Strong attackers with super effective moves can immediately remove a huge chunk of Annihilape's HP, significantly weakening its Final Gambit and making it much harder for setup sets to get going. Support via Fake Out, Follow Me, and Tailwind can help Annihilape either set itself up or outspeed and KO threats. Setup Annihilape can also occasionally struggle against Defense-boosting Pokemon like Commander <a href=\"/dex/sv/pokemon/dondozo/vgc/\" hreflang=\"en\">Dondozo</a> and Iron Defense <a href=\"/dex/sv/pokemon/corviknight/vgc/\" hreflang=\"en\">Corviknight</a>, which Taunt Maushold and Haze Dragonite can help against. Taunt from Maushold can also be used to prevent Taunt or Haze from opposing users.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Glass Cannon",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Annihilape uses its high base HP paired with Final Gambit to trade with and eliminate important bulky metagame threats, such as <a href=\"/dex/sv/pokemon/porygon2/vgc/\" hreflang=\"en\">Porygon2</a>, <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>, and some <a href=\"/dex/sv/pokemon/volcarona/vgc/\" hreflang=\"en\">Volcarona</a>. Final Gambit and Taunt make Annihilape one of the most effective counters to Trick Room in the metagame, and the combination of Defiant, a Fake Out immunity, and a STAB-boosted Close Combat makes Annihilape an amazing counter against <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>.</li>\n<li>Final Gambit is the most important move in Annihilape's kit, being able to immediately remove bulky supportive and offensive threats. Coaching can be used to boost teammates like <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>. Close Combat allows Annihilape to threaten Incineroar, the <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> formes, and <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> without knocking itself out. Rage Fist can stack up Base Power to become a huge threat, as it's able to remove foes like <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/primarina/vgc/\" hreflang=\"en\">Primarina</a> in one hit at 250 Base Power. Taunt is a great counter to Trick Room setters like <a href=\"/dex/sv/pokemon/indeedee-f/vgc/\" hreflang=\"en\">Indeedee-F</a>, Porygon2, and <a href=\"/dex/sv/pokemon/farigiraf/vgc/\" hreflang=\"en\">Farigiraf</a>, as well as checking <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a>.</li>\n<li>Safety Goggles makes it easier for Annihilape to remove Pokemon like Porygon2 and Incineroar that are being supported by Amoonguss by bypassing its Spore and Rage Powder, although Amoonguss can still survive Final Gambit. The Focus Sash makes it easier for Annihilape to trade damage with <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a>, and opposing Annihilape, ensuring Annihilape can tank a hit and gain power on Rage Fist.</li>\n<li>Tera Fire allows Annihilape to take on Volcarona, Gholdengo, <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a>, and Rillaboom, as well as sun teams using <a href=\"/dex/sv/pokemon/typhlosion-hisui/vgc/\" hreflang=\"en\">Hisuian Typhlosion</a> and <a href=\"/dex/sv/pokemon/torkoal/vgc/\" hreflang=\"en\">Torkoal</a>. Tera Fire also protects Annihilape from getting burned, but makes it weaker to <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion</a> and <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a>. Tera Water is a solid defensive Tera type that helps Annihilape take on Gholdengo, Pelipper, and Basulegion-M better, removing its weaknesses and granting resistances to the Water-type moves commonly seen on rain teams, though this gives it a weakness to Rillaboom's Grass-type moves.</li>\n<li>The 100 HP EVs allow Final Gambit to OHKO Volcarona, Porygon2, and some Rillaboom. The Speed investment lets Annihilape outspeed Rillaboom, Gholdengo, and Archaludon. The EVs in Attack allow Annihilape to OHKO all Incineroar with Close Combat after a Defiant boost and OHKO Basculegion-M with a 100-Base Power Rage Fist.</li>\n<li>The immediate value of the glass cannon set is amazing to support its partners and threaten immediate knockouts, although it lacks the ability to completely run through foes that setup Annihilape has. This set also lacks the bulk and support to survive for long, so it struggles more against faster threats like Basculegion-M and Tera Flying Sneasler.</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Safety Goggles",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Fire",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              },
+              {
+                "move": "Coaching",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 100,
+              "atk": 156,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Fast Setup Sweeper",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>This set allows Annihilape to boost its stats with Bulk Up while gaining Base Power on Rage Fist, giving it the power it needs to sweep through teams. Its Ghost typing and Defiant ability help Annihilape roll over teams unchecked, as it can't be slowed down by Fake Out or Intimidate. It has a very strong matchup against many slower teams that try to pivot to <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>, creating pockets through their passive switches to set up.</li>\n<li>Rage Fist easily reaches 250 Base Power, giving it an incredible option to OHKO almost any Pokemon that doesn't resist Ghost. Drain Punch hits Pokemon that Rage Fist is ineffective against like Incineroar and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc/\" hreflang=\"en\">Ursaluna-B</a> for big damage while giving Annihilape significant HP recovery, which makes it extremely difficult to knock out. Bulk Up gives Annihilape an Attack boost that is critical for knocking Ammonguss out with a 250-Base Power Rage Fist; it also increases Annihilape's physical bulk enough to give it a chance of surviving 200-Base Power Last Respects from <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>.</li>\n<li>Leftovers is more useful in matchups where Annihilape wants to sit on the field the whole game and recover consistently, while Sitrus Berry allows Annihilape to trade damage more aggressively against Pokemon like Ursaluna-B and opposing Annihilape.</li>\n<li>Tera Fire makes it easier for Annihilape to beat balance teams—giving it better matchups against Rillaboom, <a href=\"/dex/sv/pokemon/volcarona/vgc/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a> while also making it immune to burns from Incineroar's Will-O-Wisp and Volcarona's and <a href=\"/dex/sv/pokemon/magmar/vgc/\" hreflang=\"en\">Magmar</a>'s Flame Body. Tera Water gives Annihilape a better matchup against teams centered around rain or sun, granting it crucial resistances to Basculegion-M's Wave Crash and <a href=\"/dex/sv/pokemon/charizard/vgc/\" hreflang=\"en\">Charizard</a>'s Heat Wave as well as removing its weaknesses to <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a>'s Hurricane and Basculegion-M's Last Respects.</li>\n<li>180 HP EVs optimize the amount of healing that Annihilape gets from Leftovers and Grassy Terrain while giving it enough bulk to survive key attacks like <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>'s Acrobatics and Ursaluna-B's Blood Moon with <a href=\"/dex/sv/pokemon/maushold/vgc/\" hreflang=\"en\">Maushold</a>'s Friend Guard active. The Attack EVs allow Annihilape to OHKO <a href=\"/dex/sv/pokemon/tyranitar/vgc/\" hreflang=\"en\">Tyranitar</a> with Drain Punch, as well as giving it a good chance to OHKO most Rillaboom with 250-Base Power Rage Fist. Maximum Speed allows Annihilape to run over slower balance teams, letting it outspeed Gholdengo, Rillaboom, and Volcarona in order to OHKO them.</li>\n<li>Although this set lacks the flexibility of glass cannon Annihilape, it has the ability to sweep through teams with proper support. This set is more reliant on its partners supporting it, and without proper support or boosts, it can be a very lackluster attacker.</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Leftovers",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Fire",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 180,
+              "atk": 68,
+              "def": 4,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 696399,
+            "username": "R0gue_VGC"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Taunt + Bulk Up",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Punching Glove"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Rest + Bulk Up",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Chesto Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 108,
+              "spe": 152
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Combat Torque",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              },
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Final Gambit",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              },
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              },
+              {
+                "move": "Mach Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Offensive Stealth Rock",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Spell Tag",
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              },
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Inh",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Spinblocker (Garganacl)",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Purifying Salt"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Salt Cure",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft order</strong>: Round 4 onwards</p>\n<p><strong>Price Range</strong>: 12-13 points</p>\n<p><strong>Tera Price Range</strong>: 14-15 points</p>\n<p><strong>Overview</strong>: Annihilape's good bulk, typing, and access to Rage Fist make it a uniquely deadly attacker, capable of using non-lethal attacks from foes to become more immediately threatening. It can make for a great setup sweeper with Bulk Up or a fast revenge killer with Choice Scarf while always having the ability to punish common pivoting moves with Rage Fist's damage boosts. Annihilape also has a uniquely anti-entry hazard removal profile, as it can both spinblock and discourage the use of Defog from foes with Defiant. However, despite its near-unresisted STAB combination, its only average Attack and Speed mean that without setup or Rage Fist boosts, it can lack the means to immediately threaten foes and can be taken advantage of itself by faster wallbreakers and disrupters.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Bulky Setup Sweeper</strong>: With Bulk Up and recovery from Drain Punch, these sets aim to stay on the field for a long period of time and force multiple attacks on it to empower Rage Fist. To add to Annihilape's staying power, it can also heavily invest into Special Defense thanks to Bulk Up, while greatly enjoying Terastallization to bolster its defensive profile. Since it can usually rely on the coverage of its STAB moves, utility options like Taunt, Substitute, and Encore are good options to prevent various forms of disruption from impeding Annihilape, or it can use Rest + Chesto Berry to stay healthy and remove status effects.</p>\n<p><strong>Revenge Killer</strong>: Annihilape can utilize a Choice Scarf, along with its powerful STAB moves and coverage, to pick off offensive foes while using U-turn to generate momentum for its team. It can also switch in on weak attacks or pivoting moves to build up Rage Fist damage throughout the match.</p>\n<p><strong>Bulky Utility</strong>: By leveraging its bulk in tandem with its utility movepool, Annihilape can lean into a more supportive role for its team while still wielding Rage Fist as an offensive tool. With Leftovers or Assault Vest, these sets can defensively check certain foes, such as users of Rapid Spin, and either disrupt them with moves like Taunt and Encore or punish their other attacks with a boosted Rage Fist. Other utility in Stealth Rock and U-turn can gain momentum on opposing switches that are in response to Annihilape.</p>\n<p><strong>Dedicated Lead</strong>: As a lead, Annihilape can set up Stealth Rock and prevent foes from doing the same with Taunt, which also negates most opposing means of hazard removal. It can then either fire off potentially boosted Rage Fists or immediately bring in a teammate with U-turn or Final Gambit.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB moves</strong>: Rage Fist, Drain Punch, Close Combat, Low Kick</p>\n<p><strong>Setup Moves</strong>: Bulk Up</p>\n<p><strong>Utility Moves</strong>: Taunt, Substitute, Encore, Rest, U-turn, Stealth Rock, Sleep Talk, Protect, Brick Break</p>\n<p><strong>Coverage</strong>: Gunk Shot, Earthquake, Ice Punch, Stone Edge, Poison Jab, Fire Punch, Throat Chop, Seed Bomb, Thunder Punch, Acrobatics, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Final Gambit</strong>: Though it usually wants to stay on the field for a longer period of time without immediately trading itself, Annihilape can use Final Gambit mostly on lead sets to guarantee a KO on a specific target and immediately get in another teammate.</p>\n<p><strong>Endure</strong>: Endure allows Annihilape to survive a hit and boost Rage Fist; it can also be paired with Salac Berry as a Speed-boosting option or Custap Berry for a surprise trade.</p>\n<p><strong>Shadow Claw</strong>: Shadow Claw can be a passable alternative on Choice Scarf sets since they're less guaranteed to have access to boosted Rage Fists or Ghost-type Tera Blast.</p>\n<h3>Common Items</h3>\n<p><strong>Leftovers</strong>: Since Annihilape aims to stay on the field for a long time on Bulk Up sets, Leftovers are the best option to bolster its longevity, especially when paired with Substitute.</p>\n<p><strong>Chesto Berry</strong>: Chesto Berry is paired with Rest on Bulk Up sets as an alternative method of healing, as the immediate health and status recovery can make Annihilape difficult to take down if it's already accrued many stat boosts.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf can turn Annihilape into an unexpectedly fast revenge killer, letting it outspeed and pick off nearly all unboosted offensive foes while generating momentum for its team.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage-boosting Items</strong>: Items like Spell Tag and Choice Band can supplement Annihilape's initial power in certain matchups.</p>\n<p><strong>Assault Vest</strong>: Assault Vest helps Annihilape tank special attacks better for easier Rage Fist boosting, at the cost of its setup and utility moves.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry is an alternative to Leftovers that can give a burst of healing in more immediately threatening matchups.</p>\n<p><strong>Mental Herb</strong>: Mental Herb is a strong option against faster Pokemon with Taunt or Encore so that it gets more opportunities to set up or doesn't get stuck using Bulk Up.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots can be used to stave off hazard damage on sets that aim to switch in often during the game for Rage Fist boosting.</p>\n<p><strong>Punching Glove</strong>: Punching Glove allows Annihilape to avoid adverse contact effects primarily on its two most common moves in Rage Fist and Drain Punch while slightly boosting them.</p>\n<p><strong>Air Balloon</strong>: Air Balloon helps Annihilape stave off some of the most popular Rapid Spin users in the format in <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, often forcing them to first click a weaker move that can guarantee an easier Rage Fist boost.</p>\n<p><strong>Lum Berry</strong>: Lum Berry can be used over Chesto Berry on non-Rest Annihilape sets that still want a burst of status healing.</p>\n<p><strong>Custap Berry</strong>: On lead sets, Custap Berry can take advantage of Annihilape getting worn down by multiple hits to surprise a faster foe with a high-powered Rage Fist, especially in tandem with Endure.</p>\n<p><strong>Resistance Berries</strong>: Resistance berries can bolster Annihilape's bulk in the face of attackers that actually threaten to KO it with a super-effective move, allowing it to survive and fire back hard with Rage Fist.</p>\n<p><strong>Weakness Policy</strong>: In situations where Annihilape is healthy enough to stomach a super-effective hit, the combination of Weakness Policy and Rage Fist can grant it immediate firepower with which it can usually KO back any opposing attacker.</p>\n<h3>Tera</h3>\n<p>Annihilape can be a good Tera Captain, since it greatly benefits from Tera as an option, but it has notable flaws compared to higher-priced ones, especially its lack of initial damage and mediocre Speed, that mostly make it unfavorable as at least a primary Tera Captain. If made a Tera Captain, Annihilape will primarily use defensive types like Tera Fairy, Water, Steel, and Poison to ease setup on its Bulk Up sets, usually forcing foes to hit it neutrally and allowing more Rage Fist boosts. It can also use its own STAB typings for a more offensive approach, usually on Choice item sets, with Tera Ghost often being the most potent for either giving access to a more immediate Ghost-type STAB attack in Tera Blast or further boosting Rage Fist to incredible heights, though Tera Fighting can also be good to spam Annihilape's most immediately powerful move in Close Combat.</p>\n<h3>Draft Strategy</h3>\n<p>Annihilape primarily acts as a setup sweeper that seeks out passive foes or weaker attacks to boost up on, so it relies on teammates to both handle stronger threats and provide it the opportunities it desires. Outside of sweeping, Annihilape can also support its team, especially other paired high- to mid-tier Tera Captains like <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/mew/draft/\" hreflang=\"en\">Mew</a>, or <a href=\"/dex/sv/pokemon/iron-crown/draft/\" hreflang=\"en\">Iron Crown</a>, with its various forms of utility, mostly in the form of it being an ideal spinblocker for any laid hazards, as well as potentially bringing in allies with pivoting options or wearing down foes with Rage Fist.</p>\n<p><strong>Entry Hazard Setters</strong>: Annihilape appreciates the entry hazards set by the likes of <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> to put extra pressure on opponents that try to play around Rage Fist with switching, while Annihilape can keep said hazards up with its spinblocking and Defog-deterrent capabilities.</p>\n<p><strong>Fast Offensive Pivots</strong>: Fast offensive teammates like <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a> can provide the speed to a team that Annihilape otherwise lacks and bring it in on the passive walls they usually draw in.</p>\n<p><strong>Grounded Poison-types</strong>: Toxic Spikes can greatly hinder the effectiveness of non-Rest Annihilape sets, as it almost never wants to run Heavy-Duty Boots, so allies like <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/fezandipiti/draft/\" hreflang=\"en\">Fezandipiti</a> are appreciated to easily absorb them as well as handle the Fairy-types Annihilape might struggle against.</p>\n<p><strong>Healing Wish Users</strong>: As a bulky setup sweeper, Annihilape greatly appreciates the second chance given by Healing Wish-using allies like <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a>, <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/shaymin/draft/\" hreflang=\"en\">Shaymin</a> to potentially heal off any accrued damage or status while still wielding any number of Rage Fist boosts to sweep with.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Physically Defensive Foes</strong>: Bulkier walls like <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/mandibuzz/draft/\" hreflang=\"en\">Mandibuzz</a>, and <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, while they usually cannot handle Annihilape by themselves, can easily tank its initial attacks and utilize Rocky Helmet to chip away at it without boosting Rage Fist while also using slow pivot moves as needed to bring in a more threatening teammate.</p>\n<p><strong>Fast Disruption</strong>: Annihilape's reliance on either setup or initially weak moves can make it vulnerable to Taunt, Encore, or Trick from the likes of <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a>.</p>\n<p><strong>Strong Wallbreakers</strong>: Wallbreakers like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/draft/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a> can blow through Annihilape's bulk with enough prior chip damage.</p>\n<p><strong>Status</strong>: The likes of burn, poison, and paralysis can greatly hinder Annihilape's sweeping capability on any set that lacks Rest. Even on sets that carry it, Annihilape can still be forced to burn its Chesto Berry early on to solely heal off the status, making it more exploitable later in the game.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 582038,
+            "username": "MonkeBoi215"
+          },
+          {
+            "user_id": 529077,
+            "username": "Furyy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 657717,
+                "username": "Big Pharma"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulk Up",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Annihilape is a decent setup sweeper thanks to its good Attack and defensive stats, incredible STAB combination, and incredible signature move in Rage Fist. Taunt is important to shut down walls like <a href=\"/dex/sv/pokemon/quagsire/ubers-uu/\" hreflang=\"en\">Quagsire</a> and <a href=\"/dex/sv/pokemon/solgaleo/ubers-uu/\" hreflang=\"en\">Solgaleo</a> that would status or phaze Annihilape. Tera Water gives Annihilape a valuable defensive typing, allowing it to set up on Pokemon like <a href=\"/dex/sv/pokemon/chi-yu/ubers-uu/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/palafin/ubers-uu/\" hreflang=\"en\">Palafin</a>. Tera Fire is an option to provide the ability to set up on Pokemon like <a href=\"/dex/sv/pokemon/kyurem-white/ubers-uu/\" hreflang=\"en\">Kyurem-W</a> and the aforementioned Chi-Yu and a valuable immunity to Will-O-Wisp, although it comes at the cost of a Stealth Rock weakness. Tera Fairy makes Annihilape immune to Dragon-type attacks, notably allowing it to not get phazed by Dragon Tail from Pokemon like <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a> and <a href=\"/dex/sv/pokemon/garchomp/ubers-uu/\" hreflang=\"en\">Garchomp</a>. Annihilape generally fits on teams looking for a bulky wincon or stallbreaker. Annihilape can struggle against Pokemon like <a href=\"/dex/sv/pokemon/palkia-origin/ubers-uu/\" hreflang=\"en\">Palkia-O</a>, <a href=\"/dex/sv/pokemon/arceus-dark/ubers-uu/\" hreflang=\"en\">Arceus-Dark</a>, and Giratina that can cripple it with status, so Pokemon that can take these threats on like Solgaleo and <a href=\"/dex/sv/pokemon/magearna/ubers-uu/\" hreflang=\"en\">Magearna</a> can be nice to have. If Annihilape is used on hyper offense teams, dual screens support from <a href=\"/dex/sv/pokemon/ninetales-alola/ubers-uu/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/regieleki/ubers-uu/\" hreflang=\"en\">Regieleki</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/ubers-uu/\" hreflang=\"en\">Deoxys-S</a> to help it safely set up can be nice to have.</p>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water",
+            "Fire",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 8,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 610920,
+                "username": "vesp"
+              },
+              {
+                "user_id": 642468,
+                "username": "Finchely"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Choice Band",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Choice Band gives Annihilape the extra power it needs to take down bulky threats like non-Air Balloon <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a>, <a href=\"/dex/sv/pokemon/garchomp/1v1/\" hreflang=\"en\">Garchomp</a>, non-Chople Berry <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/1v1/\" hreflang=\"en\">Ursaluna-B</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a>.</li>\n<li>Close Combat enables Annihilape to beat <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/chien-pao/1v1/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/registeel/1v1/\" hreflang=\"en\">Registeel</a>, and <a href=\"/dex/sv/pokemon/urshifu/1v1/\" hreflang=\"en\">Urshifu-S</a>.</li>\n<li>Earthquake helps Annihilape beat non-Choice Scarf Volcanion, non-Air Balloon <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/iron-moth/1v1/\" hreflang=\"en\">Iron Moth</a>, and Assault Vest <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a>.</li>\n<li>Outrage enables Annihilape to beat Raging Bolt, Substitute <a href=\"/dex/sv/pokemon/roaring-moon/1v1/\" hreflang=\"en\">Roaring Moon</a>, and Garchomp.</li>\n<li>Gunk Shot allows Annihilape to beat non-Custap Berry <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a>.</li>\n<li>This EV Spread enables Annihilape to live a Modest Special Attack Booster Energy Raging Bolt Draco Meteor as well as an Acrobatics from Jolly Attack Booster Energy Roaring Moon. The Speed investment allows Annihilape to outspeed maximum Speed invested Primarina, Sylveon, and Hisuian Goodra.</li>\n<li>Annihilape should use Outrage on the first turn against Roaring Moon, since Roaring Moon can use Substitute and OHKO with Acrobatics when Annihilape is at -1 Defense due to Close Combat.</li>\n<li>Annihilape loses to Pokemon like <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a> and Fairy-types like Custap Berry Primarina, Custap Berry Sylveon, <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a>. It is advised that Annihilape be used alongside a Steel-type Pokemon like Assault Vest Metagross to address these weaknesses.</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 184,
+              "atk": 192,
+              "def": 116,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Weakness Policy",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Weakness Policy Annihilape faces stiff competition from <a href=\"/dex/sv/pokemon/urshifu/1v1/\" hreflang=\"en\">Urshifu-S</a> as a Fighting-type <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a> check. Yet, in combination with the natural ambiguity that Annihilape has due its set variety, it carves out a legitimate niche in the metagame with better matchups against common Urshifu-S counters such as Choice Band <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a> and Sitrus Berry Will-O-Wisp <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a>.</li>\n<li>Rage Fist is mandatory in order to KO Iron Crown if it opts to use Tachyon Cutter.</li>\n<li>Low Sweep allows Annihilape to outspeed Timid Iron Crown and then follow up with a boosted Rage Fist or Encore while still being strong enough to 2HKO threats such as <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a> and Urshifu-S.</li>\n<li>Low Sweep + Encore is a very potent anti-setup combination in general, effectively locking down <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/manaphy/1v1/\" hreflang=\"en\">Manaphy</a> and, when combined with Bulk Up, <a href=\"/dex/sv/pokemon/landorus-therian/1v1/\" hreflang=\"en\">Landorus-T</a>.</li>\n<li>The defensive EVs provide the best odds to survive Psychic and Psyshock from Special Attack Booster Energy Iron Crown.</li>\n<li>Due to the strength of this set against stall Pokemon, Choice item users such as <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, Ursaluna, and Volcanion synergize well with Annihilape.</li>\n<li>While proficient against its usual checks, this specific Annihilape set will often get overwhelmed by powerful neutral attackers such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a>. <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/haxorus/1v1/\" hreflang=\"en\">Haxorus</a> both make good partners, as they can handle threats to Annihilape like Primarina and <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a>, and their respective extreme Special Defense and Attack stats make them hard to blanket check.</li>\n</ul>",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Weakness Policy"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Sweep",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 8,
+              "def": 160,
+              "spa": 0,
+              "spd": 88,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Fast Choice Band",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Claw",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              },
+              {
+                "move": "Fire Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Fast Bulk Up",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Sweep",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Defensive Bulk Up",
+          "pokemon": "Annihilape",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rage Fist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Counter",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 84,
+              "atk": 156,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 375405,
+            "username": "crow crumbs"
+          },
+          {
+            "user_id": 572752,
+            "username": "Rec"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 579035,
+                "username": "glitched"
+              },
+              {
+                "user_id": 670315,
+                "username": "Mentality"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 670315,
+                "username": "Mentality"
+              },
+              {
+                "user_id": 149971,
+                "username": "Nuxl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 697682,
+                "username": "earthfromthefuture"
+              },
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Assurance",
+    "Beat Up",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Close Combat",
+    "Coaching",
+    "Counter",
+    "Covet",
+    "Cross Chop",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Earthquake",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Final Gambit",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Energy",
+    "Focus Punch",
+    "Fury Swipes",
+    "Giga Impact",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Beam",
+    "Ice Punch",
+    "Lash Out",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Metronome",
+    "Night Shade",
+    "Night Slash",
+    "Outrage",
+    "Overheat",
+    "Phantom Force",
+    "Poison Jab",
+    "Protect",
+    "Rage Fist",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Scratch",
+    "Screech",
+    "Seed Bomb",
+    "Seismic Toss",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Shadow Punch",
+    "Sleep Talk",
+    "Smack Down",
+    "Spite",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swagger",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Uproar",
+    "U-turn",
+    "Vacuum Wave"
+  ]
+}

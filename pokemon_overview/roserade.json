@@ -1,0 +1,184 @@
+{
+  "name": "Roserade",
+  "alias": "roserade",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": [
+    60,
+    70,
+    65,
+    125,
+    105,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Roserade",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Technician",
+            "Natural Cure"
+          ],
+          "items": [
+            "Life Orb",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              },
+              {
+                "move": "Sleep Powder",
+                "type": null
+              },
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Sleep Powder",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Roserade",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>136 Speed EVs let Roserade outspeed Adamant <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-ru/\" hreflang=\"en\">Tapu Bulu</a>.</p>",
+          "abilities": [
+            "Natural Cure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Sleep Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 120,
+              "spa": 0,
+              "spd": 0,
+              "spe": 136
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

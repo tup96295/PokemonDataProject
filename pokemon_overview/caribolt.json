@@ -1,0 +1,188 @@
+{
+  "name": "Caribolt",
+  "alias": "caribolt",
+  "types": [
+    "Grass",
+    "Electric"
+  ],
+  "stats": [
+    84,
+    106,
+    82,
+    77,
+    80,
+    106
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "<h4>Checks and Counters</h4>\n<p><strong>Grass-types</strong>: Grass-types like <a href=\"/dex/sv/pokemon/jumbao/cap/\" hreflang=\"en\">Jumbao</a>, <a href=\"/dex/sv/pokemon/pyroak/cap/\" hreflang=\"en\">Pyroak</a>, and <a href=\"/dex/sv/pokemon/amoonguss/cap/\" hreflang=\"en\">Amoonguss</a> wall Caribolt's STAB combination, forcing it out.</p>\n<p><strong>Faster Attackers</strong>: Before Caribolt uses Rapid Spin, Pokemon like <a href=\"/dex/sv/pokemon/cinderace/cap/\" hreflang=\"en\">Cinderace</a> and Ice Beam <a href=\"/dex/sv/pokemon/greninja/cap/\" hreflang=\"en\">Greninja</a> can outspeed and OHKO it. Fast Dragon-types like <a href=\"/dex/sv/pokemon/dragapult/cap/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/roaring-moon/cap/\" hreflang=\"en\">Roaring Moon</a>, and <a href=\"/dex/sv/pokemon/astrolotl/cap/\" hreflang=\"en\">Astrolotl</a> can switch in to check Caribolt once, but they cannot do so if Caribolt reaches both +1 Speed and +2 Attack.</p>\n<p><strong>Strong Priority Attacks</strong>: Strong priority attacks from <a href=\"/dex/sv/pokemon/kingambit/cap/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/dragonite/cap/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/revenankh/cap/\" hreflang=\"en\">Revenankh</a> can circumvent Caribolt's Speed boosts and KO it after it has taken some chip damage from Double-Edge.</p>",
+      "movesets": [
+        {
+          "name": "talahbolt (Swords Dance)",
+          "pokemon": "Caribolt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h5>Set Details</h5>\n<p>Caribolt is a nuclear wallbreaker for offensive teams. Double-Edge with Galvanize can break through even the tier's most stalwart walls, 2HKOing Pokemon like <a href=\"/dex/sv/pokemon/skeledirge/cap/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/garganacl/cap/\" hreflang=\"en\">Garganacl</a> with ease, especially once Caribolt Terastallizes. Horn Leech provides some modicum of recovery to compensate for Double-Edge's recoil. Rapid Spin both increases Caribolt's Speed, giving it sweeping potential, and supports teammates weak to Stealth Rock like <a href=\"/dex/sv/pokemon/baxcalibur/cap/\" hreflang=\"en\">Baxcalibur</a> and <a href=\"/dex/sv/pokemon/iron-moth/cap/\" hreflang=\"en\">Iron Moth</a>, allowing them to forego Heavy-Duty Boots. Leftovers helps make up for Double-Edge's recoil alongside Horn Leech, while Magnet powers up Caribolt's Electric-type attacks even further. A Jolly nature is preferred to outspeed Choice Scarf <a href=\"/dex/sv/pokemon/jumbao/cap/\" hreflang=\"en\">Jumbao</a> at +1 Speed and <a href=\"/dex/sv/pokemon/krilowatt/cap/\" hreflang=\"en\">Krilowatt</a> at +0, but Adamant is an option to deal as much damage as possible, supporting its hyper offense teammates. Tera Grass is an option to turn Ground-types like <a href=\"/dex/sv/pokemon/equilibra/cap/\" hreflang=\"en\">Equilibra</a> and <a href=\"/dex/sv/pokemon/great-tusk/cap/\" hreflang=\"en\">Great Tusk</a> into setup fodder, but Caribolt's main focus should be on wallbreaking as much as possible for its teammates.</p>\n<p>Caribolt is best utilized on hyper offense teams, which appreciate its incredible wallbreaking ability. Stealth Rock-weak Pokemon like Iron Moth, Baxcalibur, and Venomicon-E appreciate Caribolt removing the hazard, allowing Iron Moth and Baxcalibur to run more offensive items over Heavy-Duty Boots. Other physical sweepers like Dragon Dance <a href=\"/dex/sv/pokemon/roaring-moon/cap/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/dragonite/cap/\" hreflang=\"en\">Dragonite</a> love Caribolt powering through Unaware walls like Skeledirge and <a href=\"/dex/sv/pokemon/arghonaut/cap/\" hreflang=\"en\">Arghonaut</a>; Roaring Moon pairs particularly well with Caribolt, as it can threaten the Grass-types like Jumbao and <a href=\"/dex/sv/pokemon/amoonguss/cap/\" hreflang=\"en\">Amoonguss</a> that give Caribolt trouble with Tera Flying + Acrobatics. This love is shared by special sweepers like <a href=\"/dex/sv/pokemon/iron-valiant/cap/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/hatterene/cap/\" hreflang=\"en\">Hatterene</a>, which need Skeledirge off the table before attempting a sweep. Caribolt appreciates entry hazards weakening physically bulky Ground-types like Great Tusk and <a href=\"/dex/sv/pokemon/ting-lu/cap/\" hreflang=\"en\">Ting-Lu</a>—which can beat Caribolt if it Terastallizes—into KO range of its attacks, so pairing it with a dedicated lead like <a href=\"/dex/sv/pokemon/greninja/cap/\" hreflang=\"en\">Greninja</a> or <a href=\"/dex/sv/pokemon/meowscarada/cap/\" hreflang=\"en\">Meowscarada</a> is suggested.</p>",
+          "abilities": [
+            "Galvanize"
+          ],
+          "items": [
+            "Leftovers",
+            "Magnet"
+          ],
+          "teratypes": [
+            "Electric",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Double-Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Horn Leech",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 277988,
+            "username": "dex"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 227784,
+                "username": "snake"
+              },
+              {
+                "user_id": 251944,
+                "username": "spoo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 517429,
+                "username": "Adeleine"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Body Slam",
+    "Boomburst",
+    "Brick Break",
+    "Bulk Up",
+    "Bullet Seed",
+    "Charge Beam",
+    "Charm",
+    "Confuse Ray",
+    "Double-Edge",
+    "Double Kick",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electroweb",
+    "Endeavor",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Flash Cannon",
+    "Frenzy Plant",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Helping Hand",
+    "Horn Leech",
+    "Hyper Beam",
+    "Hyper Drill",
+    "Hyper Voice",
+    "Knock Off",
+    "Leafage",
+    "Leaf Storm",
+    "Leech Seed",
+    "Leer",
+    "Magnet Rise",
+    "Metronome",
+    "Power Whip",
+    "Present",
+    "Protect",
+    "Quick Attack",
+    "Rapid Spin",
+    "Razor Leaf",
+    "Rest",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Solar Beam",
+    "Solar Blade",
+    "Spark",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Swift",
+    "Swords Dance",
+    "Synthesis",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Trailblaze",
+    "Uproar",
+    "Volt Switch",
+    "Wild Charge",
+    "Zap Cannon"
+  ]
+}

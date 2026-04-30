@@ -1,0 +1,349 @@
+{
+  "name": "Marshadow",
+  "alias": "marshadow",
+  "types": [
+    "Fighting",
+    "Ghost"
+  ],
+  "stats": [
+    90,
+    125,
+    80,
+    90,
+    90,
+    125
+  ],
+  "strategies": [
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "All-Out Attacker",
+          "pokemon": "Marshadow",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>A combination of great offensive stats, almost unresisted STAB moves, and great coverage make Marshadow a powerful wallbreaker in offensive teams, capable of overwhelming many foes including <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, and <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a>. This set is best suited for offensive teams looking for a fast and powerful wallbreaker and cleaner.</p>\n</li>\n<li>\n<p>Spectral Thief steals the opponent's boosts, which is useful for scaring out targets such as Calm Mind <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and Coil Zygarde. It also bypasses Substitute, which is valuable for baiting and eliminating foes like Swords Dance Arceus-Ground attempting to use Marshadow as setup fodder. Alternatively, Ice Punch eliminates defensive Zygarde, as Poltergeist followed up by Ice Punch has a high chance to KO while preventing transformation if Zygarde switches out to scout. Otherwise, Rock Tomb deals with <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> and is a great tool to deny <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>'s attempts to setup. Hidden Power Ice alongside a Naive nature always OHKOs defensive Zygarde after Spectral Thief's damage as well as Mega Salamence.</p>\n</li>\n<li>\n<p>Poltergeist is Marshadow's strongest Ghost-type STAB move, capable of 2HKOing foes such as defensive Necrozma-DM and Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>.</p>\n</li>\n<li>\n<p>Low Kick is preferred over Close Combat due to the heavy weight of most foes Marshadow will face, reaching its maximum base power of 120 against staples like <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a>, Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, and Necrozma-DM, making it a consistent STAB move without drawbacks.</p>\n</li>\n<li>\n<p>Shadow Sneak is able to finish weakened targets that are otherwise faster than Marshadow like <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, and <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>.</p>\n</li>\n<li>\n<p>Tera Ghost is the best option on Marshadow, further boosting its STAB options and allowing it to 2HKO defensive Arceus-Ground and Primal Groudon with Poltergeist after Stealth Rock damage, and also ensuring it always OHKOs Ultra Necrozma after Stealth Rock with Shadow Sneak. Losing its weakness to Fairy-type attacks is also useful against <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>, allowing Marshadow to survive its Judgment and use another attack. Losing its resistance to Dark-type can be detrimental, however, as <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a> can threaten to OHKO Marshadow with Sucker Punch.</p>\n</li>\n<li>\n<p>Life Orb maximizes its damage output without locking its moves like Choice Band. Due to the recoil, Marshadow is at risk of being chipped rapidly, so a Spell Tag can be used instead. The loss in power compared to Life Orb is significant, however, making Marshadow unable to KO many key targets, like Arceus-Fairy, Arceus-Ground, and Necrozma-DM.</p>\n</li>\n<li>\n<p>It is particularly good to bring Marshadow early-game because it can threaten foes such as Arceus-Dark, Necrozma-DM, and Ho-Oh with its STAB moves and coverage. Marshadow is valuable because its moves are particularly hard to switch into, allowing it to make progress against most teams if it's well positioned.</p>\n</li>\n<li>\n<p>Entry hazards and passive damage are extremely valuable for this set, making entry hazards setters such as Primal Groudon and Eternatus valuable teammates. These Pokemon also form a defensive core that can deal with utility Arceus-Fairy, a foe that Marshadow has trouble breaking through without using Terastallization.</p>\n</li>\n<li>\n<p>Setup sweepers like Arceus-Ground, Arceus-Fairy, and Ultra Necrozma appreciate Marshadow's ability to chip key walls like Zygarde, Necrozma-DM, and Arceus-Dark, so they can clean a weakened team. In return, Arceus-Ground and Ultra Necrozma can handle Primal Groudon, while Arceus-Fairy can deal with Choice Scarf Yveltal, two Pokemon that Marshadow has trouble threatening.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Technician"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spectral Thief",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              },
+              {
+                "move": "Spectral Thief",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Naive"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Marshadow",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With Bulk Up increasing its already great Attack stat; a STAB combination no viable Pokemon resists; great STAB options in Poltergeist, Low Kick, Spectral Thief; and a strong priority move in Shadow Sneak further boosted by Technician, Bulk Up Marshadow is an incredible mid- to late-game wallbreaker and cleaner that can threaten a great majority of the metagame.</p>\n</li>\n<li>\n<p>Spectral Thief is a fantastic tool that not only steals boosts from common boosted threats such as Coil <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, the many Calm Mind <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> variants, and slow Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a> variants but also threatens these targets for huge damage. Alternatively, Poltergeist can be used for its higher Base Power; this comes in handy with Tera Ghost, as it can OHKO defensive Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a> at +1 after Stealth Rock damage for example.</p>\n</li>\n<li>\n<p>Low Kick perfectly complements Marshadow's Ghost-type attacks and forms a nearly unresisted STAB combination. Due to the heavy weight of Pokemon in Ubers, Low Kick is preferred to Close Combat because it has no drawbacks while still having 120 Base Power against common targets like Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, Primal Kyogre, Arceus, and <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a>.</p>\n</li>\n<li>\n<p>Shadow Sneak is a powerful tool that can eliminate Speed-boosted and naturally faster targets such as <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a>, as well as weakened Dragon Dance <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>.</p>\n</li>\n<li>\n<p>Tera Ghost is the premier choice because it further amplifies Marshadow's damage output. In particular, it allows Poltergeist to OHKO defensive Necrozma-DM at +1, OHKO Dragon Dance Zygarde at +1 and—after Stealth Rock damage—almost always 2HKO defensive <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a> when unboosted. Turning into a pure Ghost-type also comes in handy in order to tank one hit from the likes of Arceus-Fairy and Ultra Necrozma.</p>\n</li>\n<li>\n<p>Life Orb is the best item in order to maximize the damage Marshadow can deal. Spell Tag can also be used, granting its Ghost-type attacks a 20% damage boost with no drawbacks. The drop in power is significant, however; for example, Spell Tag Marshadow is not guaranteed to 2HKO defensive Primal Groudon at +1 with Poltergeist.</p>\n</li>\n<li>\n<p>A Jolly nature is generally recommended in order to ensure that Marshadow always outspeeds Arceus formes as well as <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>. An Adamant nature further boosts Marshadow's Attack, giving it a chance to OHKO defensive Necrozma-DM at +1 with Poltergeist.</p>\n</li>\n<li>\n<p>Marshadow likes entry hazards for their ability to hinder common switch-ins such as Arceus-Fairy, Primal Groudon, and <a href=\"/dex/sv/pokemon/zygarde-complete/national-dex-ubers/\" hreflang=\"en\">Zygarde-C</a>; thus, Spikes support from Primal Groudon and Toxic Spikes support from <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> are welcome.</p>\n</li>\n<li>\n<p>Marshadow hates switching in on entry hazards, as their damage racks up quickly when factoring its poor bulk, lack of recovery, and the possible Life Orb recoil. Thus, a Defogger like <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> or <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a> fits well with Marshadow. On top of that, Ho-Oh and Giratina-O can easily spread status and cripple the likes of Arceus-Fairy and Primal Groudon.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Technician"
+          ],
+          "items": [
+            "Life Orb",
+            "Spell Tag"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spectral Thief",
+                "type": null
+              },
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Marshadow",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Choice Band Marshadow is a beacon of offensive role compression in a single slot for balance and bulky offense structures. Marshadow shores up some of the biggest holes in the defensive backbones of these structures, since it single-handedly revenge kills Extreme Killer <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a>, wallbreaker Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, and <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>. The latter is particularly important, as it allows teams to easily diversify their Arceus slot beyond <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a>. Furthermore, Marshadow's Tera Ghost Shadow Sneak is also powerful enough to serve as speed control, as it 2HKOes even offensive <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> and <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>. Additionally, Marshadow is similarly effective against bulkier Pokemon, as the pool of Pokemon able to safely switch in long-term is limited to Coil <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a> and Tera Fairy <a href=\"/dex/sv/pokemon/garganacl/national-dex-ubers/\" hreflang=\"en\">Garganacl</a>. Marshadow's efficacy at revenge killing, wallbreaking, and providing speed control enables it to play an important role in most battles against most archetypes barring stall.</p>\n</li>\n<li>\n<p>Poltergeist is Marshadow's primary wallbreaking tool, and its sheer power is a significant reason why Marshadow is so difficult to safely switch into for balance and bulky offense teams lacking Coil Zygarde or Tera Fairy Garganacl, as Poltergeist even 2HKOes defensive <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> and Timid Arceus formes. Spectral Thief is used to help dissuade setup sweepers such as Coil Zygarde and Calm Mind Arceus formes while still packing a solid punch and the ability to safely clean weakened teams. Shadow Sneak enables Marshadow to revenge kill Pokemon that outspeed it such as <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a>, Zacian-C, or a boosted Ultra Necrozma. Low Kick is used over Close Combat, as it reliably reaches 120 Base Power against most foes; although <a href=\"/dex/sv/pokemon/chi-yu/national-dex-ubers/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a> are notable exceptions, Low Kick 2HKOes both anyway, and Close Combat's low PP and defense reductions, putting Marshadow in range of attacks it would otherwise survive, make it a poor option.</p>\n</li>\n<li>\n<p>Marshadow is an excellent user of Terastallization but is by no means dependent on it to function. Rather, Tera Ghost serves to enhance Marshadow’s Marshadow's potency by reaching key damage thresholds. For example, Tera Ghost Shadow Sneak is guaranteed to OHKO Ultra Necrozma and <a href=\"/dex/sv/pokemon/mewtwo-mega-y/national-dex-ubers/\" hreflang=\"en\">Mega Mewtwo Y</a> while also 2HKOing Pokemon such as offensive Eternatus and Zacian-C. Tera Ghost also pushes Poltergeist to absurd levels, enabling Marshadow to OHKO wallbreaker Primal Kyogre and Rayqauza while having favorable odds to OHKO offensive Ho-Oh. Tera Ghost Spectral Thief is powerful enough to prevent Calm Mind Arceus formes from getting out of hand, as they are now 2HKOed. Tera Ghost also has some defensive applications; shedding its Fairy weakness in a pinch can be beneficial against <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a> or Zacian-C.</p>\n</li>\n<li>\n<p>Marshadow's poor bulk and defensive typing leave it with scant safe switch-in opportunities. However, Marshadow's bulk is sufficient to take a hit from some Pokemon. For example, Marshadow survives Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>'s uninvested Precipice Blades, Eternatus's unboosted Dynamax Cannon, and Arceus-Dark's +1 Judgment. This is at its fullest display against hyper offense structures, which is also Marshadow's best matchup, where its efficacy as a revenge killer is at full display.</p>\n</li>\n<li>\n<p>Marshadow is still a solid revenge killer against bulky offence and balance structures, but it often transitions to a wallbreaking role. Its Spectral Thief easily halts late-game sweeping attempts from Pokemon such as Coil Zygarde and Calm Mind Arceus formes. Its combination of instant power and Speed provides insurance against +1 Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, as other Pokemon such as Sucker Punch <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a> and Zacian-C require a boost or significant chip damage to revenge kill it. Choice Band Marshadow struggles against stall, as it is hard checked by <a href=\"/dex/sv/pokemon/dondozo/national-dex-ubers/\" hreflang=\"en\">Dondozo</a>, and its prediction-reliant nature makes it difficult to generate reliable progress against defensive Ho-Oh, Chansey, <a href=\"/dex/sv/pokemon/giratina/national-dex-ubers/\" hreflang=\"en\">Giratina</a>, and defensive Arceus-Dark. Defensive Eternatus's Toxic Spikes also poses a threat to Marshadow, limiting its switch-in opportunities.</p>\n</li>\n<li>\n<p>Marshadow is a common addition to the common balance core of defensive Primal Groudon, offensive Ho-Oh, Coil Zygarde, and Calm Mind Arceus-Dark, as it offensively checks the biggest threats to this core in Tera Normal Double-Edge Extreme Killer Arceus and wallbreaker Primal Kyogre. This core can defensively check most of the metagame, including Pokemon that can scare Marshadow out such as Eternatus and Zacian-C. As Marshadow offensively checks Dragon Dance Necrozma-DM, Coil Zygarde can more easily justify Tera Fairy to act as a counter to Dragon Dance Zygarde, which would otherwise threaten this core, especially since boosted Tera Ground Thousand Arrows OHKOes Marshadow, preventing it from using Spectral Thief.</p>\n</li>\n<li>\n<p>Marshadow is an excellent teammate for Arceus-Fairy,as it revenge kills Ultra Necrozma and avoids makeshift countermeasures such as Tera Dark Ho-Oh. Arceus-Fairy also provides a switch-in to Arceus-Dark and Yveltal, and its positive matchup against Coil Zygarde and Garganacl is appreciated. Defensive Primal Kyogre is common on these teams due to its stellar matchup against stall, while its bulk allows it to trade against specially offensive Yveltal and Dragon Dance Zygarde.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Technician"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spectral Thief",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 415367,
+            "username": "Eledyr"
+          },
+          {
+            "user_id": 523420,
+            "username": "bumboclaat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              },
+              {
+                "user_id": 535530,
+                "username": "Gangsta Spongebob"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Attacker",
+          "pokemon": "Marshadow",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Technician"
+          ],
+          "items": [
+            "Life Orb",
+            "Marshadium Z"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Steel",
+            "Stellar"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spectral Thief",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": []
+}

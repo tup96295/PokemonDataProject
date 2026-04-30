@@ -1,0 +1,571 @@
+{
+  "name": "Noivern",
+  "alias": "noivern",
+  "types": [
+    "Flying",
+    "Dragon"
+  ],
+  "stats": [
+    85,
+    70,
+    80,
+    97,
+    80,
+    123
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Noivern swoops into RU as a premier speedy Pokemon that can fill both offensive and defensive roles. Due to Noivern's resistance to common offensive types like Fire, Water, and Fighting, it can be a great defensive sponge by switching into both special and physical attackers such as <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a> and <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a>. It can then use this opportunity to remove entry hazards with Defog, chunk a switch-in with either Super Fang or Draco Meteor, or pivot on switch-ins with U-turn. It can outspeed and force out Pokemon such as <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, and <a href=\"/dex/sv/pokemon/raikou/ru/\" hreflang=\"en\">Raikou</a>, threatening them with Draco Meteor. Noivern can keep itself healthy with Roost, allowing it to come in multiple times per game in order to do its job. However, Noivern struggles with common Choice Scarf users such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, as they can outspeed and deal massive damage to it. Noivern can also struggle a lot with Fairy-types such as <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> and Gardevoir, which can switch into its main STAB option in Draco Meteor and hit it super effectively. Noivern also immensely struggles with bulky Pokemon such as <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>, as they can easily switch into it and either make progress against it or set up on it.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Choice Specs with Boomburst and Tera Normal is an option on Noivern, allowing it to do massive damage to the opposing team once Steel- and Ghost-types have been removed. Switcheroo can be used alongside Choice Specs to cripple defensive Pokemon that Noivern can't break through, such as <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a> or <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>. Air Slash is a much more reliable STAB option than Hurricane, though it is much weaker and can fail to 2HKO even Pokemon with mediocre special bulk like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fairy-types</strong>: Fairy-types such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and Tera Fairy users like <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> and <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a> are massive pains for Noivern, as they can switch into its main STAB option in Draco Meteor. <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> in particular is extremely irritating for defensive Noivern, as it is immune to both Draco Meteor and Super Fang, meaning it can switch into any defensive Noivern set lacking Hurricane or Psychic Noise without taking any damage and threaten it out.</p>\n<p><strong>Steel-types</strong>: Noivern can struggle against Steel-types such as <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and Empoleon, since they can switch into Draco Meteor easily, only really fearing Flamethrower.</p>\n<p><strong>Choice Scarf Users and Priority</strong>: Common Choice Scarf users such as Gardevoir, <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> can outspeed Noivern and threaten it immensely. Priority users such as <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, and especially <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>, can do big damage to Noivern.</p>\n<p><strong><a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a></strong>: Umbreon is a big pain for Noivern, as Umbreon can easily take its attacks, use Wish to heal off its damage, and threaten it with Toxic. Taunt can prevent Umbreon from using Toxic against Noivern, but Foul Play still forces Noivern to use Roost repeatedly.</p>",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Noivern",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Draco Meteor provides Noivern with tremendous breaking power, though it does allow Fairy-types such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> safe entry points against it; alternatively, Hurricane can be used to hit these Fairy-types, though they are quite scarce and it comes at the cost of less immediate power and unreliable accuracy. Flamethrower melts the pesky Steel-types that resist Noivern's STAB attacks, like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>. U-turn can be used to form VoltTurn cores and provide safe pivots into teammates like <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>; Taunt is an alternative move that can stop setup attempts from Pokemon like <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, recovery attempts, and entry hazard stacking from walls like <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>. Roost gives Noivern the longevity needed to stick around and dish out damage while checking big threats like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> and <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>. Frisk can be used to scout for items, such as Choice items on Pokemon like <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>. Infiltrator allows Noivern to hit Pokemon that use Substitute, such as <a href=\"/dex/sv/pokemon/raikou/ru/\" hreflang=\"en\">Raikou</a> and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>, to prevent them from using Calm Mind freely. Tera Steel can be used to flip the weakness to Dragon, which helps against <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> and opposing Noivern, while providing valuable resistances to Fairy-type attacks from Gardevoir and <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a>. Tera Fire also provides a Fairy resistance and can bolster the damage of Flamethrower, allowing Noivern to break through Jirachi and Magnezone more effectively. Tera Fairy provides a Dragon immunity, which helps against <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and opposing Noivern, while maintaining the Bug and Fighting resistances to still check <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>. Tera Fairy also provides a key resistance to Dark-type attacks like Knock Off and Sucker Punch, making matchups into <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> more comfortable. Tera Water is a fine pick for Noivern, as it maintains the Fire and Water resistances to check Volcanion while providing an Ice resistance to more effectively deal with Mamoswine.</p>\n<p>Offensive pivot Noivern is a great choice on balance and bulky offense teams that need to shore up their matchups into one of the biggest threats in the tier, Volcanion. Teammates like <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> are much appreciated, as they can provide entry hazard removal and check physical attackers like Bisharp and Galarian Zapdos, threatening to burn either with Flame Body or Will-O-Wisp. In return, Noivern can check Volcanion for Talonflame. Physical wallbreakers that can use the safe entry points provided by U-turn Noivern, such as <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a> and Mamoswine, are valuable to help break through walls such as <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a> and Hisuian Goodra, making Noivern more imposing with its own strong attacks. Noivern appreciates its own hazard support from teammates like Hippowdon and Jirachi, which can help rack up chip damage while Noivern uses either U-turn to pivot between teammates or Taunt to prevent recovery. Noivern is a great member of VoltTurn cores, partnering with powerful wallbreakers like Magnezone and Mienshao to keep the opposition from getting comfortable. Steel-type teammates like <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, Jirachi, and Registeel are valuable to check Dragon- and Fairy-types that can threaten Noivern, like Hisuian Goodra, <a href=\"/dex/sv/pokemon/ninetales-alola/ru/\" hreflang=\"en\">Alolan Ninetales</a>, and Gardevoir.</p>",
+          "abilities": [
+            "Frisk",
+            "Infiltrator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fire",
+            "Fairy",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              },
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Bulky Support",
+          "pokemon": "Noivern",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Draco Meteor allows Noivern to dent naturally bulky Pokemon such as <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> even without Special Attack investment. Hurricane can be used over Draco Meteor; however, it is less reliable and doesn't threaten <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> as much. Super Fang allows Noivern to make incredible progress against common switch-ins like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>. Taunt allows that damage to stick, preventing recovery attempts from Pokemon such as <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a> and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> while also preventing Thunder Wave from the likes of Slowbro. Defog provides excellent team support, preventing teammates from being chipped by entry hazards. Psychic Noise prevents any form of recovery and does decent damage to Pokemon such as <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>, though it notably fails against Umbreon. Roost allows Noivern to stay healthy throughout a game to make more progress with a combination of Super Fang and Taunt or Psychic Noise. Tera Steel turns Noivern's Fairy-type weakness into a resistance, allowing it to check threats such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a>. Tera Fairy gives it a Dark-type resistance and a Dragon-type immunity, allowing it to emergency check threats such as Choice Scarf <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and Choice-locked <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> in a pinch. Tera Water allows Noivern to check <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a> and <a href=\"/dex/sv/pokemon/ninetales-alola/ru/\" hreflang=\"en\">Alolan Ninetales</a> as well, while retaining the ability to check Fire- and Water-types such as Volcanion and <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>.</p>\n<p>Noivern fits well on balance and bulky offense teams, working as a crucial defensive piece and checking Pokemon like Volcanion. It loves partnering with entry hazard setters such as Hippowdon, Krookodile, <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, and <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a> to further suffocate foes with Taunt or Psychic Noise. Noivern also partners well with <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>, as they form a tough Fighting-resistant core that wears the opponent down with entry hazards and Psychic Noise. It also loves partnering with Steel-type Pokemon such as Jirachi and Registeel, checking common Fire- and Fighting- types like Volcanion and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> for them, while they cover its Ice and Fairy weaknesses. Choice Scarf users like Gardevoir, Krookodile, and <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> enjoy Noivern's ability to chip the opposition so that they can clean up with ease. Fighting-types like Mienshao and Galarian Zapdos enjoy Noivern's ability to batter away at Fighting-resistant foes like Gardevoir. Similarly, special attackers like <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> really enjoy Taunt Noivern's ability to shut down Umbreon. <a href=\"/dex/sv/pokemon/rotom-heat/ru/\" hreflang=\"en\">Rotom-H</a> and Slowbro are great teammates that check Mamoswine, one of the biggest threats to Noivern.</p>",
+          "abilities": [
+            "Frisk"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              },
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Super Fang",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 4,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 563264,
+            "username": "Lyra"
+          },
+          {
+            "user_id": 647728,
+            "username": "Heatranator"
+          },
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 231398,
+                "username": "feen"
+              },
+              {
+                "user_id": 555741,
+                "username": "MachJacob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 229690,
+                "username": "queez"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<h3>Dragon</h3>\n<p>Noivern is heavily outclassed both offensively and defensively by fellow Dragon-types like <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, which can put far more pressure on opposing teams. However, Noivern comes packing with a useful Flying typing and, more importantly, a crucial Speed tier, outspeeding targets like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, which Latios cannot, along with being one of the only answers to entry hazards Dragon teams have.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility (Dragon)",
+          "pokemon": "Noivern",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Noivern finds a niche on Dragon teams thanks to its blazing Speed stat, allowing it to blitz past threats such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and non-Choice Scarf <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, along with having access to Defog to provide a form of entry hazard removal. Hurricane allows it to check Fighting-types like Iron Valiant, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> with ease. U-turn provides fast pivoting, allowing safe entry for setup sweepers. Alternatively, Flamethrower can be used to allow Noivern to threaten Steel- and Ice-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/froslass/monotype/\" hreflang=\"en\">Froslass</a>, while Draco Meteor provides another strong offensive tool, which can prove useful in the mirror matchup. A defensive EV spread is preferred, allowing Noivern to stick around reliably throughout a game, as it can take two Dark Pulses from <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> and a Power Gem from <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a>. Alternatively, it can run an offensive spread to assuredly OHKO targets like <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes.</p>\n<p><a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> can take on powerful physical Ice- and Rock-type attackers that threaten Noivern such as <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/cloyster/monotype/\" hreflang=\"en\">Cloyster</a>, <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> and can respond with Flash Cannon. Archaludon can also support Noivern by using Thunder Wave to allow Noivern to outspeed <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, meanwhile, can take on special Dragon- and Fairy-types like Hex <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>. Hisuian Goodra can also switch into special Ice-type attacks from foes like Greninja and Kyurem, which Noivern is highly susceptible to. Both Archaludon and Hisuian Goodra appreciate Noivern's hazard removal, allowing them to get the most out of their Leftovers and giving them a chance to come in repeatedly. Dragapult provides an incredible Speed tier, being able to handle threats such as Flutter Mane and Latios. Choice Specs Latios and Kyurem can deal with foes attempting to make use of Noivern's passivity like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> while also being extremely significant in the mirror matchup, allowing Noivern to forego Draco Meteor. <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> provides an Electric immunity and a Rock resistance, which makes it capable of taking on threats like <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a>, <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a>, and Iron Boulder.</p>",
+          "abilities": [
+            "Infiltrator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 7-8 points</p>\n<p><strong>Overview</strong>: With an excellent Speed tier, decent Special Attack, and access to a diverse utility movepool, Noivern finds a place as a useful support Pokemon on a variety of drafts. It gets access to the sparsely distributed Defog, a valuable commodity, With Frisk and access to a fast Taunt and U-turn, it can act as a fast pivot while scouting for items on the opponent's team. Its Dragon / Flying type combination matches up well offensively against a large portion of the metagame while also providing useful resistances to common typings, including an immunity to Ground. It also occasionally serves as a wallbreaker with access to high-Base Power STAB moves like Hurricane and Draco Meteor; however, it requires an item to achieve necessary KO thresholds. Noivern's weakness to Stealth Rock and mediocre bulk hinder defensive sets and make it heavily reliant on Heavy-Duty Boots. Additionally, its primary STAB moves suffer from significant drawbacks, forcing it to usually choose between reliability and damage, making offensive sets slightly harder to run.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Fast Utility</strong>: Access to pivoting in U-turn, disruption in Taunt, reliable damage in Super Fang, recovery in Roost, and entry hazard removal in Defog helps Noivern provide fast support for the team while occasionally using its STAB moves. Its ability Frisk is also excellent, as it provides consistent passive utility by scouting for opposing items, a mechanic especially useful in Draft, as it significantly reduces guessing games.</p>\n<p><strong>Revenge Killer</strong>: Noivern can function as a decent revenge killer. Its high base Speed allows it to outspeed most of the metagame naturally, as well as Speed-boosting Pokemon when using a Choice Scarf. Its Speed also allows it to clean up weakened teams. However, it is important to note that it usually has to rely on low-accuracy moves like Hurricane to clean up effectively.</p>\n<p><strong>Wallbreaker</strong>: Although it has mediocre base Special Attack, Noivern can use damage-boosting items like Choice Specs to function as an effective wallbreaker. Powerful STAB moves like Hurricane and Draco Meteor, neutral coverage in Boomburst and Flamethrower, and Focus Blast to hit Steel-types can help Noivern wear down opposing defensive cores, easing the way for other offensive threats on the team. This is aided by the fact that Flying is usually a very spammable offensive typing thanks to the limited number of Pokemon resistant to it.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Draco Meteor, Hurricane, Dragon Pulse, Air Slash</p>\n<p><strong>Setup Moves</strong>: None</p>\n<p><strong>Utility Moves</strong>: Defog, Roost, Substitute, Super Fang, Switcheroo, Taunt, U-turn, Whirlwind</p>\n<p><strong>Coverage</strong>: Boomburst, Dark Pulse, Flamethrower, Focus Blast, Psychic, Shadow Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Psychic Noise</strong>: On builds where Noivern finds it difficult to choose between coverage and Taunt, it can use Psychic Noise to deny recovery on passive Pokemon while also dealing damage.</p>\n<p><strong>Tailwind</strong>: Noivern's frailty and Speed make it a serviceable late-game Tailwind user. In certain games, it can use Tailwind as a final cry before dying and provide a Speed boost for its teammates to clean.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: A majority of Noivern builds run Heavy-Duty Boots, as it provides protection against Stealth Rock, trading the power of using a damage-boosting item for longevity. It enables Noivern to perform its support role comfortably by giving it the opportunity to switch in multiple times.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf allows Noivern to function as a great revenge killer. It can outspeed most Speed-boosting Pokemon and hit them with powerful, albeit low-accuracy, STAB moves. It also has access to Switcheroo, which allows it to neutralize setup threats in a pinch.</p>\n<p><strong>Choice Specs</strong>: Noivern becomes a serviceable wallbreaker through using Choice Specs. Choice Specs-boosted Hurricane and Draco Meteor help Noivern take advantage of a team lacking good resistances. This does leave Noivern vulnerable to entry hazards, making hazard control very important.</p>\n<h3>Niche Items</h3>\n<p><strong>Throat Spray</strong>: Throat Spray allows Noivern to use Boomburst while simultaneously receiving a Special Attack boost. It works especially well if Noivern is a Tera Captain, as it can use Tera Normal-boosted Boomburst with this. It also allows Noivern to switch between powerful boosted moves and fulfill a more flexible wallbreaker role.</p>\n<p><strong>Damage-boosting Items</strong>: Items like Expert Belt, Life Orb and type-specific damage-boosting items sacrifice the raw power of Choice Specs for the ability to let Noivern switch moves while still boosting its damage. However, these sets can easily be worn down by residual damage and Stealth Rock.</p>\n<p><strong>Eject Pack</strong>: Noivern can use Eject Pack in some circumstances to gain momentum while using Draco Meteor instead of U-turn for extra damage.</p>\n<h3>Tera</h3>\n<p>While still generally outclassed by other primary and secondary Tera Captains, Noivern has niches that make it worth consideration. It is important to note that Noivern does not need to Terastallize to fulfil its support role well. Tera Normal allows it to gain STAB on Boomburst, turning it into a fearsome wallbreaker. Tera Dragon or Flying can be used as options to further boost the power of Draco Meteor or Hurricane, respectively. Niche options include Tera Fire and Fighting to gain STAB on Noivern's coverage moves to hit opposing Steel-types. However, it is very one-dimensional in its offensive capabilities and has too lackluster defenses to warrant defensive Terastallization.</p>\n<h3>Draft Strategy</h3>\n<p>Noivern is a very flexible Pokemon, so it is not advisable to plan a draft around it. It provides a relatively cheap option for speed control and role compression for a lot of drafts. However, Noivern can always benefit from having teammates that fulfill certain roles.</p>\n<p><strong>Wallbreakers</strong>: Noivern's access to a fast U-turn and a wide utility movepool helps it enable other wallbreakers by bringing them in safely. It can do so by threatening to outspeed and KO something with its STAB moves and then using U-turn, anticipating a switch. Slow Pokemon like <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/draft/\" hreflang=\"en\">Ursaluna-B</a> and <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> particularly benefit from this ability, as they struggle to switch in otherwise. Frail Pokemon like <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/lycanroc-dusk/draft/\" hreflang=\"en\">Lycanroc-D</a> also appreciate this ability.</p>\n<p><strong>Steel-types</strong>: A good Steel-type Pokemon covers all of Noivern's defensive weaknesses. Noivern usually has to switch out of super effective moves, and having a Steel-type Pokemon on the team can help absorb those hits by resisting them. Steel-types are also useful for taking advantage of opposing Fairy-, Rock- and Ice-types. Pokemon like <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a> and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> are good candidates for this role.</p>\n<p><strong>Ground- and Fighting-types</strong>: Noivern struggles to wrestle past Rock- and Steel-type Pokemon even with coverage. Having teammates like <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, Iron Valiant, <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> can help with that weakness, further enabling its offensive sets. Fighting-types also function as Knock Off absorbers, which is important because Noivern usually does not appreciate losing its item.</p>\n<p><strong>Entry Hazard Control</strong>: Though Noivern itself has access to Defog, it benefits a lot from having another teammate able to control entry hazards. Defog is suboptimal in instances where the user wants to keep hazards up on the opposing side. Rapid Spin support allows Noivern to run offensive sets more freely without worrying about Stealth Rock and also acts as a safety net against Knock Off. Spinners like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> make for good candidates.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Special Walls</strong>: With Hurricane's low accuracy, Draco Meteor's stat drawbacks and a general lack of other powerful STAB moves, Noivern struggles to wear down almost any special wall with recovery. Specially defensive Steel- and Fairy-types are especially nice for this role. Pokemon like <a href=\"/dex/sv/pokemon/clefable/draft/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/empoleon/draft/\" hreflang=\"en\">Empoleon</a> can take hits from Noivern over multiple turns and heal off any damage it does. Even without recovery, some specially defensive Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/diancie/draft/\" hreflang=\"en\">Diancie</a> can tank hits from Noivern and threaten it back with super effective moves.</p>\n<p><strong>Faster Pokemon</strong>: Pokemon naturally faster than Noivern can usually take advantage of its weaknesses and check it offensively by outspeeding it and threatening it with devastating hits. Pokemon like <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> all outspeed Noivern and OHKO it, given the right circumstances. Opposing Choice Scarf users can also fulfill this role against non-Choice Scarf sets.</p>\n<p><strong>Stealth Rock</strong>: Noivern's more offensive sets get easily worn down if Stealth Rock is up on the field. Stealth Rock severely cuts down its longevity, allowing it to only switch in a few times.</p>\n<p><strong>Knock Off</strong>: Knock Off is very effective against Noivern because on any of its sets, losing its item significantly reduces its longevity or wallbreaking capacity.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 560724,
+            "username": "amyayayy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Noivern",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Investment in defense helps it stomach a hit from Choice Scarf <a href=\"/dex/sv/pokemon/zarude/national-dex-ru/\" hreflang=\"en\">Zarude</a>. Can go max max offensive too.</p>",
+          "abilities": [
+            "Infiltrator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              },
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Defog",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 168,
+              "spa": 88,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Noivern",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets, stay tuned for future updates!</p>",
+          "abilities": [
+            "Infiltrator"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Air Cutter",
+    "Air Slash",
+    "Bite",
+    "Body Slam",
+    "Boomburst",
+    "Breaking Swipe",
+    "Brick Break",
+    "Dark Pulse",
+    "Defog",
+    "Double-Edge",
+    "Double Team",
+    "Draco Meteor",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Dual Wingbeat",
+    "Endure",
+    "Facade",
+    "Flamethrower",
+    "Fly",
+    "Focus Blast",
+    "Giga Impact",
+    "Gust",
+    "Heat Wave",
+    "Hurricane",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Leech Life",
+    "Moonlight",
+    "Outrage",
+    "Protect",
+    "Psychic",
+    "Psychic Noise",
+    "Rest",
+    "Roost",
+    "Scary Face",
+    "Screech",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Solar Beam",
+    "Substitute",
+    "Sunny Day",
+    "Super Fang",
+    "Supersonic",
+    "Swift",
+    "Switcheroo",
+    "Tackle",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Uproar",
+    "U-turn",
+    "Water Pulse",
+    "Whirlwind",
+    "Wild Charge",
+    "Wing Attack",
+    "X-Scissor"
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "name": "Mareanie",
+  "alias": "mareanie",
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "stats": [
+    50,
+    53,
+    62,
+    43,
+    52,
+    45
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Wall",
+          "pokemon": "Mareanie",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Physically defensive Mareanie is a bulky pivot that enters the game on strong attacks, such as <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>'s High Jump Kick. Once on the field, its good coverage can threaten various foes. Ice Beam threatens an incoming <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a> or <a href=\"/dex/sv/pokemon/toedscool/lc/\" hreflang=\"en\">Toedscool</a>, Mud Shot hits opposing Mareanie and slows incoming Pokemon that would be faster than itself. Mareanie invests in bulk in order to stomach Flare Blitz from <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a> and High Jump Kick from Mienfoo even after its Eviolite has been removed. Its Special Defense EVs allow Mareanie to check <a href=\"/dex/sv/pokemon/wingull/lc/\" hreflang=\"en\">Wingull</a> and survive <a href=\"/dex/sv/pokemon/gothita/lc/\" hreflang=\"en\">Gothita</a>'s Psychic from full HP. Tera Dragon provides insurance against the Electric-types in <a href=\"/dex/sv/pokemon/elekid/lc/\" hreflang=\"en\">Elekid</a> and <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a>. Mareanie also has the option of using Tera Ghost to escape being trapped by Shadow Tag Gothita and to surprise a Choice Scarf Mienfoo, which is expected to 2HKO after Spikes with Reckless-boosted High Jump Kick.</p>\n<p>Mareanie and Mienfoo form a double Regenerator core. Nearly everything benefits from Mareanie's ability to check Mienfoo, notably Rock and Steel-types like <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a> and <a href=\"/dex/sv/pokemon/sandshrew-alola/lc/\" hreflang=\"en\">Alolan Sandshrew</a>. Mareanie partners well with Toedscool, which is OHKOed by Flare Blitz from Hisuian Growlithe. Mareanie is weak to Spikes, Electric-types, and Ground-types, all which Toedscool covers in return. Mareanie and <a href=\"/dex/sv/pokemon/tinkatink/lc/\" hreflang=\"en\">Tinkatink</a> also make good partners because of their capacity to cover the dual threat of Mienfoo and <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a>; with Mareanie taking High Jump Kick for Tinkatink, which absorbs Knock Off and takes Brave Bird. Gothita can be a huge thorn because it threatens to trap and remove Mareanie. It is wise to pair Mareanie with a Dark-type like Vullaby or <a href=\"/dex/sv/pokemon/stunky/lc/\" hreflang=\"en\">Stunky</a> to take advantage of a Choice Scarf Gothita locked into Psychic.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Dragon",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mud Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 116,
+              "atk": 0,
+              "def": 180,
+              "spa": 12,
+              "spd": 180,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Offensive Wall",
+          "pokemon": "Mareanie",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Offensive Mareanie leverages its natural bulk, typing, and Regenerator to invest in its Special Attack, making it much more threatening. Mud Shot allows Mareanie to hit a variety of Pokemon: <a href=\"/dex/sv/pokemon/elekid/lc/\" hreflang=\"en\">Elekid</a>, <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a>, <a href=\"/dex/sv/pokemon/stunky/lc/\" hreflang=\"en\">Stunky</a>, <a href=\"/dex/sv/pokemon/tinkatink/lc/\" hreflang=\"en\">Tinkatink</a>, <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a>, and opposing Mareanie, with the bonus of making Mareanie faster than the latter two after one hit. Ice Beam hits Ground- and Grass-types like <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a>, <a href=\"/dex/sv/pokemon/toedscool/lc/\" hreflang=\"en\">Toedscool</a>, and <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a> as well as <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a> super effectively. Sacrificing some of its Special Defense, Mareanie invests heavily into its Special Attack, which improves its damage rolls against much of the tier, notably allowing it to 2HKO Foongus with Ice Beam after Stealth Rock. Due to the loss of bulk, however, Mareanie has a harder time defending against Pokemon like <a href=\"/dex/sv/pokemon/sandshrew-alola/lc/\" hreflang=\"en\">Alolan Sandshrew</a> and Stunky. Tera Dragon protects Mareanie from Elekid and Chinchou, while Tera Ghost allows it to escape <a href=\"/dex/sv/pokemon/gothita/lc/\" hreflang=\"en\">Gothita</a>'s Shadow Tag and block Rapid Spin from Toedscool and Alolan Sandshrew.</p>\n<p>Mareanie complements Pokemon that are threatened by <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>, such as Alolan Sandshrew. In return, Alolan Sandshrew can remove entry hazards with Rapid Spin, which helps Mareanie last longer despite its lessened bulk. <a href=\"/dex/sv/pokemon/grookey/lc/\" hreflang=\"en\">Grookey</a> is a great partner, as it can check the Ground-types that threaten Mareanie, with the Grassy Terrain it provides keeping Mareanie healthy and halving the power of Earthquake. Toedscool fills a similar role to Grookey, as it can check Ground-types while being a better switch-in to Electric-types than Grookey, in addition to its ability to clear hazards. Dark-type teammates that can take advantage of a Gothita trapping Mareanie are also appreciated.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Dragon",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Mud Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 116,
+              "atk": 0,
+              "def": 100,
+              "spa": 252,
+              "spd": 20,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 588507,
+            "username": "emptywisdom"
+          },
+          {
+            "user_id": 605215,
+            "username": "Flou"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641532,
+                "username": "bleahey"
+              },
+              {
+                "user_id": 537035,
+                "username": "rahul_3301"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Mareanie",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Haze",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Infestation",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 76,
+              "spa": 0,
+              "spd": 180,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Bite",
+    "Blizzard",
+    "Chilling Water",
+    "Endure",
+    "Facade",
+    "Gunk Shot",
+    "Haze",
+    "Hydro Pump",
+    "Ice Beam",
+    "Ice Spinner",
+    "Icy Wind",
+    "Infestation",
+    "Iron Defense",
+    "Liquidation",
+    "Lunge",
+    "Muddy Water",
+    "Mud Shot",
+    "Pain Split",
+    "Peck",
+    "Pin Missile",
+    "Poison Jab",
+    "Poison Sting",
+    "Pounce",
+    "Protect",
+    "Rain Dance",
+    "Recover",
+    "Rest",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Spit Up",
+    "Stockpile",
+    "Substitute",
+    "Surf",
+    "Swallow",
+    "Tera Blast",
+    "Toxic",
+    "Toxic Spikes",
+    "Venoshock",
+    "Water Pulse",
+    "Wide Guard"
+  ]
+}

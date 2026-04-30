@@ -1,0 +1,530 @@
+{
+  "name": "Tapu Koko",
+  "alias": "tapu-koko",
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "stats": [
+    70,
+    115,
+    85,
+    95,
+    75,
+    130
+  ],
+  "strategies": [
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Tapu Koko",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tapu Koko is a very consistent offensive pivot that can fit on a variety of teams, threatening a plethora of Water- and Flying-types such as <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>. Tapu Koko also has a remarkable ability to consistently switch into the tier's Electric-types such as Zapdos and <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a>, the aforementioned Flying-types, and Fighting-types such as <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a> while also having a Speed tier that outruns many threats such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a> and Tornadus-T. Hidden Power Ice enables Tapu Koko to hit foes such as <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> while also doing significant damage to <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>. Dazzling Gleam can be used to hit foes such as Raging Bolt and Great Tusk much harder than Hidden Power Ice, though it is significantly weaker against Gliscor and Landorus-T. U-turn allows Tapu Koko to pivot out of Pokemon that handle it defensively such as <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a> while also wearing them down. Volt Switch can be used to avoid chip from contact while dealing decent damage, though it is able to be blocked by Ground-type Pokemon such as Great Tusk and Landorus-T. Electrium Z is used to give Tapu Koko a one-time boost to its already strong Thunderbolt and help it pick off weakened threats such as <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a> and <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and OHKO Pokemon such as Ogerpon-W and <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>. Fairium Z can be used as an alternative to immediately OHKO foes such as Great Tusk and Raging Bolt.</p>\n<p>Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/hawlucha/national-dex/\" hreflang=\"en\">Hawlucha</a> appreciate Tapu Koko’s Electric Surge setting Electric Terrain and activating their abilities. The former also appreciates Tapu Koko beating defensive Pokemon such as Toxapex and Tornadus-T. Landorus-T also likes Tapu Koko as a partner, as it likes its Flying-type checks such as Tornadus-T, Zapdos, and <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a> being answered by Tapu Koko. In return, Landorus-T brings it in with a U-turn on Pokemon such as Tornadus-T and it immediately threatens Pokemon such as Galarian Slowking, which walls Tapu Koko. Tapu Koko struggles to break through specially bulky Pokemon such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, Galarian Slowking and Ting-Lu, so it appreciates powerful physical wallbreakers such as <a href=\"/dex/sv/pokemon/medicham-mega/national-dex/\" hreflang=\"en\">Mega Medicham</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a> as well as Pursuit support from <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a>. In return, Tapu Koko is able to easily pivot them in with U-turn on these aforementioned checks in addition to checking the Flying-type Pokemon that they struggle with.</p>",
+          "abilities": [
+            "Electric Surge"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Electrium Z",
+            "Fairium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Tapu Koko",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Tapu Koko makes use of its fast Speed and explosive power to act as a great early-game wallbreaker, dealing out large damage even against neutral targets like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>. Tapu Koko's Speed allows it to outspeed Pokemon already considered fast, such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex/\" hreflang=\"en\">Mega Charizard Y</a>. As Tapu Koko breaks down walls like <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>, Pokemon like <a href=\"/dex/sv/pokemon/hawlucha/national-dex/\" hreflang=\"en\">Hawlucha</a> can use that opportunity to clean up easily late-game. Either Volt Switch or U-turn allows Tapu Koko to exert pressure while providing pivoting for the team, with the former being a respectable offensive move itself, while the latter is undeterred by Ground-types such as <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>. Hidden Power Ice allows Tapu Koko to do massive damage to Ground-types such as <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>, notably OHKOing Landorus-T.</p>\n<p>Tapu Koko fits best on offensive teams, as its Speed, wallbreaking power, and pivoting options are most appreciated by its offensively minded teammates. Due to Tapu Koko's Electric Terrain and its wallbreaking prowess, Quark Drive Pokemon are the clearest beneficiaries, especially those that seek to sweep late-game like Swords Dance <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/iron-moth/national-dex/\" hreflang=\"en\">Iron Moth</a>. Other sweepers also synergize with Tapu Koko, largely since it puts major pressure on some of their checks. For example, Hawlucha appreciates the removal of Slowbro, <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, while <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> appreciates the removal of <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a> and Moltres. Tapu Koko's STAB moves can be walled by several Pokemon, such as <a href=\"/dex/sv/pokemon/clodsire/national-dex/\" hreflang=\"en\">Clodsire</a>, <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, and <a href=\"/dex/sv/pokemon/iron-treads/national-dex/\" hreflang=\"en\">Iron Treads</a>. As a result, it appreciates help from the likes of <a href=\"/dex/sv/pokemon/medicham-mega/national-dex/\" hreflang=\"en\">Mega Medicham</a>, <a href=\"/dex/sv/pokemon/weavile/national-dex/\" hreflang=\"en\">Weavile</a>, and Great Tusk. Mega Medicham especially makes for a fierce wallbreaking duo with Tapu Koko, with the former able to dismantle <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> and Ferrothorn, two Pokemon that can easily wall Tapu Koko. In return, Tapu Koko can pressure Pokemon that Mega Medicham may struggle to hit, notably Gholdengo and Slowbro.</p>",
+          "abilities": [
+            "Electric Surge"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Tapu Koko",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Calm Mind Tapu Koko serves as a potent special attacker and wincon, thanks to Terrain-boosted Thunderbolt and its great Speed stat, allowing it to outspeed common foes that are considered fast, such as <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex/\" hreflang=\"en\">Ogerpon-W</a>. Using its Calm Mind boosts, Tapu Koko deals a great amount of damage to neutral targets, such as Ogerpon-W, <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a>. Tapu Koko can even OHKO Electric-resistant and -immune threats, such as <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a> after Stealth Rock chip using Twinkle Tackle boosted by Fairium Z after one Calm Mind boost. Calm Mind boosts make Tapu Koko capable of setting up in front of foes like <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a> and Raging Bolt. Roost offers reliable recovery, increasing Tapu Koko's longevity by shrugging off attacks from foes like Raging Bolt and healing off entry hazard damage.</p>\n<p>Calm Mind Tapu Koko fits well on balance teams that appreciate its ability to both revenge kill fast threats like Ogerpon-W and act as a wincon late-game. Pokemon like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a> benefit from Tapu Koko's ability to pressure bulky Water- and Flying-type foes, such as <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a>; Urshifu-R appreciates the removal of Toxapex and <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a> while Volcarona appreciates the removal of Moltres and Toxapex. In return, Volcarona and Urshifu-R deal with troublesome walls like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> and Ting Lu. Entry hazards like Stealth Rock and Spikes synergize incredibly with Tapu Koko, as they help it secure KOs more reliably and clean up late-game, wearing down checks like <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> and Ferrothorn. Therefore, entry hazard setters like Ferrothorn, <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>, and Gliscor are solid partners. Ferrothorn is a notable hazard-setting partner, as it is also able to switch in on troublesome foes for Tapu Koko, such as <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a> and Ting Lu. There are several Pokemon that can take on Tapu Koko's STAB combination even after Calm Mind boosts, such as <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> and Heatran. As a result, Tapu Koko appreciates teammates that threaten these Pokemon, such as <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/medicham-mega/national-dex/\" hreflang=\"en\">Mega Medicham</a>. Tapu Koko is vulnerable to Ground-types, such as Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/iron-treads/national-dex/\" hreflang=\"en\">Iron Treads</a>, especially because the latter can also take hits from Tapu Koko; therefore, defensive checks like Alomomola and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> are great partners due to their ability to switch in on these Ground-types.</p>",
+          "abilities": [
+            "Electric Surge"
+          ],
+          "items": [
+            "Fairium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Dual Screens",
+          "pokemon": "Tapu Koko",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tapu Koko's high Speed allows it to act as a good dual screens lead for hyper offense structures. U-turn gives Tapu Koko a source of momentum for and way to pivot into its teammates, notably being able to pivot against Ground-types such as <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> that Tapu Koko struggles with. Taunt allows Tapu Koko to deny opposing setup from foes, whether it be entry hazards like Spikes from <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> or boosting moves like Quiver Dance from <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a>; this is essential so that Tapu Koko is not completely passive as it sets up, which is especially important to make sure its teammates are not overwhelmed by hazards or boosted threats afterwards.</p>\n<p>Because of its ability to set Electric Terrain as it sets up dual screens, Quark Drive Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/national-dex/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/iron-moth/national-dex/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/iron-crown/national-dex/\" hreflang=\"en\">Iron Crown</a> make for fantastic partners, which are able to utilize Tapu Koko's dual screens to set up more comfortably. Iron Moth in particular is able to threaten <a href=\"/dex/sv/pokemon/corviknight/national-dex/\" hreflang=\"en\">Corviknight</a> from removing screens via Defog and check <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, which sets up on Tapu Koko thanks to Good as Gold ignoring Taunt. Similarly, <a href=\"/dex/sv/pokemon/hawlucha/national-dex/\" hreflang=\"en\">Hawlucha</a> makes for a fantastic teammate, since it is able to reliably set up on the Ground-types that Tapu Koko doesn't like, such as Landorus-T and <a href=\"/dex/sv/pokemon/iron-treads/national-dex/\" hreflang=\"en\">Iron Treads</a>, while having Taunt to prevent Defog attempts from <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a>; in return, Tapu Koko's Electric Terrain triggers Unburden for Hawlucha through Electric Seed to outspeed threats like <a href=\"/dex/sv/pokemon/swampert-mega/national-dex/\" hreflang=\"en\">Mega Swampert</a> in rain, and boosted Iron Valiant, letting the two handle opposing offense teams more comfortably. Typical offensive threats such as <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a>, Gholdengo, and Volcarona all appreciate dual screens support for their setup, with the former also being able to set up Stealth Rock to soften up walls while Gholdengo helps maintain dual screens by blocking Defog from Tornadus-T and Corviknight. <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> is a strong partner too, being able to remove hazards that Tapu Koko cannot deny safely, such as from Landorus-T, Great Tusk, and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>.</p>",
+          "abilities": [
+            "Electric Surge"
+          ],
+          "items": [
+            "Light Clay"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542295,
+            "username": "Blaze"
+          },
+          {
+            "user_id": 564420,
+            "username": "Lialiabeast"
+          },
+          {
+            "user_id": 576909,
+            "username": "BananaBro_Chaos"
+          },
+          {
+            "user_id": 604820,
+            "username": "Sami"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542295,
+                "username": "Blaze"
+              },
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              },
+              {
+                "user_id": 658067,
+                "username": "ElectraineHeart"
+              },
+              {
+                "user_id": 526618,
+                "username": "omar"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 493260,
+                "username": "Marnie"
+              },
+              {
+                "user_id": 594972,
+                "username": "Murphy Lawden"
+              },
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs (Electric)",
+          "pokemon": "Tapu Koko",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tapu Koko is a dominant force within Electric teams due to its exceptional ability, Electric Surge, which its teammates benefit from. Tapu Koko further boasts a good Speed tier and valuable Fairy-typing, rendering it a menacing threat in its own right. Dazzling Gleam levels the playing field in the Dragon matchup, eliminating foes such as <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, <a href=\"/dex/sv/pokemon/roaring-moon/national-dex-monotype/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/baxcalibur/national-dex-monotype/\" hreflang=\"en\">Baxcalibur</a>, and <a href=\"/dex/sv/pokemon/altaria-mega/national-dex-monotype/\" hreflang=\"en\">Mega Altaria</a>, but it's also useful against threats like <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a> and non-Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>. Grass Knot provides much needed coverage against troublesome Ground-types, most notably taking care of <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/sv/pokemon/quagsire/national-dex-monotype/\" hreflang=\"en\">Quagsire</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a>. Volt Switch pairs wells with Tapu Koko's speed, allowing it to escape unfavorable matchups and bring in teammates like <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a> against the likes of <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> or <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>. Hidden Power Ice can be used to deal with Ground-types that aren't threatened by Grass Knot such as <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/landorus-therian/national-dex-monotype/\" hreflang=\"en\">Landorus-T</a>. Alternatively, Thunderbolt can be run to increase Tapu Koko's damage output, giving it a chance to OHKO foes like <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>. <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a> and Zapdos are excellent partners to Tapu Koko, as they provide a necessary Ground immunity as well as Defog support, which allows Tapu Koko to pivot more freely. Rotom-W further helps by handling Ground-types and spreading burns to strong physical attackers like <a href=\"/dex/sv/pokemon/garchomp-mega/national-dex-monotype/\" hreflang=\"en\">Mega Garchomp</a>, <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a> in rain, while Zapdos walls and makes use of Heat Wave to deal with Steel-types like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/iron-treads/national-dex-monotype/\" hreflang=\"en\">Iron Treads</a> and Hurricane to counter pesky Grass- and Fighting-types like <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a>, Mega Venusaur, and <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>. <a href=\"/dex/sv/pokemon/raichu-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Raichu</a>'s Surge Surfer fully capitalizes on Electric Terrain, turning it into a serious revenge killer, capable of outspeeding threats such as Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, and Iron Valiant under Quark Drive. <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a> are prominent partners for Tapu Koko complementing it as Physical breakers, both being able to take care of foes such as defensive Zapdos, <a href=\"/dex/sv/pokemon/ursaluna/national-dex-monotype/\" hreflang=\"en\">Ursaluna</a> and <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> which hinder Tapu Koko and other Special attackers. Iron Hands has more bulk and longevity, but Zeraora brings near unmatched Speed to the table. Both of them also appreciate Tapu Koko's ability to remove <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> and <a href=\"/dex/sv/pokemon/skeledirge/national-dex-monotype/\" hreflang=\"en\">Skeledirge</a> and luring in and critically damaging Landorus-Therian with Hidden Power Ice. <a href=\"/dex/sv/pokemon/regieleki/national-dex-monotype/\" hreflang=\"en\">Regieleki</a> brings raw Electric-type power in the form of a boosted Rising Voltage, which is capable of sweeping teams that don't have an answer to it, and it also provides hazard removal thanks to Rapid Spin. <a href=\"/dex/sv/pokemon/magnezone/national-dex-monotype/\" hreflang=\"en\">Magnezone</a> provides an immunity to Poison, which Tapu Koko appreciates, and more importantly traps and removes threats such as Mega Scizor and Excadrill with Hidden Power Fire.</p>",
+          "abilities": [
+            "Electric Surge"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Fast Pivot (Fairy)",
+          "pokemon": "Tapu Koko",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Boasting a great Speed tier and solid coverage, Tapu Koko not only provides Electric Terrain to enable <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, but also provides a means to deal with Flying's defensive core for Fairy teams thanks to its access to Thunderbolt and Hidden Power Ice. Thunderbolt is Tapu Koko's most spammable attack, which it uses to eliminate roadblocks such as <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, but Discharge can be used to spread paralysis against faster foes. Hidden Power Ice threatens Ground-types such as <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>. U-turn is its preferred pivot option, as Tapu Koko lures in Ground-types like <a href=\"/dex/sv/pokemon/ursaluna/national-dex-monotype/\" hreflang=\"en\">Ursaluna</a> and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> that block Volt Switch, which Iron Valiant and <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a> can then handle. That said, it can also run Toxic to wear down walls like <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>, or Taunt to shut down entry hazard and dual screens setters like <a href=\"/dex/sv/pokemon/klefki/national-dex-monotype/\" hreflang=\"en\">Klefki</a>, <a href=\"/dex/sv/pokemon/jirachi/national-dex-monotype/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/galvantula/national-dex-monotype/\" hreflang=\"en\">Galvantula</a> or setup sweepers like <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>. Roost extends Tapu Koko's longevity and thus its opportunities to pivot. Heavy-Duty Boots pairs well with Tapu Koko's role as a pivot, but Expert Belt increases its chances to OHKO Landorus with Hidden Power Ice and Toxapex with Thunderbolt. Tapu Koko's partner in crime on Fairy teams is Iron Valiant, which appreciates being pivoted into for Quark Drive to be activated and returns the favor by dealing with Steel-types like <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and even some Poison-types like <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> when using a Fightinium Z and Psychium Z, respectively. <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> provides some form of hazard control with Magic Bounce, which Tapu Koko especially appreciates if it's not running Heavy-Duty Boots, and it can handle troublesome Flying- and Fire-types such as Volcarona and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>. Klefki is another great partner, as it sets up screens, allowing Tapu Koko to pivot more freely, and provides a valuable immunity to Poison. <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> and Tapu Bulu serve as powerful wallbreakers that can weaken the opposing team to allow Tapu Koko to clean late-game. Tapu Lele handles foes such as <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a>, Mega Venusaur, <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a>, and even <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> when running Hidden Power Fire, while Tapu Bulu powers through Ground-types that don't fear Tapu Koko's Hidden Power Ice, such as <a href=\"/dex/sv/pokemon/swampert-mega/national-dex-monotype/\" hreflang=\"en\">Mega Swampert</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, and Hippowdon. Belly Drum <a href=\"/dex/sv/pokemon/azumarill/national-dex-monotype/\" hreflang=\"en\">Azumarill</a> also helps in the Ground matchup,and it can utilize its priority move Aqua Jet to eliminate faster threats such as <a href=\"/dex/sv/pokemon/gengar/national-dex-monotype/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a>.</p>",
+          "abilities": [
+            "Electric Surge"
+          ],
+          "items": [
+            "Expert Belt",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 547532,
+            "username": "Swiffix"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              },
+              {
+                "user_id": 532439,
+                "username": "Bka Onon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 572981,
+                "username": "Aera"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

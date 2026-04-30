@@ -1,0 +1,1717 @@
+{
+  "name": "Clodsire",
+  "alias": "clodsire",
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "stats": [
+    130,
+    75,
+    60,
+    45,
+    100,
+    20
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Unaware",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poison Jab",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 84,
+              "spa": 0,
+              "spd": 176,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Water Absorb",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Water Absorb"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poison Jab",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 16,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "AG",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Clodsire's solid special bulk, access to entry hazards, and ability to absorb Toxic Spikes give it a niche in checking <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>, <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>, and some variants of <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>. However, it faces competition from <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>, which similarly checks Miraidon and Calyrex-S, has more offensive pressure, and gets Spikes up more easily. Spikes and Toxic Spikes give Clodsire a way to exert offensive pressure, alongside Earthquake which punishes Miraidon and <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a> on switch-in and hits <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a> and <a href=\"/dex/sv/pokemon/glimmora/ag/\" hreflang=\"en\">Glimmora</a>. Poison Jab can be used over Toxic or Toxic Spikes to potentially punish Taunt variants of Arceus-Fairy and Tera Fairy Calyrex-S along with Magic Bounce <a href=\"/dex/sv/pokemon/hatterene/ag/\" hreflang=\"en\">Hatterene</a>, but it is generally outclassed by the other options. Water Absorb makes Clodsire a more solid check to Miraidon, since Unaware ignores Draco Meteor's Special Attack drop, and lets Clodsire check <a href=\"/dex/sv/pokemon/arceus-water/ag/\" hreflang=\"en\">Arceus-Water</a> and <a href=\"/dex/sv/pokemon/kyogre/ag/\" hreflang=\"en\">Kyogre</a>. Unaware is an alternative that checks Calyrex-S more consistently. Tera Steel flips Clodsire's weakness to Ice- and Psychic-type attacks such as Kyogre's Ice Beam and Calyrex-S's Psyshock, while making Clodsire more reliable into Miraidon's Draco Meteor. Tera Dark makes Clodsire weaker to Arceus-Fairy and Miraidon, but checks Calyrex-S without Draining Kiss, as well as Calm Mind <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>. Clodsire's ability to both absorb Toxic Spikes and check various special attackers gives it a niche on balance and stall teams. Clodsire pairs well with physical walls such as <a href=\"/dex/sv/pokemon/gliscor/ag/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/alomomola/ag/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/dondozo/ag/\" hreflang=\"en\">Dondozo</a>, and <a href=\"/dex/sv/pokemon/skeledirge/ag/\" hreflang=\"en\">Skeledirge</a>, as they can check <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, physical variants of <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a> formes, and Zacian-C. Secondary special walls such as <a href=\"/dex/sv/pokemon/blissey/ag/\" hreflang=\"en\">Blissey</a> and Tera Grass <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a> are appreciated to ease the burden on Clodsire against Calyrex-S, Calm Mind Arceus-Ground, and Kyogre. Arceus is another partner for Clodsire that can pivot into Calyrex-S on balance teams, and appreciates Clodsire setting Spikes and clearing Toxic Spikes for it.</p>",
+          "abilities": [
+            "Water Absorb",
+            "Unaware"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 595062,
+            "username": "Taka"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              },
+              {
+                "user_id": 306317,
+                "username": "katerina"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "<p>Clodsire, despite its low base stat total, has a niche in Ubers thanks to the large amount of role compression it offers. Along with <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/arceus-ground/uber/\" hreflang=\"en\">Arceus-Ground</a>, Clodsire is one of the main checks to <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>. Compared to them, Clodsire sports both reliable recovery and the ability to run an item. Thanks to Water Absorb, Clodsire is also a decent check to <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a>, and due to its Poison typing, it can absorb and set Toxic Spikes. However, Clodsire certainly suffers from being a \"jack of a trades, master of none\"; its low bulk compared to other Miraidon checks leaves it having to use Recover more often than not, which can make it a large momentum drain. This low bulk leaves Clodsire reliant on Terastallization to check certain setup Miraidon and Kyogre sets. It also has a pathetic offensive presence, relying on Toxic alone to dissuade switch-ins. It's critical to use Clodsire for its great role compression to free up the rest of its teammates to gain more momentum.</p>",
+      "comments": "<h4>Other Options</h4>\n<p>Poison Jab is an alternative to Toxic that can still inflict poison while being usable under Taunt. Mental Herb allows Clodsire to avoid Taunt, which is often used against it from <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>. Ideally, this will let Clodsire set up entry hazards early-game, but it comes at the risk of Clodsire being easily worn down by Spikes damage. Counter is a niche option that may catch physical attackers off guard. Unaware might seem tempting to use against boosting Miraidon, but it also means Draco Meteor remains full power against Clodsire. It also loses Clodsire's valuable matchup against <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a>.</p>\n<h4>Checks and Counters</h4>\n<p><strong>Poison-immune Pokemon</strong>: Clodsire's main way to threaten switch-ins is through Toxic, so Pokemon immune to Toxic can easily take advantage of it. <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/uber/\" hreflang=\"en\">Necrozma-DM</a> and <a href=\"/dex/sv/pokemon/gliscor/uber/\" hreflang=\"en\">Gliscor</a> are the most prominent examples, but other Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/skarmory/uber/\" hreflang=\"en\">Skarmory</a> exist as well. <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a> may use Tera Steel on Clodsire to Defog on it with impunity.</p>\n<p><strong>Taunt</strong>: Without a Mental Herb, Clodsire is nearly completely shut down by Taunt. Commonly, Miraidon may use Taunt against Clodsire after it switches-in on Draco Meteor to prevent Recover, though this does put Miraidon at risk of being hit by Earthquake. Other Taunt users such as <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a> have little to fear from Clodsire.</p>\n<p><strong>Heavy-Duty Boots</strong>: Outside of Toxic, Clodsire is heavily reliant on setting entry hazards to do damage long-term, so teams with many Heavy-Duty Boots users are problematic for it.</p>\n<p><strong>Physical Attackers</strong>: While Clodsire's physical bulk is not terrible, it is unable to take on the vast majority of the strong physical attackers in Ubers.</p>\n<p><strong>Freeze</strong>: Boosted Kyogre sets can break past Clodsire outright, but they cannot break a Terastalized Clodsire. Still, Kyogre may attempt to get past Clodsire by repeatedly using Ice Beam against it and hoping to freeze it.</p>",
+      "movesets": [
+        {
+          "name": "Special Wall",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Clodsire uses its decent special bulk to pivot in on <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>, <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a>, or <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a> and set up entry hazards. Toxic is Clodsire's best option to do any significant damage to switch-ins like <a href=\"/dex/sv/pokemon/ho-oh/uber/\" hreflang=\"en\">Ho-Oh</a> and <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a>, and it allows Clodsire to check Kyogre more reliably. Spikes is Clodsire's most exclusive entry hazard option, but Stealth Rock and Toxic Spikes are also valid choices, especially if it is paired with another entry hazard setter like <a href=\"/dex/sv/pokemon/gliscor/uber/\" hreflang=\"en\">Gliscor</a>. Heavy-Duty Boots lets Clodsire avoid Spikes damage entirely. Leftovers is an option, as it provides Clodsire more longevity against teams whose only entry hazard options are Stealth Rocks or Toxic Spikes. Tera Steel and Fairy let Clodsire take on Miraidon's Dragon-type moves in a pinch while also making Kyogre's Ice Beam do pitiful damage to it. While Tera Fairy's immunity to Dragon can allow Clodsire to take more advantage of Miraidon on the turn it Terastallizes, Steel keeps Clodsire's Poison immunity and gives it a useful Ice resistance.</p>\n<p>While Clodsire provides strong role compression, it works much better when given teammates that can help take the edge of off its worse matchups. A Fairy-type like <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a>, or <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a> is highly recommended, as this allows for pivoting opportunities against Miraidon, forcing it to predict between its Dragon- and Electric-type moves. Furthermore, additonal Ground-types such as <a href=\"/dex/sv/pokemon/arceus-ground/uber/\" hreflang=\"en\">Arceus-Ground</a>, Gliscor, and <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a> are much appreciated for their help against Miraidon. Switch-ins to <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/uber/\" hreflang=\"en\">Necrozma-DM</a> and Gliscor are highly recommended, as both are immune to Toxic and don't care about Earthquake. <a href=\"/dex/sv/pokemon/arceus-water/uber/\" hreflang=\"en\">Arceus-Water</a>, Ho-Oh, and <a href=\"/dex/sv/pokemon/arceus-dark/uber/\" hreflang=\"en\">Arceus-Dark</a> are good options against Necrozma-DM, while your own Necrozma-DM or Gliscor can help against opposing Gliscor. <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> notably is good against both. All of the aforementioned teammates greatly enjoy Clodsire's ability to pivot into Kyogre.</p>",
+          "abilities": [
+            "Water Absorb"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 50695,
+            "username": "Manaphy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 595062,
+                "username": "Taka"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With high special bulk, a useful typing, and an excellent ability in Unaware, Clodsire is one of the best special walls in OU, checking special setup sweepers like non-Draco Meteor <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. Toxic puts the aforementioned threats as well as otherwise safe switch-ins and foes that can threaten it out, like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, on a timer. Amnesia bolsters Clodsire's Special Defense to staggering heights, ensuring powerful special attackers like Raging Bolt and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> or Stored Power users like <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> cannot break through. If the team lacks another Stealth Rock setter, then Stealth Rock can be run instead, especially because entry hazard removers like Great Tusk and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> hate getting crippled by Toxic and thus lose to it long-term. Similarly, Spikes is also another option if another Stealth Rock setter is present on the team. Although Earthquake is its preferred STAB move, Bulldoze can be used instead to trade power for greater PP, allowing Clodsire to continually chip away at Pokemon like Gholdengo and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> during longer games. Similarly, Poison Jab trades the reliable status of Toxic for greater PP and actual damage, notably a harder hit against the Toxic-immune <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, as well as offering a way for Clodsire to spread status while Taunted and against Pokemon with Magic Bounce, valuable against threats like <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> and Hatterene. A niche alternative is Poison Sting, which trades Poison Jab's power for even higher PP while still capable of spreading poison; the lack of contact is also useful against Pokemon like Rocky Helmet Landorus-T and Flame Body <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>. Tera Steel gives Clodsire valuable resistances that allow it to check Psychock users like Gholdengo, Hatterene, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> while still maintaining its Fairy resistance and poison immunity from them and Pecharunt, respectively. Alternatively, Tera Dark gives Clodsire a Psychic immunity, crucial for checking Stored Power, Psychic Noise, Future Sight, and Psyshock users like Iron Crown, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and Hatterene more reliably.</p>\n<p>Due to Clodsire's passive nature, it slots best onto stall and bulkier balance teams, which appreciate the defensive capabilities it brings. Teammates like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> appreciate Clodsire's ability to check threatening sweepers like Raging Bolt, while Clodsire can rely on them to check physical attackers like Great Tusk and Landorus-T. Another teammate that Clodsire pairs especially well with is <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, as together they form an extremely potent defensive core that can wall almost any special attacker. Clodsire covers threats like <a href=\"/dex/sv/pokemon/serperior/ou/\" hreflang=\"en\">Serperior</a> and Gholdengo that can boost past Blissey's sheer bulk, while Blissey beats special attackers like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, Iron Crown, and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> that can hit Clodsire for super effective damage. <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and Clefable can serve as Knock Off absorbers, as well as setting entry hazards, allowing Clodsire to run Amnesia. On bulkier balance teams, Clodsire pairs well with <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> as the defensive backbone of the team, setting hazards and forcing switches to chip down offensive threats like Great Tusk, Darkrai, and especially Gliscor, which Clodsire is completely helpless against. <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> also excels as a partner, absorbing Knock Off that can cripple Clodsire, as well as beating Gliscor, Skarmory, and opposing Corviknight, all of which Clodsire struggles against. <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> can soak up status from threats like Hex <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Cinderace while providing physical bulk that Clodsire appreciates. Offensive partners like Dragapult and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> threaten Pokemon that Clodsire can't handle such as Walking Wake, while Clodsire walls threats like Iron Valiant and Enamorus that its partners would otherwise struggle against. Another good teammate is <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, which can absorb Future Sight and other Psychic-type attacks that would threaten Clodsire, while Clodsire beats Pokemon that Kingambit struggles against, like Raging Bolt, Moltres, and Iron Moth.</p>",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Amnesia",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 616497,
+            "username": "FayaWizard"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 177111,
+                "username": "Magcargo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 569291,
+                "username": "zinnias"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<h3>Poison</h3>\n<p>Clodsire has a lot of tools going for it on Poison such as Stealth Rock, Unaware or Water Absorb, and the best special bulk of any viable Poison-type, making it the perfect counter to <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, or <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>, depending on the chosen ability. However, <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> offer more in terms of a special wall, with Alolan Muk offering an immunity to Psychic and a resistance to Ghost, while Galarian Slowking is a Regenerator wall that can take on <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and has a flurry of coverage options that may make them more appealing to the reader.</p>",
+      "comments": "<h3>Other Options</h3>\n<h4>Ground</h4>\n<p>Gunk Shot can be used instead of Poison Jab for more power, notably 2HKOing <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>.</p>",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Poison)",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Leaning more into its Defense allows Clodsire to become a surprisingly adept check to physical setup sweepers like <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, which otherwise cause immense issues for Poison teams. Earthquake enables it to pressure the aforementioned threats as well as <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Toxic pressures Flying-types like <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>, which otherwise come in on Clodsire. The EV spread maximizes Clodsire's physical bulk while still letting it take two offensive <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a> Psychic's from full HP.</p>\n<p>With Clodsire's vastly decreased special bulk, <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> serves as an even more vital partner to handle special attackers Clodsire no longer beats like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>. Similarly, Assault Vest <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> helps greatly against the likes of <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, Choice Specs <a href=\"/dex/sv/pokemon/terapagos/monotype/\" hreflang=\"en\">Terapagos</a>, and <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a>. <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> is a great complementary partner to Clodsire, being able to take on the likes of <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a>. <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> can help handle the Water- and Ground-types Clodsire cannot like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>. <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> can handle threats like Swords Dance <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> for Clodsire along with using Will-O-Wisp to cripple physical attackers like <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a>. <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a> checks hard-hitting attackers capable of easily breaking through Clodsire like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and Choice Band Meowscarada. <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> can beat Ice-types that terrify Clodsire like <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, and <a href=\"/dex/sv/pokemon/frosmoth/monotype/\" hreflang=\"en\">Frosmoth</a> along with removing <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> in the Steel matchup. <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a> and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> appreciate Clodsire's Stealth Rock wearing down Flying-types like <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> and the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes and in return can threaten Normal- and Dark-types like <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>.</p>",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 232,
+              "spa": 0,
+              "spd": 24,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        },
+        {
+          "name": "Water Absorb (Ground)",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Due to its remarkable bulk, rare dual-typing, and fantastic ability, Clodsire is a mainstay on Ground teams. Water Absorb stops common Water-type threats like <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> in their tracks. Poison Jab hits threats like Primarina, <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>. Haze can be used to slow down opposing setup sweepers such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>. Toxic Spikes eases the Dragon and Fairy matchups due to their lack of entry hazard removal and applies pressure on teams in general, completing Ground's entry hazard stacking core. Toxic may be used instead to punish Pokemon like <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a>, which freely switch into Clodsire otherwise. The given EV spread avoids the 2HKO from Choice Scarf <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>'s Ice Beam, Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>'s Flower Trick, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>'s unboosted Horn Leech.</p>\n<p><a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a> appreciate Clodsire checking the aforementioned Water-types as well as other threats such as Iron Valiant and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. In return, Choice Scarf Great Tusk pressures Ice- and Dark-types like <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, and Choice Specs Greninja. Iron Treads clears entry hazards and threatens Hatterene, as well as being able to switch into Psychic-type attacks from Pokemon like <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee</a> and Latios. Excadrill appreciates Clodsire's ability to switch into Water-type attackers that it cannot OHKO, such as Primarina, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, and Keldeo. <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> are both great teammates for Clodsire because they can switch into Ground-type attacks from Pokemon such as Excadrill, Great Tusk, and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. In return, Landorus is capable of dealing with Grass-type Pokemon such as <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a> and <a href=\"/dex/sv/pokemon/rillaboom/monotype/\" hreflang=\"en\">Rillaboom</a>, while Gliscor can stack more hazards. Unaware <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a> pairs well with Clodsire, as it checks setup sweepers such as <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>. Furthermore, Quagsire is capable of using Toxic, allowing Clodsire to freely run Toxic Spikes, adding to the team's hazard stacking prowess. <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> not only forms a potent hazard stacking core with Clodsire but can switch into Psychic-type attacks.</p>",
+          "abilities": [
+            "Water Absorb"
+          ],
+          "items": [
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Haze",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poison Jab",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 160,
+              "spa": 0,
+              "spd": 96,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "The Clod (Special Wall) (Poison)",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Due to its amazing Special Defense and ability in Unaware, Clodsire is a wall that can check the multitude of special setup sweepers in the tier such as <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. Earthquake deals solid damage to threats like Volcarona, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Low Kick allows Clodsire to deal with Hydreigon and pop Air Balloon on the likes of Heatran and Raging Bolt. Stealth Rock can chip Flying-types like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> that wall it. Alternatively, Spikes can be used to provide more reliable chip damage on threats such as <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, which majorly threaten Clodsire. Alternatively, Curse can let Clodsire boost its Defense, turning it into a threatening wincon, and allow it to comfortably handle physical attackers like <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>. Furthermore, other defensive invested variants can be explored but should still opt for Careful to check Raging Bolt.</p>\n<p><a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> assist Clodsire by being defensive walls capable of taking on Water-type threats such as <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/quaquaval/monotype/\" hreflang=\"en\">Quaquaval</a>, and <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>. Amoonguss can also take on Ground-types that threaten Clodsire like Great Tusk and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, while Toxapex can handle Ice-type threats like <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/cloyster/monotype/\" hreflang=\"en\">Cloyster</a>. <a href=\"/dex/sv/pokemon/overqwil/monotype/\" hreflang=\"en\">Overqwil</a> can handle threats like <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, and it can complement Clodsire by running Spikes and Toxic Spikes to create an entry hazard-stacking core. Galarian Weezing provides entry hazard removal with Defog and burns physical setup sweepers like Iron Hands, allowing Clodsire to easily wall them. <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> is a teammate with a Psychic immunity that can handle threats like <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a>. Clodsire appreciates <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a> being able to spread Corrosion Toxic onto walls like <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and Corviknight, which sit on Clodsire, along with being able to threaten Flying-types like <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> with Power Gem. <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> helps to remove Ice-type threats like <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/frosmoth/monotype/\" hreflang=\"en\">Frosmoth</a>. Okidogi and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> help break down Ice- and Steel-type threats Clodsire cannot handle such as <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/sandslash-alola/monotype/\" hreflang=\"en\">Alolan Sandslash</a>, and Skarmory.</p>",
+          "abilities": [
+            "Water Absorb",
+            "Unaware"
+          ],
+          "items": [
+            "Black Sludge",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Curse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          },
+          {
+            "user_id": 246753,
+            "username": "RoyalReloaded"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 305839,
+                "username": "Rio Vidal"
+              },
+              {
+                "user_id": 531302,
+                "username": "Aether"
+              },
+              {
+                "user_id": 547532,
+                "username": "Swiffix"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              },
+              {
+                "user_id": 659868,
+                "username": "Conflux123"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": null,
+      "overview": "<p>This Pokemon has been updated for the return of the Regulation G format and its powerful restricted threats!</p>",
+      "comments": "<h3>Specially Defensive Benchmarks</h3>\n<ul>\n<li>\n<p>If shoring up Clodsire's low Defense is a priority, here are some of the Special Defense benchmarks to keep in mind when shifting EVs.</p>\n</li>\n<li>\n<p><strong>252 HP and 52+ SpD</strong>: This avoids the 2HKO from Modest Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Shadow Ball.</p>\n</li>\n<li>\n<p><strong>252 HP and 108+ SpD</strong>: This avoids the 2HKO from Timid <a href=\"/dex/sv/pokemon/calyrex-shadow/battle-stadium-singles/\" hreflang=\"en\">Calyrex-S</a>'s Astral Barrage.</p>\n</li>\n<li>\n<p><strong>252 HP and 124+ SpD</strong>: This avoids the 2HKO from Modest Choice Specs Flutter Mane's Shadow Ball after taking Stealth Rock damage.</p>\n</li>\n<li>\n<p><strong>252 HP and 148+ SpD</strong>: This avoids the 2HKO from Modest <a href=\"/dex/sv/pokemon/kyogre/battle-stadium-singles/\" hreflang=\"en\">Kyogre</a>'s Ice Beam without having to Terastallize.</p>\n</li>\n<li>\n<p><strong>252 HP and 180+ SpD</strong>: This avoids the 2HKO from Timid Calyrex-S's Astral Barrage after taking Stealth Rock damage.</p>\n</li>\n<li>\n<p><strong>252 HP and 220+ SpD</strong>: This avoids the 2HKO from the rare Modest Calyrex-S's Astral Barrage.</p>\n</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Special Wall",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Clodsire's incredible bulk and typing make it a fantastic special wall against top restricted Pokemon like <a href=\"/dex/sv/pokemon/miraidon/battle-stadium-singles/\" hreflang=\"en\">Miraidon</a>, while boasting an equally fantastic support movepool.</p>\n</li>\n<li>\n<p><strong>Earthquake versus Earth Power</strong>: Earthquake easily surpasses Earth Power in terms of general power. However, Earth Power has a useful niche in that it can deal big damage to <a href=\"/dex/sv/pokemon/glimmora/battle-stadium-singles/\" hreflang=\"en\">Glimmora</a> without triggering Toxic Debris, as well as being more consistent into Stamina <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a>.</p>\n</li>\n<li>\n<p><strong>Toxic Spikes versus Stealth Rock</strong>: Toxic Spikes support is fantastic on Clodsire, making it more difficult for opposing teams to play around getting poisoned. On the other hand, Stealth Rock can be used to pressure Poison- and Flying-types that might otherwise think they are safe from Clodsire's hazards, as well as being good support in general against <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/lunala/battle-stadium-singles/\" hreflang=\"en\">Lunala</a> and Focus Sash users.</p>\n</li>\n<li>\n<p><strong>Amnesia</strong>: Amnesia elevates Clodsire's Special Defense to crazy levels, potentially shutting out special attacking aces like Miraidon and <a href=\"/dex/sv/pokemon/terapagos/battle-stadium-singles/\" hreflang=\"en\">Terapagos</a>, as well as <a href=\"/dex/sv/pokemon/lugia/battle-stadium-singles/\" hreflang=\"en\">Lugia</a> when paired with Tera Dark.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li><strong>Protect</strong>: In addition to benefiting from Leftovers and Black Sludge, Protect can pair well with the passive damage caused from either Toxic or Toxic Spikes.</li>\n</ul>\n<h4>Abilities</h4>\n<ul>\n<li>\n<p><strong>Water Absorb</strong>: Water Absorb has fantastic defensive utility in the current format against <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>’s Surging Strikes, <a href=\"/dex/sv/pokemon/kyogre/battle-stadium-singles/\" hreflang=\"en\">Kyogre</a>’s Water Spout, and <a href=\"/dex/sv/pokemon/alomomola/battle-stadium-singles/\" hreflang=\"en\">Alomomola</a>’s Flip Turn, and can even be combined with Terastallization to further disrupt Water-type Pokemon like the above.</p>\n</li>\n<li>\n<p><strong>Unaware</strong>: Unaware make Clodsire more consistent against the likes of Nasty Plot <a href=\"/dex/sv/pokemon/calyrex-shadow/battle-stadium-singles/\" hreflang=\"en\">Calyrex-S</a> and Calm Mind Miraidon.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Sitrus Berry</strong>: Even with Clodsire's high Special Defense, the burst healing from Sitrus Berry goes a long way. With full special bulk investment, Sitrus Berry let's Clodsire always avoids the 2HKO from Choice Specs Miraidon's Draco Meteor after the Special Attack drop.</p>\n</li>\n<li>\n<p><strong>Black Sludge versus Leftovers</strong>: Black Sludge may seem appealing, but it punishes Clodsire for Terastallizing unless it becomes Tera Poison, so Leftovers is preferred unless Leftovers is already on something else.</p>\n</li>\n<li>\n<p><strong>Covert Cloak</strong>: If running something other than a Dark-type Terastallization, Covert Cloak is an alternate option to preventing Psychic Noise's heal block.</p>\n</li>\n<li>\n<p><strong>Mental Herb</strong>: Clodsire's support focus often draws in Taunt users, so Mental Herb is one way to make sure a critical turn of Toxic or Toxic Spikes use still happens.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low / Medium</strong>: Clodsire is often a part of defensive cycles that help cover its weaknesses, but Terastallization can generate big momentum when used at the right time.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: Lugia's Psychic Noise is an issue for Clodsire, so Tera Dark can flip the tables on it as well as resisting Astral Barrage from Calyrex-S and Shadow Ball from <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>; keep in mind though that both Calyrex-S and Flutter Mane can heavily punish Clodsire's new Fairy-type weakness, so timing is key. Finally, Tera Dark also prevents Prankster <a href=\"/dex/sv/pokemon/grimmsnarl/battle-stadium-singles/\" hreflang=\"en\">Grimmsnarl</a> from shutting down Clodsire with Taunt.</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: Tera Ghost's Fighting-type immunity combined with Water Absorb can make Urshifu-R miserable even if Clodsire hasn't invested in physical bulk. It also allows Clodsire to escape from Shadow Tag <a href=\"/dex/sv/pokemon/gothitelle/battle-stadium-singles/\" hreflang=\"en\">Gothitelle</a>.</p>\n</li>\n<li>\n<p><strong>Normal</strong>: Tera Normal's Ghost-type immunity makes walling Calyrex-S even easier and, unlike Tera Dark, avoids gaining a Fairy-type weakness.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: With Tera Poison, Clodsire maintains its ability to absorb Toxic Spikes and can also safely run Black Sludge to punish users of Trick.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: While Water Absorb prevents Kyogre from using its powerful Water-type attacks, Tera Electric goes further by taking away Clodsire's weakness to Ice Beam while still being strong against Thunder and paralysis.</p>\n</li>\n</ul>\n<h4>Alternative EV Spreads</h4>\n<ul>\n<li><strong>252 HP / 100 Def / 156 Spe with Careful or Calm</strong>: This spread sacrifices some special bulk in order to avoid the 2HKO from Adamant Tera Normal Dragonite's Extreme Speed.</li>\n</ul>",
+          "abilities": [
+            "Water Absorb",
+            "Unaware"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Leftovers",
+            "Black Sludge"
+          ],
+          "teratypes": [
+            "Dark",
+            "Ghost",
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Amnesia",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful",
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "<p>Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.</p>\n<p>If you feel this analysis is not up to date, <a href=\"https://www.smogon.com/forums/threads/clodsire.3712165/\">feel free to check out the thread for this Pokemon and post suggestions</a>. For more discussion and resources on Series 1 in general, <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-1-a-land-free-of-ruins-and-paradoxes.3711710/\">check out this thread</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>While Clodsire is lacking in physical bulk compared to <a href=\"/dex/sv/pokemon/dondozo/bss-series-1/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/skeledirge/bss-series-1/\" hreflang=\"en\">Skeledirge</a>, it makes up for it in having a fantastic support movepool.</p>\n</li>\n<li>\n<p>Yawn is very effective at forcing switches, which is especially dangerous if Stealth Rock is set up.</p>\n</li>\n<li>\n<p>Poison Jab is Clodsire's best move against Tera Fairy <a href=\"/dex/sv/pokemon/rotom-wash/bss-series-1/\" hreflang=\"en\">Rotom-W</a>, which is an especially important target when using Water Absorb.</p>\n</li>\n<li>\n<p>Protect, in addition to benefiting from Leftovers, pairs well with Yawn.</p>\n</li>\n<li>\n<p>Body Press isn't particularly strong, but it does prevent Clodsire from being totally walled by Tera Steel <a href=\"/dex/sv/pokemon/hydreigon/bss-series-1/\" hreflang=\"en\">Hydreigon</a> if using a physically defensive spread.</p>\n</li>\n<li>\n<p>Black Sludge may seem appealing, but it punishes Clodsire for Terastalliizing unless it becomes Tera Poison, so Leftovers is preferred unless Leftovers is already on something else.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Flying</strong>: With a Flying Tera type, Clodsire no longer has to worry about Earthquake or Fissure.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: A Steel Tera type allows Clodsire to take on powerful Dragon-type attacks, without the worry of <a href=\"/dex/sv/pokemon/gholdengo/bss-series-1/\" hreflang=\"en\">Gholdengo</a> dealing massive damage.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: With Tera Poison, Clodsire not only becomes a better check to Grass- and Water-types such as Meowscarda and Rotom-W, but it can also safely run Black Sludge to punish users of Trick.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: A Fairy Tera type will stop powerful Dragon-type attacks cold without making Clodsire weak to Earthquake, but it comes at the cost of compromising its ability to check Gholdengo.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: <a href=\"/dex/sv/pokemon/espathra/bss-series-1/\" hreflang=\"en\">Espathra</a>'s Stored Power is a big issue for Clodsire, so Tera Dark can flip the tables on it.</p>\n</li>\n</ul>\n<h4>Abilities</h4>\n<ul>\n<li>\n<p><strong>Unaware</strong>: If you're planning to use Clodsire to its fullest defensive potential, Unaware is the best bet against setup foes.</p>\n</li>\n<li>\n<p><strong>Water Absorb</strong>: Water Absorb sacrifices overall defensive potential in exchange for being able to wall Rotom-W without needing to Terastallize. If setting up Stealth Rock is important, this can be worth it.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 SpD / 4 Spe with Careful</strong>: Maximizing Special Defense is Clodsire's best hope for handling powerful special attackers such as Choice Specs Hydreigon.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 Def / 4 Spe with Impish</strong>: Clodsire's Defense may be mediocre, but with maximum investment, it can pull stunts such as usually avoiding a 2HKO from Jolly <a href=\"/dex/sv/pokemon/dragonite/bss-series-1/\" hreflang=\"en\">Dragonite</a>'s Outrage with Leftovers.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Unaware",
+            "Water Absorb"
+          ],
+          "items": [
+            "Leftovers",
+            "Black Sludge"
+          ],
+          "teratypes": [
+            "Flying",
+            "Steel",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Poison Jab",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful",
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>With Paradox Pokemon being introduced, Series 2 is bringing big new changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>While Clodsire is lacking in physical bulk compared to <a href=\"/dex/sv/pokemon/dondozo/bss-series-2/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/skeledirge/bss-series-2/\" hreflang=\"en\">Skeledirge</a>, it makes up for it in having a fantastic support movepool.</p>\n</li>\n<li>\n<p><strong>Yawn</strong>: Yawn is very effective at forcing switches, which is especially dangerous if Stealth Rock is set up.</p>\n</li>\n<li>\n<p><strong>Protect</strong>: In addition to benefiting from Leftovers, Protect pairs well with Yawn.</p>\n</li>\n<li>\n<p><strong>Low Kick</strong>: This prevents Clodsire from being totally walled by Tera Steel <a href=\"/dex/sv/pokemon/hydreigon/bss-series-2/\" hreflang=\"en\">Hydreigon</a>.</p>\n</li>\n<li>\n<p><strong>Amnesia</strong>: With Amnesia, Clodsire has a far better match-up against powerful special attacking foes such as Hydreigon and <a href=\"/dex/sv/pokemon/iron-bundle/bss-series-2/\" hreflang=\"en\">Iron Bundle</a>.</p>\n</li>\n<li>\n<p><strong>Black Sludge versus Leftovers</strong>: Black Sludge may seem appealing, but it punishes Clodsire for Terastalliizing unless it becomes Tera Poison, so Leftovers is preferred unless Leftovers is already on something else.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Flying</strong>: With a Flying Tera type, Clodsire no longer has to worry about Earthquake or Fissure.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: A Steel Tera type allows Clodsire to take on powerful Dragon-type attacks, without the worry of <a href=\"/dex/sv/pokemon/gholdengo/bss-series-2/\" hreflang=\"en\">Gholdengo</a> dealing massive damage.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: With Tera Poison, Clodsire not only becomes a better check to Grass- and Water-types such as Meowscarda and <a href=\"/dex/sv/pokemon/rotom-wash/bss-series-2/\" hreflang=\"en\">Rotom-W</a>, but it can also safely run Black Sludge to punish users of Trick.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: A Fairy Tera type will stop powerful Dragon-type attacks cold without making Clodsire weak to Earthquake, but it comes at the cost of compromising its ability to check Gholdengo.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: <a href=\"/dex/sv/pokemon/espathra/bss-series-2/\" hreflang=\"en\">Espathra</a>'s Stored Power is a big issue for Clodsire, so Tera Dark can flip the tables on it.</p>\n</li>\n</ul>\n<h4>Abilities</h4>\n<ul>\n<li>\n<p><strong>Unaware</strong>: If you're planning to use Clodsire to its fullest defensive potential, Unaware is the best bet against setup foes.</p>\n</li>\n<li>\n<p><strong>Water Absorb</strong>: Water Absorb sacrifices overall defensive potential in exchange for being able to wall Rotom-W without needing to Terastallize. If setting up Stealth Rock is important, this can be worth it.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 SpD / 4 Spe with Careful</strong>: Maximizing Special Defense is Clodsire's best hope for handling powerful special attackers such as Choice Specs Hydreigon.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 Def / 4 Spe with Impish</strong>: Clodsire's Defense may be mediocre, but with maximum investment, it can pull stunts such as usually avoiding a 2HKO from Jolly <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a>'s Outrage with Leftovers.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Unaware",
+            "Water Absorb"
+          ],
+          "items": [
+            "Leftovers",
+            "Black Sludge"
+          ],
+          "teratypes": [
+            "Flying",
+            "Steel",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Yawn",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Amnesia",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful",
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BH",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Magic Bounce",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set while we work on the full analysis!</p>",
+          "abilities": [
+            "Magic Bounce"
+          ],
+          "items": [
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shore Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ruination",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Topsy-Turvy",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 252,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware",
+            "Water Absorb"
+          ],
+          "items": [
+            "Black Sludge",
+            "Covert Cloak",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Precipice Blades",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Baneful Bunker",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shore Up",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 8-9 points</p>\n<p><strong>Overview</strong>: Clodsire is a good specially defensive wall, thanks to its solid stats and defensive typing. It also has two great abilities in Water Absorb, which covers its weakness to Water, and Unaware, which allows it to check setup sweepers. Clodsire also brings utility to the team. However, it has poor matchups against many physical wallbreakers, thanks to its poor physical bulk and crippling weaknesses to Ground and Ice. It also has poor offensive stats and is thus vulnerable to foes using Taunt, Substitute, and other stallbreaking strategies.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Unaware Wall</strong>: Clodsire can handle most special setup sweepers that cannot hit it with super effective STAB moves, thanks to Unaware. It also has the ability to set up entry hazards and use utility moves, such as Toxic and Haze, in the face of foes trying to boost. However, even with Unaware, Clodsire remains vulnerable to moves like Taunt, Encore, and Substitute, enabling even special sweepers to muscle past it.</p>\n<p><strong>Defensive Utility</strong>: Utilizing its great special bulk, Clodsire can support its teammates in numerous ways, including setting entry hazards and statusing opposing Pokemon with Toxic or Yawn. Water Absorb allows Clodsire to switch into certain Water-type Pokemon, like <a href=\"/dex/sv/pokemon/keldeo/draft/\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/sv/pokemon/walking-wake/draft/\" hreflang=\"en\">Walking Wake</a>. Despite Clodsire's poor Defense, it can also check some physical attackers that cannot hit it super effectively thanks to its great HP.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Earthquake, Poison Jab, High Horsepower, Stomping Tantrum, Gunk Shot</p>\n<p><strong>Setup Moves</strong>: Curse, Amnesia</p>\n<p><strong>Utility Moves</strong>: Haze, Recover, Protect, Spikes, Stealth Rock, Toxic, Toxic Spikes, Yawn, Bulldoze</p>\n<p><strong>Coverage</strong>: Heavy Slam, Iron Head, Liquidation, Rock Slide, Stone Edge, Waterfall, Megahorn, Body Press, Low Kick</p>\n<h3>Niche Moves</h3>\n<p><strong>Counter</strong>: Counter can be used to improve Clodsire's matchup against physical attackers and is especially effective with a Focus Sash or resistance Berry. With Counter, Clodsire can effectively lure and surprise Pokemon that would otherwise give your team problems.</p>\n<p><strong>Endure</strong>: Endure is typically used in tandem with Custap Berry, which enables Clodsire to make progress where it normally could not. For example, by using Endure against a Pokemon like <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a> that would normally OHKO it, Clodsire can set up entry hazards, inflict a status condition, use Haze, or KO with a direct attack if the foe is chipped down enough.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots is useful in matchups where entry hazards are likely to stay up on your side of the field. This ensures Clodsire can properly check the Pokemon it is supposed to.</p>\n<p><strong>Black Sludge / Leftovers</strong>: These items provide Clodsire with passive recovery, which greatly improves Clodsire's longevity. If Clodsire is your Tera Captain, it should use Leftovers. Otherwise, Black Sludge is its go-to to punish Trick users.</p>\n<h3>Niche Items</h3>\n<p><strong>Mental Herb</strong>: Mental Herb prevents Taunt from affecting Clodsire once, meaning it can set entry hazards or status foes much more freely.</p>\n<p><strong>Covert Cloak</strong>: Clodsire appreciates Covert Cloak preventing harmful secondary effects from moves, like Special Defense drops, flinches from certain attacks, and the passive damage from <a href=\"/dex/sv/pokemon/garganacl/draft/\" hreflang=\"en\">Garganacl</a>'s Salt Cure.</p>\n<p><strong>Resistance Berries</strong>: Certain Berries, such as Yache, Payapa, and Shuca Berry, can be useful to take a super effective attack from a Pokemon your team might not have answers to otherwise.</p>\n<p><strong>Custap Berry</strong>: Especially when combined with Endure, Custap Berry allows Clodsire to circumvent its awful Speed when at low HP.</p>\n<h3>Tera</h3>\n<p>It is not generally recommended to make Clodsire your Tera Captain, as it does not bring much offensive prowess to the table. However, as a secondary Tera Captain or in leagues without a Tera restriction, Clodsire can utilize Tera to turn the tables on certain Pokemon that would otherwise be problematic for a team, such as <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a> with Tera Fire, Dark, and Flying, respectively.</p>\n<h3>Draft Strategy</h3>\n<p>Clodsire should not be the focus of a draft , but rather a strong supporting pieced with its utility and defensive profile. Being a grounded Poison-type, it resists Fairy and absorbs Toxic Spikes, both excellent traits on bulkier teams. However, Clodsire has a few key flaws that should be addressed when drafting with it in mind.</p>\n<p><strong>Physically Bulky Pokemon</strong>: Clodsire has poor Defense .Although this can somewhat be alleviated with investment thanks to its great HP, you should still draft a physically bulky Pokemon, such as <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, or <a href=\"/dex/sv/pokemon/sinistcha/draft/\" hreflang=\"en\">Sinistcha</a>.</p>\n<p><strong>Entry Hazard Removal</strong>: Without Heavy-Duty Boots, Clodsire becomes vulnerable to chip damage from hazards. Hence, Pokemon that can reliably clear hazards off the field, like <a href=\"/dex/sv/pokemon/cyclizar/draft/\" hreflang=\"en\">Cyclizar</a> and Corviknight, are greatly appreciated. Spinners in particular are valuable, since Clodsire likes to make progress via hazards.</p>\n<p><strong>Wincons</strong>: Regardless of its moveset, Clodsire is vulnerable to being overwhelmed by opposing offensive threats, which makes fast wincons such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, and Latios valuable teammates.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Physical Wallbreakers</strong>: Clodsire's poor Defense means that strong physical wallbreakers and physical attackers that can threaten it for super effective damage generally force it out.</p>\n<p><strong>Poison-immune Pokemon</strong>: Clodsire's poor attacking stats make it reliant on Toxic to deal damage. Hence, any Pokemon that are immune to Toxic generally do well against it, although most Poison- and Steel-types must be wary of Clodsire's Earthquake.</p>\n<p><strong>Stallbreaking</strong>: Due to Clodsire's poor Attack, it can be quite passive, making it weak to moves such as Taunt and Encore, which can stop it from making progress through status moves. Substitute enables opposing Pokemon to ignore Clodsire's main form of damage in Toxic, and Stored Power enables special sweepers to muscle past it in spite of Unaware.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 586482,
+            "username": "BoingK"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 613460,
+                "username": "vmnunes"
+              },
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physical Wall (Def)",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Amnesia",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Water Absorb (Ground)",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Due to its incredible bulk and the ability to neutralize Water-type moves with Water Absorb, Clodsire is a staple for Ground teams, as it is able to stop threats such as <a href=\"/dex/sv/pokemon/pelipper/national-dex-monotype/\" hreflang=\"en\">Pelipper</a>, <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-monotype/\" hreflang=\"en\">Tapu Fini</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>. Poison Jab not only spreads status but also lets it hit Grass- and Fairy-type Pokemon such as <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex-monotype/\" hreflang=\"en\">Tapu Bulu</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a>. Pairing Haze up with Icium Z allows Clodsire the ability to recover any damage from setup sweepers such as <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, Ogerpon-W, and <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>. The given EV spread allows Clodsire avoid a 2KHO from Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> with Flower Trick, unboosted Ogerpon-W with Horn Leech, and Choice Scarf <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> with Ice Beam. <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> provides an immunity to Ground-type moves that threaten Clodsire and offensively threatens Pokemon like Tapu Bulu, <a href=\"/dex/sv/pokemon/celebi/national-dex-monotype/\" hreflang=\"en\">Celebi</a>, and <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>. <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a> is a phenomenal defensive teammate, as it provides Stealth Rock support along with setting sand upon switching in. Hippowdon also defensively supports Clodsire by checking the likes of <a href=\"/dex/sv/pokemon/ceruledge/national-dex-monotype/\" hreflang=\"en\">Ceruledge</a>, <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>. <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, in conjunction with sand, is a powerful wallbreaker for Clodsire that can outspeed many Pokemon and deal raw damage with a Choice Band, checking threats such as <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, Greninja, and <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>. <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a> is an effective teammate that assists by checking Dragon-type threats such as Kommo-o and <a href=\"/dex/sv/pokemon/kyurem/national-dex-monotype/\" hreflang=\"en\">Kyurem</a>. <a href=\"/dex/sv/pokemon/mamoswine/national-dex-monotype/\" hreflang=\"en\">Mamoswine</a> is another great teammate for Clodsire, as its Ice typing and powerful STAB moves assists in checking threats like the Landorus formes and <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>. Both Mamoswine and Garchomp deal offensive pressure to Steel- and Flying types such as <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a> and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>, which Clodsire cannot do on its own.</p>",
+          "abilities": [
+            "Water Absorb"
+          ],
+          "items": [
+            "Icium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poison Jab",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Haze",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 160,
+              "spa": 0,
+              "spd": 96,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Unaware (Poison)",
+          "pokemon": "Clodsire",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Clodsire is an incredible specially defensive wall for Poison teams thanks to its solid stats and ability in Unaware, making it a solid check into special threats such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>. Low Kick is used to break Hydreigon's Substitute along with popping Air Balloon from <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, while Poison Jab can be used to spread poison and do consistent damage to Flying-types like <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a>. Clodsire's access to both Spikes and Stealth Rock provides it with good opportunities to set entry hazards, with Stealth Rock being preferred because it damages every Pokemon. Alternatively, Curse can patch up Clodsire's poor physical stats and make it a win condition. <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> serves as a great defensive compliment to Clodsire with its ability to handle Water- and Ground-types like <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex-monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>. <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> supports Clodsire by dealing with special attackers that threaten Clodsire like <a href=\"/dex/sv/pokemon/latios/national-dex-monotype/\" hreflang=\"en\">Latios</a>, <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a>, and Celebrate <a href=\"/dex/sv/pokemon/victini/national-dex-monotype/\" hreflang=\"en\">Victini</a>. <a href=\"/dex/sv/pokemon/crobat/national-dex-monotype/\" hreflang=\"en\">Crobat</a> provides a solid Ground immunity, Defog to remove entry hazards while checking threats like <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>, and Toxic to help outlast opponents. Choice Scarf <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a> supports Clodsire by removing Ice- and Flying-types like <a href=\"/dex/sv/pokemon/weavile/national-dex-monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, the <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> formes, and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>. Choice Scarf <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a> can help remove problematic faster threats like Choice Scarf Excadrill, Weavile, and Choice Scarf Tapu Lele while greatly appreciating Clodsire's hazards to damage <a href=\"/dex/sv/pokemon/porygon2/national-dex-monotype/\" hreflang=\"en\">Porygon2</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, along with its ability to use Switcheroo to force an unwanted Choice Scarf onto targets like <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>.</p>",
+          "abilities": [
+            "Unaware"
+          ],
+          "items": [
+            "Black Sludge"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Poison Jab",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Curse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 635656,
+            "username": "Irys"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "After You",
+    "Amnesia",
+    "Ancient Power",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Chilling Water",
+    "Counter",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Double Kick",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Giga Impact",
+    "Gunk Shot",
+    "Haze",
+    "Heavy Slam",
+    "Helping Hand",
+    "High Horsepower",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Iron Head",
+    "Liquidation",
+    "Low Kick",
+    "Megahorn",
+    "Mist",
+    "Muddy Water",
+    "Mud Shot",
+    "Mud-Slap",
+    "Poison Jab",
+    "Poison Sting",
+    "Poison Tail",
+    "Protect",
+    "Rain Dance",
+    "Recover",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Slam",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Spikes",
+    "Spit Up",
+    "Stealth Rock",
+    "Stockpile",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Surf",
+    "Swallow",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Toxic",
+    "Toxic Spikes",
+    "Trailblaze",
+    "Venoshock",
+    "Waterfall",
+    "Water Pulse",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

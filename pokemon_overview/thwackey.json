@@ -1,0 +1,338 @@
+{
+  "name": "Thwackey",
+  "alias": "thwackey",
+  "types": [
+    "Grass"
+  ],
+  "stats": [
+    70,
+    85,
+    70,
+    55,
+    60,
+    80
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Setter",
+          "pokemon": "Thwackey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Grassy Surge"
+          ],
+          "items": [
+            "Terrain Extender"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Grassy Glide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 240,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 2-3 points</p>\n<p><strong>Overview</strong>: Thwackey is a very strong budget Grass-type. For just a couple of points, it effectively takes Water- and Ground-type attacks, provides Terrain support, and packs strong priority. Many Unburden Pokemon appreciate Terrain, and a lot of Pokemon generally just appreciate the Grassy Terrain recovery. However, Thwackey can't do all of this at once. Its middling base stats force it to invest in any stats it wants to properly use. Also, it suffers the same issues of many other cheap Grass-types with plenty of weaknesses.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Pivot</strong>: Thwackey can utilize strong support moves like Leech Seed and U-turn to pivot into foes that it resists, setting Grassy Terrain in the process to support its teammates. It can serve as a defensive pivot or even a fast pivot with Choice Scarf.</p>\n<p><strong>Wallbreaker</strong>: Thwackey can utilize Terrain to get the boost it needs to wallbreak. Grassy Terrain, a damage-boosting item, and setup can all help it threaten good damage, and Grassy Glide can help pick foes off and get off an extra hit before going down.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Grassy Glide, Wood Hammer</p>\n<p><strong>Setup Moves</strong>: Swords Dance</p>\n<p><strong>Utility Moves</strong>: U-turn, Leech Seed, Taunt, Substitute</p>\n<p><strong>Coverage</strong>: Knock Off, Drain Punch, Low Kick, Acrobatics</p>\n<h3>Niche Moves</h3>\n<p><strong>Endeavor</strong>: Endeavor is a decent option to land a surprising amount of damage against foes that resist Thwackey's attacks. Its middling HP stat helps it do more damage a lot of the time as well. It can usually tank a hit with an Eviolite, allowing it to use Endeavor more often.</p>\n<h3>Common Items</h3>\n<p><strong>Eviolite</strong>: Any defensive Thwackey set should pretty much always run Eviolite. The boost in its defenses is essential to its pivoting, giving it significant bulk. Offensive sets such as Swords Dance can also utilize Eviolite to set up more effectively.</p>\n<p><strong>Choice Band</strong>: Choice Band gives Thwackey respectable damage as a wallbreaker, and the damage boosting is often necessary for Grassy Glide to net revenge kills.</p>\n<h3>Niche Items</h3>\n<p><strong>Damage-boosting items</strong>: Items such as Life Orb and Miracle Seed can be used on wallbreaking sets if both damage boosting and switching moves is needed.</p>\n<p><strong>Grassy Seed</strong>: Grassy Seed is primarily useful when paired with Acrobatics or if Knock Off is anticipated. Otherwise, Eviolite is much more consistent.</p>\n<p><strong>Terrain Extender</strong>: Terrain Extender can be useful if a team is very reliant on Terrain. It gives bulky teammates further recovery and Unburden users more time to hit the field.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf allows Thwackey to serve as a fast pivot and potentially revenge kill foes with Wood Hammer and other coverage moves.</p>\n<h3>Tera</h3>\n<p>Thwackey does not need Tera nearly as much as its teammates. It should only be considered as a Tera Captain when paired with a high-price Captain and when options for a second Captain are limited. If this is the case, it should often use Tera Grass to boost its Grass-type moves even further. Offensive types may include Tera Fire, Rock, and Electric to let Thwackey hit foes that normally wall it. Defensive types may include Water, Ghost, and Fairy to give it a better defensive typing. Keep in mind that even if it is a Tera Captain, it does not Terastallize often, since it is usually paired with a more expensive primary Tera Captain.</p>\n<h3>Draft Strategy</h3>\n<p>Thwackey is primarily drafted for its ability to set Grassy Terrain and pivot out for a very cheap price. It also fills the role of a defensive Grass-type, but the Terrain is what makes it significantly better than other options. Its strong priority is also a selling point on teams that want one more revenge killing option late into the draft.</p>\n<p><strong>Unburden Sweepers</strong>: Terrain is often essential for Unburden sweepers to get their Speed boost late-game to sweep. Pokemon such as <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/hawlucha/draft/\" hreflang=\"en\">Hawlucha</a>, and <a href=\"/dex/sv/pokemon/drifblim/draft/\" hreflang=\"en\">Drifblim</a> all deeply appreciate the Terrain provided by Thwackey.</p>\n<p><strong>Calm Mind Sweepers</strong>: Calm Mind sweepers often appreciate the ability to get an immediate Defense boost with a Grassy Seed as well as the recovery that follows. Pokemon such as <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, <a href=\"/dex/sv/pokemon/necrozma/draft/\" hreflang=\"en\">Necrozma</a>, and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/draft/\" hreflang=\"en\">Ursaluna-B</a> all appreciate the Terrain support.</p>\n<p><strong>Bulky Pokemon Without Recovery</strong>: Grassy Terrain is useful in giving teammates without recovery more longevity, including <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/archaludon/draft/\" hreflang=\"en\">Archaludon</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Flying-types</strong>: The most notable type that Thwackey struggles with is Flying, since it has no way to reliably hit most of them. Many also get U-turn, often shifting the momentum in the opponent's favor. Pokemon such as <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/mandibuzz/draft/\" hreflang=\"en\">Mandibuzz</a> are all easily able to take advantage of Thwackey in this way.</p>\n<p><strong>Other Bulky Grass-resistant Pokemon</strong>: Thwackey often has trouble with the many other types that resist Grass due to its lack of damage outside of its STAB moves. They force it to run specific coverage, which often doesn't deal enough damage, and they can easily maintain positive momentum against it. Pokemon such as <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a> are all excellent counters.</p>\n<p><strong>Bulky Wallbreakers</strong>: Given its middling base stats, Thwackey often has trouble with high-base stat foes that take its hits well and can easily revenge kill. Pokemon such as Gouging Fire, <a href=\"/dex/sv/pokemon/baxcalibur/draft/\" hreflang=\"en\">Baxcalibur</a>, and Iron Hands are all excellent checks for this reason.</p>\n<p><strong>Adverse Contact Effects</strong>: Foes with abilities that trigger on contact moves such as Static and Flame Body are very annoying for Thwackey. Also, if it wants to be using Wood Hammer repeatedly, it becomes very limited by statuses that slow it down or damage it over time. Pokemon such as <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/moltres/draft/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/talonflame/draft/\" hreflang=\"en\">Talonflame</a> can all annoy Thwackey. Also, most bulky Pokemon can run Rocky Helmet to achieve a similar result.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 304744,
+            "username": "StreetCredCookie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "<p>Thwackey is one of NFE's top wallbreakers, pivots, and cleaners, and it's a staple for offensive teams. Whether it runs Choice Band to immediately empower its moves or Swords Dance to make it even scarier to switch into, its threatening Grassy Terrain-powered attacks like the powerful Wood Hammer and priority move in Grassy Glide can decimate teams without a Grass-resistant Pokemon, and even Grass-resistant Pokemon do not appreciate its utility in Knock Off and U-turn. Unlike most wallbreakers, Thwackey's Grassy Glide also enables it to pick off faster wallbreakers like <a href=\"/dex/sv/pokemon/frogadier/nfe/\" hreflang=\"en\">Frogadier</a> and <a href=\"/dex/sv/pokemon/pikachu/nfe/\" hreflang=\"en\">Pikachu</a>, and its Grassy Surge ability also provides valuable healing for offensive and defensive Pokemon that need recovery, like <a href=\"/dex/sv/pokemon/pignite/nfe/\" hreflang=\"en\">Pignite</a> and <a href=\"/dex/sv/pokemon/tinkatuff/nfe/\" hreflang=\"en\">Tinkatuff</a>. However, Thwackey can struggle to bypass Grass-resistant checks like Tinkatuff and <a href=\"/dex/sv/pokemon/ivysaur/nfe/\" hreflang=\"en\">Ivysaur</a> due to relying on its utility moves for coverage. Outside of Grassy Terrain, its merely good Speed leaves it vulnerable to getting picked off by faster attackers like Frogadier and <a href=\"/dex/sv/pokemon/drakloak/nfe/\" hreflang=\"en\">Drakloak</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>A Grassy Seed + Acrobatics set gives Thwackey extra coverage against Grass-types like <a href=\"/dex/sv/pokemon/servine/nfe/\" hreflang=\"en\">Servine</a>, <a href=\"/dex/sv/pokemon/ivysaur/nfe/\" hreflang=\"en\">Ivysaur</a>, and opposing Thwackey without needing to pivot, though Grassy Seed's one-time nature and needing to give up U-turn or Swords Dance makes this set more difficult to fit. Hammer Arm is an option over Wood Hammer to give Thwackey the ability to heavily damage <a href=\"/dex/sv/pokemon/sliggoo-hisui/nfe/\" hreflang=\"en\">Hisuian Sliggoo</a> and is a strong neutral option into <a href=\"/dex/sv/pokemon/pignite/nfe/\" hreflang=\"en\">Pignite</a> and <a href=\"/dex/sv/pokemon/monferno/nfe/\" hreflang=\"en\">Monferno</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Poison-types</strong>: Poison-types like <a href=\"/dex/sv/pokemon/koffing/nfe/\" hreflang=\"en\">Koffing</a>, Ivysaur, and <a href=\"/dex/sv/pokemon/varoom/nfe/\" hreflang=\"en\">Varoom</a> give Thwackey immense trouble by resisting its STAB moves and can heavily threaten it out with status and their own STAB moves in return.</p>\n<p><strong>Fire-types</strong>: Monferno, <a href=\"/dex/sv/pokemon/raboot/nfe/\" hreflang=\"en\">Raboot</a>, and the uncommon <a href=\"/dex/sv/pokemon/fletchinder/nfe/\" hreflang=\"en\">Fletchinder</a> can threaten immense damage on Thwackey with their STAB moves, though Raboot has a small chance of getting OHKOed by a boosted Wood Hammer, and Fletchinder hates stomaching Knock Off. While Pignite is slower and lacks U-turn, its bulk makes up for it and remains similarly threatening.</p>\n<p><strong>Steel-types</strong>: Steel-types like Hisuian Sliggoo and <a href=\"/dex/sv/pokemon/tinkatuff/nfe/\" hreflang=\"en\">Tinkatuff</a> resist its STAB moves and retaliate with powerful STAB moves or utility with Thunder Wave and Knock Off, respectively.</p>\n<p><strong>Faster Revenge Killers and Priority Moves</strong>: Once Grassy Terrain's duration ends, Thwackey's merely good Speed leaves it vulnerable to getting picked off by faster threats like <a href=\"/dex/sv/pokemon/pikachu/nfe/\" hreflang=\"en\">Pikachu</a>, <a href=\"/dex/sv/pokemon/frogadier/nfe/\" hreflang=\"en\">Frogadier</a>, and <a href=\"/dex/sv/pokemon/drakloak/nfe/\" hreflang=\"en\">Drakloak</a>, especially if Thwackey is holding a Choice Band. Priority moves like <a href=\"/dex/sv/pokemon/fraxure/nfe/\" hreflang=\"en\">Fraxure</a>'s First Impression and <a href=\"/dex/sv/pokemon/piloswine/nfe/\" hreflang=\"en\">Piloswine</a>'s Ice Shard also deal significant amounts of damage to it.</p>",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Thwackey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Band Thwackey is one of the best wallbreakers in the metagame, compressing priority, pivoting, and utility in one team slot. Grassy Glide is Thwackey's calling card, picking off faster revenge killers like <a href=\"/dex/sv/pokemon/frogadier/nfe/\" hreflang=\"en\">Frogadier</a> and <a href=\"/dex/sv/pokemon/pikachu/nfe/\" hreflang=\"en\">Pikachu</a>. Knock Off creates progress against foes resistant to its STAB moves like <a href=\"/dex/sv/pokemon/monferno/nfe/\" hreflang=\"en\">Monferno</a> and <a href=\"/dex/sv/pokemon/koffing/nfe/\" hreflang=\"en\">Koffing</a>, helping out teammates like <a href=\"/dex/sv/pokemon/piloswine/nfe/\" hreflang=\"en\">Piloswine</a> and <a href=\"/dex/sv/pokemon/pignite/nfe/\" hreflang=\"en\">Pignite</a>. U-turn lets Thwackey pivot out from unfavorable matchups like <a href=\"/dex/sv/pokemon/tinkatuff/nfe/\" hreflang=\"en\">Tinkatuff</a> and Pignite. Wood Hammer is its strongest STAB option and is strong enough to 2HKO <a href=\"/dex/sv/pokemon/dunsparce/nfe/\" hreflang=\"en\">Dunsparce</a> after Stealth Rock. An Adamant nature is needed to achieve these breakpoints, as these damage breakthroughs otherwise would be more difficult to achieve.</p>\n<p>Thwackey fits on a variety of builds, from balanced to offensive builds, and partners well with multiple Pokemon. <a href=\"/dex/sv/pokemon/quaxwell/nfe/\" hreflang=\"en\">Quaxwell</a> stands out as one of Thwackey's best partners, checking Fire-types and providing Flip Turn support to create a pivoting core. Fast revenge killers like Monferno and <a href=\"/dex/sv/pokemon/drakloak/nfe/\" hreflang=\"en\">Drakloak</a> can be similarly effective in forming pivoting cores. Walls like Koffing and Tinkatuff can spread paralysis and initiate progress through chipping threats down such as Drakloak and <a href=\"/dex/sv/pokemon/clefairy/nfe/\" hreflang=\"en\">Clefairy</a> with status and Knock Off, respectively; Tinkatuff also checks Poison-types. In return, Thwackey forces out Ground-types like <a href=\"/dex/sv/pokemon/gabite/nfe/\" hreflang=\"en\">Gabite</a> and Piloswine and weakens Ground-type attacks. Cleaners like Nasty Plot <a href=\"/dex/sv/pokemon/girafarig/nfe/\" hreflang=\"en\">Girafarig</a> and <a href=\"/dex/sv/pokemon/fraxure/nfe/\" hreflang=\"en\">Fraxure</a> can work together to overwhelm shared Steel-type checks. Opposing Grass-types and Grass-immune Pokemon like <a href=\"/dex/sv/pokemon/ivysaur/nfe/\" hreflang=\"en\">Ivysaur</a> and Girafarig are challenging foes if Thwackey is locked into the wrong move; Steel-types like <a href=\"/dex/sv/pokemon/sliggoo-hisui/nfe/\" hreflang=\"en\">Hisuian Sliggoo</a> and the aforementioned Tinkatuff can help check these foes and retaliate with powerful STAB moves and defensive utility, respectively.</p>",
+          "abilities": [
+            "Grassy Surge"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Grassy Glide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wood Hammer",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Thwackey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With priority, pivoting, and item disruption in one slot, Thwackey is a threatening all-out attacker or Swords Dance sweeper without the repercussions of being locked into one move. Knock Off creates progress against Grass-resistant foes like <a href=\"/dex/sv/pokemon/pignite/nfe/\" hreflang=\"en\">Pignite</a> and <a href=\"/dex/sv/pokemon/ivysaur/nfe/\" hreflang=\"en\">Ivysaur</a>. U-turn pivots Thwackey out from unfavorable matchups like <a href=\"/dex/sv/pokemon/tinkatuff/nfe/\" hreflang=\"en\">Tinkatuff</a>, Pignite, and <a href=\"/dex/sv/pokemon/sliggoo-hisui/nfe/\" hreflang=\"en\">Hisuian Sliggoo</a>. Wood Hammer can potentially 2HKO <a href=\"/dex/sv/pokemon/dunsparce/nfe/\" hreflang=\"en\">Dunsparce</a> and Pignite after Stealth Rock; Swords Dance is a solid alternative to bolster the power of Thwackey's attacks. Life Orb is used to make Thwackey even scarier to switch into, though Eviolite can be used instead to boost its defenses and ease setup.</p>\n<p>Thwackey fits on a variety of balanced and offensive team compositions, owing to its strong offensive toolkit. Thwackey's Grassy Terrain is valued for mitigating Ground-type damage from foes like <a href=\"/dex/sv/pokemon/piloswine/nfe/\" hreflang=\"en\">Piloswine</a> and <a href=\"/dex/sv/pokemon/gabite/nfe/\" hreflang=\"en\">Gabite</a>'s Earthquake. Examples of good partners include Tinkatuff, <a href=\"/dex/sv/pokemon/koffing/nfe/\" hreflang=\"en\">Koffing</a>, and <a href=\"/dex/sv/pokemon/monferno/nfe/\" hreflang=\"en\">Monferno</a>; the former two provide defensive utility with status and entry hazards, respectively, while Monferno helps form an offensive VoltTurn core while providing Knock Off utility. <a href=\"/dex/sv/pokemon/quaxwell/nfe/\" hreflang=\"en\">Quaxwell</a> checks Fire-types like <a href=\"/dex/sv/pokemon/raboot/nfe/\" hreflang=\"en\">Raboot</a> and Monferno while being a slow pivot to form VoltTurn cores with Thwackey. Poison-types like Koffing and Ivysaur and Tinkatuff prove to be challenging foes; checks to these respective typings like <a href=\"/dex/sv/pokemon/girafarig/nfe/\" hreflang=\"en\">Girafarig</a> and Piloswine are appreciated, while Thwackey provides passive recovery to its teammates in return. Steel-types like Tinkatuff and Hisuian Sliggoo both appreciate the reduced damage from Earthquake while providing defensive utility from the former and wallbreaking from the latter. Thunder Wave users like <a href=\"/dex/sv/pokemon/drakloak/nfe/\" hreflang=\"en\">Drakloak</a> and the aforementioned Tinkatuff can slow down faster checks like Girafarig and Raboot and make Thwackey even more daunting to switch into. Other wallbreakers and cleaners like Pignite and <a href=\"/dex/sv/pokemon/wartortle/nfe/\" hreflang=\"en\">Wartortle</a> benefit from Thwackey's offensive pivoting and can break through the opposition easier.</p>",
+          "abilities": [
+            "Grassy Surge"
+          ],
+          "items": [
+            "Life Orb",
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Grassy Glide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wood Hammer",
+                "type": null
+              },
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 543866,
+            "username": "5Dots"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 601970,
+                "username": "sleid"
+              },
+              {
+                "user_id": 451786,
+                "username": "Mirbro"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Body Slam",
+    "Branch Poke",
+    "Bullet Seed",
+    "Double-Edge",
+    "Double Hit",
+    "Drain Punch",
+    "Endeavor",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fake Out",
+    "False Swipe",
+    "Fling",
+    "Giga Drain",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growl",
+    "Growth",
+    "Hammer Arm",
+    "Knock Off",
+    "Leaf Storm",
+    "Leech Seed",
+    "Low Kick",
+    "Magical Leaf",
+    "Protect",
+    "Razor Leaf",
+    "Rest",
+    "Scary Face",
+    "Scratch",
+    "Screech",
+    "Seed Bomb",
+    "Slam",
+    "Sleep Talk",
+    "Solar Beam",
+    "Solar Blade",
+    "Strength",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Trailblaze",
+    "Uproar",
+    "U-turn",
+    "Wood Hammer",
+    "Worry Seed"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "name": "Elekid",
+  "alias": "elekid",
+  "types": [
+    "Electric"
+  ],
+  "stats": [
+    45,
+    63,
+    37,
+    65,
+    55,
+    95
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Elekid",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Elekid is an elite pivot in Little Cup, with an unmatched Speed tier and a wide range of coverage options that threaten much of the metagame. Vital Spirit provides teams another option to switch in on Spore from <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a>. Elekid's moveset is highly customizable to fit the role it plays on a team. Thunderbolt threatens high damage on <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a>, <a href=\"/dex/sv/pokemon/mareanie/lc/\" hreflang=\"en\">Mareanie</a>, and <a href=\"/dex/sv/pokemon/wingull/lc/\" hreflang=\"en\">Wingull</a>. Knock Off can weaken checks such as <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a> and <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a> for Elekid to KO them later in the game. Focus Blast can be used over either Thunderbolt or Knock Off to OHKO <a href=\"/dex/sv/pokemon/diglett-alola/lc/\" hreflang=\"en\">Alolan Diglett</a> and <a href=\"/dex/sv/pokemon/sandshrew-alola/lc/\" hreflang=\"en\">Alolan Sandshrew</a>. Psychic hits Foongus and <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a> super effectively. Volt Switch offers frail attackers such as Wingull and <a href=\"/dex/sv/pokemon/stunky/lc/\" hreflang=\"en\">Stunky</a> a safe way to enter the field on the switches that Elekid forces. Alternatively, Tera Blast Grass is used to more directly threaten the aforementioned Chinchou and Mudbray. Tera Psychic boosts the damage of Psychic against targets like Mienfoo, Foongus, and <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a> and also makes Elekid resistant to Choice Scarf <a href=\"/dex/sv/pokemon/gothita/lc/\" hreflang=\"en\">Gothita</a>'s Psychic.</p>\n<p>Elekid complements powerful but frail Pokemon like Alolan Diglett and Wingull through Volt Switch, offering safe entry for them to wallbreak. Additionally, Elekid can use Tera Blast Grass to remove their checks such as Mudbray and Chinchou, respectively. Elekid struggles to break through Grass-types like Foongus and <a href=\"/dex/sv/pokemon/grookey/lc/\" hreflang=\"en\">Grookey</a>, so Vullaby and Alolan Sandshrew make good teammates. In return, Elekid can threaten opposing Alolan Sandshrew for Vullaby and Mareanie for ally Alolan Sandshrew. Without Tera Blast Grass, Elekid struggles to get past Mudbray. A partner that can weaken Mudbray like Vullaby or Stunky can help with this.</p>",
+          "abilities": [
+            "Vital Spirit"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Psychic",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 12,
+              "def": 0,
+              "spa": 236,
+              "spd": 0,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 605215,
+            "username": "Flou"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641532,
+                "username": "bleahey"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Body Slam",
+    "Brick Break",
+    "Charge",
+    "Charge Beam",
+    "Cross Chop",
+    "Discharge",
+    "Double-Edge",
+    "Dynamic Punch",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Facade",
+    "Feint",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Follow Me",
+    "Hammer Arm",
+    "Helping Hand",
+    "Ice Punch",
+    "Knock Off",
+    "Leer",
+    "Light Screen",
+    "Low Kick",
+    "Metal Sound",
+    "Protect",
+    "Psychic",
+    "Quick Attack",
+    "Rain Dance",
+    "Rest",
+    "Screech",
+    "Shock Wave",
+    "Sleep Talk",
+    "Substitute",
+    "Supercell Slam",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Trailblaze",
+    "Uproar",
+    "Volt Switch",
+    "Wild Charge"
+  ]
+}

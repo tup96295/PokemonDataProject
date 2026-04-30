@@ -1,0 +1,284 @@
+{
+  "name": "Avalugg-Hisui",
+  "alias": "avalugg-hisui",
+  "types": [
+    "Ice",
+    "Rock"
+  ],
+  "stats": [
+    95,
+    127,
+    184,
+    34,
+    36,
+    38
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Avalugg-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to its impressive bulk and monstrous Attack, Hisuian Avalugg finds itself a place in PU as a reliable entry hazard lead, setting itself apart from other options such as <a href=\"/dex/sv/pokemon/lycanroc/pu/\" hreflang=\"en\">Lycanroc</a> and <a href=\"/dex/sv/pokemon/froslass/pu/\" hreflang=\"en\">Froslass</a> by eking out extra turns through the combination of Custap Berry and Sturdy. Mountain Gale threatens a multitude of common leads such as <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a> and <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a> with high damage. Body Press capitalizes on Hisuian Avalugg's gargantuan Defense to punish Steel-types like <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> that it may otherwise struggle with. Alternatively, Stone Edge can be used to deal extra damage to targets like <a href=\"/dex/sv/pokemon/cramorant/pu/\" hreflang=\"en\">Cramorant</a> and <a href=\"/dex/sv/pokemon/coalossal/pu/\" hreflang=\"en\">Coalossal</a> while dealing considerable damage to offensive Fire-types such as <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-H</a>, <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a>, and <a href=\"/dex/sv/pokemon/typhlosion-hisui/pu/\" hreflang=\"en\">Hisuian Typhlosion</a>. Rapid Spin offers additional role compression and pairs well with Hisuian Avalugg's ability to victimize most common hazard setters, sometimes even letting it remove the opponent's hazards permanently at the beginning of the match. It also gives Hisuian Avalugg some utility outside of being a dedicated lead, although using Hisuian Avalugg for this purpose is generally not optimal, as the damage from opposing hazards breaks Sturdy and makes Hisuian Avalugg exceptionally more vulnerable to opposing wallbreakers. 0 Special Defense IVs in combination with a Naughty nature can be used to ensure that opposing special attackers will nearly always trigger Sturdy, although it is generally not necessary due to Hisuian Avalugg's pitiful Special Defense. Loaded Dice can be used in tandem with Icicle Spear and Rock Blast for increased reliability and getting around Focus Sash leads, though it's worse against foes like Mudsdale and Cramorant and can limit what Hisuian Avalugg gets done on average. Tera Ghost further compounds Hisuian Avalugg's utility by making it immune to Rapid Spin, allowing it to keep hazards up in a pinch against <a href=\"/dex/sv/pokemon/tatsugiri/pu/\" hreflang=\"en\">Tatsugiri</a> and Coalossal, while also removing its crippling weaknesses to Fighting and Steel, making it much more effective against foes such as <a href=\"/dex/sv/pokemon/toxicroak/pu/\" hreflang=\"en\">Toxicroak</a> and <a href=\"/dex/sv/pokemon/copperajah/pu/\" hreflang=\"en\">Copperajah</a>. However, this should be done sparingly, as it is often more ideal to Terastallize more offensive teammates such as <a href=\"/dex/sv/pokemon/decidueye/pu/\" hreflang=\"en\">Decidueye</a> and Arcanine.</p>\n<p>Hisuian Avalugg fits exclusively on hyper offense teams that appreciate its ability to reliably set entry hazards and punish foes for attempting to do so. However, due to the nature of being a hazard lead, it will often faint rather quickly and have few — if any — opportunities to set Stealth Rock again. Therefore, Taunt users like <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a> and Bombirdier as well as Ghost-types like Decidueye that can stop attempts at hazard removal are highly valuable. Knock Off users such as <a href=\"/dex/sv/pokemon/zoroark/pu/\" hreflang=\"en\">Zoroark</a>, Skuntank, and Bombirdier are also valuable thanks to their ability to remove Heavy-Duty Boots from foes, ensuring that Hisuian Avalugg's hazards will be effective. In addition, teammates such as Arcanine and <a href=\"/dex/sv/pokemon/minior/pu/\" hreflang=\"en\">Minior</a> appreciate Hisuian Avalugg's ability to remove hazards, allowing them to utilize items such as Leftovers and White Herb. Pokemon like <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a>, <a href=\"/dex/sv/pokemon/toxtricity/pu/\" hreflang=\"en\">Toxtricity</a>, and Arcanine also greatly appreciate Hisuian Avalugg's ability to threaten and remove foes like <a href=\"/dex/sv/pokemon/gligar/pu/\" hreflang=\"en\">Gligar</a> and Mudsdale that are otherwise extreme nuisances while also being able to act as an emergency stopgap against revenge killers like <a href=\"/dex/sv/pokemon/flamigo/pu/\" hreflang=\"en\">Flamigo</a>. Powerful wallbreakers such as <a href=\"/dex/sv/pokemon/delphox/pu/\" hreflang=\"en\">Delphox</a> and the <a href=\"/dex/sv/pokemon/tauros-paldea-combat/pu/\" hreflang=\"en\">Paldean Tauros</a> formes also greatly appreciate Hisuian Avalugg's consistency in setting Stealth Rock, further lowering the number of times that Pokemon like <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a> and <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a> can switch into their STAB moves.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Custap Berry",
+            "Loaded Dice"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mountain Gale",
+                "type": null
+              },
+              {
+                "move": "Icicle Spear",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Rock Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Avalugg-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mountain Gale",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 0,
+              "spe": 20
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 617840,
+            "username": "eeriespell"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 400292,
+                "username": "asa"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 8</p>\n<p><strong>Price Range</strong>: 1-2 points</p>\n<p><strong>Overview</strong>: With a skewed stat spread, Hisuian Avalugg is a physically defensive Pokemon with an abysmal typing that hinders it from reaching its maximum potential. Rocking its own signature move and the ability to set and remove entry hazards, Hisuian Avalugg differentiates itself from its Kalosian brother enough to carve its status as a last-minute addition to already well-rounded teams. However, in addition to Hisuian Avalugg's terrible defensive typing, its poor Special Defense and Speed stats combined with middling coverage make it a Pokemon that is difficult to justify bringing.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Physical Wall</strong>: Hisuian Avalugg’s staggering physical bulk allows it to shrug off most hits from opposing Pokemon, giving it ample turns to spin away entry hazards, set up Stealth Rock, or recover HP. However, its unfortunate defensive typing means that most Pokemon will be able to hit Hisuian Avalugg with super effective damage, limiting its longevity.</p>\n<p><strong>Entry Hazard Lead</strong>: With Sturdy, Hisuian Avalugg is guaranteed a turn to set up Stealth Rock against the opposing team and potentially can clear hazards set up by the opponent with Rapid Spin. Hazard lead sets can also consider using a Custap Berry to guarantee an extra attack.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Avalanche, Ice Spinner, Mountain Gale, Rock Blast, Stone Edge</p>\n<p><strong>Setup Moves</strong>: Curse, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Recover, Stealth Rock, Rapid Spin</p>\n<p><strong>Coverage</strong>: Body Press, Crunch, Earthquake, Iron Head, Gyro Ball, Heavy Slam</p>\n<h3>Niche Moves</h3>\n<p><strong>Bulldoze / Rock Tomb</strong>: While these moves are weaker than other options that Hisuian Avalugg has access to, they provide speed control that its teammates can take advantage of.</p>\n<p><strong>Mirror Coat</strong>: Hisuian Avalugg can utilize its low special defense and Sturdy to fire off a devastating Mirror Coat onto unsuspecting special attackers.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Often appearing as an entry hazard removal option, Hisuian Avalugg greatly appreciates the ability to pivot into opposing Pokemon without breaking Sturdy or taking hazard damage in order to spin them away.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet spreads chip damage to the opposing Pokemon that Hisuian Avalugg will likely absorb many physical hits from across the course of a game.</p>\n<p><strong>Custap Berry</strong>: Custap Berry used in conjunction with Sturdy allows Hisuian Avalugg to take a massive hit while ensuring its next move is executed with priority.</p>\n<h3>Niche Items</h3>\n<p><strong>Leftovers</strong>: Against physical attackers, Hisuian Avalugg can be expected to stay in for many turns, allowing for a bit of extra recovery each turn.</p>\n<p><strong>Mental Herb</strong>: Mental Herb can be used in lead sets to prevent Hisuian Avalugg from disrupted by Taunt or Encore.</p>\n<p><strong>Choice Band</strong>: Choice Band lets Hisuian Avalugg become a terrifying wallbreaker that can use opposing physical attackers as entry points.</p>\n<p><strong>Loaded Dice</strong>: Loaded Dice gives Hisuian Avalugg more reliable STAB attacks in Icicle Spear and Rock Blast, which helps against Substitutes, opposing Focus Sash leads, and Pokemon such as <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a>.</p>\n<p><strong>Assault Vest</strong>: Assault Vest can patch up Hisuian Avalugg's poor Special Defense, allowing it to tank some neutral special attacks from enemies.</p>\n<h3>Tera</h3>\n<p>Terastallization allows Hisuian Avalugg to shed its terrible typing, making it a solid choice for Tera Captain in conjunction with another top-tier Pokemon. Hisuian Avalugg greatly appreciates a better defensive typing such as Tera Water, Fairy, Poison or Steel. It can also utilize Tera Fighting to boost its already powerful Body Press or Tera Ghost to spinblock after setting up Stealth Rock.</p>\n<h3>Draft Strategy</h3>\n<p>Hisuian Avalugg is typically drafted as a last minute addition to provide some utility and defense. It should aim to support drafts that are vulnerable on the physical side and would appreciate hazard control.</p>\n<p><strong>Special Walls</strong>: Hisuian Avalugg appreciates specially defensive Pokemon such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/sylveon/draft/\" hreflang=\"en\">Sylveon</a> that can comfortably absorb the special attacks that it fears so much.</p>\n<p><strong>Alternate Entry Hazard Removers</strong>: Rarely would you want to rely on Hisuian Avalugg as your only spinner. Other teammates that can remove hazards, such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>, are greatly appreciated.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fighting- and Steel-type Attacks</strong>: Not even Hisuian Avalugg’s impressive physical bulk can withstand a 4x super effective move from Fighting and Steel-type Pokemon.</p>\n<p><strong>Special Attacks</strong>: With its pitiful Special Defense, Hisuian Avalugg fears even neutral special attacks moves from most Pokemon.</p>\n<p><strong>Entry Hazards</strong>: Despite being a spinner, Hisuian Avalugg does hold a 2x weakness to Stealth Rock. Hazards also force Hisuian Avalugg to run Heavy-Duty Boots when it might appreciate using other items such as Leftovers and Custap Berry.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 384266,
+            "username": "Catalyxx"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aurora Veil",
+    "Avalanche",
+    "Bite",
+    "Blizzard",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Chilling Water",
+    "Crunch",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Giga Impact",
+    "Gyro Ball",
+    "Harden",
+    "Hard Press",
+    "Heavy Slam",
+    "High Horsepower",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Fang",
+    "Ice Spinner",
+    "Icicle Spear",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Meteor Beam",
+    "Mirror Coat",
+    "Mist",
+    "Mountain Gale",
+    "Powder Snow",
+    "Protect",
+    "Rain Dance",
+    "Rapid Spin",
+    "Recover",
+    "Rest",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Sleep Talk",
+    "Snowscape",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Wide Guard"
+  ]
+}

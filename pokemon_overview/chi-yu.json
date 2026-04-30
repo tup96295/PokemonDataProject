@@ -1,0 +1,1734 @@
+{
+  "name": "Chi-Yu",
+  "alias": "chi-yu",
+  "types": [
+    "Dark",
+    "Fire"
+  ],
+  "stats": [
+    55,
+    80,
+    80,
+    135,
+    120,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Feesh (Offensive Wallbreaker)",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Overheat hits extremely hard and can 2HKO even the bulkiest of Pokemon. Fire Blast and Flamethrower can be used to KO foes without Chi-Yu suffering a Special Attack drop, with Flamethrower having perfect accuracy.</li>\n<li>The only reason to run Timid over Modest is to outspeed Jolly <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a>, Jolly <a href=\"/dex/sv/pokemon/annihilape/uber/\" hreflang=\"en\">Annihilape</a>, and fast <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a> with Special Defense investment.</li>\n<li>Tera Fire allows Chi-Yu to turn 2HKOs to OHKOs, for example OHKOing opposing Chi-Yu with Overheat. Tera Fire also lets it 2HKO any prominent special wall, including <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/blissey/uber/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a>, OHKOing them with sun.</li>\n<li>Choice Specs Chi-Yu is a wallbreaker, suited best for offensive teams. <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> is an excellent teammate because it sets sun and pivots Chi-Yu in with U-turn. Koraidon and Chi-Yu also threaten each other's checks, like Koraidon threatening Blissey and <a href=\"/dex/sv/pokemon/garganacl/uber/\" hreflang=\"en\">Garganacl</a> and Chi-Yu threatening <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/dondozo/uber/\" hreflang=\"en\">Dondozo</a>.</li>\n<li>Helpful teammates are those that can get Chi-Yu in safely and force out its few checks. <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> and Koraidon are noteworthy examples, pivoting into special walls such as Ting-Lu. Lures such as Heavy Slam Koraidon and Great Tusk, which beat <a href=\"/dex/sv/pokemon/dachsbun/uber/\" hreflang=\"en\">Dachsbun</a>, and Psyshock <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a>, which beats Toxapex and Blissey, are also appreciated teammates.</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Fire Blast is Chi-Yu's strongest STAB move without any stat drops. Psychic is an alternative that 2HKOes common switch-ins such as <a href=\"/dex/sv/pokemon/dachsbun/uber/\" hreflang=\"en\">Dachsbun</a> and <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a>. Overheat facilitates revenge killing, hitting even Pokemon that resist it such as <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> hard, and is a better midground play.</li>\n<li>Memento serves as a way to facilitate sweepers like Swords Dance + Flame Charge Koraidon that Chi-Yu is usually paired with.</li>\n<li>Tera Fire powers up Flamethrower and Overheat to nuclear levels, turning 2HKOs against Pokemon such as Koraidon into OHKOs. Tera Dark nullifies Chi-Yu's Stealth Rock weakness while making Dark Pulse 2HKO Dachsbun and Toxapex. Tera Grass should only be used with Tera Blast; it gives Chi-Yu nice resistances to Ground and Water and allows Chi-Yu to OHKO <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a> and 2HKO <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> after Spikes damage.</li>\n<li>Choice Scarf Chi-Yu is a revenge killer best suited for offensive teams.</li>\n<li>Pokemon that can get Chi-Yu safely into the field, such as Koraidon, <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>, and <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a>, are excellent teammates for it. Koraidon also sets up sun, further boosting Chi-Yu's Fire-type attacks.</li>\n<li>Ting-Lu and <a href=\"/dex/sv/pokemon/glimmora/uber/\" hreflang=\"en\">Glimmora</a> can set entry hazards to guarantee some 2HKOs, such as against opposing Ting-Lu.</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fire",
+            "Dark",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Memento",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Nasty Plot Chi-Yu can threaten to KO foes it couldn't otherwise, such as <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/blissey/uber/\" hreflang=\"en\">Blissey</a>. Overheat hits extremely hard and threatens to OHKO Ting-Lu at +2. Flamethrower is valuable for its perfect accuracy.</li>\n<li>A Modest nature alongside Life Orb lets Chi-Yu OHKO Ting-Lu at +2. Heavy-Duty Boots can be used instead to give Chi-Yu more opportunities to switch in, but the loss of power is notable.</li>\n<li>Chi-Yu fits best on offensive teams with Pokemon such as <a href=\"/dex/sv/pokemon/cyclizar/uber/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/grimmsnarl/uber/\" hreflang=\"en\">Grimmsnarl</a> that can facilitate its setup. Sticky Web support from <a href=\"/dex/sv/pokemon/masquerain/uber/\" hreflang=\"en\">Masquerain</a> is also useful, as it lets Chi-Yu outrun Pokemon like <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a> and KO them at +2.</li>\n<li>Chi-Yu's best partner is Koraidon, since it sets up sun, can safely bring Chi-Yu into play with U-turn, and threatens Blissey. Other good partners are special attackers that benefit from special walls being neutered by Chi-Yu, such as Miraidon, <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a>, and <a href=\"/dex/sv/pokemon/gholdengo/uber/\" hreflang=\"en\">Gholdengo</a>. <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a> is also greatly appreciated, as it can remove Stealth Rock and threatens Blissey and Ting-Lu for Chi-Yu. Chi-Yu can deal with <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/dondozo/uber/\" hreflang=\"en\">Dondozo</a> in return.</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Life Orb",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 537354,
+            "username": "Mashing"
+          },
+          {
+            "user_id": 306317,
+            "username": "katerina"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 273339,
+                "username": "Lasen"
+              },
+              {
+                "user_id": 50695,
+                "username": "Manaphy"
+              },
+              {
+                "user_id": 511624,
+                "username": "Fc"
+              },
+              {
+                "user_id": 415367,
+                "username": "Eledyr"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 430518,
+                "username": "Lunaflare"
+              },
+              {
+                "user_id": 517429,
+                "username": "Adeleine"
+              },
+              {
+                "user_id": 493772,
+                "username": "bellchime"
+              },
+              {
+                "user_id": 523866,
+                "username": "UT"
+              },
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "<p>Chi-Yu poses itself as one of the most menacing special attackers in DOU, with its high Special Attack, near unresisted STAB combination, and Beads of Ruin allowing it to hit the majority of the metagame extremely hard. Beads of Ruin also not only indirectly makes Chi-Yu hit harder but also empowers its special attacking teammates, with <a href=\"/dex/sv/pokemon/iron-bundle/doubles/\" hreflang=\"en\">Iron Bundle</a> and <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a> in particular being excellent partners due to their ability to either overwhelm shared checks like <a href=\"/dex/sv/pokemon/ting-lu/doubles/\" hreflang=\"en\">Ting-Lu</a> or outright beat some of Chi-Yu's checks, such as <a href=\"/dex/sv/pokemon/garchomp/doubles/\" hreflang=\"en\">Garchomp</a> for the former and <a href=\"/dex/sv/pokemon/glimmora/doubles/\" hreflang=\"en\">Glimmora</a> for the latter. Furthermore, Chi-Yu has very good Speed, allowing it to naturally outspeed a considerable portion of the metagame. However, Chi-Yu is not without glaring weaknesses, as its HP and Defense are absurdly low, which leaves it vulnerable to common priority moves such as <a href=\"/dex/sv/pokemon/palafin/doubles/\" hreflang=\"en\">Palafin</a>'s Jet Punch and <a href=\"/dex/sv/pokemon/dragonite/doubles/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed. In addition, despite Dark / Fire being a good type combination offensively, it leaves Chi-Yu vulnerable defensively, as its weaknesses to Ground-, Rock- and Water-type moves in addition to Stealth Rock compromise its ability to switch in and fire off more attacks. Finally, Pokemon such as Glimmora, Ting-Lu, and Garchomp have the ability to potentially switch into Chi-Yu and threaten it out, with Ting-Lu's Tablets of Ruin being a particular annoyance due to it offsetting Beads of Ruin. However, it is important to note that Chi-Yu's strength is still to the magnitude that it can 2HKO all the aforementioned Pokemon under the right circumstances.</p>",
+      "comments": "<h4>Other Options</h4>\n<p>EV investment into Chi-Yu's HP and Defense allows it to survive a significant number of moves it would normally be OHKOd by, notably <a href=\"/dex/sv/pokemon/dragonite/doubles/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed, while a Modest nature can be used on both sets to further increase the amount of damage Chi-Yu can do overall. However both options can cut into Chi-Yu's Speed, with the former also potentially lowering the amount of damage Chi-Yu can do depending on the amount of investment.</p>",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Heat Wave allows Chi-Yu to pick off Pokemon like Choice Scarf <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a>, as well as being a good method of spreading damage.</p>\n</li>\n<li>\n<p>Dark Pulse can hit Ghost- and Psychic-types like <a href=\"/dex/sv/pokemon/dragapult/doubles/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/armarouge/doubles/\" hreflang=\"en\">Armarouge</a>, as well as Pokemon that resist Fire-type moves, like <a href=\"/dex/sv/pokemon/glimmora/doubles/\" hreflang=\"en\">Glimmora</a>.</p>\n</li>\n<li>\n<p>Flamethrower and Overheat both give Chi-Yu the ability to focus its damage on a singular Pokemon, with Overheat being significantly stronger but far more punishing than Flamethrower.</p>\n</li>\n<li>\n<p>Snarl is useful for spread damage when both Pokemon on the field can take Heat Wave, as well as supporting its team.</p>\n</li>\n<li>\n<p>Choice Scarf lets Chi-Yu outrun almost the entire tier, allowing it to either threaten out Pokemon like Dragapult and Chien-Pao and pick off weakened targets.</p>\n</li>\n<li>\n<p>The EV spread and a Timid nature both maximizes the number of Pokemon Chi-Yu can outspeed along with its damage output.</p>\n</li>\n<li>\n<p>Tera Fire allows Chi-Yu to pick up KOs it normally wouldn't be able to otherwise, such as <a href=\"/dex/sv/pokemon/amoonguss/doubles/\" hreflang=\"en\">Amoonguss</a> with Heat Wave, while Tera Ghost grants an immunity to Fake Out and Extreme Speed, blocking two common methods to stop Chi-Yu, as well as making it immune to Fighting-type moves, which it would normally be weak to, like Drain Punch from <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "All Out Attacker",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Heat Wave provides excellent spread damage severely threatening Steel- and Grass-types like <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/amoonguss/doubles/\" hreflang=\"en\">Amoonguss</a> while still being able to scorch neutral targets.</p>\n</li>\n<li>\n<p>Dark Pulse hits several Pokemon that resist Heat Wave, such as <a href=\"/dex/sv/pokemon/glimmora/doubles/\" hreflang=\"en\">Glimmora</a>, as well as Ghost- and Psychic-types like <a href=\"/dex/sv/pokemon/armarouge/doubles/\" hreflang=\"en\">Armarouge</a> and <a href=\"/dex/sv/pokemon/dragapult/doubles/\" hreflang=\"en\">Dragapult</a> hard, as well as just being a solid STAB move</p>\n</li>\n<li>\n<p>Flamethrower and Overheat deal more damage to a single target than Heat Wave, which can allow Chi-Yu break past Pokemon it normally wouldn't be able to, such as <a href=\"/dex/sv/pokemon/ting-lu/doubles/\" hreflang=\"en\">Ting-Lu</a>. Overheat allows Chi-Yu to deal an insane amount of damage, accomplishing feats such as OHKOing Tera Normal <a href=\"/dex/sv/pokemon/dragonite/doubles/\" hreflang=\"en\">Dragonite</a>, while Flamethrower is weaker than Overheat by a significant margin but doesn't have the Special Attack drop and imperfect accuracy.</p>\n</li>\n<li>\n<p>Snarl provides a secondary spread attack that can hit deceptively hard, in addition to debuffing the opposing team, while Tera Blast can be utilized with Tera Grass in order to give Chi-Yu an option to hit Pokemon like <a href=\"/dex/sv/pokemon/palafin/doubles/\" hreflang=\"en\">Palafin</a> and <a href=\"/dex/sv/pokemon/iron-bundle/doubles/\" hreflang=\"en\">Iron Bundle</a>. Protect should only be used with Life Orb, but can keep Chi-Yu safe for a turn while a teammate either repositions or sets speed control to assist it.</p>\n</li>\n<li>\n<p>Choice Specs and Life Orb both boost Chi-Yu's damage output to absurd levels, with the former allowing Chi-Yu to switch moves in exchange for the recoil and loss of power.</p>\n</li>\n<li>\n<p>Tera Fire exponentially increases the strength of Fire-type moves for Chi-Yu, while Tera Grass patches up Chi-Yu's weakness to Water-type moves, and Tera Ghost prevents Fake Out and Extreme Speed from slowing down or picking off Chi-Yu, in addition to turning the Fighting-type weakness to an immunity.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Specs",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire",
+            "Grass",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 531334,
+            "username": "zoe"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 230771,
+                "username": "qsns"
+              },
+              {
+                "user_id": 550367,
+                "username": "Smudge"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice-Yu",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>With a Choice item, Chi-Yu can choose to become either a spicy revenge killer or a scorching wallbreaker!</p>\n</li>\n<li>\n<p><strong>Flamethrower versus Lava Plume</strong>: Flamethrower's higher power makes it the better cleaning tool, but Lava Plume's higher burn chance gives Chi-Yu a good shot of punishing major physical attacking fores such as <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/azumarill/battle-stadium-singles/\" hreflang=\"en\">Azumarill</a>, and <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a> that resist Fire.</p>\n</li>\n<li>\n<p><strong>Psychic</strong>: This is Chi-Yu's most powerful attack against <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a> and can pick off weakened <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a> without Overheat's Special Attack drop.</p>\n</li>\n<li>\n<p><strong>Tera Blast</strong>: Even before Terastallizing, Tera Blast is a decent coverage move that hits <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Modest versus Timid</strong>: Modest is generally preferred since Chi-Yu's Speed isn't too impressive, but Timid does ensure that Chi-Yu outspeeds <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes, Annihilape, and <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a>, who are fully capable of revenge killing Chi-Yu that lack Choice Scarf.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li>\n<p><strong>Fire Blast</strong>: Fire Blast's shaky accuracy can be an issue, but it's a far better sweeping tool than Overheat.</p>\n</li>\n<li>\n<p><strong>Memento</strong>: Support isn't Chi-Yu's forte, but Memento lets Choice Scarf sets potentially set-up a sweeper in exchange for KOing itself.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Choice Scarf</strong>: Choice Scarf patches up Chi-Yu's lukewarm Speed into something usable for revenge killing and also makes bulkier builds easier to use.</p>\n</li>\n<li>\n<p><strong>Choice Specs</strong>: Choice Specs trades revenge killing for terrifying wallbreaking power. With Tera Fire, the heat gets so extreme that even <a href=\"/dex/sv/pokemon/blissey/battle-stadium-singles/\" hreflang=\"en\">Blissey</a> is 2HKOed by Overheat!</p>\n</li>\n</ul>\n<h4>Bulkier EV Spread</h4>\n<ul>\n<li><strong>228 HP / 12 Def / 124 SpA / 4 SpD / 140 Spe with Modest</strong>: This is a bulky spread meant for Choice Scarf, outspeeding up to <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>. The bulk investment survives <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>'s Mach Punch, Mimikyu's Play Rough followed by Shadow Sneak, and has a good shot of surviving Tera Normal Choice Band Dragonite's Extreme Speed. 40 EVs can be moved from Special Attack to Speed to outspeed <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a> at a serious cost to power.</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Chi-Yu's damage output is red hot even without Terastallization, making it a fairly flexible Pokemon.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire Overheat is extremely difficult to wall without a resistance, making it an easy choice for Chi-Yu. It also lets Tera Blast become a powerful STAB move while Chi-Yu is locked into using it, letting it get around the normal limitations of using a Choice item.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass is a good response to Urshifu-R and Primarina, and lets Chi-Yu avoid being OHKOed by Iron Bundle's Hydro Pump.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is Chi-Yu's best shot of defeating Roaring Moon and and gives it an important Fighting-type resistance.</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: Tera Ghost lets Chi-Yu surprise common users of Normal-type priority such as Dragonite, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a>, and <a href=\"/dex/sv/pokemon/entei/battle-stadium-singles/\" hreflang=\"en\">Entei</a>, with the bonus of blocking Breloom from an easy revenge kill.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: While Tera Dark is nowhere near as impressive as a boosted Overheat, Dark Pulse has excellent coverage and also removes Chi-Yu's troublesome Stealth Rock weakness.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Getting a Water-type resistance is always useful against Urshifu-R, but the real key for Tera Water is that it helps Chi-Yu in the mirror match-up, especially against Assault Vest Chi-Yu.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire",
+            "Grass",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Chi-Yu's sizzling offensive power lets it get away with a wide variety of options that wouldn't fit on a Choice item set.</p>\n</li>\n<li>\n<p><strong>Flamethrower versus Lava Plume</strong>: Flamethrower's greater power makes it the better option in most instances, but Lava Plume's higher burn rate is good at punishing switch-ins like <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p><strong>Flame Charge</strong>: Chi-Yu is powerful enough that even without an offensive item, getting a Speed boost makes cleaning teams late-game very achievable.</p>\n</li>\n<li>\n<p><strong>Psychic</strong>: Psychic is Chi-Yu's best option against <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a>. Note that Overheat will out-damage targets like <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a> though.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li><strong>Will-O-Wisp</strong>: If not using Assault Vest, Will-O-Wisp severely punishes bulky physical threats like Roaring Moon and Dragonite that may switch in and works great with Terastallization to surprise other bulky threats such <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a>.</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Assault Vest</strong>: Chi-Yu has shockingly decent Special Defense, so Assault Vest lets it preform much better against <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and opposing Chi-Yu.</p>\n</li>\n<li>\n<p><strong>Life Orb</strong>: Life Orb lets you get away with playing this set far more offensively at the cost of being even weaker to priority attacks than usual.</p>\n</li>\n<li>\n<p><strong>Focus Sash</strong>: If using a more offensive spread, Focus Sash can be worth it to flip the tables on fast offensive foes such as <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>.</p>\n</li>\n<li>\n<p><strong>Eject Pack</strong>: This turns Overheat into a one-use pivot move, surprising foes with a momentum shift in your favor.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>228 HP / 12 Def / 124 SpA / 4 SpD / 140 Spe with Modest</strong>: This bulky spread is perfect for Assault Vest and Flame Charge, letting Chi-Yu outspeed Iron Bundle after a boost and avoid an OHKO from <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>'s Mach Punch. It also avoids a KO from <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a>'s Shadow Sneak following Play Rough and often survives Tera Normal Dragonite's Choice Band Extreme Speed. If outspeeding the rare <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a> after Flame Charge is a priority, 40 Special Attack EVs can be moved to Speed.</p>\n</li>\n<li>\n<p><strong>4 HP / 252 SpA / 252 Spe with Modest or Timid</strong>: When using more offensive items like Life Orb or Focus Sash, going a more offensive route makes Chi-Yu a better late-game sweeper. Modest is preferred for the damage output, but Timid outspeeds <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes and Annihilape.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Chi-Yu has a ton of weaknesses to common attacking types, so while Terastallization isn't needed to function, it can especially help bulkier Chi-Yu check more threats and otherwise focus less on hit-and-run attacking.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Beyond giving Overheat soul-melting damage output, Tera Fire gives Chi-Yu a vital Fairy-type resistance against Flutter Mane and a good shot of OHKOing even bulky Flutter Mane with Overheat.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass is a huge help against Urshifu-R and <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a>, and can save Chi-Yu from Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a> revenge kills as long as it doesn't use Flying Tera Blast.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy has good synergy with Chi-Yu's former typing, giving it a vital Fighting-type resistance and ensuring Chi-Yu is not walled by Roaring Moon.</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: Tera Ghost is Chi-Yu's best hope against Dragonite and <a href=\"/dex/sv/pokemon/entei/battle-stadium-singles/\" hreflang=\"en\">Entei</a>'s Extreme Speed, as well as blocking snipes from <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-H</a>'s Quick Attack.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water works great on Assault Vest Chi-Yu with Tera Blast, ironically turning it into a decent check against other Chi-Yu! It also eases the matchup against Urshifu-R.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Assault Vest",
+            "Life Orb",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Fire",
+            "Grass",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Flame Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 12,
+              "spa": 124,
+              "spd": 4,
+              "spe": 140
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>While not easy to sweep with due to it's Speed, Chi-Yu becomes a a hot wallbreaker after setting up Nasty Plot!</p>\n</li>\n<li>\n<p><strong>Overheat</strong>: Overheat's Special Attack drop may conflict with Nasty Plot, but it'll deep-fry almost any Pokemon slower than Chi-Yu, making it a worthy wallbreaking tool.</p>\n</li>\n<li>\n<p><strong>Psychic</strong>: Psychic shatters <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a>, a common revenge killer against Chi-Yu.</p>\n</li>\n<li>\n<p><strong>Substitute</strong>: Substitute does a great job of punishing common status users such as <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a>. If Terastallized, Chi-Yu has a good chance of retaining its Substitute against Salt Cure as well.</p>\n</li>\n<li>\n<p><strong>Timid versus Modest</strong>: While this Chi-Yu is more focused on extreme wall-frying than sweeping, Timid is nice for outspeeding <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> formes and <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>, whom certainly can't handle boosted attacks well.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Focus Sash</strong>: Focus Sash makes setting up Nasty Plot much easier, at the cost of power.</p>\n</li>\n<li>\n<p><strong>Life Orb</strong>: While it makes Chi-Yu even more vulnerable to priority moves, Life Orb is otherwise an excellent wallbreaking item, notably giving Chi-Yu a better matchup against stall teams.</p>\n</li>\n</ul>\n<h4>Alternate EV Spreads</h4>\n<ul>\n<li><strong>24 HP / 12 Def / 220 SpA / 252 Spe with Timid or Modest</strong>: If using Substitute, this spread prevents <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a> with 4 Attack EVs from breaking a Terastallized Chi-Yu's Substitute with Salt Cure. Note that Body Press and Earthquake will still break the Substitute unless using the correct Tera Type.</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Chi-Yu's poor defensive typing can make it fairly easy to revenge kill, so having Terastallization free gives Chi-Yu much more KO opportunities beyond cooking slower threats.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire makes Overheat an insane wall-breaking move, with Life Orb threatening to OHKO <a href=\"/dex/sv/pokemon/blissey/battle-stadium-singles/\" hreflang=\"en\">Blissey</a> after a boost!</p>\n</li>\n<li>\n<p><strong>Ghost</strong>: Tera Ghost covers Chi-Yu's Fighting-type weakness and helps against Extreme Speed and Quick Attack, making it much harder to stop its sweep.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: With Tera Grass, Chi-Yu can threaten to OHKO <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> after a boost in addition to resisting Urshifu-R's Aqua Jet.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Chi-Yu a helpful Fighting-type resistance and a better match-up against powerful Dragon-types like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: With Nasty Plot and Life Orb, Tera Dark Chi-Yu is capable of OHKOing even the most specially defensive Annihilape with Dark Pulse!</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water lets Chi-Yu deal with opposing Chi-Yu more comfortably.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Focus Sash",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ghost",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Grass",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 212,
+              "atk": 0,
+              "def": 4,
+              "spa": 124,
+              "spd": 4,
+              "spe": 164
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>With an excellent Special Attack stat, which is bolstered by Beads of Ruin and great STAB moves, Chi-Yu threatens its foes with the highest damage output in the format and Chi-Yu is capable of OHKOing the majority of the metagame. Beads of Ruin also helps increase Chi-Yu's partner's offensive pressure.</p>\n</li>\n<li>\n<p>Chi-Yu struggles due to its mediocre Speed stat, so speed control from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a> and Speed Booster Energy <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> is greatly appreciated. Choice Scarf Chi-Yu prefers teaming up with offensive threats like Choice Specs Flutter Mane to make up for the lost damage output. Tornadus and Flutter Mane can also help take care of the <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes, which threaten Chi-Yu, while Chi-Yu can in return increase their damage output with Beads of Ruin as well as remove Steel-types like <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>.</p>\n</li>\n<li>\n<p>Chi-Yu struggles against Pokemon that can take its attacks and either hinder it or exploit its weak defensive profile. <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a> are great answers to Chi-Yu, as they can comfortably take all of its attacks and disrupt it through tools such as Fake Out, Knock Off, Parting Shot, Electroweb, and Snarl. Once Terastallized, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> also takes Chi-Yu's attacks incredibly well and threatens an OHKO on it with Ivy Cudgel.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Attacker",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Snarl is used as utility and a way to check special attacking compositions such as <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-f/\" hreflang=\"en\">Farigiraf</a> + <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-f/\" hreflang=\"en\">Ursaluna-B</a>. Overheat is appreciated as a single target nuke, hitting almost twice as hard as Heat Wave.</p>\n</li>\n<li>\n<p>Choice Specs is used to give Chi-Yu maximum offensive pressure and allow it to pick up OHKOes on <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a> with Heat Wave. Alternatively, Chi-Yu can opt for Choice Scarf to outspeed threats like <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>.</p>\n</li>\n<li>\n<p>The HP EVs allow for Chi-Yu to avoid the 2HKO from Flutter Mane's Moonblast and once Terastallized into the Ghost-type, almost always survive -1 Adamant Chien-Pao's Sucker Punch. The Speed EVs allow Chi-Yu to outspeed the Adamant <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes.</p>\n</li>\n<li>\n<p>Chi-Yu prefers Tera Ghost to remove its Fighting weakness and be immune to common priority moves like Fake Out and Extreme Speed, which is crucial to preserve momentum. Although Chi-Yu can utilize Tera Fire to significantly increase its damage output, allowing Choice Scarf Chi-Yu to OHKO <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> and Flutter Mane with Overheat and Choice Specs variants to remove Assault Vest Kingambit and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> with Heat Wave.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Specs",
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 212,
+              "atk": 0,
+              "def": 4,
+              "spa": 52,
+              "spd": 4,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              },
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Item Attacker",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Chi-Yu is a phenomenal glass cannon; it has a strong offensive typing and good Special Attack, aided by its ability. These qualities along with proper speed control allow it to pressure common metagame Pokemon including both <a href=\"/dex/sv/pokemon/calyrex/vgc24-regulation-g/\" hreflang=\"en\">Calyrex</a> formes, <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a>. Snarl threatens a common Restricted core that revolves around redirection—Calyrex and <a href=\"/dex/sv/pokemon/clefairy/vgc24-regulation-g/\" hreflang=\"en\">Clefairy</a>—and it can be used to chip away and weaken the damage output of bulkier specially offensive threats like <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>. Choice Specs allows Chi-Yu to pick up OHKOs on Pokemon like Assault Vest Rillaboom and <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> with Heat Wave and bulky <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> with Dark Pulse. Choice Scarf enables Chi-Yu to outspeed common fast metagame staples such as <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a> without Protosynthesis Speed activated. The defensive investment guarantees that Chi-Yu survives Surging Strikes and Tera Water Aqua Jet from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> when Chi-Yu has used Tera Ghost, High Horsepower from most Assault Vest Rillaboom, and Tera Starstorm from Terapagos-S at +2. The Speed EVs allow Chi-Yu to outspeed maximum Speed Adamant <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a> formes, and it also outspeeds Caylrex-S if running Choice Scarf. Special Attack EVs allow Choice Scarf Chi-Yu to threaten an OHKO on <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-H</a> with Overheat. Tera Ghost is absolutely necessary for Chi-Yu because it can avoid Fake Out and Fighting-type moves like Body Press from Zamazenta-C.</p>\n<p><a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> completely walls Chi-Yu and is able to pivot in and out with Parting Shot, while Urshifu-R is able to simply tank a hit and OHKO Chi-Yu. <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a> and Pelipper are also definite Chi-Yu answers, as they weaken its Fire-type moves with Drizzle and can retaliate with an OHKO with Water Spout or Origin Pulse and Weather Ball, respectively. Chi-Yu has a plethora of great partners; Choice Specs Terapagos and <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a> both take great advantage of the power boost provided by Beads of Ruin and are able to pressure Pokemon like Kyogre and Incineroar. <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> is another good partner for it because it sets up the sun, overriding rain from Pelipper and Kyogre and boosting Chi-Yu's Fire-type attacks. This also mitigates its weakness to Water-type moves, aiding in Chi-Yu's matchup against the aforementioned threats. Chi-Yu can also function by itself with speed control from Prankster Tailwind setters like <a href=\"/dex/sv/pokemon/whimsicott/vgc24-regulation-g/\" hreflang=\"en\">Whimsicott</a> and <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a>, which can also set up the sun.</p>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 68,
+              "atk": 0,
+              "def": 84,
+              "spa": 116,
+              "spd": 4,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Glass Cannon",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Chi-Yu is an incredibly strong special attacker, and because of its ability Beads of Ruin, it's able to support other special attacking teammates while still dealing a lot of damage. It matches up well against some common restricted Pokemon such as both <a href=\"/dex/sv/pokemon/calyrex/vgc24-regulation-g/\" hreflang=\"en\">Calyrex</a> formes and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> and it can also pressure common Pokemon such as <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-g/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a> with its STAB moves. Snarl keeps special attacking threats such as <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> and <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a> in check and still does respectable spread damage, while Dark Pulse provides strong and consistent damage. Overheat is an instant burst of damage that allows Chi-Yu to OHKO even bulky threats like Rillaboom and Zamazenta-C while also getting around Wide Guard. Since it is very frail, Focus Sash helps Chi-Yu survive for longer, whereas Life Orb gives it a significant damage boost, allowing it to OHKO <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a> with Overheat and 2HKO <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a> with Dark Pulse. Tera Ghost allows it to avoid Fake Out and gain an immunity to otherwise threatening Fighting-type attacks from <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> and the <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a> formes.</p>\n<p>Chi-Yu pairs well with strong special attackers such as Flutter Mane and Terapagos, since both of them benefit a lot from Beads of Ruin. Chi-Yu struggles with its average Speed stat and appreciates speed control from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a>, since it allows Chi-Yu to outspeed threats such as Koraidon, Miraidon, Flutter Mane, and Calyrex-S and deal respectable amount of damage with Beads of Ruin-boosted Bleakwind Storm. Chi-Yu also has problems with <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>, since it can switch-in on both Heat Wave and Dark Pulse and OHKO Chi-Yu back with Surging Strikes. Amoonguss helps with that issue, by redirecting away Fighting- and Water-type attacks from Urshifu-R, letting Chi-Yu deal damage more consistently. <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> is a strong Chi-Yu answer, since it sets up rain and is able to protect teammates from Chi-Yu's attacks with Wide Guard. <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> and Assault Vest <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a> can take hits from it easily, meaning that the former can pivot out with Parting Shot and the latter is able to use Snarl, do high damage to it, or take advantage of Beads of Ruin and attack its partner.</p>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Offensive Support",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Chi-Yu's excellent damage output, Beads of Ruin support, and great tools in Snarl and Taunt allow it to be especially strong against <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>, and the <a href=\"/dex/sv/pokemon/calyrex/vgc24-regulation-g/\" hreflang=\"en\">Calyrex</a> formes and grant Chi-Yu a unique niche as a supportive Pokemon in Regulation G. Snarl is preferred to weaken threats such as Terapagos, <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, and opposing Chi-Yu; however, Chi-Yu can opt instead for Dark Pulse for a more consistent STAB option against <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-g/\" hreflang=\"en\">Farigiraf</a> and <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a>. Overheat is used for burst damage, enabling Chi-Yu to OHKO <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> and Assault Vest <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>. Taunt is an excellent way for Chi-Yu to shut down Amoonguss as well as Trick Room from setters like Farigiraf and Calyrex-I. This is further enhanced by Covert Cloak's Fake Out immunity, and Covert Cloak also provides Chi-Yu with a valuable immunity to Snarl and Icy Wind stat drops. The EV spread allows Chi-Yu to survive Discharge from Choice Specs <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>, Earth Power from Choice Specs Terapagos, and after Terastallization, Close Combat from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>. The Special Attack EVs with a Modest nature ensure an OHKO on <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> with Overheat, and the Speed EVs enable Chi-Yu to outspeed Terapagos and Adamant <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a> formes. Tera Water provides a resistance to Urshifu-R's Surging Strikes and Pelipper's Weather Ball while improving Chi-Yu's matchup against Calyrex-I.</p>\n<p>Because Chi-Yu has relatively poor bulk and a mediocre Speed tier, it struggles with fast, powerful threats such as Miraidon, Choice Scarf Urshifu-R, <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a>, and <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a>. This makes Rillaboom an exceptional partner, as it can mitigate Miraidon's damage output and threaten Urshifu-R with Wood Hammer and priority Grassy Glide. Rillaboom also appreciates not only Chi-Yu's ability to threaten Steel- and Grass-types like <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-g/\" hreflang=\"en\">Gholdengo</a> and opposing Rillaboom but also its Taunt shutting down Will-O-Wisp and Parting Shot from <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>. <a href=\"/dex/sv/pokemon/clefairy/vgc24-regulation-g/\" hreflang=\"en\">Clefairy</a> is also a good partner, enhancing Chi-Yu's bulk and redirecting away attacks to allow Chi-Yu to survive extra crucial turns against Urshifu-R and Chien-Pao. Calyrex-S is a great restricted partner, outspeeding and threatening Miraidon, Koraidon, and Chien-Pao, while also taking advantage of Beads of Ruin. Clefairy and Calyrex-S both appreciate how well Chi-Yu handles Amoonguss and Terapagos. Exceptionally bulky attackers like <a href=\"/dex/sv/pokemon/kyogre/vgc24-regulation-g/\" hreflang=\"en\">Kyogre</a> and especially Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-g/\" hreflang=\"en\">Iron Hands</a> can exploit Chi-Yu's frail defenses, so the above mentioned Rillaboom can be a great help to threaten it and Iron Hands for major damage.</p>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              },
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 172,
+              "atk": 0,
+              "def": 44,
+              "spa": 36,
+              "spd": 12,
+              "spe": 244
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641287,
+            "username": "ValiantValerie"
+          },
+          {
+            "user_id": 646416,
+            "username": "Code"
+          },
+          {
+            "user_id": 660956,
+            "username": "thacrow"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 239881,
+                "username": "Mr.GX"
+              },
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              },
+              {
+                "user_id": 641757,
+                "username": "fyfyy"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Choice Scarf Chi-Yu functions as a fast and powerful attacker that can threaten many common Restricted Pokemon with heavy damage, including both <a href=\"/dex/sv/pokemon/calyrex/vgc25-regulation-i/\" hreflang=\"en\">Calyrex</a> formes, <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a>, and <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a>, while bolstering its teammates' special damage output with Beads of Ruin.</li>\n<li>Although Snarl is Chi-Yu's weakest move, it allows it to chip foes while shutting down many Restricted Pokemon offensively, including <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a> and Lunala, and breaking Focus Sash, which is notably used by <a href=\"/dex/sv/pokemon/flutter-mane/vgc25-regulation-i/\" hreflang=\"en\">Flutter Mane</a>.</li>\n<li>Choice Scarf allows Chi-Yu to outspeed the majority of the format, notably including <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a> and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>.</li>\n<li>Tera Ghost allows Chi-Yu to avoid Fake Out and alleviate some of Chi-Yu's weaknesses; it particularly provides an immunity to Fighting-type attacks from Zamazenta-C and <a href=\"/dex/sv/pokemon/iron-hands/vgc25-regulation-i/\" hreflang=\"en\">Iron Hands</a>. Tera Fire can be used as an alternative on teams with priority-blocking measures such as <a href=\"/dex/sv/pokemon/indeedee-f/vgc25-regulation-i/\" hreflang=\"en\">Indeedee-F</a> and <a href=\"/dex/sv/pokemon/farigiraf/vgc25-regulation-i/\" hreflang=\"en\">Farigiraf</a> to bolster the damage of Heat Wave and Overheat, including guaranteeing an OHKO against <a href=\"/dex/sv/pokemon/brute-bonnet/vgc25-regulation-i/\" hreflang=\"en\">Brute Bonnet</a> and <a href=\"/dex/sv/pokemon/zacian-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zacian-C</a> with Heat Wave and against Flutter Mane with Overheat.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Common metagame threats such as <a href=\"/dex/sv/pokemon/incineroar/vgc25-regulation-i/\" hreflang=\"en\">Incineroar</a>, Urshifu-R, and <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a> can resist its STAB moves and, in the case of the latter two, threaten to OHKO Chi-Yu. <a href=\"/dex/sv/pokemon/raging-bolt/vgc25-regulation-i/\" hreflang=\"en\">Raging Bolt</a> and Iron Hands, due to their bulk and power, can also pressure Chi-Yu.</li>\n<li>Without Tera Ghost, Chi-Yu is vulnerable to Fake Out from the likes of <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a> and Incineroar. Opposing speed control, in the form of Tailwind and Trick Room, can cause many threats like Urshifu-R, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/vgc25-regulation-i/\" hreflang=\"en\">Ogerpon-C</a>, and <a href=\"/dex/sv/pokemon/ursaluna/vgc25-regulation-i/\" hreflang=\"en\">Ursaluna</a> to outspeed Chi-Yu and take advantage of its weak defenses.</li>\n<li>Additionally, Wide Guard users like Zamazenta-C and Lunala can take advantage of Chi-Yu locked into Snarl or Heat Wave.</li>\n<li>Due to its lack of bulk, priority moves can threaten Chi-Yu severely, namely Aqua Jet from Urshifu-R, Sucker Punch from <a href=\"/dex/sv/pokemon/chien-pao/vgc25-regulation-i/\" hreflang=\"en\">Chien-Pao</a> after Terastallizing, and Thunderclap from Raging Bolt.</li>\n<li>Strong partners for Chi-Yu include powerful special attackers, such as Calyrex-S and Miraidon, which can take advantage of its Beads of Ruin while threatening Urshifu-R and Koraidon.</li>\n<li>Koraidon also pairs very well with Chi-Yu, as not only do they form a powerful core offensively, with Chi-Yu threatening Lunala and Calyrex-S and Koraidon threatening Incineroar and Urshifu-R, but Koraidon also provides sun to bolster Chi-Yu's Fire-type attacks.</li>\n<li>Flutter Mane is another common partner for Chi-Yu, as it benefits from Beads of Ruin to bolster its damage output, while Flutter Mane can run Taunt to deny Wide Guard and Trick Room.</li>\n<li>Chi-Yu also appreciates redirection support to alleviate its frailty, commonly from Brute Bonnet and Indeedee-F, which can also provide support with Spore and Psychic Terrain, respectively.</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 695310,
+            "username": "sheepie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              },
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 4 onwards</p>\n<p><strong>Price Range</strong>: 15-16 points</p>\n<p><strong>Overview</strong>: Chi-Yu is the most powerful wallbreaker in the metagame; it is able to cleave its way through almost any foe, including ones that resist its attacks. It tends to be one-dimensional and requires a lot of support from teammates, but the trade-off is incredibly worth it. Its main downsides are its weakness to entry hazards, especially since it usually wants to use Choice items, and its average Speed that can get taken advantage of by many of the metagame's faster threats.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Coupled with Choice Specs, Chi-Yu aims to OHKO or 2HKO every single Pokemon slower than it in a matchup. It tends to only come in a handful of times per game due to its crippling weakness to entry hazards, but it makes the most of these few turns to devastate the opposing team.</p>\n<p><strong>Cleaner</strong>: Chi-Yu can utilize its respectable Speed tier along with Choice Scarf to try and win games after its teammates have chipped down the opposing team for either of its STAB moves to win.</p>\n<p><strong>Setup Sweeper</strong>: On the rare occasion that it's not strong enough, Chi-Yu can use the switches it forces to set up a Nasty Plot and try to sweep thanks to its powerful STAB moves and access to Flame Charge to boost its Speed.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Overheat, Fire Blast, Flamethrower, Dark Pulse</p>\n<p><strong>Setup Moves</strong>: Nasty Plot, Flame Charge</p>\n<p><strong>Utility Moves</strong>: Substitute, Taunt, Will-O-Wisp</p>\n<p><strong>Coverage</strong>: Hex, Psychic, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Ruination</strong>: On the off chance that Chi-Yu is unable to 2HKO something outright, it can use Ruination and subsequently Overheat to try and pick it off.</p>\n<p><strong>Memento</strong>: This functions similarly to Eject Pack + Overheat, utilizing the immediate pivot and debuff to both of your foes' offensive stats, giving Chi-Yu's teammates an easier chance to set up.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Specs</strong>: Choice Specs makes Chi-Yu an even more powerful wallbreaker by turning most 2HKOs into OHKOs and 3HKOs into 2HKOs.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf can make Chi-Yu an effective cleaner or revenge killer, allowing it to outspeed a lot of naturally faster foes or setup sweepers at +1 Speed.</p>\n<p><strong>Heavy-Duty Boots</strong>: Usually seen on setup sets, Heavy-Duty Boots negates Chi-Yu's entry hazard weakness and allows it to come in safely more frequently. It offsets its trade in power for longevity and the ability to use Nasty Plot.</p>\n<h3>Niche Items</h3>\n<p><strong>Eject Pack</strong>: Eject Pack enables Chi-Yu to use Overheat and safely bring in a teammate to take the hit or have a free chance at setting up. It does lack the power of Choice Specs, the speed of Choice Scarf, and the longevity of Heavy-Duty Boots, but it can be a great enabler for its teammates.</p>\n<h3>Tera</h3>\n<p>Chi-Yu is a solid but one-dimensional Tera Captain. It usually uses STAB Tera types to further boost its wallbreaking capabilities, but it can use a defensive Tera type, such as Tera Fairy, Ghost, or Steel, to resist common priority moves or reduce its Stealth Rock weakness. It can occasionally be used to give Chi-Yu coverage such as Tera Blast Grass against bulky Water-types.</p>\n<h3>Draft Strategy</h3>\n<p>Chi-Yu is a relatively one-dimensional wallbreaker that offers little to no defensive utility in most games while also needing a lot of support to both get it onto the field. To keep it healthy and position it properly, it should be paired with the roles below.</p>\n<p><strong>Entry Hazard Removal</strong>: With its best two sets being Choice items, Chi-Yu is desperate for good hazard removal, with partners such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> being great at doing this.</p>\n<p><strong>Slow Momentum</strong>: Since Chi-Yu doesn't want to switch in directly to a hit, slow momentum is greatly appreciated, and ideally, these momentum picks should also be to take hits reliably. This leads to Pokemon such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a> all being worthwhile options.</p>\n<p><strong>Entry Hazard Setters</strong>: Choice Scarf Chi-Yu can struggle to net certain OHKOs without prior chip damage, and it appreciates hazards to help reach these OHKOs. Hazard setters such as <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> are all worthwhile pairings.</p>\n<p><strong>Speed Control</strong>: Due to it only having base 100 Speed, Chi-Yu appreciates being paired with faster threats that can outpace opposing teams. Good examples of this are <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/cyclizar/draft/\" hreflang=\"en\">Cyclizar</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Entry Hazards</strong>: Since Chi-Yu often relies on Choice items for additional wallbreaking power or Speed, it can quickly get chipped down by entry hazards, especially Stealth Rock.</p>\n<p><strong>Faster Pokemon / Priority</strong>: Since it only has base 100 Speed, Chi-Yu is often forced out easily by faster threats that are able to reliably outspeed it and threaten to KO it, including <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, Iron Valiant, and <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a>. Strong priority attackers like <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/conkeldurr/draft/\" hreflang=\"en\">Conkeldurr</a> can also easily revenge kill it.</p>\n<p><strong>Bulky Assault Vest Users</strong>: While a lot of specially defensive walls are naturally 2HKOed by Choice Specs Chi-Yu, they are able to take extra hits by using Assault Vest and hit it back incredibly hard. Examples of this include <a href=\"/dex/sv/pokemon/tentacruel/draft/\" hreflang=\"en\">Tentacruel</a>, <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 564960,
+            "username": "Princess Autumn"
+          },
+          {
+            "user_id": 527276,
+            "username": "Techno"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Item",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Memento",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flame Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Chi-Yu's solid offensive stats combined with Beads of Ruin make it a powerful wallbreaker in the tier, with its unresisted STAB combination threatening out key Pokemon such as <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, and <a href=\"/dex/sv/pokemon/lunala/national-dex-ubers/\" hreflang=\"en\">Lunala</a>. However, Chi-Yu's mediocre Speed tier means it is easily revenge killed by Pokemon like <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a> and <a href=\"/dex/sv/pokemon/palkia-origin/national-dex-ubers/\" hreflang=\"en\">Palkia-O</a>, especially since it is quite frail, meaning it needs team support to position itself safely, so Sticky Web structures are needed for it to thrive.</p>\n</li>\n<li>\n<p>Fire Blast allows Chi-Yu to OHKO offensive Necrozma-DM and 2HKO Dragon Dance <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> unboosted while also OHKOing Extreme Killer <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> after a Nasty Plot boost. Flamethrower has less power but improved accuracy.</p>\n</li>\n<li>\n<p>Black Hole Eclipse enables Chi-Yu to OHKO Double Dance Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, Palkia-O, and <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a> unboosted while also allowing Chi-Yu to OHKO <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>, defensive Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a>, Zacian-C, and defensive <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> after a boost, greatly benefitting it in wallbreaking opposing balance teams.</p>\n</li>\n<li>\n<p>Taunt allows Chi-Yu to stop status conditions such as Toxic poison and paralysis from Pokemon such as Ho-Oh and <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a>, letting it wallbreak more comfortably. Overheat lets Chi-Yu break through <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a> after hitting it with boosted Black Hole Eclipse, as well as giving Chi-Yu a greater offensive presence outside of Nasty Plot, letting it OHKO Marshadow and defensive Necrozma-DM after a layer of spikes, although the latter is not guaranteed.</p>\n</li>\n<li>\n<p>Chi-Yu is a very strong attacker, so a lot of the time its presence alone can threaten out Pokemon like Necrozma-DM, enabling either free damage or a Nasty Plot boost. Chi-Yu should be careful with its Z-Move, since it's ideally used to target Pokemon such as Ho-Oh or defensive Eternatus, rather than using it wastefully against Pokemon such as Marshadow or <a href=\"/dex/sv/pokemon/mewtwo-mega-y/national-dex-ubers/\" hreflang=\"en\">Mega Mewtwo Y</a>. In a situation where Chi-Yu cannot use Nasty Plot reliably, using Black Hole Eclipse unboosted is still quite powerful, as the chip damage alone is enough in some situations where a teammate can clean up walls like Ho-Oh, Eternatus, and support Arceus formes.</p>\n</li>\n<li>\n<p>Chi-Yu works best on hyper offense structures that revolve around Sticky Web, meaning setters such as <a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a> and <a href=\"/dex/sv/pokemon/smeargle/national-dex-ubers/\" hreflang=\"en\">Smeargle</a> are greatly appreciated; the latter also comes with the benefit of removing entry hazards with Mortal Spin for Chi-Yu, since it cannot hold Heavy-Duty Boots, while they both can set additional hazards such as Stealth Rock or Spikes which help Chi-Yu reach important damage thresholds.</p>\n</li>\n<li>\n<p>Teammates that can threaten out specially defensive walls such as Ho-Oh, Eternatus, and <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a> are greatly appreciated by Chi-Yu since it can wallbreak easier, so teammates such as offensive Primal Groudon, Necrozma-DM, and Marshadow are good for this; these Pokemon also appreciate Chi-Yu breaking through physical walls like opposing Primal Groudon, <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, and support Arceus formes.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Darkinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 604820,
+            "username": "Sami"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Attacker",
+          "pokemon": "Chi-Yu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Beads of Ruin"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Heat Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Snarl",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Bounce",
+    "Burning Jealousy",
+    "Confuse Ray",
+    "Crunch",
+    "Dark Pulse",
+    "Ember",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Giga Impact",
+    "Heat Wave",
+    "Hex",
+    "Hyper Beam",
+    "Incinerate",
+    "Inferno",
+    "Lash Out",
+    "Lava Plume",
+    "Light Screen",
+    "Mean Look",
+    "Memento",
+    "Nasty Plot",
+    "Overheat",
+    "Payback",
+    "Protect",
+    "Psychic",
+    "Reflect",
+    "Rest",
+    "Ruination",
+    "Scary Face",
+    "Sleep Talk",
+    "Snarl",
+    "Spite",
+    "Substitute",
+    "Sunny Day",
+    "Swagger",
+    "Take Down",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Will-O-Wisp",
+    "Zen Headbutt"
+  ]
+}

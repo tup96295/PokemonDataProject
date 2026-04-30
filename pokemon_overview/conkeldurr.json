@@ -1,0 +1,326 @@
+{
+  "name": "Conkeldurr",
+  "alias": "conkeldurr",
+  "types": [
+    "Fighting"
+  ],
+  "stats": [
+    105,
+    140,
+    95,
+    55,
+    65,
+    45
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Flame Orb Guts",
+          "pokemon": "Conkeldurr",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Flame Orb"
+          ],
+          "teratypes": [
+            "Normal",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Facade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mach Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Conkeldurr",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mach Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 16,
+              "def": 0,
+              "spa": 0,
+              "spd": 228,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 7-8 points</p>\n<p><strong>Overview</strong>: Although there is an abundance of cheap Fighting-type Pokemon in the metagame, Conkeldurr sets itself apart with its well-rounded tool bag. Boasting a monstrous Attack stat, good bulk, three useful abilities, and a wide movepool, Conkeldurr has a lot going for it. Other notable strengths include its strong Iron Fist-boosted Mach Punch and utility options such as Defog and Knock Off. Despite these relative strengths to its competition, Conkeldurr does struggle a bit from its lacking Special Defense, abysmal Speed, susceptibility to revenge killing once chipped, and slightly elevated price compared to its peers.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Bulky Attacker</strong>: Conkeldurr can leverage its good natural bulk with its raw strength and wide coverage to absorb hits with ease and deal damage back. These sets will often employ a defensive item such as Leftovers for longevity or an Assault Vest, as it enjoys shoring up its lower Special Defense, and there is minimal drawback to running four attacking moves on these sets. These sets can trade with most foes while removing items with Knock Off and staying healthy with Drain Punch.</p>\n<p><strong>Setup Sweeper</strong>: Conkeldurr can use Bulk Up to become incredibly strong and simultaneously difficult to remove. Typically, these sets will invest heavily in bulk and will try to become too difficult to kill so strong coverage and Mach Punch can clean up the opposing team. Drain Punch can allow Conkeldurr to never get into KO range, and status is an unreliable answer to potential Guts sets.</p>\n<p><strong>Wallbreaker</strong>: Conkeldurr can use a Flame Orb to enact a Guts boost or a combination of a Life Orb with Sheer Force to become a dangerous immediate threat that few foes may check.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Drain Punch, Mach Punch, Close Combat, Low Kick</p>\n<p><strong>Setup Moves</strong>: Bulk Up</p>\n<p><strong>Utility Moves</strong>: Defog, Taunt, Protect, Brick Break, Endure</p>\n<p><strong>Coverage</strong>: Knock Off, Earthquake, Poison Jab, Facade, Ice Punch, Fire Punch, Thunder Punch, Stone Edge, Rock Slide,</p>\n<h3>Niche Moves</h3>\n<p><strong>Low Sweep / Bulldoze / Rock Tomb</strong>: Conkeldurr may use Speed-dropping attacks in order to keep a foe from setting up or if it does not require much coverage.</p>\n<p><strong>RestTalk</strong>: Conkeldurr can use a RestTalk combination to make up for its lack of reliable recovery in certain instances. This can also be effective offensively, as it provides a Guts boost.</p>\n<p><strong>Upper Hand</strong>: Conkeldurr can use Upper Hand to prevent it from being revenge killed by a priority attack if Mach Punch does not do enough damage.</p>\n<p><strong>Hard Press</strong>: Although niche due to Conkeldurr's access to Poison Jab, Hard Press may be usable to provide specific rolls to OHKO certain Fairy-type foes.</p>\n<h3>Common Items</h3>\n<p><strong>Assault Vest</strong>: With very little drawback due to its amazing attacking movepool, Conkeldurr most commonly uses an Assault Vest to help its Special Defense and overall longevity.</p>\n<p><strong>Leftovers</strong>: Leftovers is used when it is anticipated Conkeldurr will spend many turns on the field such as in slower games or on setup sets.</p>\n<p><strong>Flame Orb</strong>: Flame Orb is used to activate Guts and power up Conkeldurr's strong coverage, STAB attacks, and Facade to become a fearsome wallbreaker.</p>\n<h3>Niche Items</h3>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry may be used in faster-paced matches or to avoid a specific couple attacks from KOing Conkeldurr.</p>\n<p><strong>Custap Berry</strong>: Custap Berry may be used to allow Conkeldurr to dish out one more powerful attack when weakened despite its low Speed. This can also be used with Endure to ensure activation.</p>\n<p><strong>Life Orb</strong>: Life Orb can be used paired with Sheer Force to bolster damage output tremendously. Guts sets usually outclass this, as Sheer Force boosts less useful moves; however, Sheer Force can be slightly stronger if a lot of coverage is needed.</p>\n<p><strong>Rocky Helmet</strong>: On physically defensive sets, Rocky Helmet can be used to punish common contact moves like U-turn and Knock Off.</p>\n<p><strong>Mental Herb</strong>: Mental Herb can be used to avoid Encore and Taunt, which can completely thwart Bulk Up sets due to Conkeldurr's low Speed.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries like Roseli Berry, Payapa Berry, and Coba Berry can be used to lure and trade with an unsuspecting foe.</p>\n<p><strong>Punching Glove</strong>: Conkeldurr can use Punching Glove on Iron Fist sets to slightly increase damage and avoid pesky Rocky Helmet or contact ability status if Conkeldurr is not running Guts.</p>\n<h3>Tera</h3>\n<p>Conkeldurr can make for a great secondary Tera Captain if your draft already has a good primary user. It will mostly use defensive Tera types such as Poison, Fairy, and Water to provide useful resistances and opportunities to set up or attack. It can also use more offensively geared options like Fighting and Normal to boost its STAB attacks or Facade to make wallbreaking sets an even larger headache. You will most often see Conkeldurr Terastallize situationally as needed; however, with a high-tier teammate that demands Terastallization a bit less, Conkeldurr can Terastallize more frequently.</p>\n<h3>Draft Strategy</h3>\n<p>Conkeldurr fits on drafts that require some physical bulk and strength, and it provides many useful tools such as secondary entry hazard removal, item removal, and priority for revenge killing. It is also good on drafts weak to high-tier Dark-types such as <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, since Conkeldurr can easily check and revenge kill them.</p>\n<p><strong>Strong Teammates</strong>: Conkeldurr is an additive piece on any draft, and as such, it requires a solid team structure around it to thrive. It will not often be a great wincon, so it is important to ensure you have multiple options in that regard.</p>\n<p><strong>Utility and Role Compression</strong>: Although it may possess some useful tools like item and entry hazard removal, it is essential to fill out your team with useful roles such as pivots and hazard setters to allow Conkeldurr to flourish.</p>\n<p><strong>Specially Defensive Pivots</strong>: As Conkeldurr will frequently be checked by strong special threats, having special walls to pivot in like <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>, <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> can be very helpful.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Strong Special Attackers</strong>: Although Conkeldurr is relatively bulky, it is frailer on the special side. Strong threats such as <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> threaten to blow right through Conkeldurr.</p>\n<p><strong>Bulky Fighting-resistant Foes</strong>: Although very strong, bulky Fighting-type checks such as Uxie, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/draft/\" hreflang=\"en\">Galarian Weezing</a> can be tough for Conkeldurr to break through with most of its common sets.</p>\n<p><strong>Chip Damage</strong>: Without any reliable recovery, Conkeldurr is very prone to being worn down by chip damage from entry hazards, Rocky Helmet, Flame Orb, and stray attacks that can put it in range to be revenge killed.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608304,
+            "username": "jscurf"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Guts (Spe)",
+          "pokemon": "Conkeldurr",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Guts"
+          ],
+          "items": [
+            "Flame Orb"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Facade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mach Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Close Combat",
+    "Coaching",
+    "Counter",
+    "Curse",
+    "Defog",
+    "Detect",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Energy",
+    "Focus Punch",
+    "Giga Impact",
+    "Grass Knot",
+    "Hammer Arm",
+    "Hard Press",
+    "Helping Hand",
+    "High Horsepower",
+    "Hyper Beam",
+    "Ice Punch",
+    "Knock Off",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Mach Punch",
+    "Poison Jab",
+    "Pound",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Throw",
+    "Rock Tomb",
+    "Scary Face",
+    "Slam",
+    "Sleep Talk",
+    "Smack Down",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Superpower",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder Punch",
+    "Upper Hand",
+    "Wide Guard"
+  ]
+}

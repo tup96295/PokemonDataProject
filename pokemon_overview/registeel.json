@@ -1,0 +1,414 @@
+{
+  "name": "Registeel",
+  "alias": "registeel",
+  "types": [
+    "Steel"
+  ],
+  "stats": [
+    80,
+    75,
+    150,
+    75,
+    150,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Registeel is an excellent mixed wall and Stealth Rock setter, capable of standing firm in the face of many attackers throughout the game and keeping up entry hazards. IronPress allows Registeel to turn into an offensive threat while walling any physical attacker, letting it set up against a myriad of foes like <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, while Thunder Wave can cripple Pokemon like <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>. Registeel's typing allows it to check the Fairy-, Poison-, and Dragon-types in the tier like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, and <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> with ease, while its incredible bulk allows it to take neutral attacks from <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a> and Gengar. However, Registeel lacks reliable recovery, relying on the meager healing of Leftovers, which means that it can be chipped down across the game by hazards and is vulnerable to item removal like Knock Off. Pokemon that defeat Registeel, like <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>, and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>, are all very common in the metagame. Registeel also poses very little threat to the Ghost- and Psychic-type Pokemon that shrug off Body Press, like Basculegion-F and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, granting them easy entry points. In addition, Registeel's ability to keep Stealth Rock up is hindered by its matchup against common hazard removers, as it does not want to switch into Cyclizar's Knock Off or <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a>'s Will-O-Wisp.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Registeel can use a combination of Fling and Toxic Orb to poison a Pokemon such as <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> or <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, providing a single-use offensive option that is not expected in its arsenal. Curse is an alternative setup option that slows the Defense boosts in exchange for boosting the damage of Heavy Slam, but it is recommended to use a different Tera type alongside it. Tera Poison grants Registeel a resistance to Fighting while maintaining its Fairy resististance and poison immunity. Tera Fairy also grants a Fighting resistance in addition to a Dark resistance. Thunderbolt can be used to hit common checks like <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> and Slowbro. Protect can be used to improve the effectiveness of Leftovers and to scout for moves from Choice-locked <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>. ChestoRest can provide emergency healing and remove negative status effects.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fighting-types</strong>: Pokemon like Mienshao, <a href=\"/dex/sv/pokemon/breloom/ru/\" hreflang=\"en\">Breloom</a>, and <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> threaten significant damage on Registeel if it has no Defense boosts. <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a> in particular is incredibly threatening to Registeel as not only does it resist Body Press, but Sacred Sword can ignore any Defense boosts Registeel has attained.</p>\n<p><strong>Fire-types</strong>: Fire-types like <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>, and Talonflame can deal super effective damage to Registeel and/or burn it, neutering its Leftovers and damage.</p>\n<p><strong>Ghost-types</strong>: <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> are immune to Body Press, forcing Registeel to hit with its unboosted attack. Tera Ghost is also a common Tera type for physical walls like Chesnaught, Gastrodon, and opposing Registeel.</p>\n<p><strong>Knock Off</strong>: Knock Off users like Krookodile, <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a> are capable of removing Registeel's Leftovers, harming its longevity.</p>\n<p><strong>Disruption</strong>: If Registeel has its moves disrupted through the use of moves like Encore, Taunt, and Trick, it is severely hindered and forced to switch out.</p>",
+      "movesets": [
+        {
+          "name": "Stealth Rock",
+          "pokemon": "Registeel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Body Press takes advantage of Registeel's high Defense and can hit Pokemon like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>. Iron Defense improves Registeel's survivability and turns it into an offensive threat thanks to Body Press. Thunder Wave can paralyze Cyclizar and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> for Registeel's allies to deal with them better. Leftovers is necessary due to Registeel's natural lack of recovery. Clear Body prevents stat drops from attacks like Liquidation, Crunch, and Shadow Ball. 180 Defense EVs allow Registeel to survive two Earthquakes from <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> most of the time while guaranteeing Registeel can OHKO <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> with a +2 Body Press after Stealth Rock damage. Tera Ghost provides Registeel with an immunity to Fighting to beat Pokemon like <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a> and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and to block Cyclizar's Rapid Spin. This also allows Registeel to set up against Pokemon with Ground-type attacks like <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> and Earthquake <a href=\"/dex/sv/pokemon/gyarados/ru/\" hreflang=\"en\">Gyarados</a>.</p>\n<p>Registeel is a great fit on both bulky offense and balance teams. Because Registeel wants to enter the field often, it is particularly susceptible to Spikes, so entry hazard removers like <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, Cyclizar—which <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> struggles against—and Defog Talonflame—which checks Fighting-types like <a href=\"/dex/sv/pokemon/breloom/ru/\" hreflang=\"en\">Breloom</a> and Mienshao—make valuable teammates. Due to Registeel's reliance on its Leftovers, a Knock Off absorber is a necessity, a role that Pokemon like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, Gastrodon, and <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a> are able to perform. Registeel's lack of natural recovery makes Wish a useful option, which can be used by Umbreon and <a href=\"/dex/sv/pokemon/vaporeon/ru/\" hreflang=\"en\">Vaporeon</a>. As Ghost- and Psychic-types like Basculegion-F and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> are able to stand against Registeel's Body Press, it is useful to have allies that can hit them like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, Krookodile, and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>. Setup sweepers like Slowbro, Calm Mind <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, and <a href=\"/dex/sv/pokemon/mew/ru/\" hreflang=\"en\">Mew</a> can take advantage of Registeel's struggle to touch them, so allies that can disrupt them like Trick <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and Gengar and Encore <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a> are useful.</p>",
+          "abilities": [
+            "Clear Body"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 180,
+              "spa": 0,
+              "spd": 76,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 555741,
+            "username": "MachJacob"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>With an extremely high Defense stat and access to the coveted IronPress combination, Registeel serves the role of the format's late-game sweeper. Steel is an incredibly good typing defensively, and Clear Body stops Intimidate from the likes of <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, which could otherwise prevent the OHKO on <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> with Heavy Slam.</p>\n</li>\n<li>\n<p>Registeel fits best on balance teams that feature its favorite partners. Incineroar and <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> can slow down the pace of the game, <a href=\"/dex/sv/pokemon/latias/vgc24-regulation-f/\" hreflang=\"en\">Latias</a> provides crucial speed control in Tailwind, and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>'s Grassy Surge and Fake Out is appreciated by Registeel. Additionally, Latias and Rillaboom threaten <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>. Similarly, <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a> is also a good Registeel partner, being the premier Urshifu-R counter in the format.</p>\n</li>\n<li>\n<p>Notable good matchups for Registeel include Rillaboom and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, both of which get cleanly 2HKOed by Body Press after a single Iron Defense boost. <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a> also does poorly against Registeel, as Swords Dance can be mitigated by Iron Defense and Body Press hits Kingambit very hard if it does not Terastallize.</p>\n</li>\n<li>\n<p>However, not all physical attackers are helpless against the IronPress Registeel. Both <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> formes can pose a threat, depending on Registeel's choice of Tera type. <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> can threaten heavy damage with Sacred Sword if Registeel has not used Terastallization. <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a> is also a hard counter to Registeel, as it is immune to Body Press and resists Heavy Slam while also being able to set up with Nasty Plot and break through Registeel's high bulk.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "IronPress",
+          "pokemon": "Registeel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Heavy Slam allows Registeel to hit opposing Ghost-types like <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>. 52 Attack EVs allow Heavy Slam to OHKO bulky Flutter Mane.</p>\n</li>\n<li>\n<p>Leftovers keeps it healthy throughout the game, with Protect providing additional turns of recovery.</p>\n</li>\n<li>\n<p>Tera Water is the standard Tera Type for Registeel, allowing it to resist <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>'s Surging Strikes and being a generally good defensive typing. However, with the rise of <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-S</a>, Tera Fairy is a viable option to resist Wicked Blow and Fighting-type moves while also being neutral into the majority of the metagame. Be careful using this, however as Teratallized Urshifu-R threatens a 2HKO with Surging Strikes, and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a> can easily pin you with Earth Power and Sludge Bomb.</p>\n</li>\n<li>\n<p>The Special Defense investment allows Registeel to almost always survive Timid Earth Power from Landorus. The rest of the Defense EVs along with an Impish nature maximize its damage output.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Clear Body"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 52,
+              "def": 76,
+              "spa": 0,
+              "spd": 124,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 558405,
+            "username": "SoulboyVGC"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onward</p>\n<p><strong>Price Range</strong>: 4-5 points</p>\n<p><strong>Overview</strong>: Stealth Rock, Body Press, and speed control in Thunder Wave are all serviceable traits that let Registeel provide some budget utility options. Registeel can take most neutral hits with naturally high Defense and Special Defense alongside fantastic resistances to Flying, Dragon, and Fairy. However, Registeel's lack of pivoting, recovery, and consistent offensive pressure holds it back.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wall</strong>: Registeel can swap in, sponge an attack, and set Stealth Rock or use Thunder Wave to provide support.</p>\n<p><strong>Setup Sweeper</strong>: Iron Defense or Curse alongside Body Press can turn Registeel into a potential wincon, although this can be difficult with only Rest as a recovery option.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Heavy Slam, Iron Head, Flash Cannon</p>\n<p><strong>Setup Moves</strong>: Curse, Iron Defense</p>\n<p><strong>Utility Moves</strong>: Rest, Stealth Rock, Thunder Wave, Brick Break</p>\n<p><strong>Coverage</strong>: Body Press, Earthquake, Ice Spinner, Shadow Claw, Rock Slide, Thunder Punch, Thunderbolt, Focus Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Explosion / Steel Beam</strong>: Registeel can create momentum for its teammates and fire off one last hit before going down.</p>\n<p><strong>Amnesia</strong>: Amnesia can be used in some matchups if Registeel only needs Body Press for an attacking move on sweeping sets.</p>\n<p><strong>Sleep Talk</strong>: Sleep Talk can be used with Rest on sweeping sets to allow Registeel to become less passive when asleep.</p>\n<h3>Common Items</h3>\n<p><strong>Leftovers</strong>: Registeel can munch on Leftovers as one of its only forms of recovery if it intends on sticking around a while.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry helps Registeel gain more immediate recovery throughout a game.</p>\n<p><strong>Resistance Berries</strong>: The Chople, Shuca, and Occa Berries can all be used to let Registeel lure in offensive threats and bait them into attempting to KO it, only to be punished by an attack or Thunder Wave.</p>\n<h3>Niche Items</h3>\n<p><strong>Weakness Policy</strong>: Weakness Policy can increase Registeel's damage output after taking a super effective hit to surprise and possibly KO unsuspecting foes.</p>\n<p><strong>Eject Button</strong>: As Registeel's only pivoting option, this allows Registeel to swap in on an attack and swap back out to let a frail teammate in safely.</p>\n<p><strong>Red Card</strong>: Registeel can hold a Red Card to take a hit from boosted Pokemon and force them out in a pinch.</p>\n<p><strong>Chesto Berry</strong>: Chesto Berry can be used alongside Rest to grant Registeel a more proactive recovery option.</p>\n<p><strong>Rocky Helmet</strong>: Registeel can punish contact moves with chip damage from Rocky Helmet.</p>\n<h3>Tera</h3>\n<p>Registeel doesn't Terastallize very often, as its original Steel typing is often enough to make it serviceable. However, if Registeel is selected as a Tera Captain, defensive options such as Tera Water and Fairy can aid Registeel's walling prowess. Tera Fighting can also be used to boost the damage output of Body Press.</p>\n<h3>Draft Strategy</h3>\n<p>Registeel is drafted as a supportive, utility-based defensive option for teams that require answers to strong Fairy-, Flying-, Psychic-, or Poison-type Pokemon.</p>\n<p><strong>Wallbreakers</strong>: Registeel appreciates partners that can create progress with strong attacks, such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>.</p>\n<p><strong>Bulky pivots</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> can form a defensive core with Registeel while taking hits.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fire-, Ground-, and Fighting-type Pokemon</strong>: Pokemon such as Great Tusk, <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a> can outright break through Registeel with strong super effective attacks.</p>\n<p><strong>Disruption</strong>: Taunt, Encore, and using Trick with a Choice item, often from Pokemon such as <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a>, and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a>, can cripple Registeel's longevity.</p>\n<p><strong>Setup Sweepers</strong>: Pokemon that can avoid Thunder Wave via Substitute or Lum Berry, such as <a href=\"/dex/sv/pokemon/keldeo/draft/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, and Iron Hands, can use Registeel to create setup opportunities to wallbreak or clean games.</p>\n<p><strong>Chip Damage</strong>: Registeel is prone to being worn down over time, and with unreliable recovery options, it can be taken down through repeated hits and entry hazards.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 315566,
+            "username": "AceTrainerOrange"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 617175,
+                "username": "E Man"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Stall",
+          "pokemon": "Registeel",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Registeel is one of the bulkiest Pokemon in the entire metagame. With its pure Steel typing, sky-high defenses, and access to Amnesia, Iron Defense, and Rest, it's easily able to stall a huge chunk of the metagame, including <a href=\"/dex/sv/pokemon/ninetales-alola/1v1/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a>, and non-Trick <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a>.</li>\n<li>Body Press with Iron Defense is Registeel's best attacking move, allowing it to break through Pokemon such as Calm Mind <a href=\"/dex/sv/pokemon/cresselia/1v1/\" hreflang=\"en\">Cresselia</a> and Iron Defense Iron Crown.</li>\n<li>Leftovers is used for general healing against the majority of the metagame, especially helping against Encore Primarina and Encore + Disable <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a>.</li>\n<li>Air Balloon helps tremendously against Ground-type Pokemon such as both <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a> formes and <a href=\"/dex/sv/pokemon/garchomp/1v1/\" hreflang=\"en\">Garchomp</a>.</li>\n<li>It's important to note that Registeel is crippled by its weakness to Fire- and Fighting-type attacks from the likes of <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a> and both <a href=\"/dex/sv/pokemon/urshifu/1v1/\" hreflang=\"en\">Urshifu</a> formes, so Pokemon like Primarina and <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a> make for good partners.</li>\n<li>Registeel is also weak to a lot of common status moves such as Taunt from <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>, Encore from <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a>, and Curse from <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>. Finding a Pokemon that can deal with these, such as Raging Bolt, Passho Berry Volcarona, or Choice Scarf <a href=\"/dex/sv/pokemon/arcanine-hisui/1v1/\" hreflang=\"en\">Hisuian Arcanine</a>, is crucial for Registeel to fit on a team.</li>\n</ul>",
+          "abilities": [
+            "Clear Body"
+          ],
+          "items": [
+            "Leftovers",
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Amnesia",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 563650,
+            "username": "bern"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 583189,
+                "username": "LongRat"
+              },
+              {
+                "user_id": 375405,
+                "username": "crow crumbs"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Amnesia",
+    "Ancient Power",
+    "Body Press",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Charge Beam",
+    "Curse",
+    "Double-Edge",
+    "Earthquake",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Flash Cannon",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Giga Impact",
+    "Gravity",
+    "Hammer Arm",
+    "Hard Press",
+    "Heavy Slam",
+    "Hyper Beam",
+    "Ice Punch",
+    "Ice Spinner",
+    "Iron Defense",
+    "Iron Head",
+    "Lock-On",
+    "Metal Claw",
+    "Metal Sound",
+    "Meteor Beam",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Sand Tomb",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stomp",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Superpower",
+    "Take Down",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Zap Cannon"
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "name": "Mewtwo",
+  "alias": "mewtwo",
+  "types": [
+    "Psychic"
+  ],
+  "stats": [
+    106,
+    110,
+    90,
+    154,
+    90,
+    130
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Mewtwo is a niche wallbreaker by courtesy of its access to Nasty Plot and usable Speed stat letting it outspeed Pokemon like <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> and most <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a> variants. Its ability to dismantle common defensive Pokemon, like most Arceus formes, and discourage Pokemon like <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a> from switching in, makes it a very hard Pokemon to deal with defensively.</li>\n<li>However, Mewtwo's Speed stat leaves it outsped by common Pokemon like Zacian-C, <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>, and <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a>, all of which can heavily damage, if not outright OHKO, it.</li>\n<li>Grass Knot hits Mewtwo's biggest roadblock in <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> for massive damage.</li>\n<li>Flamethrower retains the hit on Zacian-C and Tera Steel <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a> for big damage while also damaging other Tera Steel Pokemon like <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a>.</li>\n<li>Taunt allows Mewtwo to stop Defog attempts from the likes of Giratina-O and <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> while also denying recovery attempts from <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a> and Arceus formes. Moreover, Taunt also permits Mewtwo to antilead <a href=\"/dex/sv/pokemon/ribombee/uber/\" hreflang=\"en\">Ribombee</a> and deny its Sticky Web, being one of the few Pokemon that can accomplish this without losing an important chunk of HP in the process.</li>\n<li>Earth Power can be used instead to greatly damage Zacian-C, Skeledirge, and tera Steel Pokemon like Clodsire.</li>\n<li>Tera Steel allows Mewtwo to resist both of Zacian-C's STAB moves while also resisting Extreme Killer Arceus's Extreme Speed, which is particularly important, as Extreme Killer Arceus is a very common offensive answer to Mewtwo.</li>\n<li>Heavy-Duty Boots allows Mewtwo to ignore entry hazards like Spikes and, most importantly, Toxic Spikes. Leftovers can be used instead as Mewtwo's only form of recovery. Lastly, Life Orb can be used to greatly increase Mewtwo's damage output, allowing it to have a favorable chance of OHKOing Ting-Lu after a Nasty Plot. A Modest nature can be used to ensure Mewtwo OHKOes Ting-Lu and Extreme Killer Arceus at +2 and works best on Sticky Web teams, as on them Mewtwo doesn't mind the loss in Speed and can break holes in teams more easily.</li>\n<li>It is advised to get Mewtwo on the field via smart double switches or U-turn from teammates like Koraidon, as per its underwhelming defensive typing, it doesn't get many opportunities to freely switch in. Once in the field, Mewtwo should dish out as much damage as possible or use Nasty Plot to break important Pokemon, like Calm Mind Arceus formes. Against faster foes without pivoting moves like Zacian-C, Mewtwo can freely Terastallize into a Steel-type to resist both of its STAB moves and hit back hard with an Earth Power or Flamethrower.</li>\n<li>Mewtwo struggles against faster foes, like Zacian-C, Koraidon, and Flutter Mane. Because of this, Pokemon like <a href=\"/dex/sv/pokemon/landorus-therian/uber/\" hreflang=\"en\">Landorus-T</a>, Skeledirge, and Clodsire make for good partners. Landorus-T and Clodsire in particular help Mewtwo by spreading entry hazards, allowing it to net some KOs that it would normally miss, such as against <a href=\"/dex/sv/pokemon/arceus-steel/uber/\" hreflang=\"en\">Arceus-Steel</a>, a Pokemon that now gets OHKOed by a +2 Flamethrower after a single layer of Spikes.</li>\n</ul>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Choice Specs Mewtwo is a strong and decently fast wallbreaker that crucially outspeeds <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a>. Its power and coverage give Mewtwo the ability to OHKO or 2HKO just about every Pokemon in the tier.</li>\n<li>However, Mewtwo can easily be revenge killed by <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a> and <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>, both of which outspeed and threaten a KO on it after Stealth Rock.</li>\n<li>Psystrike capitalizes on the lack of Psychic-resistant foes, as even <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a> struggles to take more than two Psystrikes. It also helps against Calm Mind Arceus, especially Tera Poison variants.</li>\n<li>Ice Beam hits Pokemon like <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a> and Tera Flying users like Zacian-C. Mewtwo can use Tera Fire to resist Tera Flying Zacian-C's STAB moves and OHKO it with Ice Beam after minimal chip damage.</li>\n<li>Flamethrower hits Zacian-C and Tera Steel users. Koraidon's sun can ensure the OHKO on Zacian-C as well as 2HKO on max HP Arceus.</li>\n<li>Grass Knot is mainly used for hitting Mewtwo's worst enemy, <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a>. It also hits <a href=\"/dex/sv/pokemon/arceus-ground/uber/\" hreflang=\"en\">Arceus-Ground</a>, <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a>, and <a href=\"/dex/sv/pokemon/groudon/uber/\" hreflang=\"en\">Groudon</a> much harder than Ice Beam, potentially scoring OHKOes if they run more offensive spreads.</li>\n<li>Tera Fire gives Mewtwo useful resistances against common revenge killing options like Koraidon's Flare Blitz and Zacian-C's STAB moves. If sun is active, Tera Fire Flamethrower can 2HKO bulky foes such as <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a> and Koraidon.</li>\n<li>Choice Specs Mewtwo's most important partner is Koraidon, usually with Choice Scarf. Koraidon helps power up Mewtwo's Flamethrower and lures in Mewtwo's favorite targets such as bulky Arceus formes and other physical checks.</li>\n<li>Defensive partners like Clodsire, Ting-Lu, <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a>, <a href=\"/dex/sv/pokemon/gliscor/uber/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/uber/\" hreflang=\"en\">Landorus-T</a> are appreciated to check threats like Miraidon, Koraidon, and Zacian-C.</li>\n<li>Miraidon and Calm Mind Arceus variants appreciate Mewtwo's effectiveness at breaking through specially bulky Pokemon like Ting-Lu, Clodsire, <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a>, and defensive Arceus formes.</li>\n</ul>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 306317,
+            "username": "katerina"
+          },
+          {
+            "user_id": 507268,
+            "username": "ox04"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 273339,
+                "username": "Lasen"
+              },
+              {
+                "user_id": 306317,
+                "username": "katerina"
+              },
+              {
+                "user_id": 507268,
+                "username": "ox04"
+              },
+              {
+                "user_id": 595062,
+                "username": "Taka"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 449990,
+                "username": "DC"
+              },
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "2A Nasty Plot",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Ghost",
+            "Fire",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "All-Out Offensive",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Life Orb",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ghost",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Support",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 80,
+              "spe": 176
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Mega Y Wallbreaker",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Possessing an earth-shattering 194 Special Attack stat, Speed sufficient to outrun most Pokemon in the metagame, and coverage for its checks, <a href=\"/dex/sv/pokemon/mewtwo-mega-y/national-dex-ubers/\" hreflang=\"en\">Mega Mewtwo Y</a> is a very threatening wallbreaker for balance and bulky offense teams.</li>\n<li>After a boost, Psystrike is able to OHKO specially bulky Pokemon such as defensive Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a> and Calm Mind <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> after Stealth Rock and <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> after minor chip.</li>\n<li>Fire Blast OHKOes Steel-types such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a> and, after Stealth Rock, <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>. After a boost, it also OHKOes <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a> and <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>.</li>\n<li>Ice Beam allows Mega Mewtwo Y to hit <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a> while also dissuading Pokemon such as <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>, <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, and <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a> from switching into an unscouted Mega Mewtwo Y. Focus Blast allows Mega Mewtwo Y to threaten <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a>. However, no matter which coverage move is chosen, Mega Mewtwo Y will have a problem with either Arceus-Dark or Yveltal that must be accounted for with teammates.</li>\n<li>Base Mewtwo's Unnerve may prove very situationally useful to prevent berries from being used against Mewtwo such as in the case of Chople Berry <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> when running Focus Blast or in forcing initial poison damage on Lum Berry users from Toxic Spikes. However, Mega Mewtwo Y is required to Mega Evolve to outspeed threats like offensive <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>.</li>\n<li>88 Defense EVs allow Mega Mewtwo Y to survive Life Orb <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>'s Shadow Sneak, while 216 Speed EVs lets Mega Mewtwo Y outspeed <a href=\"/dex/sv/pokemon/flutter-mane/national-dex-ubers/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/chien-pao/national-dex-ubers/\" hreflang=\"en\">Chien-Pao</a> while also ensuring that base Mewtwo outspeeds Marshadow. It’s not always required to immediately Mega Evolve, as Mega Mewtwo Y's reduced Defense may allow Choice Band Marshadow’s Shadow Sneak and Arceus-Dark's Foul Play to OHKO it.</li>\n<li>Mega Mewtwo Y should be used as a wallbreaker in the early- and mid-game; removing Pokemon such as defensive Necrozma-DM and defensive Arceus-Ground can help its teammates sweep late-game. Mega Mewtwo Y has the potential to sweep, but it doesn't do so consistently, as it runs into many roadblocks, such as priority from Marshadow and Yveltal.</li>\n<li>Other offensive Pokemon such as Zacian-C and Meteor Beam Eternatus appreciate Mega Mewtwo Y breaking down checks such as Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a> and defensive Necrozma-DM for them to potentially sweep.</li>\n<li><a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a> and defensive Eternatus are amazing partners, as they can switch into Mega Mewtwo Y’s biggest checks in Marshadow, Arceus-Dark, and Yveltal. Defensive Zygarde can also be a great partner to handle Marshadow, and it may even be able to handle Zacian-C and Yveltal depending on moveset and Zygarde's Tera type.</li>\n</ul>",
+          "abilities": [
+            "Unnerve"
+          ],
+          "items": [
+            "Mewtwonite Y"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 88,
+              "spa": 204,
+              "spd": 0,
+              "spe": 216
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Tera Fairy Wallbreaker",
+          "pokemon": "Mewtwo",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Mewtwo carves out a niche for itself as a wallbreaker and late-game cleaner on hyper offense teams thanks to its good Speed stat and ability to blow past most defensive Pokemon after a Nasty Plot boost. It especially excels against balance with the right support, as common cores such as <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a> + <a href=\"/dex/sv/pokemon/alomomola/national-dex-ubers/\" hreflang=\"en\">Alomomola</a> and Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a> + <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> fold to it with relative ease. It also lures in and defeats many of <a href=\"/dex/sv/pokemon/mewtwo-mega-y/national-dex-ubers/\" hreflang=\"en\">Mega Mewtwo Y</a>'s checks such as <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a> and <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>. However, Mewtwo faces heavy competition from other Psychic-types such as Mega Mewtwo Y and <a href=\"/dex/sv/pokemon/deoxys-attack/national-dex-ubers/\" hreflang=\"en\">Deoxys-A</a>, with the former having more longevity and not relying on Tera, the latter hitting much harder, and both being faster and not Speed tying with <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>. Mewtwo does have small advantages over them, namely being able to OHKO many more foes than Mega Mewtwo Y thanks to Life Orb, including defensive Ho-Oh and defensive Primal <a href=\"/dex/sv/pokemon/kyogre/national-dex-ubers/\" hreflang=\"en\">Kyogre</a> after a boost, and being able to survive attacks unlike Deoxys-A, Mewtwo's glaring weaknesses such as being quite frail; vulnerable to entry hazards, particularly Toxic Spikes; and reliant on Tera make it hard to fit on many teams, so it needs the right support in order to thrive.</li>\n<li>Psystrike is a powerful STAB move with great neutral coverage that, thanks to it using the foe's Defense stat, can break through special walls such as <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a> and defensive Ho-Oh after a boost. Earth Power deals with Steel-types that Mewtwo would otherwise be unable to threaten, such as <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a> and <a href=\"/dex/sv/pokemon/zacian/national-dex-ubers/\" hreflang=\"en\">Zacian</a> after a boost, while also OHKOing Primal Groudon after a boost.</li>\n<li>Tera Blast Fairy OHKOes Dark-types that would otherwise wall it such as specially offensive Yveltal, and defensive Yveltal and Arceus-Dark are OHKOed after a boost.</li>\n<li>Tera Fairy also lets Mewtwo set up on typical switch-ins such as Yveltal and Arceus-Dark. This also gives Mewtwo a resistance to Yveltal's Sucker Punch and Choice Scarf Yveltal's Foul Play as well as a neutrality to <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a>'s Shadow Sneak, all big threats to not only Mewtwo but also the hyper offense teams it is a part of.</li>\n<li>Mewtwo is best used on Sticky Web teams where it doesn't have to worry about other fast Pokemon such as <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a> and Deoxys-A outspeeding it or Speed tying with Eternatus. Mewtwo is frail and reliant on Tera, so it is a big commitment to send out and should mainly be used as a late-game cleaner when there are little to no Pokemon left capable of stopping it. However, Mewtwo is effective as a mid-game wallbreaker capable of OHKOing a variety of relevant threats such as <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, Eternatus, and Yveltal without a boost.</li>\n<li>Because Mewtwo is so frail, it should almost never switch in on a Pokemon and only come in after a teammate faints. While it can take some weak attacks such as Marshadow's Low Kick and Zygarde's Thousand Arrows, doing so all but guarantees that Mewtwo will not be able to set up.</li>\n<li><a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a> and <a href=\"/dex/sv/pokemon/smeargle/national-dex-ubers/\" hreflang=\"en\">Smeargle</a> are the most desirable Sticky Web setters, as the other entry hazards they provide are invaluable to wear down Pokemon Mewtwo has trouble finishing off, such as defensive Primal Kyogre. However, Mewtwo can function on forms of hyper offense other than Sticky Web, such as hazard stack and dual screens teams. <a href=\"/dex/sv/pokemon/glimmora/national-dex-ubers/\" hreflang=\"en\">Glimmora</a> in particular is a great choice for hazard stack, as it gets rid of the Toxic Spikes that Mewtwo hates, though <a href=\"/dex/sv/pokemon/deoxys-speed/national-dex-ubers/\" hreflang=\"en\">Deoxys-S</a> is also a good choice for its great hazard-setting potential. Dual screens <a href=\"/dex/sv/pokemon/grimmsnarl/national-dex-ubers/\" hreflang=\"en\">Grimmsnarl</a> and Deoxys-S can help the frail Mewtwo get a setup opportunity.</li>\n<li>Since Mewtwo is quite reliant on Tera, teammates that don't need to Terastallize to succeed are desirable. Meteor Beam Eternatus absorbs Toxic Spikes that can easily wear Mewtwo down, overwhelms Steel-types like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a>, Zacian-C, and Necrozma-DM, and threatens problematic Pokemon such as defensive Ho-Oh and Yveltal. In turn, Mewtwo's Psystrike takes out <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> formes that Terastallized to the Poison-type that would wall Meteor Beam Eternatus. Pokemon such as Dragon Dance <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a> are also valuable, as they threaten the Pokemon Mewtwo struggles against such as Zacian-C and Primal Groudon. Arceus-Ground in particular appreciates Mewtwo's solid matchup against stall. On Sticky Web structures, <a href=\"/dex/sv/pokemon/chi-yu/national-dex-ubers/\" hreflang=\"en\">Chi-Yu</a> is another solid option that scares the aforementioned Steel-types. Specially offensive Yveltal does a decent job of checking Marshadow and Ho-Oh, which could pose an issue for Mewtwo, aswell as keeping up the hazards Mewtwo relies on. Wallbreaker Primal Kyogre checks Ho-Oh and Zygarde, and it can switch in on defensive Primal Groudon.</li>\n</ul>",
+          "abilities": [
+            "Pressure"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psystrike",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 591294,
+            "username": "Lightniong"
+          },
+          {
+            "user_id": 635503,
+            "username": "Cancel cult"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              },
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 529732,
+                "username": "adem"
+              },
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Amnesia",
+    "Ancient Power",
+    "Aura Sphere",
+    "Avalanche",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Calm Mind",
+    "Chilling Water",
+    "Confuse Ray",
+    "Confusion",
+    "Curse",
+    "Dark Pulse",
+    "Disable",
+    "Double-Edge",
+    "Drain Punch",
+    "Earth Power",
+    "Earthquake",
+    "Electro Ball",
+    "Endure",
+    "Energy Ball",
+    "Expanding Force",
+    "Facade",
+    "Fire Blast",
+    "Fire Punch",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Foul Play",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Guard Swap",
+    "Helping Hand",
+    "Hex",
+    "Hurricane",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Knock Off",
+    "Lash Out",
+    "Life Dew",
+    "Light Screen",
+    "Low Kick",
+    "Low Sweep",
+    "Metronome",
+    "Mist",
+    "Nasty Plot",
+    "Night Shade",
+    "Poison Jab",
+    "Power Gem",
+    "Power Swap",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psycho Cut",
+    "Psych Up",
+    "Psyshock",
+    "Psystrike",
+    "Rain Dance",
+    "Recover",
+    "Reflect",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Safeguard",
+    "Sandstorm",
+    "Scary Face",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spite",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "Weather Ball",
+    "Will-O-Wisp",
+    "Zen Headbutt"
+  ]
+}

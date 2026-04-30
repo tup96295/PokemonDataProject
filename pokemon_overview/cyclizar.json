@@ -1,0 +1,555 @@
+{
+  "name": "Cyclizar",
+  "alias": "cyclizar",
+  "types": [
+    "Dragon",
+    "Normal"
+  ],
+  "stats": [
+    70,
+    95,
+    65,
+    85,
+    65,
+    121
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Cyclizar rides in as one of the defining Pokemon of the RU metagame. Its excellent Speed tier, access to Rapid Spin, and ability Regenerator make it the premier entry hazard removal option. It can also break out its utility toolbox, threatening to remove items from common switch-ins like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> with Knock Off; phaze setup Pokemon like <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>, <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a>, and <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> with Dragon Tail; or pivot into a teammate like <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a> or <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> with U-turn to keep up momentum. U-turn can allow setup sweepers like Armarouge and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> to freely switch in and start stacking up boosts. Cyclizar is often paired with other Regenerator Pokemon like Slowbro and <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> to form Regenerator cores that can be difficult to break, especially when Cyclizar is removing entry hazards. It can further offer teams a bulky pivot when it straps on the Assault Vest, allowing it to take hits from special wallbreakers like Armarouge, <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>. Cyclizar needs to be careful, however, of Choice Scarf users like <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> that are looking to jam up Cyclizar's wheels and OHKO it with STAB Close Combat.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Body Slam is an option as Cyclizar's STAB move so it can fish for paralysis instead of doing more damage with Draco Meteor or Double-Edge. On teams that may have a hard time dealing with <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/swampert/ru/\" hreflang=\"en\">Swampert</a>, Cyclizar can run Power Whip to threaten a 2HKO on both of them. Overheat is an option for Cyclizars looking to supercharge its matchup against <a href=\"/dex/sv/pokemon/forretress/ru/\" hreflang=\"en\">Forretress</a> and <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Choice Scarf Users and Priority</strong>: Common Choice Scarf users like <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> can switch in and threaten to OHKO Cyclizar with Close Combat or take advantage of its need to switch out by using Knock Off or U-turn for free progress. <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> is another common Choice Scarf user that can severely hamper Cyclizar's utility role with Trick. Bisharp can OHKO it at +2 with Sucker Punch, and Choice Band <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> has a chance to OHKO with Tera boosted Extreme Speed after Stealth Rock damage.</p>\n<p><strong>Ghost-types</strong>: Ghost-types block Rapid Spin and prevent Cyclizar from doing its most impartant job. <a href=\"/dex/sv/pokemon/palossand/ru/\" hreflang=\"en\">Palossand</a> isn't very threatened by Knock Off and can completely roadblock Cyclizar's efforts to remove hazards while setting its own up. <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> is a Ghost-type that isn't weak to Knock Off and is immune to Draco Meteor, meaning it can set up Swords Dance for free while Cyclizar is forced to escape. <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> is a particular nuisance, as it can spinblock Cyclizar while also taking advantage of Knock Off with its Weakness Policy set. Tera Ghost on hazard setters such as <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a>, <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> can also put Cyclizar in a bind, denying it Rapid Spin removal.</p>\n<p><strong>Setup Pokemon</strong>: Most setup Pokemon, like Bisharp, Terrakion, and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, can take advantage of Cyclizar's relative weakness and lack of status to set up in front of it, as long as it isn't running Taunt or Dragon Tail.</p>",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "pokemon": "Cyclizar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Assault Vest Cyclizar can safely switch into most special attackers and provide opportunities for its teammates to enter the game thanks to U-turn. Rapid Spin clears entry hazards while also granting Cyclizar a boost to Speed, which helps it outspeed most Choice Scarf users in the tier like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>. It also gives even a paralyzed Cyclizar the opportunity to pivot out of slower opponents like <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a> and <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>. Knock Off can hit the tier's Pyschic-types such as <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> for decent damage while also threatening the frail Ghost-types like Gengar and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> lacking Weakness Policy. Draco Meteor can be used to hit physical walls like Hippowdon and Slowbro. Dragon Tail is great at forcing opposing setup sweepers like <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a> and Slowbro out. Facade can take advantage of status like burn or paralysis that Cyclizar may be inflicted by throughout the course of a game from opposing Reuniclus, Slowbro, and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>. Assault Vest helps with its otherwise low natural bulk, which is also helped significantly by Regenerator recovery. Timid maximum Speed Cyclizar is faster than the majority of the tier, and the bulk provided allows it to take Ice Beam or Sludge Wave twice from threats such as Basculegion-F and Gengar, respectively. Tera Fairy flips Cyclizar's weakness to Dragon-type moves into an immunity and gives a resistance to Fighting-type moves, helping against opposing Cyclizar, <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>, and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a>. Tera Steel makes Cyclizar resistant to Fairy- and Ice-type moves from the likes of Gardevoir and Empoleon, respectively. Tera Ghost makes it immune to Normal-type, allowing it to stop Rapid Spin attempts from opposing Cyclizar, while adding an immunity to Fighting-type attacks as well.</p>\n<p>Assault Vest Cyclizar can reliably slot onto balance or bulky offense teams as the main form of entry hazard removal while also providing item removal and pivoting. It can also be used on stall teams, though these structures often want another hazard removal option such as Defog <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> to reliably maintain hazard control. Cyclizar pairs well with other Regenerator Pokemon such as <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a>, Mienshao, and Slowbro, creating teams that are very difficult to break offensively and can provide pressure through status, hazard chip, and gradual damage. Strong offensive teammates like <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a>, <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a> appreciate Cyclizar giving them free entry points. While Cyclizar can often keep hazards off the field, it is advised to still run hazard-resilient or Heavy-Duty Boots teammates, such as Amoonguss, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and Mienshao, since Cyclizar may struggle against teams with Ghost-types like <a href=\"/dex/sv/pokemon/palossand/ru/\" hreflang=\"en\">Palossand</a> or <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>. Assault Vest Cyclizar can struggle to retain HP against hazard-stacking archetypes, being unable to remove hazards against teams utilizing Tera Ghost on their hazard setters. To mitigate this dynamic, Cyclizar relies on pivoting into teammates who can apply offensive pressure to deny hazards from being established, like Basculegion-F, Gardevoir, and <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Steel",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              },
+              {
+                "move": "Dragon Tail",
+                "type": null
+              },
+              {
+                "move": "Facade",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 104,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 152,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Heavy-Duty Boots",
+          "pokemon": "Cyclizar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>While usually overshadowed by the more prevalent Assault Vest set, running Heavy-Duty Boots on Cyclizar can offer meaningful benefits, allowing access to utility moves, while also making Regenerator more beneficial without needing to worry about the passive chip that comes with its usage as a spinner. Cyclizar is a master at providing utility for a team, boasting Knock Off to remove items from foes for other members of a team to take advantage of, with Heavy-Duty Boots users like <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> or <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> being great examples of Knock Off's usefulness over the course of a game. U-turn provides a way for Cyclizar to get out of sketchy matchups, being able to use the move safely against most of the tier with its phenomenal Speed stat. Taunt can shut down recovery or setup from foes that believe they can take advantage of the presumed passivity of Cyclizar, such as <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>. Double-Edge can be slotted over Taunt if more damage is desired from Cyclizar, providing a harder-hitting STAB move than Rapid Spin, and its recoil is also somewhat negated with the HP gained back from Regenerator. Tera Ghost provides a last ditch-effort of escape against Fighting-types, one of Cyclizar's sketchier matchups, which is especially prevalent with the large amount of Fighting-type moves present in the tier, like Close Combat from various abusers including <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>; however, Cyclizar is generally the last thing you want to Terastalize unless in truly dire straits, as Terastallization is usually far more effective and useful on other members of a team. Tera Ghost can also deny opposing spinners from removing entry hazards, keeping pressure on opposing teams throughout a game and additionally providing momentum through a wasted Rapid Spin.</p>\n<p>Heavy-Duty Boots Cyclizar fits on almost all team structures, with the main exception being hyper offense, as its role as a spinner with access to Regenerator makes it extremely reliable at removing entry hazards throughout the course of a game. To get the best use out of Cyclizar's utility, pairing it up with a Stealth Rock setter is extremely important, as Cyclizar's Knock Off makes opposing teams weaker to hazards; this can either be with allies like Hippowdon, or it can be run with <a href=\"/dex/sv/pokemon/palossand/ru/\" hreflang=\"en\">Palossand</a> on teams dedicated to hazard stacking. Additionally, pairing Cyclizar up with offensive options that can take advantage of the momentum that U-turn provides, with notable wallbreakers including Choice Band Terrakion and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> being perfect teammates. Cyclizar is somewhat frail by itself, so pairing it up with defensive presences like the aforementioned physically defensive Stealth Rock setters, along with more specially defensive options like <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, creates strong defensive cores that can be difficult to break and can wear down teams through a war of attrition. These defensive cores can be furthered with Regenerator cores, constantly keeping teammates healthy throughout a match, with notable teammates being <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a>, Slowbro, Mienshao, and <a href=\"/dex/sv/pokemon/reuniclus/ru/\" hreflang=\"en\">Reuniclus</a>. Pairing Cyclizar up with multiple Heavy-Duty Boots users is also wise, as it can have problems against dedicated spinblockers, with Palossand on hazard-stacking teams and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> on hyper offense builds.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Double-Edge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574067,
+            "username": "Freya"
+          },
+          {
+            "user_id": 633048,
+            "username": "Hoops"
+          },
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 614438,
+                "username": "fluff!!"
+              },
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 513635,
+                "username": "Rarelyme"
+              },
+              {
+                "user_id": 555741,
+                "username": "MachJacob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "RegenVest",
+          "pokemon": "Cyclizar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Overheat",
+                "type": null
+              },
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 44,
+              "spe": 216
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 4 onwards</p>\n<p><strong>Price Range</strong>: 9-10 points</p>\n<p><strong>Overview</strong>: Even with Shed Tail being banned, Cyclizar provides quite a lot of utility to a draft at a fairly mid to low price. Being very unique as a fast Dragon-type with access to Rapid Spin, it offers a lot of role compression to teams that need it. However, its lackluster offensive stats combined with its frailty, more often than not, relegate it to a support and utility role. But with a blistering Speed tier, it is able to perform that role effectively and can revenge kill many Pokemon in a pinch.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Utility Pivot</strong>: Cyclizar makes use of its high Speed and its great utility toolset, which includes moves like Rapid Spin, U-turn, and Knock Off, to disrupt opposing teams while possessing longevity thanks to Regenerator.</p>\n<p><strong>Revenge Killer</strong>: Even with its mediocre offensive stats, Cyclizar is able to function as an effective revenge killer thanks to its blistering Speed tier and its high-powered STAB moves in Double-Edge and Draco Meteor, especially when combined with Life Orb or other damage-boosting items.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Draco Meteor, Double-Edge, Outrage, Hyper Voice, Body Slam, Dragon Pulse, Dragon Claw, Scale Shot</p>\n<p><strong>Setup Moves</strong>: Shift Gear</p>\n<p><strong>Utility Moves</strong>: Rapid Spin, Knock Off, Taunt, U-turn, Dragon Tail</p>\n<p><strong>Coverage</strong>: Overheat, Power Whip, Supercell Slam, Aqua Tail, Thunderbolt, Wild Charge, Ice Spinner, Iron Head, Temper Flare, Acrobatics</p>\n<h3>Niche Moves</h3>\n<p><strong>Facade</strong>: Facade can be used over other Normal-type moves, allowing Cyclizar to fear status infliction from the likes of <a href=\"/dex/sv/pokemon/pecharunt/draft/\" hreflang=\"en\">Pecharunt</a>, Flame Body <a href=\"/dex/sv/pokemon/moltres/draft/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a> a little less.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Cyclizar often uses Heavy-Duty Boots to avoid taking damage from entry hazards and make it a more consistent pivot and spinner.</p>\n<p><strong>Assault Vest</strong>: Assault Vest allows Cyclizar to make use of its wide movepool and safely switch into many special attackers.</p>\n<p><strong>Life Orb</strong>: Life Orb can be utilized on power-focused sets, with Regenerator mitigating the recoil damage taken.</p>\n<h3>Niche Items</h3>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet can be used to punish weaker resisted contact moves like <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>'s Jet Punch.</p>\n<p><strong>Resistance Berries</strong>: Yache Berry and Chople Berry can be used to weaken expected coverage or priority moves in a pinch, allowing Cyclizar to revenge kill or phaze out threats such as <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a> and unboosted <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf Cyclizar can use its phenomenal Speed tier to revenge kill slower Dragon-types like <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a> at +1 Speed and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> with Draco Meteor.</p>\n<p><strong>Choice Band / Choice Specs</strong>: Choice Specs or Choice Band can be used to secure KOs that Life Orb cannot achieve.</p>\n<p><strong>Eject Pack</strong>: Cyclizar can make use of an Eject Pack to pivot and generate momentum after a strong Draco Meteor or Overheat.</p>\n<h3>Tera</h3>\n<p>Cyclizar should almost never be considered as a Tera Captain, as a lot of its value comes from its natural resistances and Ghost immunity. It should be focused on supporting more powerful threats with entry hazard removal, chip damage, pivoting, and revenge killing. If it is made a Tera Captain, it can make situational use of defensive Tera types like Fairy, Steel, and Ghost to resist or become immune to incoming super effective attacks. These Tera types can help it more consistently pivot into certain Pokemon that would otherwise threaten it. It can also use STAB Tera types to enhance its damage output and revenge killing capabilities.</p>\n<h3>Draft Strategy</h3>\n<p>Cyclizar is never a Pokemon to be built around, but thanks to its longevity and vast utility and support options, it can fit seamlessly on almost any type of draft to support and complement earlier picks. Cyclizar is especially great on bulkier drafts that appreciate its ability to remove entry hazards.</p>\n<p><strong>Entry Hazards</strong>: Cyclizar is a great pick for drafts centered around stacking entry hazards as a fast rapid spinner with longevity. It synergizes exceptionally well with common Pokemon found on those drafts like <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>.</p>\n<p><strong>Wallbreakers</strong>: Cyclizar's power can be very lackluster, so it is important to pair it with strong wallbreakers. Pokemon like <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a> love the free points of entry Cyclizar often provides with U-turn and they deal with the walls it struggles with. Chi-Yu, being a Fire-type, also enjoys Cyclizar's entry hazard removal.</p>\n<p><strong>Regenerator Pokemon</strong>: Cyclizar has phenomenal defensive synergy with both <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a> formes and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>. It can be paired with these Pokemon to form a sturdy Regenerator core.</p>\n<p><strong>Speed Control</strong>: Although Cyclizar has a great Speed tier, it is not as threatening as other Pokemon around its Speed tier. Strong Choice Scarf options like <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> and Greninja can work very well alongside it.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Powerful Physical Attackers</strong>: Although Cyclizar can be a solid pivot into special attackers with an Assault Vest, its abysmal Defense leaves it threatened by strong physical attackers like <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a> and Urshifu-S.</p>\n<p><strong>Bulky Foes</strong>: Cyclizar can really struggle to break through many bulky foes due to its underwhelming offensive stats.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 381199,
+            "username": "SageSpike"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Cyclizar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Cyclizar is a solid support Pokemon with its deep utility movepool including the incredible Shed Tail. Shed Tail allows it to pass Substitutes to teammates like <a href=\"/dex/sv/pokemon/zacian/ubers-uu/\" hreflang=\"en\">Zacian</a> and <a href=\"/dex/sv/pokemon/arceus/ubers-uu/\" hreflang=\"en\">Arceus</a>, giving them a free switch-in and a chance to set up and attempt to sweep. Rapid Spin provides entry hazard control, improving the longevity of Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/ubers-uu/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/chi-yu/ubers-uu/\" hreflang=\"en\">Chi-Yu</a>. Knock Off can remove a foe's item while also chipping spinblockers like <a href=\"/dex/sv/pokemon/gholdengo/ubers-uu/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/giratina/ubers-uu/\" hreflang=\"en\">Giratina</a>. Taunt allows Cylizar to shut down Defog attempts from <a href=\"/dex/sv/pokemon/corviknight/ubers-uu/\" hreflang=\"en\">Corviknight</a> and setup attempts from Pokemon like <a href=\"/dex/sv/pokemon/lugia/ubers-uu/\" hreflang=\"en\">Lugia</a> and Arceus formes. U-turn allows Cyclizar to pivot out in the face of Taunt users while not sacrificing HP. Tera Fairy allows Cyclizar to resist Fighting, which is valuable against <a href=\"/dex/sv/pokemon/zamazenta-crowned/ubers-uu/\" hreflang=\"en\">Zamazenta-C</a> and <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a>; it also provides Cyclizar an immunity to Dragon, helping greatly versus <a href=\"/dex/sv/pokemon/dialga/ubers-uu/\" hreflang=\"en\">Dialga</a> and <a href=\"/dex/sv/pokemon/palkia-origin/ubers-uu/\" hreflang=\"en\">Palkia-O</a> and allowing it to use Shed Tail in front of them. Cyclizar is excellent at enabling setup Pokemon, so Pokemon like <a href=\"/dex/sv/pokemon/dragonite/ubers-uu/\" hreflang=\"en\">Dragonite</a>, Lugia, Zacian, and <a href=\"/dex/sv/pokemon/arceus-poison/ubers-uu/\" hreflang=\"en\">Arceus-Poison</a> all appreciate its support. It also pairs well with wallbreakers like <a href=\"/dex/sv/pokemon/kyurem-white/ubers-uu/\" hreflang=\"en\">Kyurem-W</a> and Chi-Yu, as it can remove hazards and provide a free switch-in to them with Shed Tail. Cyclizar struggles with faster Pokemon and Gholdengo due to being so frail and reliant on support moves, so Pokemon like Choice Scarf Chi-Yu and <a href=\"/dex/sv/pokemon/landorus-therian/ubers-uu/\" hreflang=\"en\">Landorus-T</a> are excellent partners for it. <a href=\"/dex/sv/pokemon/palafin/ubers-uu/\" hreflang=\"en\">Palafin</a> and <a href=\"/dex/sv/pokemon/landorus/ubers-uu/\" hreflang=\"en\">Landorus</a> can form pivoting cores with Cyclizar</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shed Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 8,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 626445,
+            "username": "Imperial"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 610920,
+                "username": "vesp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility (HP, Def, SpD)",
+          "pokemon": "Cyclizar",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Aqua Tail",
+    "Bite",
+    "Body Slam",
+    "Breaking Swipe",
+    "Crunch",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Dragon Tail",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fire Fang",
+    "Giga Impact",
+    "Growl",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Spinner",
+    "Iron Head",
+    "Iron Tail",
+    "Knock Off",
+    "Mud Shot",
+    "Mud-Slap",
+    "Outrage",
+    "Overheat",
+    "Power Whip",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Rapid Spin",
+    "Rest",
+    "Scale Shot",
+    "Shed Tail",
+    "Shift Gear",
+    "Sleep Talk",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Thunderbolt",
+    "Thunder Fang",
+    "Trailblaze",
+    "Uproar",
+    "U-turn",
+    "Wild Charge"
+  ]
+}

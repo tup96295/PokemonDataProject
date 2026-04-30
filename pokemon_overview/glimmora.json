@@ -1,0 +1,2146 @@
+{
+  "name": "Glimmora",
+  "alias": "glimmora",
+  "types": [
+    "Rock",
+    "Poison"
+  ],
+  "stats": [
+    83,
+    55,
+    90,
+    130,
+    81,
+    86
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Lead",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Glimmora is one of the tier's premier leads thanks to its ability to set up Stealth Rock and deny opposing entry hazards with Mortal Spin, all while scaring foes from activating Toxic Debris in the process. Toxic Debris's potential to set up Toxic Spikes can prove lethal against certain teams, particularly more offensive ones due to the lack of offensive Poison-types in OU outside of <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> able to absorb them. Mortal Spin's side effect of inflicting poison detracts Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> from setting up entry hazards multiple times and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> from trying to deny Stealth Rock with Magic Bounce. Power Gem lets Glimmora hit most targets for decent damage, and notably chips at <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> that would otherwise wall Glimmora, with Corviknight also removing its entry hazards with Defog. Earth Power allows Glimmora to hit Steel-types such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, which otherwise are able to block Mortal Spin, with the former two also resisting Power Gem. Mud Shot is another option over Earth Power, as its side effect of lowering the foe's Speed allows Glimmora to win the mirror matchup against opposing Glimmora. Mud Shot can also slow down foes trying to use Glimmora as setup fodder, such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, preventing them from getting out of hand. Focus Sash allows Glimmora to survive any one hit and thus be able to set up Stealth Rock safely. Red Card can be used instead, allowing Glimmora to make use of its natural bulk and typing to take a hit and thus phaze setup sweepers like Iron Valiant and Iron Moth—which is notable in the hyper offense mirror—preventing its team from getting overrun by boosted offensive threats. Red Card is also useful to disrupt the opposing team, potentially forcing a foe out to take Stealth Rock or Toxic Spikes damage as well as phaze a setup sweeper. This variant prefers a bulkier EV spread instead, such as running 252 HP / 140 Def / 116 SpD with a Calm Nature; this allows Glimmora to survive two Psyshocks from Iron Valiant, with the remaining special bulk letting it take on +1 Protosynthesis <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>'s Thunderbolt as well. Tera Ghost grants Glimmora with an immunity to Rapid Spin from the likes of <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, denying their attempts from removing Glimmora's entry hazards.</p>\n<p>Glimmora finds its home on hyper offense teams that enjoy it starting the match strong by setting up Stealth Rock and Toxic Spikes from the beginning. Kingambit greatly appreciates this, as even Pokemon that resist Sucker Punch like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> can potentially get KOed by +2 Sucker Punch after a round or two of Stealth Rock, while physically defensive walls trying to switch in like Skarmory and Corviknight have to contend with not only Kingambit's attacks but also with the chip damage from Stealth Rock. Iron Valiant similarly enjoys Glimmora's entry hazards chipping at the foes for it and the rest of the team to win late-game, while it also provides Knock Off support to remove Heavy-Duty Boots from Pokemon like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, making them susceptible to its hazards. Gholdengo may be used alongside Glimmora, as its Ghost typing and Good as Gold ability let it block Rapid Spin and Defog attempts, thus making sure Glimmora's entry hazards stay up. Glimmora may also play a defensive role on occasion, as its good matchup against <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> lets it assist teammates like Iron Moth and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> that can struggle against it.</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash",
+            "Red Card"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Due to a strong STAB Meteor Beam alongside decent offensive stats, Glimmora acts as a solid wallbreaker that can also compress roles as an entry hazard remover and setter. Moreover, Glimmora excels against opposing offense, as many of them struggle with Toxic Spikes, meaning the opponent must be careful with how they attack Glimmora. This careful play can be punished by breaking through common bulkier threats that fit well on offense, such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Earth Power deals with problematic Steel-types like Gholdengo, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, preventing them from spinblocking Glimmora safely. The move also helps pressure Poison-types like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, which can otherwise absorb its Toxic Spikes, more reliably, especially if its Power Herb has been consumed. On top of removing opposing hazards, Mortal Spin can also cripple checks like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. If the team has another Stealth Rock setter, then Glimmora can opt for Spikes instead. Dazzling Gleam alongside Tera Fairy is also an option, granting it super effective coverage against foes like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, Zamazenta, and Ting-Lu while gaining a good defensive typing against the likes of <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Kingambit's Sucker Punch. A Timid Nature is used to Speed tie opposing Glimmora and outspeed crucial targets like Gholdengo and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>, but a Modest nature—especially if Glimmora is ran on Sticky Web teams—is also an option for more power, notably letting it OHKO defensive <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and having good odds to do so against <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. Tera Ghost lets it importantly spinblock Great Tusk and Iron Treads while letting it take on Zamazenta in a pinch.</p>\n<p>Glimmora's niche makes it a good fit on hyper offense teams. Gholdengo is a great partner, as it can block hazard removal to keep Glimmora's entry hazards up; it also provides good defensive utility by checking Galarian Slowking and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>. Kingambit is a great offensive partner that can take advantage of the entry hazards that Glimmora sets up and clean up late-game after Glimmora has broken through the opposing team. Other setup sweepers like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, Zamazenta, Great Tusk, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> are also similarly useful, as they can keep up the pressure against the opposition while making use of Glimmora's entry hazards. In return, they also appreciate Glimmora's ability to remove opposing hazards and absorb Toxic Spikes. Glimmora struggles against checks like Ting-Lu and bulkier teams that make use of Heavy-Duty Boots, particularly ones with <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>; as such, Glimmora appreciates the presence of Knock Off users such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and the aforementioned Great Tusk. Other entry hazards can also help wear them down over time, which the likes of Landorus-T and the aforementioned Ogerpon-W and Hisuian Samurott can provide, with Glimmora complementing them with its own hazard. Sticky Web variants of hyper offense teams anchored by <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a> or <a href=\"/dex/sv/pokemon/araquanid/ou/\" hreflang=\"en\">Araquanid</a> as the hazard setter can help compensate for Glimmora's average Speed tier.</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 548068,
+            "username": "Setsu"
+          },
+          {
+            "user_id": 615760,
+            "username": "jackuzzler"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 584916,
+                "username": "viivian"
+              },
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              },
+              {
+                "user_id": 633798,
+                "username": "kd458"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 493260,
+                "username": "Marnie"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "AG",
+      "outdated": null,
+      "overview": "<p>Glimmora is one of the best suicide leads, utilizing Stealth Rock and Spikes to pressure opposing Pokemon with chip damage and enabling teammates to secure KOs more leisurely. Glimmora's Poison typing allows it to clear Toxic Spikes set by <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a>, opposing Glimmora, and <a href=\"/dex/sv/pokemon/gliscor/ag/\" hreflang=\"en\">Gliscor</a>, which are usually incredibly threatening to the hyper offense teams Glimmora is found on. Finally, Glimmora's Toxic Debris ability deters attacks from Pokemon like <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a>, and <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>. However, although Glimmora is an excellent lead, it struggles against faster Substitute Pokemon like Tera Flying <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a> and Eternatus, causing tough situations that can be very hard to recover from.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Power Gem could be considered because it does significant damage to <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>, yet Ho-Oh does not frequently stay in against Glimmora, thus rendering it useless the vast majority of the time. Glimmora could also consider using Toxic, which chips down walls and sweeps faster than regular poison. Sludge Bomb could also be used over Memento, hitting <a href=\"/dex/sv/pokemon/hatterene/ag/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>, but once again, it isn't ideal due to the moves mentioned in the above set being much more important.</p>\n<h3>Checks and Counters</h3>\n<p><strong><a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a></strong>: Eternatus's Poison typing allows it to absorb the Toxic Spikes Glimmora sets while 2HKOing Glimmora with Dynamax Cannon and taking minimal damage from Mud Shot.</p>\n<p><strong><a href=\"/dex/sv/pokemon/deoxys-speed/ag/\" hreflang=\"en\">Deoxys-S</a></strong>: Deoxys-S leads threatens to break Glimmora's Focus Sash with Psycho Boost while also threatening to use Taunt, putting Glimmora in an unfavorable situation.</p>\n<p><strong>Hatterene</strong>: Hatterene's Magic Bounce makes it a profound threat to Glimmora hyper offense teams. However, it still needs to be cautious about the extremely niche but usable Sludge Bomb.</p>\n<p><strong>Substitute Tera Flying <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a></strong>: Substitute Tera Flying Zacian-C is an excellent counterlead to Glimmora, as it is unaffected by Mud Shot after Terastallization and can potentially sweep after a Swords Dance boost, all while behind its Substitute.</p>",
+      "movesets": [
+        {
+          "name": "Suicide Lead",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Spikes is Glimmora's most reliable entry hazard, chipping <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a>, <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>, and various <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a> formes. Alternatively, Stealth Rock hits targets like <a href=\"/dex/sv/pokemon/landorus-therian/ag/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/giratina-origin/ag/\" hreflang=\"en\">Giratina-O</a>, yet many Pokemon weak to Stealth Rock run Heavy-Duty Boots, so Spikes is the superior option the majority of the time. Memento allows Glimmora to disallow many sweepers like Calm Mind Tera Poison <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>, <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>, and Covert Cloak Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/ag/\" hreflang=\"en\">Necrozma-DM</a> from setting up, while Dazzling Gleam discourages Swords Dance Koraidon from setting up. Mud Shot stops setup attempts from powerful sweepers like Nasty Plot <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a> and Zacian-C, letting Glimmora's teammates safely enter the field. Mortal Spin removes hazards from Glimmora's side, in particular <a href=\"/dex/sv/pokemon/ribombee/ag/\" hreflang=\"en\">Ribombee</a>'s Sticky Web, making it an effective counterlead against Sticky Web teams. In addition, Mortal Spin poisons frequent targets like Ting-Lu, various Arceus formes, and <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>, putting them on a timer and making a potential sweep far easier. Glimmora's EV spread allows it to survive five Scale Shot hits from Jolly Koraidon and four Scale Shot hits from Adamant Koraidon. Tera Ghost disallows Rapid Spin users like <a href=\"/dex/sv/pokemon/iron-treads/ag/\" hreflang=\"en\">Iron Treads</a> from clearing hazards, while Tera Steel stops opposing Glimmora from using Mortal Spin. Tera Flying offers Glimmora immunity to Ground-type moves, in particular opposing Glimmora's Mud Shot.</p>\n<p>Due to Glimmora being a suicide lead exclusively used on hyper offense teams, potent sweepers like Arceus, Scale Shot Koraidon, and Dragon Dance Arceus-Ground appreciate the entry hazards that Glimmora sets, which wear down their main checks in defensive Arceus formes. Furthermore, Calyrex-S also works very well with Glimmora, as one of its main checks in Ting-Lu does not usually hold Heavy-Duty Boots, making Ting-Lu vulnerable to Glimmora's hazards. Glimmora is also frequently used on <a href=\"/dex/sv/pokemon/grimmsnarl/ag/\" hreflang=\"en\">Grimmsnarl</a> dual screens teams, where Glimmora discourages Ribombee leads while providing valuable hazards.</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Flying",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Memento",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mud Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 176,
+              "spa": 76,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 665318,
+            "username": "JK"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 487990,
+                "username": "Swas"
+              },
+              {
+                "user_id": 631210,
+                "username": "Adhi"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Uber",
+      "outdated": "<p>This analysis was written prior to Miraidon's ban. As such, the information provided is out of date and does not accurately reflect the current metagame. Bear with us while we rework our analyses!</p>",
+      "overview": "<p>Glimmora is one of the best suicide leads in the Ubers metagame due to its ability to set multiple sets of entry hazards quickly while preventing opposing leads from setting their own. Its movepool allows it to match up well against other standard Ubers leads. Its decent Special Attack and Speed allow it to move before uninvested Pokemon, safely set hazards, and put down chip damage before fainting without being used as setup fodder. Many Ubers Pokemon, such as the various <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> formes, cannot run Heavy-Duty Boots, leaving them vulnerable to entry hazards, especially Toxic Spikes. Due to the limited distribution of viable hazard control in the tier, it can be difficult for offensive teams to deal with Glimmora, forcing them to avoid hitting it with a physical attack to prevent Toxic Debris from activating.</p>",
+      "comments": "<h4>Other Options</h4>\n<p>An alternative spread of 76 Def / 180 SpA / 252 Spe with a Timid nature improves the lead matchup against <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>. An 84 EV Special Attack Dazzling Gleam has an unfavorable roll to OHKO Koraidon, so increasing Special Attack greatly improves the odds. However, this comes at the cost of giving five-hit Scale Shot from Jolly Koraidon having a chance to KO Glimmora, and Glimmora always faints to a five- hit Scale Shot from Adamant Koraidon.</p>\n<p>Earth Power can be run over Mud Shot for its increased base power on offensive EV spreads. This additional damage can result in certain moves being an OHKO instead of a 2HKO with Mud Shot, most notably non-Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/uber/\" hreflang=\"en\">Necrozma-DM</a>, as well as 2HKOing <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a>. In the vast majority of situations, the speed control provided by Mud Shot is preferred.</p>\n<h4>Checks and Counters</h4>\n<p><strong>Heavy-Duty Boots</strong>: Pokemon with Heavy-Duty Boots ignore the hazards Glimmora sets.</p>\n<p><strong>Steel-types</strong>: Steel-types like Necrozma-DM, Zacian-C, <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/orthworm/uber/\" hreflang=\"en\">Orthworm</a>, and <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a> ignore the Toxic Spikes placed by Glimmora's ability and block it from using Mortal Spin to clear hazards.</p>\n<p><strong>Necrozma-DM</strong>: Necrozma-DM blocks Mortal Spin and can use Glimmora to set up. Defensive sets can set up Stealth Rock before healing off damage with Morning Sun and threaten Knock Off on Glimmora's teammates. Glimmora can use Mud Shot to prevent Dragon Dance sets from setting up, but the super effective hit and Speed reduction are both beneficial for Trick Room sets. It can also use Covert Cloak to ignore the Speed drops from Mud Shot and freely set up on Glimmora.</p>\n<p><strong>Entry Hazard Removal</strong>: <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a> can use Defog to remove hazards and can use Tera Steel to prevent Glimmora using Mortal Spin to poison it or remove hazards. Corviknight is immune to Glimmora's Ground-type attacks and resists its common attacking options, allowing it to freely set up Iron Defense or use Defog. <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a> can use Rapid Spin to break Focus Sash and negate the Speed drop from Mud Shot while simultaneously removing hazards.</p>\n<p><strong>Opposing Poison-types</strong>: Once Glimmora has fainted, opposing Poison-types like <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a> and <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a> can switch in and remove the Toxic Spikes laid by Toxic Debris. The same is true in the other direction, as Glimmora can enter the field to clear hazards laid by opposing Toxic Spikes setters.</p>",
+      "movesets": [
+        {
+          "name": "Suicide Lead",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Mortal Spin is used to remove opposing entry hazards such as <a href=\"/dex/sv/pokemon/ribombee/uber/\" hreflang=\"en\">Ribombee</a>'s Sticky Web and cripple opposing bulky Pokemon such as <a href=\"/dex/sv/pokemon/kyogre/uber/\" hreflang=\"en\">Kyogre</a> and various <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> formes. Mud Shot provides extremely valuable disruption, allowing Glimmora to outspeed opposing leads such as <a href=\"/dex/sv/pokemon/deoxys-attack/uber/\" hreflang=\"en\">Deoxys-A</a>, <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>, and <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a> after a Speed drop and get up hazards. Mud Shot also prevents Dragon Dance <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/uber/\" hreflang=\"en\">Necrozma-DM</a> from using Glimmora as setup fodder. 172 Defense EVs allow Glimmora to always live a five-hit Scale Shot from Jolly <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and retaliate with a super effective Dazzling Gleam. Memento can be used instead to let Glimmora sacrifice itself to give its team valuable offensive momentum. Tera Ghost prevents Glimmora's entry hazards from being removed by Rapid Spin but is almost never used due to its status as a suicide lead.</p>\n<p>Glimmora is limited in usage to hyper offense teams, where its ability to set hazards and provide diruption is unmatched. It is generally paired with powerful wallbreakers such as Choice Scarf Koraidon, Zacian-C, and Miraidon, as well as setup sweepers such as Necrozma-DM, <a href=\"/dex/sv/pokemon/kyurem-black/uber/\" hreflang=\"en\">Kyurem-B</a>, Scale Shot Koraidon, <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a>, Miraidon, and Extreme Killer Arceus.</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mud Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Memento",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 172,
+              "spa": 84,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 668571,
+            "username": "Insolence"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 249382,
+                "username": "Aberforth"
+              },
+              {
+                "user_id": 306317,
+                "username": "katerina"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<h3>Poison</h3>\n<p>Glimmora is enticing; its respectable Special Attack combined with a strong movepool—containing powerful support options like Stealth Rock, Mortal Spin, and Corrosion Toxic and hard-hitting offensive tools like Sludge Wave and Earth Power—should make it a powerhouse. However, it is never going to be the best at making use of its supportive and offensive options. Its low bulk makes it far too frail to consistently spread Toxic poison, keep entry hazards up, or remove them with Mortal Spin, making its support unreliable in the long term. Meanwhile, its Special Attack is only just respectable, and it is unable to threaten types like Flying and Fire as much as it would like without major support to wear teams down first. It also demands a Choice Scarf; otherwise, it isn't fast enough to check threats such as <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> comfortably.</p>",
+      "comments": "<h3>Other Options</h3>\n<h4>Rock</h4>\n<p>Choice Specs can be run over Choice Scarf to become a fierce wallbreaker, taking on <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/monotype/\" hreflang=\"en\">Ursaluna-B</a> easier. However, this makes Glimmora vulnerable to faster threats, such as <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/chien-pao/monotype/\" hreflang=\"en\">Chien-Pao</a>, and will likely require some other form of speed control. Spikes can be used to allow Glimmora to rack up entry hazard damage on forced switches against foes such as Iron Valiant and <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a>.</p>",
+      "movesets": [
+        {
+          "name": "Toxic Spreader (Poison)",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Glimmora provides useful utility for Poison teams thanks to its unique set of tools in entry hazard support and Corrosion Toxic, which is capable of putting walls such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> on a timer. Power Gem is used to threaten problematic Flying- and Fire-types like <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a>, and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>. Earth Power allows Glimmora to deal solid damage to Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> after their Air Balloon is popped. Alternatively, Mortal Spin can be run to spread poison onto <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>, which cannot be poisoned otherwise thanks to Magic Bounce, and remove entry hazards.</p>\n<p>Due to Glimmora's immense weakness to Ground- and Water-type attacks, <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> is a valuable partner, taking on dangerous threats such as <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> with ease. Toxapex can similarly assist against Water-types like <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>, Steel-types like <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and Corviknight, and Fighting-types like <a href=\"/dex/sv/pokemon/zamazenta/monotype/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>. Toxapex can also run Toxic Spikes to assist Glimmora with hazard stacking. <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> provides a solid Ground immunity thanks to Levitate, allowing it to come in on threats like <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, and it provides solid hazard removal with Defog. <a href=\"/dex/sv/pokemon/overqwil/monotype/\" hreflang=\"en\">Overqwil</a> pairs well with Glimmora, providing both Spikes and Toxic Spikes, which allows it to complete the hazard stacking-core while also taking on foes like <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> thanks to Intimidate. <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> provides Knock Off support to remove Heavy-Duty Boots from foes such as <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, Iron Moth, and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, increasing the threat of Glimmora's Stealth Rock; it can also deal with Psychic- and Ghost-type threats like <a href=\"/dex/sv/pokemon/espathra/monotype/\" hreflang=\"en\">Espathra</a>, Hatterene, and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a>'s Future Sight can lure in special walls such as Alolan Muk and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, which Glimmora can take advantage of to spread Toxic. Galarian Slowking can also check threats like Heatran and <a href=\"/dex/sv/pokemon/terapagos/monotype/\" hreflang=\"en\">Terapagos</a>, which prove problematic for Glimmora. <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a> and Sneasler greatly appreciate Glimmora's ability to put physical walls like <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>, Toxapex, and <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> on timers with Toxic, while Glimmora appreciates their ability to check troublesome Steel-types like <a href=\"/dex/sv/pokemon/kingambit/monotype/\" hreflang=\"en\">Kingambit</a>, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/empoleon/monotype/\" hreflang=\"en\">Empoleon</a>.</p>",
+          "abilities": [
+            "Corrosion"
+          ],
+          "items": [
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Rock)",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Glimmora is a decent Choice Scarf user for Rock teams due to its high Special Attack and Speed to take on threats like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/lilligant-hisui/monotype/\" hreflang=\"en\">Hisuian Lilligant</a>, and non-Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>. Earth Power threatens Steel- and Poison-types like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, non-Air Balloon <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>. Sludge Wave is a strong STAB move that can take on Fairy- and Grass-types such as Hisuian Lilligant, Ogerpon-W, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, and non-Choice Scarf <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>. Dazzling Gleam takes out Dark-, Dragon-, and Fighting-types like <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a>, <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, and <a href=\"/dex/sv/pokemon/kommo-o/monotype/\" hreflang=\"en\">Kommo-o</a>. Energy Ball allows Glimmora to deal with Water- and Ground-types like <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a> and non-Choice Scarf <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>. Mortal Spin can be run over Energy Ball to help remove entry hazards and poison foes in the process. Power Gem can be run instead to deal with <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a>.</p>\n<p><a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a> provides sand and a Psychic immunity while also taking on special attackers for Glimmora such as <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, <a href=\"/dex/sv/pokemon/slowking/monotype/\" hreflang=\"en\">Slowking</a>, and <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a>. Thanks to the sand Tyranitar provides, Glimmora can survive a Choice Specs Draco Meteor from <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> due to the Special Defense boost and 2HKO it with Dazzling Gleam. In return, Glimmora also takes out <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>, Quagsire, and Ogerpon-W for Tyranitar. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a> can compensate for Glimmora's Ground weakness, and, after setup, it can eliminate <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>. Glimmora aids Ogerpon-C by handling threats such as Kleavor when running Power Gem, Iron Valiant, and Hisuian Lilligant. Glimmora can further aid Ogerpon-C with Mortal Spin by removing entry hazards to help prevent Ogerpon-C's Sturdy from breaking. Choice Band <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> is a strong wallbreaker that can deal with <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. <a href=\"/dex/sv/pokemon/coalossal/monotype/\" hreflang=\"en\">Coalossal</a> can serve as entry hazard control to allow Glimmora to drop Mortal Spin; it can additionally support the team with Spikes, facilitating Glimmora's cleaning. Coalossal also deals with <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, Weavile, and Corviknight. Glimmora returns the favor by threatening Clodsire and Toxapex, which can threaten Coalossal. Lead Kleavor can set up Stealth Rock and potentially break opposing <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>'s Focus Sash. In exchange, Glimmora eliminates physical walls like Quagsire and non-Air Balloon Heatran for Kleavor. Iron Defense <a href=\"/dex/sv/pokemon/garganacl/monotype/\" hreflang=\"en\">Garganacl</a> is a stallbreaker that can force progress with Salt Cure in matchups against defensive Pokemon like Toxapex, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a>. Glimmora dispatches Choice Band <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> after Stealth Rock, entry hazard chip and Urshifu-R, which can threaten Garganacl. <a href=\"/dex/sv/pokemon/golem-alola/monotype/\" hreflang=\"en\">Alolan Golem</a> can trap and eliminate Steel-types like Scizor and Corviknight. <a href=\"/dex/sv/pokemon/diancie/monotype/\" hreflang=\"en\">Diancie</a> can set up Stealth Rock while also OHKOing Weavile with Body Press and Kommo-o with Moonblast if Glimmora is not running Dazzling Gleam.</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Poison)",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf allows Glimmora to become a potent offensive threat on Poison teams, being able to outspeed several key targets like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, and Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and swiftly remove them. Power Gem picks off the threatening Flying- and Fire-types of the tier including <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>. Sludge Wave is Glimmora's strongest move and can KO threats like the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes, Iron Valiant, and <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>. Earth Power hits the Steel-types that would effortlessly switch into Glimmora's STAB moves such as non-Air Balloon <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>. Finally, Energy Ball threatens Choice Specs Greninja and Ground-types like <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> and <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>. Alternatively, Stealth Rock can be used to help further pressure types like Fire and Ice.</p>\n<p>Choice Scarf Glimmora greatly enjoys Parting Shot <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>, which can be used to pivot it onto the field safely along with helping against physical attackers that can check Glimmora such as <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, and Assault Vest <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a> can similarly help get Glimmora onto the field with Chilly Reception and can use Future Sight to help pressure would-be switch-ins like <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a> and Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>. <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> is capable of breaking special walls like <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> for Glimmora with Close Combat, and its U-turn can bring Glimmora in on threats Glimmora can handle like Archaludon and <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a>. <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> can help against Water-types like Swift Swim <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, which outspeed and remove Glimmora, while also being able to use Spore to put opposing threats to sleep and get Glimmora in safely. <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> can come in against faster and bulkier Ground- and Dark-types Glimmora cannot deal with like Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, Clodsire, and Choice Scarf <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> while helping break through Dark- and Dragon-types such as Ting-Lu and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> with Strange Steam. <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> can come in on faster special attackers like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, and Choice Scarf Greninja for Glimmora and threaten Knock Off to remove their Choice Scarf; Knock Off also deals with Gholdengo's Air Balloon, allowing Glimmora to check it with Earth Power. <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> can serve as an offensive complement to Glimmora, being able to deal with the Steel-types Glimmora struggles against such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and Gholdengo while appreciating Glimmora's Power Gem handling Ceruledge and <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a>.</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          },
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 637295,
+            "username": "boomp"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 531302,
+                "username": "Aether"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              },
+              {
+                "user_id": 547532,
+                "username": "Swiffix"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 592895,
+                "username": "Dusk Mage Necrozma"
+              },
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              },
+              {
+                "user_id": 552227,
+                "username": "Kinetic"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Meteor Beam",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Meteor Beam is one of the most powerful single-turn attacks in the tier when used in conjunction with Power Herb to remove the charge turn and immediately get a +1 Special Attack increase.</p>\n</li>\n<li>\n<p>Sludge Bomb is a more reliable STAB attack that threatens <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/doubles/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/doubles/\" hreflang=\"en\">Ogerpon-H</a>. Earth Power provides solid coverage that hits Steel-types like <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/gholdengo/doubles/\" hreflang=\"en\">Gholdengo</a>, which its STAB moves fail to hit effectively. Spiky Shield serves as an enhanced Protect that keeps Glimmora safe from damage while damaging foes that target it with contact moves.</p>\n</li>\n<li>\n<p>Glimmora's ability, Toxic Debris, serves as a way of punishing the foe for landing physical attacks on Glimmora by setting a layer of Toxic Spikes on their side.</p>\n</li>\n<li>\n<p>Both Toxic Debris and Spiky Shield discourage foes from targeting Glimmora with physical moves, as the chip damage from either of them can break Focus Sash and allow Glimmora and its teammates to nab KOs that would be missed otherwise.</p>\n</li>\n<li>\n<p>Tera Grass turns Glimmora's Ground and Water weaknesses into resistances while also giving it Rage Powder and Spore immunity. Tera Flying can be used instead to provide Glimmora with a full Ground-type immunity.</p>\n</li>\n<li>\n<p>While there may be some instances where it is better to be cautious in using Meteor Beam, as it can only be used once reliably, Glimmora generally wants to use it as soon as possible to get the Special Attack boost and allow for more powerful attacks on subsequent turns.</p>\n</li>\n<li>\n<p>Prankster Tailwind users like <a href=\"/dex/sv/pokemon/tornadus/doubles/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/whimsicott/doubles/\" hreflang=\"en\">Whimsicott</a> are great teammates for providing immediate speed control to make up for Glimmora's mediocre Speed. Pokemon that outspeed and OHKO <a href=\"/dex/sv/pokemon/landorus/doubles/\" hreflang=\"en\">Landorus</a> before it can OHKO Glimmora like Ogerpon-W and <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a> are also greatly appreciated partners. <a href=\"/dex/sv/pokemon/chi-yu/doubles/\" hreflang=\"en\">Chi-Yu</a> also works well alongside Glimmora, boosting its damage output with Beads of Ruin and using Fire-type moves to hit Steel-types hard.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [
+            "Grass",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spiky Shield",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Hazards Setter",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Grass",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spiky Shield",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 154787,
+            "username": "KennyJ"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 608134,
+                "username": "bagel"
+              },
+              {
+                "user_id": 228280,
+                "username": "DaAwesomeDude1"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Support",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>With its good utility, ability, and coverage, Glimmora is one of the best supportive Pokemon in Regulation J.</p>\n</li>\n<li>\n<p><strong>Mortal Spin</strong>: Mortal Spin provides entry hazard removal and also spreads poison, chipping down bulky Pokemon like <a href=\"/dex/sv/pokemon/arceus-fairy/battle-stadium-singles/\" hreflang=\"en\">Arceus-Fairy</a> and <a href=\"/dex/sv/pokemon/ho-oh/battle-stadium-singles/\" hreflang=\"en\">Ho-Oh</a>.</p>\n</li>\n<li>\n<p><strong>Power Gem</strong>: Power Gem hits Pokemon such as <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and the aforementioned Ho-Oh.</p>\n</li>\n<li>\n<p><strong>Mud Shot versus Endure</strong>: Mud Shot is a solid option to tickle Steel-types like <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a> while crucially lowering foes' Speed. Endure ensures that Glimmora survives a move such as Earthquake from <a href=\"/dex/sv/pokemon/landorus-therian/battle-stadium-singles/\" hreflang=\"en\">Landorus-T</a>, allowing it to get another layer of Toxic Spikes down before getting KOed.</p>\n</li>\n<li>\n<p><strong>Stealth Rock</strong>: Stealth Rock gives Glimmora even more utility by applying pressure to Pokemon such as <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li>\n<p><strong>Toxic Spikes</strong>: Toxic Spikes is nice for bulkier teams, namely <a href=\"/dex/sv/pokemon/lugia/battle-stadium-singles/\" hreflang=\"en\">Lugia</a> teams, as they depend more on the passive chip damage to break through opposing walls. Choosing this does give up the invaluable entry hazard control option in Mortal Spin, however.</p>\n</li>\n<li>\n<p><strong>Sludge Wave</strong>: Sludge Wave is a very strong STAB option for Glimmora, hitting foes like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/rillaboom/battle-stadium-singles/\" hreflang=\"en\">Rillaboom</a>. Using Sludge Wave, however, means dropping valuable utility in Stealth Rock or dropping Power Gem, which hits far more important targets such as Ho-Oh harder than Sludge Wave can.</p>\n</li>\n<li>\n<p><strong>Energy Ball</strong>: Energy Ball is a great coverage option for Glimmora, annoying Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a> more than poison can. This does, however, come at the cost of dropping an important utility option or STAB move.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Red Card</strong>: Red Card forces foes to take extra entry hazard damage and potentially shuts down setup sweepers if Glimmora survives a hit.</p>\n</li>\n<li>\n<p><strong>Air Balloon</strong>: Glimmora's severe Ground-type weakness gets patched up by Air Balloon, letting it set up in front of Ground-types along the lines of Landorus-T and Ting-Lu.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Being a supportive Pokemon, Glimmora typically doesn't need to Terastallize despite its pretty bad defensive typing; Terastallization would be better spent on a more offensive ally.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass provides Glimmora with Ground- and Water-type resistances, notably letting it take hits from the likes of <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a> and <a href=\"/dex/sv/pokemon/kyogre/battle-stadium-singles/\" hreflang=\"en\">Kyogre</a>, while also granting it a Electric-type resistance for pesky <a href=\"/dex/sv/pokemon/miraidon/battle-stadium-singles/\" hreflang=\"en\">Miraidon</a>.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy allows Glimmora to come in on <a href=\"/dex/sv/pokemon/koraidon/battle-stadium-singles/\" hreflang=\"en\">Koraidon</a>'s Scale Shot, preventing it from running away with the game after Scale Shot's boosts.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p><strong>244 HP / 236 Def / 28 SpD with Bold</strong>: This is the recommended EV spread, letting Glimmora avoid a 2HKO from Adamant Chien-Pao's Icicle Crash.</p>\n</li>\n<li>\n<p><strong>244 HP / 76 Def / 188 SpD with Bold</strong>: This more specially defensive spread lets Glimmora avoid a 2HKO from Choice Specs Tera Fairy Timid <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Moonblast and generally avoid a 2HKO from Jolly Chien-Pao's Icicle Crash.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Red Card",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Grass",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mud Shot",
+                "type": null
+              },
+              {
+                "move": "Endure",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 28,
+              "spe": 0
+            },
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 76,
+              "spa": 0,
+              "spd": 188,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Debris Lead",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With a solid early-game Speed tier, utility, high Special Attack, and decent coverage options, Glimmora can set the tone of a battle with its entry hazard setting and removing options.</p>\n</li>\n<li>\n<p><strong>Earth Power</strong>: Earth Power ensures that Glimmora is not walled by common Steel-types such as <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a>.</p>\n</li>\n<li>\n<p><strong>Mortal Spin</strong>: If you're using Stealth Rock-weak teammates like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/volcarona/battle-stadium-singles/\" hreflang=\"en\">Volcarona</a>, clearing the hazards with Mortal Spin can be quite useful, though it's not required for this set to function.</p>\n</li>\n<li>\n<p><strong>Sludge Wave versus Energy Ball</strong>: Sludge Wave deals plenty of damage to <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a>, while Energy Ball deals more damage to <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a> and pairs well with Tera Grass.</p>\n</li>\n<li>\n<p><strong>Toxic Spikes Partners</strong>: While Toxic Debris doesn't mean Toxic Spikes will be set up, it's still good to consider running a teammate with it in mind. Defensive Dragonite sets, Stamina Archaludon, <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>, and <a href=\"/dex/sv/pokemon/gliscor/battle-stadium-singles/\" hreflang=\"en\">Gliscor</a> are good examples to consider.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: While Glimmora can use Terastallization to improve match-ups against foes like Ursaluna-B and Primarina, other teammates will usually want the Terastallization option more.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: A Grass Tera type is the best option, letting Glimmora survive attacks from common Ground-type Pokemon such as Ursaluna-B and <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>, in addition to nullifying <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>'s Spore.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Tera Flying vastly improves Glimmora's matchup against Ground-types with a potential to retain Focus Sash, though this doesn't help Glimmora as much offensively as Tera Grass.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Focus Sash</strong>: This is the most reliable item for setting up Stealth Rock.</p>\n</li>\n<li>\n<p><strong>Air Balloon</strong>: With Air Balloon, Glimmora vastly improves its matchup against Ground-type leads such as Garchomp.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Meteor Beam",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>With Power Herb and Meteor Beam combined, Glimmora gains a huge amount of power compared to its other sets, making its softer checks such as Assault Vest <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a> and Assault Vest <a href=\"/dex/sv/pokemon/kingambit/battle-stadium-singles/\" hreflang=\"en\">Kingambit</a> far less reliable. This set is also less reliant on leading, though Toxic Debris still makes it a natural at this role.</p>\n</li>\n<li>\n<p><strong>Earth Power</strong>: Coverage against Steel-types such as <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a>, and Kingambit is required for Glimmora to potentially sweep.</p>\n</li>\n<li>\n<p><strong>Energy Ball</strong>: Energy Ball is Glimmora's most damaging attack against Ursaluna-B, and it pairs greatly with Tera Grass.</p>\n</li>\n<li>\n<p><strong>Sludge Wave versus Dazzling Gleam</strong>: While Poison coverage may not seem particularly useful, it deals more damage to <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> than Energy Ball, potentially preventing a revenge kill. Dazzling Gleam on the other hand, knocks out <a href=\"/dex/sv/pokemon/hydreigon/battle-stadium-singles/\" hreflang=\"en\">Hydreigon</a> and deals serious damage to <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - High</strong>: Since Meteor Beam only has one shot of boosting Special Attack without a charge-up turn, Terastallization is often key to prevent Glimmora's vulnerability to Ground-type attacks from ruining its shot at sweeping.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass stands out as the best option, boosting Energy Ball to the point where even some Assault Vest Ursaluna-B risk getting OHKOed after a boost while twisting the Ground-type weakness into a resistance. As a bonus, this also stops <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>'s Spore from derailing a potential sweep.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Tera Flying's Ground-type immunity is worth considering, and it also grants the bonus of not worrying about Toxic Spikes. However, it provides far less offensive benefit than Tera Grass.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is mainly useful for stopping Scale Shot users like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and Garchomp from setting up a sweep and revenge kill on Glimmora in one turn as well as punishing Choice-locked Dragon-types such as Choice Band Dragonite and Choice Specs Hydreigon. However, retaining the Steel-type weakness is a big problem against Gholdengo and <a href=\"/dex/sv/pokemon/scizor/battle-stadium-singles/\" hreflang=\"en\">Scizor</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Wearing an Assault Vest takes advantage of most opponents aiming to avoid Toxic Debris's activation, giving this set good luring potential against revenge killers like <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>.</p>\n</li>\n<li>\n<p><strong>Earth Power</strong>: Hitting Gholdengo and <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a> super effectively is essential for Glimmora to truly take advantage of Assault Vest and Terastallization.</p>\n</li>\n<li>\n<p><strong>Energy Ball</strong>: <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a> is a high-value target for this set, making Energy Ball the best coverage move for the job.</p>\n</li>\n<li>\n<p><strong>Mortal Spin versus Sludge Wave</strong>: Mortal Spin is another unique selling point, giving Glimmora far more support potential than most Assault Vest tanks. Sludge Wave is still worth considering for the extra damage done to <a href=\"/dex/sv/pokemon/primarina/battle-stadium-singles/\" hreflang=\"en\">Primarina</a> and common Tera Fairy Pokemon such as Archaludon and <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n<li>\n<p><strong>Dazzling Gleam</strong>: Dazzling Gleam is a reasonable option for OHKOing <a href=\"/dex/sv/pokemon/hydreigon/battle-stadium-singles/\" hreflang=\"en\">Hydreigon</a> and dealing huge damage to Garchomp.</p>\n</li>\n<li>\n<p><strong>EV Spread</strong>: The given EV spread ensures that maximum HP Ursaluna-B is OHKOed by Tera Grass Energy Ball, while Glimmora will survive Tera Normal Ursaring-B's Silk Scarf-boosted Blood Moon. The Speed EVs let Glimmora outspeed Jolly <a href=\"/dex/sv/pokemon/ursaluna/battle-stadium-singles/\" hreflang=\"en\">Ursaluna</a> and Jolly <a href=\"/dex/sv/pokemon/kingambit/battle-stadium-singles/\" hreflang=\"en\">Kingambit</a>, both rare but major threats to it.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependecy - High</strong>: Glimmora's awkward defensive typing means Terastallization is often key for surprising common revenge killers like Gholdengo and Ursaluna-B.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass is a powerful defensive and offensive option, letting Glimmora tank against foes like Ursaluna-B, Gholdengo, and Primarina while boosting Energy Ball's power.</p>\n</li>\n<li>\n<p><strong>Ground</strong>: Tera Ground isn't as amazing as Tera Grass defensively due to retaining the Water-type weakness, but it ensures that Earth Power will now OHKO offensive Gholdengo and deal massive damage to defensive Archaludon.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Grass",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Sludge Wave",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 4,
+              "spa": 148,
+              "spd": 60,
+              "spe": 52
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          },
+          {
+            "user_id": 62165,
+            "username": "StarkGod"
+          },
+          {
+            "user_id": 650323,
+            "username": "pengu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              },
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 47861,
+                "username": "Pearl"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Glimmora is a strong offensive threat with access to a good STAB combination and the powerful move Meteor Beam, which, when used with the Power Herb, can melt many targets, such as Assault Vest <a href=\"/dex/sv/pokemon/entei/vgc24-regulation-f/\" hreflang=\"en\">Entei</a> and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>. With Toxic Debris and signature move Mortal Spin, Glimmora can punish physical attackers and passive play, and, when combined with the threat of Meteor Beam, make it impossible to ignore while also requiring careful positioning to properly handle.</p>\n</li>\n<li>\n<p>Glimmora has traditionally fit best on <a href=\"/dex/sv/pokemon/dondozo/vgc24-regulation-f/\" hreflang=\"en\">Dondozo</a> teams, as the combination of Toxic Debris and Mortal Spin means your foes almost guaranteed to be afflicted with poison, putting your opponent on a timer. Assault Vest on Glimmora is especially effective on Dondozo teams, as the extra longevity helps it spread poison better and stall out even longer, making up for the lowered damage output.</p>\n</li>\n<li>\n<p>With Meteor Beam, Glimmora can utilize its high Special Attack stat and good offensive typing as a damage dealer. <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> are good partners; Tornadus provides speed control and can launch powerful Bleakwind Storms into Fighting-types that resist Meteor Beam and Ogerpon-W redirects potential Water- or Ground-type attacks while pressuring threats like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a>. In return, Glimmora can threaten Grass-types, which resists both Ogerpon-W's STAB moves.</p>\n</li>\n<li>\n<p>Glimmora's poor defensive typing, combined with its middling bulk and average Speed, makes Glimmora a glass cannon. Glimmora is weak to many prominent offensive threats such as Urshifu-R, Landorus, and <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>. Glimmora also struggles to handle Rock-resistant foes such as <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-f/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>, and Urshifu-R. Even then, many of these foes will concede Toxic Spikes while taking out Glimmora; for instance, Urshifu-R will set up both layers of Toxic Spikes if it attacks Glimmora. <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> is another difficult match up, as it absords Toxic Spikes and takes Glimmora's attacks comfortably, while threatening a Spore.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Meteor Beam",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Meteor Beam's power against most neutral targets is devastating. The Special Attack boost allows Glimmora to output offensive pressure with Sludge Bomb even after Power Herb is consumed.</p>\n<ul>\n<li>\n<p>Earth Power is used as coverage for the Steel-types that resist Glimmora's STAB combination. Energy Ball is also an option to utilize the Tera Grass STAB boost and to hit Pokemon that resist Meteor Beam such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> but makes it so that Steel-types resist all of Glimmora's attacks.</p>\n</li>\n<li>\n<p>The Special Attack investment along with the Modest nature is necessary to pick up a OHKO on <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/walking-wake/vgc24-regulation-f/\" hreflang=\"en\">Walking Wake</a>, and Terastillized Urshifu-R with Meteor Beam. The OHKO on Landorus and <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a> turns the match up against hyper offensive teams completely on its head, especially with speed control support from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a>.</p>\n</li>\n<li>\n<p>The Defense investment is enough to guarantee surviving <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>'s Wood Hammer and a favourable roll of taking <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>'s Iron Head. The Special Defensive investment lets it live <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>'s Make It Rain and <a href=\"/dex/sv/pokemon/latias/vgc24-regulation-f/\" hreflang=\"en\">Latias</a>'s Mist Ball. The rest of the EVs are invested into Speed, which allows Glimmora to outspeed Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/vgc24-regulation-f/\" hreflang=\"en\">Landorus-T</a> when in Tailwind.</p>\n</li>\n<li>\n<p>Tera Grass has better synergy with Glimmora's original typing and provides an immunity to spore, but gives Glimmora weakness to common threats such as <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>. Tera Water, defensively, is a stronger neutral type into the metagame, but has fewer relevant resistances to common threats.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [
+            "Grass",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spiky Shield",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 244,
+              "atk": 0,
+              "def": 4,
+              "spa": 76,
+              "spd": 92,
+              "spe": 92
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Bulky Attacker",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Both Earth Power and Energy Ball are fine options, but Energy Ball can do more damage against neutral targets if Glimmora Terastallizes into a Grass type.</p>\n</li>\n<li>\n<p>Mortal Spin is used as the final move for a more consistent method to spread poison than Toxic Debris.</p>\n</li>\n<li>\n<p>The Assault Vest gives Glimmora much more longevity, as it allows it to comfortably tank special attacks while still dissuading physical attackers with the threat of Toxic Spikes. On teams where being able to spread poison is important, Assault Vest is a good option.</p>\n</li>\n<li>\n<p>The special bulk allows Glimmora to live many strong super effective attacks, such as Choice Specs <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a>'s Make It Rain; it also makes Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a>'s Shadow Ball a 3HKO. Glimmora still lives a <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a> Wood Hammer with the HP investment.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Grass",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 116,
+              "atk": 0,
+              "def": 20,
+              "spa": 124,
+              "spd": 236,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 646006,
+            "username": "Choruto"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 518634,
+                "username": "Sole Survivor"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Hazard Setter",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Flying",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spiky Shield",
+                "type": null
+              },
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Meteor Beam",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [
+            "Ground",
+            "Flying",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spiky Shield",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 3 onwards</p>\n<p><strong>Price Range</strong>: 13-14 points</p>\n<p><strong>Overview</strong>: Glimmora is a versatile Pokemon that offers many different forms of support to a team. It is one of the most consistent entry hazard setters in the format with access to Spikes, Stealth Rock, and its signature ability, Toxic Debris. Its high base Special Attack also gives it a strong wallbreaking ability with its strong STAB attacks and coverage. However, its mediocre typing struggles against many common types such as Steel and Ground, and it often struggles to only fit four moves with its vast movepool.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Entry Hazard Lead</strong>: This set is built around setting lots of hazards early for other teammates to take advantage of. Typically, this set would use Toxic Debris with Focus Sash to ensure multiple Toxic Spikes are set against physical attackers while Glimmora also sets Spikes or Stealth Rock. A coverage move or two is also nice to have on this set to ensure opposing Pokemon cannot take advantage of the set's passiveness.</p>\n<p><strong>Entry Hazard Support</strong>: Glimmora can do a great job setting hazards and removing them with its signature move Mortal Spin. It can take advantage of type matchups by setting hazards on expected switches, and it can punish switch-ins by using Toxic with the ability Corrosion. Glimmora typically runs 1-2 coverage moves as needed depending on the matchup.</p>\n<p><strong>Wallbreaker</strong>: Glimmora has great coverage that is resisted by very few Pokemon. Wallbreaking sets with its high base Special Attack can be very effective, especially combined with Rock Polish, Meteor Beam, or Choice Scarf to further boost its wallbreaking potential.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Sludge Wave, Sludge Bomb, Power Gem, Meteor Beam</p>\n<p><strong>Setup Moves</strong>: Rock Polish</p>\n<p><strong>Utility Moves</strong>: Mortal Spin, Toxic, Stealth Rock, Spikes, Toxic Spikes, Substitute</p>\n<p><strong>Coverage</strong>: Earth Power, Dazzling Gleam, Energy Ball, Flash Cannon</p>\n<h3>Niche Moves</h3>\n<p><strong>Spiky Shield</strong>: Spiky Shield can be nice for dealing extra chip damage to faster physical wallbreakers, as well as stalling additional turns for extra poison damage from its Toxic Spikes or Toxic on Corrosion sets.</p>\n<p><strong>Endure</strong>: Endure can be combined with Toxic Debris to get additional Toxic Spikes up or with Custap Berry to hit a faster Pokemon.</p>\n<p><strong>Reflect / Light Screen</strong>: Glimmora can play as a solid dual screens setter to enable its teammates, but at the cost of two valuable moveset slots.</p>\n<p><strong>Memento</strong>: Memento can allow Glimmora to easily pivot into a wallbreaker or sweeper that can take advantage of the foe's decreased offensive stats.</p>\n<p><strong>Acid Spray</strong>: Acid Spray helps Glimmora break through incoming special walls.</p>\n<h3>Common Items</h3>\n<p><strong>Focus Sash</strong>: Focus Sash is valuable on lead sets to ensure multiple entry hazards can be set and allow Toxic Debris to activate twice.</p>\n<p><strong>Black Sludge</strong>: Black Sludge gives bulkier Glimmora sets passive recovery while discouraging non-Poison-types from using Trick or Switcheroo on it.</p>\n<p><strong>Air Balloon</strong>: Air Balloon negates Glimmora's Ground weakness so that it can utilize more turns against Ground-types.</p>\n<p><strong>Choice Scarf</strong>: With Glimmora's high Special Attack, Choice Scarf can make Glimmora a solid revenge killer or wallbreaker.</p>\n<h3>Niche Items</h3>\n<p><strong>Power Herb</strong>: Power Herb is used alongside Meteor Beam to deal massive damage in one turn.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots is valuable on Glimmora sets that want to come in frequently, especially when utilizing entry hazard removal.</p>\n<p><strong>Assault Vest</strong>: Assault Vest makes Glimmora a solid special wall and wallbreaker while still allowing it to remove hazards with Mortal Spin.</p>\n<h3>Tera</h3>\n<p>Glimmora is not an ideal Tera Captain due to its lack of reliable setup and its already strong utility roles. It would rather help support a stronger Tera Captain with its entry hazard control. If Glimmora is chosen as a Tera Captain, defensive typings would work best on it, such as Tera Flying to negate its Ground weakness, or other solid defensive typings such as Tera Steel and Water. Tera Ghost can also be used to block Rapid Spin and keep entry hazards up.</p>\n<h3>Draft Strategy</h3>\n<p>Glimmora is primarily drafted as a support option to assist its teammates, but it also plays a role as a solid special wallbreaker. Glimmora works best on a team with solid wallbreakers and wincons that can take full advantage of the support it provides.</p>\n<p><strong>Ghost-types</strong>: Having a solid Ghost-type that can block Rapid Spin, such as <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> or <a href=\"/dex/sv/pokemon/annihilape/draft/\" hreflang=\"en\">Annihilape</a>, is important to ensure that Glimmora's entry hazards can stay up long-term.</p>\n<p><strong>Fast Pivots</strong>: Faster pivots can force many opposing switches, allowing entry hazards set from Glimmora to deal extra chip damage. Some solid examples include <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>.</p>\n<p><strong>Setup Sweepers</strong>: Late-game setup sweepers like to take advantage of the extra chip damage dealt from entry hazards and Glimmora's strong attacks to quickly tear through a weakened team. Examples include <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a>.</p>\n<p><strong>Additional Entry Hazard Removal</strong>: Glimmora wants to spend its turns setting entry hazards and dealing damage, so pairing it with additional hazard removal such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> or <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> allows it to run moves other than Mortal Spin.</p>\n<p><strong>Knock Off</strong>: Solid Knock Off users, such as <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> and Meowscarada, are nice for removing opposing Heavy-Duty Boots so that foes are not immune to Glimmora's entry hazard support.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Ground- and Steel-types</strong>: Ground- and Steel-types can very comfortably switch in on Glimmora, especially since countering them requires very specific coverage. The types also force Glimmora to either switch or lose a lot of health, allowing them to comfortably make progress on their own. Pokemon such as Gholdengo, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and Garchomp are good examples. Air Balloon can be valuable on Steel-types, as it allows them to resist or ignore all of Glimmora's coverage.</p>\n<p><strong>Grounded Poison-types</strong>: While most grounded Poison-types cannot deal much damage to Glimmora and are threatened by its Earth Power, they are nice to have to ensure Toxic Spikes cannot stay on the field. Even lower-priced grounded Poison-types such as <a href=\"/dex/sv/pokemon/muk/draft/\" hreflang=\"en\">Muk</a> or <a href=\"/dex/sv/pokemon/overqwil/draft/\" hreflang=\"en\">Overqwil</a> can get the job done.</p>\n<p><strong>Rapid Spin</strong>: Rapid Spin users, such as Great Tusk and Iron Treads, remove entry hazards after Toxic Debris activates, which can prove to be extremely valuable when facing hazard lead sets.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 527276,
+            "username": "Techno"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Lead (Spe)",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [
+            "Ground",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Lead",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Glimmora functions as a niche hyper offense lead, being able to utilize its unique ability in Toxic Debris as well as its access to Stealth Rock to consistently stack entry hazards to aid its teammates in wallbreaking. It also has access to Mortal Spin, allowing it to remove hazards from foes such as <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a>. Power Gem is used in order to hit Flying-types such as <a href=\"/dex/sv/pokemon/moltres/national-dex/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a>, which could otherwise remove Glimmora's hazards with Defog. Earth Power is used in order to hit Steel-types such as <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, all of which would use Glimmora as setup fodder. Focus Sash is used most of the time in order to set up multiple layers of Toxic Spikes and almost always guarantees Stealth Rock to be set. Red Card, meanwhile, can be used in order to punish anything attacking Glimmora and to rack up more hazard chip damage while also potentially getting a poison off on foes such as <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex/\" hreflang=\"en\">Mega Tyranitar</a> and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a>.</p>\n<p>Glimmora fits solely on hyper offense teams, where its ability to stack Toxic Spikes and Stealth Rock is appreciated by its teammates. Dark-types such as Kingambit and <a href=\"/dex/sv/pokemon/weavile/national-dex/\" hreflang=\"en\">Weavile</a> enjoy the poison damage whittling down Fighting-types such as Great Tusk, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/national-dex/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex/\" hreflang=\"en\">Mega Lopunny</a>, allowing them to clean through opposing teams more easily. <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex/\" hreflang=\"en\">Tornadus-T</a> also appreciate Glimmora's Toxic Spikes, which help wear down Ting-Lu , letting them overwhelm it more easily. Gholdengo is appreciated in order to block Rapid Spin from Great Tusk and <a href=\"/dex/sv/pokemon/terapagos/national-dex/\" hreflang=\"en\">Terapagos</a> as well as Defog from Tornadus-T and Zapdos. Glimmora struggles with opposing leads such as <a href=\"/dex/sv/pokemon/iron-treads/national-dex/\" hreflang=\"en\">Iron Treads</a> and Landorus-T, which can effectively set and deny entry hazards against Glimmora, meaning that Flying-types such as <a href=\"/dex/sv/pokemon/dragonite/national-dex/\" hreflang=\"en\">Dragonite</a> and the aforementioned Tornadus-T are appreciated. Glimmora also struggles with Poison-types, notably <a href=\"/dex/sv/pokemon/slowking-galar/national-dex/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, due to their ability to remove Toxic Spikes, so Ground-types that threaten them such as Landorus-T and <a href=\"/dex/sv/pokemon/garchomp/national-dex/\" hreflang=\"en\">Garchomp</a> function as good teammates. Glimmora has difficulty with faster foes that can break its Focus Sash such as Urshifu-R and Tachyon Cutter <a href=\"/dex/sv/pokemon/iron-crown/national-dex/\" hreflang=\"en\">Iron Crown</a>, meaning teammates that help against them such as Dragonite and Raging Bolt are appreciated. Glimmora has trouble breaking through <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a>, who which can use it as fodder to set Spikes up on, meaning Fire-types such as <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a> are appreciated. In return, Volcarona appreciates Glimmora's hazards chipping down would be switch-ins such as Heatran and Raging Bolt.</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash",
+            "Red Card"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 632421,
+            "username": "Medasus"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 542295,
+                "username": "Blaze"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Entry Hazard Support (Rock)",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/natdex-mono-analyses.828/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Air Balloon",
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Sludge Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Suicide Lead",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Having the ability to set all entry hazards without becoming passive thanks to Toxic Debris and to cripple a good portion of its checks and remove hazards with Mortal Spin, Glimmora is a potent hazard setter for hyper offense teams.</p>\n</li>\n<li>\n<p>Power Gem allows Glimmora to super effectively hit common Defoggers in <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> and <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>, applying pressure to keep entry hazards on the field.</p>\n</li>\n<li>\n<p>Mortal Spin gives Glimmora a chance to remove entry hazards from other suicide leads such as <a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-ubers/\" hreflang=\"en\">Mega Diancie</a>, and opposing Glimmora, and it cripples foes such as support <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> formes without Refresh, <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, and Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>.</p>\n</li>\n<li>\n<p>Mud Shot hinders foes that try to set up on it such as Primal Groudon, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, and <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>; additionally, it eases the matchup against <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a> by causing it to become easier to revenge kill, punishing it switching in to remove Toxic Spikes. With it, Glimmora can outspeed opposing Glimmora and Mega Diancie and potentially finish them off with Mortal Spin to prevent any hazards from staying on its side of the field, but this limits its ability to set entry hazards out of a lack of move slots.</p>\n</li>\n<li>\n<p>The given EV spread avoids after Stealth Rock a OHKO from Choice Band Tera Flying <a href=\"/dex/sv/pokemon/rayquaza/national-dex-ubers/\" hreflang=\"en\">Rayquaza</a>'s Dragon Ascent, and +1 Zacian-C's Close Combat while also outspeeding -1 Zacian-C, offensively also ensuring a OHKO on specially defensive Yveltal with Power Gem after Stealth Rock. It's to be noted that this spread can't outspeed <a href=\"/dex/sv/pokemon/pheromosa/national-dex-ubers/\" hreflang=\"en\">Pheromosa</a> after a Speed drop from Mud Shot. An alternate spread of 32 Def / 236 SpA / 244 Spe fixes this, now avoiding a 2HKO from <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a>'s Power Whip and ensuring a 2HKO on other Glimmora with Power Gem.</p>\n</li>\n<li>\n<p>Tera Steel prevents opposing Glimmora from removing entry hazards with Mortal Spin; Glimmora, however, shouldn't usually Terastallize, as other Pokemon it's partnered with generally make better use of Terastallizing.</p>\n</li>\n<li>\n<p>If the opposing team has a Poison-type like Glimmora or Eternatus, setting Toxic Spikes shouldn't be a priority, as they will get quickly removed as soon they enter the field, thus making it desirable to focus on setting Stealth Rock or Spikes. Similarly, as Glimmora can remove Toxic Spikes by switching in as long it survives entry hazards, it can still become useful mid-game after getting worn down in such matchups.</p>\n</li>\n<li>\n<p>Against Trick Room teams, Glimmora should be kept mid-game, as it can't set hazards on their usual lead in <a href=\"/dex/sv/pokemon/hatterene/national-dex-ubers/\" hreflang=\"en\">Hatterene</a> due to its Magic Bounce ability, especially as Toxic Spikes hinder the longevity of such teams, and can prove useful to stall out Trick Room turns by being sacked.</p>\n</li>\n<li>\n<p>Against stall teams, setting Toxic Spikes and using Mortal Spin should be priorities to hinder the longevity of such teams, especially as Glimmora can do this multiple times across the match out of not taking damage as quickly as in other matchups.</p>\n</li>\n<li>\n<p>Wallbreakers such as Zacian-C, Double Dance Primal Groudon, and Necrozma-DM appreciate the entry hazards set by Glimmora to ensure more KOs, they also act as counterplay to Eternatus to limit its capability to come in to remove Toxic Spikes with offensive pressure.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mud Shot",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 40,
+              "spa": 244,
+              "spd": 0,
+              "spe": 224
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 32,
+              "spa": 232,
+              "spd": 0,
+              "spe": 244
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 434487,
+            "username": "Bobsican"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 523420,
+                "username": "bumboclaat"
+              },
+              {
+                "user_id": 399174,
+                "username": "entrocefalo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Meteor Beam",
+          "pokemon": "Glimmora",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Toxic Debris"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [
+            "Ground",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spiky Shield",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Armor",
+    "Acid Spray",
+    "Ancient Power",
+    "Confuse Ray",
+    "Dazzling Gleam",
+    "Earth Power",
+    "Endure",
+    "Energy Ball",
+    "Explosion",
+    "Facade",
+    "Flash Cannon",
+    "Giga Impact",
+    "Gunk Shot",
+    "Harden",
+    "Hyper Beam",
+    "Iron Defense",
+    "Light Screen",
+    "Memento",
+    "Meteor Beam",
+    "Mortal Spin",
+    "Mud Shot",
+    "Power Gem",
+    "Protect",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Blast",
+    "Rock Polish",
+    "Rock Slide",
+    "Rock Throw",
+    "Rock Tomb",
+    "Sandstorm",
+    "Sand Tomb",
+    "Self-Destruct",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smack Down",
+    "Solar Beam",
+    "Spikes",
+    "Spiky Shield",
+    "Stealth Rock",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Tera Blast",
+    "Toxic",
+    "Toxic Spikes",
+    "Venoshock"
+  ]
+}

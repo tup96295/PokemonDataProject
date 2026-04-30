@@ -1,0 +1,1031 @@
+{
+  "name": "Orthworm",
+  "alias": "orthworm",
+  "types": [
+    "Steel"
+  ],
+  "stats": [
+    70,
+    85,
+    145,
+    60,
+    55,
+    65
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "<p>Orthworm's place in ZU is defined by its extremely valuable Steel typing combined with its amazing natural Defense and an immunity to Ground-type moves through its signature ability, Earth Eater. With both Stealth Rock and Spikes at its disposal, Orthworm can be an excellent defensive entry hazard setter for its team; furthermore, it has multiple setup moves in Iron Defense and Coil that let it serve as both a defensive check to opposing physical attackers and a potential bulky setup sweeper with Body Press. Orthworm has two pain points holding it back from further success: special attacks threaten severe damage to it, and it can get worn down rapidly due to its lack of a reliable recovery move, especially if it loses its Leftovers.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Orthworm can opt to run a few other Tera types if it desires; Tera Electric allows it to avoid being hit super effectively by any attack, while Tera Poison and Tera Fairy provide a Fighting resistance as well as additional defensive utility in more specific matchups. However, these Tera types introduce weaknesses to wallbreakers like <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> and <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a>, which are more common than Ghost-types like <a href=\"/dex/sv/pokemon/froslass/zu/\" hreflang=\"en\">Froslass</a> and <a href=\"/dex/sv/pokemon/rotom/zu/\" hreflang=\"en\">Rotom</a>. Lastly, Orthworm can opt to run Rock Slide or Rock Blast to hit opposing Fire-types particularly hard on the switch, but it struggles to fit these over any of its moves without impacting its utility or ability to sweep.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fighting-types</strong>: Fighting-type foes like <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a> and <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a> often force Orthworm to either Terastallize or switch out unless it's already properly set up.</p>\n<p><strong>Fire-types</strong>: Fire-type foes like <a href=\"/dex/sv/pokemon/typhlosion/zu/\" hreflang=\"en\">Typhlosion</a>, <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a>, and <a href=\"/dex/sv/pokemon/houndoom/zu/\" hreflang=\"en\">Houndoom</a> put immense pressure on Orthworm with their STAB attacks. Orthworm also struggles to deal damage against Charizard due to i resisting both Iron Tail and Body Press.</p>\n<p><strong>Ghost-types</strong>: <a href=\"/dex/sv/pokemon/spiritomb/zu/\" hreflang=\"en\">Spiritomb</a>, Rotom, and <a href=\"/dex/sv/pokemon/sableye/zu/\" hreflang=\"en\">Sableye</a> are immune to Body Press and either threaten Orthworm directly with their own moves or threaten status to severely hinder its sweep.</p>\n<p><strong>Burn</strong>: Burn from foes like Charizard, <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a>, and Rotom significantly hinders Orthworm's damage output, neutralizes its Leftovers recovery, and limits its sweeping ability, though it can at least use Substitute to circumvent Will-O-Wisp attempts against slower foes like Weezing.</p>\n<p><strong>Encore and Taunt</strong>: Encore from foes like Mesprit and <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a> can disrupt Orthworm in the middle of its setup attempts, as does Taunt from the likes of <a href=\"/dex/sv/pokemon/persian-alola/zu/\" hreflang=\"en\">Alolan Persian</a> and <a href=\"/dex/sv/pokemon/thwackey/zu/\" hreflang=\"en\">Thwackey</a>. Taunt also denies its attempts to set entry hazards.</p>\n<p><strong>Item Disruption</strong>: Knock Off from foes like Mesprit, Primeape, and <a href=\"/dex/sv/pokemon/sandslash/zu/\" hreflang=\"en\">Sandslash</a> severely injures Orthworm's longevity due to its reliance on Leftovers, as does Switcheroo from Rotom and Whimsicott.</p>\n<p><strong>Special Attackers</strong>: Orthworm's poor special bulk can often be taken advantage of by foes like <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a>, Magneton, <a href=\"/dex/sv/pokemon/vikavolt/zu/\" hreflang=\"en\">Vikavolt</a>, and <a href=\"/dex/sv/pokemon/clawitzer/zu/\" hreflang=\"en\">Clawitzer</a>, though some of these Pokemon have to be wary of Body Press on the switch in.</p>",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Orthworm is an excellent defensive Pokemon thanks to its great physical bulk, Steel typing, and complementary immunity to Ground from Earth Eater. Common Pokemon like <a href=\"/dex/sv/pokemon/whiscash/zu/\" hreflang=\"en\">Whiscash</a>, <a href=\"/dex/sv/pokemon/sandslash/zu/\" hreflang=\"en\">Sandslash</a>, and <a href=\"/dex/sv/pokemon/sandaconda/zu/\" hreflang=\"en\">Sandaconda</a> struggle to break through Orthworm on their own, while other Pokemon like <a href=\"/dex/sv/pokemon/farigiraf/zu/\" hreflang=\"en\">Farigiraf</a> and <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> must either dedicate a coverage move for Orthworm or Terastallize. Orthworm's fantastic defensive profile gives it ample opportunities to switch in and set up entry hazards with Stealth Rock and Spikes for its teammates. Orthworm is also a resilient hazard setter against Sandslash, one of the few common hazard removers. Heavy Slam has the best immediate power and coverage of Orthworm's attacks against foes like <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Sneasel-Hisui</a> and <a href=\"/dex/sv/pokemon/articuno/zu/\" hreflang=\"en\">Articuno</a>, deals super effective damage to <a href=\"/dex/sv/pokemon/froslass/zu/\" hreflang=\"en\">Froslass</a>, and wrecks <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a> and Tera Fairy Pokemon such as <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a> and Mesprit. Body Press is strong against <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a> and <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a>, and it 2HKOes heavier foes and Electric-types such as <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a> and Jolteon. The increased resilience and additional power to Body Press provided by Iron Defense enable Orthworm to beat physical attackers like <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a> and set up on setup sweepers such as <a href=\"/dex/sv/pokemon/minior/zu/\" hreflang=\"en\">Minior</a>. Orthworm can lean into its hazard setting capabilities by running Stealth Rock and Spikes, taking advantage of Choice item attackers like Mesprit and Sneasel-Hisui and accepting its own lack of longevity as a defensive Pokemon. Protect helps Orthworm maximize recovery from Leftovers and scout Choice item attackers like Primeape, Magneton, and <a href=\"/dex/sv/pokemon/typhlosion/zu/\" hreflang=\"en\">Typhlosion</a>. Tera Ghost makes Orthworm more secure against Fighting-type physical attacks like Close Combat from Primeape and Glastrier, Body Press from Regirock and opposing Orthworm, and Low Kick from <a href=\"/dex/sv/pokemon/dodrio/zu/\" hreflang=\"en\">Dodrio</a>. Tera Ghost also enables Orthworm to block Rapid Spin from Sandslash to preserve the entry hazards it sets, and it's especially helpful against <a href=\"/dex/sv/pokemon/hitmontop/zu/\" hreflang=\"en\">Hitmontop</a>. Tera Electric leaves Orthworm without weaknesses, so it can more efficiently set hazards and take on physical attackers. Orthworm's EVs are tailored to patch up its lower special bulk to enable it to take on special attackers like Mesprit, Farigiraf, and Whimsicott more comfortably while still giving it enough physical bulk to survive a +2 Low Kick from Dodrio, Close Combat from Primeape, and 2 Low Kicks from <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a>.</p>\n<p>Orthworm is a good fit for bulky offense teams looking for an entry hazard setter, and its limited longevity is a better fit for the playstyle compared to more passive hazard setters like Sandaconda. Offensive Pokemon such as <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a>, Jolteon, and Typhlosion adore checks to them like Whiscash and Regirock taking residual damage from Orthworm's entry hazards. Primeape, Mesprit, and Sneasel commonly run Knock Off, which complements Orthworm's entry hazards by removing Heavy-Duty Boots from Pokemon such as Hitmontop and Charizard and helping wear them down. Charizard can comfortably take Orthworm's attacks and threaten it out, so Orthworm appreciates support from partners like <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> and Whiscash that can threaten Charizard and other Fire-types like Typhlosion. Hazard removers like <a href=\"/dex/sv/pokemon/lurantis/zu/\" hreflang=\"en\">Lurantis</a> are appreciated by Orthworm because residual damage from Spikes racks up quickly on it and limits its defensive capabilities. Rapid Spin users like Sandslash, Hitmontop, and <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a> remove entry hazards without removing Orthworm's entry hazards. Fighting-types like <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a> and Primeape can overpower Orthworm with their super effective STAB moves, so checks to them such as Mesprit, Charizard, and <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a> are appreciated. Orthworm is a great partner for Pokemon vulnerable to Ground-types, such as Jolteon and Magneton.</p>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 16,
+              "spa": 0,
+              "spd": 240,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        },
+        {
+          "name": "Coil",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Coil, Orthworm can act as an excellent progress maker and bulky wincon for its team, leveraging its excellent typing and Ground immunity to set up on foes like <a href=\"/dex/sv/pokemon/sandslash/zu/\" hreflang=\"en\">Sandslash</a> and <a href=\"/dex/sv/pokemon/sandaconda/zu/\" hreflang=\"en\">Sandaconda</a>. Furthermore, other foes like <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> and <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> can often find it difficult to make progress against Orthworm without utilizing Terastallization. Iron Tail and Body Press cover much of the tier together, while Substitute lets Orthworm avoid burn from foes like <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a> and <a href=\"/dex/sv/pokemon/spiritomb/zu/\" hreflang=\"en\">Spiritomb</a>. Substitute also prevents Orthworm from being phazed by Dragon Tail from the likes of <a href=\"/dex/sv/pokemon/dipplin/zu/\" hreflang=\"en\">Dipplin</a> and protects it from revenge killers like <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a>. Maximum Special Defense investment alongside a Careful nature helps Orthworm better withstand special attacks from foes like <a href=\"/dex/sv/pokemon/jolteon/zu/\" hreflang=\"en\">Jolteon</a> and <a href=\"/dex/sv/pokemon/arboliva/zu/\" hreflang=\"en\">Arboliva</a>. Tera Ghost is used to help find setup opportunities against Fighting-types like Primeape and <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a>.</p>\n<p>Coil Orthworm pairs well with fast teammates like Jolteon and <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a>, which appreciate its ability to take advantage of Ground-type foes like Sandslash and Sandaconda. Other teammates like <a href=\"/dex/sv/pokemon/articuno/zu/\" hreflang=\"en\">Articuno</a> and <a href=\"/dex/sv/pokemon/typhlosion/zu/\" hreflang=\"en\">Typhlosion</a> appreciate Orthworm's ability to use common checks like Arboliva and <a href=\"/dex/sv/pokemon/dodrio/zu/\" hreflang=\"en\">Dodrio</a> as setup fodder. Fire-types can often be a significant struggle for Orthworm, so it appreciates teammates like <a href=\"/dex/sv/pokemon/whiscash/zu/\" hreflang=\"en\">Whiscash</a> and <a href=\"/dex/sv/pokemon/houndoom/zu/\" hreflang=\"en\">Houndoom</a> to check them. Without prior boosts, Orthworm can often have a rough time against opposing Fighting-types, so teammates like <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a>, <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a>, and Weezing can serve as invaluable support. Since Orthworm relies heavily on its Leftovers for its game plan, it appreciates Knock Off absorbers like Dipplin and Muk. Hazard support from teammates like Mesprit and Sandslash is often greatly appreciated to help weaken Orthworm's checks.</p>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Coil",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 452572,
+            "username": "missangelic"
+          },
+          {
+            "user_id": 598623,
+            "username": "BaitWiz"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 601970,
+                "username": "sleid"
+              },
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 435539,
+                "username": "BloodAce"
+              },
+              {
+                "user_id": 452572,
+                "username": "missangelic"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 569291,
+                "username": "zinnias"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Uber",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Shed Tail",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Orthworm faciliates setup sweepers on hyper offense teams thanks to its Ground immunity and access to Shed Tail. Unlike <a href=\"/dex/sv/pokemon/cyclizar/uber/\" hreflang=\"en\">Cyclizar</a>, Orthworm is able to pass slow Shed Tails due to its low Speed.</li>\n<li>Orthworm has access to both Stealth Rock and Spikes, helping it wear down walls for its setup sweeper teammates. Stealth Rock is usually preferred for limiting <a href=\"/dex/sv/pokemon/chien-pao/uber/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/chi-yu/uber/\" hreflang=\"en\">Chi-Yu</a>, and <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>, but Spikes can be used if your team already has a Stealth Rock setter. Body Press punishes <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a> and Chien-Pao trying to wear down and set up on Orthworm. Iron Head is a STAB move that lets Orthworm hit <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a> trying to Taunt it.</li>\n<li>Tera Water allows Orthworm to safely set up Shed Tail on <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>. Tera Ghost lets Orthworm completely blank Fighting-type attacks from Koraidon and <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a> while preventing Rapid Spin users from removing entry hazards set by both Orthworm and its teammates. However, Terastallizing Orthworm instead of one of its teammates is often not worth it.</li>\n<li>Sitrus Berry provides Orthworm with the flexibility to take an attack and use Shed Tail, but Mental Herb is an option to block Taunt.</li>\n<li><a href=\"/dex/sv/pokemon/grimmsnarl/uber/\" hreflang=\"en\">Grimmsnarl</a> is a fantastic partner, as it provides screens support that improves Orthworm's longevity and further eases setup for teammates behind Shed Tail.</li>\n<li>Entry hazard setters such as <a href=\"/dex/sv/pokemon/glimmora/uber/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/froslass/uber/\" hreflang=\"en\">Froslass</a> can wear down opponents in conjunction with Orthworm's hazards and Shed Tail, making it easier for teammates to break through walls.</li>\n<li>Setup sweepers such as Koraidon, <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>, Kingambit, <a href=\"/dex/sv/pokemon/iron-moth/uber/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/espathra/uber/\" hreflang=\"en\">Espathra</a> appreciate Orthworm's Shed Tail preventing status while giving them some leeway to boost. Koraidon in particular also appreciates Orthworm walling Great Tusk without Fighting-type moves and deterring Great Tusk from using Ground-type moves. Swords Dance Chien-Pao and Calm Mind Flutter Mane similarly appreciate Orthworm's Shed Tail easing setup by compensating for their lower bulk.</li>\n</ul>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Mental Herb"
+          ],
+          "teratypes": [
+            "Water",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shed Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 595062,
+            "username": "Taka"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 306317,
+                "username": "katerina"
+              },
+              {
+                "user_id": 415367,
+                "username": "Eledyr"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Hazard Setter",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Coil",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Coil",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        },
+        {
+          "name": "Bulky Sweeper",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Coil",
+                "type": null
+              },
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This analysis was for Battle Stadium Singles Regulation C, which ended on June 30th, 2023. Since then, this Pokemon's viability has massively dropped off, and it is no longer relevant. Using this Pokemon in today's metagame is not advised unless you have an extremely niche, hyper-specific need to cover.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "IronPress",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Thanks to Earth Eater, Orthworm can wall sets of many physical Dragon-types like <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>.</p>\n</li>\n<li>\n<p><strong>Iron Head versus Heavy Slam</strong>: Iron Head is superior for <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a>, and Baxcalibur. Heavy Slam can 2HKO offensive <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a> and OHKO offensive <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>.</p>\n</li>\n<li>\n<p><strong>Rest</strong>: Rest gives Orthworm better longevity for stalling out physical threats. It can be run with Chesto Berry, but usually another item is preferable.</p>\n</li>\n<li>\n<p><strong>Shed Tail</strong>: In the early-game when IronPress may not be as effective, Shed Tail gives Orthworm a useful pivot for setting up teammates.</p>\n</li>\n<li>\n<p><strong>Substitute</strong>: Substitute stops Salt Cure damage from <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a> and phazing from Garchomp's Dragon Tail.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Earthquake</strong>: Earthquake can hit <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>, but it won't 2HKO, so Recover is still a problem.</p>\n</li>\n<li>\n<p><strong>Stealth Rock</strong>: IronPress sets have a more difficult time fitting it in, but Orthworm can run Stealth Rock if the team can't run it elsewhere.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry helps ensure that Orthworm can still Shed Tail after taking a big hit or, if able to stay healthy, gives it two uses of Shed Tail.</p>\n</li>\n<li>\n<p><strong>Rocky Helmet</strong>: Not only does Rocky Helmet make it even easier to wear down physical attackers, but it makes running Body Press as the only attack much more feasible.</p>\n</li>\n<li>\n<p><strong>Leftovers</strong>: Leftovers is a consistent option, especially in conjunction with Substitute.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Orthworm's excellent bulk profile give it good setup opportunities, but combining Terastallization with Earth Eater can further augment its defensive capabilities.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison provides a key Fighting-type resistance and a single weakness and maintains a key resistance to Flower Trick, letting Orthworm perform better against <a href=\"/dex/sv/pokemon/meowscarada/battle-stadium-singles/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/great-tusk/battle-stadium-singles/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/battle-stadium-singles/\" hreflang=\"en\">Iron Valiant</a>.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy provides a Fighting-type resistance and Dragon-type immunity, turning Dragon Tail Garchomp into setup bait, and dealing with Great Tusk, Iron Valiant, and <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n</ul>\n<h5>EV spreads</h5>\n<ul>\n<li>\n<p><strong>252 HP / 252 Def / 4 Spe with Impish</strong>: Maximum physical bulk is ideal if relying on Orthworm to beat Dragonite and Baxcalibur in the late-game. A fully invested Body Press will also OHKO offensive <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 SpD / 4 Spe with Careful</strong>: This EV spread makes Orthworm much less likely to be 2HKOd by unboosted Flutter Mane and Life Orb Dragapult.</p>\n</li>\n<li>\n<p><strong>252 HP / 116 Def / 140 Spe with Impish</strong>: This spread can be used to outspeed Adamant <a href=\"/dex/sv/pokemon/kingambit/battle-stadium-singles/\" hreflang=\"en\">Kingambit</a>, most <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a>. This can be very useful if using Shed Tail.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Rocky Helmet",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shed Tail",
+                "type": null
+              },
+              {
+                "move": "Rest",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish",
+            "Careful"
+          ]
+        },
+        {
+          "name": "Shed Tail Support",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Orthworm's good physical bulk and ability make it a great support with Shed Tail, and a reliable Stealth Rock user.</p>\n</li>\n<li>\n<p><strong>Body Press</strong>: Body Press has a good chance to OHKO offensive <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/meowscarada/battle-stadium-singles/\" hreflang=\"en\">Meowscarada</a>, and threatens <a href=\"/dex/sv/pokemon/kingambit/battle-stadium-singles/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Heavy Slam versus Iron Head</strong>: A Steel-type STAB move helps hit some Ghost-types like busted <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>, who are OHKOed by Heavy Slam. Iron Head is an alternative for heavy foes like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a>, and <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>.</p>\n</li>\n<li>\n<p><strong>Spikes</strong>: Orthworm can also set Spikes at the cost of offensive coverage.</p>\n</li>\n<li>\n<p><strong>A Special Teammate</strong>: Many Pokemon can benefit from Orthworm's Shed Tail. One example is Air Balloon <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>, which puts a lot of pressure on defensive foes when behind a Substitute.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: This Orthworm isn't usually meant to Terastallize, since that's better served by the teammates its passing a Substitute to.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison leaves Orthworm with only one fairly rare weakness, and aids it against former threats like <a href=\"/dex/sv/pokemon/great-tusk/battle-stadium-singles/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-valiant/battle-stadium-singles/\" hreflang=\"en\">Iron Valiant</a>.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Orthworm a Fighting resistance, as well as a way to absorb <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>'s Dragon Tail while still staying in.</p>\n</li>\n</ul>\n<h5>EV spreads</h5>\n<ul>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpD with Impish</strong>: This spread maximizes Orthworm's physical bulk. Running a Speed IV of 0 may be tempting, but being outsped by bulky <a href=\"/dex/sv/pokemon/brute-bonnet/battle-stadium-singles/\" hreflang=\"en\">Brute Bonnet</a> is risky.</p>\n</li>\n<li>\n<p><strong>252 HP / 116 Def / 140 Spe with Impish</strong>: This spread outspeeds Kingambit, and most <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a>. Outspeeding Kingambit and Corviknight prevents Taunt from stopping Shed Tail, and let's Orthworm bring in a teammate against Torch Song.</p>\n</li>\n<li>\n<p><strong>252 HP / 44 Def / 212 Spe with Jolly</strong>: This spread outspeeds Adamant <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a> and Jolly Brute Bonnet. Mach Punch still does a lot, but thanks to Sitrus Berry, Orthworm will have enough HP left to Shed Tail to a check or counter.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shed Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 291756,
+            "username": "Omastar68"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "IronPress",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Thanks to Earth Eater, Orthworm can wall sets of many physical Dragon-types like <a href=\"/dex/sv/pokemon/garchomp/bss-series-1/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/baxcalibur/bss-series-1/\" hreflang=\"en\">Baxcalibur</a>.</p>\n</li>\n<li>\n<p>Heavy Slam can 2HKO offensive <a href=\"/dex/sv/pokemon/dragapult/bss-series-1/\" hreflang=\"en\">Dragapult</a>, while Iron Head is superior for <a href=\"/dex/sv/pokemon/dragonite/bss-series-1/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p>Rest is an option with Chesto Berry to heal Orthworm in a pinch, giving it better longevity.</p>\n</li>\n<li>\n<p>Shed Tail gives Orthworm use when IronPress isn't as effective. The surprise factor comes at the price of the reduced effectiveness of IronPress.</p>\n</li>\n<li>\n<p>Earthquake is an option to hit <a href=\"/dex/sv/pokemon/gholdengo/bss-series-1/\" hreflang=\"en\">Gholdengo</a>, but it won't 2HKO, so Recover is still a problem.</p>\n</li>\n<li>\n<p>Substitute stops Salt Cure damage from <a href=\"/dex/sv/pokemon/garganacl/bss-series-1/\" hreflang=\"en\">Garganacl</a> and phasing from Garchomp's Dragon Tail.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry allows two uses of Shed Tail.</p>\n</li>\n<li>\n<p><strong>Leftovers</strong>: Leftovers is a consistent option, especially in conjunction with Substitute.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Poison</strong>: Tera Poison provides a key Fighting resistance and single weakness and maintains a key resistance to Flower Trick.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy provides a Fighting resistance and Dragon immunity, turning Dragon Tail Garchomp into setup bait.</p>\n</li>\n</ul>\n<h4>EV spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 SpD / 4 Spe with Careful</strong>: This EV spread makes Orthworm much less likely to be 2HKOd by Life Orb Dragapult.</p>\n</li>\n<li>\n<p><strong>252 HP / 116 Def / 140 Spe with Impish</strong>: This spread can be used to outspeed Adamant <a href=\"/dex/sv/pokemon/kingambit/bss-series-1/\" hreflang=\"en\">Kingambit</a> and most <a href=\"/dex/sv/pokemon/corviknight/bss-series-1/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/skeledirge/bss-series-1/\" hreflang=\"en\">Skeledirge</a>. This can be very useful if using Shed Tail.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Chesto Berry",
+            "Sitrus Berry",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              },
+              {
+                "move": "Shed Tail",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish",
+            "Careful"
+          ]
+        },
+        {
+          "name": "Shed Tail Support",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Orthworm's good physical bulk and ability make it a great user of Shed Tail, and a reliable Stealth Rock user.</p>\n</li>\n<li>\n<p>Body Press has a good chance to OHKO offensive <a href=\"/dex/sv/pokemon/meowscarada/bss-series-1/\" hreflang=\"en\">Meowscarada</a>, and threatens <a href=\"/dex/sv/pokemon/kingambit/bss-series-1/\" hreflang=\"en\">Kingambit</a>.</p>\n</li>\n<li>\n<p>A Steel-type STAB move helps hit some Ghost-types like <a href=\"/dex/sv/pokemon/mimikyu/bss-series-1/\" hreflang=\"en\">Mimikyu</a>, who is OHKOed by Heavy Slam after Disguise. Iron Head is an alternative for heavy foes like <a href=\"/dex/sv/pokemon/dragonite/bss-series-1/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p>Orthworm can also set Spikes, but this compromises its ability to pass Shed Tail.</p>\n</li>\n<li>\n<p>Many Pokemon can benefit from Orthworm's Shed Tail. One example is Air Balloon <a href=\"/dex/sv/pokemon/gholdengo/bss-series-1/\" hreflang=\"en\">Gholdengo</a>, which puts a lot of pressure on defensive foes when behind a Substitute.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p>This Orthworm isn't usually meant to Terastalize.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison leaves Orthworm with only one fairly rare weakness.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Orthworm a Fighting resistance, as well as a way to absorb <a href=\"/dex/sv/pokemon/garchomp/bss-series-1/\" hreflang=\"en\">Garchomp</a>'s Dragon Tail while still staying in.</p>\n</li>\n</ul>\n<h4>EV spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpD with Relaxed and 0 Speed IVs</strong>: This spread maximizes Orthworm's physical bulk while underspeeding <a href=\"/dex/sv/pokemon/hippowdon/bss-series-1/\" hreflang=\"en\">Hippowdon</a>.</p>\n</li>\n<li>\n<p><strong>252 HP / 116 Def / 140 Spe with Impish</strong>: This spread outspeeds Kingambit, and most <a href=\"/dex/sv/pokemon/skeledirge/bss-series-1/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/corviknight/bss-series-1/\" hreflang=\"en\">Corviknight</a>. Outspeeding Kingambit and Corviknight prevents Taunt from stopping Shed Tail, and let's Orthworm bring in a teammate against Torch Song.</p>\n</li>\n<li>\n<p><strong>252 HP / 44 Def / 212 Spe with Jolly</strong>: This spread outspeeds Adamant <a href=\"/dex/sv/pokemon/breloom/bss-series-1/\" hreflang=\"en\">Breloom</a>. Mach Punch still does a lot, but thanks to Sitrus Berry, Orthworm will have enough HP left to Shed Tail to a check or counter.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shed Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed",
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 291756,
+            "username": "Omastar68"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "IronPress",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Thanks to Earth Eater, Orthworm can wall sets of many physical Dragon-types like <a href=\"/dex/sv/pokemon/garchomp/bss-series-2/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/baxcalibur/bss-series-2/\" hreflang=\"en\">Baxcalibur</a>.</p>\n</li>\n<li>\n<p><strong>Heavy Slam versus Iron Head</strong>: Heavy Slam can 2HKO offensive <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a>, OHKOs <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a>, and deals much more damage to <a href=\"/dex/sv/pokemon/iron-valiant/bss-series-2/\" hreflang=\"en\">Iron Valiant</a>, while Iron Head is superior for <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p><strong>Rest and Chesto Berry</strong>: Rest is an option with Chesto Berry to heal Orthworm in a pinch, giving it better longevity.</p>\n</li>\n<li>\n<p><strong>Shed Tail</strong>: Shed Tail gives Orthworm use when IronPress isn't as effective. The surprise factor comes at the price of the reduced effectiveness of IronPress.</p>\n</li>\n<li>\n<p><strong>Substitute</strong>: Substitute stops Salt Cure damage from <a href=\"/dex/sv/pokemon/garganacl/bss-series-2/\" hreflang=\"en\">Garganacl</a> and phazing from Garchomp's Dragon Tail.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li>Earthquake is an option to hit <a href=\"/dex/sv/pokemon/gholdengo/bss-series-2/\" hreflang=\"en\">Gholdengo</a>, but it won't 2HKO, so Recover is still a problem.</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry allows two uses of Shed Tail.</p>\n</li>\n<li>\n<p><strong>Leftovers</strong>: Leftovers is a consistent option, especially in conjunction with Substitute.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Poison</strong>: Tera Poison provides a key Fighting resistance and single weakness and maintains a key resistance to Flower Trick, letting Orthworm preform better against <a href=\"/dex/sv/pokemon/meowscarada/bss-series-2/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a>, and Iron Valiant.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy provides a Fighting resistance and Dragon immunity, turning Dragon Tail Garchomp into setup bait, and dealing with Great Tusk, Iron Valiant, and <a href=\"/dex/sv/pokemon/roaring-moon/bss-series-2/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n</ul>\n<h4>EV spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 SpD / 4 Spe with Careful</strong>: This EV spread makes Orthworm much less likely to be 2HKOd by Life Orb Dragapult.</p>\n</li>\n<li>\n<p><strong>252 HP / 116 Def / 140 Spe with Impish</strong>: This spread can be used to outspeed Adamant <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a>, most <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/skeledirge/bss-series-2/\" hreflang=\"en\">Skeledirge</a>. This can be very useful if using Shed Tail.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Chesto Berry",
+            "Sitrus Berry",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              },
+              {
+                "move": "Shed Tail",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish",
+            "Careful"
+          ]
+        },
+        {
+          "name": "Shed Tail Support",
+          "pokemon": "Orthworm",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Orthworm's good physical bulk and ability make it a great user of Shed Tail, and a reliable Stealth Rock user.</p>\n</li>\n<li>\n<p><strong>Body Press</strong>: Body Press has a good chance to OHKO offensive <a href=\"/dex/sv/pokemon/meowscarada/bss-series-2/\" hreflang=\"en\">Meowscarada</a>, and threatens <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/roaring-moon/bss-series-2/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Heavy Slam versus Iron Head</strong>: A Steel-type STAB move helps hit some Ghost-types like <a href=\"/dex/sv/pokemon/mimikyu/bss-series-2/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a>, who are OHKOed by Heavy Slam, and deals massive damage to <a href=\"/dex/sv/pokemon/iron-valiant/bss-series-2/\" hreflang=\"en\">Iron Valiant</a>. Iron Head is an alternative for heavy foes like <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a>.</p>\n</li>\n<li>\n<p><strong>Spikes</strong>: Orthworm can also set Spikes, but this compromises its ability to pass Shed Tail.</p>\n</li>\n<li>\n<p><strong>A Special Teammate</strong>: Many Pokemon can benefit from Orthworm's Shed Tail. One example is Air Balloon <a href=\"/dex/sv/pokemon/gholdengo/bss-series-2/\" hreflang=\"en\">Gholdengo</a>, which puts a lot of pressure on defensive foes when behind a Substitute.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p>This Orthworm isn't usually meant to Terastalize, since that's better served by the teammates its passing a Substitute to.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison leaves Orthworm with only one fairly rare weakness, and aiding it against former threats like <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a> and Iron Valiant.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy gives Orthworm a Fighting resistance, as well as a way to absorb <a href=\"/dex/sv/pokemon/garchomp/bss-series-2/\" hreflang=\"en\">Garchomp</a>'s Dragon Tail while still staying in.</p>\n</li>\n</ul>\n<h4>EV spreads</h4>\n<ul>\n<li>\n<p><strong>252 HP / 252 Def / 4 SpD</strong>: This spread maximizes Orthworm's physical bulk. Running a Speed IV of 0 may be tempting, but being outsped by bulky <a href=\"/dex/sv/pokemon/brute-bonnet/bss-series-2/\" hreflang=\"en\">Brute Bonnet</a> is risky.</p>\n</li>\n<li>\n<p><strong>252 HP / 116 Def / 140 Spe with Impish</strong>: This spread outspeeds Kingambit, and most <a href=\"/dex/sv/pokemon/skeledirge/bss-series-2/\" hreflang=\"en\">Skeledirge</a> and <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a>. Outspeeding Kingambit and Corviknight prevents Taunt from stopping Shed Tail, and let's Orthworm bring in a teammate against Torch Song.</p>\n</li>\n<li>\n<p><strong>252 HP / 44 Def / 212 Spe with Jolly</strong>: This spread outspeeds Adamant <a href=\"/dex/sv/pokemon/breloom/bss-series-2/\" hreflang=\"en\">Breloom</a> and Jolly Brute Bonnet. Mach Punch still does a lot, but thanks to Sitrus Berry, Orthworm will have enough HP left to Shed Tail to a check or counter.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Earth Eater"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shed Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 4,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Impish"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 291756,
+            "username": "Omastar68"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Coil",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Flash Cannon",
+    "Giga Impact",
+    "Harden",
+    "Headbutt",
+    "Heavy Slam",
+    "Helping Hand",
+    "High Horsepower",
+    "Hyper Beam",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Metal Burst",
+    "Metal Sound",
+    "Mud Shot",
+    "Mud-Slap",
+    "Protect",
+    "Rest",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Sand Tomb",
+    "Shed Tail",
+    "Sleep Talk",
+    "Smack Down",
+    "Spikes",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stomping Tantrum",
+    "Substitute",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Wrap"
+  ]
+}

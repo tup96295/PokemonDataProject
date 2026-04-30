@@ -1,0 +1,222 @@
+{
+  "name": "Tapu Bulu",
+  "alias": "tapu-bulu",
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "stats": [
+    70,
+    130,
+    115,
+    85,
+    95,
+    75
+  ],
+  "strategies": [
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Tapu Bulu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tapu Bulu's strong offenses, access to Swords Dance, and Grassy Terrain-boosted STAB attacks make it a potent physical wallbreaker, being able to tear through prominent Ground- and Water-types in the tier such as <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>. On top of this, Tapu Bulu's solid defensive profile also allows it to serve as an effective check to certain offensive threats such as <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a>, <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>, and <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>, while Grassy Surge allows it to support its team with additional passive recovery, as well as lessening the damage of Earthquake, a common attacking move seen on Pokemon such as <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>. However, Tapu Bulu's common weaknesses to attacking types such as Fire, Flying, and Steel, mediocre Speed tier, and heavy reliance on prediction to get past certain walls such as <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> tend to limit its consistency in the long run. In addition, Grassy Terrain, while beneficial, can also backfire due to it healing opposing grounded Pokemon as well. Stone Edge gives Tapu Bulu a way to hit Fire- and Flying-types such as <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> and Thundurus; when powered up by Rockium Z, it turns into a perfectly accurate move that also deals enormous damage to natural targets such as Celesteela, <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a> at +2, letting it break through them. High Horsepower gives Tapu Bulu a way to hit Steel-types such as <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a>, Excadrill, and <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a> super effectively. The given EV spread maximizes Tapu Bulu's bulk, whilst allowing it to outspeed Adamant <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> and Modest Celesteela. Alternatively, a spread of 252 Atk / 4 SpD / 252 Spe can be used to maximize Tapu Bulu's offensive potential, most notably ensuring a guaranteed OHKO on maximum HP Aegislash with High Horsepower and defensive Celesteela and Amoonguss with Contential Crush at +2. By virtue of its defensive qualities, Tapu Bulu is best suited to defensive teams which can capitalize on its long-term prowess. Pokemon such as Aegislash, Excadrill, and <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a> each appreciate the residual effects brought on by Grassy Terrain, which can allow them to play more aggressively; in return, these Pokemon can help pivot into several of Tapu Bulu's answers, such as Celesteela and Mega Venusaur, while Slowking also helps check Fire-types such as Victini. Additionally, other defensive Pokemon such as Slowbro, <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, and Hippowdon can also benefit from Grassy Surge while supporting Tapu Bulu's team against offensive threats such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, in addition to providing entry hazards and pivoting support. However, it should be noted that Hippowdon will often need to run alternative Ground-type STAB options to remain effective under Grassy Terrain. Faster teammates such as Choice Scarf <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a>, Zeraora, and Choice Scarf <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> can assist in revenge killing Tapu Bulu’s checks, and they benefit from Tapu Bulu's ability to help them overwhelm pivots such as Celesteela, <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>, and Amoonguss.</p>",
+          "abilities": [
+            "Grassy Surge"
+          ],
+          "items": [
+            "Rockium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Horn Leech",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "High Horsepower",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 96,
+              "def": 0,
+              "spa": 0,
+              "spd": 16,
+              "spe": 144
+            },
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 546157,
+            "username": "Iride"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 535121,
+                "username": "gu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 633500,
+                "username": "StupidFlandrs48"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance (Fairy)",
+          "pokemon": "Tapu Bulu",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Tapu Bulu is a fearsome wallbreaker, boasting synergistic coverage moves that help Fairy teams in a variety of matchups like Water, Poison, and Ground. Close Combat targets Steel-types like <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>. Should Fightinium Z be used, All-Out Pummeling heavily damages the likes of <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a> and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> after a Swords Dance boost. High Horsepower heavily damages <a href=\"/dex/sv/pokemon/aegislash/national-dex-monotype/\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> and lets Tapu Bulu be a massive asset against Steel and Water teams by hitting <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> for heavy damage. Substitute allows Tapu Bulu to set up on passive Pokemon such as Toxapex, <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a>, while Zen Headbutt is its best move against <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/crobat/national-dex-monotype/\" hreflang=\"en\">Crobat</a>. <a href=\"/dex/sv/pokemon/klefki/national-dex-monotype/\" hreflang=\"en\">Klefki</a> is a great teammate, as it sets up Spikes to ease Tapu Bulu's wallbreaking as well as Reflect and Light Screen to provide more setup opportunities. <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> threatens Flying- and Fire-types like <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> for Tapu Bulu. In return, Tapu Bulu checks <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, Heatran, and <a href=\"/dex/sv/pokemon/clodsire/national-dex-monotype/\" hreflang=\"en\">Clodsire</a>, letting Mega Diancie have more leeway on its moveset. Similarly, <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> is heavily appreciated, as it also deals with Flying-types like <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a> and relieves Tapu Bulu of having to use Fightinium Z, or waste its Z-Move, to threaten Corviknight and Celesteela.</p>",
+          "abilities": [
+            "Grassy Surge"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Fightinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Horn Leech",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "High Horsepower",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 493772,
+                "username": "bellchime"
+              },
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

@@ -1,0 +1,169 @@
+{
+  "name": "Sinistcha-Masterpiece",
+  "alias": "sinistcha-masterpiece",
+  "types": [
+    "Grass",
+    "Ghost"
+  ],
+  "stats": [
+    71,
+    60,
+    106,
+    121,
+    80,
+    70
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Sinistcha-Masterpiece",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p><a href=\"/dex/sv/pokemon/sinistcha/uu/\" hreflang=\"en\">Sinistcha</a> is a potent setup sweeper thanks to a variety of tools at its disposal: high Special Attack, great Defense, Heatproof, Calm Mind to shore up its Special Defense, and access to healing through Matcha Gotcha and Strength Sap, which can both also cripple opposing physical attackers. Strength Sap provides a way to get bigger bursts of recovery while also lowering the opponent's Attack, letting Sinistcha take hits from the likes of <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a> and <a href=\"/dex/sv/pokemon/arcanine-hisui/uu/\" hreflang=\"en\">Hisuian Arcanine</a> and in turn use them to set up Calm Mind. Heatproof provides Sinistcha with a neutrality to Fire-type attacks, which is useful for taking on Hisuian Arcanine. Leftovers provides passive recovery alongside Sinistcha's healing moves, while Heavy-Duty Boots keeps it healthy through repeated switches. 96 Speed EVs let Sinistcha outspeed Adamant <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a>, with the rest invested to maximize its physical bulk. Tera Poison allows Sinistcha to avoid Toxic from <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> and <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a> and resist <a href=\"/dex/sv/pokemon/okidogi/uu/\" hreflang=\"en\">Okidogi</a>'s STAB attacks, as well as preventing Toxic Chain, while Tera Fairy can be used instead to help Sinistcha check <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a> while gaining a resistance to Dark-type moves from <a href=\"/dex/sv/pokemon/tyranitar/uu/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>. However, both of these Tera types take away Sinistcha's ability to spinblock, and Tera Poison makes it significantly weaker to <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, so Sinistcha should only be Terastallized when necessary.</p>\n<p>Sinistcha fits particularly well on hazard stacking teams, where entry hazard setters like Excadrill, <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>, <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a>, and <a href=\"/dex/sv/pokemon/rhyperior/uu/\" hreflang=\"en\">Rhyperior</a> benefit from its spinblocking and incredible matchup against Excadrill, the tier's best Rapid Spinner. In turn, Excadrill provides an answer to Latios, which can threaten Sinistcha if it doesn't have any Calm Mind boosts yet, especially if it is using Tera Poison. Cobalion also makes an excellent teammate, using Justified to provide a great answer to many Dark-types, like Mandibuzz, which otherwise easily uses Defog in front of Sinistcha, and <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a>, which resists both of Sinistcha's STAB moves and heals off burns with Jungle Healing. Rhyperior and Sandy Shocks are teammates that can both pressure both <a href=\"/dex/sv/pokemon/zapdos/uu/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>, which outspeed and threaten Sinistcha. Tornadus-T takes advantage of unboosted Sinistcha's middling Special Defense to OHKO it after minor chip damage, and <a href=\"/dex/sv/pokemon/hoopa-unbound/uu/\" hreflang=\"en\">Hoopa-U</a> easily 2HKOes Sinistcha with Hyperspace Fury, so teammates like Latios and Lokix that deal significant damage to them are appreciated. Zapdos also makes a great teammate to punish Pokemon like Okidogi and Tornadus-T with Static, letting Sinistcha outspeed them. <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a> is a particularly annoying Pokemon for Sinistcha to deal with thanks to Unaware, so it needs teammates like Hisuian Arcanine and Greninja that can handle Skeledirge; these two also pressure the Flying-types that give Sinistcha issues.</p>",
+          "abilities": [
+            "Heatproof"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Matcha Gotcha",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 160,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 439018,
+            "username": "Maia"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 620325,
+                "username": "ThatOneApple"
+              },
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Astonish",
+    "Calm Mind",
+    "Curse",
+    "Endure",
+    "Energy Ball",
+    "Foul Play",
+    "Giga Drain",
+    "Grassy Terrain",
+    "Hex",
+    "Hyper Beam",
+    "Imprison",
+    "Iron Defense",
+    "Leaf Storm",
+    "Life Dew",
+    "Magical Leaf",
+    "Matcha Gotcha",
+    "Mega Drain",
+    "Memento",
+    "Nasty Plot",
+    "Night Shade",
+    "Pain Split",
+    "Phantom Force",
+    "Poltergeist",
+    "Protect",
+    "Psych Up",
+    "Rage Powder",
+    "Reflect",
+    "Rest",
+    "Scald",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Solar Beam",
+    "Spite",
+    "Strength Sap",
+    "Stun Spore",
+    "Substitute",
+    "Tera Blast",
+    "Trick Room",
+    "Uproar",
+    "Withdraw"
+  ]
+}

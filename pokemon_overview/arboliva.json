@@ -1,0 +1,587 @@
+{
+  "name": "Arboliva",
+  "alias": "arboliva",
+  "types": [
+    "Grass",
+    "Normal"
+  ],
+  "stats": [
+    78,
+    69,
+    90,
+    125,
+    109,
+    39
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Eject Pack allows for a one-time free entry for Arboliva's teammates after a Leaf Storm; however, with how long Arboliva tends to stay on the field, missing out on Leftovers recovery ends up not being worth it most of the time. On top of that, it is mostly outclassed as a bulky Eject Pack user by <a href=\"/dex/sv/pokemon/exeggutor-alola/zu/\" hreflang=\"en\">Alolan Exeggutor</a>, which is equipped with more threatening Draco Meteor and a better defensive typing, and <a href=\"/dex/sv/pokemon/venusaur/zu/\" hreflang=\"en\">Venusaur</a>, which doesn't miss Leftovers as much thanks to Synthesis. An EV spread that invests in Defense instead of Special Attack can be used to help bolster the team's defensive core against Pokemon such as <a href=\"/dex/sv/pokemon/basculin/zu/\" hreflang=\"en\">Basculin</a>. However, in this case, Grass-types such as Venusaur and <a href=\"/dex/sv/pokemon/dipplin/zu/\" hreflang=\"en\">Dipplin</a> are preferred for their better matchup into Fighting-types like <a href=\"/dex/sv/pokemon/hitmontop/zu/\" hreflang=\"en\">Hitmontop</a> and <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a>.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Venusaur</strong>: Arboliva is never able to threaten a Venusaur above half HP, and Venusaur tends to be difficult to switch into, with even its checks usually disliking being hit by Knock Off, Leech Seed, or Sludge Bomb, especially with the latter's poison chance.</p>\n<p><strong>Poison-types</strong>: <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> can shrug off Arboliva's attacks and retaliate with Knock Off and Poison Jab to disassemble Arboliva. <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a> and <a href=\"/dex/sv/pokemon/toxicroak/zu/\" hreflang=\"en\">Toxicroak</a> can switch in at least once and fire back with their strong Poison-type STAB moves.</p>\n<p><strong>Special Walls and Tanks</strong>: <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a>, <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a>, and <a href=\"/dex/sv/pokemon/articuno/zu/\" hreflang=\"en\">Articuno</a> can all stomach Arboliva's hits and respond back with super effective moves. The likes of <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a>, <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a>, and <a href=\"/dex/sv/pokemon/vikavolt/zu/\" hreflang=\"en\">Vikavolt</a> can switch in and immediately threaten Arboliva back, since it's so slow.</p>\n<p><strong>Quiver Dance Sweepers</strong>: Arboliva is unable to do much to stop Quiver Dance sweepers such as <a href=\"/dex/sv/pokemon/masquerain/zu/\" hreflang=\"en\">Masquerain</a> and <a href=\"/dex/sv/pokemon/lilligant/zu/\" hreflang=\"en\">Lilligant</a>. It gives them a free opportunity to set up and relies on its teammates to prevent a sweep.</p>",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Arboliva",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Arboliva serves as a devastating wallbreaker, utilizing its excellent STAB combination and solid coverage to OHKO or 2HKO almost the entire tier. Hyper Voice serves as an excellent neutral attack, dealing massive damage to foes like <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a> and <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a>. Leaf Storm is preferred as its Grass-type STAB, maximizing damage against special walls like <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a> while potentially OHKOing foes like <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> and <a href=\"/dex/sv/pokemon/spiritomb/zu/\" hreflang=\"en\">Spiritomb</a>. Earth Power helps Arboliva hit <a href=\"/dex/sv/pokemon/perrserker/zu/\" hreflang=\"en\">Perrserker</a> and <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> while Alluring Voice serves as effective coverage against the likes of <a href=\"/dex/sv/pokemon/virizion/zu/\" hreflang=\"en\">Virizion</a> and <a href=\"/dex/sv/pokemon/lurantis/zu/\" hreflang=\"en\">Lurantis</a> while being an excellent tertiary STAB option post Terastallization. Tera Fairy is used for survivability reasons, flipping its matchup against foes like <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a> and the previously mentioned Virizion. The given EV spread allows Arboliva to outpace <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a> and <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a> to avoid being threatened by their super effective attacks before it can break them.</p>\n<p>Arboliva greatly appreciates pivoting teammates that can help safely bring it in like <a href=\"/dex/sv/pokemon/basculin/zu/\" hreflang=\"en\">Basculin</a>, <a href=\"/dex/sv/pokemon/vikavolt/zu/\" hreflang=\"en\">Vikavolt</a>, and Primeape, with it working alongside them to break down opposing teams. Physically offensive teammates like <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a>, <a href=\"/dex/sv/pokemon/glastrier/zu/\" hreflang=\"en\">Glastrier</a>, and <a href=\"/dex/sv/pokemon/lycanroc/zu/\" hreflang=\"en\">Lycanroc</a> appreciate Arboliva's ability to threaten massive damage to defensive foes like Regirock and Spiritomb; in turn, they pressure walls Arboliva struggles with like Cryogonal. Entry hazard support from the likes of <a href=\"/dex/sv/pokemon/sandslash/zu/\" hreflang=\"en\">Sandslash</a> and Mesprit help augment Arboliva's wallbreaking, making damage stick on the likes of Muk while potentially pushing them into range to be 2HKOed by Leaf Storm and Hyper Voice, respectively. Defensive Mesprit is a particularly excellent teammate for Arboliva, as it is able to provide a variety of utility options between Knock Off to remove Eviolite and Leftovers, U-turn for momentum, hazard support with Stealth Rock, and Encore to stop Muk in its tracks. It also works well with Arboliva defensively, where the former handles Fighting-type foes, while the latter handles Ghost-types like <a href=\"/dex/sv/pokemon/trevenant/zu/\" hreflang=\"en\">Trevenant</a> and Spiritomb. Defensive teammates like Regirock, Glastrier, and Weezing help cover for Arboliva’s weaknesses to common threats like Charizard, <a href=\"/dex/sv/pokemon/sneasel/zu/\" hreflang=\"en\">Sneasel</a>, and Virizion.</p>",
+          "abilities": [
+            "Seed Sower"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyper Voice",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Alluring Voice",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 72,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 184
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Arboliva",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Seed Sower"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Ghost",
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 156,
+              "spa": 8,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Bulky Attacker",
+          "pokemon": "Arboliva",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Arboliva is a solid bulky attacker in ZU due to its incredible longevity from the combination of Leech Seed, Leftovers, and Grassy Terrain and formidable defensive and offensive stats. Outside of Steel-types, such as <a href=\"/dex/sv/pokemon/magneton/zu/\" hreflang=\"en\">Magneton</a> and <a href=\"/dex/sv/pokemon/orthworm/zu/\" hreflang=\"en\">Orthworm</a>, and <a href=\"/dex/sv/pokemon/trevenant/zu/\" hreflang=\"en\">Trevenant</a>, both of which still do not enjoy switching into Arboliva's attacks, the combination of Leaf Storm and Hyper Voice is unresisted in ZU. Giga Drain is a solid alternative to Leaf Storm that helps in prolonged one-on-ones but lacks immediate power; Leaf Storm can pickup 2HKOs on foes like <a href=\"/dex/sv/pokemon/mesprit/zu/\" hreflang=\"en\">Mesprit</a> and <a href=\"/dex/sv/pokemon/whimsicott/zu/\" hreflang=\"en\">Whimsicott</a>. Leech Seed helps Arboliva fend off many Pokemon, especially in tandem with Strength Sap, which is great when up against physical attackers such as <a href=\"/dex/sv/pokemon/lycanroc/zu/\" hreflang=\"en\">Lycanroc</a> and <a href=\"/dex/sv/pokemon/perrserker/zu/\" hreflang=\"en\">Perrserker</a>. Protect can be ran instead, which lets Arboliva safely accumulate healing. 92 Speed EVs let Arboliva outspeed base 50 Speed Pokemon such as <a href=\"/dex/sv/pokemon/muk/zu/\" hreflang=\"en\">Muk</a> and <a href=\"/dex/sv/pokemon/regirock/zu/\" hreflang=\"en\">Regirock</a>. Tera Poison and Tera Ghost help Arboliva turn the tables on the plethora of Fighting-types in ZU such as <a href=\"/dex/sv/pokemon/primeape/zu/\" hreflang=\"en\">Primeape</a> and <a href=\"/dex/sv/pokemon/sneasel-hisui/zu/\" hreflang=\"en\">Hisuian Sneasel</a>. While Ghost provides a Fighting immunity, Poison is usually preferred due to its immunity to poison and neutrality to Dark.</p>\n<p>Bulky attacker Arboliva fits on slower-paced bulky offense and balance teams and works best when paired with Pokemon that are able to make great use of the Grassy Terrain it provides such as Muk and <a href=\"/dex/sv/pokemon/spiritomb/zu/\" hreflang=\"en\">Spiritomb</a>. Arboliva's worst matchup is <a href=\"/dex/sv/pokemon/venusaur/zu/\" hreflang=\"en\">Venusaur</a>, which is immune to Leech Seed, is able to shrug off Arboliva's Grass-type attacks, and make progress with Knock Off or Sludge Bomb, so Pokemon who are well equipped at dealing with Venusaur such as Muk, <a href=\"/dex/sv/pokemon/cryogonal/zu/\" hreflang=\"en\">Cryogonal</a> and Orthworm make for solid teammates. Spiritomb provides a solid switch-in to Fighting- and Poison-type attacks, while Grassy Terrain creates many setup opportunities for it. Other Fighting- and Poison-resistant Pokemon like <a href=\"/dex/sv/pokemon/sandslash/zu/\" hreflang=\"en\">Sandslash</a> and <a href=\"/dex/sv/pokemon/weezing/zu/\" hreflang=\"en\">Weezing</a> also work well. Regirock and Muk are great switch-ins to Fire-types such as <a href=\"/dex/sv/pokemon/charizard/zu/\" hreflang=\"en\">Charizard</a> and <a href=\"/dex/sv/pokemon/magmortar/zu/\" hreflang=\"en\">Magmortar</a>, and they also enjoy the passive recovery Grassy Terrain provides. Arboliva is often a liability against setup sweepers, especially against Quiver Dance users like <a href=\"/dex/sv/pokemon/lilligant/zu/\" hreflang=\"en\">Lilligant</a>, which makes some sort of setup prevention, like Prankster Encore from Whimsicott and <a href=\"/dex/sv/pokemon/sableye/zu/\" hreflang=\"en\">Sableye</a> or Roar from Charizard, preferred.</p>",
+          "abilities": [
+            "Seed Sower"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyper Voice",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 164,
+              "spd": 0,
+              "spe": 92
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 598623,
+            "username": "BaitWiz"
+          },
+          {
+            "user_id": 610452,
+            "username": "yo cho"
+          },
+          {
+            "user_id": 601970,
+            "username": "sleid"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 543866,
+                "username": "5Dots"
+              },
+              {
+                "user_id": 634210,
+                "username": "kriegueur"
+              },
+              {
+                "user_id": 626095,
+                "username": "sinnabyss"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive (Normal)",
+          "pokemon": "Arboliva",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Seed Sower"
+          ],
+          "items": [
+            "Eject Button",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Strength Sap",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This analysis was for Battle Stadium Singles Regulation C, which ended on June 30th, 2022. Since then, this Pokemon's viability has massively dropped off, and it is no longer relevant. Using this Pokemon in today's metagame is not advised unless you have an extremely niche, hyper-specific need to cover.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "pokemon": "Arboliva",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>With a superb special stat line, Seed Sower, and good moveset coverage, Arboliva can be a deceptively strong and long-living Assault Vest user!</p>\n</li>\n<li>\n<p><strong>Seed Sower</strong>: Once activated, Grassy Terrain’s passive recovery and boosting of Grass-type attacks like Giga Drain can help Arboliva survive longer than expected. Grassy Terrain also halving Earthquake’s power is greatly appreciated by bulky teammates like <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a>, <a href=\"/dex/sv/pokemon/arcanine/battle-stadium-singles/\" hreflang=\"en\">Arcanine</a>, and <a href=\"/dex/sv/pokemon/iron-hands/battle-stadium-singles/\" hreflang=\"en\">Iron Hands</a>.</p>\n</li>\n<li>\n<p><strong>Dazzling Gleam</strong>: This move keeps Arboliva from becoming setup bait against foes like offensive <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>, and is also your best move into <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a> before Tera.</p>\n</li>\n<li>\n<p><strong>Tera Blast</strong>: Tera Blast is a great option for hitting types that Arboliva lacks natural coverage for. Tera Fire lets Arboliva hit Steel-types like <a href=\"/dex/sv/pokemon/scizor/battle-stadium-singles/\" hreflang=\"en\">Scizor</a> and Tera Electric punishes Tera Flying users like <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a>. Both Tera Fire and Tera Electric cover <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a> as well.</p>\n</li>\n<li>\n<p><strong>Mirror Coat</strong>: This set’s massive special bulk can make getting one-shots with Mirror Coat awkward, but it is still a great option, particularly against boosted or super effective hits. Bear in mind though that this won’t work against <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> as long as it keeps its Dark typing.</p>\n</li>\n<li>\n<p><strong>Leaf Storm</strong>: Leaf Storm trades consistency for a single turn of high burst damage and can be worth it if investing in Special Attack.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Arboliva’s raw special stats make it capable of tanking super effective hits without using Tera. Nonetheless, Tera is still a strong tool to extend Arboliva’s uptime and contest matchups that would otherwise capitalize on its mediocre defensive typing.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: Tera Fire can flip matchups against Focus Sash <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and Choice Scarf Chi-Yu when healthy. If running Tera Blast, it also gives Arboliva the opportunity to contest Steel-types more effectively. Be aware, though, that this significantly worsens other key matchups, like <a href=\"/dex/sv/pokemon/rotom-wash/battle-stadium-singles/\" hreflang=\"en\">Rotom-W</a>.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Tera Poison is a solid defensive option, especially into Toxic abusers like <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/clodsire/battle-stadium-singles/\" hreflang=\"en\">Clodsire</a>. Notably, it flips several weaknesses, blocks Toxic, and allows for absorbing Toxic Spikes later in the match.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric is Gholdengo's worst nightmare. It gives a resistance to Make It Rain, blocks Thunder Wave from defensive sets, and punishes Tera Flying usage that is meant to get around Earth Power. On top of that, Arboliva still hits Corviknight very hard.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is another great defensive option for neutralizing most of Arboliva's weaknesses, and the extra power behind Dazzling Gleam can make it easier to break defensive Dragonite variants.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Tera Grass removes Arboliva’s Fighting weakness while maintaining Spore immunity, letting it check <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>. If both Tera and Grassy Terrain are active, Modest Giga Drain can even 2HKO Breloom!</p>\n</li>\n<li>\n<p><strong>Ground</strong>: While not as strong defensively, invested Tera Earth Power can OHKO uninvested Chi-Yu and Gholdengo.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>236 HP / 4 Def / 140 SpA / 124 SpD / 4 Spe with Modest</strong>: This spread balances bulk and power, avoiding the 2HKO from Choice Specs Gholdengo's Make It Rain and almost always surviving Modest Chi-Yu’s Fire Blast before Tera! If running Tera Ground, there are enough Special Attack EV’s to turn Earth Power into an OHKO against uninvested Chi-Yu and Gholdengo. The Speed EV's Speed tie with 4 Speed <a href=\"/dex/sv/pokemon/gastrodon/battle-stadium-singles/\" hreflang=\"en\">Gastrodon</a>.</p>\n</li>\n<li>\n<p><strong>236 HP / 252 SpA / 20 SpD with Modest</strong>: This simple spread still provides plenty of bulk while maximizing Special Attack, working nicely with Leaf Storm and Tera Types that boost Arboliva's coverage moves. If Grassy Terrain is present, fully invested Leaf Storm has a 75% chance of OHKOing 4 Special Defense <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a>. The bulk investment lets Arboliva always avoid the 2HKO from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Mystical Fire after Grassy Terrain recovery.</p>\n</li>\n<li>\n<p><strong>236 HP / 20 SpD / 252 Spe with Modest</strong>: While maximum Speed investment may seem a bit strange, it can be worth it when running Tera Fire Tera Blast to get the jump on Scizor, Corviknight and the rare Timid <a href=\"/dex/sv/pokemon/amoonguss/battle-stadium-singles/\" hreflang=\"en\">Amoonguss</a>.</p>\n</li>\n<li>\n<p><strong>236 HP / 4 Def / 148 SpA / 20 SpD / 100 Spe with Modest</strong>: This alternative Speed spread gives Arboliva a nice boost in Special Attack while still letting it outrun 4 Speed <a href=\"/dex/sv/pokemon/azumarill/battle-stadium-singles/\" hreflang=\"en\">Azumarill</a>. This is usually more than enough Speed to outrun <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> as well.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Seed Sower"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Fire",
+            "Poison",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Mirror Coat",
+                "type": null
+              },
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 236,
+              "atk": 0,
+              "def": 4,
+              "spa": 140,
+              "spd": 124,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 516307,
+            "username": "Photon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 545372,
+                "username": "Clas"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-5 Points</p>\n<p><strong>Overview</strong>: Arboliva is a relatively bulky Normal- and Grass-type Pokemon with access to multiple health-restoring tools for itself and its teammates. It boasts high Special Attack, strong STAB options, and two useful utility abilities in Harvest and Seed Sower, which sets it apart from other similarly priced Grass-types. Despite its versatility, Arboliva has some drawbacks: it is physically frail without investment, it has several common type weaknesses, it gets outsped by most foes, and it cannot set up offensively, leaving it vulnerable to foes that can boost Special Defense or resist its STAB and coverage moves.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Utility / Support</strong>: Arboliva offers strong team support tools, such as Strength Sap to weaken physical attackers, Harvest to stay healthy against many neutral attacks with Sitrus Berries, and Leech Seed to chip away at bulkier foes while pivoting or setting up Substitute. It can also use Light Screen, Reflect, and Memento to set the stage for allies to set up and sweep to end games.</p>\n<p><strong>Wallbreaker</strong>: Arboliva can deal significant damage with its STAB moves and coverage options like Earth Power and Alluring Voice, particularly when paired with Choice Specs, Life Orb, or Throat Spray. Its low Speed and Seed Sower enable it to take hits and boost its Grass-type moves on the same turn while sustaining itself with healing.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Hyper Voice, Tera Blast, Energy Ball, Giga Drain, Leaf Storm, Grass Knot</p>\n<p><strong>Utility Moves</strong>: Encore, Leech Seed, Strength Sap, Memento, Reflect, Light Screen, Substitute</p>\n<p><strong>Coverage</strong>: Earth Power, Alluring Voice, Pollen Puff</p>\n<h3>Niche Moves</h3>\n<p><strong>Endure</strong>: Arboliva can guarantee a Seed Sower activation without getting knocked out or ensure a Custap Berry activation on the next turn with Endure.</p>\n<p><strong>Mirror Coat</strong>: Against foes that Arboliva may struggle to damage directly, Mirror Coat can deal double the damage taken back at the attacker.</p>\n<h3>Common Items</h3>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry paired with Harvest allows Arboliva to keep itself healthy while dealing damage or disrupting foes further. It can also be used alongside Seed Sower to allow Arboliva multiple chances to live attacks and set up Grassy Terrain.</p>\n<p><strong>Damage-boosting Items</strong>: Choice Specs and Life Orb both allow Arboliva to deal maximum damage to foes that may expect more supportive or disruptive sets, breaking through teams without strong resistances.</p>\n<p><strong>Leftovers</strong>: With Leftovers and Grassy Terrain, Arboliva heals a significant amount per turn, making it difficult to remove without opposing setup and acting as a more consistent but less immediate alternative to Sitrus Berry.</p>\n<h3>Niche Items</h3>\n<p><strong>Throat Spray</strong>: Arboliva’s only real way of boosting its Special Attack without being locked in is by using Throat Spray in tandem with either Hyper Voice or Alluring Voice, allowing it to deal damage equivalent to using Choice Specs with the freedom to use multiple attacks or support options.</p>\n<p><strong>Assault Vest</strong>: Arboliva has just enough coverage to consistently use Assault Vest to allow it to absorb multiple special attacks, while Seed Sower both boosts its STAB moves and gives it passive recovery alongside Giga Drain.</p>\n<p><strong>Custap Berry</strong>: Arboliva has defensive bulk and options to consistently survive attacks while being knocked to low HP, allowing it to catch foes off-guard with a strong priority attack on the following turn that can be potentially repeated thanks to Harvest and either Protect, Endure, or good luck.</p>\n<p><strong>Heavy-Duty Boots</strong>: If Arboliva is used as a defensive pivot, it can utilize Heavy-Duty Boots to avoid taking repeated entry hazard damage if its team does not have a strong form of hazard removal otherwise.</p>\n<p><strong>Eject Button</strong>: On expected attacks, Arboliva can switch in, set Grassy Terrain, and immediately switch out with Eject Button to gain positive momentum and potentially give a teammate room to set up.</p>\n<h3>Tera</h3>\n<p>Arboliva is a strong option as a cheap secondary Tera captain, as it can use Tera Blast as a reliable STAB move both before and after it Terastallizes, and it appreciates the offensive and defensive flexibility. Tera Normal can let Arboliva blow holes in teams with a limited amount of Normal-resistant Pokemon. Its own Terrain can be combined with Tera Steel, Poison, and Fire to allow temporary resistance to Earthquake alongside a better defensive profile. Tera Ground and Fairy can also flip some of its weaknesses into resistances while boosting the damage of its coverage options without needing Tera Blast.</p>\n<h3>Draft Strategy</h3>\n<p>Arboliva provides Terrain, defensive utility, and reasonable Special Attack for teams on a budget looking to fill multiple roles. The bulk and typing can occasionally be utilized for Ground-weak teammates and Unburden users, although it is not something that should be regularly relied upon. It works best as an occasional check to specific foes, allowing it to weaken them and open up opportunities for its teammates to shine.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Bulky Grass-resistant Pokemon</strong>: Arboliva’s dual STAB moves are resisted by most Steel-types, and specially defensive foes are relatively unbothered, leaving it with Earth Power and Leech Seed to prevent itself from being setup fodder. Foes like <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> take minimal damage and threaten with super effective coverage in return.</p>\n<p><strong>Knock Off Users</strong>: Arboliva typically relies heavily on its item, especially with Harvest sets, so Knock Off from foes like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> can heavily reduce its effectiveness.</p>\n<p><strong>Taunt / Encore</strong>: Most of Arboliva's usefulness relies on using status moves, so Taunt and Encore from foes like <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a> can force it to switch out.</p>\n<p><strong>U-turn</strong>: If Arboliva switches in on U-turn, it takes super effective damage while losing momentum and letting the opponent easily put themselves in a better position.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 614716,
+            "username": "Xand"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Alluring Voice",
+    "Bullet Seed",
+    "Charm",
+    "Dazzling Gleam",
+    "Earth Power",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Flail",
+    "Fling",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Terrain",
+    "Growth",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Leaf Storm",
+    "Leech Seed",
+    "Light Screen",
+    "Magical Leaf",
+    "Mega Drain",
+    "Memento",
+    "Metronome",
+    "Mirror Coat",
+    "Petal Blizzard",
+    "Petal Dance",
+    "Pollen Puff",
+    "Protect",
+    "Psych Up",
+    "Razor Leaf",
+    "Reflect",
+    "Rest",
+    "Safeguard",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Solar Beam",
+    "Solar Blade",
+    "Strength Sap",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Scent",
+    "Swift",
+    "Synthesis",
+    "Tackle",
+    "Tera Blast",
+    "Terrain Pulse",
+    "Trailblaze",
+    "Weather Ball"
+  ]
+}

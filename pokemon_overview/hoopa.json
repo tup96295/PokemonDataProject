@@ -1,0 +1,638 @@
+{
+  "name": "Hoopa",
+  "alias": "hoopa",
+  "types": [
+    "Psychic",
+    "Ghost"
+  ],
+  "stats": [
+    80,
+    110,
+    60,
+    150,
+    130,
+    70
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Hoopa",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Scarf Hoopa is an effective wallbreaker and cleaner thanks to its astronomically high Special Attack stat combined with its great STAB moves and solid movepool that lets it threaten common defensive Pokemon such as <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a>, <a href=\"/dex/sv/pokemon/bellibolt/pu/\" hreflang=\"en\">Bellibolt</a>, and <a href=\"/dex/sv/pokemon/venusaur/pu/\" hreflang=\"en\">Venusaur</a>. Psyshock is the generally superior Psychic-type move, letting it more easily break through common specially defensive Pokemon like <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a>, <a href=\"/dex/sv/pokemon/dudunsparce/pu/\" hreflang=\"en\">Dudunsparce</a>, and <a href=\"/dex/sv/pokemon/goodra/pu/\" hreflang=\"en\">Goodra</a>. Alternatively, Psychic has more power, hitting the likes of Bellibolt and <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a> stronger than Psyshock. Focus Blast synergizes well with Hoopa's STAB moves, hitting Dark-types such as <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a>, <a href=\"/dex/sv/pokemon/bombirdier/pu/\" hreflang=\"en\">Bombirdier</a>, and <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a> that would otherwise hinder Hoopa's offensive progress. Trick is a useful utility move, hampering Pokemon such as <a href=\"/dex/sv/pokemon/milotic/pu/\" hreflang=\"en\">Milotic</a> and <a href=\"/dex/sv/pokemon/altaria/pu/\" hreflang=\"en\">Altaria</a> that Hoopa would otherwise do lackluster damage to. Tera Fighting further powers up Focus Blast, letting it do things such as 2HKO Bellibolt and <a href=\"/dex/sv/pokemon/grimmsnarl/pu/\" hreflang=\"en\">Grimmsnarl</a> and potentially OHKO non-Assault Vest <a href=\"/dex/sv/pokemon/duraludon/pu/\" hreflang=\"en\">Duraludon</a> and Wo-Chien. It also presents amazing defensive benefits, giving Hoopa a resistance to Sucker Punch from <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a> and <a href=\"/dex/sv/pokemon/zoroark/pu/\" hreflang=\"en\">Zoroark</a> and a neutrality to <a href=\"/dex/sv/pokemon/houndstone/pu/\" hreflang=\"en\">Houndstone</a>'s Shadow Sneak. Alternatively, Tera Ghost further powers up Shadow Ball, letting Hoopa 2HKO Altaria and OHKO <a href=\"/dex/sv/pokemon/salazzle/pu/\" hreflang=\"en\">Salazzle</a> while improving Hoopa's ability to clean late-game.</p>\n<p>Choice Scarf Hoopa fits best on offensive teams as both a form of speed control and a fast wallbreaker and capable of overwhelming both offensive and defensive foes alike. Hoopa's STAB moves are resisted by Dark-types, which leaves it vulnerable to being taken advantage of by Pokemon like Scrafty, Skuntank, and Zoroark, relying on the inaccurate Focus Blast to hit them. As a result, Pokemon that can beat Dark-types such as Florges, <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a>, and <a href=\"/dex/sv/pokemon/pawmot/pu/\" hreflang=\"en\">Pawmot</a> make for excellent partners, beating these threats while appreciating Hoopa's ability to break through the likes of Galarian Slowbro, <a href=\"/dex/sv/pokemon/palossand/pu/\" hreflang=\"en\">Palossand</a>, and Houndstone. Additionally, these Pokemon appreciate Hoopa's speed control, opening them up to performing other roles. They can also absorb Knock Off, which lets Hoopa both maintain its speed control and its longevity. Entry hazard setters such as Mudsdale, Bombirdier, and <a href=\"/dex/sv/pokemon/sandslash-alola/pu/\" hreflang=\"en\">Alolan Sandslash</a> heavily appreciate Hoopa's capability as a spinblocker while helping chip down foes such as Bellibolt, <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-H</a>, and <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a> for Hoopa to KO. Other wallbreakers such as <a href=\"/dex/sv/pokemon/sneasel/pu/\" hreflang=\"en\">Sneasel</a> and Zoroark can help wear down Dark-types such as Skuntank, <a href=\"/dex/sv/pokemon/qwilfish-hisui/pu/\" hreflang=\"en\">Hisuian Qwilfish</a>, and Grimmsnarl while appreciating Hoopa's high Speed with Choice Scarf.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Hoopa",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hoopa is one of the most powerful special wallbreakers thanks to its spammable Ghost- and Psychic-type STAB moves. Its good special bulk gives it opportunities to switch in and threaten foes like <a href=\"/dex/sv/pokemon/florges/pu/\" hreflang=\"en\">Florges</a>, <a href=\"/dex/sv/pokemon/slowbro-galar/pu/\" hreflang=\"en\">Galarian Slowbro</a>, <a href=\"/dex/sv/pokemon/articuno-galar/pu/\" hreflang=\"en\">Galarian Articuno</a>, and <a href=\"/dex/sv/pokemon/tatsugiri/pu/\" hreflang=\"en\">Tatsugiri</a>. Psyshock's advantage over Psychic is targeting specially bulky Pokemon like Florges and <a href=\"/dex/sv/pokemon/goodra/pu/\" hreflang=\"en\">Goodra</a>, and it also circumvents the Special Defense boosts of setup sweepers like Quiver Dance <a href=\"/dex/sv/pokemon/frosmoth/pu/\" hreflang=\"en\">Frosmoth</a> and Calm Mind <a href=\"/dex/sv/pokemon/dudunsparce/pu/\" hreflang=\"en\">Dudunsparce</a>. Focus Blast nails Dark-types like <a href=\"/dex/sv/pokemon/scrafty/pu/\" hreflang=\"en\">Scrafty</a> and <a href=\"/dex/sv/pokemon/wo-chien/pu/\" hreflang=\"en\">Wo-Chien</a>, and Hoopa can use it to blast past bulky Fighting-weak Pokemon like <a href=\"/dex/sv/pokemon/rhydon/pu/\" hreflang=\"en\">Rhydon</a>, <a href=\"/dex/sv/pokemon/naclstack/pu/\" hreflang=\"en\">Naclstack</a>, and specially defensive Dudunsparce. Trick punishes passive walls Hoopa might otherwise struggle to break through, such as <a href=\"/dex/sv/pokemon/qwilfish-hisui/pu/\" hreflang=\"en\">Hisuian Qwilfish</a>, and it also disrupts slower setup sweepers like Bulk Up Scrafty. Tera Fighting remedies Hoopa's major vulnerability to Dark-type moves, notably Sucker Punch and Knock Off, while powering up its Focus Blast to the point it can OHKO Wo-Chien.</p>\n<p>VoltTurn teams appreciate Hoopa as a strong wallbreaker they can bring in using pivots like <a href=\"/dex/sv/pokemon/rotom-heat/pu/\" hreflang=\"en\">Rotom-H</a>, <a href=\"/dex/sv/pokemon/electrode-hisui/pu/\" hreflang=\"en\">Hisuian Electrode</a>, and <a href=\"/dex/sv/pokemon/persian-alola/pu/\" hreflang=\"en\">Alolan Persian</a>, and it's especially noteworthy for busting through problematic tanks and walls like Rhydon, <a href=\"/dex/sv/pokemon/golurk/pu/\" hreflang=\"en\">Golurk</a>, and <a href=\"/dex/sv/pokemon/mudsdale/pu/\" hreflang=\"en\">Mudsdale</a>. Slow and bulky pivots like <a href=\"/dex/sv/pokemon/bellibolt/pu/\" hreflang=\"en\">Bellibolt</a> are especially helpful at managing Hoopa's poor physical bulk by bringing it in safely against physical attackers like <a href=\"/dex/sv/pokemon/arcanine/pu/\" hreflang=\"en\">Arcanine</a>, <a href=\"/dex/sv/pokemon/decidueye-hisui/pu/\" hreflang=\"en\">Hisuian Decidueye</a>, and <a href=\"/dex/sv/pokemon/hariyama/pu/\" hreflang=\"en\">Hariyama</a>. Hoopa's solid special bulk makes it a useful answer to special attackers like Florges, Rotom-H, and Galarian Articuno, which is much appreciated by specially frail Pokemon like Tatsugiri, Golurk, and Mudsdale. Psychic-weak Pokemon, such as <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/pu/\" hreflang=\"en\">Paldean Tauros-F</a>, similarly benefit from Hoopa checking many foes like Galarian Articuno and <a href=\"/dex/sv/pokemon/uxie/pu/\" hreflang=\"en\">Uxie</a>. Hoopa's 4x Dark and Ghost weaknesses make it reliant on teammates like Florges, <a href=\"/dex/sv/pokemon/skuntank/pu/\" hreflang=\"en\">Skuntank</a>, and Dudunsparce. Physically offensive revenge killers like <a href=\"/dex/sv/pokemon/bruxish/pu/\" hreflang=\"en\">Bruxish</a> and <a href=\"/dex/sv/pokemon/pawmot/pu/\" hreflang=\"en\">Pawmot</a> are a major pain for Hoopa, which can be mitigated by having switch-ins like Bellibolt, <a href=\"/dex/sv/pokemon/houndstone/pu/\" hreflang=\"en\">Houndstone</a>, and <a href=\"/dex/sv/pokemon/palossand/pu/\" hreflang=\"en\">Palossand</a> at the ready. Hoopa is quite slow for a wallbreaker, so it benefits from paralysis users like Dudunsparce and <a href=\"/dex/sv/pokemon/grimmsnarl/pu/\" hreflang=\"en\">Grimmsnarl</a>; notably, Grimmsnarl can ease Hoopa's ability to hit the field safely with Parting Shot.</p>",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 452572,
+            "username": "missangelic"
+          },
+          {
+            "user_id": 487308,
+            "username": "BT89"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 567483,
+                "username": "Bella"
+              },
+              {
+                "user_id": 400292,
+                "username": "asa"
+              },
+              {
+                "user_id": 414072,
+                "username": "Yunie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Hoopa",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Fairy",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Substitute + 3 Attacks",
+          "pokemon": "Hoopa",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Fairy",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "All-out Attacker",
+          "pokemon": "Hoopa",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Hoopa",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magician"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Fairy",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 3-5 Points</p>\n<p><strong>Overview</strong>: Hoopa is a threatening low-tier wallbreaker with great Special Attack held back by its typing and mediocre Speed. It also has niche utility as a spinblocker, being able to threaten Rapid Spin users that it can outspeed, although many can carry coverage for it. Unfortunately, being 4x weak to Dark- and Ghost-type moves while having atrocious Defense and minimal coverage outside of the inconsistent Focus Blast means Hoopa can become very predictable and easy for opponents to play around, with the already common Knock Off being something to constantly be wary about.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: With its insane Special Attack, Hoopa can blow holes in opposing teams and even beat opposing special walls with Psyshock. Choice item sets can dish out insane damage and catch foes off guard with Trick, and in matchups where being Choice-locked is more inconsistient, Nasty Plot can be used to further boost damage.</p>\n<p><strong>Setup Sweeper</strong>: With access to Calm Mind and Nasty Plot, Hoopa can be a viable setup sweeper, although it needs more help than other sweepers with its mediocre, and unboostable, Defense and an awkward Speed tier that leaves it moving second versus many foes.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Psychic, Psyshock, Psychic Noise, Shadow Ball</p>\n<p><strong>Setup Moves</strong>: Nasty Plot, Calm Mind</p>\n<p><strong>Utility Moves</strong>: Trick, Destiny Bond, Taunt, Thunder Wave, Substitute, Knock Off</p>\n<p><strong>Coverage</strong>: Focus Blast, Dark Pulse, Energy Ball, Grass Knot, Thunderbolt</p>\n<h3>Niche Moves</h3>\n<p><strong>Trick Room</strong>: Against faster teams, Hoopa can set Trick Room for itself and instantly become a threat.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Scarf</strong>: While not a traditionally fast threat, with a Choice Scarf, Hoopa outspeeds many unboosted foes, allowing it to be a solid revenge killer or sweeper. Additionally, Trick can also be used to cripple foes switching into it.</p>\n<p><strong>Choice Specs</strong>: Choice Specs allows Hoopa to elevate its wallbreaking power further, crippling even the sturdiest of walls thanks to its enormous Special Attack. As with Choice Scarf, Trick can also be used to hinder walls switching into Hoopa.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: With its highly exploitable defensive typing, resistance Berries allow Hoopa to take specific attacks to beat would-be checks or get the jump on an unsuspecting foe. Also, after eating the Berry, Hoopa can steal a foe's item with Magician.</p>\n<p><strong>Other Damage-Boosting Items</strong>: In games where Choice Specs is less valuable, items like Spell Tag, Twisted Spoon, and Life Orb can provide the extra damage while still keeping flexibility with Hoopa's moveset.</p>\n<h3>Tera</h3>\n<p>Hoopa makes for a usable secondary Tera Captain, making great use of Terastallization to shed its bad defensive typing and boost its coverage moves with types like Tera Dark and Fighting. While it does not really want to plan to Terastallize every game, even just the threat of it using Terastallization to avoid a KO from the Dark- and Ghost-type moves it fears so much can make opponents second guess their decisions.</p>\n<h3>Draft Strategy</h3>\n<p>Hoopa is a great budget wallbreaker but is unlikely to break through more than one foe before it is forced out, so partners that can get it back in or handle the attacks that force it out are necessary.</p>\n<p><strong>Knock Off Absorbers</strong>: Knock Off is one of the most widely distributed Dark-type moves, and its spamability against many teams means partners like <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a>, which can punish mindless Knock Off usage, are essential partners for Hoopa.</p>\n<p><strong>Dark- and Ghost-resistant Pokemon</strong>: Pokemon Like <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> are great partners for Hoopa, being able to sponge blows from the Ghost- and Dark-types it forces opponents to bring.</p>\n<p><strong>Entry Hazard Setters</strong>: As a wallbreaker, Hoopa appreciates all the extra chip damage it can get, so Pokemon like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> that can get hazards up and keep them up are valuable partners.</p>\n<p><strong>Offensive Pivots</strong>: Since Hoopa is relatively frail and slow, allies like <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a> and <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a> can force in defensive switch-ins and bring Hoopa in to break through them; this can create a cycle that's very difficult for opponents to break out of.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dark-types</strong>: Being immune to Psychic-type moves and resisting Ghost-type moves, Dark-types are one of the biggest limiting factors for Hoopa. Foes like Ting-Lu, <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, and <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a> can all switch in to Hoopa's STAB attacks and force it out with relative ease.</p>\n<p><strong>Dark- and Ghost-type coverage</strong>: Dark- and Ghost-type moves are widely distributed, and foes usually do not have trouble fitting them onto sets in order to specifically beat Hoopa.</p>\n<p><strong>Faster Foes / Priority</strong>: With its slow Speed and lack of ways to boost it, faster foes like <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a> and Ogerpon can easily force Hoopa out. Additionally, moves like Sucker Punch and Aqua Jet can easily pick off Hoopa.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 404799,
+            "username": "termnal"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Ally Switch",
+    "Astonish",
+    "Brick Break",
+    "Calm Mind",
+    "Confusion",
+    "Dark Pulse",
+    "Destiny Bond",
+    "Drain Punch",
+    "Endure",
+    "Energy Ball",
+    "Expanding Force",
+    "Facade",
+    "Fire Punch",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Foul Play",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Guard Split",
+    "Gunk Shot",
+    "Hyper Beam",
+    "Hyperspace Fury",
+    "Hyperspace Hole",
+    "Ice Punch",
+    "Knock Off",
+    "Lash Out",
+    "Light Screen",
+    "Nasty Plot",
+    "Phantom Force",
+    "Power Split",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Shadow Ball",
+    "Skill Swap",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trick",
+    "Trick Room",
+    "Wonder Room",
+    "Zen Headbutt"
+  ]
+}

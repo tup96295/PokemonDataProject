@@ -1,0 +1,538 @@
+{
+  "name": "Forretress",
+  "alias": "forretress",
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "stats": [
+    75,
+    90,
+    140,
+    60,
+    60,
+    40
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Forretress is generally outclassed by the majority of Pokemon in the tier, though it can leverage its great physical bulk and diverse movepool to carve out a niche on certain team structures. It is incredibly flexible as an entry hazard setter, capable of running Spikes, Stealth Rock, and Toxic Spikes as needed for its team, sometimes using several of these on the same set. With access to Volt Switch, Forretress functions nicely as a slow pivot for teams relying on wallbreakers that can struggle to hit the field consistently, providing safe entry points for teammates like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/breloom/ru/\" hreflang=\"en\">Breloom</a>. While Forretress is a capable spinner for teams that want reliable hazard removal, it competes with a staple Pokemon, <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, which is one of the few Pokemon that can offer more utility than it. However, Forretress can compress both the removal and setter roles into one teamslot, freeing up its teammates at the cost of being a generally inferior Pokemon. This role compression has allowed Forretress to find usage on weather teams and offensive structures that want to stack as many hazards as possible to enable their offensive pieces, notably <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, to clean games consistently.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Forretress has access to Spikes, Stealth Rock, and Toxic Spikes, and it can use any combination of them depending on the needs of the team it is on. Rapid Spin allows it to remove entry hazards from its side. Thunder Wave can be used to enable paralysis-spam structures and slow down foes to free up teammates like <a href=\"/dex/sv/pokemon/crawdaunt/ru/\" hreflang=\"en\">Crawdaunt</a> and <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a>. Counter and Earthquake are both niche picks capable of picking up surprise KOs on threats like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/lucario/ru/\" hreflang=\"en\">Lucario</a>. Eject Button lets Forretress use its bulk to tank an attack and get a teammate on the field safely, which can be vital on weather teams that want to maximize their turns. Red Card can phaze setup sweepers like Bisharp, <a href=\"/dex/sv/pokemon/mew/ru/\" hreflang=\"en\">Mew</a>, and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>. Iron Defense can be used to form strong IronPress sets, though such sets struggle to beat common checks like <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and lack recovery outside of Rest.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Special Attackers</strong>: While Forretress is capable of sponging physical attacks, it struggles to take any special attack thrown its way, even struggling to wall <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> despite resisting its STAB moves. With a plethora of strong special wallbreakers like <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/magnezone/ru/\" hreflang=\"en\">Magnezone</a>, and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> slotting onto teams comfortably, Forretress has to be careful to not get blown away.</p>\n<p><strong>Fire-types</strong>: <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> and <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> can both annihilate Forretress with ease using their Fire-type STAB attacks. <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> does not often run Fire-type attacks, but Rapid Spin can activate its Flame Body, and Talonflame can use Defog against Forretress.</p>\n<p><strong>Disruption</strong>: While Forretress can use its slowness to its advantage at times, it can also be a big hindrance. Encore users like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a> can lock it into an unviable position, using it as setup fodder. Trick users like Choice Scarf Gardevoir and Gengar similarly disrupt Forretress, preventing it from using its utility by giving it a Choice item.</p>",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Forretress",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Forretress is a solid choice for the support slot on teams, compressing multiple key positions into one teamslot. Spikes allows it to pair with a Stealth Rock setter, like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> or <a href=\"/dex/sv/pokemon/rhyperior/ru/\" hreflang=\"en\">Rhyperior</a>, to get up multiple layers of entry hazards. Body Press, with the allocated 164 EVs in Defense, threatens an OHKO on <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> after hazard chip damage. Volt Switch enables Forretress to use its bulk to sponge attacks before slowly pivoting into its teammates, letting frail Pokemon like <a href=\"/dex/sv/pokemon/lilligant-hisui/ru/\" hreflang=\"en\">Hisuian Lilligant</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> hit the field safely. Gyro Ball hits hard against faster foes like <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>. Leftovers provides Forretress with consistent recovery, helping it stick around longer to stack layers of Spikes. Tera Ghost can be used to spinblock against Cyclizar and opposing Forretress, while Tera Fighting can bolster the strength of Body Press to secure OHKOs on strong threats like <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>.</p>\n<p>Despite its naturally defensive profile, Forretress often finds itself on offensively oriented teams, especially on rain and sun teams that can appreciate the entry hazard support and slow pivoting it can provide. With its great bulk and capacity to compress the hazard setter and physical wall roles into one teamslot, offensive structures can more easily stack threats together. Rain is a notable archetype for Forretress, as it can allow teams to use multiple Swift Swim users consistently, such as <a href=\"/dex/sv/pokemon/barraskewda/ru/\" hreflang=\"en\">Barraskewda</a>, <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, and <a href=\"/dex/sv/pokemon/overqwil/ru/\" hreflang=\"en\">Overqwil</a>, without needing to worry as much about how to switch between them in-game. Sun teams use Forretress in a similar capacity, as it allows Hisuian Lilligant, <a href=\"/dex/sv/pokemon/scovillain/ru/\" hreflang=\"en\">Scovillain</a>, and <a href=\"/dex/sv/pokemon/venusaur/ru/\" hreflang=\"en\">Venusaur</a> to more efficiently pair up. Hyper offense teams can pair Forretress with a Ghost-type partner, such as Gengar and Basculegion-F, to spinblock and prompt a Knock Off from Cyclizar; <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> can then take Cyclizar's weaker Knock Off to activate both Weak Armor and Weakness Policy, hitting the field relatively safely while securing multiple boosts and immediately threatening to clean games. Other teammates that appreciate the slow pivots and hazard support provided by Forretress include wallbreakers like <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a> and <a href=\"/dex/sv/pokemon/gallade/ru/\" hreflang=\"en\">Gallade</a>, which can threaten massive damage immediately upon hitting the field.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Ghost",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gyro Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 164,
+              "spa": 0,
+              "spd": 92,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 359771,
+                "username": "GoldCat"
+              },
+              {
+                "user_id": 231398,
+                "username": "feen"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 452572,
+                "username": "missangelic"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Bug</h4>\n<p>Toxic Spikes is an alternative to Spikes, providing poison chip and putting threats on a timer. However, with a majority of types having a relevant Poison-type threat to absorb Toxic Spikes, they can be a struggle to keep up. Counter is an option with Heavy-Duty Boots, making use of Sturdy to provide a Hail Mary against powerful setup sweepers such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>, which Bug would otherwise crumple to. Ice Spinner is an option to catch threats like <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and remove them. Thunder Wave can find utility in slowing down threats like <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and Dragonite, allowing them to be removed by a fellow teammate.</p>",
+      "movesets": [
+        {
+          "name": "Hazard Support (Bug)",
+          "pokemon": "Forretress",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Forretress finds a solid role on Bug teams thanks to its secondary Steel typing and solid support movepool. Spikes provides chip against switch-ins such as <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>. Rapid Spin provides support by removing hazards, allowing teammates like <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a>, <a href=\"/dex/sv/pokemon/slither-wing/monotype/\" hreflang=\"en\">Slither Wing</a>, and <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> to come in safely. Gyro Ball hits Rock- and Ice-types like <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>. Finally, Volt Switch provides safe entry for its teammates thanks to Forretress's low Speed, while Body Press makes use of Forretress's high Defense to put offensive pressure on Steel-types such as <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>. Forretress prefers holding Rocky Helmet, which provides chip to contact attackers like <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, thanks to its solid Defense. Alternatively, Heavy-Duty Boots allows Forretress to safely come in and spin, which pairs well with Sturdy, and Leftovers provides healing, allowing Fortress to stick around longer.</p>\n<p>Choice Scarf Kleavor complements Forretress with Stone Axe by providing Stealth Rock, along with checking Fire- and Flying-type threats including <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>. <a href=\"/dex/sv/pokemon/araquanid/monotype/\" hreflang=\"en\">Araquanid</a>, thanks to its powerful Water-type STAB moves, can similarly threaten Fire-types like <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, along with foes trying to burn Forretress such as <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/skeledirge/monotype/\" hreflang=\"en\">Skeledirge</a>. <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, with Forretress, creates a Steel-type backbone for Bug teams, with Scizor helping to deal with Rock- and Ice-type threats such as <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/minior/monotype/\" hreflang=\"en\">Minior</a>, and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, which can overwhelm Forretress otherwise. Lokix, thanks to its Dark-type STAB moves, can deal with Ghost-types attempting to stop Rapid Spin like Gholdengo, <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. Both can use their powerful priority in Bullet Punch and First Impression, respectively, to catch weakened targets like <a href=\"/dex/sv/pokemon/garganacl/monotype/\" hreflang=\"en\">Garganacl</a>, Iron Boulder, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>. Volcarona can threaten Steel-type foes like Gholdengo, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, which could otherwise freely set up on Forretress. <a href=\"/dex/sv/pokemon/frosmoth/monotype/\" hreflang=\"en\">Frosmoth</a> majorly appreciates Forretress being able to remove Rock-type threats and in response can deal with Flying- and Dragon-type foes like <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>.</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 510430,
+                "username": "Arase"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sticky Web Lead",
+          "pokemon": "Forretress",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Custap Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Explosion",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 0,
+              "atk": 31,
+              "def": 0,
+              "spa": 31,
+              "spd": 18,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Hasty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: Forretress is a solid Pokemon capable of role compression with good typing and physical bulk. Teams that struggle to find entry hazard removal, hazard setting, or slow pivoting can use Forretress as the glue to patch these teams together at a low price tag. That being said, Forretress is essentially outclassed in all of these roles respectively due to its lack of special bulk, general passivity, and dreadful Fire weakness. Since it is very weak and has unideal STAB coverage, foes can very easily switch into Forretress, forcing it to use either Thunder Wave or Volt Switch or else risk losing momentum against the opposing team. Despite heavy flaws, it is regularly drafted due to its role compression and rarity as an affordable Steel-type with vast utility.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Utility</strong>: Forretress can serve as a physical wall with the ability to stack entry hazards, remove hazards from its side of the field, and slow pivot with Volt Switch into threatening teammates. It has even further utility, as it can spread status with Thunder Wave, mitigate damage with dual screens, and check many foes in a pinch due to Sturdy.</p>\n<p><strong>Dedicated Lead</strong>: Forretress can be an effective dedicated lead due to Sturdy, which allows it to always get one or two moves off before fainting. It is typically relied upon to set multiple entry hazards to benefit its teammates, which appreciate the extra chip damage throughout the match.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Gyro Ball, Iron Head, Heavy Slam, Lunge, Pin Missile</p>\n<p><strong>Setup Moves</strong>: Iron Defense, Curse</p>\n<p><strong>Utility Moves</strong>: Rapid Spin, Spikes, Stealth Rock, Toxic Spikes, Volt Switch, Thunder Wave, Light Screen, Reflect, Pain Split</p>\n<p><strong>Coverage</strong>: Body Press, Earthquake, Ice Spinner, Poison Jab, Seed Bomb, Stone Edge, Rock Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Counter</strong>: With its great physical bulk and access to Sturdy, Forretress can always survive at least one physical attack and attempt to trade with a threatening foe with Counter.</p>\n<p><strong>Explosion / Steel Beam</strong>: Forretress can use Explosion or Steel Beam on lead sets to avoid conceding momentum to the opposing team and become less passive by removing itself from the field and dealing solid damage. Steel Beam is generally outclassed by Explosion, but it can be used against physical walls and Rock-types.</p>\n<p><strong>Rock Tomb / Pounce / Bulldoze</strong>: These moves can be used as measures to avoid being set up on by foes by keeping their Speed in check.</p>\n<p><strong>Endure</strong>: Custap Berry sets can run Endure as extra insurance to ensure their Custap Berry will be activated.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots is the premier item on Forretress, as it allows Forretress to avoid being chipped down by entry hazards and keep Sturdy intact.</p>\n<p><strong>Leftovers / Sitrus Berry</strong>: As Forretress lacks reliable recovery, Leftovers and Sitrus Berry can help defensive sets stick around longer to provide more long-term entry hazard control and help allow its wallbreaking teammates in on more occasions.</p>\n<p><strong>Custap Berry</strong>: Custap Berry pairs excellently with Sturdy to allow Forretress one extra move before fainting, typically setting an extra entry hazard or using Explosion or Steel Beam.</p>\n<p><strong>Rocky Helmet</strong>: Since Forretress has great physical bulk, defensive sets commonly use Rocky Helmet as a way to punish the contact attacks Forretress frequently absorbs.</p>\n<h3>Niche Items</h3>\n<p><strong>Red Card</strong>: Red Card functions well with Forretress's bulk and Sturdy as a one-time solution to setup sweepers, as this guarantees they are removed from the field.</p>\n<p><strong>Mental Herb</strong>: Mental Herb can be useful on lead sets to ensure Forretress gets at least one layer of entry hazards off to begin a match. It may also be useful to avoid Encore further into the match, preventing Forretress from being set up on.</p>\n<h3>Tera</h3>\n<p>Forretress should not be considered as a Tera Captain, as it is almost entirely outclassed by its peers. Its lack of longevity and offensive presence make it largely ineffective in this role. If it has to be made a Tera Captain, defensive Tera types such as Tera Water and Fairy are most effective, and Tera Fighting can also make IronPress sets more threatening.</p>\n<h3>Draft Strategy</h3>\n<p>Forretress is drafted to support a team otherwise unable to fit key qualities such as entry hazard control, the coveted Steel-type, and slow pivoting and is often the only Pokemon in its price range that can provide these qualities. As it is a master-of-none and has some clear-cut flaws, Forretress is a niche supportive pick as a cheap way to fill boxes to make sure its teammates are well-supported.</p>\n<p><strong>Wallbreakers</strong>: While not a threatening offensive presence, with its entry hazard stacking and slow pivoting, Forretress can be excellent at facilitating wallbreakers by putting foes in KO range via hazard chip damage or by getting teammates in safely. Pokemon such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a> make for great partners to take advantage of this utility.</p>\n<p><strong>Specially Defensive Pokemon</strong>: Although rather physically bulky, Forretress has poorer special bulk that needs to be covered to form a defensive core. Pokemon such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/scream-tail/draft/\" hreflang=\"en\">Scream Tail</a>, and <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> can help patch up this weakness.</p>\n<p><strong>Fire-resistant Teammates</strong>: Forretress forces opposing Fire-type coverage, as it can be difficult for some Pokemon to break it otherwise. As any common Fire-type coverage move can threaten a KO against Forretress, having Fire-resistant Pokemon like <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a> and <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a> to scout and absorb these attacks is very beneficial.</p>\n<p><strong>Knock Off</strong>: Forretress is most effective when stacking entry hazards and thus requires consistent and effective ways to remove Heavy-Duty Boots from the opposing team. Pokemon such as <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> can very consistently remove items to give its entry hazards their maximum value.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fire-type Attacks</strong>: With very little special bulk and a severe weakness to all Fire-type coverage, Forretress is very easily accounted for via said coverage. Fire-type Pokemon such as <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a> and Gouging Fire can be very tough for Forretress to deal with, and a vast variety of other threats can easily bring coverage to be wary of.</p>\n<p><strong>Entry Hazard Removers</strong>: Forretress provides most of its value through entry hazards chipping at foes throughout the duration of a match due to its lack of offensive ability. As a result, matchups against strong hazard removers such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a> can be challenging, especially if they can freely switch into Forretress.</p>\n<p><strong>Special Wallbreakers</strong>: Although it is rather physically bulky strong neutral special attacks from wallbreakers often threaten Forretress due to its lack of special bulk. Strong special attackers such as <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> can be incredibly threatening.</p>\n<p><strong>Setup Sweepers</strong>: Forretress is often passive, as it has weak attacking stats, a subpar STAB combination, and a weakness to disruption moves. As a result, setup sweepers such as <a href=\"/dex/sv/pokemon/annihilape/draft/\" hreflang=\"en\">Annihilape</a>, <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a>, and Palafin can often switch in on and take advantage of Forretress.</p>\n<p><strong>Disruption</strong>: As Forretress primarily uses supportive moves or Rapid Spin, it can usually be shut down by Taunt or taken advantage of by Encore unless using a Mental Herb. Disrupters such as Tornadus-T and <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> can quickly become awkward for Forretress to deal with.</p>\n<p><strong>Ghost-types</strong>: In matchups where its team relies on Forretress to remove opposing entry hazards, Ghost-types such as <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/skeledirge/draft/\" hreflang=\"en\">Skeledirge</a> block its Rapid Spin and resist or are immune to most of its common attacks, leaving it even more passive than normal.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608304,
+            "username": "jscurf"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 466715,
+                "username": "sablolol"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Entry Hazard Support (Bug)",
+          "pokemon": "Forretress",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Counter lets Forretress deal with physical threats like Gouging Fire and Mega Aerodactyl which otherwise decimates Bug teams.</p>\n<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Sturdy"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Toxic Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Gyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "Counter",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Body Press",
+    "Body Slam",
+    "Bug Bite",
+    "Bug Buzz",
+    "Bulldoze",
+    "Counter",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Drill Run",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Flail",
+    "Flash Cannon",
+    "Giga Drain",
+    "Giga Impact",
+    "Gravity",
+    "Gyro Ball",
+    "Hard Press",
+    "Heavy Slam",
+    "Helping Hand",
+    "Hyper Beam",
+    "Ice Spinner",
+    "Iron Defense",
+    "Iron Head",
+    "Light Screen",
+    "Lunge",
+    "Magnet Rise",
+    "Metal Sound",
+    "Pain Split",
+    "Payback",
+    "Pin Missile",
+    "Poison Jab",
+    "Pounce",
+    "Power Trick",
+    "Protect",
+    "Rain Dance",
+    "Rapid Spin",
+    "Reflect",
+    "Rest",
+    "Reversal",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Tomb",
+    "Rollout",
+    "Sandstorm",
+    "Sand Tomb",
+    "Seed Bomb",
+    "Self-Destruct",
+    "Sleep Talk",
+    "Smart Strike",
+    "Solar Beam",
+    "Spikes",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stone Edge",
+    "Struggle Bug",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thunder Wave",
+    "Toxic Spikes",
+    "Venoshock",
+    "Volt Switch",
+    "Zap Cannon"
+  ]
+}

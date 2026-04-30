@@ -1,0 +1,161 @@
+{
+  "name": "Croagunk",
+  "alias": "croagunk",
+  "types": [
+    "Poison",
+    "Fighting"
+  ],
+  "stats": [
+    48,
+    61,
+    40,
+    61,
+    40,
+    50
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Attacker",
+          "pokemon": "Croagunk",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Dry Skin"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 52,
+              "atk": 188,
+              "def": 116,
+              "spa": 0,
+              "spd": 36,
+              "spe": 116
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Aerial Ace",
+    "Astonish",
+    "Baton Pass",
+    "Belch",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Punch",
+    "Chilling Water",
+    "Coaching",
+    "Counter",
+    "Cross Chop",
+    "Dig",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Earthquake",
+    "Encore",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Feint",
+    "Flatter",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Foul Play",
+    "Gunk Shot",
+    "Headbutt",
+    "Helping Hand",
+    "Ice Punch",
+    "Icy Wind",
+    "Knock Off",
+    "Lash Out",
+    "Low Kick",
+    "Low Sweep",
+    "Mud Shot",
+    "Mud-Slap",
+    "Nasty Plot",
+    "Poison Jab",
+    "Poison Sting",
+    "Protect",
+    "Quick Guard",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Spite",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Super Fang",
+    "Swagger",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder Punch",
+    "Toxic",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Venoshock",
+    "X-Scissor"
+  ]
+}
