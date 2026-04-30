@@ -228,7 +228,7 @@ export default function PokemonBuildPanel({
 
     useEffect(() => {
         const loadMoveCSV = async () => {
-            const res = await fetch("/Move_Stats.csv");
+            const res = await fetch(`${process.env.PUBLIC_URL}/Move_Stats.csv`)
             const text = await res.text();
 
             const lines = text.trim().split(/\r?\n/);
@@ -357,7 +357,7 @@ export default function PokemonBuildPanel({
             .replace(/\s+/g, "-");
 
         try {
-            const res = await fetch(`/pokemon_overview/${name}.json`);
+            const res = await fetch(`${process.env.PUBLIC_URL}/pokemon_overview/${name}.json`);
             const data = await res.json();
             setOverviewData(data);
             setShowOverview(true);
