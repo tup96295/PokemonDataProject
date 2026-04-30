@@ -54,10 +54,10 @@ export default function ComUsage({ theme }) {
 
     const base = formatName(name.split(" ")[0]);
     if (imageSet.has(base)) {
-      return `/pokemon_artwork/${base}.jpg`;
+      return `${process.env.PUBLIC_URL}/pokemon_artwork/${normalize(name)}.jpg`;
     }
 
-    return "/pokemon_artwork/default.png";
+    return `${process.env.PUBLIC_URL}/pokemon_artwork/default.png`;
   };
 
   const loadCSV = async (path) => {
