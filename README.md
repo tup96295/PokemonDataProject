@@ -10,6 +10,7 @@ Clickables --
 
    # Lessons:
    1. Parsing is a pain, most commonly used parsing tool is beautiful soup t it isn't always reliable. If struggling to parse with beautiful soup, ask for help from classmates and professor. If it still doesn't work, find a friend in master level classes.
+   2. Deploying can get messy, best to start project from git so it will be a less struggle when transfering to github. This way, the steps would be more straight forward. Manuel deployment is also a much better option, pain, but reliable
 
  ### `Make sure you are in the "my-app" folder`
   
