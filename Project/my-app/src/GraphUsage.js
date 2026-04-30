@@ -9,8 +9,8 @@ import { normalizePokemonName } from "./normalizePokemon";
 
 const getUsagePath = (battleMode) =>
     battleMode === "singles"
-        ? "/singles/smogon_csv/"
-        : "/doubles/smogon_csv/";
+        ? process.env.PUBLIC_URL + "/singles/smogon_csv/"
+        : process.env.PUBLIC_URL + "/doubles/smogon_csv/";
 
 export default function UsageGraph({
     compareList,

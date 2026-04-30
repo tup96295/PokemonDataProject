@@ -3,7 +3,7 @@ import UsageGraph from "./GraphUsage";
 import GenStats from "./GenStats";
 import PokemonBuildPanel from "./buildPanel";
 
-const POKE_PATH = "/pokemon_data/";
+const POKE_PATH = process.env.PUBLIC_URL + "/pokemon_data/";
 
 const images = require.context(
   "../public/pokemon_artwork",

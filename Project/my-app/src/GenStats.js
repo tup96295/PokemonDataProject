@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import Chart from "chart.js/auto";
 
-const DATA_PATH = "/pokemon_data/";
+const DATA_PATH = process.env.PUBLIC_URL + "/pokemon_data/";
 
 export default function GenStats({ compareList, theme }) {
     const canvasRef = useRef(null);

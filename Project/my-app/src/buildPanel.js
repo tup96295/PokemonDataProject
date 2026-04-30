@@ -3,8 +3,8 @@ import { normalizePokemonName } from "./normalizePokemon";
 
 const getMovesetPath = (battleMode) =>
     battleMode === "singles"
-        ? "/singles/csv_movesets/"
-        : "/doubles/csv_movesets/";
+        ? process.env.PUBLIC_URL + "/singles/csv_movesets/"
+        : process.env.PUBLIC_URL + "/doubles/csv_movesets/";
 
 let moveDataMap = {};
 
@@ -200,11 +200,11 @@ export default function PokemonBuildPanel({
             .replace(/\s+/g, "-");
 
     const resolveImage = useCallback((name) => {
-        return `/pokemon_artwork/${normalize(name)}.jpg`;
+        return `${process.env.PUBLIC_URL}/pokemon_artwork/${normalize(name)}.jpg`;
     }, []);
 
     const handleImgError = (e, name) => {
-        const base = `/pokemon_artwork/${normalize(name)}`;
+        const base = `${process.env.PUBLIC_URL}/pokemon_artwork/${normalize(name)}`;
         if (e.target.src.endsWith(".jpg")) {
             e.target.src = `${base}.png`;
         } else {
@@ -277,9 +277,9 @@ export default function PokemonBuildPanel({
     };
 
     const getCategoryIcon = (category) => {
-        if (category === "Physical") return "/icons/move-physical.png";
-        if (category === "Special") return "/icons/move-special.png";
-        if (category === "Status") return "/icons/move-status.png";
+        if (category === "Physical") return process.env.PUBLIC_URL + "/icons/move-physical.png";
+        if (category === "Special") return process.env.PUBLIC_URL + "/icons/move-special.png";
+        if (category === "Status") return process.env.PUBLIC_URL + "/icons/move-status.png";
         return null;
     };
 
