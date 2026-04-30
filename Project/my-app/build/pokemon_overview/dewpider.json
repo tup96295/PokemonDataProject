@@ -1,0 +1,143 @@
+{
+  "name": "Dewpider",
+  "alias": "dewpider",
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "stats": [
+    38,
+    40,
+    52,
+    40,
+    72,
+    27
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Scarfer",
+          "pokemon": "Dewpider",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Water Bubble"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 52,
+              "atk": 0,
+              "def": 20,
+              "spa": 196,
+              "spd": 20,
+              "spe": 220
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aqua Ring",
+    "Bite",
+    "Blizzard",
+    "Bubble Beam",
+    "Bug Bite",
+    "Bug Buzz",
+    "Chilling Water",
+    "Crunch",
+    "Endeavor",
+    "Endure",
+    "Entrainment",
+    "Facade",
+    "Giga Drain",
+    "Headbutt",
+    "Hydro Pump",
+    "Ice Beam",
+    "Icy Wind",
+    "Infestation",
+    "Iron Defense",
+    "Leech Life",
+    "Liquidation",
+    "Lunge",
+    "Mirror Coat",
+    "Poison Jab",
+    "Pounce",
+    "Power Split",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Soak",
+    "Spit Up",
+    "Sticky Web",
+    "Stockpile",
+    "Substitute",
+    "Surf",
+    "Tera Blast",
+    "Trailblaze",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "X-Scissor"
+  ]
+}

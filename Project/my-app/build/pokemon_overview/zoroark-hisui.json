@@ -1,0 +1,1246 @@
+{
+  "name": "Zoroark-Hisui",
+  "alias": "zoroark-hisui",
+  "types": [
+    "Normal",
+    "Ghost"
+  ],
+  "stats": [
+    55,
+    100,
+    60,
+    125,
+    60,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyper Voice",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Ghost (Swords Dance)</h4>\n<p>Poltergeist can be used in place of Shadow Ball, as it does more damage to foes such as <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> and OHKOes <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, but due to its lack of accuracy and Hisuian Zoroark's high Special Attack stat, Shadow Ball is more favorable.</p>\n<h4>Normal (Choice Specs)</h4>\n<p>U-turn can be used to give Hisuian Zoroark a way to pivot against would-be checks such as <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and bring in teammates like <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a> that can handle them. Psychic allows it to check Fighting-types like <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>. However, both of these options either give up crucial coverage or Trick, and Hisuian Zoroark's Speed tier leaves it slower than threats such as <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, making Psychic a less desirable option overall. Grass Knot can be used to ease Normal's Water and Ground matchups, cleanly removing threats like <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>. Will-O-Wisp can spread burn, crippling switch-ins like <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a> and Hisuian Goodra.</p>",
+      "movesets": [
+        {
+          "name": "Choice Specs (Normal)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Zoroark provides a vital role on Normal teams thanks to its Fighting immunity, empowering it to check otherwise problematic threats like Choice Specs <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a> and Body Press <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. Shadow Ball consistently blasts through threats like <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. Flamethrower melts through Steel-types such as <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>. Focus Blast slams Dark- and Normal-types such as <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>, and <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a>, along with majorly pressuring <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>. Finally, Trick can cripple would-be checks to Hisuian Zoroark, such as <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>.</p>\n<p><a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a> serves as a great offensive complement to Hisuian Zoroark, easily breaking through special walls like <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> while appreciating Hisuian Zoroark checking physical walls such as Skarmory and Sinistcha. Blissey provides strong support with Stealth Rock to wear down threats such as <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and Thunder Wave to enable Hisuian Zoroark to outspeed <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/darkrai/monotype/\" hreflang=\"en\">Darkrai</a> while checking these threats thanks to its titanic special bulk. Porygon2 checks physical attackers that outspeed Hisuian Zoroark, like <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a>, physical <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> variants, and <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>. <a href=\"/dex/sv/pokemon/braviary/monotype/\" hreflang=\"en\">Braviary</a>'s Ground immunity enables it to check the likes of Choice Scarf <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a> and Sand Rush Excadrill, and it can use U-turn to safely bring Hisuian Zoroark in. <a href=\"/dex/sv/pokemon/terapagos/monotype/\" hreflang=\"en\">Terapagos</a> can use Rapid Spin to help Hisuian Zoroark stay healthy, along with powerful coverage options like Ice Beam and Flamethrower to deal with annoying threats such as <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a> and Choice Scarf Gholdengo. Choice Scarf <a href=\"/dex/sv/pokemon/ditto/monotype/\" hreflang=\"en\">Ditto</a> can turn setup attempts on Hisuian Zoroark from foes like <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> and Calm Mind <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> against them. Choice Scarf <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> can outspeed and check non–Choice Scarf variants of threats like <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, along with providing Psychic Terrain that prevents priority from <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> from removing Hisuian Zoroark.</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Swords Dance (Ghost)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With a Swords Dance set, Hisuian Zoroark becomes a surprising threat for Ghost teams, removing problematic walls such as <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. At +2, Poltergeist can allow Hisuian Zoroark to deal with troublesome foes such as <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>. Low Kick threatens the Normal- and Dark-types that can take on Poltergeist such as Blissey, <a href=\"/dex/sv/pokemon/ursaluna/monotype/\" hreflang=\"en\">Ursaluna</a>, and Ting-Lu. Shadow Sneak allows Hisuian Zoroark to pick off weakened and faster threats such <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. Life Orb enables Hisuian Zoroark to reliably OHKO specially defensive Ting-Lu at +2 with Low Kick after entry hazard chip damage and gives a solid 50% chance to OHKO Flutter Mane with an unboosted Shadow Sneak. Spooky Plate is less powerful than Life Orb but doesn't cut into Hisuian Zoroark's health, allowing it to be more convincing with its Illusion.</p>\n<p>Flutter Mane serves as a crucial ally in supporting Hisuian Zoroark with its Choice Specs Moonblast and blazing Speed, dealing with Dark- and Dragon-types that Hisuian Zoroark cannot handle like <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a>, <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>. <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> can provide Thunder Wave support, slowing down faster targets like Tornadus-T and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> while also absorbing Will-O-Wisp from the likes of <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a>. <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a> serves as a physical wall that can pivot Hisuian Zoroark in with Parting Shot along with putting physically bulky targets like <a href=\"/dex/sv/pokemon/porygon2/monotype/\" hreflang=\"en\">Porygon2</a> and Mandibuzz on a timer with Malignant Chain. <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a> can check bulky Ground- and Water-types that could handle Hisuian Zoroark such as <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/alomomola/monotype/\" hreflang=\"en\">Alomomola</a>. Dragapult provides an incredibly useful Speed tier and a powerful Dragon-type STAB move such as Dragon Darts to remove problematic targets like <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> for Hisuian Zoroark. <a href=\"/dex/sv/pokemon/mimikyu/monotype/\" hreflang=\"en\">Mimikyu</a> can come in on Dark-types like <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a> attempting to deal with Hisuian Zoroark with Sucker Punch and handle them with Drain Punch thanks to Disguise. <a href=\"/dex/sv/pokemon/froslass/monotype/\" hreflang=\"en\">Froslass</a> and <a href=\"/dex/sv/pokemon/brambleghast/monotype/\" hreflang=\"en\">Brambleghast</a> provide Spikes support, wearing down physical walls such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, and Archaludon. Froslass can also prevent entry hazards from the likes of <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and use Destiny Bond to remove problematic walls like <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>, while Brambleghast provides hazard removal to keep Hisuian Zoroark healthy.</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Life Orb",
+            "Spooky Plate"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Ghost)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Zoroark's combination of high Special Attack and Speed, incredible typing, and an excellent ability makes it an important asset of Ghost-type teams. Shadow Ball pairs well with Illusion against Ghost teams, as it is immune to Ghost-type attacks and can attack back with Shadow Ball, knocking out foes like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>. Focus Blast allows it to deal with Dark-types such as Choice Scarf <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> and Choice Specs <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, which threaten it. Flamethrower lets it handle Steel-types such as <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. Alternatively, Grass Knot can be used to keep Ground- and Water-types such as <a href=\"/dex/sv/pokemon/hippowdon/monotype/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> in check. U-turn benefits from Hisuian Zoroark's high Speed stat allowing it to deal chip damage and safely pivot out while also eliminating threats like Choice Scarf <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a> and Choice Band <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>. Trick can be used in place of U-turn and allows Hisuian Zoroark to neutralize threats such as <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, Dragon Dance <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>.</p>\n<p>Hisuian Zoroark's high stats and immunity to Ghost-type moves allow it to be a great partner for all Ghost-types. Gholdengo is a great partner for Hisuian Zoroark, as its Speed tier and typing allow Hisuian Zoroark to use Illusion to its advantage. Gholdengo also serves as a great wallbreaker, eliminating foes such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> and providing Hisuian Zoroark with a safe switch-in from incoming Thunder Wave from Pokemon like <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/klefki/monotype/\" hreflang=\"en\">Klefki</a>. Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/mimikyu/monotype/\" hreflang=\"en\">Mimikyu</a> pair well with Hisuian Zoroark, as they take care of Dragon-type foes such as <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a>. Dragapult synergizes well with Hisuian Zoroark, forming an offensive core as Choice Scarf Dragapult takes out foes such as Hoopa-U, <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, and Dragonite, which otherwise trouble Hisuian Zoroark, while Hisuian Zoroark eliminates threats like Gholdengo, <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>. <a href=\"/dex/sv/pokemon/froslass/monotype/\" hreflang=\"en\">Froslass</a> provides Spikes support to Hisuian Zoroark. <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a> assists Hisuian Zoroark by spreading poison and using Parting Shot to bring Hisuian Zoroark in safely. <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> appreciates Hisuian Zoroark, as it clears Ceruledge's enemies such as Toxapex and Air Balloon <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, which limit its sweeping capabilities.</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Normal)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a winning set from the <a href=\"https://www.smogon.com/forums/threads/monotype-rising-sets-ix-results.3775176/post-10818118\">Monotype Rising sets project</a>. This will be updated as we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. Stay tuned!</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 667394,
+            "username": "July"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 510430,
+                "username": "Arase"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 481576,
+                "username": "kiru"
+              },
+              {
+                "user_id": 622813,
+                "username": "Pengairxan"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 537035,
+                "username": "rahul_3301"
+              },
+              {
+                "user_id": 594972,
+                "username": "Murphy Lawden"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sheer Force",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Zoroark serves as a threatening sweeper and wallbreaker thanks to its great Special Attack, good Speed, and incredible moveset. Body Slam allows Hisuian Zoroark to hit specially defensive walls such as <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/meloetta/almost-any-ability/\" hreflang=\"en\">Meloetta</a>. Focus Blast hits foes like <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>. Knock Off allows Hisuian Zoroark to remove crucial items like Manaphy's and Swampert's Assault Vests and Mandibuzz's Heavy-Duty Boots, helping it and its teammates break through these Pokemon and allowing it to be more self sufficient, as it does not rely on teammates to get rid of said items. Psychic is an alternative option that dents <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>. Sheer Force lets Hisuian Zoroark hit harder to achieve feats such as 2HKOing non-Unaware Mandibuzz. A Timid nature should be used on sets with Nasty Plot, as a higher Attack is not needed. Teammates such as Iron Moth and <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a> appreciate Hisuian Zoroark's ability to force chip damage on special walls such as RegenVest Manaphy and Meloetta. Hisuian Zoroark is very frail, leaving it prone to revenge killing attempts from revenge killers like Roaring Moon and Azelf, so it appreciates slow pivots like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and Manaphy that can help it switch in safely. Hisuian Zoroark appreciates entry hazard setters like Great Tusk and <a href=\"/dex/sv/pokemon/deoxys-defense/almost-any-ability/\" hreflang=\"en\">Deoxys-D</a>, as they can help chip walls that would otherwise beat it.</p>",
+          "abilities": [
+            "Sheer Force"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Body Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Magic Guard",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Zoroark finds a niche on semi-stall and offensive teams as a progress maker or as an offensive pivot with its wide variety of utility options and ability to ignore passive damage thanks to Magic Guard. Knock Off cripples special walls by depraving RegenVest users such as <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> of their Assault Vests or by limiting <a href=\"/dex/sv/pokemon/blissey/almost-any-ability/\" hreflang=\"en\">Blissey</a>'s, <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a>'s, and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>'s longevity by removing their Leftovers or Heavy-Duty Boots, allowing Hisuian Zoroark or teammates like <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a> to break past them later in the game. Will-O-Wisp further weakens these special walls, forcing them to be worn down over time and notably enabling Hisuian Zoroark's Hex to break past them; it also cripples physical threats like <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>. U-turn allows Hisuian Zoroark to generate free momentum for its team while forcing its switch-ins to take chip damage from entry hazards as it pivots out, whereas Taunt denies Blissey and Empoleon recovery. Hisuian Zoroark should be paired with offensive entry hazard setters like <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a>, Pixilate <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a>, and Galvanize <a href=\"/dex/sv/pokemon/kommo-o/almost-any-ability/\" hreflang=\"en\">Kommo-o</a> that can keep up the pressure on hazard removers to maximize its ability to wear the opposing team down over time. Sturdy checks to offensive threats that force Hisuian Zoroark out like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, Choice Scarf <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, and Azelf are needed, so good teammates that can stave them off like Great Tusk and Empoleon are recommended.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Hasty"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 580765,
+            "username": "cat"
+          },
+          {
+            "user_id": 594122,
+            "username": "Evie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 580765,
+                "username": "cat"
+              },
+              {
+                "user_id": 594122,
+                "username": "Evie"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 475288,
+                "username": "Tranquility"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 7-8 points</p>\n<p><strong>Overview</strong>: Hisuian Zoroark has many good traits going for it; it has an amazing offensive and defensive typing, a solid Speed tier, and a great movepool, and its signature ability Illusion has the potential to force foes into dangerous mindgames. However, it is incredibly frail, and Illusion is far better on paper than it usually performs in practice due to factors like entry hazard chip damage giving Hisuian Zoroark away based on damage dealt and opponents being able to make switches that take into account if they could be facing a disguised Hisuian Zoroark. The surprise factor of Illusion is also somewhat nullified when opponents have the chance to prepare for it beforehand, making it difficult to use properly. Finally, despite Hisuian Zoroark's great typing, it struggles against Dark-types, which are extremely common. These flaws make Hisuian Zoroark inconsistent, but it still finds use as a solid mid-tier wallbreaker and disruptor.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Hisuian Zoroark seeks to do as much damage as possible through the use of damage-boosting items like Choice Specs or even setup moves like Nasty Plot. Its strong offensive typing, stats, and movepool make it effective when given free turns to use its powerful attacks, but its frailty can make it difficult to position. If the opponent falls for the disguise from Illusion, Hisuian Zoroark will get the free turns it needs, but it can't be relied upon due to Illusion not disguising Hisuian Zoroark's current HP and status.</p>\n<p><strong>Disruptor</strong>: If Hisuian Zoroark isn't able to break through the opposing team, it can opt to run moves like Trick, Will-O-Wisp, and Knock Off to cripple opposing walls instead. Like the wallbreaker set, Illusion can be helpful to lure in specific targets on the opposing team, but it shouldn't be relied upon.</p>\n<p><strong>Offensive Pivot</strong>: Combined with a Choice Scarf and U-turn, Hisuian Zoroark can grab offensive momentum by leveraging its offenses and Speed to force switches. These sets usually ignore Illusion completely, as fooling the opponent with a disguise may actually work against the goal of the set to force switches. These sets may also run Trick to cripple a defensive wall when their extra Speed from Choice Scarf is no longer needed.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Hyper Voice, Body Slam, Shadow Ball, Bitter Malice, Poltergeist, Shadow Sneak, Hex</p>\n<p><strong>Setup Moves</strong>: Agility, Nasty Plot, Swords Dance</p>\n<p><strong>Utility Moves</strong>: Brick Break, Knock Off, Roar, Substitute, Taunt, Trick, U-turn, Will-O-Wisp</p>\n<p><strong>Coverage</strong>: Crunch, Dark Pulse, Flamethrower, Focus Blast, Foul Play, Grass Knot, Icy Wind, Low Kick, Psychic, Sludge Bomb, Throat Chop</p>\n<h3>Niche Moves</h3>\n<p><strong>Curse / Memento</strong>: While usually hard to fit, if Hisuian Zoroark has a free moveslot, it can use Curse to deny bulky setup sweepers from taking advantage of it while also potentially providing a free switch to one of its teammates. Memento can be used similarly to gain momentum, with the differing goal of giving one of Hisuian Zoroark's teammates a setup opportunity.</p>\n<p><strong>Giga Impact / Hyper Beam</strong>: Since Hisuian Zoroark gains STAB on these risky, strong attacks, their sheer power can sometimes be worth the tradeoff of a recharge turn. These moves are typically used if Hisuian Zoroark has a specific target on the opposing team for which it wants to trade itself.</p>\n<p><strong>Night Shade</strong>: Night Shade can be used as a consistent damage option if Hisuian Zoroark is facing multiple specially bulky Pokemon that it can't break with its regular attacks.</p>\n<h3>Common Items</h3>\n<p><strong>Damage-boosting Items</strong>: Most Hisuian Zoroark sets use a damage-boosting item, since it usually aims to do as much damage as possible before it faints. It can run any damage-boosting item such as Choice Specs, Life Orb, or Spell Tag depending on what it needs to do in battle.</p>\n<p><strong>Choice Scarf</strong>: Hisuian Zoroark can be used as a revenge killer with a Choice Scarf, since it still has decent natural offenses without a damage-boosting item. Choice Scarf may be paired with Trick to disrupt the opposing team if needed.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots can be used to help maintain the Illusion disguise, especially if Hisuian Zoroark is being disguised as a Pokemon that is also using or commonly uses Heavy-Duty Boots. It also prevents opponents from finding out that it is Hisuian Zoroark in disguise from the amount of damage it takes from entry hazards.</p>\n<h3>Niche Items</h3>\n<p><strong>Focus Sash</strong>: Focus Sash is typically seen on lead Hisuian Zoroark sets that aim to deal early damage and survive as long as possible while doing so. It can also be paired with setup to guarantee Hisuian Zoroark a chance to boost.</p>\n<p><strong>Colbur Berry</strong>: Colbur Berry can sometimes be used to let Hisuian Zoroark survive a Dark-type attack to set up or deal damage.</p>\n<h3>Tera</h3>\n<p>Hisuian Zoroark should not be a Tera Captain. Its base typing is already excellent, and it also lacks longevity and bulk to take long-term advantage of Tera. While it isn't a terrible Tera user, it is heavily outclassed by higher-priced Tera Captains. If it is chosen to be a Tera Captain, then it usually runs Tera Normal or Ghost to increase its standard damage output. It can also use any other offensive Tera type when paired with Tera Blast if it needs coverage for a specific foe. Notably, Tera Blast is a usable STAB attack both before and after Tera for Hisuian Zoroark, so it can use Tera Blast without fear of wasting a move slot if it does not use Tera during battle. Lastly, while Terastallizing does not remove Illusion, Tera Captains are known before battle, so Terastallizing Hisuian Zoroark reveals it through the Illusion.</p>\n<h3>Draft Strategy</h3>\n<p>Hisuian Zoroark lacks role compression, so it can be difficult to fit onto drafts, but it has a definite niche as a decently fast and strong special wallbreaker for teams that are looking for one.</p>\n<p><strong>Slow Pivots</strong>: While its three immunities and Illusion ability help, Hisuian Zoroark still struggles to enter the field due to its frailty. Pokemon like <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> are appreciated to use moves like U-turn and Volt Switch to bring Hisuian Zoroark into battle safely.</p>\n<p><strong>Physical-heavy Teams</strong>: Hisuian Zoroark is mainly used as a strong special attacker, and it fits well on teams that need more special offense. Additionally, if a team has several strong physically-attacking threats like <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, this encourages the opponent to bring physically defensive Pokemon, which Hisuian Zoroark can exploit. Sometimes, it may even be able to disguise itself as one of the physical threats, luring in a physical wall and removing or weakening it for its teammate.</p>\n<p><strong>Entry Hazard Setters and Removal</strong>: Hisuian Zoroark appreciates the chip damage from entry hazards to effectively wallbreak, and it also appreciates hazards being removed on its side to try to preserve Illusion.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Specially Defensive Pokemon</strong>: Hisuian Zoroark is fairly strong, but it's not strong enough to muscle through very specially bulky Pokemon. If Hisuian Zoroark can't OHKO or 2HKO a foe, it will likely lose the interaction due to its frailty. While it can run physical or mixed sets, these are significantly weaker than its special sets and also struggle to find the OHKOs or 2HKOs it needs.</p>\n<p><strong>Faster / Speed-tied Threats</strong>: There are many relevant Pokemon that sit at or above Hisuian Zoroark's Speed tier, such as <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, and practically all of them effortlessly threaten an OHKO on Hisuian Zoroark. This means Hisuian Zoroark has a difficult time risking Speed ties, and after it gets a KO, it usually has to deal with a loss of momentum by being forced out.</p>\n<p><strong>Entry Hazards</strong>: As mentioned earlier, entry hazards can disrupt Illusion and are the main reason why it is unreliable. Teams that want to make use of Illusion need to ensure hazards aren't set or are removed promptly.</p>\n<p><strong>Dark-types</strong>: Hisuian Zoroark struggles to break through Dark-type Pokemon as it is reliant on Focus Blast to do so, and they threaten it with super effective damage.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 356084,
+            "username": "Scribble"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 473082,
+                "username": "abriel"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Zoroark's combination of high Special Attack and Speed, access to Nasty Plot, and excellent typing and ability that provide setup opportunities makes it a great wallbreaker and sweeper. Focus Blast primarily targets the Dark- and Normal-types that resist or are immune to Hisuian Zoroark's Shadow Ball, notably OHKOing most variants of <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> and 2HKOing <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> unboosted. It also targets Steel-types like <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>. Fightinium Z serves the dual purpose of letting Hisuian Zoroark avoid having to rely on Focus Blast's terrible accuracy while giving it the power to OHKO foes like Hydreigon and Tyranitar unboosted and <a href=\"/dex/sv/pokemon/garganacl/national-dex-uu/\" hreflang=\"en\">Garganacl</a> at +2. Grass Knot hits Ground-types like <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, OHKOing most of them after Nasty Plot. Hisuian Zoroark fits best on offense teams with other wallbreakers and sweepers. Teammates like <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> can KO or weaken Hisuian Zoroark's checks like specially defensive <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, while it can remove foes like Hippowdon. Despite its good Speed, Hisuian Zoroark is vulnerable to being revenge killed by faster foes like Choice Scarf <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> and Choice Scarf Hydreigon, making walls such as <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> for the former and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> for the latter useful partners. Illusion makes Hisuian Zoroark pair nicely with Pokemon weak to Fighting and Ghost, such as Tyranitar and <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a>, forcing the opponent into an uneasy guessing game that can allow it or its teammates to set up. Pretending to be a physical attacker can also lure in physical walls like Skarmory and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>. Hazard setters like Excadrill and <a href=\"/dex/sv/pokemon/mew/national-dex-uu/\" hreflang=\"en\">Mew</a> can weaken checks like <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> into Hisuian Zoroark's KO range.</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Fightinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Zoroark's high Speed, power, and spammable Shadow Ball make it a potent wallbreaker. Focus Blast OHKOes Dark-types such as <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> and Steel-types such as <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>. Grass Knot 2HKOes Ground-types like <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>; it also 2HKOes or 3HKOes most variants of the Tyranitar formes, easing prediction and letting Hisuian Zoroark sometimes avoid having to rely on the inaccurate Focus Blast. Trick can cripple walls Hisuian Zoroark otherwise can't touch, such as <a href=\"/dex/sv/pokemon/blissey/national-dex-uu/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/chansey/national-dex-uu/\" hreflang=\"en\">Chansey</a>. Hisuian Zoroark fits best on offense teams. Pivots such as <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> can provide Hisuian Zoroark safe entry for it to wallbreak. Hisuian Zoroark struggles against Dark-types after being locked into Shadow Ball, especially Pursuit users like the Tyranitar formes, making Fighting-types like <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a> great partners for their ability to threaten them. They also work well at threatening Normal-types like Chansey and Blissey. In return, Hisuian Zoroark can eliminate physical walls like <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a>, and can notably lure them in thanks to Illusion. Setup sweepers like Booster Energy Iron Moth and Hydreigon can take advantage of Hisuian Zoroark weakening the opposing team's defensive cores by sweeping late-game. Entry hazard setters like <a href=\"/dex/sv/pokemon/mew/national-dex-uu/\" hreflang=\"en\">Mew</a> and Excadrill can chip Hisuian Zoroark's targets into KO range, something which notably punishes checks with limited longevity like <a href=\"/dex/sv/pokemon/tapu-fini/national-dex-uu/\" hreflang=\"en\">Tapu Fini</a> and the Tyranitar formes.</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535530,
+            "username": "Gangsta Spongebob"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 514772,
+                "username": "sealoo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 637479,
+                "username": "red fintans"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Z-Happy Hour (Ghost)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With a Ghost immunity, Hisuian Zoroark covers a crucial weakness for its team and makes use of it alongside Illusion to bluff as any of its allies efficiently and gain opportunities to set up and sweep. Focus Blast is unresisted alongside Shadow Ball and hits Dark-types that could be difficult to answer otherwise such as <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex-monotype/\" hreflang=\"en\">Mega Tyranitar</a>. Hyper Voice provides a complementary STAB option that shines in neutral matchups, 2HKOing <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> after a boost, but Flamethrower complements Focus Blast to hit Steel-types such as <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/scizor/national-dex-monotype/\" hreflang=\"en\">Scizor</a>. Hisuian Zoroark's sole weakness to Dark can lure in checks that can threaten a good portion of its team such as <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a> and <a href=\"/dex/sv/pokemon/mandibuzz/national-dex-monotype/\" hreflang=\"en\">Mandibuzz</a>. <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a> is a good partner to check them in turn, and it can also prevent entry hazards from being set on its side with Magic Bounce to increase Hisuian Zoroark's longevity and allow it to bluff with Illusion further. <a href=\"/dex/sv/pokemon/mimikyu/national-dex-monotype/\" hreflang=\"en\">Mimikyu</a> discourages Dark-type attacks thanks to its Fairy typing, giving a safe option for Hisuian Zoroark to bluff as with Illusion, and an intact Disguise also lures the opposing team to expect setup and either bring in a physical wall or use utility moves such as Taunt and Will-O-Wisp that don't hinder Hisuian Zoroark as much they would Mimikyu, easing setup. Hisuian Zoroark's Illusion in general can be used to bluff as other Pokemon to lure counterplay to them that it exploits; for example, as <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>, it can discourage status moves by pretending to have Good as Gold, and as <a href=\"/dex/sv/pokemon/sinistcha/national-dex-monotype/\" hreflang=\"en\">Sinistcha</a>, it can revenge kill unsuspecting foes that would normally outspeed Sinistcha.</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Normalium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyper Voice",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Happy Hour",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Z-Happy Hour (Normal)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Zoroark provides defensive utility relevant to its team by being immune to Fighting, allowing it to easily pose as any of its allies with Illusion to find setup opportunities and sweep. Focus Blast and Shadow Ball provide unresisted coverage, allowing Hisuian Zoroark to defeat checks such as <a href=\"/dex/sv/pokemon/tyranitar-mega/national-dex-monotype/\" hreflang=\"en\">Mega Tyranitar</a>, <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/hydreigon/national-dex-monotype/\" hreflang=\"en\">Hydreigon</a>. Flamethrower hits foes it wouldn't OHKO otherwise, even after a boost, such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> after minimal chip, and opposing Hisuian Zoroark. Flamethrower alongside Focus Blast considerably eases the Steel matchup for its team, but Hyper Voice is an alternative that deals the most damage in neutral matchups, OHKOing <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a> at +1 after Stealth Rock. Hyper Voice can also be used to trigger Breakneck Blitz over Z-Happy Hour to allow Hisuian Zoroark to lure in and overwhelm foes such as <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/sv/pokemon/lilligant-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Lilligant</a>, and <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> in a pinch. As Hisuian Zoroark lures in Dark-types to check it, <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a> is a solid partner to keep momentum against such foes, especially as Hisuian Zoroark can bluff as Mega Lopunny more effectively than other teammates, as both hold an item that cannot be removed by Trick or Switcheroo. Mega Lopunny also pressures special walls that Hisuian Zoroark can otherwise struggle with, such as <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a>, <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/muk-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Muk</a>. Entry hazard control by <a href=\"/dex/sv/pokemon/staraptor/national-dex-monotype/\" hreflang=\"en\">Staraptor</a> is also valuable to ensure Hisuan <a href=\"/dex/sv/pokemon/zoroark/national-dex-monotype/\" hreflang=\"en\">Zoroark</a>'s bluffing capabilities and raise its longevity; Staraptor can also provide a slow pivot to let Hisuian Zoroark come in safely. <a href=\"/dex/sv/pokemon/chansey/national-dex-monotype/\" hreflang=\"en\">Chansey</a> and Blissey can set Stealth Rock to let Hisuian Zoroark more easily threaten a sweep and can support it by providing safe pivoting for it with Teleport. In particular, it is easier for Hisuian Zoroark to disguise as Chansey due to a shared vulnerability to entry hazards.</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Normalium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Happy Hour",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Hyper Voice",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choiced Attacker (Ghost)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hyper Voice",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Utility (Ghost)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Utility (Normal)",
+          "pokemon": "Zoroark-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Illusion"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 434487,
+            "username": "Bobsican"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              },
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Bitter Malice",
+    "Body Slam",
+    "Brick Break",
+    "Burning Jealousy",
+    "Calm Mind",
+    "Comeuppance",
+    "Confuse Ray",
+    "Crunch",
+    "Curse",
+    "Dark Pulse",
+    "Detect",
+    "Dig",
+    "Endure",
+    "Extrasensory",
+    "Facade",
+    "Fake Tears",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Foul Play",
+    "Giga Impact",
+    "Grass Knot",
+    "Happy Hour",
+    "Helping Hand",
+    "Hex",
+    "Hone Claws",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Icy Wind",
+    "Imprison",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Memento",
+    "Nasty Plot",
+    "Night Shade",
+    "Pain Split",
+    "Phantom Force",
+    "Poltergeist",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Scary Face",
+    "Scratch",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Shadow Sneak",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Snarl",
+    "Snowscape",
+    "Spite",
+    "Substitute",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Torment",
+    "Trick",
+    "U-turn",
+    "Will-O-Wisp"
+  ]
+}

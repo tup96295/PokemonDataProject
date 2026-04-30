@@ -1,0 +1,1308 @@
+{
+  "name": "Lokix",
+  "alias": "lokix",
+  "types": [
+    "Bug",
+    "Dark"
+  ],
+  "stats": [
+    71,
+    102,
+    78,
+    52,
+    55,
+    92
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Black Glasses"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Boots Pivot",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Lokix uses First Impression to effectively remove offensive Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>, <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/zarude/uu/\" hreflang=\"en\">Zarude</a>. Tinted Lens prevents some of the aforementioned threats from Terastallizing to survive First Impression and lets Lokix still do considerable damage to Bug-resistant foes such as <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a>. For example, Tera Bug First Impression will still be able to KO Tera Steel Latios after a bit of chip damage. Knock Off is good for punishing common switch-ins such as <a href=\"/dex/sv/pokemon/skarmory/uu/\" hreflang=\"en\">Skarmory</a>, and Sucker Punch allows Lokix to pick off faster threats even after its first turn on the field. This can be important for many fast defensive Pokemon that can sponge a First Impression, like <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>. Tera Bug is crucial in order to effectively KO threats such as <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> and Thundurus-T. Heavy-Duty Boots is important, as it allows Lokix to come in multiple times even in the presence of Stealth Rock. An Adamant nature is used to maximize First Impression damage.</p>\n<p>Lokix fits very well on balance and offense structures, playing the important role of revenge killing many threats. Pokemon like Latios and Greninja appreciate Lokix using U-turn to safely bring them in versus <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>, Skarmory, and <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a>. Lokix enjoys being paired with <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a>, as Slowking is able to use Chilly Reception to safely bring Lokix in on Pokemon that threaten Slowking, like Zarude and Greninja. In return, Slowking can help handle Pokemon that Lokix struggles with, like Heatran and <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a>. Lokix, in general, likes to pair with other pivots. Heavy-Duty Boots Thundurus-T and Tornadus-T are able to check Skarmory and Cobalion for Lokix. Defensive pivots such as Slowking and <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a> can check threats such as Tornadus-T for Lokix and bring it in on Pokemon like Zarude. Entry hazard setters, such as Skarmory and <a href=\"/dex/sv/pokemon/gastrodon/uu/\" hreflang=\"en\">Gastrodon</a>, appreciate Lokix's ability to remove foes' Heavy-Duty Boots, and they can check Pokemon like opposing Lokix, <a href=\"/dex/sv/pokemon/revavroom/uu/\" hreflang=\"en\">Revavroom</a>, and Heatran.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 650155,
+            "username": "OceanicGamer"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 620325,
+                "username": "ThatOneApple"
+              },
+              {
+                "user_id": 461329,
+                "username": "Estarossa"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 391343,
+                "username": "EthanLac"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Lokix serves as an unorthodox wallbreaker and anti-offense revenge killer by virtue of its boosted Attack and ability, which limits the number of foes that can resist its attacks. First Impression enables Lokix to move faster than most of the metagame while dealing massive damage to them, including Bug-resistant foes such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. It also allows Lokix to revenge kill offensive threats like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. U-turn allows Lokix to pivot out of bad matchups like Zamazenta and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and give some momentum to the rest of its team. Knock Off helps it limit the longevity of threats that rely on Heavy-Duty Boots like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, and Zamazenta while also hitting foes like <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>. Leech Life provides it with longevity even if it's taking residual damage from Rocky Helmet and entry hazards. Tera Bug provides an extra boost of power, which can allow Lokix to take down foes like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and a chipped <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> with First Impression.</p>\n<p>Lokix fits best on bulky offense and balance teams. Teaming up with Pokemon like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> can create entry hazard-stacking cores, making it easier for Lokix to clean up with First Impression. Lokix can also spam Knock Off easily, getting rid of Heavy-Duty Boots from foes and making them vulnerable to its teammates' hazards. Lokix's typing and lack of Heavy-Duty Boots make it extremely susceptible to entry hazards, thus, Great Tusk can help thanks to its bulk and access to Rapid Spin. <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> are also great hazard control options. Other specially offensive teammates like Kyurem, <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, and Raging Bolt can help consistently apply pressure, especially against more physically defensive opponents that Lokix struggles against, such as <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, Zamazenta, and <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>. Zamazenta and Gliscor make solid teammates for Lokix, being brought in by Lokix's U-turn and sweeping with their Iron Defense and Swords Dance sets, respectively. Lokix's priority can also help support slower teammates like <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> by picking off fast threats that they struggle with, like <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and Darkrai. On more balanced teams, Lokix can be supported by other pivots to continue carrying momentum. Defensive options such as <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, Landorus-T, and Corviknight can provide additional bulk for the team and resist threats to Lokix like Enamorus, while Lokix deals with foes like Ogerpon-W, Darkrai, and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Iron Crown is an offensive pivoting option that forms a solid VoltTurn core with Lokix, taking care of each other's threats; Lokix handles Darkrai and Iron Crown handles <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and Tera Fairy users like Raging Bolt. Dragapult is a fast pivot option, taking care of Zamazenta and Dragonite, while Lokix helps it keep <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> in check.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Boots Attacker",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Lokix acts as an incredible revenge killer in the tier, able to utilize its ability in Tinted Lens and having access to a strong priority move in First Impression. First Impression can get around Lokix's modest base Speed to revenge kill Pokemon such as <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> by hitting them for considerable damage. U-turn allows Lokix to pivot out of common switch-ins such as <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, while gaining momentum for the rest of its team. Knock Off removes key items like Rocky Helmet and Heavy-Duty Boots from potential switch-ins such as <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, while hitting <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> for super effective damage. Sucker Punch can act as a secondary priority move for Lokix, and the combination of Bug- and Dark-type priority moves coupled with its ability makes it doubly effective. Adamant allows Lokix to get the maximum amount of damage from First Impression and Sucker Punch: for example, allowing Lokix to OHKO <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> from full HP with First Impression into Sucker Punch and giving Sucker Punch good odds to 2HKO <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, while Jolly allows Lokix to outspeed Pecharunt, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and Gholdengo. Tera Bug allows Lokix to further increase the damage output of both First Impression and U-turn, allowing First Impression to 2HKO <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and unboosted <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>.</p>\n<p>This Lokix set fits best on bulky offense and balance teams, as they heavily appreciate its revenge killing abilities and access to key moves like U-turn and Knock Off. Hazard-stacking teams also love Lokix, as it can perform multiple roles such as being a strong Knock Off user, momentum gainer, and revenge killer. Therefore, entry hazard support from Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, Landorus-T, and Gliscor are heavily appreciated, as they can help Lokix against bulkier squads it might otherwise struggle against; Lokix can utilize Knock Off to remove Heavy-Duty Boots and eventually wear down its checks such as Moltres and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> through hazards. Spinblockers such as Air Balloon Gholdengo and Pecharunt also pair well with Lokix, as they can prevent Rapid Spin from <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> from removing entry hazards. Pivoting Pokemon such as Landorus-T, Pecharunt, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> pair well with Lokix, as they can get it in safely, and in return, Lokix can revenge kill the offensive threats that threaten these teammates such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Darkrai. Iron Crown in particular is a very good Lokix partner, as they can form an effective pivoting core, which can heavily pressure defensive teams. Lokix particularly struggles with faster Pokemon that have a 4x resistance to Bug, such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. Therefore, teammates that can handle these Pokemon such as Gholdengo and Moltres for the former and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and Galarian Slowking for the latter, are heavily appreciated. Slower wallbreakers like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> help Lokix against bulkier teams, and in return, Lokix can help against offensive structures they may struggle with. Primarina in particular is an amazing Lokix partner, as it can help deal with Gliscor, Corviknight, and Garganacl that Lokix struggles with, while Lokix can punish Ogerpon-W and Galarian Slowking that trouble Primarina. Zamazenta pairs well with Lokix as an offensive partner, as it is able to soft-check the various physical attackers that Lokix might struggle to KO reliably, while Lokix can threaten faster Pokemon such as <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> and Dragapult that threaten Zamazenta.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 359575,
+            "username": "Nichalho"
+          },
+          {
+            "user_id": 647728,
+            "username": "Heatranator"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 612443,
+                "username": "ninth"
+              },
+              {
+                "user_id": 636986,
+                "username": "Nocturne Nugget"
+              },
+              {
+                "user_id": 236090,
+                "username": "Firenix"
+              },
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 558636,
+                "username": "zastra"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance (Bug)",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to Tinted Lens, Swords Dance Lokix can break through the sturdiest walls the tier has to offer such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>. Although First Impression can only be used once per switch-in, it remains a solid option to revenge kill <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>. Conversely, Leech Life forgoes the priority effect for consistency, being able to 2HKO Toxapex and defensive <a href=\"/dex/sv/pokemon/gouging-fire/monotype/\" hreflang=\"en\">Gouging Fire</a> at +2. Sucker Punch OHKOes Choice Specs <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> while also OHKOing <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> at +2. Lastly, Knock Off deals with <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, can OHKO specially defensive <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> at +2 with Stealth Rock up, and removes Heavy-Duty Boots and Leftovers from walls such as Toxapex and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>. Heavy-Duty Boots can be chosen to improve Lokix's longevity and let it switch in multiple times, although its raw power will be hampered in the process. An Adamant nature lets Lokix secure an OHKO on <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a> with First Impression, as well as OHKOing specially defensive <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> with Knock Off at +2 after Stealth Rock, but this comes at the cost of being outsped by <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>, Jolly <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>.</p>\n<p>Lokix benefits much from its teammates breaking holes in the opposing team. Thanks to Bullet Punch and great physical coverage options in Close Combat and Trailblaze, <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> can lead the offensive in matchups that Lokix struggles with such as Fairy and Rock as well as be a driving force in the Steel matchup. In return, Lokix helps Scizor to break the Steel defensive core by taking care of Gholdengo. Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> supports Lokix's rampage with Stone Axe and provides an edge in the Fire matchup by wrecking <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a>. Bulky Quiver Dance Volcarona is an incredible teammate for Lokix, as it can set up on Pokemon that would otherwise prove deadly for Lokix such as <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, spread burns to physical attackers to facilitate Lokix's setup, and swiftly remove opposing Scizor and Archaludon. Similarly, <a href=\"/dex/sv/pokemon/frosmoth/monotype/\" hreflang=\"en\">Frosmoth</a> can set up on special sweepers that Lokix cannot reliably OHKO like <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a>, and non-Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, eliminating the physical walls that would prevent Lokix from sweeping in the process. Being prone to entry hazard damage, Lokix appreciates <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a>'s ability to remove them from the field. Forretress also supports Lokix by setting up Spikes and slow pivoting in Lokix while being bulky enough to come in on opposing Lokix. <a href=\"/dex/sv/pokemon/araquanid/monotype/\" hreflang=\"en\">Araquanid</a> is another key support Pokemon for Lokix, as it can set Sticky Web to let Lokix outspeed Choice Scarf Kleavor as well as checking Volcarona and Ninetales and KO them back. Other Sticky Web users include <a href=\"/dex/sv/pokemon/galvantula/monotype/\" hreflang=\"en\">Galvantula</a> and <a href=\"/dex/sv/pokemon/ribombee/monotype/\" hreflang=\"en\">Ribombee</a>. Galvantula improves the Water matchup with its access to Energy Ball to hit <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/gastrodon/monotype/\" hreflang=\"en\">Gastrodon</a>, while Ribombee comes with a solid Speed tier to guarantee Sticky Web setup and the ability to paralyze targets.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Life Orb",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              },
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 552160,
+            "username": "Showl"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "All Out Attacker (Bug)",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With access to nearly unresisted First Impression and U-turn due to Tinted Lens, Lokix is an amazing revenge killer for Bug teams. Its ability to scare out many common threats such as <a href=\"/dex/sv/pokemon/espathra/monotype/\" hreflang=\"en\">Espathra</a>, <a href=\"/dex/sv/pokemon/chien-pao/monotype/\" hreflang=\"en\">Chien-Pao</a>, and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> is highly valuable. Lokix struggles to break past many physically defensive walls like <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a>, <a href=\"/dex/sv/pokemon/dondozo/monotype/\" hreflang=\"en\">Dondozo</a>, and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>; however, it can pivot in teammates—such as <a href=\"/dex/sv/pokemon/vivillon/monotype/\" hreflang=\"en\">Vivillon</a> and <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>—that can beat them. A Choice Band with an Adamant nature maximizes Lokix's damage output and can utilise Axe Kick to lure and defeat Steel-types like <a href=\"/dex/sv/pokemon/kingambit/monotype/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-treads/monotype/\" hreflang=\"en\">Iron Treads</a>. Alternatively, Life Orb avoids a Choice lock and makes use of Sucker Punch to pick off threats that First Impression alone cannot such as <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Throat Chop lets Lokix deal good unresisted STAB damage and prevents <a href=\"/dex/sv/pokemon/skeledirge/monotype/\" hreflang=\"en\">Skeledirge</a> from using Torch Song, which is extremely valuable and one of the reasons Lokix is a necessity for Bug teams.</p>\n<p>Lokix is highly susceptible to entry hazards and is often not quite strong enough to OHKO many Pokemon. <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a> is a great entry hazard remover and entry hazard setter, fixing both of those issues. Forretress also has a good defensive profile, acting as a sponge for absorbing damage, and it can even form a VoltTurn core with Lokix. <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> removes Fairy-types that threaten Lokix such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and allows Lokix to clean up after it has done enough damage. Volcarona takes care of Steel-types that don't fall to Axe Kick such as Corviknight and Scizor. Lokix can remove Ghost-types—such as Gholdengo, Dragapult, and Flutter Mane—to enable <a href=\"/dex/sv/pokemon/slither-wing/monotype/\" hreflang=\"en\">Slither Wing</a> and <a href=\"/dex/sv/pokemon/heracross/monotype/\" hreflang=\"en\">Heracross</a>, letting them spam their powerful Fighting-type moves and clean up after Lokix. <a href=\"/dex/sv/pokemon/frosmoth/monotype/\" hreflang=\"en\">Frosmoth</a> can deal with many bulky Ground-types—such as <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>—and Vivillon improves the Fighting-type matchup by beating Great Tusk, <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, and <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/monotype/\" hreflang=\"en\">Paldean Tauros-W</a> and can answer Dondozo with the combination of Sleep Powder and Energy Ball. <a href=\"/dex/sv/pokemon/masquerain/monotype/\" hreflang=\"en\">Masquerain</a> can set up Sticky Web, which gives Lokix an amazing Speed advantage versus Iron Treads, <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/walking-wake/monotype/\" hreflang=\"en\">Walking Wake</a>, making Life Orb Lokix immensely threatening.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Life Orb",
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              },
+              {
+                "move": "Axe Kick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Swords Dance (Dark)",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Excellent for the Dark mirror and revenge-kills threats such as Barraskewda.</p>\n<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. These will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Silver Powder"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 532439,
+            "username": "Bka Onon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 593863,
+                "username": "CrossHeart"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 1",
+      "outdated": null,
+      "overview": "<p>Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.</p>\n<p>If you feel this analysis is not up to date, <a href=\"https://www.smogon.com/forums/threads/lokix.3713436/\">feel free to check out the thread for this Pokemon and post suggestions</a>. For more resources on Series 1 in general, <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-1-a-land-free-of-ruins-and-paradoxes.3711710/\">check out this thread</a>.</p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Tinted Offense",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>The combination of First Impression and Tinted Lens make Lokix one of the most threatening revenge killers in the format, able to outprioritize and KO foes regardless of resistance.</p>\n</li>\n<li>\n<p>First Impression is Lokix's most important attack, but it can only be used as the first attack after it switches in.</p>\n</li>\n<li>\n<p>U-turn can be punishing against offensive and slow teams as the lack of resists means Lokix can keep switching in and dealing big damage with First Impression, at the cost of making it vulnerable to hazards.</p>\n</li>\n<li>\n<p>Leech Life is the strongest Bug-type move Lokix learns outside of First Impression, with the added benefit of healing recoil damage.</p>\n</li>\n<li>\n<p>Sucker Punch is a powerful STAB priority move, enabling Lokix to outprioritize foes even after it has used First Impression.</p>\n</li>\n<li>\n<p>Axe Kick is the only coverage move of note in Lokix's moveset due to its high Base Power. Be wary of the low accuracy and recoil that occurs should it miss.</p>\n</li>\n<li>\n<p>Throat Chop is the most powerful Dark-type move Lokix learns. It also has the side benefit of disabling Roar from <a href=\"/dex/sv/pokemon/hippowdon/bss-series-1/\" hreflang=\"en\">Hippowdon</a> and Hyper Voice from <a href=\"/dex/sv/pokemon/sylveon/bss-series-1/\" hreflang=\"en\">Sylveon</a>.</p>\n</li>\n<li>\n<p>Swords Dance is an option to make Lokix a sweeper instead of a revenge killer.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<p><strong>Life Orb</strong>: Life Orb enables easier revenge kills at the cost of recoil.</p>\n<p><strong>Silver Powder</strong>: Silver Powder raises the power of First Impression without the recoil from Life Orb, and it also frees up Life Orb for a teammate to use instead.</p>\n<h4>Tera Types</h4>\n<p><strong>Bug</strong>: A Bug Tera Type increases the damage of First Impression, allowing Lokix to OHKO foes it could not otherwise, such as <a href=\"/dex/sv/pokemon/dragapult/bss-series-1/\" hreflang=\"en\">Dragapult</a>.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Life Orb",
+            "Silver Powder"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Axe Kick",
+                "type": null
+              },
+              {
+                "move": "Throat Chop",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 11020,
+            "username": "Blackbeltsam"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 430518,
+                "username": "Lunaflare"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: Lokix is a cheap pivot that can provide offensive momentum for its team. With access to strong priority moves coupled with a great offensive ability, it can also function as a wallbreaker, denting foes so that its teammates can clean up. Lokix can also function as a revenge killer due to great priority attacks it has that can KO a weakened foe. However, it provides basically no defensive profile or utility to its team, so its teammates should look to pick up the slack there.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Offensive Pivot</strong>: With strong priority in Sucker Punch and First Impression and STAB-boosted U-turn, Lokix can become a solid offensive pivot that is capable of denting foes and providing strong momentum for its team. On top of that, it has access to STAB-boosted Knock Off, meaning it can hit hard and remove foes' items while fulfilling this role.</p>\n<p><strong>Wallbreaker</strong>: Lokix is a potent wallbreaker, using its access to strong STAB moves combined with Tinted Lens to dent even bulky Pokemon that resist its attacks. Swords Dance allows it to boost to even further heights.</p>\n<p><strong>Revenge Killer</strong>: Lokix has access to Tinted Lens-boosted First Impression, making it a premier revenge killer. This coupled with access to Sucker Punch means that it can deal with most dented foes.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Knock Off, First Impression, Leech Life, Sucker Punch, Lunge, U-turn, Throat Chop</p>\n<p><strong>Setup Moves</strong>: Swords Dance, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Substitute, Taunt, Brick Break</p>\n<p><strong>Coverage</strong>: Axe Kick, Low Kick</p>\n<h3>Niche Moves</h3>\n<p><strong>Agility</strong>: Agility can be used on Lokix in combination with Swords Dance to make it a threatening sweeper. Furthermore, its STAB moves in combination with Tinted Lens means it can occasionally run Agility without Swords Dance without giving up its pivoting capabilities.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Lokix's weakness to Stealth Rock coupled with the fact that it wants to come in a lot means that Heavy-Duty Boots are often imperative.</p>\n<p><strong>Damage-boosting Items</strong>: Damage-boosting items can further enhance Lokix's wallbreaking potential, with Silver Powder being the most common.</p>\n<p><strong>Choice Band</strong>: Choice Band forgoes Lokix's ability to switch moves to create obscenely strong priority attacks that can OHKO common threats.</p>\n<h3>Niche Items</h3>\n<p><strong>Protective Pads</strong>: If Lokix runs into a team that can easily slot Rocky Helmet or has abilities to punish contact moves, Protective Pads can ensure more longevity than Heavy-Duty Boots.</p>\n<p><strong>Lum Berry</strong>: Lum Berry can be run on Swords Dance sets, especially when foes have minimal entry hazards, as a way to circumvent burn or paralysis once, opening up more opportunities for a sweep.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf can boost Lokix's middling Speed to turn it into an even faster offensive pivot. This is only used when entry hazards are not a concern, as it does mean taking damage from Stealth Rock.</p>\n<h3>Tera</h3>\n<p>Lokix is a okay choice as a Tera Captain, as it can be coupled with high-tier Tera Captains as a secondary option. It can benefit from Tera Bug and Dark to boost its already strong STAB attacks to even further heights. Defensive Tera types such as Tera Steel, Water, and Fairy can be used to free up an item slot by mitigating Lokix's weakness to Stealth Rock, allowing it to pivot in more freely, or letting it set up a Swords Dance to start wallbreaking. Tera Fighting allows it to boost its only type of coverage it normally has.</p>\n<h3>Draft Strategy</h3>\n<p>Lokix is commonly used as an offensive pivot that can also weaken walls. As such, it is often paired with sweepers that benefit from its ability to dent defensive checks. It does not provide any defensive profile for its team, so it should be paired with teammates that can shore up that weakness.</p>\n<p><strong>Late-game Cleaners</strong>: Lokix's ability to dent defensive checks can be very beneficial for cleaners, allowing them to fulfill their role a lot better. Options such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, and <a href=\"/dex/sv/pokemon/sneasler/draft/\" hreflang=\"en\">Sneasler</a> all appreciate an opposing team that has been softened up by Lokix.</p>\n<p><strong>Entry Hazard Control</strong>: Lokix wants to come in a lot, so Heavy-Duty Boots are often required. However, if its teammates have strong entry hazard control, it can free up its item slot for other items. <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> are all great options to keep its side hazard-free.</p>\n<p><strong>Entry Hazard Setters</strong>: Supporting Lokix with entry hazards allows its already-strong attacks to start threatening 2HKOs or even OHKOs after entry hazard chip. <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a>, Great Tusk, and <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> are all great entry hazard setters that can help Lokix.</p>\n<p><strong>Defensive Teammates</strong>: Since Lokix provides basically zero defensive support to its team, other teammates should provide that. If they have pivoting capabilities, it would be even better, as they can bring it in safely. <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-W</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, and Corviknight all provide solid defensive profiles coupled with the ability to pivot.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Protect / Substitute</strong>: As Lokix is very priority-reliant, Protect can negate First Impression and scout sets. Furthermore, it helps negate a bit of momentum from U-turn. Substitute lets foes circumvent Sucker Punch and protect themselves from being revenge killed by priority.</p>\n<p><strong>Faster Pokemon</strong>: Lokix is not exactly bulky, and its typing does not grant it a favorable defensive profile. As such, most faster Pokemon such as <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a> can OHKO it so long as they can survive a Sucker Punch.</p>\n<p><strong>Bulky Pokemon with Recovery</strong>: Lokix mostly tries to dent foes rather than outright OHKO them. As such, bulky foes with recovery can undo the work it had been doing. <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/clefable/draft/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/dondozo/draft/\" hreflang=\"en\">Dondozo</a> all take minimal damage from it and can recover any chip away.</p>\n<p><strong>Contact Punishment</strong>: Lokix primarily uses contact moves so Rocky Helmet, Rough Skin, Static, and Flame Body can all severely hamper what it wants to do.</p>\n<p><strong>Status</strong>: Lokix gets greatly hampered by both burn and paralysis; while a burn means it can still provide momentum for its team, it suddenly doesn't hit hard, and paralysis takes away its use as an offensive pivot.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 610572,
+            "username": "TwentyTwan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 574067,
+                "username": "Freya"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band (Atk)",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Revenge Killer (Atk)",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Lokix functions as a revenge killer, leveraging its strong priority options to keep offensive threats in check. First Impression is Lokix’s main weapon, boasting immense power and benefiting from Tinted Lens, which allows it to deal heavy damage even to Bug-resistant foes. Knock Off provides excellent utility by removing key defensive items such as Heavy-Duty Boots and Leftovers from common switch-ins like <a href=\"/dex/sv/pokemon/corviknight/godly-gift/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/zapdos/godly-gift/\" hreflang=\"en\">Zapdos</a>, making them easier to wear down throughout the game. Sucker Punch complements First Impression by granting Lokix a secondary priority move, and U-turn rounds out the set by allowing Lokix to maintain momentum and safely bring in teammates like <a href=\"/dex/sv/pokemon/electrode-hisui/godly-gift/\" hreflang=\"en\">Hisuian Electrode</a> and <a href=\"/dex/sv/pokemon/gholdengo/godly-gift/\" hreflang=\"en\">Gholdengo</a> that can threaten Lokix's checks. Heavy-Duty Boots ensures Lokix can pivot in and out throughout the match, although Silver Powder can be used as an alternative when the team has entry hazard removal. Tera Bug further enhances Lokix's revenge killing power, turning First Impression into a nuke that can even threaten neutral targets after minimal chip damage.</p>\n<p>Lokix appreciates high-Attack gods such as <a href=\"/dex/sv/pokemon/ho-oh/godly-gift/\" hreflang=\"en\">Ho-Oh</a> and <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/godly-gift/\" hreflang=\"en\">Necrozma-DM</a>, which greatly amplify its First Impression damage and improve its revenge killing reliability. However, Lokix can also pair well with lower-Attack gods like <a href=\"/dex/sv/pokemon/kyurem-white/godly-gift/\" hreflang=\"en\">Kyurem-W</a> and <a href=\"/dex/sv/pokemon/arceus/godly-gift/\" hreflang=\"en\">Arceus</a>, as it benefits from any Attack boost while offering valuable priority and pivoting support in return. Lokix fits best on slower balance and bulky offense teams that struggle with faster offensive threats, as it provides a reliable emergency button against sweepers like <a href=\"/dex/sv/pokemon/roaring-moon/godly-gift/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/godly-gift/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/darkrai/godly-gift/\" hreflang=\"en\">Darkrai</a>. In return, the defensive teammates give Lokix the turns it needs to wear down opposing checks. Lokix thrives alongside pivoting partners that can get it onto the field safely. Offensive pivots like Hisuian Electrode form strong VoltTurn cores that apply continuous pressure, while defensive pivots such as <a href=\"/dex/sv/pokemon/rotom-wash/godly-gift/\" hreflang=\"en\">Rotom-W</a> and Corviknight can take hits and bring Lokix in safely for revenge kills. Because of the lack of a boosting item, Lokix appreciates chip damage to push targets into OHKO range. Thus, teammates able to provide passive chip damage such as <a href=\"/dex/sv/pokemon/garganacl/godly-gift/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/sinistcha/godly-gift/\" hreflang=\"en\">Sinistcha</a> make good partners. Furthermore, entry hazard support from setters such as <a href=\"/dex/sv/pokemon/skarmory/godly-gift/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/clefable/godly-gift/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/ting-lu/godly-gift/\" hreflang=\"en\">Ting-Lu</a> are very appreciated, especially since Lokix's Knock Off removes foes' Heavy-Duty Boots, allowing its team's hazards to be more effective.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Silver Powder"
+          ],
+          "teratypes": [
+            "Bug"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 608218,
+            "username": "DragonPhoenix333"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 517892,
+                "username": "pannu"
+              },
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Lokix stands out as an offensive pivot thanks to Tinted Lens allowing it to pressure standard U-turn switch-ins such as <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a> and <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a> far more consistently than other pivots. Its powerful offensive typing also lets it wear down threats such as <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>. Lokix sports good priority moves such as First Impression and Sucker Punch, which allow it to revenge kill threats such as <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>, and <a href=\"/dex/sv/pokemon/alakazam/national-dex-uu/\" hreflang=\"en\">Alakazam</a>. Knock Off allows Lokix to force progress against Buzzwole, <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> by removing their Leftovers while also being able to punish more offensive checks such as <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> for switching in. Leech Life can be an alternative to Sucker Punch to retain Lokix's longevity against bulkier teams. As a pivot, Lokix values Heavy-Duty Boots to prevent it from being worn down from entry hazards as it comes in and out of the field. Lokix typically runs an Adamant nature to maximize its power, but a Jolly nature can be run to pivot against <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> more easily; however, it doesn't have many uses aside from that. Despite having Tinted Lens and a solid offensive typing, many physical walls like <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a>, Clefable, and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> can still easily halt Lokix's progress, so strong special attackers such as <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a>, Alakazam, and Iron Moth can easily serve to deal with them. Other Pokemon that 4x resist Lokix's moves like Iron Moth can still be a chore for Lokix to face, since they can switch in on its Bug-type moves and immediately threaten Lokix and its team with their high-powered attacks. To rectify this, partnering Lokix with threats such as Iron Boulder is necessary to properly deal with with those respective foes. All of them greatly appreciate Lokix's ability to pivot and safely get them onto the field in return. <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a> in particular is a great partner to easily dispatch Skarmory, Celesteela, and Scizor for Lokix. Entry hazard setters such as Skarmory and Clefable are also good partners to help Lokix break threats such as Mega Venusaur.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 568189,
+            "username": "Runo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 535530,
+                "username": "Gangsta Spongebob"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Kamen Rider (Swords Dance) (Bug)",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Access to Swords Dance, a nearly unresisted STAB combination thanks to Tinted Lens, and priority options in Sucker Punch and First Impression make Lokix an excellent wallbreaker and cleaner for Bug teams. Leech Life allows Lokix to take advantage of and beat passive walls, 2HKOing <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/blissey/national-dex-monotype/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/ting-lu/national-dex-monotype/\" hreflang=\"en\">Ting-Lu</a> at +2 while keeping itself healthy. Knock Off lets Lokix makes progress against defensive switch-ins like <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> by removing their items. Alternatively, First Impression is an excellent tool to pick off faster threats like <a href=\"/dex/sv/pokemon/raichu-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Raichu</a>, <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>. Sucker Punch lets Lokix function as an effective late-game sweeper, picking off weakened threats like <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> or outright KOing them at +2. Furthermore, when boosted by Darkinium Z, it allows Lokix to KO or heavily dent walls like <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/sableye-mega/national-dex-monotype/\" hreflang=\"en\">Mega Sableye</a>, and <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>. Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/national-dex-monotype/\" hreflang=\"en\">Kleavor</a> uses its Rock typing to serve as a revenge killer that targets Flying- and Fire-types like <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a>, and <a href=\"/dex/sv/pokemon/cinderace/national-dex-monotype/\" hreflang=\"en\">Cinderace</a> while also setting Stealth Rock with Stone Axe. <a href=\"/dex/sv/pokemon/araquanid/national-dex-monotype/\" hreflang=\"en\">Araquanid</a> and <a href=\"/dex/sv/pokemon/galvantula/national-dex-monotype/\" hreflang=\"en\">Galvantula</a> provide Sticky Web support, allowing Lokix to outspeed threats like the <a href=\"/dex/sv/pokemon/ogerpon/national-dex-monotype/\" hreflang=\"en\">Ogerpon</a> formes, <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>, and <a href=\"/dex/sv/pokemon/nidoking/national-dex-monotype/\" hreflang=\"en\">Nidoking</a>. Araquanid leverages its high special bulk and Fire resistance to handle foes like <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-monotype/\" hreflang=\"en\">Iron Moth</a>, while Galvantula pressures Flying- and Water-types like Skarmory and <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>. Volcarona threatens Steel-types like Skarmory, Celesteela, and opposing <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>. Mega Scizor eliminates Rock- and Fairy-types like <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>. <a href=\"/dex/sv/pokemon/pinsir-mega/national-dex-monotype/\" hreflang=\"en\">Mega Pinsir</a> eases Fighting matchups, threatening foes like <a href=\"/dex/sv/pokemon/keldeo/national-dex-monotype/\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>, and it can also break through walls like Toxapex and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> that Lokix struggles with.</p>",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Darkinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 594972,
+            "username": "Murphy Lawden"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              },
+              {
+                "user_id": 321991,
+                "username": "Mateeus"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "pokemon": "Lokix",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Tinted Lens"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "First Impression",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leech Life",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Assurance",
+    "Astonish",
+    "Axe Kick",
+    "Bounce",
+    "Brick Break",
+    "Bug Bite",
+    "Bug Buzz",
+    "Counter",
+    "Dark Pulse",
+    "Detect",
+    "Double-Edge",
+    "Double Kick",
+    "Endure",
+    "Facade",
+    "Feint",
+    "First Impression",
+    "Fling",
+    "Giga Impact",
+    "Knock Off",
+    "Lash Out",
+    "Leech Life",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Lunge",
+    "Pounce",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Scary Face",
+    "Screech",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Spite",
+    "Struggle Bug",
+    "Substitute",
+    "Sucker Punch",
+    "Sunny Day",
+    "Swords Dance",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Trailblaze",
+    "U-turn",
+    "X-Scissor"
+  ]
+}

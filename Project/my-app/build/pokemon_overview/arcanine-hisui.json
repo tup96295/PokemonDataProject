@@ -1,0 +1,1751 @@
+{
+  "name": "Arcanine-Hisui",
+  "alias": "arcanine-hisui",
+  "types": [
+    "Fire",
+    "Rock"
+  ],
+  "stats": [
+    95,
+    115,
+    80,
+    95,
+    80,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Extreme Speed gets the jump on everything in the tier and backs up Hisuian Arcanine's potent STAB moves by letting it revenge kill frailer offensive Pokemon from high HP like <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/ogerpon/uu/\" hreflang=\"en\">Ogerpon</a>, and <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>. Notably, it can even prevent Adamant <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a> from revenge killing Hisuian Arcanine with First Impression. The perfect coverage afforded by these moves lets it fit a utility option into its last moveslot. Hisuian Arcanine is a great Stealth Rock setter thanks to its great matchup against <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a>, the most common entry hazard removers, but it can also use Morning Sun to let its user more recklessly switch it in against foes like <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a> and <a href=\"/dex/sv/pokemon/skarmory/uu/\" hreflang=\"en\">Skarmory</a>. Howl can be used over either choice to boost Hisuian Arcanine's Attack, letting it more easily cleave through offense with a boosted Extreme Speed. A Jolly nature with Tera Normal is chosen to let Hisuian Arcanine get the jump on Excadrill and to give Extreme Speed a much-needed power boost against offensive teams.</p>\n<p>Hisuian Arcanine best fits on offense teams and is best supported by offensive teammates that can break through the few things that can take on its STAB attacks. Latios can break through <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/hippowdon/uu/\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/sv/pokemon/gastrodon/uu/\" hreflang=\"en\">Gastrodon</a>, and it can help with some offensive foes that Hisuian Arcanine struggles to revenge kill like Sand Rush Excadrill while also switching into <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a> for it. Stealth Rock setters like Tinkaton let Hisuian Arcanine more freely run Morning Sun, and in return it relieves some pressure on them to switch into Flying-types like <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>. Tinkaton can also check some foes Hisuian Arcanine struggles with, such as the Normal-resistant faster offensive threat <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>. Pivot support from allies like Lokix and Tornadus-T can bring Hisuian Arcanine in on prey like Tinkaton and <a href=\"/dex/sv/pokemon/heatran/uu/\" hreflang=\"en\">Heatran</a>. Strong Water-types like <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a> and Greninja can help Hisuian Arcanine with bulky Ground-types like Hippowdon and <a href=\"/dex/sv/pokemon/rhyperior/uu/\" hreflang=\"en\">Rhyperior</a> that cause it problems.</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Morning Sun",
+                "type": null
+              },
+              {
+                "move": "Double-Edge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              },
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Normal",
+            "Rock",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Double-Edge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Rock</h4>\n<p>Hisuian Arcanine can use Wild Charge over Close Combat to consistently target Water-types such as <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/alomomola/monotype/\" hreflang=\"en\">Alomomola</a>, preserving Head Smash's PP while also providing a more accurate option. However, Head Smash already hits all of Wild Charge's relevant targets, and Close Combat provides significantly better coverage, as Hisuian Arcanine notably cannot break a healthy <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> without it.</p>",
+      "movesets": [
+        {
+          "name": "Choice Band (Rock)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Arcanine is a terrifying wallbreaker for Rock teams, capable of threatening Steel- and Grass-types due to its strong STAB moves, supporting ability, great coverage, and Fire typing. Head Smash is an immensely powerful move, enabling Hisuian Arcanine to OHKO <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> after minor chip damage and <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a> as well as 2HKO <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, physically defensive <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/alomomola/monotype/\" hreflang=\"en\">Alomomola</a>. Flare Blitz threatens <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> while breaking through Steel teams in general with ease in conjunction with Close Combat. Notably, it survives all of <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>'s attacks and retaliates via Flare Blitz. Rock Head allows Hisuian Arcanine to freely use Head Smash and Flare Blitz without their recoil damage. Close Combat provides coverage for <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and non-Choice Scarf <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> while also fighting off Dark-types such as <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a>. Extreme Speed allows Hisuian Arcanine to revenge kill faster foes like <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>.</p>\n<p>Hisuian Arcanine removes troublesome Steel- and Grass-types like Corviknight, Skarmory, and Amoonguss for its teammates. <a href=\"/dex/sv/pokemon/garganacl/monotype/\" hreflang=\"en\">Garganacl</a> is one of Hisuian Arcanine's best teammates due to its ability to force progress against Water and Steel, notably wearing down Archaludon, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and non-Choice Band <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> with Salt Cure. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a> heavily aids Hisuian Arcanine in the Water and Ground matchups, threatening foes such as <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a>, <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, and Swampert. <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> is a great teammate in the Fighting matchup, outpacing and removing <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, Sneasler, and <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>. Iron Boulder appreciates Hisuian Arcanine creating dents in the defensive core of teams, allowing it to clean up late-game. <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a> forms a potent wallbreaking core with Hisuian Arcanine, taking on Grass and Fairy teams effectively. Furthermore, it provides entry hazard control with Mortal Spin and sets its own array of hazards to wear down Hisuian Arcanine's switch-ins such as Archaludon, Great Tusk, and <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. In return, Glimmora appreciates Hisuian Arcanine removing Steel-types for it so it can freely use Mortal Spin. <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a> provides sand to help chip down foes and improve Hisuian Arcanine's special bulk, notably allowing it to survive Power Gem and Shadow Ball from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, respectively. Additionally, Tyranitar sets Stealth Rock; spreads paralysis with Thunder Wave to help Hisuian Arcanine outpace and OHKO faster offensive Pokemon such as Greninja, Spectrier, and Choice Scarf Heatran; and provides Knock Off utility.</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Rock)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wild Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Scarf (Fire)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set as we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Substitute + 3 Attacks (Rock)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Arcanine makes for a strong offensive threat on Rock teams by virtue of its extremely strong STAB options in Flare Blitz and Head Smash, now freely spammable thanks to its Rock Head ability, which allows it to threaten various Pokemon that Rock teams can struggle with, like <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. With Substitute, it takes advantage of passive Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/articuno/monotype/\" hreflang=\"en\">Articuno</a>, which can give Hisuian Arcanine the potential to snowball through slower teams. Close Combat is useful coverage that threatens Steel- and Rock-types such as <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a>.</p>\n<p>Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> makes for a great teammate, being able to set up entry hazards with Stone Axe, threaten the likes of <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> with its STAB and coverage, and pivot Hisuian Arcanine in on walls it struggles with, like Corviknight and Amoonguss, with U-turn. <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a> can set up a wide array of entry hazards in Stealth Rock, Spikes, and Toxic Spikes while also spreading status and removing hazards with Mortal Spin in case Hisuian Arcanine loses its Heavy-Duty Boots. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a> forms a great offensive pairing with Hisuian Arcanine, threatening Water-types such as <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> while appreciating Skarmory, Sinistcha, and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> being taken out in return. Choice Scarf <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> provides great speed control, and with its part-Psychic typing it threatens Fighting-types such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>. <a href=\"/dex/sv/pokemon/terrakion/monotype/\" hreflang=\"en\">Terrakion</a> and <a href=\"/dex/sv/pokemon/rhyperior/monotype/\" hreflang=\"en\">Rhyperior</a> make for great partners for Hisuian Arcanine, with Terrakion handling <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a> while Rhyperior's colorful coverage threatens the likes of <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/monotype/\" hreflang=\"en\">Landorus-T</a>. Lastly, Hisuian Arcanine's wallbreaking opens up opportunities for Iron Boulder and Shell Smash <a href=\"/dex/sv/pokemon/minior/monotype/\" hreflang=\"en\">Minior</a> to clean late-game.</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Band (Fire)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Arcanine makes a name for itself even among the intense firepower of Fire teams with its Rock Head ability and high base-power STAB moves in Flare Blitz and Head Smash, the former of which can break through even targets that resist it like <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a> when sun-boosted. Head Smash aids Hisuian Arcanine in matchups against types that resist Fire such as Water and Dragon, 2HKOing some of their bulkiest walls like <a href=\"/dex/sv/pokemon/dondozo/monotype/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, and Garchomp. Hisuian Arcanine also nets OHKOs on Dragon threats such as <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, aiding in the type matchup greatly. Extreme Speed allows Hisuian Arcanine to pick off weakened, faster foes like <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>. Close Combat can hit bulky Rock-types such as <a href=\"/dex/sv/pokemon/garganacl/monotype/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a>, as well as Flash Fire <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Wild Charge is used for consistent damage against bulky Water-types, often providing equal or greater damage to Head Smash while also not risking the shaky accuracy.</p>\n<p>Sporting a Choice Band leaves Hisuian Arcanine vulnerable to Stealth Rock and Sticky Web so hazard control from the likes of <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/torkoal/monotype/\" hreflang=\"en\">Torkoal</a> is greatly appreciated. Torkoal also sets up sun with its Drought ability, strengthening Hisuian Arcanine and its allies' Fire-type attacks and reducing the threat of incoming Water-type moves. <a href=\"/dex/sv/pokemon/ninetales/monotype/\" hreflang=\"en\">Ninetales</a> is an alternative Drought user with a much higher Speed tier and a pool of utility options like Healing Wish to further support Hisuian Arcanine. <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, Ninetales, and Cinderace can all work in tandem to overwhelm shared checks in bulky Water-types like Toxapex and Rotom-W and other Fire-resistant foes such as Garchomp, Heatran, and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. Ogerpon-H specifically makes use of its Grass-type STAB moves to threaten Water- and Rock-types and Mold Breaker to target Flash Fire Heatran. <a href=\"/dex/sv/pokemon/volcanion/monotype/\" hreflang=\"en\">Volcanion</a> provides a crucial immunity to Water, greatly improving the matchup against Water-types faster than Hisuian Arcanine such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, Greninja, and Aqua Jet <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>. <a href=\"/dex/sv/pokemon/rotom-heat/monotype/\" hreflang=\"en\">Rotom-H</a> and <a href=\"/dex/sv/pokemon/talonflame/monotype/\" hreflang=\"en\">Talonflame</a> can pivot into Ground-type attacks, the latter of the two also serving as entry hazard control for Hisuian Arcanine and tackling threats like Iron Valiant and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a>. Heatran is a crucial answer to Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, which otherwise spells doom for any team with Drought granting it a Protosynthesis boost; specially defensive Heatran easily tanks hits from Flutter Mane and OHKO it with Heavy Slam while also setting up Stealth Rock and trapping passive nuisances like Toxapex with its combination of Magma Storm and Earth Power. <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> can pivot into predicted Fighting-type moves for Hisuian Arcanine while also taking advantage of Hisuian Arcanine taking out opposing sweepers like Dragonite and weakened Greninja. Choice Scarf <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>'s Speed allows it to take on threats that are faster than and threaten to OHKO Hisuian Arcanine like <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> and Iron Valiant.</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Wild Charge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574288,
+            "username": "Giyu"
+          },
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          },
+          {
+            "user_id": 400664,
+            "username": "Stories"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 258247,
+                "username": "Simon Science"
+              },
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 531302,
+                "username": "Aether"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 523866,
+                "username": "UT"
+              },
+              {
+                "user_id": 736762,
+                "username": "Ascension Evermore"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              },
+              {
+                "user_id": 633500,
+                "username": "StupidFlandrs48"
+              },
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 172,
+              "atk": 116,
+              "def": 116,
+              "spa": 0,
+              "spd": 76,
+              "spe": 28
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 68,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 4,
+              "spe": 180
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Hisuian Arcanine is a potent offensive Pokemon on many teams thanks to its good Attack, great STAB coverage, and excellent ability in Intimidate, giving it good matchups against <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a>, <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-f/\" hreflang=\"en\">Rillaboom</a>, and <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>.</p>\n</li>\n<li>\n<p>Hisuian Arcanine works best in Tailwind compositions where its average Speed and poor defensive typing don't often hold it back, hence why Tailwind setters like Tornadus make good partners. In return, Hisuian Arcanine can provide Tornadus with Intimidate support, letting it stick around longer and support it with Tailwind or Bleakwind Storm damage.</p>\n</li>\n<li>\n<p>Hisuian Arcanine can be severely overwhelmed by Pokemon like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-f/\" hreflang=\"en\">Landorus</a>, making Pokemon like Rillaboom and <a href=\"/dex/sv/pokemon/latias/vgc24-regulation-f/\" hreflang=\"en\">Latias</a> good partners. Hisuian Arcanine also can be hindered heavily by other Intimidate users like <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a>, meaning it appreciates having Pokemon like Landorus that can threaten it.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Tera Blast Fairy can hit foes like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>, the former of which walls Hisuian Arcanine's STABs. Head Smash can be used to threaten Pokemon like <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a> with an OHKO at the cost of being chipped down by recoil.</p>\n</li>\n<li>\n<p>Choice Band boosts Hisuian Arcanine's damage, allowing for OHKOs on top threats like Urshifu-R, <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-f/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-H</a>.</p>\n</li>\n<li>\n<p>The given EV spread lets Hisuian Arcanine take two unboosted <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> Shadow Balls and almost always survive a Stomping Tantrum from Ogerpon-H. The Speed EVs let it outspeed <a href=\"/dex/sv/pokemon/regieleki/vgc24-regulation-f/\" hreflang=\"en\">Regieleki</a> in Tailwind.</p>\n</li>\n<li>\n<p>Tera Fairy lets Hisuian Arcanine remove its weakness to Fighting-type attacks, which can be useful in a pinch against <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>; this can also let it survive Surging Strikes from Mystic Water Urshifu-R. Tera Normal boosts Extreme Speed's damage, which can be helpful against neutral targets like Urshifu-R.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 52,
+              "atk": 196,
+              "def": 28,
+              "spa": 0,
+              "spd": 4,
+              "spe": 228
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 633500,
+                "username": "StupidFlandrs48"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Teambuilding</h3>\n<ul>\n<li>Clear Amulet Hisuian Arcanine shines on teams that lean towards offense, featuring Coaching and a reliable form of speed control to make up for its average Speed, while the Mirror Herb set prefers to be on teams that appreciate its ability to remove <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a> and potentially <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a>.</li>\n<li><a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a> are incredible partners for Hisuian Arcanine, especially Clear Amulet sets. Dragonite supports it with Tailwind while having key resistances to Grass-, Water-, and Fighting-type attacks and an immunity to Ground-type attacks, with Scale Shot to remove Focus Sash Sneasler. Sneasler threatens and removes both <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> formes and <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a> while providing Coaching boosts for Hisuian Arcanine, which can become incredibly problematic for teams to handle after one or two boosts.</li>\n<li><a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a> also has good synergy with Hisuian Arcanine, being able to super effectively hit the Water- and Ground-types like both Ursaluna formes and <a href=\"/dex/sv/pokemon/dondozo/vgc/\" hreflang=\"en\">Dondozo</a> that give Hisuian Arcanine a hard time. Rillaboom can pin Dondozo, forcing it to either Terastallize into the Grass typing and take good chunks of damage from Flare Blitz or not Terastallize and take massive damage from Rillaboom's attacks. Rillaboom also packs Fake Out support and potentially U-turn to help get Hisuian Arcanine onto the field safely and activate Intimidate. Intimidate can help Rillaboom stick around a lot longer throughout the game, allowing it to survive Ursaluna's Guts-boosted Facade and <a href=\"/dex/sv/pokemon/baxcalibur/vgc/\" hreflang=\"en\">Baxcalibur</a>'s five-hit Icicle Spear.</li>\n<li><a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a> is also a good partner for Hisuian Arcanine, providing speed control via Icy Wind and removing the Ursaluna formes with Blizzard In return, Hisuian Arcanine can threaten huge damage to Alolan Ninetales's checks, such as <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, and Kingambit.</li>\n<li>Nasty Plot Gholdengo can be a solid pick to pair with Mirror Herb sets, as it appreciates Hisuian Arcanine's ability to remove its common checks, Kingambit and both Ursaluna formes,with Close Combat, as well as <a href=\"/dex/sv/pokemon/volcarona/vgc/\" hreflang=\"en\">Volcarona</a> and opposing Gholdengo.</li>\n</ul>\n<h3>Strategy Comments</h3>\n<ul>\n<li>Hisuian Arcanine's main role on teams is to function as a decently fast burst damage attacker while providing some utility with Intimidate. It works best early-game, weakening and removing threats on the opposing side for its other teammates like Gholdengo, Sneasler, and Dragonite to clean up, but can be sent out late-game where the opposing team has been weakened enough for Hisuian Arcanine to pick off foes with Rock Slide or Extreme Speed. Clear Amulet Hisuian Arcanine is a great tool against balance compositions with Incineroar, Rillaboom, and Dragonite, while Mirror Herb Hisuian Arcanine is incredibly useful for teams that have a hard time handling teams that have common setup sweepers.</li>\n<li>Hisuian Arcanine can apply immediate pressure with Intimidate and its STAB moves for its other teammates, threatening common leads such as Rillaboom, Incineroar, Gholdengo, and Volcarona. It can also sweep with Coaching support from Sneasler, and it appreciates Sneasler and Rillaboom being able to weaken or remove both Ursaluna formes, <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>, and Archaludon for an easier cleanup or sweep.</li>\n<li>Water- and Ground-types can give Hisuian Arcanine a hard time due to it not having any way to threaten reliable damage against them, especially both Ursaluna formes. Hisuian Arcanine also doesn't appreciate rain compositions, which weaken its Flare Blitz and always use Basculegion-M to revenge kill it and Archaludon to sponge its attacks. Using Hisuian Arcanine with teammates that help against these problems is recommended; Rillaboom can remove and deter the use of Water- and Ground-types with its STAB moves, while Annihilape and Sneasler can reliably threaten Archaludon.</li>\n<li>Faster threats like Sneasler, Choice Scarf Basculegion-M, and boosted Dondozo can outspeed and cleanly OHKO Hisuian Arcanine with their STAB moves, while Annihilape and <a href=\"/dex/sv/pokemon/flamigo/vgc/\" hreflang=\"en\">Flamigo</a> have a chance to win the Speed tie and can also OHKO Hisuian Arcanine, so it is worth using Hisuian Arcanine with speed control like Tailwind from Dragonite to outspeed the aforementioned checks and redirection support from <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a> or <a href=\"/dex/sv/pokemon/indeedee-f/vgc/\" hreflang=\"en\">Indeedee-F</a>.</li>\n<li>Teams that center around Trick Room and feature Psychic-type spam cores and strong Trick Room sweepers like <a href=\"/dex/sv/pokemon/torkoal/vgc/\" hreflang=\"en\">Torkoal</a> and Ursaluna also cause problems, underspeeding Hisuian Arcanine in Trick Room and OHKOing it with their strong attacks. The user can stall Trick Room turns until it expires by positioning Rillaboom for Fake Out and using Hisuian Arcanine's Protect. Both Dragonite and Hisuian Arcanine take Eruption from Torkoal well and can fire back with Scale Shot and Rock Slide, respectively. Rillaboom replaces <a href=\"/dex/sv/pokemon/indeedee/vgc/\" hreflang=\"en\">Indeedee</a>'s Psychic Terrain with Grassy Terrain, threatening Grassy Glide on Ursaluna and a weakened <a href=\"/dex/sv/pokemon/hatterene/vgc/\" hreflang=\"en\">Hatterene</a> and also allowing Hisuian Arcanine to use Extreme Speed.</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Clear Amulet",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>With great Attack and decent Speed, good utility in Intimidate, and a good offensive tpying in Fire/Rock, Hisuian Arcanine can be a solid offensive pick for teams, threatening metagame staples such as <a href=\"/dex/sv/pokemon/rillaboom/vgc/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a>, and <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>.</li>\n<li>Flare Blitz is Hisuian Arcanine's best STAB attack, threatening massive damage on Grass- and Steel-types like <a href=\"/dex/sv/pokemon/amoonguss/vgc/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/whimsicott/vgc/\" hreflang=\"en\">Whimsicott</a>, and <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a>, while Rock Slide provides spread damage, avoids redirection, and hits Incineroar, <a href=\"/dex/sv/pokemon/volcarona/vgc/\" hreflang=\"en\">Volcarona</a>, and Dragonite. Extreme Speed lets Hisuian Arcanine pickoff weakened foes and goes before most forms of priority like Grassy Glide and Sucker Punch, allowing it to finish off Rillaboom and Kingambit. Extreme Speed can also outprioritize and evade redirection from Amoonguss's Rage Powder.</li>\n<li>Clear Amulet prevents Attack drops from Intimidate and Parting Shot from Incineroar and opposing Hisuian Arcanine, though Incineroar can remove Hisuian Arcanine's Clear Amulet via Knock Off. Clear Amulet also blocks other stat drops such as Speed drops from <a href=\"/dex/sv/pokemon/ninetales-alola/vgc/\" hreflang=\"en\">Alolan Ninetales</a>'s Icy Wind.</li>\n<li>Tera Water grants Hisuian Arcanine Water and Steel resistances against <a href=\"/dex/sv/pokemon/pelipper/vgc/\" hreflang=\"en\">Pelipper</a>, <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>, and Gholdengoas well as a neutrality to Fighting- and Ground- type attacks like Close Combat, Drain Punch, Earth Power, and Headlong Rush from <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>, <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a>, and both <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> formes. Tera Water does make Hisuian Arcanine weak to Grass-type attacks from Rillaboom and Electro Shot from <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>.</li>\n<li>Tera Ghost grants an immunity to Fighting-type attacks from Sneasler and Annilhilape as well as an immunity to Fake Out from the likes of Incineroar, Rillaboom, and Sneasler. Tera Ghost does make Hisuian Arcanine weak to Gholdengo's Shadow Ball and Annihilape's Rage Fist as well as Dark-type attacks like Knock Off or Kowtow Cleave from Incineroar and Kingambit. Some Sneasler sets also utilize Tera Dark with Throat Chop, hitting Tera Ghost Hisuian Arcanine super effectively.</li>\n<li>Hisuian Arcanine has advantages over Incineroar, another option for a Fire-type with Intimidate, in its much larger offensive presence, being able to actually threaten an OHKO on Pokemon like Volcarona, and access to strong priority in Extreme Speed.</li>\n<li>Hisuian Arcanine's exploitable typing and subpar bulk against common checks like Sneasler, Archaludon, and Basculegion means it isn't able to switch around often to take advantage of Intimidate. It also can't damage most of the Water-, Ground-, and Fighting-types that roam the metagame while also Speed tying against Annihilape and being outsped by Sneasler, <a href=\"/dex/sv/pokemon/garchomp/vgc/\" hreflang=\"en\">Garchomp</a>, and boosted <a href=\"/dex/sv/pokemon/dondozo/vgc/\" hreflang=\"en\">Dondozo</a>.</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Clear Amulet"
+          ],
+          "teratypes": [
+            "Water",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Mirror Herb",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>Mirror Herb lets Hisuian Arcanine take advantage of Attack boosts from Swords Dance <a href=\"/dex/sv/pokemon/kingambit/vgc/\" hreflang=\"en\">Kingambit</a>, Swords Dance <a href=\"/dex/sv/pokemon/sneasler/vgc/\" hreflang=\"en\">Sneasler</a>, and Bulk Up <a href=\"/dex/sv/pokemon/annihilape/vgc/\" hreflang=\"en\">Annihilape</a> and remove them with boosted Flare Blitz. It can gain Speed boosts from other setup sweepers like Quiver Dance <a href=\"/dex/sv/pokemon/volcarona/vgc/\" hreflang=\"en\">Volcarona</a> and Scale Shot <a href=\"/dex/sv/pokemon/dragonite/vgc/\" hreflang=\"en\">Dragonite</a>.</li>\n<li>Close Combat threatens the likes of Kingambit and <a href=\"/dex/sv/pokemon/incineroar/vgc/\" hreflang=\"en\">Incineroar</a> much more effectively and can also deal solid chunks of damage against the <a href=\"/dex/sv/pokemon/ursaluna/vgc/\" hreflang=\"en\">Ursaluna</a> formes and <a href=\"/dex/sv/pokemon/archaludon/vgc/\" hreflang=\"en\">Archaludon</a>.</li>\n<li>Tera Fairy Let Hisuian Arcanine resist Dark- and Fighting-type moves, which can be helpful against Kingambit's Sucker Punch and Sneasler's Close Combat. Tera Fairy also grants an immunity to Dragon-type moves, mainly Dragonite's Scale Shot, and a neutrality to Ground-type moves from the Ursaluna formes. Tera Fairy Hisuian Arcanine needs to be wary of Sneasler's Dire Claw and <a href=\"/dex/sv/pokemon/gholdengo/vgc/\" hreflang=\"en\">Gholdengo</a>'s Make It Rain.</li>\n<li>The EV spread has enough investment to let Hisuian Arcanine survive +1 Sucker Punch from Black Glasses Kingambit while still having enough Speed to outspeed maximum Speed Archaludon, Gholdengo, and <a href=\"/dex/sv/pokemon/basculegion/vgc/\" hreflang=\"en\">Basculegion-M</a>. The rest of the EVs are put into Attack.</li>\n<li>Mirror Herb Hisuian Arcanine can be more flexible and act more recklessly with less worry of Defiant or setup moves while also having a way to damage both Ursaluna formes and Archaludon, which would otherwise more heavily trouble it.</li>\n<li>This set has a worse matchup against Incineroar with the loss of Clear Amulet, making it more vulnerable to Intimidate and Parting Shot cycling as well as other stat drops. The loss of priority also hurts Hisuian Arcanine's presence on the field, losing the ability to finish off weakened foes.</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Mirror Herb"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 180,
+              "atk": 44,
+              "def": 12,
+              "spa": 0,
+              "spd": 20,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 625105,
+            "username": "forkuser"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 391343,
+                "username": "EthanLac"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Magic Guard",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Arcanine is a fearsome wallbreaker, using Magic Guard to eliminate the recoil from Life Orb and its incredibly high-Base Power STAB moves and prevent chip damage from entry hazards. Morning Sun allows Hisuian Arcanine to have defensive utility, being a useful check to Pokemon like <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a> and <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a>. Extreme Speed offsets Hisuian Arcanine's middling Speed and allows it to pick off chipped foes. Stealth Rock lets it leverage its good offensive typing against common Defog users like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a> to function as an offensive entry hazard setter, while Will-O-Wisp debilitates switch-ins like <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a>, greatly dampening their damage output. Hisuian Arcanine greatly struggles with being revenge killed by faster threats like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a>, and Zamazenta, so it appreciates defensive teammates like Corviknight and <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>. Slow pivots like the aforementioned Corviknight and Manaphy can help give Hisuian Arcanine more opportunities to wallbreak. Hisuian Arcanine can struggle with Well-Baked Body Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a>, so teammates like <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a> and Zamazenta can help by breaking through them.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 594122,
+            "username": "Evie"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 475288,
+                "username": "Tranquility"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 10-11 points</p>\n<p><strong>Overview</strong>: Hisuian Arcanine is an excellent wallbreaker thanks to its solid Attack stat combined with extremely strong STAB moves and a lack of recoil damage thanks to Rock Head. There are very few Pokemon that want to switch into its strong STAB moves, and it can make up for its lower Speed tier with Extreme Speed. It even has some utility with Intimidate and Stealth Rock and can use Morning Sun to prolong its stay on the battlefield. However, its weakness to Stealth Rock, mediocre bulk, and unimpressive base Speed hold it back from being a stronger threat.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Wallbreaker</strong>: Hisuian Arcanine's extremely powerful STAB moves and respectable Attack mean any Pokemon has to be careful switching in. Its solid Speed means it outspeeds most defensive Pokemon, and Choice Band boosts its Attack to sky-high levels. The combination of Head Smash, Flare Blitz, and Close Combat is unresisted, and Hisuian Arcanine has a number of coverage moves to hit OHKO or 2HKO thresholds.</p>\n<p><strong>Defensive Pivot</strong>: Heavy-Duty Boots, Intimidate, and Morning Sun let Hisuian Arcanine play a utility role, coming in on physical threats and forcing them out through Intimidate and the threat of Will-O-Wisp. It can stay healthy with Morning Sun and force progress with Stealth Rock or the threat of a strong Flare Blitz or Head Smash.</p>\n<p><strong>Revenge Killer / Cleaner</strong>: Hisuian Arcanine has a great Speed tier for Choice Scarf, and its strong STAB moves can take care of most setup sweepers. It even has Extreme Speed as a priority option in case its foe is still faster.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Head Smash, Flare Blitz, Stone Edge, Raging Fury</p>\n<p><strong>Setup Moves</strong>: Agility, Flame Charge</p>\n<p><strong>Utility Moves</strong>: Will-O-Wisp, Morning Sun, Roar, Stealth Rock</p>\n<p><strong>Coverage</strong>: Extreme Speed, Crunch, Iron Head, Outrage, Psychic Fangs, Wild Charge, Close Combat, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Rock Tomb / Bulldoze</strong>: Rock Tomb and Bulldoze can help with speed control on more defensive sets and ensure certain foes cannot set up.</p>\n<p><strong>Rock Blast</strong>: Rock Blast is more accurate than Head Smash and can bypass Sturdy and Focus Sash, letting Hisuian Arcanine stop certain revenge killers from ruining its day.</p>\n<p><strong>Special Attacks</strong>: Hisuian Arcanine has a decent base Special Attack stat, so if your opponent has a good physical check to it that would die to be KOed by a special attack from it, you can slap Choice Specs on it to catch your opponent off guard.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Band</strong>: Choice Band boosts Hisuian Arcanine's Attack to absurd levels and, in combination with strong moves like Head Smash and Flare Blitz, lets it threaten 2HKOs or OHKOs on a majority of Pokemon.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots gets rid of Hisuian Arcanine's weakness to Stealth Rock and allows it to switch in more freely, either to continually use strong attacks throughout the game or use Intimidate and threaten Will-O-Wisp against foes with its bulkier sets.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf lets Hisuian Arcanine act as a powerful revenge killer, outspeeding most unboosted Pokemon while still being a threatening presence.</p>\n<h3>Niche Items</h3>\n<p><strong>Other Damage-boosting Items</strong>: Other damage-boosting items such as Charcoal and Life Orb can be used to boost Hisuian Arcanine's damage output without locking it into a move.</p>\n<p><strong>Resistance Berries</strong>: If there is a specific threat that only Hisuian Arcanine can check and it can only survive against it with the help of a resistance Berry, then it can be worthwhile to use one.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet in combination with Intimidate can punish physical attackers with contact moves and also help punish U-turn.</p>\n<p><strong>Protective Pads</strong>: Hisuian Arcanine makes contact with almost all of its offensive moves, so Protective Pads can keep it safe from Rough Skin or Rocky Helmet.</p>\n<h3>Tera</h3>\n<p>Hisuian Arcanine doesn't need to be a Tera Captain, as it's threatening even without a boost to its STAB moves from Tera. If you do choose to use it as a Tera Captain, Tera Rock and Fire help boost Hisuian Arcanine's best traits in its incredibly powerful attacks. Tera Fighting lets it have completely unresisted STAB coverage, and Tera Normal gives it strong priority in STAB Extreme Speed. Tera types like Tera Grass, Water, and Flying let it flip its defensive weaknesses into resistances while giving it solid coverage options, while Tera Fairy is a strong defensive type that works well with Hisuian Arcanine's defensive pivot set.</p>\n<h3>Draft Strategy</h3>\n<p>Hisuian Arcanine should be drafted when your team is in need of a strong physical wallbreaker. It can muscle past most defensive Pokemon, and it can severely weaken the toughest of defensive checks, allowing your setup sweepers to close out games.</p>\n<p><strong>Slow Pivots</strong>: Hisuian Arcanine is not the bulkiest Pokemon, and it has a poor defensive typing. Hard switching it in on an attack leaves it with little health to do its job, and with its offensive sets not running Heavy-Duty Boots, it can be easily chipped down by entry hazards. Pokemon like <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> can take an attack and switch out, letting Hisuian Arcanine come in safely on their checks.</p>\n<p><strong>Entry Hazard Removal</strong>: Hisuian Arcanine enjoys having item flexibility and has a weakness to Stealth Rock. Pokemon like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a>, and Corviknight can remove entry hazards and in some cases act as pivots or bait out moves that Hisuian Arcanine doesn't mind switching in on.</p>\n<p><strong>Special Wallbreakers</strong>: Strong special wallbreakers like <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/thundurus-therian/draft/\" hreflang=\"en\">Thundurus-T</a>, and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a> can take care of the walls that Hisuian Arcanine has trouble with, allowing it to sweep weakened teams.</p>\n<p><strong>Other Stealth Rock Setters</strong>: Hisuian Arcanine rarely wants to be bringing Stealth Rock to matches, so make sure you have other options to set entry hazards. Iron Treads, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/azelf/draft/\" hreflang=\"en\">Azelf</a> are all solid options that work well with Hisuian Arcanine.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Fire- and Rock-resistant Pokemon</strong>: Pokemon that resist Hisuian Arcanine's STAB combination can be a problem for it, since it wants to be using Head Smash or Flare Blitz as often as possible. <a href=\"/dex/sv/pokemon/quagsire/draft/\" hreflang=\"en\">Quagsire</a>, <a href=\"/dex/sv/pokemon/kommo-o/draft/\" hreflang=\"en\">Kommo-o</a>, and <a href=\"/dex/sv/pokemon/quaquaval/draft/\" hreflang=\"en\">Quaquaval</a> can all switch in on Hisuian Arcanine and tank a hit while threatening a KO back.</p>\n<p><strong>Faster Threats</strong>: With only middling base Speed, Hisuian Arcanine doesn't outspeed a lot of offensive Pokemon, and with medium defenses and a poor defensive typing, it can be easily taken out in one hit. Pokemon like <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> can threaten it out with faster super effective attacks.</p>\n<p><strong>Entry Hazards</strong>: Offensive sets want to run a Choice item or Life Orb; thus, Hisuian Arcanine is very vulnerable to being chipped down by entry hazards. Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> can set up hazards while making sure it can't switch in.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574067,
+            "username": "Freya"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 466715,
+                "username": "sablolol"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive (Atk, Spe)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Mix and Mega",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Altarianite",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Arcanine is one of the tier's strongest Stealth Rock setters and revenge killers, thanks to its access to Pixilate-boosted Extreme Speed, along with Morning Sun for extra longevity. Its typing is equally impressive, allowing Hisuian Arcanine to deal tremendous damage to common Extreme Speed switch-ins like <a href=\"/dex/sv/pokemon/magearna/mix-and-mega/\" hreflang=\"en\">Magearna</a>, <a href=\"/dex/sv/pokemon/corviknight/mix-and-mega/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/mix-and-mega/\" hreflang=\"en\">Necrozma-DM</a> with STAB Flare Blitz and check opposing Pixilate Extreme Speed users, such as <a href=\"/dex/sv/pokemon/regieleki/mix-and-mega/\" hreflang=\"en\">Regieleki</a> and <a href=\"/dex/sv/pokemon/dragonite/mix-and-mega/\" hreflang=\"en\">Dragonite</a>, which lets Hisuian Arcanine further threaten a KO. Pre-Mega Evolution, Hisuian Arcanine has the ability Intimidate, which enables it to weaken physical attackers like Dragonite; however, be wary of <a href=\"/dex/sv/pokemon/kingambit/mix-and-mega/\" hreflang=\"en\">Kingambit</a> due to its access to Defiant. Hisuian Arcanine commonly fulfills the role of a Stealth Rock setter, especially because it can threaten common Sablenite users such as Magearna, <a href=\"/dex/sv/pokemon/mandibuzz/mix-and-mega/\" hreflang=\"en\">Mandibuzz</a>, and Corviknight. It can utilize Stone Edge to deal with <a href=\"/dex/sv/pokemon/ho-oh/mix-and-mega/\" hreflang=\"en\">Ho-Oh</a> and <a href=\"/dex/sv/pokemon/iron-moth/mix-and-mega/\" hreflang=\"en\">Iron Moth</a>, which would otherwise completely wall it. Double-Edge is an alternative that lets Hisuian Arcanine threaten <a href=\"/dex/sv/pokemon/garganacl/mix-and-mega/\" hreflang=\"en\">Garganacl</a>, while in niche cases, Howl can be used instead to transform it into a decent setup sweeper. The Speed EVs allow it to outspeed Adamant Aerodactylite Kingambit. Hisuian Arcanine typically fits on bulky offense teams, serving as a powerful revenge killer and also as a hard counter to opposing Extreme Speed users. Due to its weakness to Stealth Rock, entry hazard removers like <a href=\"/dex/sv/pokemon/great-tusk/mix-and-mega/\" hreflang=\"en\">Great Tusk</a> and Corviknight make excellent partners. It is also recommended to have a Sablenite user, such as Corviknight, Magearna, or Mandibuzz, as any of them can prevent foes from setting up hazards while facilitating Hisuian Arcanine to safely switch into threats like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/mix-and-mega/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/mix-and-mega/\" hreflang=\"en\">Hisuian Samurott</a>, and Lopunnite <a href=\"/dex/sv/pokemon/iron-boulder/mix-and-mega/\" hreflang=\"en\">Iron Boulder</a>. Corviknight and Mandibuzz are also capable of switching into Ground-types such as Great Tusk, <a href=\"/dex/sv/pokemon/arceus-ground/mix-and-mega/\" hreflang=\"en\">Arceus-Ground</a>, and <a href=\"/dex/sv/pokemon/hippowdon/mix-and-mega/\" hreflang=\"en\">Hippowdon</a>, which Hisuian Arcanine struggles against. Other Ground-type answers or counters, such as Pinsirite Great Tusk, Ho-Oh, <a href=\"/dex/sv/pokemon/milotic/mix-and-mega/\" hreflang=\"en\">Milotic</a>, and Latiasite users like Magearna and <a href=\"/dex/sv/pokemon/pecharunt/mix-and-mega/\" hreflang=\"en\">Pecharunt</a>, also exhibit great synergy with Hisuian Arcanine. <a href=\"/dex/sv/pokemon/raging-bolt/mix-and-mega/\" hreflang=\"en\">Raging Bolt</a> is an outstanding partner, as it effortlessly deals with walls like Pecharunt, Milotic, and <a href=\"/dex/sv/pokemon/arceus-water/mix-and-mega/\" hreflang=\"en\">Arceus-Water</a>, while in return, Hisuian Arcanine switches into and KOes Pixilate Extreme Speed users such as Dragonite and Regieleki. <a href=\"/dex/sv/pokemon/eternatus/mix-and-mega/\" hreflang=\"en\">Eternatus</a> serves as one of Hisuian Arcanine's best checks; thus, dedicated checks like Arceus-Ground, <a href=\"/dex/sv/pokemon/arceus-poison/mix-and-mega/\" hreflang=\"en\">Arceus-Poison</a>, Corviknight, and Magearna, especially the Blue Orb versions of the latter two, can be used to counter it. Hisuian Arcanine has notable synergy with Future Sight users such as <a href=\"/dex/sv/pokemon/iron-crown/mix-and-mega/\" hreflang=\"en\">Iron Crown</a>, <a href=\"/dex/sv/pokemon/lunala/mix-and-mega/\" hreflang=\"en\">Lunala</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/mix-and-mega/\" hreflang=\"en\">Galarian Slowking</a>, as it deals with common Psychic-resistant foes like Magearna, Corviknight, and Mandibuzz, while Future Sight, in return, helps Hisuian Arcanine against walls such as Eternatus and Arceus-Poison.</p>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Altarianite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Double-Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 160,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Pinsirite Revenge Killer",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Pinsirite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Double-Edge",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Howl",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 160,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641598,
+            "username": "Solosis"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 545372,
+                "username": "Clas"
+              },
+              {
+                "user_id": 591294,
+                "username": "Lightniong"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Choice Scarf Hisuian Arcanine looks to outspeed its biggest threats, such as Choice Scarf <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a>, <a href=\"/dex/sv/pokemon/spectrier/1v1/\" hreflang=\"en\">Spectrier</a>, and <a href=\"/dex/sv/pokemon/meowscarada/1v1/\" hreflang=\"en\">Meowscarada</a>, in order to OHKO them on the first turn.</li>\n<li>Head Smash hits Volcanion, opposing Hisuian Arcanine, and <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a>, with the Choice Scarf helping against the last one in case of Substitute variants.</li>\n<li>Raging Fury is preferred over Flare Blitz due to its non-recoil-related drawback, which helps it nicely against Choice Band <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a>. It can also KO fast Weakness Policy <a href=\"/dex/sv/pokemon/iron-crown/1v1/\" hreflang=\"en\">Iron Crown</a>, which Choice Band sets cannot do, as Iron Crown's higher Speed allows it to set up Iron Defense.</li>\n<li>Close Combat is able to OHKO <a href=\"/dex/sv/pokemon/chien-pao/1v1/\" hreflang=\"en\">Chien-Pao</a> and <a href=\"/dex/sv/pokemon/darkrai/1v1/\" hreflang=\"en\">Darkrai</a>.</li>\n<li>Outrage hits Dragon-types such as <a href=\"/dex/sv/pokemon/dragapult/1v1/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/haxorus/1v1/\" hreflang=\"en\">Haxorus</a>.</li>\n<li>An Adamant nature allows Hisuian Arcanine to pick up more KOs, such as on fast Weakness Policy Iron Crown; however, a Jolly nature allows it to outspeed more threats, such as Dragapult and Choice Scarf Hoopa-U.</li>\n<li>Hisuian Arcanine may struggle against Water- and Ground-types like <a href=\"/dex/sv/pokemon/manaphy/1v1/\" hreflang=\"en\">Manaphy</a>, <a href=\"/dex/sv/pokemon/great-tusk/1v1/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a>, so teammates like <a href=\"/dex/sv/pokemon/rillaboom/1v1/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> make for good partners.</li>\n</ul>",
+          "abilities": [
+            "Intimidate"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Raging Fury",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Head Smash deals with foes such as non-Choice Scarf <a href=\"/dex/sv/pokemon/volcanion/1v1/\" hreflang=\"en\">Volcanion</a> and <a href=\"/dex/sv/pokemon/skeledirge/1v1/\" hreflang=\"en\">Skeledirge</a> while also dealing great damage against neutral foes such as <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a> and <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a>.</li>\n<li>Flare Blitz is Hisuian Arcanine's best move against Steel-types like non-Choice Scarf <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a>, <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/scizor/1v1/\" hreflang=\"en\">Scizor</a>.</li>\n<li>Outrage secures the matchup against frailer Dragon-types such as non-defensive <a href=\"/dex/sv/pokemon/haxorus/1v1/\" hreflang=\"en\">Haxorus</a> and non-Haban Berry <a href=\"/dex/sv/pokemon/raging-bolt/1v1/\" hreflang=\"en\">Raging Bolt</a> while also giving Hisuian Arcanine a better matchup against <a href=\"/dex/sv/pokemon/roaring-moon/1v1/\" hreflang=\"en\">Roaring Moon</a>.</li>\n<li>Close Combat beats non-Chople Berry and non-Custap Berry <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a>.</li>\n<li>A Jolly nature gives Hisuian Arcanine a better matchup against Hoopa-U and non-maximum Speed <a href=\"/dex/sv/pokemon/kyurem/1v1/\" hreflang=\"en\">Kyurem</a>. Alternatively, an Adamant nature may be used for a better matchup against Raging Bolt.</li>\n<li>Hisuian Arcanine struggles against Fighting-type foes such as <a href=\"/dex/sv/pokemon/urshifu/1v1/\" hreflang=\"en\">Urshifu</a> and <a href=\"/dex/sv/pokemon/great-tusk/1v1/\" hreflang=\"en\">Great Tusk</a> as well as Water- and Ground-types such as <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/landorus-therian/1v1/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a>. It is recommended to use it alongside partners such as Primarina, <a href=\"/dex/sv/pokemon/zapdos/1v1/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/1v1/\" hreflang=\"en\">Ogerpon-W</a> that can deal with these threats.</li>\n</ul>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly",
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 563650,
+            "username": "bern"
+          },
+          {
+            "user_id": 670315,
+            "username": "Mentality"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 316445,
+                "username": "lost heros"
+              },
+              {
+                "user_id": 493772,
+                "username": "bellchime"
+              },
+              {
+                "user_id": 518399,
+                "username": "Itchy"
+              },
+              {
+                "user_id": 670315,
+                "username": "Mentality"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choiced Attacker (Rock)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Compressing obscene wallbreaking capabilities, cleaning potential, and a partial Fire typing that eases the matchup for its team against Grass- and Steel-types, Hisuian Arcanine is a valuable asset for Rock teams. Flare Blitz OHKOes multiple Steel-types that Rock teams can struggle with, such as <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a>, and, after Stealth Rock, <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>. Head Smash hits even harder and is the main option against neutral targets, notably 2HKOing <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, and Skarmory. Extreme Speed mitigates the lacking Speed tier Hisuian Arcanine has, allowing it to revenge kill foes such as <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/barraskewda/national-dex-monotype/\" hreflang=\"en\">Barraskewda</a>. Close Combat OHKOes <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a> after Stealth Rock, <a href=\"/dex/sv/pokemon/ursaluna/national-dex-monotype/\" hreflang=\"en\">Ursaluna</a> after minimal chip, and 2HKOes <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>, minimizing would-be checks. Choice Scarf can be an alternative option to outspeed and KO foes such as <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a>, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, and <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a>, but the lack of damage output and minimal benefit to Extreme Speed makes it more situational. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/national-dex-monotype/\" hreflang=\"en\">Ogerpon-C</a> can handle the Ground- and Water-types that can easily pressure Hisuian Arcanine such as <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>. Entry hazards from <a href=\"/dex/sv/pokemon/shuckle/national-dex-monotype/\" hreflang=\"en\">Shuckle</a> and <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> can considerably increase Hisuian Arcanine's offensive pressure, with Shuckle's Sticky Web minimizing the reliance on Extreme Speed to outspeed foes, and Stealth Rock from Shuckle or Spikes from Mega Diancie easing KOs on foes. Mega Diancie and <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a> offensively check Fighting-types that check Hisuian Arcanine such as <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a>.</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Non-Choice Item Attacker (Rock)",
+          "pokemon": "Arcanine-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Heavy-Duty Boots, Hisuian Arcanine can repeatedly switch in and out to force out threats like <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a>, <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, and <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> for Rock teams. Flare Blitz and Head Smash take full advantage of Hisuian Arcanine's solid Attack and Rock Head, allowing it to hit almost everything relentlessly. Morning Sun gives Hisuian Arcanine even more staying power. Substitute capitalizes on its ability to force out Steel- and Flying-types like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>. Extreme Speed picks off weakened threats like <a href=\"/dex/sv/pokemon/lopunny-mega/national-dex-monotype/\" hreflang=\"en\">Mega Lopunny</a> and <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a>. 28 Defense EVs let Hisuian Arcanine survive a +2 Bullet Punch from Mega Scizor, allowing Hisuian Arcanine to OHKO it back with Flare Blitz. As Hisuian Arcanine is not strong enough to break through dedicated physical walls like <a href=\"/dex/sv/pokemon/porygon2/national-dex-monotype/\" hreflang=\"en\">Porygon2</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a>, setup sweepers like Swords Dance <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/national-dex-monotype/\" hreflang=\"en\">Ogerpon-C</a> that deal with these are greatly appreciated. Ogerpon-C also additionally deals with Water- and Ground-type walls like <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/quagsire/national-dex-monotype/\" hreflang=\"en\">Quagsire</a>, which scoff at Hisuian Arcanine's attempts to wallbreak. <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> and <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a> deal with Fighting-types like <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a> that check Hisuian Arcanine, and in return, they benefit from Hisuian Arcanine weakening or removing Steel-types like Mega Scizor and <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>, allowing Mega Diancie and Mega Aerodactyl to heavily pressure teams like Bug, Flying, and Steel late-game. Entry hazard support in <a href=\"/dex/sv/pokemon/shuckle/national-dex-monotype/\" hreflang=\"en\">Shuckle</a>, particularly Sticky Web, lets Hisuian Arcanine deal with Choice Scarf threats like <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a> and Gholdengo, and faster Pokemon like Choice Specs <a href=\"/dex/sv/pokemon/greninja/national-dex-monotype/\" hreflang=\"en\">Greninja</a>. Special attackers like Shell Smash <a href=\"/dex/sv/pokemon/omastar/national-dex-monotype/\" hreflang=\"en\">Omastar</a> and <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a> deal with annoying walls like Archaludon and Toxapex, respectively, and both benefit from Ferrothorn and Mega Scizor getting obliterated by Hisuian Arcanine.</p>",
+          "abilities": [
+            "Rock Head"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flare Blitz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Head Smash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 228,
+              "def": 28,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 434487,
+            "username": "Bobsican"
+          },
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Bite",
+    "Body Slam",
+    "Bulldoze",
+    "Close Combat",
+    "Covet",
+    "Crunch",
+    "Dig",
+    "Double-Edge",
+    "Double Kick",
+    "Dragon Pulse",
+    "Ember",
+    "Endure",
+    "Extreme Speed",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flame Wheel",
+    "Flare Blitz",
+    "Giga Impact",
+    "Head Smash",
+    "Heat Crash",
+    "Heat Wave",
+    "Helping Hand",
+    "Howl",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Iron Head",
+    "Leer",
+    "Morning Sun",
+    "Outrage",
+    "Overheat",
+    "Power Gem",
+    "Protect",
+    "Psychic Fangs",
+    "Raging Fury",
+    "Rest",
+    "Retaliate",
+    "Reversal",
+    "Roar",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Throw",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Smack Down",
+    "Smart Strike",
+    "Snarl",
+    "Solar Beam",
+    "Stealth Rock",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Thunder Fang",
+    "Wild Charge",
+    "Will-O-Wisp"
+  ]
+}

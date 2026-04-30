@@ -1,0 +1,212 @@
+{
+  "name": "Volbeat",
+  "alias": "volbeat",
+  "types": [
+    "Bug"
+  ],
+  "stats": [
+    65,
+    73,
+    75,
+    47,
+    85,
+    85
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot",
+          "pokemon": "Volbeat",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Dragon"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Infestation",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 8</p>\n<p><strong>Price Range</strong>: 1-2 points</p>\n<p><strong>Overview</strong>: Despite its horrible stats and typing, Volbeat holds a niche as a viable low-cost disruptor due to its ability, Prankster. Taking advantage of this, it can be brought to matchups where the opponent has key setup or utility Pokemon to disrupt them with Taunt, Encore, or Trick, spread paralysis with Thunder Wave, and pivot out against incoming teammates with U-turn. However, Volbeat essentially offers nothing to the team outside of utility moves, as it can't meaningfully damage opposing Pokemon or take hits. Additionally, it is often forced into predictions to make progress against teams, as Dark-types are immune to Prankster moves, and Electric- and Ground-types are immune to Thunder Wave.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Disruptive Pivot</strong>: Volbeat is capable of switching in on setup or utility move-reliant Pokemon, disrupting them with various utility moves, and then pivoting out with U-turn. It doesn't usually run attacking moves beyond U-turn due to its poor offensive stats, although it can sometimes exploit a 4x weakness against the right foe.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: U-turn, Lunge</p>\n<p><strong>Setup Moves</strong>: Don't run Tail Glow.</p>\n<p><strong>Utility Moves</strong>: Thunder Wave, Encore, Taunt, Trick, Roost, Tailwind, Light Screen</p>\n<p><strong>Coverage</strong>: Seismic Toss</p>\n<h3>Niche Moves</h3>\n<p><strong>Endeavor</strong>: Although it has poor bulk, Volbeat can typically survive a neutral hit from most foes. Taking advantage of this, it can use Endeavor to weaken the foe and then paralyze it on the next turn with Thunder Wave, leaving it easy prey for teammates.</p>\n<p><strong>Physical Coverage</strong>: Volbeat typically doesn't run attacking moves due to its poor Attack and desire to run utility moves. However, when it needs to deal damage against the right foe, it can use physical coverage to exploit a 4x weakness; for example, it can use Ice Punch to pressure a <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a> switching in to absorb Thunder Wave.</p>\n<p><strong>Brick Break</strong>: Brick Break can break opposing dual screens if necessary.</p>\n<p><strong>Sunny Day / Rain Dance</strong>: As a Prankster user, Volbeat can set weather to enable teammates or disrupt opposing weather teams. This is more useful for disruption than support, however; it's difficult for it to run Heat Rock or Damp Rock over Heavy-Duty Boots due to its weakness to Stealth Rock, and its poor defensive stats and typing leave it too vulnerable to set weather more than once or twice.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: As a pivot that is weak to Stealth Rock, Volbeat needs Heavy-Duty Boots to enter the battlefield multiple times.</p>\n<p><strong>Choice Band / Specs / Scarf</strong>: When running Trick, Volbeat usually carries Choice items to graciously bestow on passive foes. Choice Band is its favorite, since it boosts U-turn as a bonus, but it can run any Choice item that benefits its intended target the least, as it doesn't need the increased Speed from Choice Scarf to successfully use Trick first.</p>\n<h3>Niche Items</h3>\n<p><strong>Trick Items</strong>: Although more niche than Choice items, Volbeat can run various other negative effect items to give to foes with Trick. Flame Orb and Toxic Orb are particularly notable, as Volbeat can otherwise only inflict paralysis, and it doesn't care as much about getting statused as its foes might.</p>\n<p><strong>Sitrus Berry</strong>: When Stealth Rock isn't a problem in a given matchup, Volbeat can run Sitrus Berry for a quick burst of healing at low health. It benefits from this over Leftovers because it often survives neutral attacks at below half health, and it usually doesn't remain on the field for long enough for Leftovers's recovery to be greater.</p>\n<p><strong>Light Clay</strong>: Volbeat has access to Prankster Light Screen, but it doesn't get Reflect. If it intends to support its team with Light Screen regardless, Light Clay gives teammates a few extra turns of protection.</p>\n<h3>Tera</h3>\n<p>Despite Volbeat's bad base typing, Tera is useless to it; its typing is irrelevant to its typical role, and it doesn't have the stats to take advantage of Tera offensively or defensively. Virtually any other Pokemon can benefit from Tera more, so making it a Captain only presents an opportunity cost. If Volbeat is a Tera Captain despite this, various defensive Tera types can bolster its poor bulk against specific threats.</p>\n<h3>Draft Strategy</h3>\n<p>Volbeat is typically taken as a low-cost final addition to an already-complete draft. It offers nothing but disruption, so its teammates must fill all other necessary roles. However, it's otherwise easy to fit Volbeat onto a draft due to its low price. It's even resilient to sniping, as it offers an alternative in its cousin <a href=\"/dex/sv/pokemon/illumise/draft/\" hreflang=\"en\">Illumise</a>, which is almost exactly the same, lacking Taunt and having a weaker U-turn but offering Wish support instead.</p>\n<p><strong>Entry Hazards</strong>: Volbeat forces a lot of switches with its disruptive capabilities, maximizing the effectiveness of entry hazards. Hazard setters, especially ones with Spikes like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, exploit this.</p>\n<p><strong>Entry Hazard Removal</strong>: Although Volbeat typically runs Heavy-Duty Boots, it can benefit from Stealth Rock and other entry hazards being removed in case it wants to run Trick or its Heavy-Duty Boots gets removed with Knock Off. <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> in particular checks the Dark- and Electric-types that frustrate Volbeat.</p>\n<p><strong>Offensive Pokemon</strong>: Volbeat enables many setup sweepers and wallbreakers by spreading paralysis and disrupting walls. Slower, more powerful wallbreakers like <a href=\"/dex/sv/pokemon/baxcalibur/draft/\" hreflang=\"en\">Baxcalibur</a> and <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a> particularly benefit from paralysis letting them outspeed foes, but any offensive Pokemon works well.</p>\n<p><strong>Pivots</strong>: Other pivots can let Volbeat come in as necessary against foes it wants to disrupt. It especially benefits from slow pivots like <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/swampert/draft/\" hreflang=\"en\">Swampert</a>, since it's too frail to take many hits. After disrupting foes, Volbeat can in turn pivot back to its teammates to maintain momentum.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dark-types</strong>: Dark-types are immune to Prankster moves, which presents Volbeat with a massive problem, as its main purpose is to use Prankster moves. It can threaten super effective damage against them with U-turn as it pivots out, but it's too weak to deal more than chip damage this way, especially against bulky foes like Ting-Lu and Dark-types not weak to Bug like <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a>. This leaves it in a guessing game: will the Dark-type switch in to negate Volbeat's move, or will the current foe stay in as Volbeat ineffectually pivots out with U-turn?</p>\n<p><strong>Electric- and Ground-types</strong>: Electric- and Ground-types present a similar problem as Dark-types, specifically preventing Volbeat from freely using Thunder Wave. However, it can at least use other disruption moves like Taunt, Encore, and Trick on them.</p>\n<p><strong>Strong Attackers</strong>: Volbeat can sometimes struggle even against the setup sweepers it tries to check: its poor bulk often leaves it 2HKOed by neutral attacks and OHKOed by super effective coverage, leaving it unable to safely switch in on them.</p>\n<p><strong>Knock Off</strong>: Although Volbeat typically runs Heavy-Duty Boots to avoid Stealth Rock damage, getting its item removed with Knock Off presents problems for its longevity. Similarly, if running Trick, getting its negative item removed before giving it to a foe defeats the point of the set.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 470115,
+            "username": "SolarBeam"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              },
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Air Cutter",
+    "Air Slash",
+    "Baton Pass",
+    "Body Slam",
+    "Brick Break",
+    "Bug Bite",
+    "Bug Buzz",
+    "Charge Beam",
+    "Chilling Water",
+    "Confuse Ray",
+    "Counter",
+    "Dazzling Gleam",
+    "Double-Edge",
+    "Double Team",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fling",
+    "Focus Punch",
+    "Giga Drain",
+    "Helping Hand",
+    "Ice Punch",
+    "Infestation",
+    "Light Screen",
+    "Lunge",
+    "Metronome",
+    "Moonlight",
+    "Mud-Slap",
+    "Play Rough",
+    "Pounce",
+    "Protect",
+    "Quick Attack",
+    "Rain Dance",
+    "Rest",
+    "Roost",
+    "Seismic Toss",
+    "Shadow Ball",
+    "Skitter Smack",
+    "Sleep Talk",
+    "Solar Beam",
+    "Struggle Bug",
+    "Substitute",
+    "Sunny Day",
+    "Swagger",
+    "Swift",
+    "Tackle",
+    "Tail Glow",
+    "Tailwind",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trailblaze",
+    "Trick",
+    "U-turn",
+    "Water Pulse",
+    "Zen Headbutt"
+  ]
+}

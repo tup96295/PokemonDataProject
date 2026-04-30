@@ -1,0 +1,502 @@
+{
+  "name": "Espeon",
+  "alias": "espeon",
+  "types": [
+    "Psychic"
+  ],
+  "stats": [
+    65,
+    65,
+    60,
+    130,
+    95,
+    110
+  ],
+  "strategies": [
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Sweeper",
+          "pokemon": "Espeon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magic Bounce"
+          ],
+          "items": [
+            "Grassy Seed"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Morning Sun",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 160,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Rain Support",
+          "pokemon": "Espeon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sample set(s).</p>",
+          "abilities": [
+            "Magic Bounce"
+          ],
+          "items": [
+            "Eject Button"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Alluring Voice",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Espeon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magic Bounce"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Alluring Voice",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "pokemon": "Espeon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magic Bounce"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Fire",
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Morning Sun",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Espeon",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magic Bounce"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 3-4 points</p>\n<p><strong>Overview</strong>: Espeon is a Pokemon that looks a lot more promising in theory than in practice. On the plus side, Espeon has good Speed and Special Attack stats, can threaten a sweep with Calm Mind, and can even be a surprise wallbreaker with Choice Specs. Furthermore, Magic Bounce can be useful to punish would-be entry hazard setters and can assist with hazard control to a degree. However, poor physical bulk and only an average special movepool hold Espeon back from its full potential. Even with Magic Bounce, switching in against hazard setters is risky, as many of them can punish Espeon hard with physical attacks, meaning that it can't function as a team's sole answer to hazards.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Special Wallbreaker</strong>: Espeon can take the route of an all-out attacker with Choice Specs in order to break holes in teams that can't withstand its strong Psychic-type attacks and acceptable coverage options.</p>\n<p><strong>Setup Sweeper</strong>: Espeon has the potential to snowball with Calm Mind as a late-game sweeper, since Magic Bounce protects it from disruption and status, allowing it to pick off weakened teams.</p>\n<p><strong>Fast Utility</strong>: Espeon's high Speed can allow it to play the role of a fast utility Pokemon that can set both Light Screen and Reflect while also spreading status for its teammates.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Psychic, Psyshock, Psychic Noise, Stored Power, Future Sight</p>\n<p><strong>Setup Moves</strong>: Calm Mind</p>\n<p><strong>Utility Moves</strong>: Light Screen, Protect, Reflect, Thunder Wave, Trick, Yawn</p>\n<p><strong>Coverage</strong>: Alluring Voice, Draining Kiss, Grass Knot, Power Gem, Shadow Ball, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Weather Ball</strong>: If given weather support, Espeon can solve its coverage issues by using Weather Ball to surprise a check.</p>\n<p><strong>Wish</strong>: While it is flawed in this role due to its poor physical bulk, Espeon can sometimes be a Wish passer to assist its teammates.</p>\n<h3>Common Items</h3>\n<p><strong>Choice Specs</strong> Espeon can make a solid user of Choice Specs due to its good Special Attack stat as well as access to Trick to cripple walls.</p>\n<p><strong>Damage-boosting Items</strong>: Calm Mind sets can benefit greatly from items such as Life Orb, Twisted Spoon, and Expert Belt to increase damage output.</p>\n<p><strong>Choice Scarf</strong>: Espeon can catch a surprise KO on a would-be revenge killer or faster sweeper by donning a Choice Scarf.</p>\n<h3>Niche Items</h3>\n<p><strong>Light Clay</strong>: Espeon can make a decent enough dual screens setter to help its teammates set up, since it can prevent Defog from clearing them.</p>\n<p><strong>Resistance Berries</strong>: The Chople, Tanga Berry, and Kasib Berries can allow Espeon to tank a super effective hit and remove a would-be revenge killer with its coverage.</p>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots allows Espeon to switch in repeatedly against any entry hazards that have already been set.</p>\n<h3>Tera</h3>\n<p>Espeon can make a good secondary Tera Captain; however, the cost of doing so can make it hard to justify, since Espeon often relies on Terastallization at the expense of its stronger teammates. Offensive Tera types, such as Fire and Fairy, work best in order to defeat bulky Steel-types and Dark-types, respectively. Tera Psychic can sometimes be useful to strengthen Choice item sets even further. Finally, Tera Fighting works to break past Steel- and Dark-types on Calm Mind sets.</p>\n<h3>Draft Strategy</h3>\n<p>Espeon is a cheap special wallbreaker that teams can use if they want additional speed control and protection from entry hazards.</p>\n<p><strong>Physical Tanks</strong> Espeon has poor physical bulk and greatly appreciates the presence of Pokemon that can switch in on these attacks. Pokemon such as <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/weezing-galar/draft/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/amoonguss/draft/\" hreflang=\"en\">Amoonguss</a> can be solid choices for this purpose. Pokemon that can punish contact moves such as <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a> are also solid options to handle moves like U-turn.</p>\n<p><strong>Entry Hazard Setters</strong>: Espeon loves hazards being stacked on the opposing side, so Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/garganacl/draft/\" hreflang=\"en\">Garganacl</a> can make great partners to ease Espeon's ability to wallbreak. In return, Espeon can help prevent hazards from being stacked on its side, which will make hitting the field easier for these allies.</p>\n<p><strong>Physical Wallbreakers</strong>: Pokemon such as <a href=\"/dex/sv/pokemon/blaziken/draft/\" hreflang=\"en\">Blaziken</a>, <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> can break past the special walls that Espeon can find itself walled by.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Priority Attacks</strong>: Espeon's physical frailty means that strong priority moves such as Bullet Punch, Extreme Speed, and especially Sucker Punch can threaten to do massive damage.</p>\n<p><strong>Special Walls</strong>: Pokemon that are tanky enough to survive Espeon's attacks, especially Dark-types such as Ting-Lu and <a href=\"/dex/sv/pokemon/tyranitar/draft/\" hreflang=\"en\">Tyranitar</a>, can be roadblocks that limit Espeon's wallbreaking capabilities.</p>\n<p><strong>Faster Foes</strong>: Espeon can be beaten by faster Pokemon such as <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, while common Choice Scarf users such as <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/krookodile/draft/\" hreflang=\"en\">Krookodile</a> can be similarly dangerous.</p>\n<p><strong>Super Effective Attacks</strong>: Espeon fears super effective attacks, such as the common Knock Off and U-turn, which can prey on its low Defense and KO it outright if it isn't careful.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 571123,
+            "username": "Patar136"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 617175,
+                "username": "E Man"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Alluring Voice",
+    "Baby-Doll Eyes",
+    "Baton Pass",
+    "Bite",
+    "Body Slam",
+    "Calm Mind",
+    "Charm",
+    "Confuse Ray",
+    "Confusion",
+    "Copycat",
+    "Covet",
+    "Curse",
+    "Dazzling Gleam",
+    "Detect",
+    "Dig",
+    "Double-Edge",
+    "Double Kick",
+    "Draining Kiss",
+    "Endure",
+    "Expanding Force",
+    "Facade",
+    "Fake Tears",
+    "Flail",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Gravity",
+    "Growl",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Imprison",
+    "Last Resort",
+    "Light Screen",
+    "Magical Leaf",
+    "Morning Sun",
+    "Mud-Slap",
+    "Power Gem",
+    "Power Swap",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Fangs",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Quick Attack",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Sand Attack",
+    "Shadow Ball",
+    "Skill Swap",
+    "Sleep Talk",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thunder Wave",
+    "Tickle",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "Weather Ball",
+    "Wish",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

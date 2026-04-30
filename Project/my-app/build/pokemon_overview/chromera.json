@@ -1,0 +1,233 @@
+{
+  "name": "Chromera",
+  "alias": "chromera",
+  "types": [
+    "Dark",
+    "Normal"
+  ],
+  "stats": [
+    85,
+    85,
+    115,
+    115,
+    100,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "CAP",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Chromera",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Color Change"
+          ],
+          "items": [
+            "Silk Scarf"
+          ],
+          "teratypes": [
+            "Normal",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Trailblaze",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Final Gambit",
+          "pokemon": "Chromera",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Color Change"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Normal",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Final Gambit",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Switcheroo",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 16,
+              "spd": 0,
+              "spe": 240
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acid Spray",
+    "Aerial Ace",
+    "Alluring Voice",
+    "Blizzard",
+    "Body Slam",
+    "Boomburst",
+    "Calm Mind",
+    "Charm",
+    "Chilling Water",
+    "Crunch",
+    "Dark Pulse",
+    "Endure",
+    "Facade",
+    "Fake Tears",
+    "Final Gambit",
+    "Fire Fang",
+    "First Impression",
+    "Foul Play",
+    "Giga Impact",
+    "Grass Knot",
+    "Gunk Shot",
+    "Hex",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Fang",
+    "Imprison",
+    "Knock Off",
+    "Lash Out",
+    "Life Dew",
+    "Light Screen",
+    "Metal Claw",
+    "Mud-Slap",
+    "Noble Roar",
+    "Outrage",
+    "Play Rough",
+    "Protect",
+    "Psychic Noise",
+    "Recover",
+    "Reflect",
+    "Rest",
+    "Scald",
+    "Scary Face",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Snarl",
+    "Spite",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Switcheroo",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Fang",
+    "Toxic",
+    "Toxic Spikes",
+    "Trailblaze",
+    "Uproar",
+    "Wide Guard"
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "name": "Lilligant-Hisui",
+  "alias": "lilligant-hisui",
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "stats": [
+    70,
+    105,
+    75,
+    50,
+    75,
+    105
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Lilligant shines on sun teams as a solid speed control, late-game cleaner, and revenge killer, using Chlorophyll to outspeed boosted threats such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and Choice Scarf <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>. Its strong dual STAB combination in Close Combat and Solar Blade allows it to clean up against offensive threats including <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, Darkrai, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Triple Axel provides essential coverage against <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Flying-types such as <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, preventing them from walling Hisuian Lilligant. Sun-boosted Tera Blast Fire pressures Steel-types such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> and 2HKOes Zapdos without risking Static. Tera Blast Ghost similarly hits Gholdengo but also targets <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Defensively, Tera Fire prevents foes like <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and Dragapult from crippling it with a burn and flips its Fairy, Ice, and Fire weaknesses from foes like <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, while Tera Ghost makes Hisuian Lilligant sturdier against IronPress users such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and Corviknight and prevents revenge killing attempts from Extreme Speed Dragonite.</p>\n<p>Hisuian Lilligant is exclusively found on sun teams. Either <a href=\"/dex/sv/pokemon/torkoal/ou/\" hreflang=\"en\">Torkoal</a> or <a href=\"/dex/sv/pokemon/ninetales/ou/\" hreflang=\"en\">Ninetales</a> must set sun to activate Hisuian Lilligant's Chlorophyll, with each providing unique utility. Torkoal is bulkier, sets Stealth Rock, and removes entry hazards with Rapid Spin, while Ninetales brings greater Speed, Encore to disrupt setup, and Healing Wish to give Hisuian Lilligant a second chance to sweep. <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> are excellent teammates, threatening the physical walls that Hisuian Lilligant struggles with, notably Moltres and Pecharunt. In return, Hisuian Lilligant pressures special walls such as <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, giving Walking Wake and Raging Bolt space to break teams. Great Tusk supports Hisuian Lilligant with hazard control and physical pressure on Pecharunt, as well as removing the Heavy-Duty Boots from Moltres to wear it down with hazards, while appreciating Hisuian Lilligant's ability to soften <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, and Ogerpon-W. Zamazenta is a major obstacle, but <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> can help limit its setup opportunities, as well as blocking hazards or using Healing Wish to keep Hisuian Lilligant healthy and spreading paralysis with Nuzzle to ensure that it can clean up out of sun.</p>",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Triple Axel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 41986,
+            "username": "toshimelonhead"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 571069,
+                "username": "Dead by Daylight"
+              },
+              {
+                "user_id": 616497,
+                "username": "FayaWizard"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ice",
+            "Fire",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Solar Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Triple Axel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              },
+              {
+                "move": "Weather Ball",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<h3>Fighting</h3>\n<p>Hisuian Lilligant, on paper, has a lot of appealing traits for Fighting, thanks to Victory Dance making it an incredible setup threat. Its secondary Grass typing also provides nice resistances to Water, Electric, and Ground, making it a solid answer to threats like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, and the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes. However, Fighting has far better immediate powerhouses like Ursihfu-R, <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, while Hustle can often stop a Victory Dance sweep short by missing crucial attacks.</p>",
+      "comments": "<h3>Other Options</h3>\n<h4>Grass</h4>\n<p>Healing Wish can serve as a niche option to help support another teammate such as an <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> forme or <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a> in matchups where Hisuian Lilligant is less useful such as against Fire and Bug teams.</p>",
+      "movesets": [
+        {
+          "name": "Victory Dance (Fighting)",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "<p>Hisuian Lilligant serves as a solid setup sweeper for Fighting teams thanks to its signature move, Victory Dance, which enables it to easily set up and clean through types like Water and Ground. Leaf Blade slashes through Water- and Ground-types like <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>. Close Combat is Hisuian Lilligant's strongest move, muscling past <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. Finally, Ice Spinner nails the Flying- and Grass-types that handle Hisuian Lilligant's STAB moves, such as the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> Formes, <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. Wide Lens is used to help offset Hustle's accuracy reduction.</p>\n<p><a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> serve as excellent partners for Hisuian Lilligant by checking Fire-types such as <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a> while appreciating Hisuian Lilligant checking Water-types like Primarina and <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-Wash</a> that can deal with them. Keldeo can further support Hisuian Lilligant by breaking through physical walls such as Iron Defense <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a>. Assault Vest Iron Hands can handle faster special attackers such as Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> while pressuring <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a> with Thunder Punch. Threats such as Choice Scarf <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/latias/monotype/\" hreflang=\"en\">Latias</a> are checked by Assault Vest <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a>, which can also use Psycho Cut to slice through Poison-types such as <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a>. Great Tusk's Stealth Rock support wears down <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> and Choice Scarf Enamorus, and its Knock Off removes Rocky Helmet from threats like Skarmory and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> can pressure Flying-types like <a href=\"/dex/sv/pokemon/gyarados/monotype/\" hreflang=\"en\">Gyarados</a> and Moltres with Thunderbolt or use Shadow Ball to pressure Ghost-types like Gholdengo and Pecharunt, while Choice Scarf <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a> can deal with faster Fairy-types like <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a> and Iron Valiant with Dire Claw.</p>",
+          "abilities": [
+            "Hustle"
+          ],
+          "items": [
+            "Wide Lens"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Victory Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Victory Dance Sweeper (Grass)",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hisuian Lilligant serves as a strong wincon for Grass teams thanks to its solid Fighting typing and strong setup option in Victory Dance, which enables it to outspeed and remove problematic threats such <a href=\"/dex/sv/pokemon/tornadus-therian/monotype/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, and Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Close Combat tears through Steel- and Ice-types like <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/sv/pokemon/bisharp/monotype/\" hreflang=\"en\">Bisharp</a>, <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/sv/pokemon/frosmoth/monotype/\" hreflang=\"en\">Frosmoth</a>. Ice Spinner provides solid coverage against Flying- and Dragon-types such as the <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> formes, <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, and Dragapult as well as Grass-types capable of taking its STAB moves like <a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>. Finally Sleep Powder can prevent would-be checks like <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/okidogi/monotype/\" hreflang=\"en\">Okidogi</a> from handling Hisuian Lilligant if it hasn't gotten a Victory Dance yet, while Leaf Blade enables it to break foes like <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>, which wall its combination of Close Combat and Ice Spinner. Wide Lens is used to help offset the accuracy lowering of Hustle along with helping Sleep Powder land.</p>\n<p>Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> provides immediate speed control that enables it to handle Psychic- and Ghost-types such as <a href=\"/dex/sv/pokemon/slowking-galar/monotype/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/zoroark-hisui/monotype/\" hreflang=\"en\">Hisuian Zoroark</a> along with using Knock Off to remove Rocky Helmet from the likes of <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a>. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/monotype/\" hreflang=\"en\">Ogerpon-C</a> can help by removing Fire- and Flying-types that could handle Hisuian Lilligant like <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a>. Alternatively, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a> helps to pressure Ice- and Steel-types like <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>, <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, and <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a> along with checking threats like Galarian Weezing. Amoonguss pressures Fairy-types such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a>, and Flutter Mane with Sludge Bomb, and it can use Stun Spore to slow down Choice Scarf threats like Dragapult and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a>, which outspeed and remove a boosted Hisuian Lilligant. Sinistcha can help to handle physical walls like Galarian Weezing and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> with its powerful Shadow Ball. <a href=\"/dex/sv/pokemon/brambleghast/monotype/\" hreflang=\"en\">Brambleghast</a> can help Hisuian Lilligant by setting and removing Spikes, enabling it to wear down would-be checks like <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>. Brambleghast can also wall Tornadus-T and Zapdos thanks to Wind Rider while being able to remove Ghost-types like Gholdengo with Poltergeist. <a href=\"/dex/sv/pokemon/hydrapple/monotype/\" hreflang=\"en\">Hydrapple</a> possesses a nice Fire neutrality, which enables it to check foes like Choice Scarf <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a> and Iron Moth prior to Hisuian Lilligant setting up, and its powerful Special Attacks helps it break physical walls like <a href=\"/dex/sv/pokemon/sableye/monotype/\" hreflang=\"en\">Sableye</a> and <a href=\"/dex/sv/pokemon/mandibuzz/monotype/\" hreflang=\"en\">Mandibuzz</a>.</p>",
+          "abilities": [
+            "Hustle"
+          ],
+          "items": [
+            "Wide Lens"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Victory Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Powder",
+                "type": null
+              },
+              {
+                "move": "Leaf Blade",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 315566,
+                "username": "AceTrainerOrange"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Support",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Solar Blade",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "After You",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Wallbreaker",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "F",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb",
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Solar Blade",
+                "type": null
+              },
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Sweeper",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Clear Amulet"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "After You",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Sleep Powder",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 9-11 points</p>\n<p><strong>Overview</strong>: Hisuian Lilligant is a solid wallbreaker and cleaner, sporting respectable Attack and Speed stats alike, but they're far from anything to write home about. Its niche comes from having access to two great abilities in Chlorophyll and Hustle, with the former allowing it to outspeed the entire unboosted metagame as well as most Choice Scarf users while in sun, and the latter making it a threatening wallbreaker, especially when paired with Choice Band. Hisuian Lilligant's drawbacks are that it's outclassed in its role as a wallbreaker, as other Fighting-types can offer similar power without forgoing their accuracy while also providing a team with momentum, which means it's usually only seen on sun teams where it competes for team slots with teammates that can usually offer more role compression than just an all-out attacker.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Sun Sweeper</strong>: Usually paired with a damage-boosting item and Chlorophyll, Hisuian Lilligant can sweep through chipped teams thanks to its blistering Speed and access to strong attacks such as Close Combat and Triple Axel. On occasion, it may use Swords Dance to boost its Attack further to cleave through bulkier foes.</p>\n<p><strong>Wallbreaker</strong>: Here we see Hustle coming into play, allowing Hisuian Lilligant to obtain the damage boost of Choice Band while having flexibility in what attack it can use. It'll primarily be seen with Choice Band to further capitalize on its power, but it can also use Victory Dance and Swords Dance, since it can set up on the turns where it forces foes to switch out.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Close Combat, Leaf Blade, Solar Blade, Low Kick, Axe Kick</p>\n<p><strong>Setup Moves</strong>: Victory Dance, Swords Dance, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Encore, Sleep Powder, Stun Spore, Healing Wish, Substitute</p>\n<p><strong>Coverage</strong>: Triple Axel, Acrobatics, Poison Jab, Tera Blast, Aerial Ace, Ice Spinner</p>\n<h3>Niche Moves</h3>\n<p><strong>Defog</strong>: While Hisuian Lilligant usually wants to be attacking, Defog can be used in a pinch against entry hazard stack teams, since it's able to force most entry hazard setters out.</p>\n<p><strong>Endure</strong>: Coupled with either a Custap Berry or Salac Berry, Endure allows Hisuian Lilligant to safely get at least one extra hit off against most foes.</p>\n<p><strong>Upper Hand</strong>: One way for Hisuian Lilligant to get past its weakness to opposing priority moves is with Upper Hand, although it usually is too pressed for moveslots to comfortably fit it.</p>\n<h3>Common Items</h3>\n<p><strong>Damage-boosting Items</strong>: The go-to for either of its sets, Hisuian Lilligant greatly appreciates the increase in power given by damage-boosting items for either of its roles. The most notable of these are Choice Band and Life Orb, which can allow it to break through bulkier structures, but items such as Expert Belt can be serviceable in other scenarios.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Scarf</strong>: In scenarios where sun may not reliably be up, Choice Scarf allows Hisuian Lilligant to outspeed common foes and act as a revenge killer.</p>\n<p><strong>Custap Berry / Salac Berry</strong>: Both Custap Berry and Salac Berry work alongside Endure to give Hisuian Lilligant the ability to get off at least one more hit, with potentially more in the case of Salac Berry.</p>\n<p><strong>Focus Sash</strong>: Primarily used on setup sets, Focus Sash can give Hisuian Lilligant a safe opportunity to use Swords Dance or Victory Dance.</p>\n<p><strong>Heavy-Duty Boots</strong>: Another apt option with setup sets, Heavy-Duty Boots can be used to circumvent entry hazards, especially Toxic Spikes and Sticky Web, which can otherwise prevent Hisuian Lilligant from setting up safely.</p>\n<p><strong>Lum Berry</strong>: Setup sets can benefit from the one-time immunity to status from Lum Berry, allowing Hisuian Lilligant to set up on Pokemon that would otherwise completely invalidate it.</p>\n<h3>Tera</h3>\n<p>Hisuian Lilligant is a solid secondary Tera Captain, benefitting offensively from Tera Fighting and Grass to boost its STAB attacks, Tera Ice to boost Triple Axel, and Tera Electric, Fire, and Fairy to give it coverage in certain scenarios. Defensively, it can utilize Tera Fire to avoid Will-O-Wisp or Water to help enable setup. This being said, it doesn't need Terastallization to function, and it's usually a better idea to make another Pokemon a Tera Captain instead, as they often get more value out of Terastallizing.</p>\n<h3>Draft Strategy</h3>\n<p>Hisuian Lilligant should primarily be a complementary piece on a sun-based team. While it can function otherwise, it excels in this role, and thus teams drafting it should attempt to capitalize on its synergies with other sun-based Pokemon.</p>\n<p><strong>Entry Hazard Removal</strong>: Hisuian Lilligant appreciates its item flexibility, only using Heavy-Duty Boots as a last resort option. It greatly appreciates support from strong entry hazard removers such as <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/donphan/draft/\" hreflang=\"en\">Donphan</a>, and <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a>.</p>\n<p><strong>Sun Setter</strong>: A reliable sun setter is required to keep sun up for Hisuian Lilligant's Chlorophyll. The two main options for this are <a href=\"/dex/sv/pokemon/torkoal/draft/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/ninetales/draft/\" hreflang=\"en\">Ninetales</a>, with the former giving Rapid Spin, Stealth Rock and Yawn, and the latter giving Healing Wish support. Torkoal is generally preferable, but either is serviceable. At absolute worst, Prankster Sunny Day users such as <a href=\"/dex/sv/pokemon/klefki/draft/\" hreflang=\"en\">Klefki</a> and <a href=\"/dex/sv/pokemon/tornadus/draft/\" hreflang=\"en\">Tornadus</a> can suffice, but they shouldn't be relied upon.</p>\n<p><strong>Special Wallbreakers</strong>: Hisuian Lilligant works well in tandem with other wallbreakers, allowing one to wallbreak for the other. Options such as <a href=\"/dex/sv/pokemon/walking-wake/draft/\" hreflang=\"en\">Walking Wake</a> and <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a> are reliable on sun teams, while <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/latios/draft/\" hreflang=\"en\">Latios</a> are solid pairings otherwise.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Poison-types</strong>: Poison-type Pokemon as a whole can cause Hisuian Lilligant a lot of problems, as it's unable to naturally break through them, relying on Triple Axel to do so. They tend to be able to threaten OHKOs on it with STAB-boosted Sludge Bomb and Poison Jab, which can lead to a loss of momentum.</p>\n<p><strong>Physical Walls</strong>: Chlorophyll Hisuian Lilligant can find itself lacking power against physically defensive walls such as <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> that can comfortably take hits from it and threaten to OHKO it in return.</p>\n<p><strong>Priority</strong>: Hisuian Lilligant naturally is not very bulky, and given that it wants to click Close Combat often, it finds itself susceptible to being revenge killed by common priority moves such as Ice Shard, Extreme Speed, and Vacuum Wave.</p>\n<p><strong>Faster Pokemon</strong>: Outside of sun, Hisuian Lilligant's Speed tier is simply lacking. Base 105 Speed for something as frail as it is leaves it susceptible to being revenge killed by many faster Pokemon, such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a>.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 564960,
+            "username": "Princess Autumn"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 613460,
+                "username": "vmnunes"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Special-based Mixed Sun Sweeper (SpA)",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Mild"
+          ]
+        },
+        {
+          "name": "Physical-based Mixed Sun Sweeper (Atk)",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Chlorophyll"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Solar Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Growth",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Victory Dance (Grass)",
+          "pokemon": "Lilligant-Hisui",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Close Combat and Victory Dance, Hisuian Lilligant is a powerful wallbreaker on Grass teams, covering the difficult Flying, Dragon, and Steel matchups. Close Combat nails bulky Steel-types like <a href=\"/dex/sv/pokemon/goodra-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Goodra</a> and <a href=\"/dex/sv/pokemon/heatran/national-dex-monotype/\" hreflang=\"en\">Heatran</a>. Leaf Blade is a reliable secondary STAB move that can break <a href=\"/dex/sv/pokemon/toxapex/national-dex-monotype/\" hreflang=\"en\">Toxapex</a> and offensive <a href=\"/dex/sv/pokemon/gholdengo/national-dex-monotype/\" hreflang=\"en\">Gholdengo</a> while also dealing with <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>, <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a>, and <a href=\"/dex/sv/pokemon/slowbro/national-dex-monotype/\" hreflang=\"en\">Slowbro</a>; however, Sleep Powder can be used instead to facilitate setting up with Victory Dance. Hustle-boosted Ice Spinner takes out Dragon-, Ground-, and Flying-types like <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, and <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a> after a Victory Dance. At +1, All Out-Pummeling can reliably KO tanks like <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a> and, thanks to the Hustle boost, Fighting-resistant foes like <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/charizard-mega-y/national-dex-monotype/\" hreflang=\"en\">Mega Charizard Y</a> while ignoring the accuracy drop. <a href=\"/dex/sv/pokemon/meowscarada/national-dex-monotype/\" hreflang=\"en\">Meowscarada</a> is a perfect teammate that appreciates Hisuian Lilligant's removal of walls like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/sv/pokemon/archaludon/national-dex-monotype/\" hreflang=\"en\">Archaludon</a> that switch into it. Meowscarada in return threatens Ghost- and Psychic-types like Gholdengo, <a href=\"/dex/sv/pokemon/latios/national-dex-monotype/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/latias/national-dex-monotype/\" hreflang=\"en\">Latias</a>, which Hisuian Lilligant can't touch. <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-monotype/\" hreflang=\"en\">Mega Venusaur</a> and Ferrothorn are defensive partners that deal with Fairy- and Poison-types like <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a> while wearing down teams with Leech Seed and entry hazards, respectively. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/national-dex-monotype/\" hreflang=\"en\">Ogerpon-C</a> threatens Flying- and Fire-types like <a href=\"/dex/sv/pokemon/moltres/national-dex-monotype/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/torkoal/national-dex-monotype/\" hreflang=\"en\">Torkoal</a> while benefiting from the removal of Steel-types. <a href=\"/dex/sv/pokemon/whimsicott/national-dex-monotype/\" hreflang=\"en\">Whimsicott</a> is a great support ally that removes hazards and can use Encore to give <a href=\"/dex/sv/pokemon/lilligant/national-dex-monotype/\" hreflang=\"en\">Lilligant</a> more chances to set up. <a href=\"/dex/sv/pokemon/brambleghast/national-dex-monotype/\" hreflang=\"en\">Brambleghast</a> is another hazard removal option and spinblocker that can defend against Zapdos and <a href=\"/dex/sv/pokemon/tornadus-therian/national-dex-monotype/\" hreflang=\"en\">Tornadus-T</a>'s Hurricane and Heat Wave with Wind Rider while providing crucial Spikes support.</p>",
+          "abilities": [
+            "Hustle"
+          ],
+          "items": [
+            "Fightinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Victory Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Blade",
+                "type": null
+              },
+              {
+                "move": "Sleep Powder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 664824,
+            "username": "Bows"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acrobatics",
+    "Aerial Ace",
+    "After You",
+    "Air Slash",
+    "Axe Kick",
+    "Brick Break",
+    "Bullet Seed",
+    "Charm",
+    "Close Combat",
+    "Coaching",
+    "Defog",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Entrainment",
+    "Facade",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Healing Wish",
+    "Helping Hand",
+    "Hurricane",
+    "Hyper Beam",
+    "Ice Spinner",
+    "Ingrain",
+    "Leaf Blade",
+    "Leaf Storm",
+    "Leech Seed",
+    "Low Kick",
+    "Low Sweep",
+    "Magical Leaf",
+    "Mega Drain",
+    "Mega Kick",
+    "Metronome",
+    "Petal Blizzard",
+    "Poison Jab",
+    "Pollen Puff",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Seed Bomb",
+    "Sleep Powder",
+    "Sleep Talk",
+    "Solar Beam",
+    "Solar Blade",
+    "Stun Spore",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Scent",
+    "Swords Dance",
+    "Synthesis",
+    "Take Down",
+    "Teeter Dance",
+    "Tera Blast",
+    "Trailblaze",
+    "Triple Axel",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Victory Dance",
+    "Weather Ball",
+    "Worry Seed"
+  ]
+}

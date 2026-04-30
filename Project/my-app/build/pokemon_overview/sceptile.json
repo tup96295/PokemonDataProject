@@ -1,0 +1,489 @@
+{
+  "name": "Sceptile",
+  "alias": "sceptile",
+  "types": [
+    "Grass"
+  ],
+  "stats": [
+    70,
+    85,
+    65,
+    105,
+    85,
+    120
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Sceptile",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Overgrow"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Dragon",
+            "Ice"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Swords Dance",
+          "pokemon": "Sceptile",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Overgrow"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Sweeper",
+          "pokemon": "Sceptile",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Psychic Seed",
+            "Grassy Seed"
+          ],
+          "teratypes": [
+            "Flying",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 136,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 120
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Terrain Sweeper",
+          "pokemon": "Sceptile",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Since Grassy Terrain weakens Earthquake, Sceptile should mainly only use the move on Psychic Terrain teams and with Psychic Seed.</p>\n<p>Sample set. Stay tuned for updates!</p>",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Grassy Seed",
+            "Psychic Seed"
+          ],
+          "teratypes": [
+            "Flying",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 8,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Sceptile",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is a sample set, stay tuned for future updates!</p>",
+          "abilities": [
+            "Overgrow"
+          ],
+          "items": [
+            "Sceptilite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Leaf Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Leech Seed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Poison"
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Assurance",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brick Break",
+    "Bulldoze",
+    "Bullet Seed",
+    "Crunch",
+    "Detect",
+    "Dig",
+    "Double-Edge",
+    "Double Kick",
+    "Double Team",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Drain Punch",
+    "Earthquake",
+    "Endeavor",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "False Swipe",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Frenzy Plant",
+    "Fury Cutter",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Helping Hand",
+    "Hyper Beam",
+    "Leafage",
+    "Leaf Blade",
+    "Leaf Storm",
+    "Leech Seed",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Magical Leaf",
+    "Mega Drain",
+    "Night Slash",
+    "Outrage",
+    "Pound",
+    "Protect",
+    "Quick Attack",
+    "Quick Guard",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scale Shot",
+    "Screech",
+    "Seed Bomb",
+    "Shed Tail",
+    "Slam",
+    "Slash",
+    "Sleep Talk",
+    "Solar Beam",
+    "Solar Blade",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Synthesis",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder Punch",
+    "Trailblaze",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Worry Seed",
+    "X-Scissor"
+  ]
+}

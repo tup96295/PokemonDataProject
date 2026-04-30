@@ -1,0 +1,226 @@
+{
+  "name": "Tinkatink",
+  "alias": "tinkatink",
+  "types": [
+    "Fairy",
+    "Steel"
+  ],
+  "stats": [
+    50,
+    45,
+    45,
+    35,
+    64,
+    58
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Tinkatink",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Tinkatink is the sturdiest counter to physical <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a> and the best defensive Steel-type in Little Cup. Pickpocket turns the tables against Knock Off users such as <a href=\"/dex/sv/pokemon/stunky/lc/\" hreflang=\"en\">Stunky</a> and the aforementioned Vullaby, stealing the foe's item after Tinkatink loses its own. Air Balloon Tinkatink is able to steal the foe's item after any contact move, but it sacrifices immediate bulk to do so. Tinkatink cannot deal much damage with bulky sets, so it most commonly runs a utility Stealth Rock set with Knock Off to remove items, Draining Kiss as a STAB move with extra healing, and Thunder Wave to hobble threats such as <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a> and <a href=\"/dex/sv/pokemon/sandshrew-alola/lc/\" hreflang=\"en\">Alolan Sandshrew</a>. Tera Fairy boosts Tinkatink's Draining Kiss while allowing it to resist Mienfoo's attacks. Tinkatink's EV spread can be adjusted to best handle the threats it is tasked with fighting, but this one is notable for surviving +2 Heat Wave from Nasty Plot Vullaby most of the time.</p>\n<p>Compared to <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a> and <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a>, which compete with it as Stealth Rock setters and Vullaby counters, Tinkatink boasts far better longevity but deals nowhere near as much damage. Tinkatink is commonly seen in defensive cores with Mienfoo and <a href=\"/dex/sv/pokemon/foongus/lc/\" hreflang=\"en\">Foongus</a> or <a href=\"/dex/sv/pokemon/mareanie/lc/\" hreflang=\"en\">Mareanie</a>. Grass-types such as <a href=\"/dex/sv/pokemon/toedscool/lc/\" hreflang=\"en\">Toedscool</a> and Foongus are great partners for Tinkatink because they can switch into Ground-types, notably Mudbray and <a href=\"/dex/sv/pokemon/diglett-alola/lc/\" hreflang=\"en\">Alolan Diglett</a>. Fire-resistant Pokemon such as Mareanie and <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a> are important to patch up Tinkatink's weakness to Fire-types such as <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a>. Speed control such as the previously mentioned Alolan Diglett is necessary because Tinkatink can get overwhelmed by repeated hits or super effective coverage and is generally passive. For the same reasons, Tinkatink appreciates teammates that can trade hits well, like Vullaby and Mienfoo. Vullaby is especially useful because its Weak Armor denies opportunities for fast Life Orb or Choice Scarf wallbreakers to enter the field via U-turn on a predicted Tinkatink switch-in.</p>",
+          "abilities": [
+            "Pickpocket"
+          ],
+          "items": [
+            "Eviolite",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 36,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 164,
+              "spe": 52
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        },
+        {
+          "name": "Fast Utility",
+          "pokemon": "Tinkatink",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Pickpocket"
+          ],
+          "items": [
+            "Eviolite",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 36,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 4,
+              "spe": 212
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 568849,
+            "username": "Colin"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 605215,
+                "username": "Flou"
+              },
+              {
+                "user_id": 641532,
+                "username": "bleahey"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 664887,
+                "username": "wisteriapurple"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Astonish",
+    "Baby-Doll Eyes",
+    "Brutal Swing",
+    "Covet",
+    "Draining Kiss",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fairy Wind",
+    "Fake Out",
+    "Fake Tears",
+    "Feint",
+    "Flash Cannon",
+    "Flatter",
+    "Fling",
+    "Foul Play",
+    "Helping Hand",
+    "Ice Hammer",
+    "Knock Off",
+    "Light Screen",
+    "Metal Claw",
+    "Metal Sound",
+    "Metronome",
+    "Play Rough",
+    "Pounce",
+    "Protect",
+    "Quash",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Rock Smash",
+    "Rock Tomb",
+    "Skill Swap",
+    "Skitter Smack",
+    "Slam",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Steel Beam",
+    "Stone Edge",
+    "Substitute",
+    "Sweet Kiss",
+    "Swords Dance",
+    "Tera Blast",
+    "Thief",
+    "Thunder Wave"
+  ]
+}

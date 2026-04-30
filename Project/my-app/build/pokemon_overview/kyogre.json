@@ -1,0 +1,1713 @@
+{
+  "name": "Kyogre",
+  "alias": "kyogre",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    100,
+    100,
+    90,
+    150,
+    140,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": null,
+      "overview": "<p>Kyogre is one of the most threatening, if not the most threatening, Pokemon in Ubers. Between its great Special Attack, Drizzle, and good coverage in Ice Beam and Thunder, nothing is truly safe switching into it. Its pure Water typing, good natural bulk, and Drizzle also give it valuable defensive utility against premier physical attackers like <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a>, and <a href=\"/dex/sv/pokemon/arceus-ground/uber/\" hreflang=\"en\">Arceus-Ground</a>, as well as special attackers like <a href=\"/dex/sv/pokemon/lunala/uber/\" hreflang=\"en\">Lunala</a>, <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a>, and <a href=\"/dex/sv/pokemon/arceus-flying/uber/\" hreflang=\"en\">Arceus-Flying</a>. This defensive utility allows Kyogre to consistently find opportunities to threaten bulky teams despite its below-average Speed. Kyogre is also one of the best Choice item users in the tier thanks to its Speed being good enough to threaten every defensive Pokemon in the tier, and its Water Spout is able to rip through even Water-resistant Pokemon like <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a> and <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a>. However, many teams are able to stack Water-resistant Pokemon like Koraidon, Eternatus, Kyogre, and <a href=\"/dex/sv/pokemon/kyurem-black/uber/\" hreflang=\"en\">Kyurem-B</a>, which can limit its effectiveness to a degree. Kyogre has below-average Speed and no recovery, so it is prone to being overwhelmed quickly. Kyogre's biggest drawback, though, is being constantly at odds with Koraidon, the best Pokemon in the tier. While Koraidon does not appreciate Kyogre switching into it, as the rain cuts Koraidon's power, Koraidon's Water resistance and ability to set up sun allows it to pivot into Kyogre's Water-type STAB moves, cutting its power and effectiveness greatly. Kyogre also cannot check Koraidon on its own without Terastallization, as it fears +2 Scale Shot or Wild Charge.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Tera Ghost can be used on defensive Kyogre to block Extreme Speed from Extreme Killer <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> in a pinch and has the added bonus of blocking <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>'s Fighting-type STAB moves and <a href=\"/dex/sv/pokemon/blissey/uber/\" hreflang=\"en\">Blissey</a>'s Seismic Toss. However, these upsides are generally not worth giving up Tera Poison or Tera Fairy, especially because partner Choice Scarf Koraidon can use Tera Ghost much more effectively.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Dragon-types</strong>: Koraidon both resists Kyogre's STAB moves and Thunder and overrides rain with sun, making Kyogre significantly less threatening and threatening it with big damage. Koraidon can even U-turn as Kyogre switches out. Specially defensive <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a> and <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a> are bulky enough to survive two unboosted Ice Beams and can threaten Kyogre trying to set up with Dragon Tail and status. <a href=\"/dex/sv/pokemon/kyurem-black/uber/\" hreflang=\"en\">Kyurem-B</a> resists Water and Electric while not being weak to Ice Beam, threatens Kyogre with Fusion Bolt, and can set up Dragon Dances on non-Thunder Wave Kyogre. However, all of these Pokemon fear Ice Beam, Thunder Wave, or Choice Specs-boosted attacks. Koraidon's power is also cut by Kyogre's rain, often forcing it to switch out.</p>\n<p><strong>Water-types</strong>: <a href=\"/dex/sv/pokemon/arceus-water/uber/\" hreflang=\"en\">Arceus-Water</a> and Kyogre resist Origin Pulse and Ice Beam, allowing them to pivot into Koraidon or Eternatus much more safely. However, both must watch for Thunder and attacks from Choice Specs Kyogre.</p>\n<p><strong>Entry Hazards</strong>: Choice item Kyogre needs to remain at high health to be threatening with Water Spout, so they can be limited with entry hazards. However, teams with Choice item Kyogre have ways to prevent or clear hazards, like <a href=\"/dex/sv/pokemon/hatterene/uber/\" hreflang=\"en\">Hatterene</a> and Giratina-O.</p>\n<p><strong>Blissey</strong>: Blissey shrugs off even boosted Origin Pulses from Kyogre, has reliable recovery, matches Kyogre's boosts with its own Calm Mind, and threatens Kyogre with Seismic Toss. However, even Blissey cannot withstand Tera Water or Choice Specs Water Spout. Furthermore, limited Soft-Boiled PP means if Kyogre forces Blissey to heal too much, it can be overwhelmed by other Calm Mind users like <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a> and <a href=\"/dex/sv/pokemon/lunala/uber/\" hreflang=\"en\">Lunala</a>.</p>",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Kyogre can leverage Calm Mind in conjunction with its naturally great power to become a fierce sweeper and wallbreaker. Origin Pulse is chosen for its higher power, which allows Kyogre to have a chance to OHKO <a href=\"/dex/sv/pokemon/ho-oh/uber/\" hreflang=\"en\">Ho-Oh</a> and always OHKOes <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a> at +1. Ice Beam is Kyogre's best weapon against <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a>, and <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a>. Thunder is useful to hit Kyogre and <a href=\"/dex/sv/pokemon/arceus-water/uber/\" hreflang=\"en\">Arceus-Water</a> and is generally hard to switch into, as Kyogre's checks hate getting paralyzed. Thunder Wave is useful against faster sweepers like Koraidon, Zacian-C, <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> formes, and Eternatus. Kyogre is a great user of Thunder Wave, as it naturally threatens <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/arceus-ground/uber/\" hreflang=\"en\">Arceus-Ground</a>, which are immune to Thunder Wave, and is ruinous to most of Kyogre's checks. The HP and Defense EVs and a Bold Nature allow Kyogre to survive +2 Low Kick from non-Life Orb Koraidon in rain and +1 Tera Ground Earthquake from Arceus-Ground, while the Speed EVs allow Kyogre to outrun paralyzed <a href=\"/dex/sv/pokemon/deoxys-attack/uber/\" hreflang=\"en\">Deoxys-A</a> and Zacian-C. Tera Poison gives Kyogre an immunity to Toxic from Eternatus, letting Kyogre set up on it. Tera Poison also gives Kyogre resistances to Fairy and Fighting, which are useful against Zacian-C, <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a>, and Choice Scarf Koraidon. Tera Fairy provides both a Fighting resistance and a Dragon immunity, which, in conjunction with Drizzle, allow Kyogre to become a solid check to Swords Dance Koraidon, though it must be careful against Iron Head variants. Tera Fairy also provides a Dark resistance, which can be used to handle <a href=\"/dex/sv/pokemon/kingambit/uber/\" hreflang=\"en\">Kingambit</a> late-game in a pinch.</p>\n<p>Kyogre is best used on bulky offense teams as a way to play around several problematic Pokemon like Koraidon, Zacian-C, and Ho-Oh while being threatening to opposing bulky cores. Because Koraidon is a big limiting factor for Kyogre, teammates that can pressure Koraidon in sun are imperative. Arceus-Fairy and Kyogre together make for a generally safe core against Koraidon, and Arceus-Fairy is both a good user of Stealth Rock and Thunder Wave and a strong Calm Mind sweeper that appreciates Kyogre pressuring Ho-Oh, Zacian-C, and Eternatus. <a href=\"/dex/sv/pokemon/landorus-therian/uber/\" hreflang=\"en\">Landorus-T</a> can switch into both Koraidon and Zacian-C thanks to Intimidate, set up Stealth Rock to free up Arceus-Fairy to run Calm Mind, and provide Kyogre free switches with its slow U-turn. Ho-Oh is a great partner to help Kyogre not get overwhelmed by several attackers, taking on special sweepers like Arceus-Fairy, <a href=\"/dex/sv/pokemon/arceus-ghost/uber/\" hreflang=\"en\">Arceus-Ghost</a>, and <a href=\"/dex/sv/pokemon/lunala/uber/\" hreflang=\"en\">Lunala</a> as well as physical attackers like Koraidon, Zacian-C, and Extreme Killer Arceus.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 164,
+              "spa": 80,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Kyogre's naturally deadly Water Spout and perfect coverage make it a great Choice Scarf user, becoming a potent revenge killer and late-game cleaner while freeing <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> to run a more offensive set like Swords Dance or Choice Band. Unlike Koraidon, Kyogre threatens to OHKO <a href=\"/dex/sv/pokemon/ho-oh/uber/\" hreflang=\"en\">Ho-Oh</a> and defensive <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> formes with minimal chip damage, in addition to revenge killing opposing Koraidon and <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a>. Water Spout threatens many offensive and defensive Pokemon alike, including Zacian-C, Ho-Oh, Extreme Killer Arceus, <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a>, <a href=\"/dex/sv/pokemon/arceus-ground/uber/\" hreflang=\"en\">Arceus-Ground</a>, <a href=\"/dex/sv/pokemon/landorus-therian/uber/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/uber/\" hreflang=\"en\">Necrozma-DM</a>, and <a href=\"/dex/sv/pokemon/calyrex-ice/uber/\" hreflang=\"en\">Calyrex-I</a>. Origin Pulse keeps Kyogre threatening even when damaged. Ice Beam is used to hit Koraidon, <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a>, and <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a> super-effectively, with Koraidon being especially important to hit because of Orichalcum Pulse. Thunder is useful against opposing Kyogre, <a href=\"/dex/sv/pokemon/arceus-water/uber/\" hreflang=\"en\">Arceus-Water</a>, and Tera Water foes like Arceus-Fairy, Necrozma-DM, and Arceus-Ground. A Timid nature is necessary to outspeed Zacian-C and <a href=\"/dex/sv/pokemon/deoxys-attack/uber/\" hreflang=\"en\">Deoxys-A</a>. Tera Water allows Kyogre to overpower bulky Pokemon that can otherwise take repeated Water Spouts, like Calm Mind-boosted Arceus-Fairy, Necrozma-DM, and <a href=\"/dex/sv/pokemon/lunala/uber/\" hreflang=\"en\">Lunala</a>, as well as special checks like Eternatus and <a href=\"/dex/sv/pokemon/blissey/uber/\" hreflang=\"en\">Blissey</a>. Tera Water also guarantees Origin Pulse will OHKO full health Zacian-C. Alternatively, Tera Ghost makes Kyogre immune to Extreme Speed, allowing it to revenge kill Extreme Killer Arceus.</p>\n<p>Choice Scarf Kyogre can fit on both hyper offense and bulky offense teams, as both styles prize its ability to revenge kill Koraidon and Zacian-C so their own Koraidon can safely forgo Choice Scarf. Arceus-Fairy is a vital partner for Kyogre on both styles, as it is by far the best defensive check to Koraidon, which can revenge kill Kyogre not locked into Ice Beam. Arceus-Fairy is able to block Koraidon's Scale Shot, allowing Kyogre to revenge kill non-Choice Scarf sets, and with Iron Defense or Taunt, it can also check Calyrex-I, which Choice Scarf Kyogre does not want to switch in to given its lack of bulk investment. <a href=\"/dex/sv/pokemon/glimmora/uber/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/uber/\" hreflang=\"en\">Deoxys-S</a> can remove or prevent entry hazards while setting up their own Spikes on hyper offense, allowing Kyogre to revenge kill Koraidon and Zacian-C much more reliably. Landorus-T can check Zacian-C, which can revenge kill Ice Beam-locked Kyogre, in addition to being good insurance against Koraidon and providing Kyogre free switches with its slow U-turn. Giratina-O is also a good partner, as it can remove entry hazards for Kyogre with Defog while being a decent switch-in to Extreme Killer Arceus, Dragon Dance Arceus-Ground, and opposing Kyogre short-term. <a href=\"/dex/sv/pokemon/hatterene/uber/\" hreflang=\"en\">Hatterene</a> can deny entry hazards completely while providing Healing Wish and Future Sight support, letting Kyogre spam Water Spout without fearing Koraidon or Eternatus switching in.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Water",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With Choice Specs and Water Spout, Kyogre becomes an immediately dangerous wallbreaker that nothing is comfortable switching into; even Water-resistant targets and <a href=\"/dex/sv/pokemon/blissey/uber/\" hreflang=\"en\">Blissey</a> are unable to stand up to its sheer power. Origin Pulse is useful as a strong Water-type STAB move even when Kyogre is not at high HP. Ice Beam is useful to OHKO <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> and put pressure on specially defensive <a href=\"/dex/sv/pokemon/eternatus/uber/\" hreflang=\"en\">Eternatus</a>, <a href=\"/dex/sv/pokemon/giratina-origin/uber/\" hreflang=\"en\">Giratina-O</a>, and Tera Grass Blissey. Thunder puts pressure on Kyogre, <a href=\"/dex/sv/pokemon/arceus-water/uber/\" hreflang=\"en\">Arceus-Water</a>, and Tera Water foes like <a href=\"/dex/sv/pokemon/arceus-fairy/uber/\" hreflang=\"en\">Arceus-Fairy</a>, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/uber/\" hreflang=\"en\">Necrozma-DM</a>, and Blissey. Kyogre can just break through Water-resistant foes with Choice Specs Tera Water Water Spout, as it doesn't need the defensive benefits from defensive Tera types, but both coverage options help preserve Terastallization and Water Spout's limited PP. 252 Speed EVs and a Timid nature allow Kyogre to outspeed defensive <a href=\"/dex/sv/pokemon/arceus/uber/\" hreflang=\"en\">Arceus</a> formes like Fairy and Water, which is crucial to ensure Kyogre can threaten them without fear of being losing HP.</p>\n<p>Choice Specs Kyogre is a potent wallbreaker and stallbreaker that is best on teams that can support it through pivoting, entry hazard prevention, and checking Koraidon, whose sun greatly weakens Kyogre's Water-type attacks and impairs its ability to break. Choice Specs Kyogre is also much less effective against hyper offense, so teammates that can help manage hyper offense teams are imperative. Choice Scarf users like Koraidon and <a href=\"/dex/sv/pokemon/landorus-therian/uber/\" hreflang=\"en\">Landorus-T</a> are superb partners, as they can provide Kyogre with free switches through U-turn and check Pokemon that threaten to revenge kill Kyogre, like Koraidon and <a href=\"/dex/sv/pokemon/zacian-crowned/uber/\" hreflang=\"en\">Zacian-C</a>, helping Kyogre's team play around hyper offense teams. <a href=\"/dex/sv/pokemon/hatterene/uber/\" hreflang=\"en\">Hatterene</a>, Giratina-O, and <a href=\"/dex/sv/pokemon/terapagos/uber/\" hreflang=\"en\">Terapagos</a> can dissuade or remove entry hazards, helping Kyogre remain at high HP and easing the hyper offense matchup. Hatterene in particular can support Kyogre further with Nuzzle, which can slow down faster foes like Zacian-C and Eternatus, and Healing Wish, allowing Kyogre to remain threatening even if its inflicted with status or its HP gets too low. Its Fairy typing allows it to block Koraidon's Scale Shot, allowing partner Choice Scarf Koraidon to revenge kill it more safely. Arceus-Fairy and defensive Landorus-T can help stave off Koraidon and Zacian-C, and they assist Kyogre further with Stealth Rock and Thunder Wave from Arceus-Fairy or slow U-turn from Landorus-T. Kyogre can be paired with additional special attackers like Eternatus and Calm Mind Arceus-Fairy, which appreciate Kyogre's ability to destroy or overwhelm troublesome special walls like Eternatus, <a href=\"/dex/sv/pokemon/ho-oh/uber/\" hreflang=\"en\">Ho-Oh</a>, and Blissey.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 597293,
+            "username": "oreo guy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 374620,
+                "username": "Lana"
+              },
+              {
+                "user_id": 595062,
+                "username": "Taka"
+              },
+              {
+                "user_id": 249382,
+                "username": "Aberforth"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "AG",
+      "outdated": null,
+      "overview": "<p>Kyogre sets itself apart as a wallbreaker in the Anything Goes metagame by virtue of its formidable bulk and superb raw power. Drizzle extends Kyogre's damage potential to impressive heights, which severely limits the amount of Pokemon willing to switch in on its Water-type attacks. Kyogre matches up positively against the majority of the tier's defensive threats, including staples like <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/ag/\" hreflang=\"en\">Necrozma-DM</a>, <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>, <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>. However, Kyogre may struggle against bulky Dragon-types such as <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a>, <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>, and <a href=\"/dex/sv/pokemon/giratina-origin/ag/\" hreflang=\"en\">Giratina-O</a>, which can discourage the use of Kyogre’s STAB moves.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Leftovers variants of Kyogre may use an alternative EV spread of 240 HP / 252 Def / 16 Spe and a Bold nature. While this limits Kyogre's firepower, it improves its ability to check <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/ag/\" hreflang=\"en\">Necrozma-DM</a>, <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>, <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, and physical <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>. On these sets, Protect may be favored over Thunder in order to scout Choice item users and recover with Leftovers. Water Spout can be used in place of Thunder to deal high damage to switch-ins while being more accurate than Origin Pulse. Surf may also seem appealing as an accurate Water-type STAB option. However, it is considerably less powerful than Origin Pulse. All Kyogre sets can reasonably opt for Tera Poison as a niche option, as it grants an immunity to <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a>'s Toxic and the ability to remove its Toxic Spikes. Furthermore, it provides a valuable resistance to <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>'s Grass Knot, which is otherwise super effective. Another Tera type option is Electric, which provides relevant resistances to <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>'s Electro Drift, Ho-Oh's Brave Bird, and opposing Kyogre's Thunder.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Eternatus</strong>: Eternatus can reliably switch in on Kyogre's attacks and threaten it with Toxic. Additionally, it can take advantage of Kyogre to set Toxic Spikes. Eternatus has access to reliable recovery, which prevents Kyogre from wearing it down. Thunder Wave variants of Kyogre can cripple Eternatus, however, and Choice Specs variants can 2HKO it with Ice Beam.</p>\n<p><strong>Koraidon</strong>: Due to Orichalcum Pulse activating sun, Koraidon is able to switch in comfortably on Kyogre's Water-type attacks and 2HKO it with Low Kick. Furthermore, Koraidon can pivot out with U-turn safely, as Kyogre is significantly weakened by sun. Kyogre can deal significant damage to Koraidon on a predicted switch by using Ice Beam, with Choice Specs variants achieving an OHKO. Additionally, Thunder Wave may allow Kyogre to outspeed non-Choice Scarf variants of Koraidon. Choice Scarf Koraidon is also incapacitated by paralysis, as its revenge killing capabilities become severely impaired.</p>\n<p><strong>Miraidon</strong>: Miraidon outspeeds Kyogre and is able to OHKO it with Electro Drift. Because Miraidon is such a threatening wallbreaker in its own right, it forces Kyogre to be played carefully. Though Miraidon resists Water, it cannot switch in on Kyogre's Water-type attacks repeatedly, as they deal heavy chip damage.</p>",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This set aims to maximize longevity by use of Heavy-Duty Boots or Leftovers in addition to heavy HP investment. Kyogre's exceedingly strong Origin Pulse in tandem with Drizzle allows it to pose a major threat to defensive cores. Ice Beam is a compulsory coverage move, as it allows Kyogre to deal heavy damage to Dragon-types like <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a>, <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, and <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>, which resists Origin Pulse. Thunder improves Kyogre's matchup against opposing Kyogre and <a href=\"/dex/sv/pokemon/arceus-water/ag/\" hreflang=\"en\">Arceus-Water</a>. Kyogre is able to set up using Calm Mind, further bolstering its already impressive Special Attack to break through Eternatus. Finally, Thunder Wave allows Kyogre to pester faster switch-ins such as Eternatus and Koraidon. The given EV spread allows Kyogre to outspeed paralyzed <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>. Kyogre's choice of item largely depends on a team's interaction with entry hazards. Teams with adequate hazard countermeasures, including Pokemon with Taunt, often opt for Leftovers. Otherwise, Kyogre should use Heavy-Duty Boots. Tera Fairy is Kyogre's Tera Type of choice, as it greatly improves Kyogre's matchup against Koraidon.</p>\n<p>Offensive Kyogre excels on bulky offense teams, as it is able to keep pressure on many of the metagame's defensive threats. Kyogre’s notable bulk allows it to take hits from more passive Pokemon such as support <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a> formes and <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>. Bulky offense teams also appreciate its ability to soft check major threats in <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/ag/\" hreflang=\"en\">Necrozma-DM</a>, <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>, and <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>. Drizzle can deactivate Koraidon's Orichalcum Pulse, making it significantly easier to handle. Kyogre synergizes very well with pivots like Koraidon, Miraidon, and <a href=\"/dex/sv/pokemon/landorus-therian/ag/\" hreflang=\"en\">Landorus-T</a>, which give it ample opportunity to face defensive Pokemon. Eternatus is a good teammate for Leftovers Kyogre, as it absorbs Toxic Spikes. Steel-type Pokemon such as Necrozma-DM and <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a> can shut down Kyogre’s main check in Eternatus.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 240,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 16
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Kyogre trades longevity for more immediate damage, increasing its breaking power. Origin Pulse is inaccurate but is Kyogre's best move after Water Spout is weakened. Ice Beam allows Kyogre to threaten Dragon-types like <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a>, <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>, and <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a>, preventing them from being reliable switch-ins and notably OHKOing Koraidon after one spike layer of Spikes. Thunder allows Kyogre to hit bulky Water-types, such as opposing Kyogre, <a href=\"/dex/sv/pokemon/arceus-water/ag/\" hreflang=\"en\">Arceus-Water</a>, and Tera Water <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a>. Tera Water boosts Kyogre's Water-type attacks to an absurd level, allowing it to OHKO Miraidon with Water Spout on the switch and at worst 2HKO every common defensive Pokemon in rain. Alternatively, Tera Fairy makes Kyogre immune to Dragon-type attacks and lets it survive a Low Kick from Koraidon even after some chip damage. Tera Ghost is an alternative option that similarly deals with Low Kick while also adding an immunity to Extreme Speed, which allows Kyogre to take on even boosted <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a>. 252 EVs in Speed with a Timid nature lets Kyogre outspeed most defensive Arceus formes, whereas Modest can be used for more damage output, enabling Ice Beam to OHKO Koraidon.</p>\n<p>Since Choice Specs Kyogre is easily chipped down by entry hazards, it often finds itself on faster-paced teams that appreciate its ability to quickly force progress. Koraidon, Miraidon, <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a>, and offensive Arceus-Fairy make excellent teammates, since they appreciate Kyogre's ability to OHKO most of their checks. Since Kyogre is very slow, it appreciates speed control options such as Choice Scarf Koraidon and Calyrex-S as well as Arceus, which can clean up late-game. Kyogre also benefits from Sticky Web, as it allows it to outspeed threats such as Loaded Dice Koraidon, Life Orb Miraidon, and <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a>, making Kyogre much more difficult to answer. Bulky Ground-types like <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/iron-treads/ag/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/ag/\" hreflang=\"en\">Landorus-T</a> are also great teammates, since they switch into Miraidon's Electric-type attacks well. Landorus-T in particular can also switch into and chip Koraidon with Rocky Helmet and pivot Kyogre in against the defensive Pokemon that often switch into it, such as defensive Arceus formes, <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>, and opposing Landorus-T. Other pivots such as Choice Scarf Koraidon and Miraidon also make excellent partners, as they can help bring Kyogre onto the field.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Kyogre's strong rain-boosted STAB moves and decent Speed tier make it a good Choice Scarf user, and with this item it becomes a formidable revenge killer and late-game cleaner that is very hard to deal with when opposing <a href=\"/dex/sv/pokemon/koraidon/ag/\" hreflang=\"en\">Koraidon</a> is chipped sufficiently, with barely anything being able to switch into it. Choice Scarf Kyogre also allows other Choice Scarf users such as Koraidon and <a href=\"/dex/sv/pokemon/calyrex-shadow/ag/\" hreflang=\"en\">Calyrex-S</a> to run more offensive sets such as Swords Dance and Nasty Plot. Water Spout can pick up crucial OHKOs on many top threats such as <a href=\"/dex/sv/pokemon/zacian-crowned/ag/\" hreflang=\"en\">Zacian-C</a>, <a href=\"/dex/sv/pokemon/ho-oh/ag/\" hreflang=\"en\">Ho-Oh</a>, and non-Choice Scarf Calyrex-S while also OHKOing <a href=\"/dex/sv/pokemon/arceus-fairy/ag/\" hreflang=\"en\">Arceus-Fairy</a> after three layers of Spikes. Origin Pulse lets Kyogre retain its threatening offensive ability even when it's damaged and Water Spout's Base Power is diminished. Ice Beam is used to super effectively hit Dragon-type threats such as Koraidon, <a href=\"/dex/sv/pokemon/eternatus/ag/\" hreflang=\"en\">Eternatus</a>, <a href=\"/dex/sv/pokemon/giratina-origin/ag/\" hreflang=\"en\">Giratina-O</a>, and <a href=\"/dex/sv/pokemon/miraidon/ag/\" hreflang=\"en\">Miraidon</a>. Koraidon is particularly important to hit because of Orichalcum Pulse wiping Drizzle away. Thunder is useful against opposing Kyogre, <a href=\"/dex/sv/pokemon/arceus-water/ag/\" hreflang=\"en\">Arceus-Water</a>, and Tera Water users like Arceus-Fairy. A Timid nature is necessary for Kyogre to outspeed Zacian-C and Calyrex-S. Tera Water allows Kyogre to overpower bulkier Pokemon that can otherwise survive multiple uses of Water Spout like Eternatus and <a href=\"/dex/sv/pokemon/blissey/ag/\" hreflang=\"en\">Blissey</a>, while also guaranteeing an OHKO on Zacian-C with Origin Pulse. Tera Ghost can be used as an alternative, making Kyogre immune to Koraidon's Low Kick and <a href=\"/dex/sv/pokemon/arceus/ag/\" hreflang=\"en\">Arceus</a>'s Extreme Speed, letting it secure a revenge kill. Tera Flying grants Kyogre an immunity to Sticky Web and also allows it to avoid chip damage from Toxic Spikes and Spikes at the cost of becoming weak to Stealth Rock. Tera Flying is especially preferred when not paired with a Defog or Magic Bounce support partner.</p>\n<p>Choice Scarf Kyogre fits mainly on bulky offense teams, which cherish its ability to revenge kill Koraidon, Zacian-C, and Calyrex-S, freeing their own Koraidon to run non-Choice Scarf sets. Arceus-Fairy is an extremely important partner for Kyogre, as it serves as a good check to Koraidon, which can revenge kill Choice Scarf Kyogre not locked into Ice Beam. Arceus-Fairy is also able to block Koraidon’s Dragon-type STAB moves and force it out as well as checking Arceus, which can threaten Kyogre with its powerful priority Extreme Speed. Arceus-Fairy also checks speed-boosting threats like Koraidon and <a href=\"/dex/sv/pokemon/arceus-ground/ag/\" hreflang=\"en\">Arceus-Ground</a>, which can outspeed Choice Scarf Kyogre after a turn of setup. Since Kyogre is vulnerable to Sticky Web and other entry hazards, it's essential to fit <a href=\"/dex/sv/pokemon/hatterene/ag/\" hreflang=\"en\">Hatterene</a> or Defog Giratina-O on the team if possible. Hatterene can prevent hazards from entering the field with Magic Bounce in order to increase Kyogre's longevity, completely wall most common Eternatus sets, and provide a safe switch in for Kyogre via Baton Pass, which can also pass Calm Mind boosts. In return, Kyogre can revenge kill a Zacian-C, which threatens both Arceus-Fairy and Hatterene. <a href=\"/dex/sv/pokemon/landorus-therian/ag/\" hreflang=\"en\">Landorus-T</a> is able to check Koraidon because of Intimidate and chip it with Rocky Helmet while also being able to safely pivot Kyogre in via a slow U-turn. Arceus can also be used as a partner, as it provides a switch-in to Choice Scarf Calyrex-S. In return, Kyogre is able to constantly pressure walls like Arceus-Fairy and Ho-Oh. <a href=\"/dex/sv/pokemon/ting-lu/ag/\" hreflang=\"en\">Ting-Lu</a> is also a superb teammate, as it can check Choice Scarf Calyrex-S, provide a safe switch-in to Miraidon, and set up Spikes, which can assist Kyogre's wallbreaking ability.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Water",
+            "Ghost",
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 541114,
+            "username": "PrimalKyogre"
+          },
+          {
+            "user_id": 660324,
+            "username": "GigaBytes7"
+          },
+          {
+            "user_id": 697081,
+            "username": "fion"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 487990,
+                "username": "Swas"
+              },
+              {
+                "user_id": 532881,
+                "username": "Frozoid"
+              },
+              {
+                "user_id": 554093,
+                "username": "RL"
+              },
+              {
+                "user_id": 426798,
+                "username": "Geysers"
+              },
+              {
+                "user_id": 584685,
+                "username": "Glory"
+              },
+              {
+                "user_id": 631210,
+                "username": "Adhi"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              },
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Rain Teammates</h3>\n<p>Rain isn't nearly as dominant of a weather as sun, but enough teammates benefit from it that Kyogre doesn't have to use it selfishly</p>\n<ul>\n<li>\n<p><strong><a href=\"/dex/sv/pokemon/koraidon/battle-stadium-singles/\" hreflang=\"en\">Koraidon</a></strong>: Using Koraidon with Kyogre may seem like a total paradox, but together, their partnership ensures that both can comfortably reset their weather cycles.</p>\n</li>\n<li>\n<p><strong><a href=\"/dex/sv/pokemon/urshifu-rapid-strike/battle-stadium-singles/\" hreflang=\"en\">Urshifu-R</a></strong>: Urshifu-R's souped-up Surging Strikes are terrifying, transforming Choice Scarf Urshifu-R into a powerful revenge killer that almost always OHKOes <a href=\"/dex/sv/pokemon/calyrex-shadow/battle-stadium-singles/\" hreflang=\"en\">Calyrex-S</a>! Its wallbreaking powers are impressive too, with Choice Band Surging Strikes in the rain 2HKOing even maximum HP <a href=\"/dex/sv/pokemon/miraidon/battle-stadium-singles/\" hreflang=\"en\">Miraidon</a>.</p>\n</li>\n<li>\n<p><strong><a href=\"/dex/sv/pokemon/ogerpon-wellspring/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-W</a></strong>: Ogerpon-W doesn't share any of Kyogre's weaknesses beyond Freeze-Dry, making it a good bulkier rain beneficiary that still has plenty of power. Ogerpon-W also has Play Rough, ensuring that Koraidon switch-ins are not entirely safe.</p>\n</li>\n<li>\n<p><strong><a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a></strong>: Electro Shot's lack of a charge turn in the rain makes Archaludon a fearsome bulky sweeper, especially since Stamina and Body Press combine to help against <a href=\"/dex/sv/pokemon/blissey/battle-stadium-singles/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> before Archaludon Terastallizes.</p>\n</li>\n</ul>",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Rocky Helmet",
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 0,
+              "spe": 6
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Choice Item",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>While top Restricted Pokemon like <a href=\"/dex/sv/pokemon/miraidon/battle-stadium-singles/\" hreflang=\"en\">Miraidon</a> and <a href=\"/dex/sv/pokemon/koraidon/battle-stadium-singles/\" hreflang=\"en\">Koraidon</a> are big issues for Kyogre, the sheer damage output under Drizzle still makes it a force to be reckoned with, especially when Water Spout is at full power!</p>\n</li>\n<li>\n<p><strong>Surf versus Origin Pulse</strong>: Surf is the most reliable STAB move Kyogre has to offer, but Origin Pulse's higher Base Power lets Kyogre OHKO <a href=\"/dex/sv/pokemon/calyrex-shadow/battle-stadium-singles/\" hreflang=\"en\">Calyrex-S</a> after Stealth Rock damage.</p>\n</li>\n<li>\n<p><strong>Ice Beam</strong>: Ice Beam is essential for punishing Koraidon switching in, as it otherwise shuts down Kyogre.</p>\n</li>\n<li>\n<p><strong>Thunder</strong>: Thunder is Kyogre's best coverage against Water-types, ensuring it isn't walled by foes like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/battle-stadium-singles/\" hreflang=\"en\">Ogerpon-W</a> and opposing Kyogre.</p>\n</li>\n<li>\n<p><strong>Choice Scarf with Timid versus Choice Specs with Modest</strong>: Choice Scarf transforms Kyogre into a strong revenge killer and ferocious cleaner in one package, with a Timid nature ensuring that it outspeeds even Calyrex-S. Choice Specs with a Modest nature trades cleaning for being extremely difficult to wall, with even <a href=\"/dex/sv/pokemon/blissey/battle-stadium-singles/\" hreflang=\"en\">Blissey</a> risking a 2HKO from Water Spout! Ice Beam will also now OHKO offensive Koraidon.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Kyogre already has a fantastic offensive and defensive typing, so Terastallization is more of a bonus than a necessity.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water brings Kyogre's wallbreaking potential to the next level, with even Choice Scarf Kyogre now being able to 2HKO Blissey with Water Spout and Choice Specs Kyogre being able to 2HKO even the bulkiest of Assault Vest <a href=\"/dex/sv/pokemon/alomomola/battle-stadium-singles/\" hreflang=\"en\">Alomomola</a> with Water Spout.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy puts Koraidon in a tough spot, with the rain weakening all of its offensive tools. This is usually best left for bulkier Kyogre sets to take advantage of, though.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Kyogre's fantastic special bulk makes it a good choice for an Assault Vest tank.</p>\n</li>\n<li>\n<p><strong>Surf versus Origin Pulse</strong>: The reliability of Surf makes it the best choice, but Origin Pulse OHKOing <a href=\"/dex/sv/pokemon/calyrex-shadow/battle-stadium-singles/\" hreflang=\"en\">Calyrex-S</a> after Stealth Rock damage does make it a reasonable but riskier alternative.</p>\n</li>\n<li>\n<p><strong>Ice Beam</strong>: Ice Beam provides essential coverage against Kyogre's archnemesis, <a href=\"/dex/sv/pokemon/koraidon/battle-stadium-singles/\" hreflang=\"en\">Koraidon</a>! It's also key for taking on other Dragon-types such as <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/miraidon/battle-stadium-singles/\" hreflang=\"en\">Miraidon</a>.</p>\n</li>\n<li>\n<p><strong>Thunder</strong>: Thunder lets Kyogre zap opposing Water-types such as Tera Water <a href=\"/dex/sv/pokemon/calyrex-ice/battle-stadium-singles/\" hreflang=\"en\">Calyrex-I</a> and opposing Kyogre. Plus, this set's good bulk gives Kyogre many chances to benefit from the 30% paralysis chance.</p>\n</li>\n<li>\n<p><strong>Tera Blast Fairy versus Water Spout</strong>: If Kyogre is using Tera Fairy, Tera Blast lets it ruin Koraidon, which alone is worth a moveslot! However, if it's using Tera Water or alternate gameplans against Koraidon, Water Spout deals absurd damage to anything slower than Kyogre.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Tera Dependency - Medium</strong>: Water is a fantastic typing that Kyogre often doesn't want to lose, but Terastallization can be key for dealing with Koraidon and Miraidon.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy is the best defensive option for Kyogre, letting it resist all of Koraidon's common attacks thanks to rain support and ruining Miraidon's attempts at checking it.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: Tera Electric lets Kyogre tank Miradon's Electro Drift, in addition to ensuring paralysis support from the likes of <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/archaludon/battle-stadium-singles/\" hreflang=\"en\">Archaludon</a> fails. Just note that most <a href=\"/dex/sv/pokemon/ho-oh/battle-stadium-singles/\" hreflang=\"en\">Ho-Oh</a> run Earthquake, which means Tera Electric isn't a perfect response to its Brave Bird.</p>\n</li>\n<li>\n<p><strong>Water</strong>: This Kyogre is usually best off with defensive Tera types, but Tera Water's absurd damage output lets Water Spout 2HKO even <a href=\"/dex/sv/pokemon/blissey/battle-stadium-singles/\" hreflang=\"en\">Blissey</a>, making it a better option against stall teams.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Electric",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Calm Mind Kyogre aims to find opportunities to set up and nuke foes with Origin Pulse, which doesn't rely on Kyogre's HP stat like Water Spout does. Ice Beam provides coverage for Grass- and Dragon-types like <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>, which resist Origin Pulse. Calm Mind allows Kyogre to not only pick up more KOs on foes like Tera Fire <a href=\"/dex/sv/pokemon/calyrex-ice/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-I</a> but also helps Kyogre survive attacks that would KO it such as boosted Astral Barrage from <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>. Leftovers provides passive recovery, further adding to the bulk of this Kyogre set. With the HP and Special Defense investments, Kyogre is capable of surviving a Helping Hand-boosted Choice Specs Astral Barrage from Calyrex-S. The EVs put into Special Attack let Kyogre OHKO <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> with Ice Beam after a Calm Mind boost. The Speed investment lets Kyogre outspeed maximum Speed <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>. Tera Grass provides resistances to Grass- and Electric-type attacks from the likes of Rillaboom and Raging Bolt while also allowing Kyogre to block Spore from the likes of Amoonguss.</p>\n<p>Even with Ice Beam and Tera Grass, Kyogre can still struggle with common Pokemon such as Rillaboom and Raging Bolt, threatening Kyogre before and after Terastallizing. Koraidon and Miraidon are also scary for Kyogre, with Koraidon overriding rain and dealing big damage with Collision Course and Miraidon nuking Kyogre with Draco Meteor or Electro Drift. Wide Guard from foes such as <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> and <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> is also an annoyance, as it denies Origin Pulse. Amoonguss helps Kyogre by chunking Rillaboom with Sludge Bomb and shutting down Raging Bolt with Rage Powder or Spore. With Tera Fairy, Amoonguss can also redirect Draco Meteor from Miraidon. Spore can also help stop Wide Guard users. <a href=\"/dex/sv/pokemon/roaring-moon/vgc24-regulation-g/\" hreflang=\"en\">Roaring Moon</a> provides Tailwind support, allowing Kyogre to outspeed aforementioned foes like Koraidon and Miraidon, while threatening Koraidon with Tera Flying Acrobatics. Fake Out support from Pokemon such as Rillaboom and Incineroar grants opportunities for Kyogre to use Calm Mind or attack without the annoyance of Wide Guard.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 132,
+              "atk": 0,
+              "def": 68,
+              "spa": 196,
+              "spd": 4,
+              "spe": 108
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Kyogre is a strong and bulky attacker in VGC, being able to KO metagame staples such as <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a> with ease. Water Spout provides a super powerful option, while Origin Pulse helps if Kyogre gets whittled down. Thunder hits annoying Water-types such as opposing Kyogre, <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>, and <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a>. Ice Beam hits Grass- and Dragon-types like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>. Assault Vest helps Kyogre in surviving super powerful attacks such as Modest Choice Specs Volt Switch from Miraidon. The EV spread allows Kyogre to survive a Guts-boosted Headlong Rush from <a href=\"/dex/sv/pokemon/ursaluna/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna</a>, pick up KOs on Pokemon such as Assault Vest Incineroar, and outspeed Choice Scarf Urshifu-R and <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> if Tailwind is activated. Tera Grass is able to patch up Kyogre's Electric- and Grass-type weaknesses while also granting an immunity to Spore.</p>\n<p>Kyogre tends to struggle against specially bulky Pokemon that can hit it hard such as <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/iron-hands/vgc24-regulation-g/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>. Wide Guard users such as <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> and Pelipper can also be an issue, blocking Kyogre's Water Spout and Origin Pulse. Other faster and super strong Pokemon that can quickly whittle down Kyogre like Miraidon can also prove to be challenging. <a href=\"/dex/sv/pokemon/wo-chien/vgc24-regulation-g/\" hreflang=\"en\">Wo-Chien</a> is a good partner because it's able to keep Kyogre healthy with Pollen Puff, allowing for a full-power Water Spout, while also helping Kyogre pick up KOs thanks to its Ruination. Tablets of Ruin is able to help Kyogre's Defense, making it harder to remove. Tailwind support with a Pokemon such as <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> or <a href=\"/dex/sv/pokemon/iron-jugulis/vgc24-regulation-g/\" hreflang=\"en\">Iron Jugulis</a> can also be helpful, threatening Grass-types such as Rillaboom with Bleakwind Storm and Hurricane, respectively, and letting Kyogre outspeed some of its major threats. Incineroar and <a href=\"/dex/sv/pokemon/grimmsnarl/vgc24-regulation-g/\" hreflang=\"en\">Grimmsnarl</a> are great partners, as they can mitigate damage with Will-O-Wisp + Intimidate and dual screens, respectively. Grimmsnarl also has the added bonus of hindering opponents with Thunder Wave, giving Kyogre more opportunities to launch a powerful Water Spout before foes can do anything.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 132,
+              "spa": 100,
+              "spd": 12,
+              "spe": 12
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Bulky 3 Attacks",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Kyogre is one of the top Restricted Pokemon in the metagame due to its high Special Attack and access to some of the strongest STAB moves in Water Spout and Origin Pulse, which can OHKO top threats like <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-H</a>, <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a> and bulkless <a href=\"/dex/sv/pokemon/zacian-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zacian-C</a>. Its ability, Drizzle, takes its offensive output to outrageous levels while also facilitating the rain offense archetype. Its base 90 Speed allows it to function in both Tailwind and Trick Room. Origin Pulse allows Kyogre to deal consistent damage if it loses HP, which reduces the power of Water Spout. Hydro Pump is another great option, which allows Kyogre to have a strong Water-type move which isn't spread, allowing it to play better against Wide Guard. Ice Beam can threaten Grass- and Dragon-types like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a>, which take resisted damage from Kyogre's Water-type STAB moves. Mystic Water allows Kyogre to OHKO <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> and <a href=\"/dex/sv/pokemon/kingambit/vgc24-regulation-g/\" hreflang=\"en\">Kingambit</a> with Water Spout, which also allows Kyogre to use defensive Tera type. The EV spread allows Kyogre to survive a -1 Wood Hammer from <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a> and take two Life Orb-boosted Astral Barrages from Calyrex-S. The investment in Special Attack allows it to 2HKO <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> with Origin Pulse. Tera Grass helps Kyogre defensively against Pokemon like Rillaboom and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a> as well as providing a Spore immunity.</p>\n<p>Kyogre matches up poorly against Pokemon like Rillaboom, Raging Bolt and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-g/\" hreflang=\"en\">Ogerpon-W</a>. <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-g/\" hreflang=\"en\">Landorus</a> is a great partner, as it takes on all of these with Earth Power and Sludge Bomb. It also struggles against faster Tailwind teams, which can threaten early damage, weakening its Water Spout significantly. This can be patched up by using <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a>, which outspeeds most of the metagame with a Choice Scarf and threatens high damage. Amoonguss is quite annoying for Kyogre as well, threatening Spore while taking resisted damage. However, <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a>, a great partner to Kyogre, can shut it down with Taunt while also providing Prankster Tailwind and Rain Dance, which can be used to reset weather against <a href=\"/dex/sv/pokemon/groudon/vgc24-regulation-g/\" hreflang=\"en\">Groudon</a> and Terapagos-S. <a href=\"/dex/sv/pokemon/archaludon/vgc24-regulation-g/\" hreflang=\"en\">Archaludon</a> has great defensive synergy with Kyogre, switching into Rillaboom and Raging Bolt, as well as taking the opportunity to start setting up with Electro Shot.</p>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Mystic Water"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 52,
+              "spa": 156,
+              "spd": 4,
+              "spe": 44
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641757,
+            "username": "fyfyy"
+          },
+          {
+            "user_id": 650323,
+            "username": "pengu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              },
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 567354,
+                "username": "sappheiros"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC25 Regulation I",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rain Attacker",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<h4>Set Details</h4>\n<ul>\n<li>Kyogre is an extremely powerful special attacker that uses the rain that it sets and its high-Base Power Water-type attacks to deal incredible damage to almost every Pokemon. It matches up well into most Pokemon slower than it, especially those that don't resist its Water-type attacks.</li>\n<li>Water Spout is Kyogre's strongest attack, OHKOing or 2HKOing almost every Pokemon. Hydro Pump and Origin Pulse serve as secondary Water-type attacks that functions when Kyogre has taken enough damage to make them stronger than Water Spout. However, they are inaccurate, so Kyogre prefers to use Water Spout until it is too weak to deal meaningful damage. Hydro Pump is better into Wide Guard users such as <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zamazenta-C</a> and <a href=\"/dex/sv/pokemon/lunala/vgc25-regulation-i/\" hreflang=\"en\">Lunala</a>, while Origin Pulse is a spread move. Thunder allows Kyogre to threaten the Water-type Pokemon that resist its Water-type attacks such as Kyogre and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc25-regulation-i/\" hreflang=\"en\">Urshifu-R</a>, while Ice Beam lets Kyogre threaten the Dragon- and Grass-type Pokemon that do the same such as <a href=\"/dex/sv/pokemon/miraidon/vgc25-regulation-i/\" hreflang=\"en\">Miraidon</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc25-regulation-i/\" hreflang=\"en\">Rillaboom</a>.</li>\n<li>Mystic Water boosts Kyogre's Water-type attacks even further, letting it OHKO most <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-S</a> sets.</li>\n<li>The Speed investment allows Kyogre to outspeed base 135 Speed Pokemon after an Icy Wind. The HP investment allows Kyogre to live a Thunderbolt from bulky Magnet <a href=\"/dex/sv/pokemon/raging-bolt/vgc25-regulation-i/\" hreflang=\"en\">Raging Bolt</a>, and the rest of the EVs are dumped into Special Attack.</li>\n<li>Tera Grass is used to give Kyogre a resistance to the Grass- and Electric-type attacks that threaten it. This is especially helpful to prevent priority attacks such as Rillaboom's Grassy Glide and Raging Bolt's Thunderclap from weakening Kyogre's Water Spout too much. Tera Grass also lets Kyogre ignore Rage Powder and Spore from <a href=\"/dex/sv/pokemon/amoonguss/vgc25-regulation-i/\" hreflang=\"en\">Amoonguss</a>, letting it potentially get an attack off into Amoonguss's partner.</li>\n</ul>\n<h4>Teambuilding</h4>\n<ul>\n<li>Because Kyogre runs at least two Water-type moves, it often has to choose which Pokemon it will be checked by. Rillaboom and Raging Bolt are problems if Kyogre runs Thunder, opposing Kyogre can be an issue if it runs Ice Beam, and all three are problematic if it runs Origin Pulse. <a href=\"/dex/sv/pokemon/koraidon/vgc25-regulation-i/\" hreflang=\"en\">Koraidon</a> and Miraidon are also problematic, as they resist Kyogre's Water-type attacks; Koraidon also changes the weather, weaking Kyogre's attacks.</li>\n<li><a href=\"/dex/sv/pokemon/calyrex-ice/vgc25-regulation-i/\" hreflang=\"en\">Calyrex-I</a> pairs well with Kyogre, as it threatens Rillaboom, Raging Bolt, Koraidon, and Miraidon for super effective damage. It can also set Trick Room against faster teams, letting Kyogre use Water Spout without having to worry about taking damage. <a href=\"/dex/sv/pokemon/zacian-crowned/vgc25-regulation-i/\" hreflang=\"en\">Zacian-C</a> and Zamazenta-C are both good partners as well because of their good damage output, letting Kyogre clean up weakened foes or letting them clean up after Kyogre has weakened them with Water Spout. Zacian-C is especially good into Miraidon and Raging Bolt, while Zamazenta-C is better at spreading damage.</li>\n<li>Amoonguss can heal Kyogre with Pollen Puff, letting it spam Water Spout against slower foes. It can also redirect attacks away from Kyogre, keeping it safe and letting it use Water Spout without worrying about faster foes. Tailwind setters like <a href=\"/dex/sv/pokemon/roaring-moon/vgc25-regulation-i/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/tornadus/vgc25-regulation-i/\" hreflang=\"en\">Tornadus</a>, and <a href=\"/dex/sv/pokemon/iron-jugulis/vgc25-regulation-i/\" hreflang=\"en\">Iron Jugulis</a> help Kyogre against faster foes if they do not also have a Tailwind setter. Tornadus and Iron Jugulis can also threaten Grass-type Pokemon and Koraidon, while Roaring Moon can use Knock Off to remove Assault Vest from <a href=\"/dex/sv/pokemon/iron-hands/vgc25-regulation-i/\" hreflang=\"en\">Iron Hands</a> and Rillaboom.</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Mystic Water"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hydro Pump",
+                "type": null
+              },
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              },
+              {
+                "move": "Origin Pulse",
+                "type": null
+              },
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 52,
+              "atk": 0,
+              "def": 4,
+              "spa": 236,
+              "spd": 4,
+              "spe": 212
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 645750,
+            "username": "iPetBigfoot"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BH",
+      "outdated": "<p>This analysis was written before BH had a major shakeup. As such, the set(s) and comments may not be up-to-date.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "RegenVest",
+          "pokemon": "Kyogre-Primal",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>RegenVest Primal Kyogre is a useful special wall, pivot, and utility Pokemon, notably checking foes like <a href=\"/dex/sv/pokemon/flutter-mane/bh/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/palkia-origin/bh/\" hreflang=\"en\">Palkia-O</a>, and <a href=\"/dex/sv/pokemon/eternatus/bh/\" hreflang=\"en\">Eternatus</a>. Flip Turn allows Primal Kyogre to safely scout moves from opposing threats like Choice Specs Flutter Mane and then swap into the appropriate answer, be it an Imposter Pokemon or an Ice Scales user. Scald is typically preferred over Steam Eruption thanks to its higher PP, but some teams may appreciate the extra power of Steam Eruption. Knock Off cripples item-reliant Pokemon like <a href=\"/dex/sv/pokemon/chansey/bh/\" hreflang=\"en\">Chansey</a>, RegenVest <a href=\"/dex/sv/pokemon/dialga/bh/\" hreflang=\"en\">Dialga</a>, and RegenVest <a href=\"/dex/sv/pokemon/celesteela/bh/\" hreflang=\"en\">Celesteela</a> along with removing Covert Cloak to let it status Pokemon it otherwise couldn't, such as <a href=\"/dex/sv/pokemon/audino-mega/bh/\" hreflang=\"en\">Mega Audino</a>. Mortal Spin's entry hazard removal and poison-inflicting capabilities make it a good all-around utility choice, especially since Primal Kyogre has an excellent matchup against many of the metagame's Steel-types, like <a href=\"/dex/sv/pokemon/steelix-mega/bh/\" hreflang=\"en\">Mega Steelix</a> and Celesteela. Nuzzle can slow down wallbreakers like Eternatus and Choice Specs Flutter Mane, and Stone Axe can help wear down foes for allies. Primal Kyogre's fear of physical wallbreakers like <a href=\"/dex/sv/pokemon/garchomp-mega/bh/\" hreflang=\"en\">Mega Garchomp</a>, <a href=\"/dex/sv/pokemon/greninja-ash/bh/\" hreflang=\"en\">Ash-Greninja</a>, and <a href=\"/dex/sv/pokemon/necrozma-ultra/bh/\" hreflang=\"en\">Ultra Necrozma</a> makes reliable checks to them, like Fur Coat Mega Audino and Ice Scales <a href=\"/dex/sv/pokemon/arceus-ground/bh/\" hreflang=\"en\">Arceus-Ground</a>, useful teammates. Special wallbreakers like Flutter Mane, Eternatus, and <a href=\"/dex/sv/pokemon/miraidon/bh/\" hreflang=\"en\">Miraidon</a> appreciate Knock Off removing items from opposing RegenVest users and Ability Shields from Pokemon like Ice Scales Arceus-Ground. Imposter-proof Primal Kyogre with a Take Heart <a href=\"/dex/sv/pokemon/arceus/bh/\" hreflang=\"en\">Arceus</a> forme holding a Plate.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              },
+              {
+                "move": "Steam Eruption",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              },
+              {
+                "move": "Nuzzle",
+                "type": null
+              },
+              {
+                "move": "Stone Axe",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 252,
+              "def": 252,
+              "spa": 252,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 610920,
+            "username": "vesp"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 577920,
+                "username": "Tea Guzzler"
+              },
+              {
+                "user_id": 355040,
+                "username": "Chessking"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Choice Scarf",
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Water Spout",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive Calm Mind",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Poison"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Ubers",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wallbreaker",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>This set fully exploits Primal Kyogre's enormous Special Attack and access to Primordial Sea to maximize its wallbreaking potential on offensive teams.</li>\n<li>Origin Pulse's high Base Power of 110 allows it to easily 2HKO or OHKO many common walls such as Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a>, <a href=\"/dex/sv/pokemon/necrozma-dusk-mane/national-dex-ubers/\" hreflang=\"en\">Necrozma-DM</a>, and <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a>. Even though Origin Pulse's accuracy can be detrimental, it is usually preferred over Water Spout because its power does not diminish proportionally with Primal Kyogre's HP.</li>\n<li>Ice Beam covers Dragon- and Grass-types that would resist Primal Kyogre's STAB attacks, like <a href=\"/dex/sv/pokemon/giratina-origin/national-dex-ubers/\" hreflang=\"en\">Giratina-O</a>, <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>, <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>, and Tera Grass Ho-Oh, and hits Primal Groudon trying to switch in on Primal Kyogre to replace Primordial Sea with Desolate Land.</li>\n<li>Thunder hits Water-types like <a href=\"/dex/sv/pokemon/arceus-water/national-dex-ubers/\" hreflang=\"en\">Arceus-Water</a>, Tera Water <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, and opposing Primal Kyogre for super effective damage. Thunder can also be used to fish for paralysis against Eternatus, as a paralyzed Eternatus has much more trouble dealing with Primal Kyogre due to the full paralysis chance and paralysis's drop in Speed, making Primal Kyogre faster and able to 2HKO Eternatus with Ice Beam at +1.</li>\n<li>Calm Mind is used to further boost Primal Kyogre's already ridiculously high Special Attack. At +1, Origin Pulse OHKOes specially defensive Necrozma-DM most of the time and <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a> all of the time.</li>\n<li>A Modest nature is generally recommended in order to maximize its damage output. A Timid nature can be run in order to always at least Speed tie with Primal Groudon and opposing Primal Kyogre.</li>\n<li>This Primal Kyogre set is best used as an early- to mid-game wallbreaker, where its powerful rain-boosted STAB moves and coverage options threaten many staples in the tier, like Primal Groudon, <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a>, Ho-Oh, and Necrozma-DM. Due to Water Spout's mechanics, it's often better to bring Primal Kyogre safely on a predicted recovery move like Arceus-Ground's Recover or by anticipating a switch.</li>\n<li>Sticky Web teams particularly like this set for its devastating wallbreaking ability. With Sticky Web up, Primal Kyogre can actively threaten what would otherwise be faster threats, such as <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>, <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>, and Mega <a href=\"/dex/sv/pokemon/mewtwo/national-dex-ubers/\" hreflang=\"en\">Mewtwo</a> formes. Thus, Sticky Web setters like <a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a> and <a href=\"/dex/sv/pokemon/smeargle/national-dex-ubers/\" hreflang=\"en\">Smeargle</a> are great teammates.</li>\n<li>Usual members of hyper offensive archetypes work well with Primal Kyogre; for example, Dragon Dance Ultra Necrozma threatens <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a> and Heavy-Duty Boots Eternatus, two Pokemon that Primal Kyogre has trouble dealing with. In return, Primal Kyogre helps against physically bulky Pokemon such as Arceus-Dark, Zygarde, and Primal Groudon. <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>'s capacity to remove Heavy-Duty Boots makes Primal Kyogre even harder to switch into when Sticky Web is up. In return, Primal Kyogre threatens to OHKO Ho-Oh and <a href=\"/dex/sv/pokemon/arceus-fairy/national-dex-ubers/\" hreflang=\"en\">Arceus-Fairy</a>, which are common answers to Sticky Web and Yveltal, respectively. Zacian-C outruns and threatens to OHKO <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> and Yveltal, two common troublemakers for hyper offensive teams.</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Blue Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Origin Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Kyogre",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Defensive Primal Kyogre is an oppressive force against bulkier teams, as it is able to shrug off weak attacks and passive damage that significantly hinder wallbreaker sets. Additionally, its base 180 Special Attack in conjunction with Scald and Ice Beam enables Primal Kyogre to trade with many offensive threats such as <a href=\"/dex/sv/pokemon/arceus-ground/national-dex-ubers/\" hreflang=\"en\">Arceus-Ground</a> and <a href=\"/dex/sv/pokemon/salamence-mega/national-dex-ubers/\" hreflang=\"en\">Mega Salamence</a>, even without offensive investment. These traits make Primal Kyogre an essential component of the defensive backbone on many balance teams.</li>\n<li>Aside from powering up Primal Kyogre's attacks, Calm Mind enables Primal Kyogre to turn the tables on some switch-ins that typically check wallbreaker sets, such as <a href=\"/dex/sv/pokemon/eternatus/national-dex-ubers/\" hreflang=\"en\">Eternatus</a>, <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-ubers/\" hreflang=\"en\">Ferrothorn</a>, and <a href=\"/dex/sv/pokemon/ditto/national-dex-ubers/\" hreflang=\"en\">Ditto</a>, by turning them into setup fodder. It can also be used to gain a free boost on Primal <a href=\"/dex/sv/pokemon/groudon/national-dex-ubers/\" hreflang=\"en\">Groudon</a> that switches in to sacrifice itself to entry hazards and reset the weather.</li>\n<li>Scald is Primal Kyogre's STAB move of choice due to its higher PP, accuracy, and ability to hinder physical attackers such as <a href=\"/dex/sv/pokemon/arceus/national-dex-ubers/\" hreflang=\"en\">Arceus</a> and <a href=\"/dex/sv/pokemon/calyrex-ice/national-dex-ubers/\" hreflang=\"en\">Calyrex-I</a>.</li>\n<li>Ice Beam provides Primal Kyogre the ability to hit Primal Groudon, which is its primary switch-in on most teams. While it only 4HKOes Primal Groudon, it will be quickly worn down due to its vulnerability to all entry hazards and its lack of reliable recovery. Furthermore, Ice Beam prevents Primal Kyogre from being set up on by the many threatening Dragon-types of the tier, such as <a href=\"/dex/sv/pokemon/necrozma-ultra/national-dex-ubers/\" hreflang=\"en\">Ultra Necrozma</a>, Eternatus, and Mega Salamence. Ice Beam also plays a role in enabling Primal Kyogre to function as a wincon against stall teams, as it would otherwise run out of Scald PP.</li>\n<li>Rest is primarily used against bulkier balance and stall teams to help accumulate Calm Mind boosts, as most of the Pokemon found on these teams cannot meaningfully damage it. Rest generally should not used against more offensive teams, as the two free turns are highly exploitable and will likely be leveraged by Pokemon such as Mega Salamence and Arceus to boost into a range where they are able to sweep. As such, Primal Kyogre is better off attempting to trade with or weaken a Pokemon on more offensive teams.</li>\n<li>This EV spread allows Primal Kyogre to survive some very powerful attacks that one would assume would knock it out. For example, Primal Kyogre is 2HKOed by +1 Mega Salamence's Double Edge and +1 <a href=\"/dex/sv/pokemon/zacian-crowned/national-dex-ubers/\" hreflang=\"en\">Zacian-C</a>'s Wild Charge and 3HKOed by uninvested Primal Groudon's Precipice Blades. Additionally, unboosted Primal Kyogre is 3HKOed by Life Orb <a href=\"/dex/sv/pokemon/yveltal/national-dex-ubers/\" hreflang=\"en\">Yveltal</a>'s Dark Pulse with this EV spread.</li>\n<li>Defensive Primal Kyogre generally should not be used early-game, though it can be used as a lead against hyper offense teams, as Scald provides the chance to OHKO dedicated leads such as <a href=\"/dex/sv/pokemon/shuckle/national-dex-ubers/\" hreflang=\"en\">Shuckle</a>, <a href=\"/dex/sv/pokemon/smeargle/national-dex-ubers/\" hreflang=\"en\">Smeargle</a>, and <a href=\"/dex/sv/pokemon/glimmora/national-dex-ubers/\" hreflang=\"en\">Glimmora</a> due to its burn chance, preventing them from setting multiple entry hazards. Primal Kyogre generally struggles against more offensive structures due to its limited hit-taking capabilities and often trades against a singular Pokemon at best. Defensive Primal Kyogre usually finds its first entry point mid-game, and it can use Ice Beam to heavily chip Primal Groudon that switches in for the benefit of teammates such as Zacian-C. Against balance teams, Primal Kyogre plays a critical role in dismantling or weakening the defensive backbone of the opposing team to allow more offensively inclined teammates such as Power Herb Eternatus and Arceus-Ground to sweep.</li>\n<li>Primal Kyogre has the tendency to be overwhelmed by powerful attackers, especially Swords Dance Primal Groudon, which capitalizes on the free turn where Primal Kyogre is forced out. <a href=\"/dex/sv/pokemon/zygarde/national-dex-ubers/\" hreflang=\"en\">Zygarde</a>, Arceus-Ground, and <a href=\"/dex/sv/pokemon/arceus-dark/national-dex-ubers/\" hreflang=\"en\">Arceus-Dark</a> can check powerful physical attackers while also appreciating Primal Kyogre's ability to deal with <a href=\"/dex/sv/pokemon/ho-oh/national-dex-ubers/\" hreflang=\"en\">Ho-Oh</a> especially since Zygarde specifically can be frustrated by Ho-Oh's phazing. Additionally, due to Primal Kyogre's middling matchup into offensive structures, <a href=\"/dex/sv/pokemon/marshadow/national-dex-ubers/\" hreflang=\"en\">Marshadow</a> and Ditto make good teammates due to their ability to revenge kill many of the most threatening Pokemon found on these structures, such as Ultra Necrozma and Zacian-C.</li>\n<li>Primal Kyogre also appreciates both entry hazard support and removal, as both Primal Kyogre and Pokemon that threaten it are pushed into KO range with the presence of entry hazards. Consequently, Ho-Oh and defensive Primal Groudon with Overheat are excellent teammates. Ho-Oh is the best Defogger and defensive pivot in the tier and also phazes many Pokemon that may view Primal Kyogre as a setup opportunity, such as Eternatus and Zacian-C. Primal Groudon provides entry hazard support in the form of Stealth Rock or Spikes.</li>\n<li>Although Primal Kyogre will not sweep stall teams by itself, it requires little support to achieve a gamestate where it is able to do so. As in other matchups, Primal Kyogre generally does not have an early-game presence, as it relies on teammates such as Overheat Primal Groudon and Ho-Oh to set and remove entry hazards. Overheat Primal Groudon eases the burden on Primal Kyogre against stall teams, as it 2HKOes <a href=\"/dex/sv/pokemon/dondozo/national-dex-ubers/\" hreflang=\"en\">Dondozo</a>, a staple on stall teams, after Stealth Rock. Additionally, Primal Kyogre requires some help against Confide <a href=\"/dex/sv/pokemon/chansey/national-dex-ubers/\" hreflang=\"en\">Chansey</a>. Consequently, Eternatus is an excellent teammate, as Pressure in conjunction with bulk allows it to absorb Confide and Seismic Toss, which allows Primal Kyogre to make progress.</li>\n</ul>",
+          "abilities": [
+            "Drizzle"
+          ],
+          "items": [
+            "Blue Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 24,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 415367,
+            "username": "Eledyr"
+          },
+          {
+            "user_id": 523420,
+            "username": "bumboclaat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 535530,
+                "username": "Gangsta Spongebob"
+              },
+              {
+                "user_id": 604820,
+                "username": "Sami"
+              },
+              {
+                "user_id": 434487,
+                "username": "Bobsican"
+              },
+              {
+                "user_id": 652323,
+                "username": "Anchor9"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              },
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Aqua Ring",
+    "Aqua Tail",
+    "Avalanche",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Calm Mind",
+    "Chilling Water",
+    "Double-Edge",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Giga Impact",
+    "Heavy Slam",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Icy Wind",
+    "Iron Head",
+    "Liquidation",
+    "Muddy Water",
+    "Origin Pulse",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Sheer Cold",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Take Down",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Waterfall",
+    "Water Pulse",
+    "Water Spout",
+    "Whirlpool"
+  ]
+}

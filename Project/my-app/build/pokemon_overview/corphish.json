@@ -1,0 +1,147 @@
+{
+  "name": "Corphish",
+  "alias": "corphish",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    43,
+    80,
+    65,
+    50,
+    35,
+    35
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "pokemon": "Corphish",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Adaptability"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crabhammer",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "X-Scissor",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 196,
+              "def": 76,
+              "spa": 0,
+              "spd": 0,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Ancient Power",
+    "Aqua Jet",
+    "Blizzard",
+    "Body Slam",
+    "Brick Break",
+    "Bubble Beam",
+    "Chilling Water",
+    "Crabhammer",
+    "Crunch",
+    "Dig",
+    "Double-Edge",
+    "Double Hit",
+    "Dragon Dance",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Fling",
+    "Guillotine",
+    "Harden",
+    "Hydro Pump",
+    "Ice Beam",
+    "Icy Wind",
+    "Iron Defense",
+    "Knock Off",
+    "Leer",
+    "Liquidation",
+    "Metal Claw",
+    "Muddy Water",
+    "Mud Shot",
+    "Night Slash",
+    "Protect",
+    "Rain Dance",
+    "Razor Shell",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Slash",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Substitute",
+    "Surf",
+    "Switcheroo",
+    "Swords Dance",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Whirlpool",
+    "X-Scissor"
+  ]
+}

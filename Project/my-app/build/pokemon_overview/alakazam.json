@@ -1,0 +1,225 @@
+{
+  "name": "Alakazam",
+  "alias": "alakazam",
+  "types": [
+    "Psychic"
+  ],
+  "stats": [
+    55,
+    50,
+    45,
+    135,
+    95,
+    120
+  ],
+  "strategies": [
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Alakazam",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Alakazam is a powerful offensive threat thanks to Nasty Plot, its high Speed, and its ability allowing it to ignore entry hazards and other forms of passive damage to keep its Focus Sash intact. These assets make it a great revenge killer or wallbreaker for offensive teams. It is able to outspeed and KO top-tier threats like non-Choice Scarf <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a> or break sturdy defensive cores with <a href=\"/dex/sv/pokemon/garganacl/national-dex-uu/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>. Focus Blast is used to hit Dark- and Steel-types like <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>. Shadow Ball hits <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/aegislash/national-dex-uu/\" hreflang=\"en\">Aegislash</a>, and <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a>. Recover allows Alakazam to set up in front of weaker attacks or passive Pokemon, such as <a href=\"/dex/sv/pokemon/chansey/national-dex-uu/\" hreflang=\"en\">Chansey</a>. Encore locks Pokemon like Mega Latias, <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>, and Excadrill into unfavorable moves, and Alakazam can use these free turns to set up. Counter is a niche option to KO <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a> and should only be used with Focus Sash for its surprise factor, but it's way less useful than Alakazam's other moves in most matchups. Alakazam's choice of item depends on what your team needs the most; Focus Sash allows it to revenge kill fast Pokemon like Speed Booster Energy Iron Moth and <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a>, while Life Orb or Fightinium Z allows it to pressure defensive staples like Clefable and Celesteela with much more consistency. When not running Focus Sash, 28 Defense EVs should be used to avoid an OHKO from <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a>'s Earthquake. Alakazam fits best on offensive teams that enjoy a fast revenge killer against Iron Moth and Mienshao. Entry hazard support from Excadrill and Iron Moth is effective at wearing down most of Alakazam's answers; Toxic Spikes from Iron Moth can put Hippowdon and Chansey on a timer, while Spikes can weaken Aegislash and force <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> to use Roost more often. <a href=\"/dex/sv/pokemon/magnezone/national-dex-uu/\" hreflang=\"en\">Magnezone</a> can trap Celesteela and Scizor; in return, Alakazam threatens Mienshao and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>. Knock Off from Scizor or Clefable can remove Leftovers from Celesteela and Aegislash, and both appreciate Alakazam revenge killing Iron Moth for them.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Focus Sash",
+            "Life Orb",
+            "Fightinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Counter",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 28,
+              "spa": 228,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535121,
+            "username": "gu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 297659,
+                "username": "deetah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Focus Sash",
+          "pokemon": "Alakazam",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Counter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Expanding Force",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": []
+}

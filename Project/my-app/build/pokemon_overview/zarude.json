@@ -1,0 +1,818 @@
+{
+  "name": "Zarude",
+  "alias": "zarude",
+  "types": [
+    "Dark",
+    "Grass"
+  ],
+  "stats": [
+    105,
+    120,
+    105,
+    70,
+    95,
+    105
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Poison",
+            "Fire",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band (Grass)",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Zarude can serve as a physical wallbreaker with a great Speed tier and Choice Band, which allow it to outspeed and beat Pokemon like <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/skeledirge/monotype/\" hreflang=\"en\">Skeledirge</a>, and <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>, as well as a great pivot with U-turn. Power Whip is an excellent STAB move that allows Zarude to 2HKO <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>. Drain Punch grants Zarude a form of recovery while still 2HKOing <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and Heatran, whereas Close Combat grants Zarude a stronger Fighting-type coverage. Alternatively, Jungle Healing allows Zarude access to longevity and removing its own status safely, as it forces many switches.</p>\n<p><a href=\"/dex/sv/pokemon/amoonguss/monotype/\" hreflang=\"en\">Amoonguss</a> is a great defensive partner for Zarude, as it is able to resist Fighting- and Fairy-type attacks from <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/sneasler/monotype/\" hreflang=\"en\">Sneasler</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, melt Toxic Spikes, and spread status for more offensive teammates with either Toxic or Spore. In return, Zarude can threaten the Psychic-types Amoonguss loses to, like Hatterene, <a href=\"/dex/sv/pokemon/armarouge/monotype/\" hreflang=\"en\">Armarouge</a>, and <a href=\"/dex/sv/pokemon/iron-leaves/monotype/\" hreflang=\"en\">Iron Leaves</a>. Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> makes for another good teammate, as it can outspeed and threaten Dragon-types such as <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, and <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> with Play Rough. In return, Zarude can handle the aforementioned Steel-types that Meowscarada struggles with, and the two of the form a strong U-turn core to complement their teammates. <a href=\"/dex/sv/pokemon/electrode-hisui/monotype/\" hreflang=\"en\">Hisuian Electrode</a> and <a href=\"/dex/sv/pokemon/rotom-mow/monotype/\" hreflang=\"en\">Rotom-C</a> is a great addition on any Grass team, as thanks to its Speed tier and Electric typing, it can threaten slower Flying-types such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/enamorus/monotype/\" hreflang=\"en\">Enamorus</a> as well as Water-types like Toxapex and <a href=\"/dex/sv/pokemon/volcanion/monotype/\" hreflang=\"en\">Volcanion</a>. Zarude's wallbreaking and support role enables sweepers like Hisuian Liligant to sweep Flying thanks to the latter's access to Ice Spinner as well as being able to clean Steel teams. <a href=\"/dex/sv/pokemon/brambleghast/monotype/\" hreflang=\"en\">Brambleghast</a> and <a href=\"/dex/sv/pokemon/toedscruel/monotype/\" hreflang=\"en\">Toedscruel</a> make for great teammates, as they can set up hazards to wear down incoming Pokemon for Zarude to break easier and remove them with Rapid Spin to enhance Zarude's pivoting ability. Toedscruel also has enough Special Defense to survive a Flamethrower from Choice Scarf <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a> and OHKO it back. On the other hand, Brambleghast's Ghost typing also allows it to spinblock, thus preserving hazards on the field, and thanks to its ability Wind Rider, it can switch into anticipated Flying-type attacks. Iron Leaves makes for another great partner, being able to provide Grass teams a positive matchup against Fighting and Poison teams. In return, Zarude can threaten the Ghost-types it struggles with, like Skeledirge and Gholdengo.</p>",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Swords Dance (Grass)",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Decent in the Steel matchup. Black Glasses lets it 2HKO Skeledirge with Crunch.</p>\n<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Black Glasses",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jungle Healing",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              },
+              {
+                "user_id": 574288,
+                "username": "Giyu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 467437,
+                "username": "Dawn of Ares"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Grassy Surge"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grassy Glide",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 1 onwards</p>\n<p><strong>Price Range</strong>: 11-12 points</p>\n<p><strong>Tera Price Range</strong>: 19 points</p>\n<p><strong>Overview</strong>: Zarude is a premier Tera Captain with vast set versatility, making it a formidable force that can fit practically whatever role on a team it needs to. With a usable Speed tier that it can use a relatively powerful Trailblaze to boost even further, it can be an offensive setup sweeper thanks to Swords Dance, and with far above average bulk and two healing moves that both have their uses in Synthesis and Jungle Healing, it also can be a bulky setup sweeper thanks to Bulk Up. Its biggest drawbacks are its defensive typing and relatively limited coverage options, both of which it can make up for with Terastallization and Tera Blast, respectively.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Bulky Setup Sweeper</strong>: Zarude can be a bulky setup sweeper that does not have to worry about the vast weaknesses it normally has to worry about thanks to Terastallization. Bulk Up makes its already great bulk even better, and it can remain healthy with Synthesis or Jungle Healing. This set can also take advantage of the utility moves it has such as Taunt and Encore to prevent Pokemon from disrupting it.</p>\n<p><strong>Offensive Setup Sweeper</strong>: Having the option to use Swords Dance can make Zarude more threatening much more quickly, Zarude can use its respectable Attack stat with powerful moves such as Power Whip and Knock Off to take a more offensive route in sweeping. Having STAB Trailblaze also means it can do some substantial damage while boosting its Speed to outspeed faster foes that could otherwise pick it off.</p>\n<p><strong>Revenge Killer</strong>: By holding a Choice Scarf, Zarude will outspeed most unboosted foes and can knock them out or use U-turn against more unfavorable matchups. Although its pool of coverage moves is not insanely vast, it still has more than enough to get the job done, and Tera Blast can be used to fill up any cracks.</p>\n<p><strong>Offensive Utility</strong>: Although matchups where Zarude struggles with being a sweeper are few and far between, it can use its naturally strong offensive profile, bulk, and good utility moves to act as a disruptor for its team while not being a passive piece on the board.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Knock Off, Power Whip, Petal Blizzard, Crunch</p>\n<p><strong>Setup Moves</strong>: Bulk Up, Swords Dance, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Taunt, Encore, Jungle Healing, Synthesis, U-turn, Roar, Brick Break</p>\n<p><strong>Coverage</strong>: Acrobatics, Close Combat, Drain Punch, Rock Slide, Stomping Tantrum, Tera Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Throat Chop</strong>: While the utility Knock Off provides is useful in almost any other case and the chance to decrease Defense makes Crunch a better option over it, Throat Chop can be used to surprise check Pokemon that use sound moves like <a href=\"/dex/sv/pokemon/toxtricity/draft/\" hreflang=\"en\">Toxtricity</a> and Pixilate <a href=\"/dex/sv/pokemon/sylveon/draft/\" hreflang=\"en\">Sylveon</a> or against phazers that use Roar.</p>\n<h3>Common Items</h3>\n<p><strong>Leftovers</strong>: Zarude is naturally bulky enough that it can gain enough value from Leftovers on setup sets to warrant it over other items.</p>\n<p><strong>Heavy-Duty Boots</strong>: Because Zarude wants to avoid entry hazard damage and poison from Toxic Spikes on both pivot and setup sets, Heavy-Duty Boots is a safe option for it where residual recovery is not as necessary.</p>\n<h3>Niche Items</h3>\n<p><strong>Choice Scarf</strong>: Choice Scarf Zarude is a great pivot and revenge killer that can use its powerful STAB and coverage moves to threaten foes or U-turn to get momentum while avoiding unfavorable matchups.</p>\n<p><strong>Damage-boosting Items</strong>: Zarude usually has more than enough damage thanks to Swords Dance, but if it needs just a little bit more or if finding a Pokemon to set up against is too difficult, having a damage-boosting item like Choice Band or Black Glasses is still an option.</p>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry gives Zarude a larger and more immediate health restoration than Leftovers can, making it also a safe option to almost always take advantage of a held item while still having the ability to eventually empower Acrobatics.</p>\n<p><strong>Mental Herb</strong>: Restricting Zarude via Encore is a common way for foes to take advantage of it, so Mental Herb can be a way to prevent that happening once.</p>\n<p><strong>Resistance Berries</strong>: Thanks to Terastallization, Zarude can choose which type it is scared of the most to pack a resistance Berry for.</p>\n<p><strong>Lum Berry</strong>: Lum Berry is a way to clear status if it is not efficient to have Jungle Healing on a set.</p>\n<h3>Tera</h3>\n<p>Zarude should always be a Tera Captain on teams where it is drafted. It takes advantage of Terastallization in a way not much else can. Offensively, it can gain coverage to hit Pokemon it couldn't normally hit super effectively such as Dragon- and Fairy-types, while defensively, it can lose its expansive weaknesses. Tera Dark can be used to boost its Knock Off to incredibly strong levels while still shedding a couple of the weaknesses it has, and Tera Fairy gives it a great defensive typing, shedding all of its weaknesses except Poison while also giving Zarude key coverage. Tera Poison and Steel make it immune to poison while giving it a stronger matchup against Fairy-types. Tera Electric helps it beat Flying-types, Tera Fire is great against Grass-types, and Tera Fighting allows Close Combat and Drain Punch to deal insane damage. Tera Ghost works great defensively, allowing Zarude to spinblock and helping it take Poison- and Fighting-type attacks, and Tera Dragon is a great defensive typing that is fairly uncommon, so it can be used to catch your opponent off guard. Zarude will very often want to be the one Terastallizing, so any other Pokemon drafted to be a Tera Captain should not be dependent on it.</p>\n<h3>Draft Strategy</h3>\n<p>Zarude should be drafted alongside strong Pokemon that are banned from being a Tera Captain, such as <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> and <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>. It fits well on balance or bulky offense drafts, not needing much support to do what it wants.</p>\n<p><strong>Entry Hazard Control</strong>: While hazard setters such as Garchomp and <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a> are essential on any Draft team, setup and pivot Zarude sets both especially appreciate residual damage, allowing them to break through defensive Pokemon easier. Having Pokemon such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> that can remove hazards for Zarude also allows it to hold items outside of Heavy-Duty Boots, while having a grounded Poison-type to remove Toxic Spikes are a near necessity for sets without Jungle Healing.</p>\n<p><strong>Special Wallbreakers</strong>: Reliable special attackers like Iron Valiant and <a href=\"/dex/sv/pokemon/gholdengo/draft/\" hreflang=\"en\">Gholdengo</a> are important for removing the physical walls that hinder Zarude's sweeping capabilities. Special wallbreakers put lots of pressure on physically defensive Pokemon, which often forces them to invest in Special Defense EVs rather than the Defense EVs that will stop Zarude's sweeping capabilities.</p>\n<p><strong>Defensive Pivots</strong>: Pokemon that can get Zarude in safely such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a> are appreciated for it to do what it wants to.</p>\n<p><strong>Dual Screens Setters</strong>: Pokemon like <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a> and <a href=\"/dex/sv/pokemon/klefki/draft/\" hreflang=\"en\">Klefki</a> that can set dual screens up for Zarude allow it to come in and set up much easier.</p>\n<p><strong>Healing Wish Support</strong>: Pokemon that can bring Zarude in safely while also healing status or prior damage such as <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/mesprit/draft/\" hreflang=\"en\">Mesprit</a> are extremely useful in facilitating its sweeping potential.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Offensive Pokemon</strong>: Although Zarude is incredibly bulky, it is not invincible, and powerful Pokemon such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> and Iron Valiant can revenge kill it regardless of the typing it is Terastallized into. Special wallbreakers are especially effective, since Zarude can often become extremely physically bulky with Bulk Up.</p>\n<p><strong>Disruptive Moves</strong>: Moves like Encore and Taunt that prevent Zarude from living up to its full potential can prove to be annoying for it if they're not played around properly.</p>\n<p><strong>Phazing</strong>: Moves like Clear Smog and Haze that remove stat boosts, especially on physical walls such as <a href=\"/dex/sv/pokemon/toxapex/draft/\" hreflang=\"en\">Toxapex</a>, make it much harder for Zarude to set up.</p>\n<p><strong>Poison- and Flying-type Pokemon</strong>: Despite Zarude's access to Ground- and Rock-type moves, Poison- and Flying-types still annoy Zarude with their resistance to its Grass-type STAB moves and ability to hit back super effectively before its Terastallization. They also force specific Tera types often, making it slightly more predictable.</p>\n<p><strong>Status</strong>: While Zarude does have access to Jungle Healing, sometimes the extra healing from Synthesis is too important to pass up on, meaning it can be severely impeded by status.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 313217,
+            "username": "Thanos"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulk Up (Atk, SpD, Spe)",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jungle Healing",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 224,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 32
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "1v1",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Knock Off hits Pokemon such as <a href=\"/dex/sv/pokemon/pecharunt/1v1/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/spectrier/1v1/\" hreflang=\"en\">Spectrier</a>, and non-Weakness Policy <a href=\"/dex/sv/pokemon/metagross/1v1/\" hreflang=\"en\">Metagross</a> for large damage, alongside removing items such as Choice Band from Pokemon like <a href=\"/dex/sv/pokemon/hoopa-unbound/1v1/\" hreflang=\"en\">Hoopa-U</a>.</li>\n<li>Power Whip deals with Pokemon like <a href=\"/dex/sv/pokemon/ursaluna/1v1/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/manaphy/1v1/\" hreflang=\"en\">Manaphy</a>, and non-Custap Berry <a href=\"/dex/sv/pokemon/primarina/1v1/\" hreflang=\"en\">Primarina</a>.</li>\n<li>Rock Slide can OHKO <a href=\"/dex/sv/pokemon/volcarona/1v1/\" hreflang=\"en\">Volcarona</a>.</li>\n<li>Bullet Seed lets Zarude beat <a href=\"/dex/sv/pokemon/donphan/1v1/\" hreflang=\"en\">Donphan</a> and Counter <a href=\"/dex/sv/pokemon/ogerpon/1v1/\" hreflang=\"en\">Ogerpon</a>.</li>\n<li>Low Kick can be a helpful tool against some <a href=\"/dex/sv/pokemon/goodra-hisui/1v1/\" hreflang=\"en\">Hisuian Goodra</a> variants.</li>\n<li>The EVs allow Zarude to survive a Gunk Shot from Adamant Hoopa-U as well as outspeed <a href=\"/dex/sv/pokemon/garchomp/1v1/\" hreflang=\"en\">Garchomp</a>.</li>\n<li>Zarude struggles against physically defensive Pokemon such as <a href=\"/dex/sv/pokemon/corviknight/1v1/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/landorus-therian/1v1/\" hreflang=\"en\">Landorus-T</a> as well as foes that can outspeed it such as <a href=\"/dex/sv/pokemon/iron-valiant/1v1/\" hreflang=\"en\">Iron Valiant</a>, Choice Band <a href=\"/dex/sv/pokemon/dragapult/1v1/\" hreflang=\"en\">Dragapult</a>, and <a href=\"/dex/sv/pokemon/walking-wake/1v1/\" hreflang=\"en\">Walking Wake</a>. Pairing Zarude with Pokemon such as Primarina and <a href=\"/dex/sv/pokemon/sylveon/1v1/\" hreflang=\"en\">Sylveon</a> can mitigate these weaknesses.</li>\n</ul>",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Seed",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 192,
+              "def": 84,
+              "spa": 0,
+              "spd": 0,
+              "spe": 232
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 583189,
+            "username": "LongRat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563325,
+                "username": "delemon"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 670315,
+                "username": "Mentality"
+              },
+              {
+                "user_id": 563650,
+                "username": "bern"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 593115,
+                "username": "igiveuponaname"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Darkest Lariat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jungle Healing",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Swords Dance",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Bulk Up can be run in order to give Zarude more bulk while setting up.</p>",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Darkinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Darkest Lariat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jungle Healing",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "pokemon": "Zarude",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets, stay tuned for future updates!</p>",
+          "abilities": [
+            "Leaf Guard"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Whip",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Darkest Lariat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jungle Healing",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Bind",
+    "Bite",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Bullet Seed",
+    "Close Combat",
+    "Crunch",
+    "Dark Pulse",
+    "Dig",
+    "Double-Edge",
+    "Drain Punch",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fling",
+    "Focus Punch",
+    "Fury Swipes",
+    "Giga Drain",
+    "Giga Impact",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Hammer Arm",
+    "Helping Hand",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Jungle Healing",
+    "Knock Off",
+    "Lash Out",
+    "Leaf Storm",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Magical Leaf",
+    "Mud Shot",
+    "Nasty Plot",
+    "Petal Blizzard",
+    "Power Whip",
+    "Protect",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scary Face",
+    "Scratch",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Snarl",
+    "Solar Beam",
+    "Solar Blade",
+    "Stomping Tantrum",
+    "Substitute",
+    "Sunny Day",
+    "Swagger",
+    "Swift",
+    "Swords Dance",
+    "Synthesis",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Throat Chop",
+    "Trailblaze",
+    "U-turn",
+    "Vine Whip"
+  ]
+}

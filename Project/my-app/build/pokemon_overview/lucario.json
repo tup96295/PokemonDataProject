@@ -1,0 +1,648 @@
+{
+  "name": "Lucario",
+  "alias": "lucario",
+  "types": [
+    "Fighting",
+    "Steel"
+  ],
+  "stats": [
+    70,
+    110,
+    70,
+    115,
+    70,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>By virtue of its access to the rare Extreme Speed paired with Swords Dance and a decent offensive typing, Lucario carves out a small niche as a setup sweeper that can revenge kill faster threats like <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>. Its ample coverage also makes it difficult for defensive staples like <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> to handle it reliably. However, Lucario's poor bulk and mediocre initial power make it difficult to find setup opportunities, especially if it forgoes Air Balloon for Life Orb's extra power. It also struggles with an awkward Speed tier, causing it to rely heavily on Extreme Speed; as such, faster Ghost-types like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> and <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> are able to revenge kill it with ease. Lucario also faces competition from other physical setup sweepers, especially those that have priority; Mimikyu has a better typing and defensive utility with Disguise, while <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> has superior bulk and power.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Lucario's solid Special Attack and wide special movepool makes a Nasty Plot set with Vacuum Wave a usable option. However, it faces stiff competition from other special setup sweepers, like <a href=\"/dex/sv/pokemon/mew/ru/\" hreflang=\"en\">Mew</a> and <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, while the lacking power of Vacuum Wave makes it less effective at revenge killing. A Choice Band set can be used for more immediate power while letting Lucario fit an extra attacking move. Justified can be used over Inner Focus in order to punish Knock Off from the likes of <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>. Bullet Punch is significantly weaker than Extreme Speed but lets Lucario revenge kill Ghost-types like <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>, though both need to have been worn down to be KOed by the move.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Ground-types</strong>: <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/gligar/ru/\" hreflang=\"en\">Gligar</a> have the bulk to take even a boosted hit from Lucario before retaliating with a super-effective STAB Move or, in the case of <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, force it out with Whirlwind. <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a> is also able to completely ignore Lucario's Swords Dance boosts and KO it with Earthquake, though it is completely walled if Lucario's Air Balloon is intact.</p>\n<p><strong>Ghost-types</strong>: Gengar and Mimikyu are immune to Extreme Speed and naturally outspeed Lucario, letting them revenge kill it with their powerful attacks. <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a> walls non-Crunch variants and can run Choice Scarf to outspeed and revenge kill Lucario. Additionally, Tera Ghost from defensive Pokemon like <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> can prevent Lucario from sweeping.</p>\n<p><strong>Physically Bulky Pokemon</strong>: If running Meteor Mash, Lucario is completely walled by <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, which can cripple it with Thunder Wave or Scald burns. <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> is able to take even a boosted Close Combat from Lucario before KOing it with Body Press.</p>\n<p><strong>Status</strong>: <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> can survive a non-Tera Normal Extreme Speed and punish Lucario with either Will-O-Wisp or Flame Body. Paralysis from <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>'s Body Slam as well as Thunder Wave from the likes of <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a> and Slowbro can also annoy Lucario, forcing it to rely more on Extreme Speed.</p>\n<p><strong>Chip Damage</strong>: Lucario is prone to being worn down by a combination of Life Orb recoil, Spikes, and Rocky Helmet held by defensive Pokemon like Gastrodon, Slowbro, and Hippowdon. When combined with its poor bulk, the residual damage leaves Lucario vulnerable to being picked off by even defensive Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> and Cresselia.</p>",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "pokemon": "Lucario",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Lucario's access to the elusive combination of Swords Dance and Extreme Speed makes it a terrifying sweeper and revenge killer in the right circumstances. Meteor Mash serves as a powerful, if somewhat inaccurate, STAB move with the occasional Attack boost being a nice bonus that can further bolster Lucario's power. Crunch is a reliable coverage option that can be used to hit Psychic-types like <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/cresselia/ru/\" hreflang=\"en\">Cresselia</a> as well as <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>, which otherwise walls it. Life Orb further bolsters Lucario's power at the cost of gradually wearing it down throughout the game; after a Swords Dance, it enables Lucario to guarantee a OHKO on <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> and, with Stealth Rock or Spikes damage, <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> with Close Combat as well as Nasty Plot <a href=\"/dex/sv/pokemon/mew/ru/\" hreflang=\"en\">Mew</a> with Crunch after chip damage. Air Balloon can instead be used as a means to set up against Gastrodon and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> lacking Close Combat, as well as completely wall <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a>. It also provides Lucario temporary protection from Spikes and Sticky Web. Inner Focus is used to block Intimidate from Krookodile while also blocking flinches from Jirachi's Iron Head. Tera Normal bolsters Extreme Speed's power; with a Life Orb, this lets Lucario OHKO <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and, with chip damage or a Weak Armor activation, <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a> with the move after a Swords Dance.</p>\n<p>Lucario provides offensive structures, particularly hyper offense teams, with a potent revenge killer and setup sweeper. Other physically offensive threats, like Krookodile, <a href=\"/dex/sv/pokemon/mimikyu/ru/\" hreflang=\"en\">Mimikyu</a>, and <a href=\"/dex/sv/pokemon/maushold/ru/\" hreflang=\"en\">Maushold</a>, can help Lucario wear down shared checks like Gastrodon and Quagsire. Maushold in particular can remove entry hazards with Tidy Up, which is especially appreciated by Life Orb variants due to their tendency to get worn down. Life Orb Lucario also appreciates entry hazard setters with Taunt, such as Mew and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a>, as they can help wear down the opposing team with the entry hazards they set while preventing the opponent from getting hazards up. Lucario makes for a great partner with Armarouge due to its ability to take on the likes of Assault Vest <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> while also taking care of opposing priority users like <a href=\"/dex/sv/pokemon/feraligatr/ru/\" hreflang=\"en\">Feraligatr</a> with Extreme Speed. In return, Armarouge is able to exploit and eliminate physically defensive Pokemon like Slowbro and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a>. Other specially offensive threats like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> can dent and possibly cripple the physical walls that Lucario struggles with while also appreciating Lucario's ability to take care of opposing revenge killers.</p>",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Life Orb",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Meteor Mash",
+                "type": null
+              },
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 236507,
+            "username": "Bice"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 647728,
+                "username": "Heatranator"
+              },
+              {
+                "user_id": 513635,
+                "username": "Rarelyme"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance (Fighting)",
+          "pokemon": "Lucario",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Justified"
+          ],
+          "items": [
+            "Life Orb",
+            "Expert Belt"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Meteor Mash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Nasty Plot (Steel)",
+          "pokemon": "Lucario",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Steadfast"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>These sets were for Battle Stadium Singles Regulation C, which ended on June 30th, 2023. Since then, this Pokemon's viability has massively dropped off, and it is no longer relevant. Using this Pokemon in today's metagame is not advised unless you have an extremely niche, hyper-specific need to cover.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Extreme Speed",
+          "pokemon": "Lucario",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Inner Focus",
+            "Justified"
+          ],
+          "items": [
+            "Focus Sash",
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bullet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Counter",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Special Attacker",
+          "pokemon": "Lucario",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Inner Focus"
+          ],
+          "items": [
+            "Life Orb",
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fighting",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Vacuum Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Aura Sphere",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Steel Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Magic Guard",
+          "pokemon": "Lucario",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Lucario's niche lies in its great mixed wallbreaking capacity and amazing STAB combination, with Close Combat and Steel Beam hitting the majority of the metagame for good damage and potentially 2HKOing them. Earthquake deals with <a href=\"/dex/sv/pokemon/toxapex/almost-any-ability/\" hreflang=\"en\">Toxapex</a>, Dark Pulse smacks <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, and Stone Edge prevents <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> from switching in safely. Nasty Plot lets it muscle through bulky teams that try to dance around its coverage moves. An alternative EV spread of 252 Atk / 4 SpA / 252 Spe can be used to deal more damage on the physical side. Lucario's excellent wallbreaking abilities make fast offensive partners like <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>, and <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a> good partners, as they can clean up after it has broken holes into the opposing team. Lucario's lack of defensive utility makes walls like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, RegenVest <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a>, and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> much appreciated; additionally, they can bring it back onto the field with a slow pivot. Lucario greatly struggles with four-moveslot syndrome, so teammates that can deal with Zapdos and Iron Moth like RegenVest or Magic Guard Roaring Moon when not using Stone Edge and teammates that can switch into Gholdengo like Swampert when not running Dark Pulse are appreciated.</p>",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Steel Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              },
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 580765,
+            "username": "cat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 611238,
+                "username": "LordBox"
+              },
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 6 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: On paper, Lucario possesses many desirable traits for an offensive Pokemon such as strong setup options, diverse mixed coverage, and powerful priority that includes the coveted Extreme Speed, allowing it to be a potentially deadly cleaner late-game, especially if accentuated by Terastallization. In practice, however, its relatively unimpressive attacking stats and Speed often necessitate boosts for it to perform its role, which can be difficult to obtain with its high frailty. Additionally, Lucario can struggle to fit in all the moves it wants, whether its due to having a moveslot taken up by a setup move or needing too much coverage, meaning that in certain matchups it might be forced into choosing what it gets checked by.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Setup Sweeper</strong>: With any of its offense-boosting options, Lucario can break through most walls with its STAB moves and coverage while using priority to fend off faster offensive threats. These sets best take advantage of Terastallization by powering up Lucario's crucial priority moves or letting it smash through walls with greater ease.</p>\n<p><strong>Revenge Killer</strong>: Lucario's access to multiple forms of powerful priority allows it to pick off low-health foes before they can make another move.</p>\n<p><strong>Wallbreaker</strong>: Though Lucario is usually outclassed as a wallbreaker by other Pokemon, opponents can be caught off guard by an all-out offensive Lucario capable of punching holes in the enemy team for its teammates. These sets typically require one of the Choice items in order to best supplement Lucario's below-average offensive stats.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Close Combat, Meteor Mash, Focus Blast, Aura Sphere, Vacuum Wave, Flash Cannon, Bullet Punch</p>\n<p><strong>Setup Moves</strong>: Swords Dance, Nasty Plot, Calm Mind, Bulk Up, Agility, Trailblaze</p>\n<p><strong>Utility Moves</strong>: Substitute, Roar</p>\n<p><strong>Coverage</strong>: Extreme Speed, Crunch, Stone Edge, Ice Punch, Earthquake, Rock Slide, Thunder Punch, Zen Headbutt, Poison Jab, Shadow Claw, Dark Pulse, Psychic, Dragon Pulse, Shadow Ball</p>\n<h3>Niche Moves</h3>\n<p><strong>Steel Beam</strong>: Being Lucario's highest possible damage output, Steel Beam should only be used in situations where Lucario needs an immediate burst of power, such as catching a physical wall off guard.</p>\n<p><strong>Upper Hand</strong>: While Lucario's Extreme Speed will usually beat out other forms of priority, Upper Hand can possibly negate an attempt to quickly dispatch Lucario for a turn, letting it survive and force the opponent into predicting its next move.</p>\n<h3>Common Items</h3>\n<p><strong>Life Orb</strong>: Lucario's stats often leave it quite power hungry even with boosts, making Life Orb the best option to maximize its KO potential. Due to its frailty and reliance on priority moves, it will rarely suffer the drawbacks of recoil damage.</p>\n<p><strong>Focus Sash</strong>: Focus Sash lets Lucario have a guaranteed setup or attacking turn, getting around its frailty.</p>\n<p><strong>Choice Band</strong>: Choice Band gives Lucario immediate power to smash defensive pieces with its high-powered STAB moves while retaining its decent cleaning potential with Extreme Speed.</p>\n<h3>Niche Items</h3>\n<p><strong>Other Damage-boosting Items</strong>: Items like Expert and Black Belt supplement Lucario's power without drawbacks, though with noticeably less potency than its primary options.</p>\n<p><strong>Choice Specs</strong>: In a similar vein to Choice Band, Choice Specs can let Lucario perform immediately with its slightly higher Special Attack.</p>\n<h3>Tera</h3>\n<p>While one should look for greater potential and flexibility in their secondary Tera Captain, Lucario can still decently complement a faster primary Tera Captain, since it does not necessarily rely on Terastallization to function but greatly benefits from it as an option. Tera Normal is the most standout choice for Lucario, as boosting its Extreme Speed lets it more easily pick off chipped offensive Pokemon and clean up late-game with setup. Tera Fighting and Steel also make Lucario's Close Combat, Meteor Mash, or other STAB moves extremely potent at breaking down even neutrally hit walls while also boosting some of the other priority moves it wants to use. Other types like Tera Dark, Ground, and Electric can boost coverage moves against Fighting-resistant targets.</p>\n<h3>Draft Strategy</h3>\n<p>Lucario serves as a supplemental offensive piece that primarily seeks to clean up weakened teams. However, it still heavily relies on assistance from Pokemon with other roles on the team to make the most out of its only decent offensive potential.</p>\n<p><strong>Higher-tiered Sweepers</strong>: Teammates like <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a> can soften the enemy team enough for Lucario to sufficiently pick off the remaining pieces with setup, or they can alternatively benefit from Lucario's lesser weakening of foes to set up themselves.</p>\n<p><strong>Slow Pivots</strong>: Lucario appreciates being brought in by Pokemon like <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/alomomola/draft/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/primarina/draft/\" hreflang=\"en\">Primarina</a> so that it does not have to rely on a KOed teammate for reliable entry.</p>\n<p><strong>Entry Hazard Control</strong>: Entry hazard setters like <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/mew/draft/\" hreflang=\"en\">Mew</a> make it easier for Lucario to achieve KOs against chipped foes. Since Lucario dislikes running Heavy-Duty Boots, teammates like <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> can let it stay healthy without choosing between having its already subpar bulk being dug into or giving up its item.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Offensive Foes</strong>: Without setup or a good amount of prior damage, faster Pokemon like <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/cinderace/draft/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a> can easily prey upon Lucario's low bulk without fearing a KO from its priority.</p>\n<p><strong>Fighting-resistant Walls</strong>: Lucario relies on its strong Fighting-type STAB moves to power through defensive pieces, but its somewhat weak coverage means that walls like <a href=\"/dex/sv/pokemon/zapdos/draft/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/pecharunt/draft/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a> can usually stomach even its boosted attacks to fire a decent hit back. If multiple of such Pokemon are present on the enemy team, Lucario's moveset can become extremely strained to the point of unfavorable moveslot compromises.</p>\n<p><strong>Residual Damage</strong>: Factors like Life Orb recoil, entry hazard damage, and Rocky Helmet contact can greatly lessen Lucario's longevity, making it susceptible to even attacks from weaker walls.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 529077,
+            "username": "Furyy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 629845,
+                "username": "theuncultured"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Aura Sphere",
+    "Bite",
+    "Body Slam",
+    "Bone Rush",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Bullet Punch",
+    "Calm Mind",
+    "Circle Throw",
+    "Close Combat",
+    "Coaching",
+    "Copycat",
+    "Counter",
+    "Cross Chop",
+    "Crunch",
+    "Dark Pulse",
+    "Detect",
+    "Dig",
+    "Dragon Pulse",
+    "Drain Punch",
+    "Earthquake",
+    "Endure",
+    "Extreme Speed",
+    "Facade",
+    "Feint",
+    "Final Gambit",
+    "Flash Cannon",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Force Palm",
+    "Giga Impact",
+    "Heal Pulse",
+    "Helping Hand",
+    "High Jump Kick",
+    "Howl",
+    "Hyper Beam",
+    "Ice Punch",
+    "Iron Defense",
+    "Life Dew",
+    "Low Kick",
+    "Low Sweep",
+    "Metal Claw",
+    "Metal Sound",
+    "Meteor Mash",
+    "Metronome",
+    "Nasty Plot",
+    "Poison Jab",
+    "Protect",
+    "Psychic",
+    "Psych Up",
+    "Quick Attack",
+    "Quick Guard",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Rock Slide",
+    "Rock Smash",
+    "Rock Tomb",
+    "Scary Face",
+    "Screech",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Steel Beam",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Take Down",
+    "Tera Blast",
+    "Thunder Punch",
+    "Trailblaze",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Water Pulse",
+    "Work Up",
+    "Zen Headbutt"
+  ]
+}

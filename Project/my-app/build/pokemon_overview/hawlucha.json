@@ -1,0 +1,469 @@
+{
+  "name": "Hawlucha",
+  "alias": "hawlucha",
+  "types": [
+    "Fighting",
+    "Flying"
+  ],
+  "stats": [
+    78,
+    92,
+    75,
+    74,
+    63,
+    118
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Unburden Sweeper",
+          "pokemon": "Hawlucha",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hawlucha acts as a threatening sweeper and late-game cleaner on Terrain teams. Thanks to Grassy Seed activating Unburden, Hawlucha becomes faster than the majority of the metagame, outpacing Choice Scarf and Booster Energy users like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and providing plenty of coverage with its Fighting / Flying STAB combination. Its serviceable bulk, along with a boost to its Defense due to Grassy Seed, allows Hawlucha to use Swords Dance in front of many common foes, such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>. Encore can force switches and thwart recovery attempts by locking the foe into a resisted attack or a recovery move. Alternatively, Substitute can also give Hawlucha the breathing room it might need to set up against incoming status moves from <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and deny Sucker Punch and Thunderclap from Kingambit and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, respectively. Psychic Seed is an alternative to enable Hawlucha on Psychic Terrain teams, granting it a valuable Special Defense boost that can help it set up in the face of special attackers like Iron Valiant. 124 EVs in Speed are enough to outspeed Sand Rush <a href=\"/dex/sv/pokemon/excadrill/ou/\" hreflang=\"en\">Excadrill</a> after Unburden activates, and the bulk investment allows it to survive a Make It Rain from <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> from full HP. Tera Flying is a great way to enhance Acrobatics's damage output; after a Swords Dance, Hawlucha can OHKO <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> through Dauntless Shield with Tera Flying. Alternatively, Tera Electric can be used to withstand <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, Raging Bolt, and Gholdengo, disallowing paralysis attempts and resisting their main attacks. Compared to Tera Electric, Tera Ground is an even better option to prevent Raging Bolt's revenge killing attempts at the cost of being vulnerable to <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>'s Grassy Glide and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>'s Ice Shard.</p>\n<p>Whenever Hawlucha opts to run Grassy Seed, Rillaboom is always nearby. Rillaboom's terrain-setting ability and slow U-turn is pivotal in unleashing Hawlucha's onslaught. It can additionally spread Knock Off to rid <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> of their Rocky Helmet, for instance. Strong partners on Grassy Terrain teams include Pokemon such as <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> that can help to pressure some of Hawlucha's checks prior to its sweep such as the aforementioned Skarmory and Corviknight. Entry hazard support in the form of <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, or <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> is also much appreciated. Hawlucha faces two big roadblocks in Gholdengo and Raging Bolt. Gholdengo in particular can easily shrug off Acrobatics and Close Combat, and it can take out Hawlucha while keeping itself healthy with Recover. Kingambit or the aforementioned Heatran have positive matchups against Gholdengo, while Pokemon like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> can force Gholdengo in and weaken it while also providing a faster-paced Terrain team with entry hazard control. Raging Bolt, on the other hand, threatens non-Tera Electric Hawlucha with Thunderbolt and Thunderclap. It is therefore important to pair it with partners that can neutralize Raging Bolt such as Iron Valiant and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>. While the archetype is more niche, <a href=\"/dex/sv/pokemon/indeedee/ou/\" hreflang=\"en\">Indeedee</a> is used instead of Rillaboom on Psychic Terrain teams. Rain teams can also handle Hawlucha, as <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> still outspeeds it in the rain. Raging Bolt is a great check to rain teams that synergizes well with Grassy Terrain and can deal with rain's threats prior to Hawlucha cleaning up late-game.</p>",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Grassy Seed"
+          ],
+          "teratypes": [
+            "Flying",
+            "Electric",
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 72,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 60,
+              "spe": 124
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 625618,
+            "username": "arnimacarni"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 612907,
+                "username": "sequoia"
+              },
+              {
+                "user_id": 633798,
+                "username": "kd458"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sweeper",
+          "pokemon": "Hawlucha",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Psychic Seed"
+          ],
+          "teratypes": [
+            "Fire",
+            "Electric"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 132,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 124
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance (Fighting)",
+          "pokemon": "Hawlucha",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Power Herb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sky Attack",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 24,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 232
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 9-10 points</p>\n<p><strong>Overview</strong>: Hawlucha is a threatening physical sweeper with a good utility movepool to help enable itself and its teammates. While it lacks in base stats, Unburden and Swords Dance can turn Hawlucha into a threatening sweeper in one turn, and utility moves like Encore and Roost can help it outlast foes or set up further. It can also use its wide utility movepool to disrupt foes and pivot into more immediately threatening teammates. However, its low base Attack and frailty hold it back, meaning it can struggle both when trying to break through foes offensively and when using its utility moves to support teammates.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Unburden Sweeper</strong>: Using Unburden combined with a consumable item allows Hawlucha to become one of the fastest threats in the metagame; it uses Swords Dance to boost its Attack and take advantage of its strong STAB combination and reasonable coverage movepool. It can also use moves like Encore, Taunt, and Roost to navigate around would-be checks.</p>\n<p><strong>Fast Utility / Pivot</strong>: Hawlucha's Speed tier allows it to be a viable pivot and support Pokemon. It can use Roost to keep itself healthy, Encore and Taunt to deny opposing setup sweepers, and Defog to remove entry hazards. It can also utilize U-turn to pivot into teammates that can better handle its incoming checks.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Acrobatics, Brave Bird, Dual Wingbeat, Close Combat, Drain Punch, Low Kick</p>\n<p><strong>Setup Moves</strong>: Swords Dance, Bulk Up</p>\n<p><strong>Utility Moves</strong>: Encore, Taunt, Defog, Roost, U-turn, Substitute, Endure</p>\n<p><strong>Coverage</strong>: Fire Punch, Iron Head, Lunge, Poison Jab, Rock Slide, Stone Edge, Throat Chop, Thunder Punch, Zen Headbutt, X-Scissor</p>\n<h3>Niche Moves</h3>\n<p><strong>Sky Attack</strong>: Power Herb + Sky Attack can be a powerful one-time threat that also activates Unburden if your team lacks other more common Unburden triggers.</p>\n<p><strong>Feather Dance</strong>: Feather Dance can be used to weaken physical attackers, allowing Hawlucha to set up or pivot into teammates that can take advantage of the foe's Attack drops.</p>\n<p><strong>Upper Hand</strong>: A common way to deal with Hawlucha is priority, and Upper Hand can take advantage of foes relying on that to deal with Hawlucha after it activates Unburden.</p>\n<p><strong>Fling</strong>: Fling with an item such as Big Nugget can function as a strong coverage option that activates Unburden.</p>\n<p><strong>Endeavor</strong>: Endeavor can be a useful move on utility sets, allowing Hawlucha to take out large chunks of a foe's health even with minimal offensive investment as long as Hawlucha isn't KOed first.</p>\n<h3>Common Items</h3>\n<p><strong>White Herb</strong>: White Herb + Close Combat is a reliable way to trigger Unburden, and negating the defensive stat drops can help Hawlucha survive attacks in certain situations.</p>\n<p><strong>Terrain Seeds</strong>: Unburden can be activated by utilizing Terrain along with the respective Seed; Terrain Seeds are also useful because the defensive boost can allow Hawlucha to take an extra hit.</p>\n<h3>Niche Items</h3>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry can be a good way for Hawlucha to recover HP in a pinch while also triggering Unburden.</p>\n<p><strong>Big Nugget / Light Ball</strong>: Both Big Nugget and Light Ball are good options when paired with Fling, Big Nugget for the great damage potential and Light Ball for the utility of paralyzing foes.</p>\n<p><strong>Power Herb</strong>: Power Herb can be combined with Sky Attack to trigger Unburden and be a one-time nuke.</p>\n<p><strong>Leftovers</strong>: Leftovers gives Hawlucha passive recovery, which is valuable, especially on support sets that do not utilize Unburden.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries can enable defensive Hawlucha sets to survive an extra hit and can trigger Unburden on offensive sets, although it is unreliable to trigger Unburden this way.</p>\n<p><strong>Choice Band</strong>: With Hawlucha's solid Speed tier, Choice Band can give it the immediate power it needs to break through teams.</p>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet can be useful when aiming to punish foes for pivoting with moves like U-turn and Flip Turn, as well as allowing Hawlucha to be a good switch-in to Knock Off users.</p>\n<p><strong>Lum Berry</strong>: Lum Berry can be a great benefit to sweeping sets by removing troublesome status effects like paralysis and burn and activating Unburden, although like resistance Berries, it is unreliable to activate Unburden this way.</p>\n<h3>Tera</h3>\n<p>Hawlucha makes an excellent secondary Tera Captain. Tera helps make up for two of Hawlucha's usual drawbacks in its relatively low-Base Power coverage options and simple lack of raw power. Using Tera Fighting or Flying can give Hawlucha the extra power it needs, and Tera Fire, Steel, and Poison can enable it to survive a hit, set up on foes, and avoid problematic status ailments. While these options do help Hawlucha overcome its shortcomings, it still lacks the power or utility of higher-tier Tera Captains, so it should be used as a secondary Tera Captain rather than the main Tera Captain of your draft if you plan to make it one.</p>\n<h3>Draft Strategy</h3>\n<p>Hawlucha is a great at cleaning up games when well-supported, so the draft around it makes a big difference. Pokemon like wallbreakers and Terrain setters, which help enable Hawlucha's sweeping, and pivots, which help bring it in safely, make great teammates. Hawlucha should not be a team's main primary wincon, though, since it can be relatively easy for opponents to prepare against in that case.</p>\n<p><strong>Terrain Setters</strong>: Hawlucha pairs well with Terrain setters, which can activate Terrain Seeds, giving it a defensive boost to take hits better while setting up. <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a> is the only top-tier Terrain setter, though cheaper options like <a href=\"/dex/sv/pokemon/pincurchin/draft/\" hreflang=\"en\">Pincurchin</a>, <a href=\"/dex/sv/pokemon/indeedee/draft/\" hreflang=\"en\">Indeedee</a>, and <a href=\"/dex/sv/pokemon/thwackey/draft/\" hreflang=\"en\">Thwackey</a> can provide Terrain on a budget while having their own niche.</p>\n<p><strong>Wallbreakers</strong>: Hawlucha lacks raw wallbreaking power, so teammates like <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, and <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> that can break opposing teams are reliable partners and can enable it to sweep late-game.</p>\n<p><strong>Entry Hazards</strong>: Hawlucha appreciates any extra damage its team can do to help it sweep, so having strong entry hazard setters like <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> can provide the extra damage needed to enable it.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Physical Walls</strong>: Even when boosted, Hawlucha lacks wallbreaking power, making it easy for physically defensive walls like <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/dondozo/draft/\" hreflang=\"en\">Dondozo</a>, and <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> to beat it. Similarly, Unaware Pokemon can also be an issue by ignoring Hawlucha's boosts, making it difficult to finish off teams.</p>\n<p><strong>Phazing</strong>: Since Unburden is a one-time use ability, if Hawlucha can be forced out after triggering Unburden by foes using moves like Roar and Whirlwind, it is much less threatening the second time it comes in. Red Card can also force it out, especially if it is unboosted.</p>\n<p><strong>Priority Moves</strong>: Since the main draw of Hawlucha is the Speed it can reach with Unburden, Pokemon like <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, <a href=\"/dex/sv/pokemon/dragonite/draft/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a> that have strong priority options can give it trouble, especially if it takes chip damage.</p>\n<p><strong>Offensive Checks</strong>: Pokemon that are either fast enough to outspeed Hawlucha before it activates Unburden and strong enough to KO it like Meowscarada and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a> or bulky enough to survive a hit and KO it back like <a href=\"/dex/sv/pokemon/latias/draft/\" hreflang=\"en\">Latias</a> and <a href=\"/dex/sv/pokemon/necrozma/draft/\" hreflang=\"en\">Necrozma</a> can be difficult to deal with, as Hawlucha has no clean way around them unless it can boost multiple times before they hit the field.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 404799,
+            "username": "termnal"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 608304,
+                "username": "jscurf"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Unburden Sweeper",
+          "pokemon": "Hawlucha",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Hawlucha acts as a threatening setup sweeper, being able to use its combination of Unburden and Swords Dance to clean up games. Substitute is used in order to find setup opportunities against foes such as <a href=\"/dex/sv/pokemon/alomomola/national-dex/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/ferrothorn/national-dex/\" hreflang=\"en\">Ferrothorn</a> as well as Ground-types like <a href=\"/dex/sv/pokemon/landorus-therian/national-dex/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/gliscor/national-dex/\" hreflang=\"en\">Gliscor</a>, allowing Hawlucha to take advantage of their inability to hit it hard enough to break its Substitute. Hawlucha can also avoid Thunderclap from <a href=\"/dex/sv/pokemon/raging-bolt/national-dex/\" hreflang=\"en\">Raging Bolt</a> and Sucker Punch from <a href=\"/dex/sv/pokemon/kingambit/national-dex/\" hreflang=\"en\">Kingambit</a>. 228 Speed EVs are used to let Hawlucha outspeed maximum Speed <a href=\"/dex/sv/pokemon/volcarona/national-dex/\" hreflang=\"en\">Volcarona</a> at +2 after Unburden activates. Electric, Grassy, and Psychic Seed are used with their respective Terrains in order to activate Hawlucha's Unburden, doubling its Speed as well as boosting the Base Power of Acrobatics to 110.</p>\n<p>Hawlucha fits on hyper offense and bulky offense teams, where its ability to clean up games is appreciated. In order to activate Hawlucha's Unburden, it needs Terrain support from a teammate like <a href=\"/dex/sv/pokemon/tapu-koko/national-dex/\" hreflang=\"en\">Tapu Koko</a> for Electric Terrain, <a href=\"/dex/sv/pokemon/rillaboom/national-dex/\" hreflang=\"en\">Rillaboom</a> or <a href=\"/dex/sv/pokemon/tapu-bulu/national-dex/\" hreflang=\"en\">Tapu Bulu</a> for Grassy Terrain, or <a href=\"/dex/sv/pokemon/tapu-lele/national-dex/\" hreflang=\"en\">Tapu Lele</a> for Psychic Terrain. These Pokemon can also whittle down Hawlucha’s checks such as <a href=\"/dex/sv/pokemon/gholdengo/national-dex/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/toxapex/national-dex/\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/sv/pokemon/slowbro/national-dex/\" hreflang=\"en\">Slowbro</a>. Hawlucha struggles to beat Electric-types such as <a href=\"/dex/sv/pokemon/zapdos/national-dex/\" hreflang=\"en\">Zapdos</a> and Tapu Koko, meaning Pokemon that can switch into them such as <a href=\"/dex/sv/pokemon/iron-treads/national-dex/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/ting-lu/national-dex/\" hreflang=\"en\">Ting-Lu</a> are valued. In return, Hawlucha can turn Gliscor and Alomomola into setup fodder, which is appreciated because they would otherwise come in on Iron Treads and Ting-Lu relatively comfortably. If not yet boosted, Hawlucha struggles to break through Psychic- and Fairy-types such as Tapu Lele, <a href=\"/dex/sv/pokemon/clefable/national-dex/\" hreflang=\"en\">Clefable</a>, and Slowbro. All of these foes survive neutral Acrobatics and threaten Hawlucha with their STAB moves, meaning Steel-types such as <a href=\"/dex/sv/pokemon/melmetal/national-dex/\" hreflang=\"en\">Melmetal</a> and Gholdengo are enjoyed. In return, Hawlucha can break through other Steel-types such as <a href=\"/dex/sv/pokemon/heatran/national-dex/\" hreflang=\"en\">Heatran</a> for them. Due to Hawlucha struggling to break through bulky Pokemon such as Gholdengo without boosts, entry hazard setters such as <a href=\"/dex/sv/pokemon/diancie-mega/national-dex/\" hreflang=\"en\">Mega Diancie</a>, Iron Treads, and Landorus-T are beneficial, as their residual damage whittles down Hawlucha's checks over the course of a game. Teammates such as Kingambit and <a href=\"/dex/sv/pokemon/gyarados-mega/national-dex/\" hreflang=\"en\">Mega Gyarados</a> are also helpful to beat the aforementioned Gholdengo, with Hawlucha in return beating Fighting-types such as <a href=\"/dex/sv/pokemon/zamazenta/national-dex/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/great-tusk/national-dex/\" hreflang=\"en\">Great Tusk</a>.</p>",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Electric Seed",
+            "Psychic Seed",
+            "Grassy Seed"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 28,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 228
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 632421,
+            "username": "Medasus"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 475916,
+                "username": "Sputnik"
+              },
+              {
+                "user_id": 471780,
+                "username": "Solaros & Lunaris"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 643347,
+                "username": "calmvibes"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Baton Pass",
+    "Body Press",
+    "Body Slam",
+    "Bounce",
+    "Brave Bird",
+    "Brick Break",
+    "Bulk Up",
+    "Close Combat",
+    "Coaching",
+    "Cross Chop",
+    "Defog",
+    "Detect",
+    "Dig",
+    "Drain Punch",
+    "Dual Wingbeat",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Entrainment",
+    "Facade",
+    "False Swipe",
+    "Feather Dance",
+    "Feint",
+    "Fire Punch",
+    "Fling",
+    "Fly",
+    "Flying Press",
+    "Focus Blast",
+    "Focus Punch",
+    "Giga Impact",
+    "Grass Knot",
+    "Helping Hand",
+    "High Jump Kick",
+    "Hone Claws",
+    "Hyper Beam",
+    "Iron Head",
+    "Low Kick",
+    "Low Sweep",
+    "Lunge",
+    "Mean Look",
+    "Poison Jab",
+    "Protect",
+    "Quick Guard",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Rock Slide",
+    "Rock Tomb",
+    "Roost",
+    "Sky Attack",
+    "Sleep Talk",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder Punch",
+    "Trailblaze",
+    "Upper Hand",
+    "Uproar",
+    "U-turn",
+    "Wing Attack",
+    "X-Scissor",
+    "Zen Headbutt"
+  ]
+}

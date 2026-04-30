@@ -1,0 +1,146 @@
+{
+  "name": "Braixen",
+  "alias": "braixen",
+  "types": [
+    "Fire"
+  ],
+  "stats": [
+    59,
+    59,
+    58,
+    90,
+    70,
+    73
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Braixen",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Blaze",
+            "Magician"
+          ],
+          "items": [
+            "Eviolite",
+            "No Item"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Fire Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Agility",
+    "Burning Jealousy",
+    "Calm Mind",
+    "Charm",
+    "Copycat",
+    "Ember",
+    "Encore",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Pledge",
+    "Fire Punch",
+    "Fire Spin",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Foul Play",
+    "Grass Knot",
+    "Heat Wave",
+    "Helping Hand",
+    "Howl",
+    "Hypnosis",
+    "Imprison",
+    "Light Screen",
+    "Low Kick",
+    "Magic Room",
+    "Mud Shot",
+    "Mud-Slap",
+    "Overheat",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Terrain",
+    "Psyshock",
+    "Rain Dance",
+    "Rest",
+    "Scratch",
+    "Skill Swap",
+    "Sleep Talk",
+    "Solar Beam",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunder Punch",
+    "Trick",
+    "Trick Room",
+    "Will-O-Wisp",
+    "Wish",
+    "Zen Headbutt"
+  ]
+}

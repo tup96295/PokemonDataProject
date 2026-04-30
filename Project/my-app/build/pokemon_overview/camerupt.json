@@ -1,0 +1,174 @@
+{
+  "name": "Camerupt",
+  "alias": "camerupt",
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "stats": [
+    70,
+    100,
+    70,
+    105,
+    75,
+    40
+  ],
+  "strategies": [
+    {
+      "format": "ZU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Camerupt",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Solid Rock"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Amnesia",
+    "Ancient Power",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Charm",
+    "Curse",
+    "Defense Curl",
+    "Dig",
+    "Double-Edge",
+    "Earth Power",
+    "Earthquake",
+    "Ember",
+    "Endeavor",
+    "Endure",
+    "Eruption",
+    "Facade",
+    "Fire Blast",
+    "Fire Spin",
+    "Fissure",
+    "Flame Charge",
+    "Flamethrower",
+    "Flare Blitz",
+    "Flash Cannon",
+    "Focus Energy",
+    "Giga Impact",
+    "Growl",
+    "Growth",
+    "Heat Crash",
+    "Heat Wave",
+    "Heavy Slam",
+    "Helping Hand",
+    "High Horsepower",
+    "Howl",
+    "Hyper Beam",
+    "Incinerate",
+    "Iron Head",
+    "Lash Out",
+    "Lava Plume",
+    "Mud Shot",
+    "Mud-Slap",
+    "Overheat",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Rollout",
+    "Sandstorm",
+    "Scary Face",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Smack Down",
+    "Solar Beam",
+    "Spit Up",
+    "Stealth Rock",
+    "Stockpile",
+    "Stomp",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Swallow",
+    "Tackle",
+    "Take Down",
+    "Temper Flare",
+    "Tera Blast",
+    "Trailblaze",
+    "Will-O-Wisp",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

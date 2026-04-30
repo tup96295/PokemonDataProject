@@ -1,0 +1,448 @@
+{
+  "name": "Comfey",
+  "alias": "comfey",
+  "types": [
+    "Fairy"
+  ],
+  "stats": [
+    51,
+    52,
+    90,
+    82,
+    110,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Comfey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Triage"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stored Power",
+                "type": null
+              },
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "pokemon": "Comfey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With access to Triage, Draining Kiss, and Terastallization granting it perfect offensive coverage, Comfey is a formidable sweeper in UU, taking down dangerous offensive foes like <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a>, <a href=\"/dex/sv/pokemon/quaquaval/uu/\" hreflang=\"en\">Quaquaval</a>, and <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a>. Calm Mind amplifies the power of Comfey's Draining Kiss while also making it harder to take down, finding setup chances against common foes like <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/uu/\" hreflang=\"en\">Rotom-W</a>. Tera Blast Ground allows Comfey to now target Steel-types, including <a href=\"/dex/sv/pokemon/metagross/uu/\" hreflang=\"en\">Metagross</a>, <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a> as well as other Fairy-resistant Pokemon such as <a href=\"/dex/sv/pokemon/toxapex/uu/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/pecharunt/uu/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a>, and <a href=\"/dex/sv/pokemon/arcanine-hisui/uu/\" hreflang=\"en\">Hisuian Arcanine</a>. Tera Ground also grants Comfey the ability to set up on foes like <a href=\"/dex/sv/pokemon/sandy-shocks/uu/\" hreflang=\"en\">Sandy Shocks</a> and <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a> and resist Poison-type attacks from Pecharunt. Taunt denies recovery chances against foes like <a href=\"/dex/sv/pokemon/slowking/uu/\" hreflang=\"en\">Slowking</a>, Toxapex, and <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a>, notably blocking Toxic attempts from the latter two, allowing Comfey to set up Calm Mind more easily and capitalize on forced switches. Giga Drain is an option over Taunt to get heavy damage on Water-types such as <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a> and Slowking as well as other foes like <a href=\"/dex/sv/pokemon/mamoswine/uu/\" hreflang=\"en\">Mamoswine</a>, <a href=\"/dex/sv/pokemon/rhyperior/uu/\" hreflang=\"en\">Rhyperior</a>, and Hisuian Arcanine. A Life Orb grants Comfey an immediate power boost and works in tandem with the self-healing nature of Draining Kiss. 16 Speed EVs let Comfey outspeed foes such as <a href=\"/dex/sv/pokemon/volcanion/uu/\" hreflang=\"en\">Volcanion</a> and Metagross, with the remaining investment in HP and Special Attack to maximize bulk and power.</p>\n<p>Comfey best fits on offense teams that wear down its checks to pave way for a sweep. Entry hazard leads like <a href=\"/dex/sv/pokemon/mew/uu/\" hreflang=\"en\">Mew</a> and Excadrill provide key support in wearing down foes like Azumarill and Assault Vest Tornadus-T into Comfey's KO range. Mew in particular can cripple enemy Excadrill with Will-O-Wisp, allowing Comfey to no longer fear revenge killing attempts, while Excadrill can take out Tera Steel <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a> and <a href=\"/dex/sv/pokemon/mimikyu/uu/\" hreflang=\"en\">Mimikyu</a> are great teammates that offensively pressure bulky Pokemon such as Skeledirge and Slowking that trouble Comfey as well as wear down Tinkaton into range of Tera Blast Ground. Greninja and Azumarill are able to put pressure on the likes of <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a> and Hisuian Arcanine and are generally not reliant on Terastallization, meaning Comfey can use the mechanic more easily. <a href=\"/dex/sv/pokemon/revavroom/uu/\" hreflang=\"en\">Revavroom</a> can take advantage of checks like Toxapex, Scizor, and Pecharunt and power through them while opening up holes against the enemy team for Comfey to clean. Quaquaval and Thundurus-T can take out Steel-types like Tinkaton and Metagross in the event Tera has already been used to still ensure Comfey can sweep; the former switches into Hisuian Arcanine, while the latter powers through Toxapex. <a href=\"/dex/sv/pokemon/serperior/uu/\" hreflang=\"en\">Serperior</a> and the aforementioned Quaquaval also threaten annoyances like Excadrill, Mamoswine, and Rhyperior.</p>",
+          "abilities": [
+            "Triage"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Ground"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Giga Drain",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 96,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 160
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 515132,
+            "username": "Monky25"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 620325,
+                "username": "ThatOneApple"
+              },
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Partners in Crime",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Triage Support",
+          "pokemon": "Comfey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Triage"
+          ],
+          "items": [
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Steel",
+            "Water",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Floral Healing",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tailwind",
+                "type": null
+              },
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 6-7 points</p>\n<p><strong>Overview</strong>: Comfey is an excellent budget Fairy-type thanks to its wide variety of utility moves, which allow it to support its team. Its signature ability, Triage, allows it to pick off weakened foes with a priority Draining Kiss or become a late-game sweeper after a Calm Mind boost. However, Comfey is let down by its extremely limited coverage options and inability to inflict status conditions, which can render it totally helpless against some foes. Additionally, its rather poor physical bulk limits its ability to switch in and take hits. Despite these drawbacks, Comfey can be a great addition to teams in need of its utility and sweeping capabilities.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Utility Pivot</strong>: Comfey can leverage its utility movepool to switch into resisted attacks and annoy foes with Knock Off or Leech Seed, disrupt them with Encore or Taunt, and then pivot out with U-turn to a teammate to take advantage of its utility and maintain momentum against foes it cannot beat.</p>\n<p><strong>Setup Sweeper</strong>: Thanks to Triage, Comfey rarely needs to invest in to its Speed stat and can therefore maximize its HP and Defense to allow it to set up a Calm Mind and begin sweeping with priority Draining Kiss and Giga Drain. Stored Power can help Comfey muscle through specially bulky checks after several boosts if foes are unable to KO it first.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Draining Kiss, Alluring Voice</p>\n<p><strong>Setup Moves</strong>: Calm Mind</p>\n<p><strong>Utility Moves</strong>: Knock Off, Encore, Taunt, Leech Seed, Synthesis, Trick, U-turn, Substitute</p>\n<p><strong>Coverage</strong>: Giga Drain, Pollen Puff, Stored Power, Tera Blast, Grass Knot</p>\n<h3>Niche Moves</h3>\n<p><strong>Trick Room</strong>: Trick Room can be combined with U-turn to safely bring in a sweeper teammate under Trick Room to maximize the amount of turns the partner receives.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Comfey's Fairy typing leaves it vulnerable to all forms of entry hazards, so Heavy-Duty Boots allows it to switch into the field unimpeded.</p>\n<p><strong>Leftovers</strong>: Leftovers helps keep Comfey's HP high and gives it more time to use its support moves or set up a Calm Mind.</p>\n<p><strong>Damage-boosting Items</strong>: Life Orb and Pixie Plate boost the damage dealt by Comfey's Draining Kiss, allowing it to more effectively sweep and regain more HP while mitigating Life Orb recoil.</p>\n<h3>Niche Items</h3>\n<p><strong>Rocky Helmet</strong>: Rocky Helmet helps Comfey punish foes attempting to U-turn or attack it with weaker moves.</p>\n<p><strong>Light Clay</strong>: While Comfey only has access to Light Screen, Light Clay can still be helpful in matchups against specially-heavy offensive teams, extending the duration of Light Screen for its teammates.</p>\n<p><strong>Choice Specs</strong>: Choice Specs can improve Comfey's sweeping power via Draining Kiss and allow it to use Trick on foes that dislike being given a a Choice item.</p>\n<h3>Tera</h3>\n<p>Comfey makes for a great secondary Tera Captain to complement your primary user, primarily due to its ability to gain necessary coverage from a different Tera Blast typing. Tera Fire is a great option, as it gives Comfey an option to take on opposing Steel-types with a super effective Tera Blast, as well as more time to set up Calm Mind against opposing Fire-types coming in to check it. Tera Poison is another decent option to take on opposing Poison-types, making Comfey immune to Toxic and giving it time to boost the strength of Stored Power to KO foes.</p>\n<h3>Draft Strategy</h3>\n<p>Comfey fits well on balanced and offensive teams thanks to its pivoting capabilities and ability to disrupt foes when setting up. Its solid special bulk and priority Draining Kiss allow it to switch into and immediately threaten dangerous special attackers such as <a href=\"/dex/sv/pokemon/darkrai/draft/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/walking-wake/draft/\" hreflang=\"en\">Walking Wake</a>, so teams looking for a Pokemon to fill a defensive utility role with conditional sweeping ability should definitely consider Comfey for their roster.</p>\n<p><strong>Steel-type Answers</strong>: Steel-types are far and away the biggest nuisance to Comfey, resisting all of its attacking options and immediately threatening a KO. Even if given several free turns to set up Calm Mind, Comfey is still incapable of beating nearly any Steel-type Pokemon, leaving pivoting into a teammate with U-turn its best option to handle the threat. Fighting- and Fire-type Pokemon like <a href=\"/dex/sv/pokemon/infernape/draft/\" hreflang=\"en\">Infernape</a> and <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a> make great partners for Comfey, as they threaten opposing Steel-type that look to KO it.</p>\n<p><strong>Fire- and Poison-type Answers</strong>: While weaker Fire- and Poison-type Pokemon can be beaten by Stored Power variants of Comfey, they are still incredibly annoying to deal with as they resist Draining Kiss and Giga Drain. Water- and Ground-types to take these foes on make good partners, a Pokemon like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a> can leverage their STAB moves to scare out these foes.</p>\n<p><strong>Wallbreakers</strong>: Comfey needs powerful attacking partners to make effective use of its supporting kit. Additionally, wallbreakers can weaken Comfey's checks for a setup set to sweep with priority Draining Kiss. Powerful physical attackers like <a href=\"/dex/sv/pokemon/ursaluna/draft/\" hreflang=\"en\">Ursaluna</a>, <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, and <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> make great wallbreaking partners for Comfey to support.</p>\n<p><strong>Entry Hazard Support</strong>: Comfey appreciates its checks weakened by hazards to facilitate a sweep—Spikes are especially effective, as they punish Steel-types switching in more effectively than Stealth Rock. Defensively, Comfey appreciates hazards removed from its side of the field so it may utilize items other than Heavy-Duty Boots. Partners like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> make good partners due to their ability to provide hazard support and help Comfey out.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Steel-type Pokemon</strong>: Comfey is unable to deal meaningful damage to Steel-types due to its low Base Power moves, poor coverage options, and its inability to inflict status, leaving it completely helpless against Steel-type foes like <a href=\"/dex/sv/pokemon/metagross/draft/\" hreflang=\"en\">Metagross</a> and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a>.</p>\n<p><strong>Poison-type Pokemon</strong>: Poison-type attackers such as <a href=\"/dex/sv/pokemon/iron-moth/draft/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> threaten Comfey with super effective STAB moves while resisting its Draining Kiss, enabling them to threaten a KO or set up in its face.</p>\n<p><strong>Strong Physical Attackers</strong>: Poor physical bulk leaves Comfey vulnerable to being KOed by strong physical attackers like <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, Ursaluna, and Gouging Fire.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 618293,
+            "username": "Diviniya"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 527276,
+                "username": "Techno"
+              },
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Triage Sweeper (SpA)",
+          "pokemon": "Comfey",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Triage"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Synthesis",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "After You",
+    "Alluring Voice",
+    "Amnesia",
+    "Bind",
+    "Bullet Seed",
+    "Calm Mind",
+    "Charm",
+    "Dazzling Gleam",
+    "Disarming Voice",
+    "Draining Kiss",
+    "Encore",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fling",
+    "Floral Healing",
+    "Giga Drain",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Helping Hand",
+    "Hyper Beam",
+    "Knock Off",
+    "Leech Seed",
+    "Light Screen",
+    "Magical Leaf",
+    "Pain Split",
+    "Petal Blizzard",
+    "Petal Dance",
+    "Play Rough",
+    "Pollen Puff",
+    "Protect",
+    "Psych Up",
+    "Rest",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Solar Beam",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Sweet Kiss",
+    "Sweet Scent",
+    "Swift",
+    "Synthesis",
+    "Tailwind",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Trailblaze",
+    "Trick",
+    "Trick Room",
+    "U-turn",
+    "Vine Whip",
+    "Worry Seed",
+    "Wrap"
+  ]
+}

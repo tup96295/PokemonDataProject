@@ -1,0 +1,726 @@
+{
+  "name": "Galvantula",
+  "alias": "galvantula",
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "stats": [
+    70,
+    77,
+    60,
+    97,
+    60,
+    108
+  ],
+  "strategies": [
+    {
+      "format": "PU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "All-Out-Attacker",
+          "pokemon": "Galvantula",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Water",
+            "Electric",
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "SPYDER (Sticky Web Lead)",
+          "pokemon": "Galvantula",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Galvantula is faster than <a href=\"/dex/sv/pokemon/araquanid/nu/\" hreflang=\"en\">Araquanid</a>, spreads status easily, and can drop foes's stats. However, <a href=\"/dex/sv/pokemon/cinccino/nu/\" hreflang=\"en\">Cinccino</a>'s Tidy Up and multi-hit moves can blow right past Galvantula, making it an unreliable Sticky Web setter.</p>",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              },
+              {
+                "move": "Lunge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Lunge",
+                "type": null
+              },
+              {
+                "move": "Pounce",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<h4>Electric</h4>\n<p>Volt Switch can be used instead of Energy Ball to provide a pivoting move after setting up Sticky Web, but the loss of Energy Ball means that Galvantula can't hit Ground-types, especially <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>.</p>",
+      "movesets": [
+        {
+          "name": "Entry Hazard Lead (Bug)",
+          "pokemon": "Galvantula",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Sticky Web Galvantula is a decent lead on Bug teams due to its ability to set Sticky Web up, allowing teammates such as <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/sv/pokemon/scizor/monotype/\" hreflang=\"en\">Scizor</a> to sweep more easily. Thunder, combined with the accuracy boost from Compound Eyes, is Galvantula's strongest move, which hits Water-types such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and deters Flying-type Defoggers such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>. Thunder Wave allows Galvantula to cripple faster threats such as <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Energy Ball gives Galvantula coverage against Ground-types such as <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a> and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, Great Tusk in particular being another Pokemon that can remove Sticky Web. Volt Switch can be used instead of Energy Ball to provide a pivoting move after setting up Sticky Web, but the loss of Energy Ball means that Galvantula can't hit Ground-types, especially the aforementioned Great Tusk. Focus Sash gives Galvantula a guaranteed Sticky Web, attack, or chance to paralyze. The given EV spread with a Timid nature allows Galvantula to get up Sticky Web consistently while also maximizing its Special Attack in order to deal the most damage possible.</p>\n<p>Pokemon that benefit from Galvantula's Sticky Web are ideal partners for it. The aforementioned Volcarona and Scizor both appreciate their threats being slowed down so they can set up with Quiver Dance and Swords Dance, respectively. Scizor is able to take out <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a>, <a href=\"/dex/sv/pokemon/glimmora/monotype/\" hreflang=\"en\">Glimmora</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/monotype/\" hreflang=\"en\">Galarian Weezing</a>, while Volcarona outspeeds faster threats like <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> under Sticky Web. <a href=\"/dex/sv/pokemon/slither-wing/monotype/\" hreflang=\"en\">Slither Wing</a> and <a href=\"/dex/sv/pokemon/lokix/monotype/\" hreflang=\"en\">Lokix</a> also appreciate Sticky Web, as it helps them wallbreak and revenge kill against normally faster threats, such as <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, and Choice Specs <a href=\"/dex/sv/pokemon/iron-moth/monotype/\" hreflang=\"en\">Iron Moth</a>. Choice Scarf <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> is a great teammate for Galvantula because it can deal with Fire-types such as Ogerpon-H and <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>. Kleavor's Stone Axe also pairs nicely with Galvantula's Sticky Web, as more entry hazards further help the sweepers and wallbreakers on the team, while also breaking <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a>'s Focus Sash, which is a huge problem for Bug teams. <a href=\"/dex/sv/pokemon/forretress/monotype/\" hreflang=\"en\">Forretress</a> removes entry hazards with Rapid Spin, provides a strong physical wall on Bug teams, and is a slow pivot for Galvantula with Volt Switch to ensure its safe entry.</p>",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Sticky Web (Electric)",
+          "pokemon": "Galvantula",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its high base Speed, Galvantula is an excellent lead due to it being the only consistent Sticky Web setter on Electric teams. Thunder, combined with the accuracy boost from Compound Eyes, is Galvantula's strongest move, which hits Water-types such as <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a> and deters Flying-type Defoggers such as <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>. Bug Buzz is used to hit Pokemon that resist Thunder like <a href=\"/dex/sv/pokemon/hydreigon/monotype/\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, while Thunder Wave allows Galvantula to cripple faster threats such as <a href=\"/dex/sv/pokemon/weavile/monotype/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Energy Ball gives Galvantula coverage against Ground-types such as <a href=\"/dex/sv/pokemon/quagsire/monotype/\" hreflang=\"en\">Quagsire</a> and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, which is valuable, as Great Tusk can remove Sticky Web. Focus Sash gives Galvantula a guaranteed chance to set Sticky Web, attack, or paralyze the opponent.</p>\n<p>Pokemon that can take advantage of Sticky Web are great teammates for Galvantula. <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a> both benefit from Sticky Web, as they can outspeed threats such as <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes at -1 while also providing a Ground immunity. <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> especially benefits from Sticky Web, as its underwhelming Speed tier holds it back, and it appreciates the Speed drop from Sticky Web so it can set up and wallbreak more easily. <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a> pairs well with Galvantula, forming an entry hazard-stacking core combining Sticky Web with its Stealth Rock and Spikes. <a href=\"/dex/sv/pokemon/regieleki/monotype/\" hreflang=\"en\">Regieleki</a> provides hazard removal for Electric teams with Rapid Spin and pivoting with Volt Switch so wallbreakers like the aforementioned Raging Bolt can come in repeatedly. Although <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a> doesn't really benefit from Sticky Web, it is still a great teammate due to its high bulk and can take out threats that wall Galvantula, such as <a href=\"/dex/sv/pokemon/tyranitar/monotype/\" hreflang=\"en\">Tyranitar</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>. In return, Galvantula takes out Quagsire and Great Tusk for Iron Hands.</p>",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 651420,
+            "username": "DaRotomMachine"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 510532,
+                "username": "hex"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 528036,
+                "username": "Sulo"
+              },
+              {
+                "user_id": 652656,
+                "username": "Gambit"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sticky Web",
+          "pokemon": "Galvantula",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Galvantula carves out a niche in Ubers UU thanks to it being the fastest available Sticky Web setter, having solid offenses, and having the ability to threaten out common forms of entry hazard control like <a href=\"/dex/sv/pokemon/great-tusk/ubers-uu/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/mandibuzz/ubers-uu/\" hreflang=\"en\">Mandibuzz</a>. Energy Ball gives Galvantula coverage against Ground-types like Great Tusk and <a href=\"/dex/sv/pokemon/landorus/ubers-uu/\" hreflang=\"en\">Landorus</a>, although Bug Buzz is an option to give it a secondary STAB option hit Pokemon like <a href=\"/dex/sv/pokemon/mewtwo/ubers-uu/\" hreflang=\"en\">Mewtwo</a>, <a href=\"/dex/sv/pokemon/arceus-dark/ubers-uu/\" hreflang=\"en\">Arceus-Dark</a>, and <a href=\"/dex/sv/pokemon/deoxys/ubers-uu/\" hreflang=\"en\">Deoxys</a>. Thunder Wave allows Galvantula to cripple Pokemon like <a href=\"/dex/sv/pokemon/zacian/ubers-uu/\" hreflang=\"en\">Zacian</a>, <a href=\"/dex/sv/pokemon/kyurem-white/ubers-uu/\" hreflang=\"en\">Kyurem-W</a>, and <a href=\"/dex/sv/pokemon/arceus-poison/ubers-uu/\" hreflang=\"en\">Arceus-Poison</a> after setting up Sticky Web. Although Galvantula will not often Terastallize, Tera Ghost allows it to block Rapid Spin from Great Tusk and <a href=\"/dex/sv/pokemon/cyclizar/ubers-uu/\" hreflang=\"en\">Cyclizar</a>. Focus Sash guarantees Galvantula will set up Sticky Web and potentially fire off an attack or paralyze something afterwards. Galvantula should be exclusively used as a Sticky Web lead for hyper offense teams. The most obvious partners for Galvantula are Pokemon that appreciate having their faster offensive counters slowed down, as well as Pokemon commonly revenge killed by faster threats. As a result, Pokemon like Choice Specs Kyurem-W, Mewtwo, and Landorus all make solid teammates. Ghost-types like <a href=\"/dex/sv/pokemon/gholdengo/ubers-uu/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/dragapult/ubers-uu/\" hreflang=\"en\">Dragapult</a> and Taunt users like <a href=\"/dex/sv/pokemon/arceus/ubers-uu/\" hreflang=\"en\">Arceus</a> formes can prevent Rapid Spin and Defog and keep Sticky Web up. Counter leads like Taunt Arceus-Dark, Deoxys, and <a href=\"/dex/sv/pokemon/hatterene/ubers-uu/\" hreflang=\"en\">Hatterene</a> can prevent Sticky Web being set up and give Galvantula issues, so Pokemon like Hatterene and <a href=\"/dex/sv/pokemon/palafin/ubers-uu/\" hreflang=\"en\">Palafin</a> that can deal with these threats are good to have as partners.</p>",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              },
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 567483,
+            "username": "Bella"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 626445,
+                "username": "Imperial"
+              },
+              {
+                "user_id": 642468,
+                "username": "Finchely"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Sticky Web (SpA)",
+          "pokemon": "Galvantula",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bug Buzz",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sticky Web (Bug)",
+          "pokemon": "Galvantula",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Galvantula serves as an excellent Sticky Web lead, supporting its offensive team members with speed control. Thunder in conjunction with Compound Eyes gives Galvantula an offensive presence, takes on opposing hazard-setting leads, threatens paralysis, and dents Water- and Flying-types. Energy Ball threatens bulky Ground-types like <a href=\"/dex/sv/pokemon/great-tusk/national-dex-monotype/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/hippowdon/national-dex-monotype/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/swampert/national-dex-monotype/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/gastrodon/national-dex-monotype/\" hreflang=\"en\">Gastrodon</a>. Hidden Power Ice deals with Flying- and Dragon-types like <a href=\"/dex/sv/pokemon/gliscor/national-dex-monotype/\" hreflang=\"en\">Gliscor</a>, the <a href=\"/dex/sv/pokemon/landorus/national-dex-monotype/\" hreflang=\"en\">Landorus</a> formes, <a href=\"/dex/sv/pokemon/garchomp/national-dex-monotype/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/dragonite/national-dex-monotype/\" hreflang=\"en\">Dragonite</a>. Thunder Wave can be used over Hidden Power Ice to paralyze setup sweepers and fast threats that can't be effectively slowed down with Sticky Web, most notably Dragonite, <a href=\"/dex/sv/pokemon/zapdos-galar/national-dex-monotype/\" hreflang=\"en\">Galarian Zapdos</a>, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-monotype/\" hreflang=\"en\">Mega Aerodactyl</a>, opposing <a href=\"/dex/sv/pokemon/pinsir-mega/national-dex-monotype/\" hreflang=\"en\">Mega Pinsir</a>, and <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, without having to rely on Thunder to do so. This comes at the cost of losing coverage against Pokemon that resist both Thunder and Energy Ball, however. Sticky Web lowers the amount of Quiver Dance boosts needed for Volcarona to outspeed <a href=\"/dex/sv/pokemon/regieleki/national-dex-monotype/\" hreflang=\"en\">Regieleki</a>, Unburden <a href=\"/dex/sv/pokemon/sneasler/national-dex-monotype/\" hreflang=\"en\">Sneasler</a>, and Sand Rush <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, making its setup more efficient. Sticky Web also allows choice Scarf users like <a href=\"/dex/sv/pokemon/kleavor/national-dex-monotype/\" hreflang=\"en\">Kleavor</a> and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-monotype/\" hreflang=\"en\">Buzzwole</a> to outspeed those Pokemon, limiting the amount of revenge killing options against them and improving their effectiveness against Fire- and Rock-types by taking care of Choice Scarf <a href=\"/dex/sv/pokemon/blacephalon/national-dex-monotype/\" hreflang=\"en\">Blacephalon</a>, <a href=\"/dex/sv/pokemon/arcanine-hisui/national-dex-monotype/\" hreflang=\"en\">Hisuian Arcanine</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-monotype/\" hreflang=\"en\">Iron Boulder</a>. Sticky Web gives Mega Pinsir more opportunities to use Return instead of Quick Attack to increase its damage output or Earthquake to KO Pokemon that would usually threaten it like Choice Scarf <a href=\"/dex/sv/pokemon/nihilego/national-dex-monotype/\" hreflang=\"en\">Nihilego</a> and Hisuian Arcanine. <a href=\"/dex/sv/pokemon/scizor/national-dex-monotype/\" hreflang=\"en\">Scizor</a> can OHKO or force <a href=\"/dex/sv/pokemon/diancie/national-dex-monotype/\" hreflang=\"en\">Diancie</a> out before it can Mega Evolve to allow Galvantula to set up Sticky Web against Fairy- and Rock-teams.</p>",
+          "abilities": [
+            "Compound Eyes"
+          ],
+          "items": [
+            "Focus Sash"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Sticky Web",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Energy Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 670267,
+            "username": "Jópie Trópí"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          },
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 602431,
+                "username": "CaptainDaimyo"
+              },
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Agility",
+    "Bug Bite",
+    "Bug Buzz",
+    "Charge",
+    "Charge Beam",
+    "Discharge",
+    "Double Team",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "Fury Cutter",
+    "Gastro Acid",
+    "Giga Drain",
+    "Giga Impact",
+    "Helping Hand",
+    "Hyper Beam",
+    "Infestation",
+    "Leech Life",
+    "Light Screen",
+    "Lunge",
+    "Poison Jab",
+    "Poison Sting",
+    "Pounce",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Screech",
+    "Skitter Smack",
+    "Slash",
+    "Sleep Talk",
+    "Sticky Web",
+    "String Shot",
+    "Struggle Bug",
+    "Substitute",
+    "Sucker Punch",
+    "Swift",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Volt Switch",
+    "Wild Charge",
+    "X-Scissor"
+  ]
+}

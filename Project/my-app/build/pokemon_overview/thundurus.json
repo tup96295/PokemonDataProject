@@ -1,0 +1,1254 @@
+{
+  "name": "Thundurus",
+  "alias": "thundurus",
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "stats": [
+    79,
+    115,
+    70,
+    125,
+    80,
+    111
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid",
+            "Naive"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/uu-analyses.772/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 346653,
+                "username": "sky"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot (Electric)",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC23 Series 4",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Sitrus Berry",
+            "Safety Goggles",
+            "Rocky Helmet"
+          ],
+          "teratypes": [
+            "Water",
+            "Ghost",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Wildbolt Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Eerie Impulse",
+                "type": null
+              },
+              {
+                "move": "Rain Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 188,
+              "spa": 4,
+              "spd": 4,
+              "spe": 60
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Thundurus has a supportive role in Regulation F, as it's capable of lowering foes' stats with Thunder Wave and Eerie Impulse. It can notably help its team versus <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>, being able to use Eerie Impulse to heavily weaken them before they attack. Wildbolt Storm allows it to do considerable damage against Water-types like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> with a decent chance to inflict paralysis. Additionally, Thundurus has the freedom to use either Thunder Wave or Eerie Impulse on Flutter Mane, slowing it down for a teammate to deal with it or making it considerably weaker.</p>\n</li>\n<li>\n<p>Priority denial such as <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-f/\" hreflang=\"en\">Farigiraf</a>'s Armor Tail or <a href=\"/dex/sv/pokemon/indeedee-f/vgc24-regulation-f/\" hreflang=\"en\">Indeedee-F</a>'s Psychic Surge stops Thundurus's supportive toolkit. Dark-type special attackers like <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-f/\" hreflang=\"en\">Chi-Yu</a> are immune to Eerie Impulse and can threaten Thundurus's team unfettered. Dark-types in general are immune to its disruption moves; notably, <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a> threatens it with an OHKO. Ground-types such as <a href=\"/dex/sv/pokemon/ursaluna/vgc24-regulation-f/\" hreflang=\"en\">Ursaluna</a> are immune to its only damaging move and Thunder Wave, and the aforementioned Ground-type threatens it with an OHKO.</p>\n</li>\n<li>\n<p>Thundurus can never output enough damage to win on its own; thus, offensive teammates like Urshifu-R and Chien-Pao are required to pick up its slack. Urshifu-R also has the benefit of hitting Prankster-immune Dark-types like <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-f/\" hreflang=\"en\">Incineroar</a> with Close Combat. A notable partner is <a href=\"/dex/sv/pokemon/gouging-fire/vgc24-regulation-f/\" hreflang=\"en\">Gouging Fire</a>, as its Breaking Swipe can reduce foes' Attack stats; when combined with Thundurus's Eerie Impulse, they can weaken the damage output of all foes. Thundurus also threatens the Water-types that Gouging Fire cannot hit effectively with Heat Crash. <a href=\"/dex/sv/pokemon/ting-lu/vgc24-regulation-f/\" hreflang=\"en\">Ting-Lu</a>'s Vessel of Ruin can weaken special attackers further while using Earthquake to target both foes without hitting Thundurus. <a href=\"/dex/sv/pokemon/dragonite/vgc24-regulation-f/\" hreflang=\"en\">Dragonite</a>'s Multiscale combined with Eerie Impulse can heavily limit how much damage foes can inflict on it, and it can combine Iron Head's flinch chance with paralysis to improve the chance they cannot move.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Disruptive Support",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>This Thundurus set is mainly used to reduce foes' Speed and Special Attack. Prankster Thunder Wave can be used as speed control, allowing teammates with middling Speed such as <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and <a href=\"/dex/sv/pokemon/dragonite/vgc24-regulation-f/\" hreflang=\"en\">Dragonite</a> to move first, while introducing the chance to fully paralyze the foe. Eerie Impulse can weaken almost any special attacker, saving its teammates from threats like <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-f/\" hreflang=\"en\">Raging Bolt</a>.</p>\n</li>\n<li>\n<p>Taunt is useful for shutting down Spore from <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a> and Trick Room setters like <a href=\"/dex/sv/pokemon/porygon2/vgc24-regulation-f/\" hreflang=\"en\">Porygon2</a>. It can also be used to stop Flutter Mane from using its own Thunder Wave to slow down Thundurus's team and fish for full paralysis. Electric Terrain can be used to enable Raging Bolt to do heavy damage with Rising Voltage or deny Spore from Amoonguss even if it has Mental Herb or Tera Dark.</p>\n</li>\n<li>\n<p>Covert Cloak prevents Thundurus from being double targeted by Fake Out and a strong attack, ensuring it can get off a key Thunder Wave or Eerie Impulse.</p>\n</li>\n<li>\n<p>This spread lets Thundurus survive a Tera Water Mystic Water Surging Strikes from Urshifu-R and a Tera Normal Extreme Speed from Choice Band Dragonite with Sword of Ruin active. It also almost always survives an Ice Spinner from Jolly <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-f/\" hreflang=\"en\">Chien-Pao</a>. The remaining EVs are put into Special Defense to maximize bulk.</p>\n</li>\n<li>\n<p>Tera Water is used to resist Ice-type attacks like Icicle Crash and Ice Spinner from Chien-Pao and Water-type attacks like Surging Strikes from Urshifu-R. It also helps against common attacks like Ivy Cudgel from <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-H</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, as well as Heat Wave from <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-f/\" hreflang=\"en\">Chi-Yu</a>. Tera Steel similarly provides a resistance to Ice-type attacks, as well as a generally solid defensive profile that grants resistances to Flutter Mane's Fairy-type attacks and <a href=\"/dex/sv/pokemon/iron-crown/vgc24-regulation-f/\" hreflang=\"en\">Iron Crown</a>'s STAB attacks.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Water",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Wildbolt Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Eerie Impulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Electric Terrain",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 244,
+              "spa": 0,
+              "spd": 12,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 528197,
+            "username": "ProssettiVGC"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589964,
+                "username": "RauSakura"
+              },
+              {
+                "user_id": 650323,
+                "username": "pengu"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Thundurus is a good support Pokemon that is capable of disrupting teams like few other Pokemon can. Eerie Impulse can slow down powerful special attackers more effectively than other forms of damage control like Snarl or Vessel of Ruin, which means that Thundurus can completely neutralize the likes of <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a>, <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a>, <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/vgc24-regulation-g/\" hreflang=\"en\">Ursaluna-B</a>, and <a href=\"/dex/sv/pokemon/miraidon/vgc24-regulation-g/\" hreflang=\"en\">Miraidon</a>. Thunder Wave is a form of speed control that, unlike Tailwind, can generate free turns for Thundurus and its teammates. Taunt shuts down support Pokemon such as <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, preventing them from messing with Thundurus's team. Rain Dance allows Thundurus to both disrupt sun teams dependent on weather from <a href=\"/dex/sv/pokemon/groudon/vgc24-regulation-g/\" hreflang=\"en\">Groudon</a> or <a href=\"/dex/sv/pokemon/koraidon/vgc24-regulation-g/\" hreflang=\"en\">Koraidon</a> and power up its teammate's Water-type attacks. Covert Cloak prevents Thundurus from being stopped by Fake Out from the likes of <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>, so it does not fear them on the first turn and can use its support moves unperturbed. With 252 HP EVs, 156 Defense EVs, and a Bold nature, Thundurus will be able to take Tera Water Surging Strikes from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> or a sun- and Orichalchum Pulse-boosted Flare Blitz from Koraidon, giving it just enough survivability to get off a final support move. 92 Special Defense EVs still give it room to survive many powerful special attacks, including Choice Specs Calyrex-S's Astral Barrage and Choice Specs Beads of Ruin Terapagos-S's Tera Starstorm. Tera Dark gives Thundurus an immunity to Prankster, letting it still get off its support options in the face of faster Prankster <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a> and <a href=\"/dex/sv/pokemon/whimsicott/vgc24-regulation-g/\" hreflang=\"en\">Whimsicott</a>. It also gives it a resistance to Calyrex-S's STAB moves, letting it take a move in a pinch.</p>\n<p>Unlike Tornadus, Thundurus's form of speed control is both less useful and easier to stop; Thunder Wave can only affect the relative Speed of a single Pokemon on the field, whereas Tailwind will affect both Pokemon. What's more, Dark-, Ground-, and Electric-types, such as <a href=\"/dex/sv/pokemon/chi-yu/vgc24-regulation-g/\" hreflang=\"en\">Chi-Yu</a>, <a href=\"/dex/sv/pokemon/landorus/vgc24-regulation-g/\" hreflang=\"en\">Landorus</a>, and Miraidon, are completely immune to Thundurus's Thunder Wave, so they can threaten it and its team easily. <a href=\"/dex/sv/pokemon/chien-pao/vgc24-regulation-g/\" hreflang=\"en\">Chien-Pao</a> deserves a special mention, as it ignores Thunder Wave and threatens Thundurus with an OHKO. Fighting-types like <a href=\"/dex/sv/pokemon/zamazenta-crowned/vgc24-regulation-g/\" hreflang=\"en\">Zamazenta-C</a> and Urshifu-R are great partners for Thundurus because they deal with Dark-types very effectively. Zamazenta-C is able to boost its physical bulk with Iron Defense and benefits from Thundurus reducing the special damage from their foes, making it difficult to bring down. Urshifu-R appreciates the fact that Thundurus can summon rain to boost the power of Surging Strikes. Both appreciate Taunt, which shuts down Amoonguss. Rillaboom is a common partner to assist Thundurus in shutting down Miraidon by replacing the Terrain; it also deals with Ground- and Electric-types that irritate Thundurus by resisting their attacks and threatening them in return with its strong STAB moves and High Horsepower, respectively. <a href=\"/dex/sv/pokemon/indeedee-f/vgc24-regulation-g/\" hreflang=\"en\">Indeedee-F</a> and <a href=\"/dex/sv/pokemon/farigiraf/vgc24-regulation-g/\" hreflang=\"en\">Farigiraf</a> have the ability to block Prankster support moves, so a Dark-type that scares them away is appreciated; Incineroar and Chien-Pao are common choices for such a role. Calyrex-S is also a solid partner for Thundurus, as it appreciates Thundurus's speed control and damage control, the ability to shut down sun teams with Rain Dance, and the fact that Thundurus answers Amoonguss with Taunt. Eerie Impulse is generally helpful against Terapagos-S, which can give Calyrex-S issues. Though both Calyrex-S and Thundurus dislike Dark-types, Calyrex-S can Terastallize Fairy and use Draining Kiss to improve the matchup. Thundurus's Thunderbolt also doesn't do a lot of damage, so foes can ignore it completely if it is unable to utilize its support moves.</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Eerie Impulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Rain Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Rain Dance",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 156,
+              "spa": 4,
+              "spd": 92,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 555379,
+            "username": "Tbolt"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 657713,
+                "username": "Flarefox"
+              },
+              {
+                "user_id": 645750,
+                "username": "iPetBigfoot"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 327515,
+                "username": "Zrp200"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "<p>Thanks to Thundurus's wide variety of coverage, access to Nasty Plot, and high Speed that allows it to outspeed <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> and the <a href=\"/dex/sv/pokemon/ogerpon/almost-any-ability/\" hreflang=\"en\">Ogerpon</a> formes, it functions as a hard-hitting sweeper. Nasty Plot further boosts Thundurus's high Special Attack, allowing it to OHKO <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a>, defensive <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, and RegenVest <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> at +2, while Knock Off can be used on Magic Guard sets to remove Assault Vest from <a href=\"/dex/sv/pokemon/goodra-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/meloetta/almost-any-ability/\" hreflang=\"en\">Meloetta</a>, and <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>. Focus Blast gives Thundurus super effective coverage against <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>, and Volt Absorb <a href=\"/dex/sv/pokemon/empoleon/almost-any-ability/\" hreflang=\"en\">Empoleon</a>. Psychic enables Thundurus to hit Iron Hands, <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/landorus/almost-any-ability/\" hreflang=\"en\">Landorus</a>; alternatively, Grass Knot consistently 2HKOes <a href=\"/dex/sv/pokemon/ting-lu/almost-any-ability/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> while still OHKOing Great Tusk, at the cost of Sheer Force sets taking Life Orb recoil. Sheer Force avoids Life Orb chip damage and boosts Thundurus's power, allowing it to 2HKO <a href=\"/dex/sv/pokemon/deoxys-defense/almost-any-ability/\" hreflang=\"en\">Deoxys-D</a> and max HP Scream Tail after Stealth Rock, while Magic Guard also avoids Life Orb damage and chip damage from Stealth Rock. Thundurus struggles to sweep opposing teams possessing fast revenge killers such as Roaring Moon, <a href=\"/dex/sv/pokemon/azelf/almost-any-ability/\" hreflang=\"en\">Azelf</a>, and Choice Scarf Gholdengo; therefore, it requires allies like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and Empoleon that easily switch into these threats and pivot it in. Fast special attacking pivots such as Azelf and Iron Moth appreciate Thundurus's ability to wallbreak, as it allows them to clean more easily.</p>",
+          "abilities": [
+            "Sheer Force",
+            "Magic Guard"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652656,
+            "username": "Gambit"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 603931,
+                "username": "Time2Bonk"
+              },
+              {
+                "user_id": 540420,
+                "username": "April"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "M",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Defiant"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Bolt Strike",
+                "type": null
+              },
+              {
+                "move": "Fusion Bolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Ascent",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Fusion Bolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Inh",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Magic Guard (Clefairy)",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magic Guard"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Focus Punch",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Punch",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 4,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Naive"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 10-11 points</p>\n<p><strong>Overview</strong>: Thundurus is a strong offensive presence with good offensive stats, good Speed, and substantial coverage options. With its two viable abilities in Prankster and Defiant, Thundurus can limit setup sweepers with priority Thunder Wave and Taunt or deter foes from removing entry hazards with Defog. Although its poor bulk and weakness to Stealth Rock prevents Thundurus from making the most out of its setup potential, it is a reliable fast pivot with great potential to support rosters and be a strong offensive threat through Terastallization.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Offensive Pivot</strong>: With access to both U-turn and STAB Volt Switch, Thundurus can provide momentum as a fast pivot against most foes. it can pair this with priority status moves to pivot around effectively after weakening foes with Thunder Wave and Taunt.</p>\n<p><strong>Setup Sweeper</strong>: Prankster pairs well with Bulk Up on Thundurus, as the combination can let it move faster than foes to boost its defensive capability before sweeping in return. Alternatively, Thundurus can utilize its Special Attack in conjunction with Nasty Plot and Agility, making it an effective setup sweeper.</p>\n<p><strong>Fast Support</strong>: Despite its lack of bulk, Thundurus can be a decent temporary stallbreaker with priority Taunt and Thunder Wave, restricting setup sweepers and bulkier Pokemon that might otherwise recover any previously taken damage when it attempts to pivot. Knock Off is another notable supportive utility move, as it lets Thundurus greatly weaken foes.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Acrobatics, Discharge, Supercell Slam, Thunderbolt, Thunder Punch, Wild Charge</p>\n<p><strong>Setup Moves</strong>: Agility, Bulk Up, Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Brick Break, Knock Off, Substitute, Taunt, Thunder Wave, U-turn, Volt Switch</p>\n<p><strong>Coverage</strong>: Dark Pulse, Flash Cannon, Focus Blast, Grass Knot, Hammer Arm, Psychic, Sludge Bomb, Sludge Wave, Smart Strike, Weather Ball, Zen Headbutt</p>\n<h3>Niche Moves</h3>\n<p><strong>Sunny Day / Rain Dance</strong>: Prankster enables Thundurus to manually set weather with priority, which provides support for Pokemon that can utilize weather as well as additional coverage when used with Weather Ball. This can also be used to counter foes that are reliant on weather-setting, as Thundurus can stop their weather with its own priority weather-setting moves. Thunderbolt can be swapped for Thunder to deal greater damage and increases the chance for paralysis on Rain Dance variants.</p>\n<p><strong>Foul Play</strong>: With some defensive bulk investment or through Choice Scarf, Thundurus can threaten physical setup sweepers with Foul Play.</p>\n<p><strong>Scary Face / Eerie Impulse</strong>: Thanks to Prankster, Thundurus can take advantage of status moves that lower the foe's stats such as Scary Face and Eerie Impulse, ultimately increasing its longevity in battle. Scary Face is particularly worth noting as an alternative to Thunder Wave in some cases, as it can reduce the Speed of Pokemon with an Electric-type immunity.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Thundurus's weakness to Stealth Rock can be mitigated with Heavy-Duty Boots, emphasizing its usage as a fast pivot.</p>\n<p><strong>Damage-boosting Items</strong>: Life Orb, Magnet, and Expert Belt are damage-boosting items that can be useful for increasing Thundurus' offensive output, both specially and physically.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berries</strong>: Both Yache and Charti Berry enable Thundurus to withstand super effective moves and threaten to KO in return despite its low bulk. This can be paired with Bulk Up + Acrobatics, as Thundurus will consume its berry while doubling the power of Acrobatics. However, this does open up Thundurus to entry hazard chip damage, which may reduce the Berries' potential.</p>\n<p><strong>Sitrus Berry</strong>: Thundurus appreciates the immediate recovery when setting up, and it also doubles the Base Power of Acrobatics.</p>\n<p><strong>Choice Specs</strong>: Choice Specs can be beneficial on Thundurus sets that optimize its strong special coverage while maintaining the ability to pivot using Volt Switch. However, Thundurus must be cautious of locking into moves against special walls, which may bring its team's momentum to an abrupt halt.</p>\n<p><strong>Choice Scarf</strong>: Given its high Speed tier, Choice Scarf can be beneficial for outspeeding certain threats with Rock- or Ice-type coverage, such as <a href=\"/dex/sv/pokemon/iron-boulder/draft/\" hreflang=\"en\">Iron Boulder</a>, <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>.</p>\n<p><strong>Leftovers</strong>: Leftovers provides Thundurus with greater longevity as it pivots around teams while playing its role as fast support.</p>\n<p><strong>Heat Rock / Damp Rock</strong>: With Prankster, Thundurus can be a solid candidate for setting weather in battle. Heat Rock and Damp Rock can enhance this further by maximizing the amount of turns available for their respective weather.</p>\n<h3>Tera</h3>\n<p>Thundurus is a strong candidate for Terastallization, with Tera Blast rounding out any special or physical coverage that it may lack. Thus, it should be utilized as an offensive Tera Captain, with Tera Ice as its ideal Tera to complement its high offensive stats while providing necessary coverage. Tera Fairy and Ground can also be effective offensive Tera types, but they are dependent on the opposing team's weaknesses. Conversely, Thundurus can benefit from defensive Tera types to secure setup opportunities, such as Tera Poison, Steel, and Water. Additionally, it boasts an even stronger offensive presence with Tera Electric and Flying, with the former heightening Thundurus's high Base Power attacks and the latter providing a potential Flying-type special attack.</p>\n<h3>Draft Strategy</h3>\n<p>Although Thundurus can assume the roles of setup sweeper and wallbreaker, it primarily excels as a fast special pivot. It is an ideal Tera Captain given its price range, as Tera provides offensive coverage against foes that Thundurus would otherwise struggle against while maintaining some defensive benefit as well. Despite this, it should play a supporting role on a draft, as it lacks the immediate power to take on most high-tier threats.</p>\n<p><strong>Bulky Steel-types</strong>: Thundurus is often forced out by most Pokemon with Ice- and Rock-type attacks and greatly benefits from having a bulky Steel-type like <a href=\"/dex/sv/pokemon/registeel/draft/\" hreflang=\"en\">Registeel</a>, <a href=\"/dex/sv/pokemon/jirachi/draft/\" hreflang=\"en\">Jirachi</a>, or <a href=\"/dex/sv/pokemon/empoleon/draft/\" hreflang=\"en\">Empoleon</a> to switch into to sponge these attacks. It can pivot around Ground- and Fighting-type Pokemon that may threaten its partners in return.</p>\n<p><strong>Entry Hazard Removal</strong>: To maximize Thundurus' usage as an offensive option, it must avoid heavily relying on Heavy-Duty Boots. Thus, it greatly appreciates hazard removal from the likes of <a href=\"/dex/sv/pokemon/excadrill/draft/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>. This will enable Thundurus to utilize damage-boosting and Choice items more easily.</p>\n<p><strong>VoltTurn</strong>: Thundurus greatly appreciates having an offensive core of Pokemon with Volt Switch and U-turn to maintain momentum against the opponent. Pokemon like <a href=\"/dex/sv/pokemon/roaring-moon/draft/\" hreflang=\"en\">Roaring Moon</a>, <a href=\"/dex/sv/pokemon/slither-wing/draft/\" hreflang=\"en\">Slither Wing</a>, or <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a> that can apply offensive pressure as physical wallbreakers are optimal partners. Additionally, slower pivots like Empoleon and <a href=\"/dex/sv/pokemon/scizor/draft/\" hreflang=\"en\">Scizor</a> are especially helpful for Thundurus, as they guarantee a free switch for further pivoting or setting up.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Electric-Immune Pokemon</strong>: Pokemon with an immunity to Electric can be quite troublesome for Thundurus, as it lacks the necessary coverage outside of Terastallization to hit these Pokemon super effectively. As a result, foes such as <a href=\"/dex/sv/pokemon/thundurus-therian/draft/\" hreflang=\"en\">Thundurus-T</a> and <a href=\"/dex/sv/pokemon/jolteon/draft/\" hreflang=\"en\">Jolteon</a> can comfortably check and pivot around non-Tera Thundurus without being KOed. Additionally, Thundurus variants without Grass Knot may also struggle doing damage against Ground-type Pokemon like <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/clodsire/draft/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/garchomp/draft/\" hreflang=\"en\">Garchomp</a>.</p>\n<p><strong>Bulky Electric-Types</strong>: Electric-type Pokemon can handle Thundurus's Electric- and Flying-type STAB attacks while forcing it out with their own coverage moves. <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/bellibolt/draft/\" hreflang=\"en\">Bellibolt</a>, and <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> do this exceptionally well, taking these attacks with little to no fear while threatening Thundurus in return.</p>\n<p><strong>Priority</strong>: Thundurus is weak to Ice Shard and Accelerock and is frail enough to be threatened by other priority attacks like Sucker Punch and Thunderclap. This can be compounded with entry hazard chip damage to put Thundurus within KO range fairly quickly, as it must pivot frequently. As a result, it should be wary of priority moves from the likes of <a href=\"/dex/sv/pokemon/mamoswine/draft/\" hreflang=\"en\">Mamoswine</a>, <a href=\"/dex/sv/pokemon/baxcalibur/draft/\" hreflang=\"en\">Baxcalibur</a>, <a href=\"/dex/sv/pokemon/lycanroc/draft/\" hreflang=\"en\">Lycanroc</a>, and <a href=\"/dex/sv/pokemon/kingambit/draft/\" hreflang=\"en\">Kingambit</a>, as they can easily threaten a KO after hazard chip damage without stat boosts.</p>\n<p><strong>Revenge Killers</strong>: With below-average Defense and Special Defense and limited access to setup moves, Thundurus is easily revenge killed by faster foes such as <a href=\"/dex/sv/pokemon/weavile/draft/\" hreflang=\"en\">Weavile</a>, Meowscarada, Roaring Moon, and Iron Boulder.</p>\n<p><strong>Stealth Rock</strong>: Without entry hazard removal, Thundurus is solely reliant on Heavy-Duty Boots to pivot around an opponent's team safely. This greatly restricts its offensive options and hinders attempts to reclaim momentum in most matchups.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 572939,
+            "username": "PhantomSnorlax"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 620359,
+                "username": "olivia"
+              },
+              {
+                "user_id": 466715,
+                "username": "sablolol"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With its superb Speed tier, colorful coverage options, and Heavy-Duty Boots to not be worn down by entry hazards, Thundurus is a decent offensive pivot in the metagame, getting the jump on other notable offensive threats such as <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>, <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-uu/\" hreflang=\"en\">Mega Gallade</a>, <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>. Knock Off allows Thundurus to cripple <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> and Assault Vest <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>. Focus Blast allows Thundurus to deal heavy damage to <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a>, also letting it serve as a decent offensive check to the first under sand. However, Grass Knot and Psychic are powerful coverage options that can 2HKO <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and most variants of <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> and <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>. U-turn allows Thundurus to maintain momentum but can be exchanged for Volt Switch to maintain damage against <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a> at the cost of needing to predict around Ground-types. Alternatively, Thunder Wave in conjunction with Prankster allows Thundurus to act as an emergency check to boosted threats such as Autotomize <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a> or cripple a faster threat such as <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a> or <a href=\"/dex/sv/pokemon/iron-boulder/national-dex-uu/\" hreflang=\"en\">Iron Boulder</a>, making it easier for its teammates to pick them off. Thundurus fits best on offense teams that can compensate for its frailty and are best suited to its aggressive playstyle. Other offensive pivots such as <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> and Life Orb Mienshao tend to lure in physically defensive targets such as Slowbro and <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a>, providing Thundurus with a safe entry point; in return, they can threaten common specially defensive Pokemon such as <a href=\"/dex/sv/pokemon/blissey/national-dex-uu/\" hreflang=\"en\">Blissey</a> and Assault Vest Tangrowth that are typically used to check Thundurus. Thundurus is very vulnerable to Knock Off, which Pokemon such as Clefable and <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> can potentially use to cripple it. Thus, teammates that can safely absorb these hits such as <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> and Slowbro are valuable partners that can also serve to check faster threats like <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>, Iron Boulder, and Mega Aerodactyl. Lastly, certain defensive pivots such as Clefable and Tyranitar can support Thundurus with hazards, which makes it much more effective at wearing down other checks such as <a href=\"/dex/sv/pokemon/garganacl/national-dex-uu/\" hreflang=\"en\">Garganacl</a> and Mega Venusaur.</p>",
+          "abilities": [
+            "Defiant",
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 546157,
+            "username": "Iride"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "pokemon": "Thundurus",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets, stay tuned for future updates!</p>",
+          "abilities": [
+            "Prankster"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Electrium Z",
+            "Fightinium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Ice"
+              },
+              {
+                "move": "Grass Knot",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Agility",
+    "Astonish",
+    "Bite",
+    "Body Slam",
+    "Brick Break",
+    "Bulk Up",
+    "Charge",
+    "Charge Beam",
+    "Crunch",
+    "Dark Pulse",
+    "Discharge",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Facade",
+    "Flash Cannon",
+    "Fling",
+    "Fly",
+    "Focus Blast",
+    "Foul Play",
+    "Giga Impact",
+    "Grass Knot",
+    "Hammer Arm",
+    "Hyper Beam",
+    "Knock Off",
+    "Lash Out",
+    "Leer",
+    "Nasty Plot",
+    "Protect",
+    "Psychic",
+    "Rain Dance",
+    "Rest",
+    "Scary Face",
+    "Shock Wave",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sludge Wave",
+    "Smack Down",
+    "Smart Strike",
+    "Snarl",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Swagger",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Thrash",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Punch",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Uproar",
+    "U-turn",
+    "Volt Switch",
+    "Weather Ball",
+    "Wildbolt Storm",
+    "Wild Charge",
+    "Zen Headbutt"
+  ]
+}

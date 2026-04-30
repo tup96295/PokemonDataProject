@@ -1,0 +1,157 @@
+{
+  "name": "Grovyle",
+  "alias": "grovyle",
+  "types": [
+    "Grass"
+  ],
+  "stats": [
+    50,
+    65,
+    45,
+    85,
+    65,
+    95
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Grassy Terrain",
+          "pokemon": "Grovyle",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Unburden"
+          ],
+          "items": [
+            "Grassy Seed"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Leaf Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Acrobatics",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Rock Slide",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 192,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 64
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acrobatics",
+    "Aerial Ace",
+    "Agility",
+    "Assurance",
+    "Breaking Swipe",
+    "Brick Break",
+    "Bullet Seed",
+    "Crunch",
+    "Detect",
+    "Dig",
+    "Double Kick",
+    "Double Team",
+    "Dragon Breath",
+    "Dragon Tail",
+    "Drain Punch",
+    "Endeavor",
+    "Endure",
+    "Energy Ball",
+    "Facade",
+    "False Swipe",
+    "Fling",
+    "Focus Punch",
+    "Fury Cutter",
+    "Giga Drain",
+    "Grass Knot",
+    "Grass Pledge",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Helping Hand",
+    "Leafage",
+    "Leaf Blade",
+    "Leaf Storm",
+    "Leech Seed",
+    "Leer",
+    "Low Kick",
+    "Low Sweep",
+    "Magical Leaf",
+    "Mega Drain",
+    "Night Slash",
+    "Pound",
+    "Protect",
+    "Quick Attack",
+    "Quick Guard",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Screech",
+    "Seed Bomb",
+    "Slam",
+    "Slash",
+    "Sleep Talk",
+    "Solar Beam",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Swords Dance",
+    "Synthesis",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunder Punch",
+    "Trailblaze",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Worry Seed",
+    "X-Scissor"
+  ]
+}

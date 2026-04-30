@@ -1,0 +1,203 @@
+{
+  "name": "Hakamo-o",
+  "alias": "hakamo-o",
+  "types": [
+    "Dragon",
+    "Fighting"
+  ],
+  "stats": [
+    55,
+    75,
+    90,
+    65,
+    70,
+    65
+  ],
+  "strategies": [
+    {
+      "format": "NFE",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Double Dance",
+          "pokemon": "Hakamo-o",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Bulletproof"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scale Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Iron Head",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "pokemon": "Hakamo-o",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Bulletproof"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Body Slam",
+    "Breaking Swipe",
+    "Brick Break",
+    "Bulk Up",
+    "Bulldoze",
+    "Close Combat",
+    "Coaching",
+    "Counter",
+    "Double-Edge",
+    "Draco Meteor",
+    "Dragon Breath",
+    "Dragon Cheer",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Tail",
+    "Drain Punch",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "False Swipe",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Headbutt",
+    "Iron Defense",
+    "Iron Head",
+    "Leer",
+    "Low Kick",
+    "Metal Claw",
+    "Noble Roar",
+    "Outrage",
+    "Protect",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scale Shot",
+    "Scary Face",
+    "Screech",
+    "Shadow Claw",
+    "Sleep Talk",
+    "Substitute",
+    "Sunny Day",
+    "Swords Dance",
+    "Tackle",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Throat Chop",
+    "Upper Hand",
+    "Vacuum Wave",
+    "Work Up",
+    "X-Scissor"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "name": "Rhyhorn",
+  "alias": "rhyhorn",
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "stats": [
+    80,
+    85,
+    95,
+    30,
+    30,
+    25
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Setup Sweeper",
+          "pokemon": "Rhyhorn",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Lightning Rod"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Flying"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rock Polish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 236,
+              "def": 0,
+              "spa": 0,
+              "spd": 116,
+              "spe": 156
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Blizzard",
+    "Body Press",
+    "Body Slam",
+    "Bulldoze",
+    "Counter",
+    "Crunch",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Drill Run",
+    "Earth Power",
+    "Earthquake",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fire Blast",
+    "Fire Fang",
+    "Flamethrower",
+    "Guard Split",
+    "Heavy Slam",
+    "High Horsepower",
+    "Horn Attack",
+    "Horn Drill",
+    "Ice Beam",
+    "Ice Fang",
+    "Icy Wind",
+    "Megahorn",
+    "Metal Burst",
+    "Mud Shot",
+    "Mud-Slap",
+    "Poison Jab",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Roar",
+    "Rock Blast",
+    "Rock Polish",
+    "Rock Slide",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Scorching Sands",
+    "Sleep Talk",
+    "Smack Down",
+    "Smart Strike",
+    "Stealth Rock",
+    "Stomp",
+    "Stomping Tantrum",
+    "Stone Edge",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Swords Dance",
+    "Tackle",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Fang",
+    "Uproar"
+  ]
+}

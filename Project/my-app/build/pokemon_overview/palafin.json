@@ -1,0 +1,1080 @@
+{
+  "name": "Palafin",
+  "alias": "palafin",
+  "types": [
+    "Water"
+  ],
+  "stats": [
+    100,
+    70,
+    72,
+    53,
+    62,
+    100
+  ],
+  "strategies": [
+    {
+      "format": "Uber",
+      "outdated": "<p>These analyses were written before Pokemon Home's update for Generation 9. As a result, some of the content may now be outdated as we adjust for the new metagame.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Wave Crash is a very strong STAB move. With Stealth Rock support and Tera Water's power boost, it crushes walls Palafin normally might struggle to break, like <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/corviknight/uber/\" hreflang=\"en\">Corviknight</a>, and always OHKOes <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>.</li>\n<li>Close Combat is a strong, reliable coverage move that hits many of Palafin's checks like Corviknight and <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a> for solid damage, while also hitting Water-types barring Toxapex for neutral damage.</li>\n<li>Ice Punch allows Palafin to hit Dragon-types like the very common Koraidon and Miraidon while also hitting Water Absorb <a href=\"/dex/sv/pokemon/clodsire/uber/\" hreflang=\"en\">Clodsire</a>. However, it cannot OHKO Koraidon and is not guaranteed to OHKO Miraidon.</li>\n<li>Zen Headbutt allows Palafin to hit Toxapex super effectively, as well as potentially OHKOing Koraidon and having fantastic odds to 2HKO Miraidon.</li>\n<li>Tera Water powers up Palafin's Water-type moves and allows Palafin to achieve feats like 2HKOing Miraidon with Jet Punch from full HP if rain is up.</li>\n<li>Choice Band Palafin functions best on offensive teams to revenge kill threats like <a href=\"/dex/sv/pokemon/flutter-mane/uber/\" hreflang=\"en\">Flutter Mane</a> or to break walls for its teammates mid-game. Remember, base Palafin needs to be used very early in a game to transform into its Hero Form.</li>\n<li><a href=\"/dex/sv/pokemon/pelipper/uber/\" hreflang=\"en\">Pelipper</a> is a great partner for Palafin, as it checks Koraidon decently and replaces its sun with rain, strengthening Palafin's powerful Water-type attacks.</li>\n<li>Koraidon sets up sun and resists Water-type attacks Palafin throws at it, so Palafin appreciates teammates that threaten Koraidon, like <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a> and Flutter Mane. Also, Palafin is weakened by the sun Koraidon sets up, so it is best not to pair Palafin and Koraidon together.</li>\n<li>Miraidon is a good partner, as it destroys <a href=\"/dex/sv/pokemon/alomomola/uber/\" hreflang=\"en\">Alomomola</a>, a great counter to Palafin, and can safely bring Palafin onto the field with either U-turn or Volt Switch. Miraidon also appreciates Palafin threatening Ground-type Pokemon that can take Miraidon's Electric-type attacks, like <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a>, and Clodsire.</li>\n</ul>",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Zen Headbutt",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>Jet Punch's strong priority allows this Palafin set to still be threatening to offensive builds, while Drain Punch keeps Palafin healthy against bulkier teams.</li>\n<li>Taunt allows Palafin to prevent common responses to setup sweepers from working, such as Whirlwind from <a href=\"/dex/sv/pokemon/ting-lu/uber/\" hreflang=\"en\">Ting-Lu</a> and Haze from <a href=\"/dex/sv/pokemon/toxapex/uber/\" hreflang=\"en\">Toxapex</a>, while also preventing Pokemon like <a href=\"/dex/sv/pokemon/annihilape/uber/\" hreflang=\"en\">Annihilape</a> from setting up alongside it.</li>\n<li>Fairy is the Tera type of choice to allow Palafin to resist both of <a href=\"/dex/sv/pokemon/koraidon/uber/\" hreflang=\"en\">Koraidon</a>'s STAB attacks and potentially set up on Choice Scarf variants of it. Fairy also removes Palafin's weakness to <a href=\"/dex/sv/pokemon/iron-bundle/uber/\" hreflang=\"en\">Iron Bundle</a>'s Freeze-Dry and <a href=\"/dex/sv/pokemon/miraidon/uber/\" hreflang=\"en\">Miraidon</a>'s Electric-type moves.</li>\n<li>Palafin struggles to deal with Koraidon or Miraidon, which can come in on this set easily, especially given that Zero to Hero forces Palafin to switch at least once before it can be offensively threatening. As a result, this Palafin needs teammates that can defensively handle these threats. Ting-Lu and <a href=\"/dex/sv/pokemon/iron-treads/uber/\" hreflang=\"en\">Iron Treads</a> both help with Miraidon, and Pokemon like <a href=\"/dex/sv/pokemon/great-tusk/uber/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/scream-tail/uber/\" hreflang=\"en\">Scream Tail</a>, and <a href=\"/dex/sv/pokemon/skeledirge/uber/\" hreflang=\"en\">Skeledirge</a> can provide defensive solidity against Koraidon.</li>\n<li>This Palafin set functions best with a sturdy defensive backbone alongside it, to mitigate the impact of Zero to Hero. As a result, it does not work as well on more hyper offensive playstyles.</li>\n</ul>",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 8,
+              "def": 0,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 597293,
+            "username": "oreo guy"
+          },
+          {
+            "user_id": 249382,
+            "username": "Aberforth"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 507268,
+                "username": "ox04"
+              },
+              {
+                "user_id": 537354,
+                "username": "Mashing"
+              },
+              {
+                "user_id": 306317,
+                "username": "katerina"
+              },
+              {
+                "user_id": 415367,
+                "username": "Eledyr"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              },
+              {
+                "user_id": 232216,
+                "username": "Lumari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Doubles",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulk Up",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Bulk Up Palafin builds upon its natural bulk and Attack, letting it function as a strong priority attacker who uses its Defense to brazenly set up and become a threatening sweeper that is difficult to KO for common physical attackers like <a href=\"/dex/sv/pokemon/chien-pao/doubles/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/landorus-therian/doubles/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/kingambit/doubles/\" hreflang=\"en\">Kingambit</a>.\nJet Punch circumvents common speed control and is threatening against the frailer metagame, notably OHKOing <a href=\"/dex/sv/pokemon/chi-yu/doubles/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/landorus/doubles/\" hreflang=\"en\">Landorus</a> at +1.\nDrain Punch is a reliable means of recovery in addition to Leftovers while also hitting popular Dark-types like Kingambit and Chien-Pao, as well as common Water-resistant or immune foes such as <a href=\"/dex/sv/pokemon/rillaboom/doubles/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/volcanion/doubles/\" hreflang=\"en\">Volcanion</a> harder.\nTera Grass provides an immunity to <a href=\"/dex/sv/pokemon/amoonguss/doubles/\" hreflang=\"en\">Amoonguss</a>'s Spore and Rage Powder, as well as resistances to Grass- and Electric-type attacks such as Rillaboom's Wood Hammer and <a href=\"/dex/sv/pokemon/iron-hands/doubles/\" hreflang=\"en\">Iron Hands</a>'s Wild Charge, which would otherwise OHKO Palafin.\nPalafin's base forme has poor damage output and bulk, so it is often ideal for it to lead and pivot out immediately to activate Zero to Hero. This is so crucial to Palafin's functioning that it is very telegraphed and easily exploitable with powerful attacks directed at it. To cover for this, Palafin may lead together with a Fake Out user or a redirector to reduce incoming damage.\nBulk Up Palafin pairs well with partners that can remove Psychic Terrain, use Fake Out to generate free turns for Palafin to set up, and extend Palafin's longevity. Rillaboom fulfills all of these roles, with Grassy Terrain granting additional passive recovery. <a href=\"/dex/sv/pokemon/cresselia/doubles/\" hreflang=\"en\">Cresselia</a> is another good partner, as its Lunar Blessing heals Palafin and cures burn and poison, which would otherwise severely limit Palafin's offensive output or the turns it can stay on field. Amoonguss's Rage Powder redirects threatening attacks such as Iron Hands's Wild Charge, removes Toxic Spikes that reduce Palafin's longevity, and provides a major source of recovery for Palafin with Pollen Puff. Iron Hands is a Fake Out user whose Electric-type attacks eliminate opposing Water-types that resist Jet Punch. <a href=\"/dex/sv/pokemon/grimmsnarl/doubles/\" hreflang=\"en\">Grimmsnarl</a> can also increase Palafin's bulk and create setup opportunities with its dual screens. As Amoonguss effortlessly walls Palafin and undoes its progress with Clear Smog, Palafin requires partners that deal with it effectively, like <a href=\"/dex/sv/pokemon/heatran/doubles/\" hreflang=\"en\">Heatran</a>, Chien-Pao, and Chi-Yu.</p>",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 306383,
+            "username": "GenOne"
+          },
+          {
+            "user_id": 192134,
+            "username": "ryo yamada2001"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 550367,
+                "username": "Smudge"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 262594,
+                "username": "Milak"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023. <a href=\"/dex/sv/formats/battle-stadium-singles/\">For more information on this format and its current events, check out this page!</a></p>\n<p><a href=\"/forums/threads/battle-stadium-regulation-c-analyses.3719040/\">If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "This looks like a job for Palafin",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Palafin's stats are middling, but after switching out once it will forme change into <a href=\"/dex/sv/pokemon/palafin-hero/battle-stadium-singles/\" hreflang=\"en\">Palafin-H</a>, which boasts the highest base Attack in the format, making it an effective wall breaker with Wave Crash, and a great revenge killer with Jet Punch.</p>\n</li>\n<li>\n<p><strong>Flip Turn</strong>: Flip Turn is perfect for letting Palafin do some chip damage and escaping before it transforms into the heroic Palafin-H! It's possible to drop if coverage is desperately needed, but forcing Palafin to switch and losing out on a useful pivot move is not the right call in most cases.</p>\n</li>\n<li>\n<p><strong>Ice Punch</strong>: Ice Punch is Palafin-H's best bet against <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> before it Terastallizes, and deals decent damage to <a href=\"/dex/sv/pokemon/amoonguss/battle-stadium-singles/\" hreflang=\"en\">Amoonguss</a>.</p>\n</li>\n<li>\n<p><strong>Close Combat versus Drain Punch</strong>: Close Combat is good coverage, hitting <a href=\"/dex/sv/pokemon/rotom-wash/battle-stadium-singles/\" hreflang=\"en\">Rotom-W</a> for neutral damage and covering <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>, <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>, and <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>. While weaker, Drain Punch's lack of defensive stat drops makes sense for a better matchup against Focus Sash <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a> and restoring a good amount of health against Iron Bundle before usually KOing it with Jet Punch.</p>\n</li>\n<li>\n<p><strong>Adamant versus Jolly</strong>: An Adamant nature increases the damage Wave Crash and Jet Punch inflict, making Palafin-H a more effective wall breaker and revenge killer. A Jolly nature enables Palafin-H to outspeed Jolly <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a>, Jolly Baxcalibur, and Jolly <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li><strong>Grass Knot</strong>: Grass Knot lets Palafin-H potentially 2HKO physically defensive <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a>, whose normally a good Palafin-H check. It doesn't cover anything else that's useful, with <a href=\"/dex/sv/pokemon/azumarill/battle-stadium-singles/\" hreflang=\"en\">Azumarill</a> and Rotom-W being fairly lightweight.</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Terastallization can make Palafin-H to an even more potent revenge killer and cleaner, but its not reliant on it.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water makes Palafin-H a potent late-game cleaner, making it the Tera Type that makes sense for most teams.</p>\n</li>\n<li>\n<p><strong>Electric</strong>: If willing to give up on consistent coverage by using Tera Blast, Tera Electric Palafin-H deals a big amount of damage against common bulky Water-types like Azumarill, Dondozo, and <a href=\"/dex/sv/pokemon/toxapex/battle-stadium-singles/\" hreflang=\"en\">Toxapex</a>, in addition to saving Palafin-H from Iron Bundle's Freeze-Dry.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: A Grass Tera type turns all of Palafin-H's weaknesses into resistances, giving it a favorable matchup against Rotom-W, and making it immune to Spore from <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>, Amoonguss, and <a href=\"/dex/sv/pokemon/brute-bonnet/battle-stadium-singles/\" hreflang=\"en\">Brute Bonnet</a>, and having a good Tera Blast against Azumarill and Dondozo. If using the niche Grass Knot, it consistently 2HKOs all but specially defensive Dondozo.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Choice Band</strong>: Choice Band gives Palafin-H the most amount of wallbreaking and revenge killing power.</p>\n</li>\n<li>\n<p><strong>Assault Vest</strong>: Palafin-H's bulk is good enough to survive some powerful attacks with Assault Vest, such as Iron Bundle's Freeze-Dry, and it works well with bulkier EV spreads.</p>\n</li>\n<li>\n<p><strong>Mystic Water</strong>: If Choice Band is used by another teammate, Mystic Water is a great alternative thanks to most of Palafin-H's attacks being Water-type anyways.</p>\n</li>\n<li>\n<p><strong>Life Orb</strong>: Life Orb works well with revenge killing and makes the niche Grass Knot always 2HKO specially defensive Dondozo, but the severe compromise to Palafin-H's bulk, especially with Wave Crash recoil, makes it a lesser option.</p>\n</li>\n</ul>\n<h5>Bulkier EV Spreads</h5>\n<ul>\n<li>\n<p><strong>140 HP / 252 Atk / 116 Spe with Adamant</strong>: This EV spread outspeeds Jolly Breloom, and lets Palafin-H survive Tera Flying Choice Band Tera Blast from Dragonite from full health.</p>\n</li>\n<li>\n<p><strong>252 HP / 236 Atk / 20 Spe with Adamant</strong>: This EV spread outspeeds Adamant Breloom, and survives Modest Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>'s Moonblast after Stealth Rock damage. If surviving that isn't important or if using Assault Vest, feel free to swap the HP and Attack investments.</p>\n</li>\n<li>\n<p><strong>60 HP / 252 Atk / 4 Def / 12 SpD / 180 Spe with Jolly</strong>: This speedy Assault Vest spread outspeeds Jolly Annihilape, survives Jolly Life Orb Tera Dark Chien-Pao's Crunch from full health, and survives Modest Choice Specs Tera Fairy Flutter Mane's Moonblast after Stealth Rock damage.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Choice Band",
+            "Assault Vest",
+            "Mystic Water"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p><a href=\"/dex/sv/pokemon/palafin-hero/battle-stadium-singles/\" hreflang=\"en\">Palafin-H</a>'s powerful priority and good Speed tier separate it from other Bulk Up sweepers, such as <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n<li>\n<p><strong>Drain Punch</strong>: Even without Tera Fighting, Drain Punch's extra healing makes it a great choice for coverage, and it does massive damage to <a href=\"/dex/sv/pokemon/kingambit/battle-stadium-singles/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/chien-pao/battle-stadium-singles/\" hreflang=\"en\">Chien-Pao</a>, and <a href=\"/dex/sv/pokemon/meowscarada/battle-stadium-singles/\" hreflang=\"en\">Meowscarada</a>.</p>\n</li>\n<li>\n<p><strong>Taunt versus Substitute</strong>: With Taunt, Palafin-H excels at breaking through troublesome defensive Pokemon, such as <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a>, and <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a>, and it also gives Palafin a decent move against <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/hippowdon/battle-stadium-singles/\" hreflang=\"en\">Hippowdon</a> before switching out for Zero to Hero. Substitute has a worse matchup defensive set-up Pokemon, but in exchange it turns <a href=\"/dex/sv/pokemon/garganacl/battle-stadium-singles/\" hreflang=\"en\">Garganacl</a> into an excellent set up opportunity and makes Palafin-H a fearsome sweeper with Toxic Spikes support.</p>\n</li>\n</ul>\n<h5>Other Options</h5>\n<ul>\n<li>\n<p><strong>Ice Punch</strong>: If using Tera Water, Ice Punch is a reasonable option for hitting Dragon-types, though it does leave Palafin-H walled by <a href=\"/dex/sv/pokemon/rotom-wash/battle-stadium-singles/\" hreflang=\"en\">Rotom-W</a>.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: While harder to justify than the other support options, Encore does give Palafin-H new chances to set up, punishing slower set-up sweepers like Annihilape in particular.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Unless using Tera Blast, Palafin-H is only pressured to Terastallize to improve certain matchups.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Besides being an excellent defensive typing that punishes Chien-Pao and <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> for using Dark-type attacks, Tera Fairy gives Palafin-H a great offensive option against Dragon-types like <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/baxcalibur/battle-stadium-singles/\" hreflang=\"en\">Baxcalibur</a>, as well as coverage against Wo-Chien and Meowscarada with Tera Blast.</p>\n</li>\n<li>\n<p><strong>Fighting</strong>: Boosting Drain Punch's power with Tera Fighting can make Palafin-H even more difficult to take down and can seriously compromise defensive Rotom-W thanks to Taunt or Substitute blocking Will-O-Wisp. However, it does make Palafin-H particularly vulnerable to <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water helps Palafin-H pick off more threats with Jet Punch, having a good shot to OHKO offensive Flutter Mane unboosted after Stealth Rock damage.</p>\n</li>\n<li>\n<p><strong>Poison</strong>: Besides offering a useful Fairy resistance, Tera Poison lets Palafin-H absorb Toxic Spikes and stop Toxic without a support move, making it a viable alternative.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Leftovers</strong>: Leftovers takes advantage of Palafin-H's slow setup and is a requirement if using Substitute.</p>\n</li>\n<li>\n<p><strong>Punching Glove</strong>: If using Taunt, Punching Glove is a good option to free up Leftovers for a teammate. Palafin-H appreciates the extra power Jet Punch and Drain Punch gain, and it becomes harder for Rocky Helmet Dragonite to wear it down.</p>\n</li>\n<li>\n<p><strong>Covert Cloak</strong>: If using Taunt, Covert Cloak turns the tables on the Garganacl matchup in addition to protecting Palafin-H from surprise Light Ball Flings from foes like Annihilape.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>252 HP / 140 SpD / 116 Spe with Careful</strong>: This spread maximizes Palafin-H's Special Defense while still outspeeding Jolly <a href=\"/dex/sv/pokemon/breloom/battle-stadium-singles/\" hreflang=\"en\">Breloom</a>.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 Def / 252 Spe with Jolly</strong>: Maximizing Speed allows Palafin-H to outspeed fast support Pokemon like <a href=\"/dex/sv/pokemon/mimikyu/battle-stadium-singles/\" hreflang=\"en\">Mimikyu</a> and Annihilape so it can Taunt them. This spread also outspeeds the rare Choice Specs <a href=\"/dex/sv/pokemon/hydreigon/battle-stadium-singles/\" hreflang=\"en\">Hydreigon</a>, which can deal massive damage with Draco Meteor if not using Tera Fairy.</p>\n</li>\n<li>\n<p><strong>252 HP / 140 Atk / 116 Spe with Adamant</strong>: This is a far more offensive approach to the set, letting Palafin-H function more as a revenge killer with the potential to sweep rather than a bulky setup Pokemon. This is best used with Tera Water, as Palafin-H will then OHKO offensive Flutter Mane with unboosted Jet Punch. The given Speed is for outspeeding Jolly Breloom.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Leftovers",
+            "Punching Glove",
+            "Covert Cloak"
+          ],
+          "teratypes": [
+            "Fighting",
+            "Fairy",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 140,
+              "spe": 116
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 11020,
+            "username": "Blackbeltsam"
+          },
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              },
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 375662,
+                "username": "Isaiah"
+              },
+              {
+                "user_id": 583793,
+                "username": "Sabelette"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": "<p>This analysis is from before our transition to full analyses, and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulk Up",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Palafin is an extremely niche setup sweeper that has one of the strongest priority moves in the tier and not much else, as it is forced to use Zero to Hero to transform. Substitute prevents it from being statused from <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> while allowing it to set up on passive targets like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a>, and the aforementioned Manaphy. Bulk Up makes up for its lack of power, since it lacks an ability and item that increases its damage output. Drain Punch keeps Palafin healthy against checks like Corviknight and Manaphy and allows it to damage Water-immune foes like <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>. Ice Punch smacks Dragon-types like <a href=\"/dex/sv/pokemon/dragonite/almost-any-ability/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, while Zen Headbutt OHKOes Iron Moth. Palafin fits on bulkier or balance teams as a late-game sweeper, so partners that can wear the opposing team down over time like Magic Guard Roaring Moon, <a href=\"/dex/sv/pokemon/electrode-hisui/almost-any-ability/\" hreflang=\"en\">Hisuian Electrode</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a> are appreciated; entry hazard setters like <a href=\"/dex/sv/pokemon/scream-tail/almost-any-ability/\" hreflang=\"en\">Scream Tail</a>, Heatran, and <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a> are also beneficial with their ability to chip down foes over time. Palafin is checked offensively by threats like Dragonite, Desolate Land <a href=\"/dex/sv/pokemon/ceruledge/almost-any-ability/\" hreflang=\"en\">Ceruledge</a>, and Scream Tail, so teammates like Corviknight, Well-Baked Body <a href=\"/dex/sv/pokemon/mandibuzz/almost-any-ability/\" hreflang=\"en\">Mandibuzz</a>, and Heatran handle these threats. Physical walls like Pecharunt and <a href=\"/dex/sv/pokemon/skarmory/almost-any-ability/\" hreflang=\"en\">Skarmory</a> can wall Palafin consistently, so partners that can force them out like Deoxys-S and <a href=\"/dex/sv/pokemon/sandy-shocks/almost-any-ability/\" hreflang=\"en\">Sandy Shocks</a> pair well with it. Desolate Land users like Iron Moth Roaring Moon, Primordial Sea <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a>, and Well-Baked Body Gholdengo can deal with Desolate Land users like Iron Moth, <a href=\"/dex/sv/pokemon/cinderace/almost-any-ability/\" hreflang=\"en\">Cinderace</a>, and Heatran, making for great partners.</p>",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              },
+              {
+                "move": "Zen Headbutt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 580765,
+            "username": "cat"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 611238,
+                "username": "LordBox"
+              },
+              {
+                "user_id": 523866,
+                "username": "UT"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Substitute + Bulk Up",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Punching Glove"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 232,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 20
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Surging Strikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Zen Headbutt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 2 onwards</p>\n<p><strong>Price Range</strong>: 15-16 points</p>\n<p><strong>Overview</strong>: Palafin's high Attack lets it puts enormous pressure on opposing teams, especially with Jet Punch to pick off faster foes and Bulk Up to become an effective setup sweeper. Its biggest drawback is its need to use a turn to activate its Hero forme, but it can still be threatening to weakened or Water-weak foes regardless. While the prevalence of faster Grass-types in the metagame can also hold Palafin back, its true limiter is the creativity of its user.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Physical Wallbreaker</strong>: Palafin can tear up teams with Choice Band-boosted STAB moves coming off its extraordinary Attack, even against team compositions with multiple Water-resistant foes. It also has an exceptional ability to clean with access to its strong priority in Jet Punch, and it has plenty of strong coverage moves to hit potential checks.</p>\n<p><strong>Setup Sweeper</strong>: With Bulk Up, Jet Punch, great natural bulk, and the ability to heal itself with Drain Punch, Palafin makes for a potent setup sweeper that can instantly end games given the smallest of opportunities.</p>\n<p><strong>Special Wallbreaker</strong>: With a respectable base Special Attack and access to coverage like Boomburst, Ice Beam and Grass Knot, Palafin's special sets can be surprisingly potent. Boomburst is often used with Throat Spray, though Life Orb and Choice Specs also have merit. This can take up a cleaner role with Agility in its moveset. Note that Palafin can still fit Jet Punch in special sets, though it would have to take a hit in bulk from using a Defense- or Special Defense-lowering nature.</p>\n<h3>Common Moves</h3>\n<p><strong>STAB Moves</strong>: Jet Punch, Wave Crash, Flip Turn, Liquidation, Surf, Hydro Pump</p>\n<p><strong>Setup Moves</strong>: Bulk Up, Agility</p>\n<p><strong>Utility Moves</strong>: Substitute, Encore, Taunt, Haze</p>\n<p><strong>Coverage</strong>: Ice Punch, Drain Punch, Close Combat, Acrobatics, Iron Head, Zen Headbutt, Throat Chop, Body Slam, Ice Beam, Grass Knot, Boomburst, Aura Sphere, Focus Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Fling</strong>: Palafin holding a Big Nugget has access to a one-time 130-Base Power Dark-type move to hit foes like <a href=\"/dex/sv/pokemon/slowking/draft/\" hreflang=\"en\">Slowking</a>. This also lets it use Acrobatics afterwards.</p>\n<p><strong>Facade</strong>: Facade is one of the more niche ways that Palafin has to play around status, it is prone to being weakened by status effects like burn and paralysis.</p>\n<h3>Common Items</h3>\n<p><strong>Punching Glove / Protective Pads</strong>: With one of the foremost checks to Palafin being Rocky Helmet, sets with Drain Punch and Jet Punch can use Punching Glove to great effect. Protective Pads replaces this when the set has moves like Flip Turn and Wave Crash.</p>\n<p><strong>Sitrus Berry / Leftovers</strong>: Sitrus Berry and Leftovers are not interchangeable, though they have a similar role. Both generally work well on Bulk Up sets, with Sitrus Berry finding itself on sets that either don't intend to last as long or need Acrobatics to hit bulky Grass-types. Leftovers is more useful when the game plan is to use Bulk Up multiple times and sit on the field for an extended duration versus a more passive team.</p>\n<p><strong>Damage-boosting Items</strong>: Palafin can makes use of the damage boost from Choice Band really well, especially since it doesn't have to lock itself into a move long-term by using Flip Turn. It can also use items like Mystic Water, Life Orb, and Expert Belt to hit damage thresholds without being locked into a move.</p>\n<p><strong>Resistance Berries</strong>: Resistance Berries help lure threats so that Palafin can revenge kill the foe or get an additional turn to set up. This works especially well with Acrobatics against faster Grass-type foes.</p>\n<h3>Niche Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Specifically relevant with Flip Turn, Heavy-Duty Boots lets Palafin safely pivot in and out of the field through avoiding accumulated entry hazard damage.</p>\n<p><strong>Assault Vest</strong>: Assault Vest works well on Palafin, as it often runs four attacking moves regardless. This allows it to check and revenge kill specific specially offensive foes that would otherwise OHKO it or deal massive amounts of damage.</p>\n<p><strong>Weakness Policy</strong>: Weakness Policy works well with Palafin's solid natural bulk, allowing it to activate off a weak Volt Switch or coverage move that can be expected in prep.</p>\n<p><strong>Throat Spray / Choice Specs</strong>: Palafin can use Boomburst to trigger Throat Spray, making it a surprise special wallbreaker. Alternatively, Choice Specs can be used if immediate power is needed and if there is not a need to switch moves.</p>\n<p><strong>Choice Scarf</strong>: Choice Scarf is rare, since Jet Punch generally works well enough for speed control, but in some matchups, attacking faster with Wave Crash or coverage moves can be valuable. Jet Punch still works well to hit opposing Choice Scarf users.</p>\n<h3>Tera</h3>\n<p>Palafin is always banned from Terastallizing. If yours has the liberty to Terastallize, congratulations in advance. It can run Tera Water for even stronger STAB moves, Tera Fighting to boost damage from Drain Punch and Close Combat, Tera Normal for a stronger Boomburst, Tera Grass or Electric to hit bulky Water-types with Tera Blast, or a defensive option like Tera Fairy or Poison to facilitate setting up.</p>\n<h3>Draft Strategy</h3>\n<p>While Palafin can be built to beat many of its checks, it cannot take on all of them at once, and it especially struggles against bulky Water-types and fast Grass-types. Foes must often use specific checks and counters to beat Palafin, so drafting teammates that can take advantage of this is extremely advantageous.</p>\n<p><strong>Water-type Checks</strong>: Against Water-types that check Palafin, it can pivot to Grass-types like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/hydrapple/draft/\" hreflang=\"en\">Hydrapple</a> to maintain momentum and chip them down into range of Jet Punch. Many Tera Captains also need Tera Water to check Palafin, so these teammates are especially beneficial.</p>\n<p><strong>Top-tier Tera Captains</strong>: Palafin is always banned from Terastallizing, but it synergizes well and creates powerful offensive cores with Tera Captains like <a href=\"/dex/sv/pokemon/raging-bolt/draft/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>.</p>\n<p><strong>Entry Hazard Removal</strong>: Reliable hazard removal from Pokemon like <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/cyclizar/draft/\" hreflang=\"en\">Cyclizar</a> is generally advised on Palafin drafts, as it dislikes Toxic Spikes and chip damage and seldom wants to run Heavy-Duty Boots.</p>\n<p><strong>Bulky Backbones</strong>: Since Palafin needs to swap out of its Zero forme, it greatly appreciates a backbone that it can fall back on before it gets back on the field to take control. Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/tinkaton/draft/\" hreflang=\"en\">Tinkaton</a> go a long way to support a Palafin draft with bulk, entry hazards, and additional utility.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Water-resistant Pokemon</strong>: Many Water-resistant Pokemon go a long way in keeping Palafin at bay, as it typically wants to spam STAB moves whenever possible. Pokemon such as <a href=\"/dex/sv/pokemon/rotom-wash/draft/\" hreflang=\"en\">Rotom-Wash</a>, <a href=\"/dex/sv/pokemon/slowbro/draft/\" hreflang=\"en\">Slowbro</a>, and Raging Bolt do a solid job of limiting the sets it can afford to run, while faster Pokemon that resist Jet Punch, like Meowscarada, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/draft/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/iron-bundle/draft/\" hreflang=\"en\">Iron Bundle</a>, provide effective offensive checks, though they should be careful when switching into it directly. Many Tera Captains can also easily run Tera Water to check it.</p>\n<p><strong>Residual Damage / Status</strong>: Palafin strongly dislikes taking residual damage from entry hazards and Rocky Helmet, as it has no reliable means of recovery. It also gets strongly crippled by status effects due to additional chip damage as well as key stat drops from paralysis and burn.</p>\n<p><strong>Aggressive Play</strong>: Since Palafin is significantly weaker before it has activated its Hero forme, foes can attempt to deny it from doing so, as it is much easier to handle in its base forme. Teams with a strong offensive profile can often exploit the sorts of builds Palafin typically finds itself on, denying it the turns it needs in order to truly become effective.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 556309,
+            "username": "ThinkingSceptile"
+          },
+          {
+            "user_id": 527276,
+            "username": "Techno"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 356084,
+                "username": "Scribble"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Ubers UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Encore",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Mystic Water"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 160,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 96
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Choice Band"
+          ],
+          "teratypes": [
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              },
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wave Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Adamant"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "pokemon": "Palafin",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Zero to Hero"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Jet Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Drain Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 176,
+              "spe": 84
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Acrobatics",
+    "Agility",
+    "Aqua Jet",
+    "Aqua Tail",
+    "Astonish",
+    "Aura Sphere",
+    "Blizzard",
+    "Body Slam",
+    "Boomburst",
+    "Bounce",
+    "Bulk Up",
+    "Charm",
+    "Chilling Water",
+    "Close Combat",
+    "Counter",
+    "Disarming Voice",
+    "Dive",
+    "Double Hit",
+    "Draining Kiss",
+    "Drain Punch",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fling",
+    "Flip Turn",
+    "Focus Blast",
+    "Focus Energy",
+    "Focus Punch",
+    "Giga Impact",
+    "Grass Knot",
+    "Hard Press",
+    "Haze",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Head",
+    "Jet Punch",
+    "Liquidation",
+    "Mist",
+    "Outrage",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Reversal",
+    "Sleep Talk",
+    "Substitute",
+    "Supersonic",
+    "Surf",
+    "Swift",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Throat Chop",
+    "Tickle",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Wave Crash",
+    "Whirlpool",
+    "Zen Headbutt"
+  ]
+}

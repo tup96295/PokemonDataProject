@@ -1,0 +1,165 @@
+{
+  "name": "Meowth",
+  "alias": "meowth",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    40,
+    45,
+    35,
+    40,
+    40,
+    90
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Revenge Killer",
+          "pokemon": "Meowth",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Technician"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Fake Out",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Feint",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 236,
+              "def": 76,
+              "spa": 0,
+              "spd": 0,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 19,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Adamant"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Aerial Ace",
+    "Agility",
+    "Amnesia",
+    "Assurance",
+    "Bite",
+    "Body Slam",
+    "Charm",
+    "Chilling Water",
+    "Covet",
+    "Dark Pulse",
+    "Dig",
+    "Double-Edge",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fake Out",
+    "Fake Tears",
+    "False Swipe",
+    "Feint",
+    "Flail",
+    "Foul Play",
+    "Fury Swipes",
+    "Growl",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Hypnosis",
+    "Icy Wind",
+    "Knock Off",
+    "Lash Out",
+    "Last Resort",
+    "Metal Claw",
+    "Nasty Plot",
+    "Pain Split",
+    "Pay Day",
+    "Play Rough",
+    "Power Gem",
+    "Protect",
+    "Psych Up",
+    "Rain Dance",
+    "Rest",
+    "Scratch",
+    "Screech",
+    "Seed Bomb",
+    "Shadow Ball",
+    "Shadow Claw",
+    "Slash",
+    "Sleep Talk",
+    "Snarl",
+    "Spite",
+    "Substitute",
+    "Sunny Day",
+    "Swift",
+    "Tail Whip",
+    "Take Down",
+    "Taunt",
+    "Tera Blast",
+    "Thief",
+    "Throat Chop",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Trailblaze",
+    "U-turn"
+  ]
+}

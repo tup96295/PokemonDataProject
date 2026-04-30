@@ -1,0 +1,1184 @@
+{
+  "name": "Magnezone",
+  "alias": "magnezone",
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "stats": [
+    70,
+    70,
+    115,
+    130,
+    90,
+    60
+  ],
+  "strategies": [
+    {
+      "format": "RU",
+      "outdated": null,
+      "overview": "<p>Magnezone is a dynamic Volt Switch user thanks to its Steel typing, which allows it to check foes like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> and <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> as well as threaten big damage on incoming Ground-types like <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> with ease. Choice Specs + Analytic Magnezone is incredibly difficult for walls to check reliably, as it can threaten to 2HKO foes like Assault Vest <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> if they try to switch into an attack. With its natural bulk, Magnezone can opt to run defensive items like Assault Vest and Leftovers, allowing it to take more attacks in an attempt to pivot and wear the opposition down. As a great user of multiple Tera types, such as Fairy and Grass, Magnezone can pick and choose what walls it wants to break past, such as <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> and <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a>. Magnezone does struggle, however, to break through these common walls without Terastallization because of its lack of coverage moves. Magnezone also struggles to utilize Volt Switch at times, being prediction reliant against foes like Krookodile and Hippowdon that can come in and threaten it.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Magnezone can use Iron Defense + Body Press sets to be an effective setup sweeper, especially in conjunction with Magnet Pull to trap foes like <a href=\"/dex/sv/pokemon/klefki/ru/\" hreflang=\"en\">Klefki</a> and <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>. Steel Beam is an alternative STAB attack that trades its health to blow through would-be checks like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>. Choice Scarf is a niche but effective item on Magnezone, allowing it to dish out massive damage to unsuspecting foes like <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a>. Air Balloon, and the more niche Magnet Rise, can enable IronPress sets to great effect, letting them take on foes like <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/sv/pokemon/mamoswine/ru/\" hreflang=\"en\">Mamoswine</a> comfortably.</p>\n<h3>Checks and Counters</h3>\n<p><strong><a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a></strong>: Wo-Chien can comfortably take on Magnezone with its standard Leech Seed sets.</p>\n<p><strong>Ground-types</strong>: <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> is a notable Magnezone counter, comfortably sponging its attacks and threatening to KO it back with Earthquake. <a href=\"/dex/sv/pokemon/quagsire/ru/\" hreflang=\"en\">Quagsire</a> and <a href=\"/dex/sv/pokemon/swampert/ru/\" hreflang=\"en\">Swampert</a> are similar counters, though they're more niche and don't take it on quite as well. Offensive Ground-types force Magnezone to guess which attack to use, with threats like Krookodile punishing Volt Switch attempts.</p>\n<p><strong>Steel-type Walls</strong>: Hisuian Goodra and <a href=\"/dex/sv/pokemon/registeel/ru/\" hreflang=\"en\">Registeel</a> are notable checks to most Magnezone sets, as Hisuian Goodra resists both of its STAB moves, and both of them comfortably sponge its attacks before threatening to hit it back with Flamethrower and Body Press, respectively. <a href=\"/dex/sv/pokemon/bronzong/ru/\" hreflang=\"en\">Bronzong</a> is a niche pick that can similarly check Magnezone.</p>\n<p><strong>Electric-types</strong>: <a href=\"/dex/sv/pokemon/raikou/ru/\" hreflang=\"en\">Raikou</a> can use Magnezone as setup fodder or tank an attack from it before threatening it back with Aura Sphere or Scald. Opposing Magnezone can be problematic, as sets without Body Press or Tera Blast Ground struggle to make progress against the other. <a href=\"/dex/sv/pokemon/rotom-heat/ru/\" hreflang=\"en\">Rotom-H</a> is a niche but effective VoltTurn member that can threaten an OHKO on Magnezone with its Overheat.</p>",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Magnezone is a high-voltage wallbreaker that takes advantage of the lack of special tanks in RU to blast holes in teams. Volt Switch lets it keep momentum flowing against switch-ins like <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a>, and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a>. Tera Blast Grass targets <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, Tera Blast Ground hits opposing Magnezone, and Tera Blast Water helps against <a href=\"/dex/sv/pokemon/entei/ru/\" hreflang=\"en\">Entei</a>. Analytic lets Flash Cannon OHKO <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a> and gives it a chance to OHKO Hippowdon after Stealth Rock damage while also amping up Volt Switch to chip down switch-ins. Magnet Pull is used to trap <a href=\"/dex/sv/pokemon/empoleon/ru/\" hreflang=\"en\">Empoleon</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a> lacking U-turn, and Choice-locked Hisuian Goodra, enabling Magnezone to remove those checks for its teammates. Tera Grass lets Magnezone OHKO many Ground-types such as Hippowdon and <a href=\"/dex/sv/pokemon/gastrodon/ru/\" hreflang=\"en\">Gastrodon</a> while resisting Ground-type moves like Earthquake, making it able to revenge kill Pokemon like Krookodile and <a href=\"/dex/sv/pokemon/flygon/ru/\" hreflang=\"en\">Flygon</a>. Tera Ground is useful on Magnet Pull sets to let it OHKO Hisuian Goodra, <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a>, and opposing Magnezone. Tera Water is the more defensive Tera type, letting Magnezone resist <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>'s STAB moves and <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>'s Fire-type STAB moves and OHKO them back with Thunderbolt while still giving it a way to OHKO Ground-type switch-ins like Hippowdon.</p>\n<p>Magnezone fits well on balance and bulky offense teams and can be a strong member of a VoltTurn core alongside pivots like <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a>, <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a>, and <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a>. Magnet Pull sets enable Dragon-type attackers like Hisuian Goodra and Fairy-type attackers like <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a> to fire off powerful attacks after the opponent's Steel-type check has been trapped and eliminated. Ground-immune Pokemon are natural pairings with Magnezone, as they are able to switch into Earthquake from Hippowdon and Krookodile. Galarian Zapdos, Noivern, and <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> fit that role and are also able to take resisted Fighting-type attacks from <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> and Galarian Zapdos for Magnezone. Defensive Grass-types, like <a href=\"/dex/sv/pokemon/chesnaught/ru/\" hreflang=\"en\">Chesnaught</a> and Wo-Chien, take little damage from Earthquake and can force out Ground-types. Cyclizar and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a> are able to switch into Fire-type attacks from Armarouge and Volcanion, which look to revenge kill Magnezone. Will-O-Wisp Talonflame, Scald <a href=\"/dex/sv/pokemon/vaporeon/ru/\" hreflang=\"en\">Vaporeon</a>, and Scald Slowbro can all threaten to burn physical attackers like Krookodile and Mienshao that threaten to OHKO Magnezone. Pivot partners like Noivern, Cyclizar, and Galarian Zapdos can use U-turn to let Magnezone safely enter the field and threaten checks like Hippowdon and Gardevoir. Ground-types like Krookodile and Hippowdon can set Stealth Rock to chip down checks to Magnezone like Umbreon and Wo-Chien, while Magnezone threatens Flying- and Water-types like Talonflame and <a href=\"/dex/sv/pokemon/suicune/ru/\" hreflang=\"en\">Suicune</a>. They also can switch into the Steel-types that wall Magnezone like Hisuian Goodra, threatening them out with Earthquake. Analytic Magnezone punches holes in defensive Pokemon like Slowbro, Umbreon, and Chesnaught, allowing sweepers like Armarouge, Galarian Zapdos, and Choice Scarf <a href=\"/dex/sv/pokemon/basculegion/ru/\" hreflang=\"en\">Basculegion</a> to clean up weakened teams.</p>",
+          "abilities": [
+            "Analytic",
+            "Magnet Pull"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Grass",
+            "Ground",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Assault Vest Magnezone uses its typing that is filled with key resistances to keep in check many of RU's special attackers and walls, such as <a href=\"/dex/sv/pokemon/gardevoir/ru/\" hreflang=\"en\">Gardevoir</a>, <a href=\"/dex/sv/pokemon/jirachi/ru/\" hreflang=\"en\">Jirachi</a>, and <a href=\"/dex/sv/pokemon/slowbro/ru/\" hreflang=\"en\">Slowbro</a>, and turn them into opportunities to fire off its Analytic-boosted STAB moves. Discharge is chosen over Thunderbolt for the increased paralysis chance, as Magnezone will find many opportunities to enter the field and get a shot at paralyzing the foe. Body Press targets the would-be answers <a href=\"/dex/sv/pokemon/goodra-hisui/ru/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/chansey/ru/\" hreflang=\"en\">Chansey</a>, and Assault Vest <a href=\"/dex/sv/pokemon/cyclizar/ru/\" hreflang=\"en\">Cyclizar</a> for a super effective hit on their weaker Defense stat; it is also coverage for opposing Magnezone. Tera Blast allows Magnezone to bait out and KO specific Pokemon that might otherwise cause trouble for its teammates. Tera Blast Flying hits <a href=\"/dex/sv/pokemon/amoonguss/ru/\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/sv/pokemon/wo-chien/ru/\" hreflang=\"en\">Wo-Chien</a>, Tera Blast Water targets <a href=\"/dex/sv/pokemon/armarouge/ru/\" hreflang=\"en\">Armarouge</a>, and Tera Blast Fairy nails the many Fighting- and Dragon-type Pokemon in the tier like <a href=\"/dex/sv/pokemon/zapdos-galar/ru/\" hreflang=\"en\">Galarian Zapdos</a> and Cyclizar. Mirror Coat can surprise Pokemon such as Armarouge and Focus Blast <a href=\"/dex/sv/pokemon/gengar/ru/\" hreflang=\"en\">Gengar</a> attacking into Magnezone to KO them back, though it is prediction-reliant. Analytic is used over Magnet Pull, since the Steel-types of the tier either ignore it thanks to their access to pivoting moves or by trading damage well against Magnezone, so the added damage given by Analytic is preferred. 84 Speed EVs are needed to outspeed Wo-Chien. 116 HP EVs coupled with 56 Special Defense EVs guarantees that Magnezone can take an Armor Cannon from Timid Armarouge and retaliate. Tera Flying turns Magnezone's Ground weakness into an immunity, so Magnezone can stay in against common foes with Ground-type coverage, such as <a href=\"/dex/sv/pokemon/hippowdon/ru/\" hreflang=\"en\">Hippowdon</a>, <a href=\"/dex/sv/pokemon/krookodile/ru/\" hreflang=\"en\">Krookodile</a>, and <a href=\"/dex/sv/pokemon/volcanion/ru/\" hreflang=\"en\">Volcanion</a>. It also turns its Fighting weakness into a resistance to retaliate against the likes of Galarian Zapdos and <a href=\"/dex/sv/pokemon/terrakion/ru/\" hreflang=\"en\">Terrakion</a> and removes its Fire weakness to help out against Armarouge and Volcanion. Tera Water turns Magnezone into a sturdy switch-in to the Water- and Fire-type attackers of the tier such as Volcanion and <a href=\"/dex/sv/pokemon/basculegion-f/ru/\" hreflang=\"en\">Basculegion-F</a>. Tera Fairy is a fantastic defensive typing that grants a resistance to Fighting-type attacks and, unlike Tera Flying, does not give a Stealth Rock weakness. Tera Blast Fairy helps against key matchups such as <a href=\"/dex/sv/pokemon/bisharp/ru/\" hreflang=\"en\">Bisharp</a> and <a href=\"/dex/sv/pokemon/mienshao/ru/\" hreflang=\"en\">Mienshao</a> that carry moves that otherwise threaten Tera Flying Magnezone.</p>\n<p>Magnezone fits well on offense and balance teams looking for a Steel-type Pokemon with great offensive pressure and a pivoting option. It can also bait in key targets and, depending on the fourth move it picks, heavily weaken them and allow a teammate to wreak havoc after their check was taken care of by Magnezone. Examples of this include picking Body Press to hit Hisuian Goodra and help Armarouge getting past it or picking Tera Blast Fairy to KO Cyclizar, allowing Gengar to fire off strong Shadow Balls freely. A VoltTurn core can be formed with the likes of <a href=\"/dex/sv/pokemon/noivern/ru/\" hreflang=\"en\">Noivern</a> and <a href=\"/dex/sv/pokemon/gligar/ru/\" hreflang=\"en\">Gligar</a>, which can take the Fighting- and Ground-type attacks targeted at Magnezone; in return, Magnezone can handle their counters, such as Choice Scarf Gardevoir and Slowbro, respectively. Magnezone will often force Fighting-weak Pokemon such as Cyclizar, Hisuian Goodra, and <a href=\"/dex/sv/pokemon/umbreon/ru/\" hreflang=\"en\">Umbreon</a> in to tank Volt Switch, so Fighting-type wallbreakers like Galarian Zapdos and Mienshao appreciate having a free entry point and threaten those switch-ins. As a slow offensive Pokemon, Magnezone loves paralysis support from the likes of Thunder Wave Slowbro and Thunder Wave Gengar. Slowbro and Hippowdon are some of the sturdiest physical walls in the tier and help in providing a safe switch-in to physical wallbreakers, such as Galarian Zapdos and Mienshao, that can easily take out Magnezone. Armarouge and Volcanion are extremely dangerous Pokemon that also threaten Magnezone greatly, so Pokemon such as Umbreon, Hisuian Goodra, and Krookodile are great teammates that help play around those threats. <a href=\"/dex/sv/pokemon/talonflame/ru/\" hreflang=\"en\">Talonflame</a> and Noivern both absorb Fighting- and Ground-type attacks for Magnezone and can use Defog to remove the Spikes that prevent Magnezone from entering the field to accomplish its pivoting role many times.</p>",
+          "abilities": [
+            "Analytic"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [
+            "Flying",
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Discharge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Mirror Coat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 116,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 56,
+              "spe": 84
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 574067,
+            "username": "Freya"
+          },
+          {
+            "user_id": 614438,
+            "username": "fluff!!"
+          },
+          {
+            "user_id": 654091,
+            "username": "FlamPoke"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 598717,
+                "username": "Sneakyplanner"
+              },
+              {
+                "user_id": 654091,
+                "username": "FlamPoke"
+              },
+              {
+                "user_id": 655207,
+                "username": "Sir Tetris"
+              },
+              {
+                "user_id": 513635,
+                "username": "Rarelyme"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magnet Pull"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [
+            "Fighting"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest (Electric)",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Equipped with an Assault Vest, Magnezone turns into a bulky tank on Electric teams. With its bulk, it is able to serve as the type's best answer to strong Fairy-types such as <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>. Flash Cannon allows Magnezone to threaten Fairy- and Ice-types such as Hatterene, <a href=\"/dex/sv/pokemon/clefable/monotype/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/ninetales-alola/monotype/\" hreflang=\"en\">Alolan Ninetales</a>. Mirror Coat allows Magnezone to take advantage of its great special bulk to live a hit from some super effective coverage and punish the attacker, such as Fire Blast from Choice Specs <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a> and STAB attacks from <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a>. Analytic takes advantage of Magnezone's below average Speed tier to deal extra damage against faster threats, while Magnet Pull allows it to trap Steel-types such as Choice-locked <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/skarmory/monotype/\" hreflang=\"en\">Skarmory</a>. The HP and Special Defense EVs avoid a 2HKO from Choice Specs Flutter Mane's Shadow Ball, while the Special Attack EVs allow it to OHKO Flutter Mane back if it is not behind screens. The Speed EVs allow it to outspeed Adamant <a href=\"/dex/sv/pokemon/azumarill/monotype/\" hreflang=\"en\">Azumarill</a>.</p>\n<p>Magnezone's resistance to Fairy-type moves is appreciated by teammates such as <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/pawmot/monotype/\" hreflang=\"en\">Pawmot</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>. In return, Iron Hands and Pawmot are able to check threats to Magnezone like <a href=\"/dex/sv/pokemon/chien-pao/monotype/\" hreflang=\"en\">Chien-Pao</a>, <a href=\"/dex/sv/pokemon/kingambit/monotype/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a>, <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a>, and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a>, while Raging Bolt is able to revenge kill faster sweepers such as <a href=\"/dex/sv/pokemon/barraskewda/monotype/\" hreflang=\"en\">Barraskewda</a>. Additionally, Pawmot is able to provide unique support via Revival Blessing, allowing either Magnezone or another one of its teammates another chance. <a href=\"/dex/sv/pokemon/sandy-shocks/monotype/\" hreflang=\"en\">Sandy Shocks</a> is able to set Stealth Rock and Spikes to aid Magnezone in taking out foes, and with Earth Power, it can take out Fire-types that keep Magnezone in check such as non-Air Balloon Heatran and Choice Band <a href=\"/dex/sv/pokemon/arcanine-hisui/monotype/\" hreflang=\"en\">Hisuian Arcanine</a>. <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/sv/pokemon/zapdos/monotype/\" hreflang=\"en\">Zapdos</a> provide a Ground immunity, with Rotom-W additionally being able to check said threats like <a href=\"/dex/sv/pokemon/excadrill/monotype/\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/sv/pokemon/gliscor/monotype/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/great-tusk/monotype/\" hreflang=\"en\">Great Tusk</a>, as well as spread burns with Will-O-Wisp. With Zapdos's Flying typing, it can also handle Fighting-types such as <a href=\"/dex/sv/pokemon/zamazenta/monotype/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/breloom/monotype/\" hreflang=\"en\">Breloom</a>. Magnezone is able to handle <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> for Rotom-W and Alolan Ninetales for Zapdos.</p>",
+          "abilities": [
+            "Analytic",
+            "Magnet Pull"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mirror Coat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 0,
+              "spa": 60,
+              "spd": 24,
+              "spe": 176
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 602431,
+            "username": "CaptainDaimyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>With the advent of Regulation G allowing restricted Pokemon, Battle Stadium Singles is going through a huge shakeup! This analysis is currently outdated and covers Regulation F, so not all the information here will be relevant to the current metagame.</p>",
+      "overview": "<p>This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023. <a href=\"/dex/sv/formats/battle-stadium-singles/\">For more information on this format and its current events, check out this page!</a></p>\n<p><a href=\"/forums/threads/battle-stadium-regulation-c-analyses.3719040/\">If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Magnezone stands out as one of the best pivots in the metagame, having the tools to deal with dangerous threats such as <a href=\"/dex/sv/pokemon/iron-bundle/battle-stadium-singles/\" hreflang=\"en\">Iron Bundle</a>, <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/dondozo/battle-stadium-singles/\" hreflang=\"en\">Dondozo</a>, and <a href=\"/dex/sv/pokemon/corviknight/battle-stadium-singles/\" hreflang=\"en\">Corviknight</a>.</p>\n</li>\n<li>\n<p><strong>Mirror Coat</strong>: If using Sturdy, Mirror Coat can get a shocking KO on powerful Special Attackers that Magnezone struggles to KO, such as <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a> and <a href=\"/dex/sv/pokemon/iron-moth/battle-stadium-singles/\" hreflang=\"en\">Iron Moth</a>.</p>\n</li>\n<li>\n<p><strong>Steel Beam</strong>: Steel Beam is insanely powerful if sacrificing Magnezone's life is worth it.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Water</strong>: Offensively, Water Tera Blast nails Ground-types such as <a href=\"/dex/sv/pokemon/ting-lu/battle-stadium-singles/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/hippowdon/battle-stadium-singles/\" hreflang=\"en\">Hippowdon</a>. It also gives Magnezone a much-appreciated Fire resistance for Pokemon like Chi-Yu, Iron Moth, <a href=\"/dex/sv/pokemon/skeledirge/battle-stadium-singles/\" hreflang=\"en\">Skeledirge</a>, and <a href=\"/dex/sv/pokemon/volcarona/battle-stadium-singles/\" hreflang=\"en\">Volcarona</a>, and lets Magnezone take on Iron Bundle's Hydro Pump.</p>\n</li>\n<li>\n<p><strong>Flying</strong>: Flying has wonderful defensive synergy with Magnezone, reversing its Ground and Fighting weaknesses, and lets Tera Blast hit Grass-types harder.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: A Fairy-type Tera Blast is very useful against common Dragon-types, most notably <a href=\"/dex/sv/pokemon/garchomp/battle-stadium-singles/\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/sv/pokemon/roaring-moon/battle-stadium-singles/\" hreflang=\"en\">Roaring Moon</a>, and hitting bulky Dark-types such as Ting-Lu, <a href=\"/dex/sv/pokemon/wo-chien/battle-stadium-singles/\" hreflang=\"en\">Wo-Chien</a>, and <a href=\"/dex/sv/pokemon/umbreon/battle-stadium-singles/\" hreflang=\"en\">Umbreon</a> hard.</p>\n</li>\n<li>\n<p><strong>Fighting</strong>: Gaining a resistance to Dark allows Magnezone to surprise and defeat <a href=\"/dex/sv/pokemon/kingambit/battle-stadium-singles/\" hreflang=\"en\">Kingambit</a>, Roaring Moon, and <a href=\"/dex/sv/pokemon/hydreigon/battle-stadium-singles/\" hreflang=\"en\">Hydreigon</a>, in addition to dealing plenty of damage to Ting-Lu.</p>\n</li>\n<li>\n<p><strong>Grass</strong>: Grass has excellent defensive and offense synergy with Magnezone, especially through its utility against Ground-type attackers and Spore immunity. Most notably, Tera Blast Grass can OHKO max SpD Hippowdon with Choice Specs.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: The boost from Tera Steel makes Steel Beam absurdly powerful, with Analytic letting Choice Specs Magnezone OHKO even offensive Multiscale <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a>!</p>\n</li>\n<li>\n<p><strong>Ground</strong>: Tera Ground helps against opposing Magnezone, OHKOs Iron Moth, and deals good damage against <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a> and Kingambit.</p>\n</li>\n</ul>\n<h5>EV Spreads</h5>\n<ul>\n<li>\n<p><strong>252 HP / 252 SpA / 4 Spe with Modest</strong>: Magnezone's excellent typing means investing in bulk is a great idea. However, note that some important targets such as Corviknight and Skeledirge are a tad faster than it.</p>\n</li>\n<li>\n<p><strong>252 HP / 252 SpD / 4 Spe with Calm</strong>: With maximum Special Defense investment and Assault Vest, Magnezone becomes a good soft check against Flutter Mane and Iron Bundle, and one of the best pivots in the metagame.</p>\n</li>\n<li>\n<p><strong>252 HP / 76 SpA / 180 Spe with Modest</strong>: While this spread sacrifices a large amount of power, in exchange it outspeeds Adamant maximum Speed Kingambit, who can threaten to deal massive damage otherwise.</p>\n</li>\n<li>\n<p><strong>252 SpA / 4 SpD / 252 Spe with Modest</strong>: If using Sturdy, Magnezone can run maximum Speed to outspeed unexpected foes, such as Specially Defensive <a href=\"/dex/sv/pokemon/annihilape/battle-stadium-singles/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Assault Vest</strong>: The increase in special bulk helps Magnezone against the myriad of Choice item special attacking Dragon-types, like Hydreigon and <a href=\"/dex/sv/pokemon/dragapult/battle-stadium-singles/\" hreflang=\"en\">Dragapult</a>. If using Calm, Magnezone can even take on Flutter Mane and Iron Bundle!</p>\n</li>\n<li>\n<p><strong>Choice Specs</strong>: Choice Specs gives Magnezone a devastating amount of power, with even <a href=\"/dex/sv/pokemon/clodsire/battle-stadium-singles/\" hreflang=\"en\">Clodsire</a> having trouble handling it.</p>\n</li>\n<li>\n<p><strong>Air Balloon</strong>: The temporary Ground-type immunity helps Magnezone against foes like Garchomp and Dragonite without Terastallizing.</p>\n</li>\n</ul>\n<h5>Abilities</h5>\n<ul>\n<li>\n<p><strong>Analytic</strong>: A Magnezone boosted by both Choice Specs and Analytic is incredibly hard to switch into, making it easier for Magnezone to generate momentum.</p>\n</li>\n<li>\n<p><strong>Sturdy</strong>: With Sturdy's guaranteed survivability and Magnezone's high damage output, Magnezone will very likely take down at least one Pokemon per game. Sturdy also helps Magnezone play around Dondozo, as it can safely come in on Fissure and use Volt Switch against it, which renders Yawn moot. However, if Magnezone switches into a Yawn and not Fissure, it should be noted that Dondozo often runs Protect to block Volt Switch and ensure Magnezone falls asleep.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Analytic",
+            "Sturdy"
+          ],
+          "items": [
+            "Assault Vest",
+            "Choice Specs",
+            "Air Balloon"
+          ],
+          "teratypes": [
+            "Water",
+            "Flying",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              },
+              {
+                "move": "Steel Beam",
+                "type": null
+              },
+              {
+                "move": "Mirror Coat",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 4
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Modest",
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613881,
+            "username": "Tachipoyo"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 330577,
+                "username": "Thick Fat Azumarill"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 517429,
+                "username": "Adeleine"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magnet Pull",
+            "Analytic"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Electro Drift",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              },
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderclap",
+                "type": null
+              },
+              {
+                "move": "Doom Desire",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        },
+        {
+          "name": "Iron Defense",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magnet Pull"
+          ],
+          "items": [
+            "Chople Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Electro Drift",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderclap",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 68,
+              "atk": 0,
+              "def": 252,
+              "spa": 12,
+              "spd": 0,
+              "spe": 176
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Parabolic Charge",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Analytic"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Parabolic Charge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderclap",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 72,
+              "atk": 0,
+              "def": 184,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 17
+            }
+          ],
+          "natures": [
+            "Quiet"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 7 onwards</p>\n<p><strong>Price Range</strong>: 5-6 points</p>\n<p><strong>Overview</strong>: In theory, Magnezone is a powerful wallbreaker and slow pivot with three powerful and versatile abilities, including Magnet Pull. However, it struggles due to its poor Speed, awkward Electric / Steel typing, and lack of coverage. It gets outsped by nearly every notable offensive foe, many of which can hit it super effectively. It gets walled by opposing Electric-types, and Ground-types prevent it from pivoting and threaten it back with 4x super effective attacks. Magnet Pull is good in theory, but it cannot beat most notable Steel-types one-on-one without Terastallization, and it is very easy for opponents to give their Steel-types a Shed Shell.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Bulky Offensive</strong>: With its already-great bulk and typing, Magnezone can take hits from many wallbreakers and threaten large amounts of damage in return. It can slowly pivot with Volt Switch, and it can even be paired with Analytic to deal even more damage. With enough Speed investment, it can also catch faster bulky foes off guard by outspeeding them.</p>\n<p><strong>Trapper</strong>: With Magnet Pull, Magnezone can be built to trap and KO problematic Steel-types to enable its teammates. The strategy strongly depends on what Steel-type the opponent has, but Choice Scarf can catch faster ones, and IronPress can beat some physically offensive ones. Air Balloon is often necessary to reliably beat foes that have Ground-type coverage.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Volt Switch, Discharge, Thunderbolt, Flash Cannon</p>\n<p><strong>Setup Moves</strong>: Iron Defense</p>\n<p><strong>Utility Moves</strong>: Reflect, Light Screen, Thunder Wave, Rest, Sleep Talk, Substitute</p>\n<p><strong>Coverage</strong>: Tera Blast, Body Press</p>\n<h3>Niche Moves</h3>\n<p><strong>Magnet Rise</strong>: Magnet Rise helps Magnezone deal with Ground-types, but it is often difficult to use due to its horrible Speed. Magnet Rise is best used when a Ground-type is predicted to enter the field that turn.</p>\n<p><strong>Charge Beam</strong>: Magnezone can use Charge Beam to boost its Special Attack, allowing it to break through walls that it would otherwise struggle to beat.</p>\n<p><strong>Steel Beam</strong>: Magnezone can deal a massive amount of damage with STAB Steel Beam while KOing itself to bring in a teammate safely. This can also be paired with Sturdy + Custap Berry to be used reliably.</p>\n<p><strong>Electroweb</strong>: Electroweb can be used to stop Speed-boosting setup sweepers or slow faster foes down to potentially let Magnezone outspeed them.</p>\n<p><strong>Mirror Coat</strong>: Magnezone can trade itself by KOing a special wallbreaker with Mirror Coat + Sturdy.</p>\n<h3>Common Items</h3>\n<p><strong>Air Balloon</strong>: With its massive weakness to Ground, Air Balloon is often needed to take hits and avoid unexpected coverage, especially on sets without Sturdy.</p>\n<p><strong>Leftovers</strong>: Magnezone's good bulk and typing allow it to be a solid defensive Pokemon that can stay healthy with Leftovers, especially since it does not fear entry hazards much.</p>\n<p><strong>Custap Berry</strong>: With Sturdy, Magnezone can surprise a foe by outspeeding it, often using a powerful move like Steel Beam. This works especially great against opposing wincons.</p>\n<p><strong>Resistance Berries</strong>: While Ground-type moves still do lots of damage to Magnezone with a Shuca Berry, it can be preferable if it expects to take damage beforehand. Chople and Occa Berry are also great ways for it to lure Fighting- and Fire-types, respectively.</p>\n<h3>Niche Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: Heavy-Duty Boots helps keep Magnezone's Sturdy intact against teams with entry hazard setters.</p>\n<p><strong>Damage-boosting items</strong>: While Magnezone's Special Attack is already great, it can sometimes benefit from a little more power from items like Magnet and Choice Specs.</p>\n<p><strong>Choice Scarf</strong>: Magnezone can surprise foes by outspeeding them with a Choice Scarf, but it still fails to outpace many unboosted foes, making it easy to revenge kill afterwards.</p>\n<p><strong>Light Clay</strong>: Magnezone can set dual screens and slowly pivot to teammates that can benefit from them. Light Clay ensures that they have plenty of time to take advantage of the reduced damage.</p>\n<p><strong>Assault Vest</strong>: Assault Vest can make Magnezone a solid check to special wallbreakers while still being able to pivot and deal large amounts of damage.</p>\n<h3>Tera</h3>\n<p>Magnezone makes for a solid secondary Tera Captain, as Terastallization helps patch most of its major weaknesses. Tera Flying is a common way to check Ground-types, especially ones that it wants to trap, such as <a href=\"/dex/sv/pokemon/iron-treads/draft/\" hreflang=\"en\">Iron Treads</a>. Tera Ground, Fire, and Fighting help it break through typical checks with Tera Blast, and they can also help against Steel-types. It can also benefit from defensive Tera types like Fairy, Poison, and Water to check specific foes.</p>\n<h3>Draft Strategy</h3>\n<p>Magnezone is an awkward Pokemon to use due to its poor Speed, lack of coverage, and weakness to Ground. It should typically be considered on teams that lack a more viable Steel-type, need additional offensive power, and are not concerned about opposing Ground-types.</p>\n<p><strong>Ground-type Checks</strong>: Magnezone invites Ground-types onto the field, so it appreciates teammates that can safely switch in on their attacks and handle them in return, like <a href=\"/dex/sv/pokemon/landorus/draft/\" hreflang=\"en\">Landorus</a>, <a href=\"/dex/sv/pokemon/uxie/draft/\" hreflang=\"en\">Uxie</a>, and <a href=\"/dex/sv/pokemon/rillaboom/draft/\" hreflang=\"en\">Rillaboom</a>.</p>\n<p><strong>Pivots</strong>: Pivots like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/palafin/draft/\" hreflang=\"en\">Palafin</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a> can safely bring Magnezone in on foes that lack the necessary coverage to beat it or Steel-types that it can trap. In return, Magnezone can slowly pivot to bring them in safely.</p>\n<p><strong>Knock Off Users</strong>: When Magnezone wants to trap and KO Steel-types, teammates that can remove their Shed Shell like <a href=\"/dex/sv/pokemon/samurott-hisui/draft/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/draft/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a> are important to have.</p>\n<p><strong>Steel-weak Pokemon</strong>: Magnezone can trap and remove problematic Steel-types or force them to run Shed Shell, allowing teammates that struggle against them like <a href=\"/dex/sv/pokemon/ogerpon/draft/\" hreflang=\"en\">Ogerpon</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/draft/\" hreflang=\"en\">Deoxys-S</a> to shine.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Faster Foes</strong>: Magnezone almost never gets to move first, especially against offensive foes that can threaten a lot of damage on it before it can do anything. While it has Sturdy, it often wants to maintain it, and pivoting moves and entry hazards can easily nullify it.</p>\n<p><strong>Ground-types</strong>: Ground-types can easily switch in on Magnezone to block it from using Volt Switch and threaten a KO in return. It especially struggles against foes that also resist Flash Cannon, such as <a href=\"/dex/sv/pokemon/swampert/draft/\" hreflang=\"en\">Swampert</a> and Iron Treads.</p>\n<p><strong>Electric-types</strong>: Magnezone's STAB combination is not very effective against Electric-types, allowing them to easily wall it. While many Electric-types struggle hitting it in return, some have ways to do so, including <a href=\"/dex/sv/pokemon/sandy-shocks/draft/\" hreflang=\"en\">Sandy Shocks</a>, <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/bellibolt/draft/\" hreflang=\"en\">Bellibolt</a>.</p>\n<p><strong>Shed Shell</strong>: Steel-types that are prone to being trapped, such as <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/empoleon/draft/\" hreflang=\"en\">Empoleon</a>, can easily use a Shed Shell to swap out and bring in a Ground-type on the expected Volt Switch.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 527276,
+            "username": "Techno"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 313217,
+                "username": "Thanos"
+              },
+              {
+                "user_id": 599989,
+                "username": "scionicle"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Scarf (Spe)",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Magnet Pull"
+          ],
+          "items": [
+            "Choice Scarf"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Choice Specs Magnezone's ability to trap Steel-types like <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> thanks to Magnet Pull makes it the perfect enabler to Pokemon like <a href=\"/dex/sv/pokemon/gardevoir-mega/national-dex-uu/\" hreflang=\"en\">Mega Gardevoir</a>, <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>, which usually struggle to break past these Pokemon. Hidden Power Fire guarantees the OHKO on Scizor and deals heavy damage to <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> switching in. Hidden Power Grass hits the few Pokemon able to withstand Magnezone's STAB combination in <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a> and <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a>. Toxic wears down the aforementioned Ground-types while being a more effective way to pressure <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and Mega Latias long-term. A Timid nature allows Magnezone to outspeed Adamant <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a> and Mega Venusaur, but Modest can be used for extra power, notably 2HKOing specially defensive Hippowdon with Flash Cannon if the ability to outspeed said Pokemon is not needed. Choice Specs Magnezone fits best on bulky offense teams and works extremely well with Pokemon able to lure in Steel-types for it. <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>, U-turn Scizor, and <a href=\"/dex/sv/pokemon/lokix/national-dex-uu/\" hreflang=\"en\">Lokix</a> can bring Magnezone in safely against Skarmory; Scizor in particular becomes a deadly late-game sweeper with Swords Dance and can threaten out a lot of Magnezone's revenge killers in Mienshao, <a href=\"/dex/sv/pokemon/aerodactyl-mega/national-dex-uu/\" hreflang=\"en\">Mega Aerodactyl</a>, and <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-uu/\" hreflang=\"en\">Mega Gallade</a> with Bullet Punch. Mega Latias, Mega Gardevoir, and Mega Venusaur love Celesteela being removed; in return, these Pokemon can pressure Mega Venusaur and <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>. Offensive Mega Venusaur can easily beat Ground-types trying to block Magnezone's Volt Switch like Gastrodon and Hippowdon and usually forces Steel-types like Skarmory and Celesteela in for Magnezone to trap them. Defensive pivots like <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/sv/pokemon/slowking/national-dex-uu/\" hreflang=\"en\">Slowking</a>, and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-uu/\" hreflang=\"en\">Rotom-W</a> are good partners to handle Fighting- and Fire-types that threaten Magnezone, such as Mienshao, <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a>; they can also help against Ground-types like Excadrill and Hippowdon and bring Magnezone in safely against Pokemon such as <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>.</p>",
+          "abilities": [
+            "Magnet Pull"
+          ],
+          "items": [
+            "Choice Specs"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              },
+              {
+                "move": "Hidden Power",
+                "type": "Grass"
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Modest"
+          ]
+        },
+        {
+          "name": "Substitute + 3 Attacks",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Substitute lets Magnezone take advantage of switches from foes it forces out such as <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a> and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a> and exploit status moves like <a href=\"/dex/sv/pokemon/amoonguss/national-dex-uu/\" hreflang=\"en\">Amoonguss</a>'s and <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>'s Leech Seed. Hidden Power Grass targets <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a>, <a href=\"/dex/sv/pokemon/quagsire/national-dex-uu/\" hreflang=\"en\">Quagsire</a>, and some rare foes like <a href=\"/dex/sv/pokemon/swampert/national-dex-uu/\" hreflang=\"en\">Swampert</a>. Electrium Z powering up Thunderbolt helps Magnezone break through certain foes it traps such as <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a> and specially defensive Celesteela; Steelium Z primarily helps against Ground- and Grass-types such as <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a>. Magenzone best fits on offense teams looking to remove certain Steel-types, namely <a href=\"/dex/sv/pokemon/skarmory/national-dex-uu/\" hreflang=\"en\">Skarmory</a> and Celesteela. This enables numerous teammates such as Scizor. Since it fears taking Skarmory's Body Press and Celesteela's Flamethrower upon switching in, a pivot that can lure them in like <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a> or Scizor is a great partner. A Stealth Rock setter like Clefable can let Magnezone avoid Sturdy to OHKO Skarmory. Magnezone is completely helpless against <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a>, so Grass- and Water-types such as <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a> and Slowbro can help by dealing with them. After removing opposing Steel-types, Magnezone isn't particularly useful, though it's still a reasonably strong special wallbreaker, especially if it still can use its Z-Move. It struggles with special walls like <a href=\"/dex/sv/pokemon/blissey/national-dex-uu/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/chansey/national-dex-uu/\" hreflang=\"en\">Chansey</a>, so physical wallbreakers, notably Pursuit trappers like <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, can help by removing them.</p>",
+          "abilities": [
+            "Magnet Pull"
+          ],
+          "items": [
+            "Electrium Z",
+            "Steelium Z"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Grass"
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535121,
+            "username": "gu"
+          },
+          {
+            "user_id": 535530,
+            "username": "Gangsta Spongebob"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 514772,
+                "username": "sealoo"
+              },
+              {
+                "user_id": 546157,
+                "username": "Iride"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 511181,
+                "username": "Rose"
+              },
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Air Balloon (Electric)",
+          "pokemon": "Magnezone",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Magnezone draws in troublesome Pokemon like <a href=\"/dex/sv/pokemon/ferrothorn/national-dex-monotype/\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/sv/pokemon/excadrill/national-dex-monotype/\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/sv/pokemon/klefki/national-dex-monotype/\" hreflang=\"en\">Klefki</a> to convert them to scrap metal while serving as a reliable switch-in to Moonblast from <a href=\"/dex/sv/pokemon/tapu-lele/national-dex-monotype/\" hreflang=\"en\">Tapu Lele</a> and <a href=\"/dex/sv/pokemon/enamorus/national-dex-monotype/\" hreflang=\"en\">Enamorus</a> for Electric teams. Hidden Power Fire is essential for dealing as much damage as possible before Klefki or Excadrill set too many entry hazards or break Magnezone after enough attacks. Flash Cannon obliterates Fairy-types such as <a href=\"/dex/sv/pokemon/diancie-mega/national-dex-monotype/\" hreflang=\"en\">Mega Diancie</a> and Tapu Lele. Substitute allows Magnezone to block Leech Seed from Ferrothorn and <a href=\"/dex/sv/pokemon/celesteela/national-dex-monotype/\" hreflang=\"en\">Celesteela</a>, and it also provides an opportunity to secure a second OHKO against Fairy teams after trapping and eliminating Klefki. Volt Switch helps Magnezone to maintain momentum and chip away at <a href=\"/dex/sv/pokemon/corviknight/national-dex-monotype/\" hreflang=\"en\">Corviknight</a> before it inevitably uses U-turn turns, while Thunderbolt 2HKOes Celesteela. The first EV spread lets Magnezone survive two Moonblasts from Choice Specs Tapu Lele while still being able to outspeed <a href=\"/dex/sv/pokemon/skarmory/national-dex-monotype/\" hreflang=\"en\">Skarmory</a>. Maximum Special Attack and Speed can be considered, as this lets Magnezone outspeed and OHKO most variants of <a href=\"/dex/sv/pokemon/scizor-mega/national-dex-monotype/\" hreflang=\"en\">Mega Scizor</a> before getting OHKOed by it. As Magnezone is able to deal with Steel-types like Ferrothorn and Excadrill, which take Electric-type attacks with ease, Rising Voltage users like <a href=\"/dex/sv/pokemon/regieleki/national-dex-monotype/\" hreflang=\"en\">Regieleki</a> and <a href=\"/dex/sv/pokemon/raichu-alola/national-dex-monotype/\" hreflang=\"en\">Alolan Raichu</a> greatly benefit from having Magnezone as a teammate. In return, these teammates provide speed control, dealing with <a href=\"/dex/sv/pokemon/iron-valiant/national-dex-monotype/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/volcarona/national-dex-monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/national-dex-monotype/\" hreflang=\"en\">Ogerpon-W</a>. <a href=\"/dex/sv/pokemon/tapu-koko/national-dex-monotype/\" hreflang=\"en\">Tapu Koko</a> benefits from Celesteela getting removed, as this means it's able to use Hidden Power Ice more freely against Flying teams, and it deals with <a href=\"/dex/sv/pokemon/kommo-o/national-dex-monotype/\" hreflang=\"en\">Kommo-o</a> and <a href=\"/dex/sv/pokemon/gallade-mega/national-dex-monotype/\" hreflang=\"en\">Mega Gallade</a>. <a href=\"/dex/sv/pokemon/zapdos/national-dex-monotype/\" hreflang=\"en\">Zapdos</a> and <a href=\"/dex/sv/pokemon/rotom-wash/national-dex-monotype/\" hreflang=\"en\">Rotom-W</a> are great Ground-immune teammates to fall back on after Magnezone's Air Balloon is popped, and Rotom-W appreciates the removal of Mold Breaker Excadrill, which otherwise threatens it. <a href=\"/dex/sv/pokemon/raging-bolt/national-dex-monotype/\" hreflang=\"en\">Raging Bolt</a> becomes even scarier once Steel-types are removed by Magnezone, allowing it to spam Draco Meteor with impunity. <a href=\"/dex/sv/pokemon/iron-hands/national-dex-monotype/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/zeraora/national-dex-monotype/\" hreflang=\"en\">Zeraora</a> appreciate Magnezone removing Klefki in the Fairy matchup, preventing it from setting its dual screens, and trapping Protect scouters like Ferrothorn in Steel teams, which allows them to play more aggressively against these teams. Magnezone also is a slow pivot that brings in these wallbreakers, which is greatly appreciated by most Electric-types.</p>",
+          "abilities": [
+            "Magnet Pull"
+          ],
+          "items": [
+            "Air Balloon"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Hidden Power",
+                "type": "Fire"
+              }
+            ],
+            [
+              {
+                "move": "Flash Cannon",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 104,
+              "spd": 64,
+              "spe": 88
+            },
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Modest"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 542526,
+            "username": "Neko"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 635656,
+                "username": "Irys"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 528364,
+                "username": "adorluigi"
+              },
+              {
+                "user_id": 589016,
+                "username": "Danbear02"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Body Press",
+    "Body Slam",
+    "Charge",
+    "Charge Beam",
+    "Confuse Ray",
+    "Discharge",
+    "Double-Edge",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Electro Ball",
+    "Electroweb",
+    "Endure",
+    "Explosion",
+    "Facade",
+    "Flash Cannon",
+    "Giga Impact",
+    "Gravity",
+    "Gyro Ball",
+    "Hard Press",
+    "Heavy Slam",
+    "Helping Hand",
+    "Hyper Beam",
+    "Iron Defense",
+    "Iron Head",
+    "Light Screen",
+    "Lock-On",
+    "Magnetic Flux",
+    "Magnet Rise",
+    "Metal Sound",
+    "Mirror Coat",
+    "Protect",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Sandstorm",
+    "Screech",
+    "Sleep Talk",
+    "Spark",
+    "Steel Beam",
+    "Substitute",
+    "Sunny Day",
+    "Supercell Slam",
+    "Supersonic",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Shock",
+    "Thunder Wave",
+    "Tri Attack",
+    "Volt Switch",
+    "Wild Charge",
+    "Zap Cannon"
+  ]
+}

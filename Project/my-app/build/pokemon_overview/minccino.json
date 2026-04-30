@@ -1,0 +1,150 @@
+{
+  "name": "Minccino",
+  "alias": "minccino",
+  "types": [
+    "Normal"
+  ],
+  "stats": [
+    55,
+    50,
+    40,
+    40,
+    40,
+    75
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Skill Link Attacker",
+          "pokemon": "Minccino",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "",
+          "abilities": [
+            "Skill Link"
+          ],
+          "items": [
+            "Life Orb"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Tail Slap",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Tidy Up",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 76,
+              "atk": 196,
+              "def": 0,
+              "spa": 0,
+              "spd": 0,
+              "spe": 236
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "After You",
+    "Alluring Voice",
+    "Aqua Tail",
+    "Baby-Doll Eyes",
+    "Baton Pass",
+    "Bullet Seed",
+    "Calm Mind",
+    "Charm",
+    "Chilling Water",
+    "Dazzling Gleam",
+    "Dig",
+    "Echoed Voice",
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Facade",
+    "Fake Tears",
+    "Flail",
+    "Fling",
+    "Grass Knot",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Mud-Slap",
+    "Play Rough",
+    "Pound",
+    "Protect",
+    "Rain Dance",
+    "Rest",
+    "Seed Bomb",
+    "Sing",
+    "Slam",
+    "Sleep Talk",
+    "Substitute",
+    "Sunny Day",
+    "Super Fang",
+    "Swift",
+    "Tail Slap",
+    "Tail Whip",
+    "Take Down",
+    "Tera Blast",
+    "Thief",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Tickle",
+    "Tidy Up",
+    "Trailblaze",
+    "Triple Axel",
+    "Uproar",
+    "U-turn"
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "name": "Slowking",
+  "alias": "slowking",
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "stats": [
+    95,
+    75,
+    80,
+    100,
+    110,
+    30
+  ],
+  "strategies": [
+    {
+      "format": "UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility Pivot",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Slowking leverages its good typing and Regenerator to be a great pivot in UU. Scald punishes foes trying to threaten it out such as <a href=\"/dex/sv/pokemon/lokix/uu/\" hreflang=\"en\">Lokix</a> and <a href=\"/dex/sv/pokemon/ogerpon/uu/\" hreflang=\"en\">Ogerpon</a>. Thunder Wave slows down foes such as <a href=\"/dex/sv/pokemon/tornadus-therian/uu/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/latios/uu/\" hreflang=\"en\">Latios</a>. On teams where the speed control is not needed, Future Sight is a good alternative to support its teammates with extra damage. Chilly Reception is key for bringing teammates in safely while pairing very well with Future Sight. It can also be used to clear sand. The first EV spread allows it to take on physical attackers like <a href=\"/dex/sv/pokemon/mamoswine/uu/\" hreflang=\"en\">Mamoswine</a> and +2 <a href=\"/dex/sv/pokemon/excadrill/uu/\" hreflang=\"en\">Excadrill</a>, while the second EV spread lets it survive Choice Specs Tera Dragon Draco Meteor from Latios. 0 Speed IVs make Slowking as slow as possible to ensure that Chilly Reception can pivot in a teammate without taking any damage. Tera Fairy flips its weakness to Dark and Bug while gaining a Dragon immunity, letting it paralyze <a href=\"/dex/sv/pokemon/greninja/uu/\" hreflang=\"en\">Greninja</a> and Ogerpon while more safely switching into <a href=\"/dex/sv/pokemon/hydrapple/uu/\" hreflang=\"en\">Hydrapple</a>. Tera Water is a decent alternative that retains its Water resistance so it can still check <a href=\"/dex/sv/pokemon/azumarill/uu/\" hreflang=\"en\">Azumarill</a> and <a href=\"/dex/sv/pokemon/keldeo/uu/\" hreflang=\"en\">Keldeo</a> while boosting Scald’s damage, OHKOing <a href=\"/dex/sv/pokemon/rhyperior/uu/\" hreflang=\"en\">Rhyperior</a> and Excadrill with slight chip damage.</p>\n<p>Slowking fits best on bulky offense and balance teams that appreciate the speed control and consistent pivoting. Hydrapple forms a fantastic Regenerator core with Slowking, as it can easily handle Ogerpon as well as shared checks in Lokix and Latios if it Terastalizes. Slowking can also use Thunder Wave to slow down <a href=\"/dex/sv/pokemon/tinkaton/uu/\" hreflang=\"en\">Tinkaton</a> and opposing Hydrapple. Lokix is another excellent partner for Slowking, as it can be brought in safely by Chilly Reception to revenge kill a foe like Excadrill. It is also able to threaten Dark-types, which are immune to Future Sight, such as <a href=\"/dex/sv/pokemon/tyranitar/uu/\" hreflang=\"en\">Tyranitar</a>, opposing Lokix, and <a href=\"/dex/sv/pokemon/mandibuzz/uu/\" hreflang=\"en\">Mandibuzz</a> with Knock Off. Slower wallbreakers like Choice Specs Hydrapple and Mamoswine love Slowking slowing down <a href=\"/dex/sv/pokemon/cobalion/uu/\" hreflang=\"en\">Cobalion</a>, Tinkaton, and Tornadus-T for them. The latter also appreciates the Defense boost from snow, letting it easily take priority moves from Lokix, <a href=\"/dex/sv/pokemon/scizor/uu/\" hreflang=\"en\">Scizor</a>, and Azumarill. Slowking also appreciates teammates that handle Grass-types like Hydrapple and Ogerpon. Scizor and Assault Vest Tornadus-T form a good pivot core, with the latter helping on take on Latios for physically defensive variants. <a href=\"/dex/sv/pokemon/skeledirge/uu/\" hreflang=\"en\">Skeledirge</a> appreciates Slowking spreading status for Hex to deal more damage as well. Tinkaton can run Thunder Wave itself, opening up Slowking to use Future Sight while checking <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/uu/\" hreflang=\"en\">Ogerpon-C</a>, Lokix, and Latios. Weather Ball users like Nasty Plot Tornadus-T, <a href=\"/dex/sv/pokemon/thundurus-therian/uu/\" hreflang=\"en\">Thundurus-T</a>, and <a href=\"/dex/sv/pokemon/raikou/uu/\" hreflang=\"en\">Raikou</a> also appreciate the Ice coverage from snow, allowing them to nail Hydrapple and Ogerpon-C.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 240,
+              "spa": 0,
+              "spd": 16,
+              "spe": 0
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy",
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 524894,
+            "username": "cheru"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 515132,
+                "username": "Monky25"
+              },
+              {
+                "user_id": 344575,
+                "username": "Twilight"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "OU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed",
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": null,
+      "overview": "<h3>Psychic</h3>\n<p>Slowking finds stiff competition from <a href=\"/dex/sv/pokemon/slowbro/monotype/\" hreflang=\"en\">Slowbro</a>, which is the far superior physical wall that can be a potential wincon with Iron Defense + Body Press. Additionally, Psychic teams greatly wish to have more offensive teammates, which creates issues with fitting Slowking onto these builds. However, Slowking's access to Chilly Reception can enable this offense, which is desirable.</p>\n<h4>Water</h4>\n<p>Slowking finds a niche as a special bulky pivot for Water teams. It allows free entrance for Water breakers life <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a> while denying other weathers thanks to Chilly Reception. Future Sight into Chilly Reception creates a devastating delayed double attack when paired with a breaker, forcing the opponent to choose between sending out a Pokemon that resists the attacks of the breaker or one that resists Future Sight; the extra damage allows these breakers to obtain better ranges.. Slowking's excellent special bulk allows it to take a hit from full HP from special attackers like Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a>, and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a> and paralyze them. However, it can become free setup fodder for threats like <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/iron-hands/monotype/\" hreflang=\"en\">Iron Hands</a>, and <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>. Moreover, Slowking struggles in this metagame composed mostly by physical attackers, especially because it's weak to two common moves in Knock Off and U-turn.</p>",
+      "comments": "<h3>Other Options</h3>\n<h4>Water</h4>\n<p>Ice Beam can be helpful on defensive archetypes, denying setup from <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a>.</p>",
+      "movesets": [
+        {
+          "name": "Bulky Pivot (Psychic)",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Slowking finds a role on Psychic teams thanks to its serviceable natural bulk along with access to Chilly Reception, enabling teammates like <a href=\"/dex/sv/pokemon/hoopa-unbound/monotype/\" hreflang=\"en\">Hoopa-U</a>, <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/iron-boulder/monotype/\" hreflang=\"en\">Iron Boulder</a> with safe entry. Scald is able to pressure Fire- and Ground-types like <a href=\"/dex/sv/pokemon/cinderace/monotype/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/mamoswine/monotype/\" hreflang=\"en\">Mamoswine</a> while also allowing Slowking to fish for burns. Thunder Wave can let Slowking cripple faster threats like <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> and, with a Kasib Berry, paralyze Ghost-types like <a href=\"/dex/sv/pokemon/spectrier/monotype/\" hreflang=\"en\">Spectrier</a> and <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, enabling its teammates to safely outspeed and remove them. Foul Play can punish threats such as Swords Dance <a href=\"/dex/sv/pokemon/garchomp/monotype/\" hreflang=\"en\">Garchomp</a>. Heavy-Duty Boots is recommended, as it grants Slowking immunity to entry hazard damage. Alternatively, Slowking can use no item to reduce the damage from Knock Off, notably allowing itself to survive two Knock Offs from Choice Scarf <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a>, along with preventing <a href=\"/dex/sv/pokemon/ceruledge/monotype/\" hreflang=\"en\">Ceruledge</a> from removing it with Poltergeist so that it can remove Ceruledge in response with Foul Play.</p>\n<p>As mentioned before, teammates like Hoopa-U and Iron Boulder are great beneficiaries of Slowking's Chilly Reception, which enables them to hit the field safely. Hoopa-U can check Ghost-types such as <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/sinistcha/monotype/\" hreflang=\"en\">Sinistcha</a>, and Spectrier with its Dark-type STAB moves, and it can use powerful coverage such as Thunderbolt to remove Flying- and Water-types such as <a href=\"/dex/sv/pokemon/moltres/monotype/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/pelipper/monotype/\" hreflang=\"en\">Pelipper</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. Alternatively, Choice Scarf Hoopa-U can outspeed and remove foes like Flutter Mane and opposing Hoopa-U comfortably with Hyperspace Fury. Choice Scarf Iron Boulder, meanwhile, provides incredible speed control, outspeeding threats such as Meowscarada and Choice Specs Flutter Mane, and can handle Fire- and Bug-types like <a href=\"/dex/sv/pokemon/ogerpon-hearthflame/monotype/\" hreflang=\"en\">Ogerpon-H</a>, <a href=\"/dex/sv/pokemon/volcarona/monotype/\" hreflang=\"en\">Volcarona</a>, and <a href=\"/dex/sv/pokemon/kleavor/monotype/\" hreflang=\"en\">Kleavor</a> with ease. Choice Specs Latios provides handy Grass and Electric resistances and can use Draco Meteor to nail specially offensive Dragon-types that threaten Slowking such as <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/kyurem/monotype/\" hreflang=\"en\">Kyurem</a> along with using coverage in Ice Beam to remove Grass-types like <a href=\"/dex/sv/pokemon/brambleghast/monotype/\" hreflang=\"en\">Brambleghast</a>. <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a> is a strong defensive complement to Slowking, being able to handle Dark-types such as <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a> and break other problematic threats like <a href=\"/dex/sv/pokemon/primarina/monotype/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/blissey/monotype/\" hreflang=\"en\">Blissey</a> with Calm Mind; in return, it appreciates Slowking checking Steel-types such as <a href=\"/dex/sv/pokemon/heatran/monotype/\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>. <a href=\"/dex/sv/pokemon/metagross/monotype/\" hreflang=\"en\">Metagross</a> can provide Stealth Rock support to wear down foes that don't mind entering in on Slowking like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/monotype/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a>, and it can use Bullet Punch to check <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a> and Flutter Mane. Slowking can enable safe entry for <a href=\"/dex/sv/pokemon/armarouge/monotype/\" hreflang=\"en\">Armarouge</a>, and in return, Armarouge can smash Steel-types like Gholdengo and <a href=\"/dex/sv/pokemon/archaludon/monotype/\" hreflang=\"en\">Archaludon</a>. Nasty Plot <a href=\"/dex/sv/pokemon/deoxys-speed/monotype/\" hreflang=\"en\">Deoxys-S</a> can outspeed and handle the likes of <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> and <a href=\"/dex/sv/pokemon/landorus/monotype/\" hreflang=\"en\">Landorus</a> with Thunderbolt and Ice Beam, respectively. <a href=\"/dex/sv/pokemon/gallade/monotype/\" hreflang=\"en\">Gallade</a> can threaten Dark- and Steel-types like <a href=\"/dex/sv/pokemon/ting-lu/monotype/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, and Hiusian <a href=\"/dex/sv/pokemon/goodra/monotype/\" hreflang=\"en\">Goodra</a> for Slowking. <a href=\"/dex/sv/pokemon/indeedee/monotype/\" hreflang=\"en\">Indeedee-M</a> can provide Healing Wish support while using its Normal typing to come in on Ghost-types like <a href=\"/dex/sv/pokemon/pecharunt/monotype/\" hreflang=\"en\">Pecharunt</a> and threaten them back with a powerful Psychic Terrain-boosted Expanding Force.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Kasib Berry",
+            "No Item"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Foul Play",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Bold"
+          ]
+        },
+        {
+          "name": "Bulky Pivot (Water)",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Slowking has serviceable natural bulk along with access to Chilly Reception, granting teammates like <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/monotype/\" hreflang=\"en\">Urshifu-R</a>, <a href=\"/dex/sv/pokemon/basculegion-f/monotype/\" hreflang=\"en\">Basculegion-F</a>, <a href=\"/dex/sv/pokemon/keldeo/monotype/\" hreflang=\"en\">Keldeo</a>, and <a href=\"/dex/sv/pokemon/greninja/monotype/\" hreflang=\"en\">Greninja</a> safe entry. It also helps against other weathers like sand, sun, and rain by replacing them and disrupting their strategy. Future Sight is the main offensive move, creating a nice combination with Chilly Reception to pressure the opposing team and maintain momentum. Scald prevents Slowking from being entirely passive through its threat to burn, which helps its teammates tank some hits. However, Thunder Wave can let Slowking hinder faster threats like <a href=\"/dex/sv/pokemon/dragapult/monotype/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/flutter-mane/monotype/\" hreflang=\"en\">Flutter Mane</a>, and <a href=\"/dex/sv/pokemon/latios/monotype/\" hreflang=\"en\">Latios</a>, enabling its teammates to safely outspeed and remove them. Heavy-Duty Boots is recommended, as it grants Slowking immunity to entry hazard damage; Water teams typically lack entry hazard removal, and Slowking wants to switch in frequently. The given spread maximizes Regenerator recovery while maximizing Special Defense.</p>\n<p>Slowking's best teammate is Urshifu-R. It benefits greatly from Slowking's Future Sight and Chilly Reception, which enables it to hit the field safely while threatening with a dangerous combination of Close Combat + Future Sight or Surging Strikes + Future Sight against <a href=\"/dex/sv/pokemon/muk-alola/monotype/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/corviknight/monotype/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/clodsire/monotype/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/toxapex/monotype/\" hreflang=\"en\">Toxapex</a>. Basculegion-F appreciates the slow pivot and perfect accuracy for Blizzard. Basculegion-F can use Blizzard to punch holes in Dragon-type teams, as well as using Shadow Ball to take care of Ghost- and Psychic-type Pokemon, such as non-Choice Scarf <a href=\"/dex/sv/pokemon/gholdengo/monotype/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/latias/monotype/\" hreflang=\"en\">Latias</a>, and <a href=\"/dex/sv/pokemon/hatterene/monotype/\" hreflang=\"en\">Hatterene</a>. Keldeo and Greninja are other options for wallbreakers. Keldeo deals with <a href=\"/dex/sv/pokemon/goodra-hisui/monotype/\" hreflang=\"en\">Hisuian Goodra</a> and picks off <a href=\"/dex/sv/pokemon/meowscarada/monotype/\" hreflang=\"en\">Meowscarada</a> with Vacuum Wave. Greninja with a Choice Scarf is able to outspeed Dragapult, Choice Scarf <a href=\"/dex/sv/pokemon/iron-valiant/monotype/\" hreflang=\"en\">Iron Valiant</a>, and Choice Scarf <a href=\"/dex/sv/pokemon/roaring-moon/monotype/\" hreflang=\"en\">Roaring Moon</a>, as well as threatening the <a href=\"/dex/sv/pokemon/ogerpon/monotype/\" hreflang=\"en\">Ogerpon</a> formes with Sludge Wave. <a href=\"/dex/sv/pokemon/samurott-hisui/monotype/\" hreflang=\"en\">Hisuian Samurott</a> resists a Ghost, provides hazard support with Ceaseless Edge, and packs a priority option in Sucker Punch. Toxapex is a great defensive option that creates a nice Regenerator core with Slowking, spreading poison and taking hits from Meowscarada, the Ogerpon formes, and Roaring Moon. <a href=\"/dex/sv/pokemon/swampert/monotype/\" hreflang=\"en\">Swampert</a> is another bulky pivot that able to deal with Electric-type moves coming from <a href=\"/dex/sv/pokemon/raging-bolt/monotype/\" hreflang=\"en\">Raging Bolt</a> and set up Stealth Rock. <a href=\"/dex/sv/pokemon/rotom-wash/monotype/\" hreflang=\"en\">Rotom-W</a> is also a nice pivot that is immune to Ground-type moves and able to deal with <a href=\"/dex/sv/pokemon/dragonite/monotype/\" hreflang=\"en\">Dragonite</a> or Dragon Dance Dragapult with Will-O-Wisp or Foul Play, respectively.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 622813,
+            "username": "Pengairxan"
+          },
+          {
+            "user_id": 623356,
+            "username": "cpt.kraken"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 246753,
+                "username": "RoyalReloaded"
+              },
+              {
+                "user_id": 637295,
+                "username": "boomp"
+              },
+              {
+                "user_id": 542526,
+                "username": "Neko"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              },
+              {
+                "user_id": 671106,
+                "username": "ambi_"
+              },
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "STABmons",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest Pivot",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Assault Vest"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Lumina Crash",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 248,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 31,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 5 onwards</p>\n<p><strong>Price Range</strong>: 8-9 points</p>\n<p><strong>Overview</strong>: Slowking is a strong defensive pivot, with key resistances from its Water typing, good defensive stats, and reliable recovery backed by Regenerator. It is very adept at positioning its offensive teammates due to Chilly Reception and its ability to occasionally force switches through its own offensive capabilities, having respectable special attacking stats and a surprisingly good movepool. It is, however, held back by crippling weaknesses to Dark and Ghost and its lower Defense and is thus harder to fit onto teams compared to other defensive Water-types.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Defensive Pivot</strong>: Slowking has very good Special Defense and often uses this paired with its longevity to switch in multiple times a game to absorb special attacks and switch out into its offensive teammates. It can also spread burn and paralysis through Scald and Thunder Wave, respectively, allowing it to provide even more utility to its offensive partners. Something of note here is the ability to use Future Sight to help control what the opponent has to switch in, allowing the user of Slowking to apply even more pressure.</p>\n<p><strong>Tank</strong>: This role takes advantage of Slowking's strong Special Attack to deal lots of damage back to its opponents. With its vast amount of coverage, it will often have a move to be able to hit an offensive threat super effectively while still being able to withstand their hits. These sets prefer items that help make up for the lack of defensive EV investment, such as resistance Berries and Assault Vest. However, Heavy-Duty Boots can still be valuable due to the ubiquitous nature of hazards.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Scald, Surf, Hydro Pump, Future Sight, Psychic, Psyshock, Psychic Noise</p>\n<p><strong>Setup Moves</strong>: Calm Mind, Iron Defense, Amnesia, Nasty Plot</p>\n<p><strong>Utility Moves</strong>: Chilly Reception, Slack Off, Thunder Wave, Yawn</p>\n<p><strong>Coverage</strong>: Flamethrower, Power Gem, Ice Beam, Foul Play, Grass Knot, Shadow Ball, Blizzard, Fire Blast, Focus Blast</p>\n<h3>Niche Moves</h3>\n<p><strong>Trick Room</strong>: Slowking can do one of two things with Trick Room. It can either pivot into its teammates, allowing them to sweep, or it can set Trick Room for itself with damage-boosting options like Life Orb and Nasty Plot.</p>\n<p><strong>Stored Power</strong>: This is a rare but fun option on a Slowking set that uses both Calm Mind and Iron Defense to brutalize opponents. Setting this up, however, is very difficult.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: The quintessential item of any Regenerator pivot, Heavy-Duty Boots allows Slowking to maintain a consistent presence throughout the game in the face of entry hazards. The item works on almost any imaginable Slowking set that could be faced with hazards, as almost every Slowking set is expected to come in multiple times per game. This comes at the cost of passive recovery, but more often than not the effect of this will be negligible.</p>\n<p><strong>Resistance Berries</strong>: These allow Slowking to stay in on pivotal turns to either finish off an opposing threat or safely bring in another teammate with Chilly Reception. The most notable of these is Colbur Berry, as it mitigates Slowking's weakness to Knock Off.</p>\n<h3>Niche Items</h3>\n<p><strong>Assault Vest</strong>: Notable on tank sets, this boosts Slowking's already high Special Defense to astronomical levels to check opposing special attackers even better, trading Chilly Reception and other utility for more coverage.</p>\n<p><strong>Leftovers</strong>: Leftovers should only be run when Slowking will not be faced with entry hazards or if it is absolutely necessary to achieve favorable rolls.</p>\n<p><strong>Damage-boosting Items</strong>: While primarily a defensive Pokemon, Slowking's respectable offensive stats mean that it can benefit well from an item like Choice Specs in the correct matchups. Life Orb can also be viable on Trick Room sets where Slowking is intended to be the main Trick Room attacker.</p>\n<p><strong>Rocky Helmet</strong>: Slowking's usable Defense stat allows it to occasionally use Rocky Helmet to punish physical attackers.</p>\n<h3>Tera</h3>\n<p>Slowking is not a very effective user of Tera, as its natural typing will often be more than enough in most matchups. However, if you so choose, Slowking benefits from Tera types that allow it to neutralize its weaknesses such as Fairy, Grass, and Poison, the latter of which also gives it a Poison immunity. You may also use either Tera Water or Psychic to boost its STAB moves on offensive sets, as Slowking's excellent natural coverage rarely necessitates a different Tera type.</p>\n<h3>Draft Strategy</h3>\n<p>Slowking is primarily a bulky pivot and thus fits well on teams that benefit from its longevity and defensive profile. Pairing it with strong attackers is vital, as it is able to support them well with its ability to pivot and spread status. Defensively, having options to help support its common weaknesses, such as its crippling Knock Off weakness, will also increase its effectiveness.</p>\n<p><strong>Wincons</strong>: As a primarily defensive Pokemon, Slowking will often not be able to close out games on its own, preferring to support powerful cleaners and wallbreakers that appreciate its toolkit. Faster threats like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/iron-valiant/draft/\" hreflang=\"en\">Iron Valiant</a> and heavy hitters like <a href=\"/dex/sv/pokemon/enamorus/draft/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/kyurem/draft/\" hreflang=\"en\">Kyurem</a> are always useful. Kyurem in particular benefits from the Defense boost given by snow set by Slowking's Chilly Reception.</p>\n<p><strong>Defensive Partners</strong>: Slowking is often unable to be a team's sole defensive threat, with notable weaknesses to Dark and Ghost separating it from many of the other bulky Water-types that are commonplace on many teams. Partners like <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/mandibuzz/draft/\" hreflang=\"en\">Mandibuzz</a>, and even <a href=\"/dex/sv/pokemon/zarude/draft/\" hreflang=\"en\">Zarude</a> can help to lift this pressure. Slowking also likes physically bulky Pokemon like <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a> to help support its own lower Defense stat. It is also very good at supporting Ice-weak Pokemon like <a href=\"/dex/sv/pokemon/landorus-therian/draft/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/gliscor/draft/\" hreflang=\"en\">Gliscor</a>.</p>\n<p><strong>Entry Hazard Removal</strong>: While Slowking is comfortable running Heavy-Duty Boots in most matchups, strong hazard removal options such as <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> and Great Tusk can enable it to run other items effectively when needed.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Wallbreakers</strong>: While Slowking has respectable overall bulk, it is vulnerable to many physical and special wallbreakers such as <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a>, <a href=\"/dex/sv/pokemon/chi-yu/draft/\" hreflang=\"en\">Chi-Yu</a>, and Kyurem due to its many notable weaknesses.</p>\n<p><strong>Knock Off</strong>: Compared to many other bulky Water-types, Slowking has a relatively unique weakness to Knock Off, which is even more threatening when paired with its relatively poor Defense.</p>\n<p><strong>Entry Hazards</strong>: If Slowking has lost or forgone Heavy-Duty Boots, its usefulness decreases drastically in the face of hazards, as they limit its healing from Regenerator.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 613399,
+            "username": "Celeste"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 620359,
+                "username": "olivia"
+              },
+              {
+                "user_id": 564960,
+                "username": "Princess Autumn"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 109385,
+                "username": "aurora"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot (Def)",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Pivot",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Slack Off",
+                "type": null
+              },
+              {
+                "move": "Toxic",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 188,
+              "spa": 0,
+              "spd": 68,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    },
+    {
+      "format": "National Dex UU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive Pivot",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>With great special bulk, Regenerator, and Teleport, Slowking is an effective pivot and defensive check to prominent threats like <a href=\"/dex/sv/pokemon/iron-moth/national-dex-uu/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/enamorus/national-dex-uu/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/keldeo/national-dex-uu/\" hreflang=\"en\">Keldeo</a>, being able to switch in against their powerful moves and either bring another teammate to maintain momentum or set up Future Sight and switch out right after. Scald allows Slowking to punish switch-ins like <a href=\"/dex/sv/pokemon/tyranitar/national-dex-uu/\" hreflang=\"en\">Tyranitar</a>, <a href=\"/dex/sv/pokemon/celesteela/national-dex-uu/\" hreflang=\"en\">Celesteela</a>, and <a href=\"/dex/sv/pokemon/tangrowth/national-dex-uu/\" hreflang=\"en\">Tangrowth</a>. Future Sight synergizes well with Teleport by threatening Pokemon like <a href=\"/dex/sv/pokemon/buzzwole/national-dex-uu/\" hreflang=\"en\">Buzzwole</a> and <a href=\"/dex/sv/pokemon/venusaur-mega/national-dex-uu/\" hreflang=\"en\">Mega Venusaur</a> while aiding wallbreakers like <a href=\"/dex/sv/pokemon/scizor/national-dex-uu/\" hreflang=\"en\">Scizor</a>, <a href=\"/dex/sv/pokemon/thundurus/national-dex-uu/\" hreflang=\"en\">Thundurus</a>, and <a href=\"/dex/sv/pokemon/bisharp/national-dex-uu/\" hreflang=\"en\">Bisharp</a> by giving a free entry with Teleport to better pressure the opposing walls in conjunction with Future Sight. The extra damage provided is useful even against neutral or resistant targets like <a href=\"/dex/sv/pokemon/gastrodon/national-dex-uu/\" hreflang=\"en\">Gastrodon</a> and Celesteela. Thunder Wave cripples faster targets like <a href=\"/dex/sv/pokemon/latias-mega/national-dex-uu/\" hreflang=\"en\">Mega Latias</a>, <a href=\"/dex/sv/pokemon/hydreigon/national-dex-uu/\" hreflang=\"en\">Hydreigon</a> and Enamorus. Teleport is preferred over Chilly Reception due to its negative priority, but the latter can be useful to disrupt sand from Tyranitar and <a href=\"/dex/sv/pokemon/hippowdon/national-dex-uu/\" hreflang=\"en\">Hippowdon</a> to prevent <a href=\"/dex/sv/pokemon/excadrill/national-dex-uu/\" hreflang=\"en\">Excadrill</a> from activating Sand Rush. A Sassy nature with 0 Speed IVs is used to ensure Slowking is as slow as possible to possibly switch out after an opposing Teleport user like <a href=\"/dex/sv/pokemon/slowbro/national-dex-uu/\" hreflang=\"en\">Slowbro</a>. Heavy-Duty Boots blocks damage from entry hazards, notably allowing Slowking to better check Choice Specs Enamorus while maximizing recovery from Regenerator. Slowking fits best on balance and bulky offense teams where its defensive and support capabilities are appreciated by both defensive and offensive partners. Ground-types like Hippowdon and Excadrill can block Volt Switch from <a href=\"/dex/sv/pokemon/zeraora/national-dex-uu/\" hreflang=\"en\">Zeraora</a>; in return, Slowking can check Water-types like Keldeo and <a href=\"/dex/sv/pokemon/volcanion/national-dex-uu/\" hreflang=\"en\">Volcanion</a>. Fighting-types are also amazing partners by pressuring Dark-types like Tyranitar and Hydreigon for Slowking while enjoying Future Sight discouraging common switch-ins like Mega Venusaur and <a href=\"/dex/sv/pokemon/clefable/national-dex-uu/\" hreflang=\"en\">Clefable</a>. Tyranitar deserves a special mention, as it usually tries to switch in and Pursuit trap Slowking. Good partners to deal with Dark-types include Buzzwole and <a href=\"/dex/sv/pokemon/mienshao/national-dex-uu/\" hreflang=\"en\">Mienshao</a>. Choice Specs Enamorus can put heavy pressure on Slowking with repeated Moonblasts respectively, making secondary checks like Celesteela and Scizor useful to help with Enamorus while Slowking scouts dangerous moves like Mystical Fire for them. Finally, frail offensive Pokemon like Thundurus and <a href=\"/dex/sv/pokemon/victini/national-dex-uu/\" hreflang=\"en\">Victini</a> enjoy the free entry Slowking provides with Teleport or Chilly Reception. Nasty Plot Thundurus is especially notable by threatening most Dark-types like Tyranitar and Hydreigon with Focus Blast or All-Out Pummeling.</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              },
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 535121,
+            "username": "gu"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 514772,
+                "username": "sealoo"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 356215,
+                "username": "Clouds"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex Monotype",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Specially Defensive (Water)",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/national-dex-analyses.765/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 252,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 508532,
+                "username": "TheShowdownHoedown"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Physically Defensive",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Yawn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              },
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 252,
+              "spa": 4,
+              "spd": 0,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Relaxed"
+          ]
+        },
+        {
+          "name": "Specially Defensive",
+          "pokemon": "Slowking",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>These are sample sets, stay tuned for future updates!</p>",
+          "abilities": [
+            "Regenerator"
+          ],
+          "items": [
+            "Heavy-Duty Boots",
+            "Colbur Berry"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Yawn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Slack Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Teleport",
+                "type": null
+              },
+              {
+                "move": "Chilly Reception",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 52,
+              "spa": 0,
+              "spd": 208,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 0
+            }
+          ],
+          "natures": [
+            "Sassy"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Amnesia",
+    "Avalanche",
+    "Belch",
+    "Belly Drum",
+    "Blizzard",
+    "Block",
+    "Body Slam",
+    "Brick Break",
+    "Bulldoze",
+    "Calm Mind",
+    "Chilling Water",
+    "Chilly Reception",
+    "Confusion",
+    "Curse",
+    "Dig",
+    "Disable",
+    "Drain Punch",
+    "Earthquake",
+    "Endure",
+    "Expanding Force",
+    "Facade",
+    "Fire Blast",
+    "Fire Punch",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Focus Punch",
+    "Foul Play",
+    "Future Sight",
+    "Giga Impact",
+    "Grass Knot",
+    "Growl",
+    "Headbutt",
+    "Heal Pulse",
+    "Helping Hand",
+    "Hydro Pump",
+    "Hyper Beam",
+    "Ice Beam",
+    "Ice Punch",
+    "Icy Wind",
+    "Imprison",
+    "Iron Defense",
+    "Light Screen",
+    "Liquidation",
+    "Metronome",
+    "Muddy Water",
+    "Mud Shot",
+    "Nasty Plot",
+    "Power Gem",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Rock Tomb",
+    "Scald",
+    "Shadow Ball",
+    "Skill Swap",
+    "Slack Off",
+    "Sleep Talk",
+    "Snowscape",
+    "Stomp",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Surf",
+    "Swagger",
+    "Swift",
+    "Tackle",
+    "Take Down",
+    "Tera Blast",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trick",
+    "Trick Room",
+    "Waterfall",
+    "Water Gun",
+    "Water Pulse",
+    "Weather Ball",
+    "Whirlpool",
+    "Yawn",
+    "Zen Headbutt"
+  ]
+}

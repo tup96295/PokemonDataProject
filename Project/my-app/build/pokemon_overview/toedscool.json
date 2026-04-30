@@ -1,0 +1,191 @@
+{
+  "name": "Toedscool",
+  "alias": "toedscool",
+  "types": [
+    "Ground",
+    "Grass"
+  ],
+  "stats": [
+    40,
+    40,
+    35,
+    50,
+    100,
+    70
+  ],
+  "strategies": [
+    {
+      "format": "LC",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "pokemon": "Toedscool",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            5
+          ],
+          "description": "<p>Toedscool is a capable utility option offering role compression, excellent entry hazard control, good coverage, solid Speed, and relevant immunities to both Electric-type attacks and Spore. At 17 Speed, Toedscool is the fastest Pokemon in the tier with access to Rapid Spin. Its Speed, coupled with Knock Off, allows it to consistently cripple switch-ins and make progress against a wide variety of team structures. Dazzling Gleam is a fantastic coverage option to punish common switch-ins like <a href=\"/dex/sv/pokemon/vullaby/lc/\" hreflang=\"en\">Vullaby</a> and faster variants of pivot <a href=\"/dex/sv/pokemon/mienfoo/lc/\" hreflang=\"en\">Mienfoo</a>, both of which can otherwise take advantage of Toedscool’s usual coverage. Spikes is another way for Toedscool to make progress and typically replaces Giga Drain first but can replace Earth Power or Knock Off in rare instances. Toedscool's high Special Defense allows it to check special Electric-types like <a href=\"/dex/sv/pokemon/elekid/lc/\" hreflang=\"en\">Elekid</a>, comfortably taking on its special coverage while preventing it from freely whittling teams down with Volt Switch. The Speed investment lets Toedscool Speed tie with key 17 Speed threats like Mienfoo and <a href=\"/dex/sv/pokemon/chinchou/lc/\" hreflang=\"en\">Chinchou</a>, while its Defense investment allows it to reliably check common physical hazard setters such as <a href=\"/dex/sv/pokemon/mudbray/lc/\" hreflang=\"en\">Mudbray</a> by allowing it to live 2 Close Combats; it also allows Toedscool to live a U-turn from Mienfoo. Tera Water lets Toedscool flip common Ice- and Fire-type matchups, while Tera Fairy offers a more offensive option that enhances Dazzling Gleam and improves its resilience against Dark-types.</p>\n<p>Toedscool fits best on teams that appreciate its utility and defensive profile. <a href=\"/dex/sv/pokemon/mareanie/lc/\" hreflang=\"en\">Mareanie</a> benefits greatly from Toedscool's Electric-type immunity, Ground resistance, ability to remove entry hazards, and immunity to Spore. Flying-type Pokemon like Vullaby and <a href=\"/dex/sv/pokemon/wingull/lc/\" hreflang=\"en\">Wingull</a> also appreciate the Stealth Rock removal and Electric-type immunity. Other Stealth Rock-weak Pokemon, such as <a href=\"/dex/sv/pokemon/growlithe-hisui/lc/\" hreflang=\"en\">Hisuian Growlithe</a>, similarly appreciate Toedscool's hazard removal and Ground resistance. Toedscool is much weaker to Mienfoo and Vullaby, especially when it lacks Dazzling Gleam. Choice Scarf Hisuian Growlithe can OHKO Toedscool with Flare Blitz. Additionally, Pokemon with surprise coverage options, such as Ice Punch Elekid and Ice Hammer <a href=\"/dex/sv/pokemon/tinkatink/lc/\" hreflang=\"en\">Tinkatink</a>, can OHKO Toedscool that attempt to make progress via Spikes, Rapid Spin, or Knock Off. <a href=\"/dex/sv/pokemon/shellos/lc/\" hreflang=\"en\">Shellos</a> walls Ice- and Fire-type attacks while preventing progress from Knock Off with its ability Sticky Hold. Shellos appreciates Toedscool's hazard removal to keep it healthy enough to reliably live attacks from both Mienfoo and Vullaby. Toedscool partners well with Mareanie, which also comfortably absorbs Ice- and Fire-type attacks and switches into Mienfoo. Tinkatink rounds out an excellent core with Mareanie and Toedscool, covering for Toedscool's weaknesses to Vullaby and Mienfoo, stacking hazards with Stealth Rock, and providing speed control with Thunder Wave. Toedscool switches into both Ground-type attacks and Spore for Tinkatink and Mareanie, using these moves to open opportunities to remove entry hazards for the core or make progess with Spikes and Knock Off. <a href=\"/dex/sv/pokemon/glimmet/lc/\" hreflang=\"en\">Glimmet</a> is another notable partner that can absorb Toxic Spikes for Toedscool, set Stealth Rock, and handle Vullaby.</p>",
+          "abilities": [
+            "Mycelium Might"
+          ],
+          "items": [
+            "Eviolite"
+          ],
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Giga Drain",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 36,
+              "atk": 0,
+              "def": 236,
+              "spa": 36,
+              "spd": 0,
+              "spe": 196
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 615880,
+            "username": "xzeroxman"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641532,
+                "username": "bleahey"
+              },
+              {
+                "user_id": 605215,
+                "username": "Flou"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 555379,
+                "username": "Tbolt"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "learnset": [
+    "Absorb",
+    "Acid Spray",
+    "Acupressure",
+    "Bullet Seed",
+    "Celebrate",
+    "Confuse Ray",
+    "Dazzling Gleam",
+    "Earth Power",
+    "Endure",
+    "Energy Ball",
+    "Flash Cannon",
+    "Foul Play",
+    "Giga Drain",
+    "Grass Knot",
+    "Grassy Glide",
+    "Grassy Terrain",
+    "Growth",
+    "Hex",
+    "Knock Off",
+    "Leaf Storm",
+    "Leech Seed",
+    "Light Screen",
+    "Lunge",
+    "Magical Leaf",
+    "Mega Drain",
+    "Mirror Coat",
+    "Mud Shot",
+    "Mud-Slap",
+    "Pain Split",
+    "Poison Powder",
+    "Power Whip",
+    "Protect",
+    "Rage Powder",
+    "Rain Dance",
+    "Rapid Spin",
+    "Reflect",
+    "Rest",
+    "Scary Face",
+    "Screech",
+    "Seed Bomb",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Solar Beam",
+    "Spikes",
+    "Spore",
+    "Stun Spore",
+    "Substitute",
+    "Supersonic",
+    "Swift",
+    "Tackle",
+    "Taunt",
+    "Tera Blast",
+    "Tickle",
+    "Toxic",
+    "Toxic Spikes",
+    "Trailblaze",
+    "Trick Room",
+    "Venoshock",
+    "Wrap"
+  ]
+}

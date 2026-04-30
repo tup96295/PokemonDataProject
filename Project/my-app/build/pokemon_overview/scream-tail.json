@@ -1,0 +1,1415 @@
+{
+  "name": "Scream Tail",
+  "alias": "scream-tail",
+  "types": [
+    "Fairy",
+    "Psychic"
+  ],
+  "stats": [
+    115,
+    65,
+    99,
+    65,
+    115,
+    111
+  ],
+  "strategies": [
+    {
+      "format": "NU",
+      "outdated": null,
+      "overview": "<p>Scream Tail is great as both an offensive and utility Pokemon thanks to its typing, great Speed, and wonderful movepool. Calm Mind Scream Tail is a terrifying wallbreaker; it becomes very hard to KO after a few boosts, and thanks to Booster Energy giving it a free Speed boost, Scream Tail can outspeed faster threats like <a href=\"/dex/sv/pokemon/kilowattrel/nu/\" hreflang=\"en\">Kilowattrel</a> and Choice Scarf <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>. Additionally, Scream Tail's great bulk and typing gives it the ability to handle powerful wallbreakers such as <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, <a href=\"/dex/sv/pokemon/heracross/nu/\" hreflang=\"en\">Heracross</a>, Kilowattrel, and <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>. Its access to Stealth Rock makes it a solid entry hazard lead that can disrupt foes with Encore or Thunder Wave. However, Scream Tail's poor Special Attack makes it easy for special walls like <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, <a href=\"/dex/sv/pokemon/gastrodon/nu/\" hreflang=\"en\">Gastrodon</a>, and <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a> to tank its attacks even after a Calm Mind boost. Scream Tail can also be forced to heal due to repeatedly switching in against moves that it resists from wallbreakers like Heracross, <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a>, and <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Scream Tail can use Disable on both lead and Wish sets, letting it disrupt many setup sweepers and entry hazard leads like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a>, <a href=\"/dex/sv/pokemon/swampert/nu/\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/sv/pokemon/gastrodon/nu/\" hreflang=\"en\">Gastrodon</a>. Perish Song lets it pressure walls and setup sweepers like Gastrodon, <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>, and <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a> that would take advantage of lead Scream Tail while it helps its teammates. Roar can be used on Wish sets to phaze setup sweepers like <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/nu/\" hreflang=\"en\">Paldean Tauros-F</a>, and Porygon-Z. Psyshock lets Scream Tail better handle special walls like <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a> and Gastrodon, while Psychic can be used for its raw power. Tera Dragon can be used to handle Water- and Fire-type attacks from <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>, <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion-M</a>, and <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>. Scream Tail can run a Bulk Up set with Bulk Up / Psychic Fangs / Play Rough / Drain Punch, enabling it to gain the upper hand against its checks like Porygon2 and Gastrodon, but its poor Attack makes the set very niche.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Steel-types</strong>: <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a> can destroy Scream Tail with their Steel-type attacks. Additionally, Copperajah can phaze it, the latter two can set up, and all three of them can set up entry hazards. <a href=\"/dex/sv/pokemon/klefki/nu/\" hreflang=\"en\">Klefki</a> can also threaten Scream Tail with Thunder Wave and set up Spikes. However, none of them enjoy switching directly in against its Fire Blast or Flamethrower.</p>\n<p><strong>Special Walls</strong>: Scream Tail's poor Special Attack makes it easy for special tanks like <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, Porygon2, <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>, and Gastrodon to tank its boosted attacks and threaten it with status or hit it back with their attacks. However, they can be pressured or disrupted by Psychic Noise, Encore, and hazards.</p>\n<p><strong>Ghost-types</strong>: Chandelure, Basculegion-M, <a href=\"/dex/sv/pokemon/brambleghast/nu/\" hreflang=\"en\">Brambleghast</a>, and <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a> can threaten Scream Tail with their attacks, and the latter three can pick it off with priority moves. However, the former two don't enjoy switching into Psychic Noise repeatedly, while the latter two get demolish by Fire Blast, and they all can be setup fodder if Scream Tail uses Tera Normal.</p>",
+      "movesets": [
+        {
+          "name": "Scream 2 (Booster Energy Calm Mind)",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Boomburst is Scream Tail's most powerful attack, which after a Calm Mind boost 2HKOes foes like <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a> and <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a>. Fire Blast allows Scream Tail to hit Steel-types like <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a> that would handle its Boomburst. Alternatively, Flamethrower can be used for its better accuracy, but a +1 boost misses out the ability to 2HKO Bronzong. Psychic Noise lets Scream Tail prevent healing attempts from <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a> and <a href=\"/dex/sv/pokemon/gastrodon/nu/\" hreflang=\"en\">Gastrodon</a> while hitting <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a> neutrally, which it would be walled by otherwise, but Dazzling Gleam allows it to hit Dark-types like <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>. 216 Speed EVs allow Scream Tail to outpace Choice Scarf users like <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a> and Munkidori after activating its Booster Energy. Tera Normal boosts Boomburst, letting it 2HKO foes like <a href=\"/dex/sv/pokemon/kilowattrel/nu/\" hreflang=\"en\">Kilowattrel</a> and <a href=\"/dex/sv/pokemon/tornadus/nu/\" hreflang=\"en\">Tornadus</a>, and it gives Scream Tail a free turn to set up against or attack Ghost-types like Chandelure and <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>, blanking their Shadow Ball, Spirit Shackle, and Shadow Sneak. Tera Fire boosts Fire Blast and Flamethrower, allowing Scream Tail to better handle Steel-types such as Registeel, and the Fairy resistance it gives can help in Calm Mind wars against <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a> and <a href=\"/dex/sv/pokemon/florges/nu/\" hreflang=\"en\">Florges</a>.</p>\n<p>Scream Tail synergizes greatly with wallbreakers and setup sweepers like Flygon, <a href=\"/dex/sv/pokemon/tauros-paldea-blaze/nu/\" hreflang=\"en\">Paldean Tauros-F</a>, Swords Dance <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>, and Bulk Up Tornadus, as they can handle the special walls like Gastrodon, <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a>, and <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a> that stump Scream Tail. In return, it handles the common physical walls that they struggle with like <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a>, and <a href=\"/dex/sv/pokemon/slowbro-galar/nu/\" hreflang=\"en\">Galarian Slowbro</a>. Scream Tail appreciates entry hazard-setting leads like Eject Pack Flygon, Focus Sash <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a>, and Spikes <a href=\"/dex/sv/pokemon/brambleghast/nu/\" hreflang=\"en\">Brambleghast</a>, which let it pressure special tanks like <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a> and Porygon2. Alolan Ninetales can set up Aurora Veil for Scream Tail, giving it more chances to boost and making Scream Tail more difficult to revenge kill. Pokemon like <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>, <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>, <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a>, and <a href=\"/dex/sv/pokemon/cinccino/nu/\" hreflang=\"en\">Cinccino</a> can help it wear down Steel-types like Copperajah and Registeel.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Normal",
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 40,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 216
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Utility",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Encore lets Scream Tail bother setup sweepers and entry hazard setters like the <a href=\"/dex/sv/pokemon/tauros-paldea-combat/nu/\" hreflang=\"en\">Paldean Tauros</a> formes, <a href=\"/dex/sv/pokemon/uxie/nu/\" hreflang=\"en\">Uxie</a>, <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a>, and <a href=\"/dex/sv/pokemon/diancie/nu/\" hreflang=\"en\">Diancie</a>, while Thunder Wave allows Scream Tail to slow down faster Pokemon like <a href=\"/dex/sv/pokemon/munkidori/nu/\" hreflang=\"en\">Munkidori</a> and <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a>. Psychic Noise blocks healing attempts from <a href=\"/dex/sv/pokemon/vaporeon/nu/\" hreflang=\"en\">Vaporeon</a> and <a href=\"/dex/sv/pokemon/gastrodon/nu/\" hreflang=\"en\">Gastrodon</a>, but Dazzling Gleam ensures that it doesn't get easily walled by Dark-types like <a href=\"/dex/sv/pokemon/incineroar/nu/\" hreflang=\"en\">Incineroar</a> and <a href=\"/dex/sv/pokemon/scrafty/nu/\" hreflang=\"en\">Scrafty</a>. Leftovers provides Scream Tail a bit more recovery, whereas Heavy-Duty Boots allows it not to be worn down by hazards. The first EV spread allows Scream Tail to outpace <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, the Paldean Tauros formes, and <a href=\"/dex/sv/pokemon/staraptor/nu/\" hreflang=\"en\">Staraptor</a> while still being bulky, but fully investing in Speed allows it to outspeed Pokemon like <a href=\"/dex/sv/pokemon/infernape/nu/\" hreflang=\"en\">Infernape</a>, <a href=\"/dex/sv/pokemon/ninetales-alola/nu/\" hreflang=\"en\">Alolan Ninetales</a>, and <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>. Tera Steel gives Scream Tail a useful defensive typing, letting it better handle foes like <a href=\"/dex/sv/pokemon/sylveon/nu/\" hreflang=\"en\">Sylveon</a>, <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a>, Munkidori, and <a href=\"/dex/sv/pokemon/porygon-z/nu/\" hreflang=\"en\">Porygon-Z</a>. Tera Poison maintains the useful Fighting-type resistance while giving it a useful immunity to any poison attempts from <a href=\"/dex/sv/pokemon/slowbro-galar/nu/\" hreflang=\"en\">Galarian Slowbro</a>, <a href=\"/dex/sv/pokemon/muk-alola/nu/\" hreflang=\"en\">Alolan Muk</a>, and <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a>. Alternatively, Tera Water lets Scream Tail better handle Water- and Fire-type attacks from Inteleon, <a href=\"/dex/sv/pokemon/basculegion/nu/\" hreflang=\"en\">Basculegion</a>, and <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a> while also giving it a very useful resistance to Ice-type attacks from Alolan Ninetales and <a href=\"/dex/sv/pokemon/sandslash-alola/nu/\" hreflang=\"en\">Alolan Sandslash</a>. Furthermore, it gives Scream Tail the ability to better handle Steel-types like <a href=\"/dex/sv/pokemon/copperajah/nu/\" hreflang=\"en\">Copperajah</a>, <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, and <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a>.</p>\n<p>Physical attackers like Basculegion-M, Choice Band Flygon, and Incineroar can put a lot of pressure on Scream Tail, so it best partners with physical walls such as Amoonguss, <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a>, and Vaporeon to check them. Pokemon like Gligar, Copperajah, and Registeel appreciate Scream Tail's Wish giving them needed recovery. Fighting- and Fire-types like <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a>, <a href=\"/dex/sv/pokemon/flamigo/nu/\" hreflang=\"en\">Flamigo</a>, and Chandelure are good partners for Scream Tail, as they can handle Steel-types such as Copperajah, Bronzong, and <a href=\"/dex/sv/pokemon/duraludon/nu/\" hreflang=\"en\">Duraludon</a>. Leftovers Scream Tail can be pressured by entry hazards; thus, it also partners well with Pokemon such as Scyther, Avalugg, and <a href=\"/dex/sv/pokemon/cinccino/nu/\" hreflang=\"en\">Cinccino</a>, which have hazard removal options. Scream Tail appreciates Dark-types like Incineroar, <a href=\"/dex/sv/pokemon/overqwil/nu/\" hreflang=\"en\">Overqwil</a>, and Alolan Muk, as they can beat Ghost-types like Chandelure, <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a>, and <a href=\"/dex/sv/pokemon/brambleghast/nu/\" hreflang=\"en\">Brambleghast</a>. In return, Scream Tail checks Fighting-types like Flamigo, <a href=\"/dex/sv/pokemon/tauros-paldea-aqua/nu/\" hreflang=\"en\">Paldean Tauros-W</a>, and <a href=\"/dex/sv/pokemon/breloom/nu/\" hreflang=\"en\">Breloom</a>. Steel- and Ice-types like Copperajah, Bronzong, and Avalugg enjoy Scream Tail switching in against Fighting-types such as Paldean Tauros-W and Infernape. Steel-types like Bronzong, Copperajah, and Duraludon can help Scream Tail handle Poison-types like Toxtricity, Galarian Slowbro, and Alolan Muk.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [
+            "Steel",
+            "Poison",
+            "Water"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 88,
+              "spa": 0,
+              "spd": 0,
+              "spe": 168
+            },
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Lead",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<h4>Set Details</h4>\n<p>Thunder Wave slows down faster threats like <a href=\"/dex/sv/pokemon/inteleon/nu/\" hreflang=\"en\">Inteleon</a> and <a href=\"/dex/sv/pokemon/tornadus/nu/\" hreflang=\"en\">Tornadus</a>. Encore gives Scream Tail the ability to cripple setup sweepers like <a href=\"/dex/sv/pokemon/cinccino/nu/\" hreflang=\"en\">Cinccino</a> and <a href=\"/dex/sv/pokemon/scyther/nu/\" hreflang=\"en\">Scyther</a>, while Psychic Noise stops walls like <a href=\"/dex/sv/pokemon/milotic/nu/\" hreflang=\"en\">Milotic</a> and <a href=\"/dex/sv/pokemon/porygon2/nu/\" hreflang=\"en\">Porygon2</a> from healing and threatens Poison-types like <a href=\"/dex/sv/pokemon/toxicroak/nu/\" hreflang=\"en\">Toxicroak</a> and <a href=\"/dex/sv/pokemon/amoonguss/nu/\" hreflang=\"en\">Amoonguss</a>. Misty Explosion prevents entry hazard-removing Pokemon like <a href=\"/dex/sv/pokemon/altaria/nu/\" hreflang=\"en\">Altaria</a>, Cinncino, and Scyther from getting rid of its Stealth Rock while letting it bring in a teammate safely. Tera Ghost lets Scream Tail block Rapid Spin attempts from <a href=\"/dex/sv/pokemon/avalugg/nu/\" hreflang=\"en\">Avalugg</a> and <a href=\"/dex/sv/pokemon/brambleghast/nu/\" hreflang=\"en\">Brambleghast</a>.</p>\n<p>Lead Scream Tail fits perfectly on hyper offense teams, so setup sweepers like Scyther, <a href=\"/dex/sv/pokemon/flygon/nu/\" hreflang=\"en\">Flygon</a>, and <a href=\"/dex/sv/pokemon/toxtricity/nu/\" hreflang=\"en\">Toxtricity</a> are great teammates, as they appreciate its Stealth Rock letting them pressure defensive tanks like Avalugg, <a href=\"/dex/sv/pokemon/gligar/nu/\" hreflang=\"en\">Gligar</a>, and Porygon2 more effectively. Scream Tail's entry hazards can always be removed by Defog Scyther or Rapid Spin users like Brambleghast and <a href=\"/dex/sv/pokemon/tentacruel/nu/\" hreflang=\"en\">Tentacruel</a>; thus, Defog deterrents and spinblockers like <a href=\"/dex/sv/pokemon/kilowattrel/nu/\" hreflang=\"en\">Kilowattrel</a>, Tornadus, <a href=\"/dex/sv/pokemon/chandelure/nu/\" hreflang=\"en\">Chandelure</a>, and <a href=\"/dex/sv/pokemon/decidueye/nu/\" hreflang=\"en\">Decidueye</a> are crucial to handle them. Scream Tail often uses Misty Explosion in front of foes like <a href=\"/dex/sv/pokemon/registeel/nu/\" hreflang=\"en\">Registeel</a> and <a href=\"/dex/sv/pokemon/bronzong/nu/\" hreflang=\"en\">Bronzong</a>, so it appreciates teammates like Toxicroak, Flygon, and Chandelure that can take advantage of Steel-types.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Ghost"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Misty Explosion",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 609709,
+            "username": "Pika134"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 583607,
+                "username": "PowerOfMemes"
+              },
+              {
+                "user_id": 641404,
+                "username": "hammer798"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 649096,
+                "username": "a blue banana"
+              },
+              {
+                "user_id": 144939,
+                "username": "ryan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Monotype",
+      "outdated": "<p>This analysis was uploaded prior to The Indigo Disk release and may contain outdated information.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive Support (Psychic)",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>This is the sample set before we work on <a href=\"https://www.smogon.com/forums/forums/monotype-analyses.762/\">new analyses</a>. This will be updated as the metagame continues to develop. Stay tuned!</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Heavy-Duty Boots"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 4,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 532450,
+                "username": "TheRealBigC"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Battle Stadium Singles",
+      "outdated": "<p>This Pokemon was relevant in Regulation G, but has been banned in the current ruleset, Regulation H. However, Regulation G will be returning in January 2025, where this analysis will be relevant again. Additionally, the sets below have not been updated for Regulation G yet.</p>",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Trick Room Support",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Scream Tail's bulk, Speed, and diverse support options make it a great all-in-one Trick Room support Pokemon.</p>\n</li>\n<li>\n<p><strong>Misty Explosion</strong> : Misty Explosion may limit Scream Tail's offensive reach, but it's key for bringing in sweepers safely after setting Trick Room.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Encore is great at disrupting foes trying to set up in front of Scream Tail.</p>\n</li>\n<li>\n<p><strong>Trick Room Sweepers</strong>: <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/battle-stadium-singles/\" hreflang=\"en\">Ursaluna-B</a> is the most popular partner for Trick Room setups, but other semi-slow sweepers like <a href=\"/dex/sv/pokemon/basculegion/battle-stadium-singles/\" hreflang=\"en\">Basculegion-M</a> can work as well.</p>\n</li>\n<li>\n<p><strong>EV Spread</strong>: The special bulk guarantees that Scream Tail survives Shadow Ball from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/battle-stadium-singles/\" hreflang=\"en\">Flutter Mane</a>. If using Sitrus Berry, the physical bulk guarantees that both formes of Choice Band <a href=\"/dex/sv/pokemon/urshifu/battle-stadium-singles/\" hreflang=\"en\">Urshifu</a> will fail to 2HKO Scream Tail with their signature moves.</p>\n</li>\n</ul>\n<h5>Tera Types</h5>\n<ul>\n<li>\n<p><strong>Tera Dependency - Low</strong>: Scream Tail's bulk and typing make it easy to set up without having to rely on Terastallization.</p>\n</li>\n<li>\n<p><strong>Water</strong>: Tera Water's Steel-type and Fire-type resistances can be key at surviving big attacks from <a href=\"/dex/sv/pokemon/gholdengo/battle-stadium-singles/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/chi-yu/battle-stadium-singles/\" hreflang=\"en\">Chi-Yu</a>.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel can help Scream Tail set up against Tera Flying and Extreme Speed <a href=\"/dex/sv/pokemon/dragonite/battle-stadium-singles/\" hreflang=\"en\">Dragonite</a> while still providing a key Steel-type resistance.</p>\n</li>\n</ul>\n<h5>Items</h5>\n<ul>\n<li>\n<p><strong>Mental Herb</strong>: Taunt Flutter Mane can be a big problem for Scream Tail, but Mental Herb can help guarantee that it gets to set Trick Room at least once.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry's healing can give Scream Tail a stronger chance at getting both Stealth Rock and Trick Room down.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Mental Herb",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Water",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Misty Explosion",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 236,
+              "atk": 0,
+              "def": 236,
+              "spa": 0,
+              "spd": 36,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 516307,
+            "username": "Photon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 29010,
+                "username": "Theorymon"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "BSS Series 2",
+      "outdated": null,
+      "overview": "<p>This new Paradox Pokemon is likely to be relevant in Battle Stadium Singles Series 2. <a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2-paradox-pandemonium-speed-tiers-and-more-inside.3714699/\">For more information on Series 2, check out the resource thread.</a></p>\n<p><a href=\"https://www.smogon.com/forums/threads/battle-stadium-singles-series-2.3715382/\">If you feel that this analysis is missing important information, feel free to leave feedback here.</a></p>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Stealth Rock Support",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Scream Tail's incredible support movepool and bulk makes it a fine Stealth Rock supporter.</p>\n</li>\n<li>\n<p><strong>Thunder Wave versus Fling</strong>: Thunder Wave is the easiest form of paralysis to fit in, but with Light Ball, Fling can paralyze Ground-types such as <a href=\"/dex/sv/pokemon/great-tusk/bss-series-2/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/garchomp/bss-series-2/\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/sv/pokemon/gholdengo/bss-series-2/\" hreflang=\"en\">Gholdengo</a> that lack Covert Cloak, at the cost of leaving Scream Tail extremely vulnerable to Encore. Fling can also get rid of devastating Choice items from Trick users such as <a href=\"/dex/sv/pokemon/rotom-wash/bss-series-2/\" hreflang=\"en\">Rotom-W</a>.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Scream Tail's great Speed tier makes it an especially effective user of Encore, letting it punish foes that attempt to set up, such as <a href=\"/dex/sv/pokemon/roaring-moon/bss-series-2/\" hreflang=\"en\">Roaring Moon</a>.</p>\n</li>\n<li>\n<p><strong>Perish Song</strong>: Perish Song is another way for Scream Tail to threaten setup sweepers such as <a href=\"/dex/sv/pokemon/dragonite/bss-series-2/\" hreflang=\"en\">Dragonite</a>, and it can become a win condition late in the game. It's also a fantastic response to Baton Pass foes such as <a href=\"/dex/sv/pokemon/espathra/bss-series-2/\" hreflang=\"en\">Espathra</a> and opposing Scream Tail.</p>\n</li>\n<li>\n<p><strong>Rock Tomb</strong>: Rock Tomb's additional Speed control is helpful against threats that boost their Speed, such as Dragonite and <a href=\"/dex/sv/pokemon/baxcalibur/bss-series-2/\" hreflang=\"en\">Baxcalibur</a>.</p>\n</li>\n<li>\n<p><strong>Dazzling Gleam</strong>: While a rather weak STAB move, Dazzling Gleam threatening to 2HKO offensive Great Tusk can make it a good way to punish Rapid Spin use.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li>\n<p><strong>Flamethrower</strong>: Flamethrower 2HKOes <a href=\"/dex/sv/pokemon/scizor/bss-series-2/\" hreflang=\"en\">Scizor</a>, though it does not 2HKO Gholdengo, making Recover sets still problematic.</p>\n</li>\n<li>\n<p><strong>Disable</strong>: Disable is particularly apt at ruining Choice item foes that need a specific move to 2HKO Scream Tail, such as Scizor, though compared to Encore, it's less useful against support moves.</p>\n</li>\n<li>\n<p><strong>Psychic Fangs</strong>: In addition to 2HKOing <a href=\"/dex/sv/pokemon/iron-moth/bss-series-2/\" hreflang=\"en\">Iron Moth</a>, Psychic Fangs breaking dual screens can be extremely useful, though this doesn't work against <a href=\"/dex/sv/pokemon/grimmsnarl/bss-series-2/\" hreflang=\"en\">Grimmsnarl</a>.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Normal</strong>: Tera Normal might seem like an underwhelming defensive option, but taking on Ghost-type attacks while avoiding a 2HKO from Gholdengo can be valuable.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel gives a vital Steel resistance and is a great defensive typing in general.</p>\n</li>\n<li>\n<p><strong>Fairy</strong>: Tera Fairy improves Scream Tail's matchup against Dark-types such as <a href=\"/dex/sv/pokemon/hydreigon/bss-series-2/\" hreflang=\"en\">Hydreigon</a>.</p>\n</li>\n<li>\n<p><strong>Fire</strong>: If using Flamethrower, Tera Fire Scream Taill will have a 97.3% chance to 2HKO Tera Steel Scizor, making it an effective lure.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Mental Herb</strong>: Blocking the first use of Taunt makes Scream Tail an extremely reliable setter of Stealth Rock.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: Sitrus Berry is the safest way to increase Scream Tail's longetivity, and it can avoid certain 2HKOs depending on the EV spread, such as that from Choice Specs <a href=\"/dex/sv/pokemon/iron-bundle/bss-series-2/\" hreflang=\"en\">Iron Bundle</a>'s Hydro Pump with specially defensive spreads.</p>\n</li>\n<li>\n<p><strong>Light Ball</strong>: Light Ball is a requirement when using Fling, ensuring Scream Tail can inflict paralysis once and get rid of Choice items with one move.</p>\n</li>\n<li>\n<p><strong>Booster Energy</strong>: Booster Energy being instantly consumed makes Scream Tail less flexible, but boosting Speed lets it outspeed key threats such as <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a>. This item can also be used with bulkier EV spreads to make Scream Tail even bulkier, pulling off incredible stunts such as surviving Timid Choice Specs Gholdengo's Make It Rain.</p>\n</li>\n</ul>\n<h4>EV Spreads</h4>\n<ul>\n<li>\n<p>Scream Tail has an incredible number of viable EV spreads at its disposal: consider these as mere examples rather than all of its viable EV spreads!</p>\n</li>\n<li>\n<p><strong>180 HP / 156 SpD / 172 Spe with Calm or Careful</strong>: This EV spread outspeeds Baxcalibur and Great Tusk and survives Timid Choice Specs Iron Moth's Sludge Wave 93.7% of the time.</p>\n</li>\n<li>\n<p><strong>180 HP / 124 SpD / 204 Spe with Calm or Careful</strong>: The Speed investment outspeeds Jolly <a href=\"/dex/sv/pokemon/annihilape/bss-series-2/\" hreflang=\"en\">Annihilape</a>, and Scream Tail avoids OHKOs from Timid Gholdengo and Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a>.</p>\n</li>\n<li>\n<p><strong>220 HP / 220 Def / 68 SpD with Calm or Careful</strong>: This EV spread avoids an OHKO from Timid Gholdengo's Make It Rain after Stealth Rock damage, and Scream Tail has a 93.7% chance of surviving Tera Steel Scizor's Choice Band Bullet Punch. If outspeeding Baxcalibur and Great Tusk is a must, a Speed-boosting nature and 68 Speed EVs can be used instead.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 SpD / 252 Spe with Timid or Jolly</strong>: With maximum Speed investment, Scream Tail outspeeds not only Iron Moth, but also major Encore targets such as Garchomp and Annihilape.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Mental Herb",
+            "Sitrus Berry",
+            "Light Ball",
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Normal",
+            "Steel",
+            "Fairy"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Fling",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Perish Song",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Perish Song",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 180,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 156,
+              "spe": 172
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Calm",
+            "Timid"
+          ]
+        },
+        {
+          "name": "Baton Pass",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Scream Tail's diverse setup options and bulk make it one of the most unpredictable Baton Pass Pokemon in the metagame.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Encore is perfect for punishing passive play, giving Scream Tail many new setup opportunities.</p>\n</li>\n<li>\n<p><strong>Sing</strong>: Sing is a high-risk, high-reward option to set up in otherwise impossible situations, and it is especially effective with Blunder Policy.</p>\n</li>\n<li>\n<p><strong>Substitute</strong>: Not only is Substitute useful to pass with Baton Pass, but it makes weak Pokemon such as <a href=\"/dex/sv/pokemon/garganacl/bss-series-2/\" hreflang=\"en\">Garganacl</a> into easy setup bait.</p>\n</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li>\n<p><strong>Flamethrower</strong>: When using Calm Mind, Flamethrower can threaten <a href=\"/dex/sv/pokemon/gholdengo/bss-series-2/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/scizor/bss-series-2/\" hreflang=\"en\">Scizor</a>.</p>\n</li>\n<li>\n<p><strong>Psychic Fangs</strong>: Psychic Fangs 2HKOes <a href=\"/dex/sv/pokemon/clodsire/bss-series-2/\" hreflang=\"en\">Clodsire</a> and, after a Bulk Up boost, can OHKO <a href=\"/dex/sv/pokemon/iron-moth/bss-series-2/\" hreflang=\"en\">Iron Moth</a> that don't invest in Defense. However, <a href=\"/dex/sv/pokemon/grimmsnarl/bss-series-2/\" hreflang=\"en\">Grimmsnarl</a> holds back its dual screens-breaking potential.</p>\n</li>\n<li>\n<p><strong>Drain Punch</strong>: Drain Punch gives Scream Tail some offensive presence against <a href=\"/dex/sv/pokemon/kingambit/bss-series-2/\" hreflang=\"en\">Kingambit</a>.</p>\n</li>\n<li>\n<p><strong>Stored Power</strong>: When combined with Calm Mind and Blunder Policy, Stored Power can threaten Unaware walls such as <a href=\"/dex/sv/pokemon/skeledirge/bss-series-2/\" hreflang=\"en\">Skeledirge</a>.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p><strong>Normal</strong>: Tera Normal gets rid of Scream Tail's key weakness to Steel, and it performs well against <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a> and Gholdengo in particular.</p>\n</li>\n<li>\n<p><strong>Steel</strong>: Tera Steel gives Scream Tail a fantastic defensive typing, resisting Scizor's Bullet Punch in particular.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: If Grimmsnarl is particularly problematic for your team, Tera Dark will block its Prankster Taunt from stopping Scream Tail.</p>\n</li>\n</ul>\n<h4>Items</h4>\n<ul>\n<li>\n<p><strong>Mental Herb</strong>: Mental Herb is the most reliable option for getting Baton Pass off against faster Taunt users.</p>\n</li>\n<li>\n<p><strong>Blunder Policy</strong>: When paired with Sing, Scream Tail can pass Speed when Sing misses.</p>\n</li>\n<li>\n<p><strong>Sitrus Berry</strong>: A burst of recovery from Sitrus Berry eases setup in general.</p>\n</li>\n<li>\n<p><strong>Booster Energy</strong>: While it's impossible to pass Protosynthesis boosts via Baton Pass, either outspeeding disruptive foes such as <a href=\"/dex/sv/pokemon/iron-bundle/bss-series-2/\" hreflang=\"en\">Iron Bundle</a>, or surviving Choice Specs holders like Iron Moth and Gholdengo, can be a deadly surprise.</p>\n</li>\n</ul>\n<h4>General EV Spreads</h4>\n<ul>\n<li>\n<p><strong>220 HP / 220 Def / 68 SpD with Careful or Calm</strong>: This EV spread gives Scream Tail enough bulk to survive Timid Gholdengo's Make It Rain after Stealth Rock damage, and it has a 93.7% chance of surviving Tera Steel Choice Band Scizor's Bullet Punch.</p>\n</li>\n<li>\n<p><strong>180 HP / 124 SpD / 204 Spe with Calm or Careful</strong>: This spread outspeeds Jolly <a href=\"/dex/sv/pokemon/annihilape/bss-series-2/\" hreflang=\"en\">Annihilape</a>, and with Blunder Policy, it can even outspeed Booster Energy Iron Bundle after missing Sing. The bulk lets Scream Tail survive a hit from Timid Gholdengo and Choice Specs Flutter Mane after Stealth Rock damage.</p>\n</li>\n<li>\n<p><strong>252 HP / 4 SpD / 252 Spe with Jolly or Timid</strong>: Maximizing Speed lets Scream Tail outspeed high-profile targets such as Iron Moth and <a href=\"/dex/sv/pokemon/garchomp/bss-series-2/\" hreflang=\"en\">Garchomp</a>.</p>\n</li>\n</ul>\n<h4>Blunder Policy-Specific EV Spreads</h4>\n<ul>\n<li>\n<p><strong>220 HP / 220 Def / 4 SpA / 4 SpD / 60 Spe with Careful or Calm</strong>: This spread gives Scream Tail enough bulk to usually survive Tera Steel Choice Band Scizor's Bullet Punch, and it also outspeeds Booster Energy <a href=\"/dex/sv/pokemon/iron-valiant/bss-series-2/\" hreflang=\"en\">Iron Valiant</a> after missing Sing. The remaining 8 EVs can only boost Special Defense and an offensive stat of your choice.</p>\n</li>\n<li>\n<p><strong>180 HP / 212 SpD / 116 Spe with Jolly or Timid</strong> and <strong>180 HP / 100 SpD / 228 Spe with Careful or Calm</strong>: These functionally identical stat spreads let Scream Tail outspeed even Choice Scarf <a href=\"/dex/sv/pokemon/dragapult/bss-series-2/\" hreflang=\"en\">Dragapult</a> after missing Sing! The Special Defense investment lets Scream Tail survive a hit from Timid Gholdengo and Choice Specs Flutter Mane after Stealth Rock damage.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Mental Herb",
+            "Blunder Policy",
+            "Sitrus Berry"
+          ],
+          "teratypes": [
+            "Normal",
+            "Steel"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Baton Pass",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              },
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Sing",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Sing",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 220,
+              "atk": 0,
+              "def": 220,
+              "spa": 0,
+              "spd": 68,
+              "spe": 0
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Careful",
+            "Jolly"
+          ]
+        },
+        {
+          "name": "Dual Screens",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<ul>\n<li>\n<p>Scream Tail's bulk and impressive Speed make it a great dual screens setter.</p>\n</li>\n<li>\n<p><strong>Encore</strong>: Encore punishing setup is extremely valuable considering Scream Tail's passive nature compared to other dual screens setters.</p>\n</li>\n<li>\n<p><strong>Perish Song</strong>: Perish Song can ruin Baton Pass attempts from the likes of <a href=\"/dex/sv/pokemon/espathra/bss-series-2/\" hreflang=\"en\">Espathra</a> or opposing Scream Tail, and it does well against most setup sweepers, except <a href=\"/dex/sv/pokemon/gholdengo/bss-series-2/\" hreflang=\"en\">Gholdengo</a>.</p>\n</li>\n<li>\n<p><strong>Light Clay versus Mental Herb</strong>: Light Clay is the preferred choice, but Mental Herb can save Scream Tail from some particularly difficult users of Taunt such as <a href=\"/dex/sv/pokemon/corviknight/bss-series-2/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/annihilape/bss-series-2/\" hreflang=\"en\">Annihilape</a>.</p>\n</li>\n</ul>\n<h4>Tera Types</h4>\n<ul>\n<li>\n<p>The extreme support focus of this set means that Terastallization should only be used as a last resort, or when it can clearly lead to a win.</p>\n</li>\n<li>\n<p><strong>Normal</strong>: In emergencies, Tera Normal can let Scream Tail set up dual screens against <a href=\"/dex/sv/pokemon/flutter-mane/bss-series-2/\" hreflang=\"en\">Flutter Mane</a> and Gholdengo. Note that Scream Tail is completely passive against Gholdengo, though.</p>\n</li>\n<li>\n<p><strong>Dark</strong>: Tera Dark is a niche answer to Prankster Taunt users such as <a href=\"/dex/sv/pokemon/grimmsnarl/bss-series-2/\" hreflang=\"en\">Grimmsnarl</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Light Clay",
+            "Mental Herb"
+          ],
+          "teratypes": [
+            "Normal",
+            "Dark"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Reflect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Light Screen",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Perish Song",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Perish Song",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 252,
+              "atk": 0,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 29010,
+            "username": "Theorymon"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 265677,
+                "username": "Butch Hardnight"
+              },
+              {
+                "user_id": 528485,
+                "username": "DerpySuX"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 517429,
+                "username": "Adeleine"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation F",
+      "outdated": null,
+      "overview": "<ul>\n<li>\n<p>Scream Tail has strong supportive moves such as Encore and Disable, which it can consistently use to disrupt opposing Pokemon thanks to its great natural bulk and Speed.</p>\n</li>\n<li>\n<p>Scream Tail works well alongside Pokemon such as <a href=\"/dex/sv/pokemon/gholdengo/vgc24-regulation-f/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/vgc24-regulation-f/\" hreflang=\"en\">Ogerpon-W</a>, as it can punish passive plays and shut down Choice-locked threats such as opposing <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> and <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a>, locking them into resisted Fairy- and Water-type attacks for Gholdengo and Ogerpon-W, respectively.</p>\n</li>\n<li>\n<p>Scream Tail cannot provide any offensive pressure outside Dazzling Gleam and hence is completely reliant on its partners to deal damage. It is also vulnerable to being shut down by moves such as Taunt from <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-f/\" hreflang=\"en\">Tornadus</a> and Spore from <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>. Scream Tail struggles against Gholdengo, which completely counters Scream Tail by being immune to status moves thanks to Good as Gold.</p>\n</li>\n</ul>",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Support",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<ul>\n<li>\n<p>Booster Energy allows Scream Tail to outspeed most of the metagame and launch fast Encores and Disables.</p>\n</li>\n<li>\n<p>Dazzling Gleam is used to chip low-health targets. Disable and Encore are great supportive tools to disrupt foes and can punish passive play.</p>\n</li>\n<li>\n<p>The EV spread allows it to survive Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-f/\" hreflang=\"en\">Flutter Mane</a> Shadow Ball while comfortably taking a Tera Water Surging Strikes from <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-R</a> and Tera Dark Wicked Blow from <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-f/\" hreflang=\"en\">Urshifu-S</a>.</p>\n</li>\n<li>\n<p>Tera Dark is preferred for Prankster Taunt immunity and a Ghost resistance. Alternatively, Tera Grass can be used to provide immunity to powder moves from <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-f/\" hreflang=\"en\">Amoonguss</a>.</p>\n</li>\n</ul>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Dark",
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Disable",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 148,
+              "spa": 4,
+              "spd": 28,
+              "spe": 100
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 641757,
+            "username": "fyfyy"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 558405,
+                "username": "SoulboyVGC"
+              },
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 470115,
+                "username": "SolarBeam"
+              },
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "VGC24 Regulation G",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Disruption",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [
+            50
+          ],
+          "description": "<p>Scream Tail is a bulky support Pokemon that uses its high Speed and disruption moves to punish opponents that hamper setup from Scream Tail's teammates. Encore allows Scream Tail to lock foes into passive moves such as Protect, Fake Out, and Taunt, giving its teammates opportunities to setup or attack as well as discouraging opponents from using the latter two moves to hinder setup. Disable is used similarly but can instead prevent opponents from going for attacks that would hit Scream Tail or its partners for large amounts of damage; Encore also disables moves that Pokemon are forced to use, either through Choice items or Scream Tail using Encore. Dazzling Gleam and Play Rough give Scream Tail a way to deal chip damage: Dazzling Gleam can bypass redirection from Pokemon like <a href=\"/dex/sv/pokemon/amoonguss/vgc24-regulation-g/\" hreflang=\"en\">Amoonguss</a>, while Play Rough can hit Pokemon such as <a href=\"/dex/sv/pokemon/pelipper/vgc24-regulation-g/\" hreflang=\"en\">Pelipper</a> that use Wide Guard; both also potentially break a Focus Sash. Booster Energy allows Scream Tail to outspeed Pokemon like <a href=\"/dex/sv/pokemon/calyrex-shadow/vgc24-regulation-g/\" hreflang=\"en\">Calyrex-S</a> and Choice Scarf <a href=\"/dex/sv/pokemon/urshifu-rapid-strike/vgc24-regulation-g/\" hreflang=\"en\">Urshifu-R</a> and threaten to use Disable and Encore. The Special Defense EVs allow Scream Tail to survive Calyrex-S's Astral Barrage or a Shadow Ball from Choice Specs <a href=\"/dex/sv/pokemon/flutter-mane/vgc24-regulation-g/\" hreflang=\"en\">Flutter Mane</a>, while the Defense EVs let Scream Tail almost always survive one Wood Hammer from Choice Band <a href=\"/dex/sv/pokemon/rillaboom/vgc24-regulation-g/\" hreflang=\"en\">Rillaboom</a>. The Speed EVs let Scream Tail outspeed Adamant Choice Scarf <a href=\"/dex/sv/pokemon/urshifu/vgc24-regulation-g/\" hreflang=\"en\">Urshifu</a> as well as Calyrex-S. Tera Grass allows Scream Tail to become immune to Spore and Rage Powder from Amoonguss.</p>\n<p>Scream Tail partners well with <a href=\"/dex/sv/pokemon/terapagos/vgc24-regulation-g/\" hreflang=\"en\">Terapagos</a> because it is a bulky setup sweeper that benefits from Scream Tail slowing down the pace of the game and discouraging opponents from using Fake Out, Taunt, and other moves that would prevent it from setting up Calm Mind. <a href=\"/dex/sv/pokemon/raging-bolt/vgc24-regulation-g/\" hreflang=\"en\">Raging Bolt</a>, Rillaboom, and <a href=\"/dex/sv/pokemon/incineroar/vgc24-regulation-g/\" hreflang=\"en\">Incineroar</a> are strong with Scream Tail, as it discourages opponents from using Protect in front of Protect, Grassy Glide, and Fake Out, respectively. Scream Tail struggles against Pokemon that carry Taunt, such as Incineroar and <a href=\"/dex/sv/pokemon/tornadus/vgc24-regulation-g/\" hreflang=\"en\">Tornadus</a>, as they make it functionally useless and force Scream Tail to switch out, burning its Booster Energy. It is also extremely passive and reliant on its teammates to cover for its lack of damage output.</p>",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Grass"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Disable",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 228,
+              "atk": 0,
+              "def": 148,
+              "spa": 4,
+              "spd": 28,
+              "spe": 100
+            }
+          ],
+          "ivconfigs": [],
+          "natures": [
+            "Timid",
+            "Jolly"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 645750,
+            "username": "iPetBigfoot"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 641287,
+                "username": "ValiantValerie"
+              },
+              {
+                "user_id": 646006,
+                "username": "Choruto"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 197240,
+                "username": "sunny"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Almost Any Ability",
+      "outdated": null,
+      "overview": "",
+      "comments": "<h3>Other Options</h3>\n<p>Calm Mind lets Scream Tail become a threatening setup sweeper, letting it 2HKO RegenVest <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> at +2 while also allowing it to potentially outlast switch-ins like <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/moltres/almost-any-ability/\" hreflang=\"en\">Moltres</a>. Unaware + Calm Mind is a solid strategy on hyper offense teams to let Scream Tail set up and obliterate the foe with Stored Power and destroy <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a> and <a href=\"/dex/sv/pokemon/chien-pao/almost-any-ability/\" hreflang=\"en\">Chien-Pao</a> with Dazzling Gleam. Fire Blast or Flamethrower allow Scream Tail to break through Steel-types like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a> that it usually struggles against. Choice Specs lets Scream Tail 3HKO RegenVest Manaphy and Swampert while 2HKOing them without their Assault Vest, but Scream Tail usually prefers not to use a Choice item due to its wide variety of utility moves.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Steel-types</strong>: Steel-types like Iron Treads, <a href=\"/dex/sv/pokemon/heatran/almost-any-ability/\" hreflang=\"en\">Heatran</a>, and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> resist both Boomburst and Psychic Noise and can threaten Scream Tail with their STAB moves.</p>\n<p><strong>Specially Defensive Pokemon</strong>: RegenVest Swampert and Manaphy can switch into Scream Tail with ease and easily pivot out to an offensive threat.</p>\n<p><strong>Fast Offensive Threats</strong>: Without a Choice Scarf, Scream Tail gets outsped and OHKOed by <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a>, Choice Scarf Gholdengo, and Choice Band Roaring Moon.</p>",
+      "movesets": [
+        {
+          "name": "Pixilate",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "<p>Thanks to its fantastic utility movepool, solid defensive stats and typing, and access to Boomburst + Pixilate, Scream Tail functions as a strong attacker, Stealth Rock setter, and decent defensive switch-in to threats like <a href=\"/dex/sv/pokemon/iron-hands/almost-any-ability/\" hreflang=\"en\">Iron Hands</a>, <a href=\"/dex/sv/pokemon/latios/almost-any-ability/\" hreflang=\"en\">Latios</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/almost-any-ability/\" hreflang=\"en\">Deoxys-S</a>. Boomburst + Pixilate enables Scream Tail to deal considerable damage, 2HKOing common threats like <a href=\"/dex/sv/pokemon/zapdos/almost-any-ability/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/kingambit/almost-any-ability/\" hreflang=\"en\">Kingambit</a>, and RegenVest Iron Hands while bypassing Substitute from <a href=\"/dex/sv/pokemon/zamazenta/almost-any-ability/\" hreflang=\"en\">Zamazenta</a> and OHKOing it. Psychic Noise hits <a href=\"/dex/sv/pokemon/iron-moth/almost-any-ability/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/pecharunt/almost-any-ability/\" hreflang=\"en\">Pecharunt</a> on top of preventing switch-ins like <a href=\"/dex/sv/pokemon/corviknight/almost-any-ability/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/gholdengo/almost-any-ability/\" hreflang=\"en\">Gholdengo</a> from healing; however, Stealth Rock is also an option. Wish grants Scream Tail longevity as well as letting it heal partners low on HP. Protect lets it guarantee healing from Wish, heal more from Leftovers, and scout the move that dangerous Choice item attackers like Gholdengo, <a href=\"/dex/sv/pokemon/roaring-moon/almost-any-ability/\" hreflang=\"en\">Roaring Moon</a>, and Zamazenta are using. Trick should be used exclusively on Choice Scarf sets to punish switch-ins like RegenVest <a href=\"/dex/sv/pokemon/swampert/almost-any-ability/\" hreflang=\"en\">Swampert</a> and <a href=\"/dex/sv/pokemon/manaphy/almost-any-ability/\" hreflang=\"en\">Manaphy</a> as well as <a href=\"/dex/sv/pokemon/iron-treads/almost-any-ability/\" hreflang=\"en\">Iron Treads</a> and Corviknight, benefiting other special wallbreakers like Gholdengo and Latios. Leftovers provides Scream Tail with extra longevity, Heavy-Duty Boots prevents chip damage from entry hazards, and Choice Scarf gives it valuable speed control, letting it outspeed non-Choice Scarf Roaring Moon, Zamazenta, and Deoxys-S.</p>\n<p>Scream Tail is best suited for bulky offense and balance teams that make use of its offensive and defensive utility as well as its ability to set Stealth Rock and threaten or sit on most entry hazard removers with ease. Teammates that lack longevity like non-Regenerator <a href=\"/dex/sv/pokemon/great-tusk/almost-any-ability/\" hreflang=\"en\">Great Tusk</a>, the <a href=\"/dex/sv/pokemon/landorus/almost-any-ability/\" hreflang=\"en\">Landorus</a> formes, and Iron Treads appreciate Scream Tail for its ability to provide them healing with Wish. Teammates like Gholdengo and Iron moth that struggle with removing RegenVest Iron Hands and Roaring Moon benefit from Scream Tail being able to easily beat them with Boomburst; in return, Gholdengo and Iron Moth can threaten opposing Gholdengo, Iron Treads, and Assault Vest <a href=\"/dex/sv/pokemon/iron-crown/almost-any-ability/\" hreflang=\"en\">Iron Crown</a>. Knock Off users like Roaring Moon, Great Tusk, and Manaphy can help Scream Tail by removing Assault Vest from Swampert and opposing Manaphy, letting it 3HKO them. Scream Tail is threatened by entry hazards if it is not running Heavy-Duty Boots, so it requires an entry hazard remover like Corviknight, Great Tusk, or Iron Treads.</p>",
+          "abilities": [
+            "Pixilate"
+          ],
+          "items": [
+            "Leftovers",
+            "Heavy-Duty Boots",
+            "Choice Scarf"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 4,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 652656,
+            "username": "Gambit"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 539679,
+                "username": "GlalieGoesBoom"
+              },
+              {
+                "user_id": 580765,
+                "username": "cat"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 384270,
+                "username": "autumn"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Draft",
+      "outdated": null,
+      "overview": "<p><strong>Draft Order</strong>: Round 4 onward</p>\n<p><strong>Price Range</strong>: 11-12 points</p>\n<p><strong>Overview</strong>: Scream Tail serves as a solid support option with its incredible Speed, solid bulk, and typing. It has access to a wide variety of support moves that can help shut down powerful threats on opposing teams, helping and enabling its own teammates. However, its very low Attack makes it overly reliant on its disruption moves, meaning it must rely on other teammates to deal damage.</p>",
+      "comments": "<h3>Common Roles</h3>\n<p><strong>Fast Disruption</strong>: Scream Tail's excellent Speed combined with its natural bulk allows it to outspeed opposing threats and disrupt them with Encore or Thunder Wave. Its natural bulk allows it to easily take hits even with a lot of Speed investment. Booster Energy can be used to outspeed and disrupt Speed-boosting Pokemon such as Dragon Dance users.</p>\n<p><strong>Bulky Support</strong>: With its fast Speed and solid defenses, Scream Tail is an excellent switch-in for opposing wallbreakers. It can disrupt and take advantage of them with Encore as well, especially since it can outspeed many Pokemon even with minimal investment. It can support teammates with its own Wish, set up entry hazards with Stealth Rock, and can use STAB moves or coverage to deal damage to foes.</p>\n<p><strong>Setup Sweeper</strong>: Scream Tail can set up physically or specially with Bulk Up or Calm Mind, respectively. Its low offensive stats require lots of setup to deal real damage, but its defenses can allow it to take hits from many Pokemon.</p>\n<h3>Common Moves</h3>\n<p><strong>Primary STAB Moves</strong>: Dazzling Gleam, Play Rough, Psychic, Psyshock, Psychic Noise, Psychic Fangs, Stored Power</p>\n<p><strong>Setup Moves</strong>: Bulk Up, Calm Mind</p>\n<p><strong>Utility Moves</strong>: Encore, Wish, Protect, Stealth Rock, Roar, Light Screen, Reflect, Thunder Wave</p>\n<p><strong>Coverage</strong>: Crunch, Drain Punch, Flamethrower, Fire Blast, Fire Punch, Focus Blast, Grass Knot, Ice Beam, Ice Punch, Stomping Tantrum, Thunderbolt, Thunder Punch</p>\n<h3>Niche Moves</h3>\n<p><strong>Trick</strong>: Scream Tail can utilize Trick with Choice items to stop setup sweepers in their tracks or hinder incoming checks. It can also use items such as Lagging Tail or Sticky Barb in niche scenarios.</p>\n<p><strong>Imprison</strong>: Imprison can mainly be used on Scream Tail to stop foes from setting Stealth Rock or providing Wish support.</p>\n<p><strong>Fake Tears</strong>: Fake Tears weakens incoming special walls, allowing Scream Tail to break through them more easily despite its below average Special Attack.</p>\n<p><strong>Misty Explosion</strong>: Misty Explosion serves as a way to deal a solid amount of damage while also knocking out Scream Tail, allowing you to quickly pivot into a different Pokemon.</p>\n<p><strong>Trick Room</strong>: While Scream Tail does not benefit from Trick Room, it can be used to support slower threats that appreciate it more.</p>\n<h3>Common Items</h3>\n<p><strong>Heavy-Duty Boots</strong>: In matchups where Scream Tail frequently switches in to counter opposing wallbreakers, Heavy-Duty Boots is valuable to avoid entry hazard damage.</p>\n<p><strong>Leftovers</strong>: Leftovers is good for passive recovery, especially on a Pokemon that takes very little damage from many attacks. It also synergizes well with Protect, which is often run on Scream Tail alongside Wish.</p>\n<p><strong>Booster Energy</strong>: Booster Energy can give Scream Tail a Speed boost to outspeed opposing setup sweepers or a Defense or Special Defense boost to counter wallbreakers that would otherwise be problematic.</p>\n<p><strong>Rocky Helmet</strong>: Scream Tail can use Rocky Helmet to deal additional chip damage to physical wallbreakers and pivots.</p>\n<h3>Niche Items</h3>\n<p><strong>Resistance Berry</strong>: Resistance Berries, such as Kebia and Babiri Berries, serve as a one-time check to specific attacks.</p>\n<p><strong>Eject Button</strong>: Eject Button lets Scream Tail take an attack and quickly pivot to maintain momentum. It can also prevent foes from pivoting on it and maintaining their own momentum.</p>\n<p><strong>Red Card</strong>: Red Card can force out a setup sweeper without having to rely on Encore or Thunder Wave to hinder or disrupt it.</p>\n<p><strong>Mental Herb</strong>: While it typically outspeeds most Taunt and Encore users, being disrupted renders Scream Tail useless against most Pokemon. Mental Herb can be valuable, as Scream Tail heavily relies on its support moves to be a valuable teammate.</p>\n<h3>Tera</h3>\n<p>As Scream Tail is relatively weak and serves mostly as a support Pokemon, it does not benefit very much from being a Tera Captain. It would most often utiliize a defensive Tera type, such as Tera Water or Steel, to counter wallbreakers or setup sweepers and shut them down with Encore or other forms of disruption. It could utilize more offensive Tera types, like Tera Fighting, in matchups where a setup set seems viable.</p>\n<h3>Draft Strategy</h3>\n<p>Scream Tail serves best as a defensive wall that stops opposing threats and supports the rest of its team. It will not gain very many KOs on most teams and should not be the main focus of a draft; rather, it should be drafted to support current teammates and cover their weaknesses.</p>\n<p><strong>Wallbreakers</strong>: Scream Tail lacks offensive power, meaning it relies on strong wallbreakers to back it up. This can include faster Pokemon, like <a href=\"/dex/sv/pokemon/meowscarada/draft/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/greninja/draft/\" hreflang=\"en\">Greninja</a>, or slower, bulky wallbreakers like <a href=\"/dex/sv/pokemon/iron-hands/draft/\" hreflang=\"en\">Iron Hands</a> and <a href=\"/dex/sv/pokemon/great-tusk/draft/\" hreflang=\"en\">Great Tusk</a>.</p>\n<p><strong>Fighting- and Ground-types</strong>: Scream Tail's STAB combination gets walled by Steel-types, forcing it to either run Fire-type coverage, taking away from its support movepool, or become a sitting duck against them. Being able to bring in a Fighting-type like <a href=\"/dex/sv/pokemon/urshifu/draft/\" hreflang=\"en\">Urshifu-S</a> or a Ground-type like <a href=\"/dex/sv/pokemon/ursaluna-bloodmoon/draft/\" hreflang=\"en\">Ursaluna-B</a> helps keep offensive pressure against Steel-types.</p>\n<p><strong>Entry Hazard Support</strong>: Scream Tail frequently switches into wallbreakers and wants to be as healthy as possible, meaning it's important to have a good hazard removal option, such as <a href=\"/dex/sv/pokemon/terapagos/draft/\" hreflang=\"en\">Terapagos</a> or Great Tusk, to avoid entry hazard chip damage.</p>\n<h3>Checks and Counters</h3>\n<p><strong>Steel-types</strong>: Steel-types can completely wall Scream Tail's STAB moves, forcing it to run weak coverage or switch out to deal any damage back. Examples include <a href=\"/dex/sv/pokemon/corviknight/draft/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/heatran/draft/\" hreflang=\"en\">Heatran</a>.</p>\n<p><strong>Bulky Walls</strong>: Scream Tail cannot deal very much damage, allowing many bulky walls to take advantage of it, such as <a href=\"/dex/sv/pokemon/slowking-galar/draft/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/ting-lu/draft/\" hreflang=\"en\">Ting-Lu</a>.</p>\n<p><strong>Poison-types</strong>: While Scream Tail can hit Poison-types with super effective STAB coverage, it does not want to run Psychic-type coverage very often, considering all the support it would rather have. Additionally, Poison-types can weaken it with strong attacks, and most can put it on a timer with Toxic. Notable Poison-types include <a href=\"/dex/sv/pokemon/glimmora/draft/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/clodsire/draft/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/overqwil/draft/\" hreflang=\"en\">Overqwil</a>.</p>\n<p><strong>Status</strong>: Scream Tail relies on being healthy to take strong hits while being able to recover with Wish and Protect. Toxic specifically puts it on a timer and forces it to switch out while also taking away from its healing power. Burn and poison also deal passive damage that Scream Tail does not like, and Thunder Wave can severely hinder its Speed, making it harder to utilize Encore or other forms of support.</p>\n<p><strong>Mental Herb</strong>: Scream Tail very frequently uses Encore to stop setup sweepers, especially if they take little damage from its own attacks. Mental Herb can allow these sweepers another turn to set up if they're faster or to switch out of their setup move if they're slower. Examples include <a href=\"/dex/sv/pokemon/gouging-fire/draft/\" hreflang=\"en\">Gouging Fire</a>, <a href=\"/dex/sv/pokemon/baxcalibur/draft/\" hreflang=\"en\">Baxcalibur</a>, and Ursaluna-B.</p>",
+      "movesets": [],
+      "credits": {
+        "writtenBy": [
+          {
+            "user_id": 527276,
+            "username": "Techno"
+          }
+        ],
+        "teams": [
+          {
+            "name": "Quality checked by",
+            "members": [
+              {
+                "user_id": 387847,
+                "username": "Hacker"
+              },
+              {
+                "user_id": 466715,
+                "username": "sablolol"
+              }
+            ]
+          },
+          {
+            "name": "Grammar checked by",
+            "members": [
+              {
+                "user_id": 594478,
+                "username": "ken"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "Godly Gift",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Boomburst Sweeper (SpA)",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Normal"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Boomburst",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 4,
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        },
+        {
+          "name": "Calm Mind Sweeper (SpA)",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Booster Energy"
+          ],
+          "teratypes": [
+            "Fire"
+          ],
+          "moveslots": [
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 0,
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": [
+          {
+            "name": "Set(s) by",
+            "members": [
+              {
+                "user_id": 563422,
+                "username": "SammyCe123"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "format": "National Dex RU",
+      "outdated": null,
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wish Passer",
+          "pokemon": "Scream Tail",
+          "shiny": false,
+          "gender": "DC",
+          "levels": [],
+          "description": "",
+          "abilities": [
+            "Protosynthesis"
+          ],
+          "items": [
+            "Leftovers"
+          ],
+          "teratypes": [],
+          "moveslots": [
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Psychic",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "evconfigs": [
+            {
+              "hp": 248,
+              "atk": 0,
+              "def": 8,
+              "spa": 0,
+              "spd": 0,
+              "spe": 252
+            }
+          ],
+          "ivconfigs": [
+            {
+              "hp": 31,
+              "atk": 0,
+              "def": 31,
+              "spa": 31,
+              "spd": 31,
+              "spe": 31
+            }
+          ],
+          "natures": [
+            "Timid"
+          ]
+        }
+      ],
+      "credits": {
+        "writtenBy": [],
+        "teams": []
+      }
+    }
+  ],
+  "learnset": [
+    "Amnesia",
+    "Baton Pass",
+    "Bite",
+    "Blizzard",
+    "Body Slam",
+    "Boomburst",
+    "Bulk Up",
+    "Calm Mind",
+    "Crunch",
+    "Dazzling Gleam",
+    "Dig",
+    "Disable",
+    "Double-Edge",
+    "Drain Punch",
+    "Encore",
+    "Endure",
+    "Expanding Force",
+    "Facade",
+    "Fake Tears",
+    "Fire Blast",
+    "Fire Fang",
+    "Fire Punch",
+    "Flamethrower",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Grass Knot",
+    "Gyro Ball",
+    "Helping Hand",
+    "Howl",
+    "Hyper Beam",
+    "Hyper Voice",
+    "Ice Beam",
+    "Ice Fang",
+    "Ice Punch",
+    "Imprison",
+    "Light Screen",
+    "Metronome",
+    "Misty Explosion",
+    "Misty Terrain",
+    "Noble Roar",
+    "Perish Song",
+    "Play Rough",
+    "Pound",
+    "Protect",
+    "Psybeam",
+    "Psychic",
+    "Psychic Fangs",
+    "Psychic Noise",
+    "Psychic Terrain",
+    "Psych Up",
+    "Psyshock",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Roar",
+    "Rock Tomb",
+    "Sandstorm",
+    "Scary Face",
+    "Sing",
+    "Sleep Talk",
+    "Snowscape",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Stored Power",
+    "Substitute",
+    "Sunny Day",
+    "Take Down",
+    "Tera Blast",
+    "Thunder",
+    "Thunderbolt",
+    "Thunder Fang",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Trick",
+    "Trick Room",
+    "Uproar",
+    "Water Pulse",
+    "Wish",
+    "Zen Headbutt"
+  ]
+}
